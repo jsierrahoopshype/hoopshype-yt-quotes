@@ -128,7 +128,12 @@ def find_existing_artifact(video_id: str) -> Path | None:
 # --------------------------------------------------------------------------- #
 
 def fetch_channel_videos(channel_id: str) -> list:
-    """Return a list of {video_id, url, title, published} for the channel."""
+    """Return a list of {video_id, url, title, published, duration} for the channel.
+
+    Duration is parsed from media:content's duration attribute when present.
+    Many YouTube RSS feeds include it, which lets us avoid any per-video
+    network call for the duration filter.
+    """
     url = RSS_URL_TEMPLATE.format(channel_id=channel_id)
     resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
     resp.raise_for_status()
@@ -143,16 +148,29 @@ def fetch_channel_videos(channel_id: str) -> list:
             "url": f"https://www.youtube.com/watch?v={vid}",
             "title": entry.get("title", ""),
             "published": entry.get("published", ""),
+            "duration": _duration_from_entry(entry),
         })
     return videos
+
+
+def _duration_from_entry(entry) -> int | None:
+    for mc in entry.get("media_content") or []:
+        d = mc.get("duration")
+        if d is None:
+            continue
+        try:
+            return int(float(d))
+        except (TypeError, ValueError):
+            continue
+    return None
 
 
 def fetch_duration_seconds(video_id: str) -> int | None:
     """Return the video's duration in seconds, or None if it cannot be determined.
 
-    Tries a lightweight scrape of the watch page first (very fast). Falls back
-    to yt-dlp metadata extraction, which is slower but doesn't break when
-    YouTube changes their HTML.
+    Falls back from a fast watch-page scrape to yt-dlp metadata extraction.
+    The RSS-feed duration is preferred and is checked at the call site, so
+    this function is only used when the feed didn't include one.
     """
     secs = _duration_via_scrape(video_id)
     if secs is not None:
@@ -177,6 +195,11 @@ def _duration_via_scrape(video_id: str) -> int | None:
         return None
 
 
+def _ytdlp_browser_cookies():
+    name = (os.getenv("YTDLP_BROWSER") or "").strip()
+    return (name,) if name else None
+
+
 def _duration_via_ytdlp(video_id: str) -> int | None:
     try:
         import yt_dlp  # imported lazily so the script still runs without it
@@ -189,6 +212,9 @@ def _duration_via_ytdlp(video_id: str) -> int | None:
         "skip_download": True,
         "noplaylist": True,
     }
+    cookies = _ytdlp_browser_cookies()
+    if cookies:
+        opts["cookiesfrombrowser"] = cookies
     try:
         with yt_dlp.YoutubeDL(opts) as ydl:
             info = ydl.extract_info(
@@ -335,7 +361,9 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     if kw:
         return f"title contains '{kw}'"
 
-    duration = fetch_duration_seconds(video["video_id"])
+    duration = video.get("duration")
+    if duration is None:
+        duration = fetch_duration_seconds(video["video_id"])
     if duration is None:
         return "duration unknown"
     min_seconds = int(config.get("min_duration_minutes", 15)) * 60

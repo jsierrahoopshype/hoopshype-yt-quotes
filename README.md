@@ -57,6 +57,14 @@ notepad .env
 
 Paste your Gemini API key after `GEMINI_API_KEY=` and save. Close Notepad.
 
+**Optional but recommended on Windows**: also set `YTDLP_BROWSER=chrome` in
+`.env`. This is only used when the RSS feed and HTML scrape can't determine a
+video's duration. In that case the script falls back to `yt-dlp`, and YouTube
+now blocks unauthenticated metadata lookups with "Sign in to confirm you're
+not a bot." Pointing yt-dlp at your logged-in Chrome session bypasses this.
+Other accepted values: `firefox`, `edge`, `brave`, `safari`, `vivaldi`. Leave
+empty when running on GitHub Actions (we'll handle that in phase 3).
+
 ---
 
 ## Add channels
@@ -136,9 +144,13 @@ Before sending to Gemini, a video is skipped if **any** of these are true:
 - The title contains any keyword from `skip_title_keywords` in `channels.json`
   ("highlights", "full game", "top 10", etc.).
 - The video is shorter than `min_duration_minutes` (default 15). Duration is
-  fetched first via a lightweight scrape of the watch page; if that fails, the
-  script falls back to `yt-dlp` (metadata only, no download). If both fail, the
-  video is skipped to be safe.
+  resolved in this order:
+  1. The `media:content` `duration` attribute in the RSS feed (free, already
+     fetched).
+  2. A lightweight HTML scrape of the watch page for `lengthSeconds`.
+  3. `yt-dlp` metadata extraction (no download). If `YTDLP_BROWSER` is set,
+     yt-dlp uses cookies from that browser's logged-in session.
+  4. Skip the video.
 
 Channels marked `bypass_filters: true` skip everything except the duplicate
 check.

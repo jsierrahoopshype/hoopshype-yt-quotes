@@ -9,10 +9,14 @@ Usage:
 It prints the channel_id and a JSON snippet you can paste into channels.json.
 """
 
+import os
 import re
 import sys
 
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -87,6 +91,9 @@ def _resolve_via_ytdlp(url: str) -> tuple[str, str]:
         "extract_flat": True,
         "playlistend": 1,
     }
+    browser = (os.getenv("YTDLP_BROWSER") or "").strip()
+    if browser:
+        opts["cookiesfrombrowser"] = (browser,)
     try:
         with yt_dlp.YoutubeDL(opts) as ydl:
             info = ydl.extract_info(videos_url, download=False)
