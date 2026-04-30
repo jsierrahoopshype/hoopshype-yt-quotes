@@ -148,7 +148,19 @@ def fetch_channel_videos(channel_id: str) -> list:
 
 
 def fetch_duration_seconds(video_id: str) -> int | None:
-    """Scrape the watch page for "lengthSeconds":"NNN". Returns None on failure."""
+    """Return the video's duration in seconds, or None if it cannot be determined.
+
+    Tries a lightweight scrape of the watch page first (very fast). Falls back
+    to yt-dlp metadata extraction, which is slower but doesn't break when
+    YouTube changes their HTML.
+    """
+    secs = _duration_via_scrape(video_id)
+    if secs is not None:
+        return secs
+    return _duration_via_ytdlp(video_id)
+
+
+def _duration_via_scrape(video_id: str) -> int | None:
     try:
         resp = requests.get(
             WATCH_URL_TEMPLATE.format(video_id=video_id),
@@ -162,6 +174,31 @@ def fetch_duration_seconds(video_id: str) -> int | None:
             return None
         return int(m.group(1))
     except requests.RequestException:
+        return None
+
+
+def _duration_via_ytdlp(video_id: str) -> int | None:
+    try:
+        import yt_dlp  # imported lazily so the script still runs without it
+    except ImportError:
+        log("  yt-dlp not installed; cannot fall back. Run: pip install -r requirements.txt")
+        return None
+    opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "noplaylist": True,
+    }
+    try:
+        with yt_dlp.YoutubeDL(opts) as ydl:
+            info = ydl.extract_info(
+                WATCH_URL_TEMPLATE.format(video_id=video_id),
+                download=False,
+            )
+        d = info.get("duration") if info else None
+        return int(d) if d else None
+    except Exception as e:
+        log(f"  yt-dlp duration lookup failed for {video_id}: {e}")
         return None
 
 

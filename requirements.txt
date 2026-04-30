@@ -2,3 +2,4 @@ google-genai>=0.8.0
 python-dotenv>=1.0.1
 requests>=2.31.0
 feedparser>=6.0.10
+yt-dlp>=2024.4.9

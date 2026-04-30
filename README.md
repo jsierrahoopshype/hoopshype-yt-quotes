@@ -136,8 +136,9 @@ Before sending to Gemini, a video is skipped if **any** of these are true:
 - The title contains any keyword from `skip_title_keywords` in `channels.json`
   ("highlights", "full game", "top 10", etc.).
 - The video is shorter than `min_duration_minutes` (default 15). Duration is
-  scraped from the YouTube watch page; if that fails, the video is skipped to
-  be safe.
+  fetched first via a lightweight scrape of the watch page; if that fails, the
+  script falls back to `yt-dlp` (metadata only, no download). If both fail, the
+  video is skipped to be safe.
 
 Channels marked `bypass_filters: true` skip everything except the duplicate
 check.
