@@ -16,6 +16,11 @@ Slack distribution and GitHub Actions come in phases 2 and 3.
 3. A **paid Gemini API key**. The free tier rate limits are too tight for video
    processing. Get one at <https://aistudio.google.com/apikey> and enable
    billing on the project.
+4. A **YouTube Data API v3 key** for channel + video metadata. The free tier
+   gives 10,000 units/day, which is roughly 200x what this pipeline needs.
+   Enable the API and create a key here:
+   <https://console.cloud.google.com/apis/library/youtube.googleapis.com>.
+   Click "Enable", then go to "Credentials" → "Create credentials" → "API key".
 
 ---
 
@@ -55,15 +60,8 @@ Copy-Item .env.example .env
 notepad .env
 ```
 
-Paste your Gemini API key after `GEMINI_API_KEY=` and save. Close Notepad.
-
-**Optional but recommended on Windows**: also set `YTDLP_BROWSER=chrome` in
-`.env`. This is only used when the RSS feed and HTML scrape can't determine a
-video's duration. In that case the script falls back to `yt-dlp`, and YouTube
-now blocks unauthenticated metadata lookups with "Sign in to confirm you're
-not a bot." Pointing yt-dlp at your logged-in Chrome session bypasses this.
-Other accepted values: `firefox`, `edge`, `brave`, `safari`, `vivaldi`. Leave
-empty when running on GitHub Actions (we'll handle that in phase 3).
+Paste your Gemini key after `GEMINI_API_KEY=` and your YouTube Data API key
+after `YOUTUBE_API_KEY=`. Save and close Notepad.
 
 ---
 
@@ -140,17 +138,11 @@ detected by the presence of any `<video_id>.*` file under `output/`.
 Before sending to Gemini, a video is skipped if **any** of these are true:
 
 - A file matching `output/**/<video_id>.*` already exists.
-- The URL is a `/shorts/` URL.
 - The title contains any keyword from `skip_title_keywords` in `channels.json`
   ("highlights", "full game", "top 10", etc.).
-- The video is shorter than `min_duration_minutes` (default 15). Duration is
-  resolved in this order:
-  1. The `media:content` `duration` attribute in the RSS feed (free, already
-     fetched).
-  2. A lightweight HTML scrape of the watch page for `lengthSeconds`.
-  3. `yt-dlp` metadata extraction (no download). If `YTDLP_BROWSER` is set,
-     yt-dlp uses cookies from that browser's logged-in session.
-  4. Skip the video.
+- The video is shorter than `min_duration_minutes` (default 15). Duration
+  comes from the YouTube Data API's `videos.list` `contentDetails.duration`
+  field. Shorts get caught by the same filter since they're under a minute.
 
 Channels marked `bypass_filters: true` skip everything except the duplicate
 check.
@@ -165,8 +157,11 @@ check.
 - **429 rate-limit**: sleeps 60s and retries up to 3 times, then gives up.
 - **Malformed JSON**: retries once. If still bad, the raw text is saved as
   `<video_id>.FAILED.txt`.
-- **RSS fetch fails for a channel**: that channel is skipped for the run; the
-  job continues with the others.
+- **YouTube API fails for a channel**: that channel is skipped for the run;
+  the job continues with the others.
+- **YouTube API quota exceeded (403 quotaExceeded)**: the script logs the
+  error and exits with status 2. The free quota resets daily at midnight
+  Pacific Time.
 
 ---
 

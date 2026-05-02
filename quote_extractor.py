@@ -1,7 +1,7 @@
 """
 HoopsHype YouTube quote extractor — production pipeline.
 
-Reads channels.json, fetches each channel's RSS feed, filters out Shorts,
+Polls NBA YouTube channels via the YouTube Data API v3, filters out Shorts,
 recaps, highlights, and short videos, then sends each remaining video to
 Gemini 2.5 Flash and saves the top 12 quotes as markdown + raw JSON.
 
@@ -17,7 +17,6 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import feedparser
 import requests
 from dotenv import load_dotenv
 from google import genai
@@ -29,12 +28,8 @@ MODEL = "gemini-2.5-flash"
 ROOT = Path(__file__).parent
 OUTPUT_DIR = ROOT / "output"
 CONFIG_PATH = ROOT / "channels.json"
-RSS_URL_TEMPLATE = "https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
 WATCH_URL_TEMPLATE = "https://www.youtube.com/watch?v={video_id}"
-USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-)
+YT_API_BASE = "https://www.googleapis.com/youtube/v3"
 
 PROMPT = """You are watching an NBA YouTube show. Extract the top 12 most controversial or insightful quotes about NBA trades, free agency, player movement, team dynamics, front office, contracts, player legacy, coaching, or playoff issues.
 
@@ -124,112 +119,86 @@ def find_existing_artifact(video_id: str) -> Path | None:
 
 
 # --------------------------------------------------------------------------- #
-# RSS + duration
+# YouTube Data API v3
 # --------------------------------------------------------------------------- #
 
-def fetch_channel_videos(channel_id: str) -> list:
-    """Return a list of {video_id, url, title, published, duration} for the channel.
-
-    Duration is parsed from media:content's duration attribute when present.
-    Many YouTube RSS feeds include it, which lets us avoid any per-video
-    network call for the duration filter.
-    """
-    url = RSS_URL_TEMPLATE.format(channel_id=channel_id)
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
-    resp.raise_for_status()
-    feed = feedparser.parse(resp.content)
-    videos = []
-    for entry in feed.entries:
-        vid = entry.get("yt_videoid") or video_id_from_url(entry.get("link", ""))
-        if not vid:
-            continue
-        videos.append({
-            "video_id": vid,
-            "url": f"https://www.youtube.com/watch?v={vid}",
-            "title": entry.get("title", ""),
-            "published": entry.get("published", ""),
-            "duration": _duration_from_entry(entry),
-        })
-    return videos
+class QuotaExceeded(Exception):
+    """Raised when a YouTube Data API call returns 403 quotaExceeded."""
 
 
-def _duration_from_entry(entry) -> int | None:
-    for mc in entry.get("media_content") or []:
-        d = mc.get("duration")
-        if d is None:
-            continue
+def youtube_api_get(endpoint: str, params: dict, api_key: str) -> dict:
+    """GET against the YouTube Data API. Raises QuotaExceeded on quota errors."""
+    full_params = {**params, "key": api_key}
+    resp = requests.get(f"{YT_API_BASE}/{endpoint}", params=full_params, timeout=20)
+    if resp.status_code == 403:
         try:
-            return int(float(d))
-        except (TypeError, ValueError):
-            continue
-    return None
+            body = resp.json()
+        except ValueError:
+            body = {}
+        errors = body.get("error", {}).get("errors", [])
+        if any(e.get("reason") in ("quotaExceeded", "rateLimitExceeded") for e in errors):
+            raise QuotaExceeded(body.get("error", {}).get("message", "quotaExceeded"))
+    resp.raise_for_status()
+    return resp.json()
 
 
-def fetch_duration_seconds(video_id: str) -> int | None:
-    """Return the video's duration in seconds, or None if it cannot be determined.
-
-    Falls back from a fast watch-page scrape to yt-dlp metadata extraction.
-    The RSS-feed duration is preferred and is checked at the call site, so
-    this function is only used when the feed didn't include one.
-    """
-    secs = _duration_via_scrape(video_id)
-    if secs is not None:
-        return secs
-    return _duration_via_ytdlp(video_id)
+def get_uploads_playlist_id(channel_id: str, api_key: str) -> str:
+    data = youtube_api_get("channels", {"part": "contentDetails", "id": channel_id}, api_key)
+    items = data.get("items", [])
+    if not items:
+        return ""
+    return items[0].get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads", "")
 
 
-def _duration_via_scrape(video_id: str) -> int | None:
-    try:
-        resp = requests.get(
-            WATCH_URL_TEMPLATE.format(video_id=video_id),
-            headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"},
-            timeout=20,
+def list_recent_video_ids(playlist_id: str, api_key: str, max_results: int = 10) -> list:
+    data = youtube_api_get(
+        "playlistItems",
+        {"part": "contentDetails", "playlistId": playlist_id, "maxResults": max_results},
+        api_key,
+    )
+    out = []
+    for item in data.get("items", []):
+        vid = item.get("contentDetails", {}).get("videoId")
+        if vid:
+            out.append(vid)
+    return out
+
+
+def parse_iso8601_duration(s: str) -> int:
+    """Convert YouTube's PT1H23M45S durations to seconds. Returns 0 on parse failure."""
+    if not s:
+        return 0
+    m = re.match(
+        r"^P(?:(\d+)D)?(?:T(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?)?$",
+        s,
+    )
+    if not m:
+        return 0
+    days, hours, mins, secs = (int(x) if x else 0 for x in m.groups())
+    return days * 86400 + hours * 3600 + mins * 60 + secs
+
+
+def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
+    """Batch-call videos.list (50 IDs per call). Returns {id: {title, duration}}."""
+    out = {}
+    unique_ids = list(dict.fromkeys(video_ids))  # de-dupe, preserve order
+    for i in range(0, len(unique_ids), 50):
+        chunk = unique_ids[i:i + 50]
+        data = youtube_api_get(
+            "videos",
+            {"part": "contentDetails,snippet", "id": ",".join(chunk)},
+            api_key,
         )
-        if resp.status_code != 200:
-            return None
-        m = re.search(r'"lengthSeconds":"(\d+)"', resp.text)
-        if not m:
-            return None
-        return int(m.group(1))
-    except requests.RequestException:
-        return None
-
-
-def _ytdlp_browser_cookies():
-    name = (os.getenv("YTDLP_BROWSER") or "").strip()
-    return (name,) if name else None
-
-
-def _duration_via_ytdlp(video_id: str) -> int | None:
-    try:
-        import yt_dlp  # imported lazily so the script still runs without it
-    except ImportError:
-        log("  yt-dlp not installed; cannot fall back. Run: pip install -r requirements.txt")
-        return None
-    opts = {
-        "quiet": True,
-        "no_warnings": True,
-        "skip_download": True,
-        "noplaylist": True,
-    }
-    cookies = _ytdlp_browser_cookies()
-    if cookies:
-        opts["cookiesfrombrowser"] = cookies
-    try:
-        with yt_dlp.YoutubeDL(opts) as ydl:
-            info = ydl.extract_info(
-                WATCH_URL_TEMPLATE.format(video_id=video_id),
-                download=False,
-            )
-        d = info.get("duration") if info else None
-        return int(d) if d else None
-    except Exception as e:
-        log(f"  yt-dlp duration lookup failed for {video_id}: {e}")
-        return None
-
-
-def is_short_url(url: str) -> bool:
-    return "/shorts/" in (url or "")
+        for item in data.get("items", []):
+            snippet = item.get("snippet", {}) or {}
+            details = item.get("contentDetails", {}) or {}
+            out[item.get("id", "")] = {
+                "title": snippet.get("title", ""),
+                "channel_title": snippet.get("channelTitle", ""),
+                "duration": parse_iso8601_duration(details.get("duration", "")),
+                "published_at": snippet.get("publishedAt", ""),
+            }
+    return out
 
 
 # --------------------------------------------------------------------------- #
@@ -258,7 +227,6 @@ def call_gemini(client, url: str) -> tuple[str, object]:
 
 
 def gemini_error_status(exc: Exception) -> int | None:
-    """Best-effort extract HTTP status code from a google-genai exception."""
     code = getattr(exc, "code", None) or getattr(exc, "status_code", None)
     if isinstance(code, int):
         return code
@@ -354,18 +322,11 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     if channel.get("bypass_filters"):
         return ""
 
-    if is_short_url(video["url"]):
-        return "shorts URL"
-
     kw = title_matches_skip_keyword(video["title"], config.get("skip_title_keywords", []))
     if kw:
         return f"title contains '{kw}'"
 
-    duration = video.get("duration")
-    if duration is None:
-        duration = fetch_duration_seconds(video["video_id"])
-    if duration is None:
-        return "duration unknown"
+    duration = video.get("duration", 0)
     min_seconds = int(config.get("min_duration_minutes", 15)) * 60
     if duration < min_seconds:
         return f"duration {duration}s below minimum"
@@ -422,9 +383,11 @@ def process_video(client, video: dict, channel_name: str) -> str:
 
 
 def main() -> int:
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        log("ERROR: GEMINI_API_KEY is not set. Copy .env.example to .env and fill it in.")
+    gemini_key = os.getenv("GEMINI_API_KEY")
+    yt_key = os.getenv("YOUTUBE_API_KEY")
+    missing = [name for name, val in (("GEMINI_API_KEY", gemini_key), ("YOUTUBE_API_KEY", yt_key)) if not val]
+    if missing:
+        log(f"ERROR: missing env vars: {', '.join(missing)}. Copy .env.example to .env and fill them in.")
         return 1
 
     config = load_config()
@@ -436,33 +399,76 @@ def main() -> int:
     max_total = int(config.get("max_videos_per_run", 15))
     max_per_channel = int(config.get("max_videos_per_channel_per_run", 3))
 
-    client = genai.Client(api_key=api_key)
-
-    queued = []
-    log(f"Polling {len(channels)} channel(s)...")
-    for channel in channels:
-        name = channel.get("name", channel.get("channel_id", "?"))
-        cid = channel.get("channel_id", "")
-        if not cid:
-            log(f"  [{name}] no channel_id, skipping")
-            continue
-        try:
-            videos = fetch_channel_videos(cid)
-        except Exception as e:
-            log(f"  [{name}] RSS fetch failed: {e}")
-            continue
-
-        accepted_for_channel = 0
-        for v in videos:
-            if accepted_for_channel >= max_per_channel:
-                break
-            reason = filter_video(v, channel, config)
-            if reason:
-                log(f"  [{name}] skip {v['video_id']} ({v['title'][:60]}): {reason}")
+    # Step 1: discover candidate video IDs per channel.
+    log(f"Polling {len(channels)} channel(s) via YouTube Data API...")
+    candidates = []  # list of (channel, video_id)
+    try:
+        for channel in channels:
+            name = channel.get("name", channel.get("channel_id", "?"))
+            cid = channel.get("channel_id", "")
+            if not cid:
+                log(f"  [{name}] no channel_id, skipping")
                 continue
-            queued.append((channel, v))
-            accepted_for_channel += 1
-        log(f"  [{name}] queued {accepted_for_channel} video(s)")
+            try:
+                uploads_id = get_uploads_playlist_id(cid, yt_key)
+            except QuotaExceeded:
+                raise
+            except Exception as e:
+                log(f"  [{name}] channels.list failed: {e}")
+                continue
+            if not uploads_id:
+                log(f"  [{name}] no uploads playlist found (channel_id may be wrong)")
+                continue
+            try:
+                video_ids = list_recent_video_ids(uploads_id, yt_key, max_results=10)
+            except QuotaExceeded:
+                raise
+            except Exception as e:
+                log(f"  [{name}] playlistItems.list failed: {e}")
+                continue
+            log(f"  [{name}] found {len(video_ids)} recent video(s)")
+            for vid in video_ids:
+                candidates.append((channel, vid))
+
+        if not candidates:
+            log("No candidate videos discovered.")
+            regenerate_index()
+            return 0
+
+        # Step 2: hydrate metadata in batches of 50.
+        all_ids = [vid for _, vid in candidates]
+        log(f"Fetching metadata for {len(set(all_ids))} unique video(s)...")
+        meta = hydrate_video_metadata(all_ids, yt_key)
+    except QuotaExceeded as e:
+        log(f"ERROR: YouTube Data API quota exceeded: {e}")
+        log("Daily quota resets at midnight Pacific Time. Increase quota or wait.")
+        return 2
+
+    # Step 3: filter and queue.
+    queued = []
+    per_channel_count = {}
+    for channel, vid in candidates:
+        name = channel.get("name", "?")
+        m = meta.get(vid)
+        if not m:
+            log(f"  [{name}] skip {vid}: no metadata returned")
+            continue
+        video = {
+            "video_id": vid,
+            "url": WATCH_URL_TEMPLATE.format(video_id=vid),
+            "title": m["title"],
+            "duration": m["duration"],
+            "published": m["published_at"],
+        }
+        cap_key = channel.get("channel_id", name)
+        if per_channel_count.get(cap_key, 0) >= max_per_channel:
+            continue
+        reason = filter_video(video, channel, config)
+        if reason:
+            log(f"  [{name}] skip {vid} ({video['title'][:60]}): {reason}")
+            continue
+        queued.append((channel, video))
+        per_channel_count[cap_key] = per_channel_count.get(cap_key, 0) + 1
 
     if not queued:
         log("Nothing new to process.")
@@ -473,6 +479,8 @@ def main() -> int:
         log(f"Capping queue from {len(queued)} to max_videos_per_run={max_total}")
         queued = queued[:max_total]
 
+    # Step 4: process with Gemini.
+    client = genai.Client(api_key=gemini_key)
     log(f"Processing {len(queued)} video(s) with Gemini...")
     summary = {"ok": 0, "too-long": 0, "rate-limited": 0, "failed-json": 0, "failed-other": 0}
     for channel, video in queued:
