@@ -3,8 +3,9 @@
 Daily pipeline that polls NBA YouTube channels, sends each new editorial video
 to Gemini 2.5 Flash, and saves the top 12 ranked quotes per video as markdown.
 
-This README covers **phase 1**: running the extractor locally on Windows.
-Slack distribution and GitHub Actions come in phases 2 and 3.
+This README covers **phases 1 and 2**: running the extractor locally on
+Windows and posting a daily digest to Slack. GitHub Actions cron and GitHub
+Pages publishing come in phase 3.
 
 ---
 
@@ -62,6 +63,27 @@ notepad .env
 
 Paste your Gemini key after `GEMINI_API_KEY=` and your YouTube Data API key
 after `YOUTUBE_API_KEY=`. Save and close Notepad.
+
+### 5. (Optional) Configure Slack
+
+If you want a daily digest in Slack:
+
+1. Create an incoming webhook in your workspace at
+   <https://api.slack.com/messaging/webhooks>. Pick the channel where the
+   digest should go and copy the webhook URL.
+2. In `.env`, paste it after `SLACK_WEBHOOK_URL=`.
+3. Set `OUTPUT_BASE_URL=` to the GitHub blob URL for the working branch, so
+   the per-video links in the digest go somewhere readable. For this branch
+   that's:
+
+   ```
+   OUTPUT_BASE_URL=https://github.com/jsierrahoopshype/hoopshype-yt-quotes/blob/claude/youtube-quote-extractor-pcYe7/output
+   ```
+
+   In phase 3 you'll swap this for the GitHub Pages URL.
+
+If you leave `SLACK_WEBHOOK_URL` empty, the script just skips the Slack post
+and continues normally — the markdown files are still the source of truth.
 
 ---
 
@@ -170,16 +192,16 @@ check.
 | File | What it is |
 | --- | --- |
 | `quote_extractor.py` | The main script. Run this. |
+| `slack_notify.py` | Posts the daily digest to the Slack webhook. |
 | `add_channel.py` | Helper that turns a YouTube URL or @handle into a UC channel ID. |
 | `channels.json` | Editable list of channels and filter settings. |
 | `requirements.txt` | Python dependencies. |
-| `.env.example` | Template for your `.env` (which holds the API key). |
+| `.env.example` | Template for your `.env` (API keys, webhook, base URL). |
 | `output/` | All processed videos. Markdown + raw JSON, organised by day. |
 
 ---
 
 ## Coming in later phases
 
-- **Phase 2**: Slack digest posted at the end of every run.
 - **Phase 3**: GitHub Actions cron to run this daily, plus GitHub Pages to
   serve the `output/` folder publicly.

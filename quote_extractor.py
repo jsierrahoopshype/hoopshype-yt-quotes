@@ -22,6 +22,8 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+import slack_notify
+
 load_dotenv()
 
 MODEL = "gemini-2.5-flash"
@@ -334,8 +336,12 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     return ""
 
 
-def process_video(client, video: dict, channel_name: str) -> str:
-    """Run Gemini against one video, write outputs. Returns status string."""
+def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | None]:
+    """Run Gemini against one video, write outputs.
+
+    Returns (status, data) where data is the parsed Gemini response on success
+    and None otherwise.
+    """
     url = video["url"]
     video_id = video["video_id"]
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -359,27 +365,27 @@ def process_video(client, video: dict, channel_name: str) -> str:
                     (day_dir / f"{video_id}.FAILED.txt").write_text(
                         last_raw or str(e), encoding="utf-8"
                     )
-                    return "failed-json"
+                    return "failed-json", None
                 continue
             write_outputs(video, channel_name, data, raw_text)
-            return "ok"
+            return "ok", data
         except Exception as e:
             status = gemini_error_status(e)
             if status == 429:
                 attempts_429 += 1
                 if attempts_429 > 3:
                     log(f"  rate-limited 4x, giving up on {video_id}")
-                    return "rate-limited"
+                    return "rate-limited", None
                 log(f"  429 rate-limit, sleeping 60s (attempt {attempts_429}/3)")
                 time.sleep(60)
                 continue
             if status == 400 or is_token_limit_error(e):
                 log(f"  token-limit / 400 on {video_id}: {e}")
                 (day_dir / f"{video_id}.SKIPPED-too-long").write_text("", encoding="utf-8")
-                return "too-long"
+                return "too-long", None
             log(f"  unexpected Gemini error on {video_id}: {e}")
             (day_dir / f"{video_id}.FAILED.txt").write_text(str(e), encoding="utf-8")
-            return "failed-other"
+            return "failed-other", None
 
 
 def main() -> int:
@@ -389,6 +395,8 @@ def main() -> int:
     if missing:
         log(f"ERROR: missing env vars: {', '.join(missing)}. Copy .env.example to .env and fill them in.")
         return 1
+
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
     config = load_config()
     channels = [c for c in config.get("channels", []) if c.get("active", True)]
@@ -433,6 +441,7 @@ def main() -> int:
         if not candidates:
             log("No candidate videos discovered.")
             regenerate_index()
+            slack_notify.post_no_new_videos(today)
             return 0
 
         # Step 2: hydrate metadata in batches of 50.
@@ -473,6 +482,7 @@ def main() -> int:
     if not queued:
         log("Nothing new to process.")
         regenerate_index()
+        slack_notify.post_no_new_videos(today)
         return 0
 
     if len(queued) > max_total:
@@ -483,14 +493,32 @@ def main() -> int:
     client = genai.Client(api_key=gemini_key)
     log(f"Processing {len(queued)} video(s) with Gemini...")
     summary = {"ok": 0, "too-long": 0, "rate-limited": 0, "failed-json": 0, "failed-other": 0}
+    processed_items = []
     for channel, video in queued:
         name = channel.get("name", "?")
         log(f"  -> {video['video_id']} [{name}]: {video['title'][:80]}")
-        status = process_video(client, video, name)
+        status, data = process_video(client, video, name)
         summary[status] = summary.get(status, 0) + 1
         log(f"     status: {status}")
+        if status == "ok" and data:
+            quotes = data.get("quotes") or []
+            top = quotes[0] if quotes else {}
+            processed_items.append({
+                "video_id": video["video_id"],
+                "title": data.get("video_title_guess") or video.get("title") or video["video_id"],
+                "channel": name,
+                "top_quote": top.get("quote", ""),
+                "speaker": top.get("speaker", ""),
+                "date": today,
+            })
 
     regenerate_index()
+
+    if processed_items:
+        slack_notify.post_digest(processed_items, today)
+    else:
+        slack_notify.post_no_new_videos(today)
+
     log(f"Done. {summary}")
     return 0
 
