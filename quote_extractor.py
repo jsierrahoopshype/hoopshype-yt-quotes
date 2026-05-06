@@ -35,14 +35,22 @@ YT_API_BASE = "https://www.googleapis.com/youtube/v3"
 
 PROMPT = """You are watching an NBA YouTube show. Extract the top 12 most controversial or insightful quotes about NBA trades, free agency, player movement, team dynamics, front office, contracts, player legacy, coaching, or playoff issues.
 
-Rules:
-- Each quote should run roughly 100 to 180 words after light cleanup. Preserve the speaker's meaning. Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation.
+Hard rules — these are limits, not targets:
+
+- LENGTH: Each quote MUST be between 60 and 220 words after cleanup. Quotes over 220 words must be split into separate ranked quotes or shortened. Do not exceed 220 words under any circumstance.
+- ONE TOPIC PER QUOTE: A single quote covers a single subject — one player, one team, one story, one argument. If the speaker pivots to a new player, team, story, or argument, that is a new quote with its own rank, timestamp, and topic tags. Do not merge two topics into one quote even when they are spoken back-to-back.
+- TAG COUNT: Each quote gets 1 to 3 topic tags. If you want more than 3 tags, the quote is covering too much ground — split it.
+- MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject.
+
+Editorial rules:
+
 - Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return "Unknown speaker". Do not guess.
-- Provide a start timestamp in MM:SS or H:MM:SS format.
+- Provide a start timestamp in MM:SS or H:MM:SS format pointing at the moment the quote begins.
 - Tag each quote using only these topics: trades, free agency, team dynamics, player legacy, rumors, front office, coaching, playoffs, contracts.
-- Add a one-sentence "why it matters" note framed for HoopsHype Rumors readers (NBA-savvy, want news value).
+- Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation. Preserve the speaker's meaning. Do not exaggerate their tone. Do not fabricate.
 - Skip play-by-play recap, sponsor reads, intros, outros, generic opinions, and recycled talking points unless phrased forcefully.
-- Do not fabricate. Do not exaggerate the speaker's tone. If fewer than 12 quotes meet the bar, return fewer.
+- Add a one-sentence "why it matters" note framed for HoopsHype Rumors readers (NBA-savvy, want news value).
+- Return up to 12 quotes ranked by news value. If fewer than 12 meet the bar, return fewer.
 
 Return ONLY valid JSON, no surrounding text or markdown fences:
 
