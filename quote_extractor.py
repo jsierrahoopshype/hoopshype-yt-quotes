@@ -288,14 +288,14 @@ def _is_transient_gemini_error(exc: Exception) -> bool:
 
 
 def call_gemini_with_retry(client, url: str) -> tuple[str, object]:
-    """Wrap call_gemini with the same 5s/15s/45s retry policy as the splitter.
+    """Wrap call_gemini with the same 5s/15s/45s/120s/300s retry policy as the splitter.
 
     Retries on 429, 500, 503, or messages containing UNAVAILABLE /
     RESOURCE_EXHAUSTED / INTERNAL. Non-retryable errors (400/token-limit,
     other 4xx) propagate immediately so the caller can map them to
     too-long or failed-other.
     """
-    backoffs = [5, 15, 45]
+    backoffs = [5, 15, 45, 120, 300]
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
             return call_gemini(client, url)
@@ -303,10 +303,10 @@ def call_gemini_with_retry(client, url: str) -> tuple[str, object]:
             if not _is_transient_gemini_error(e):
                 raise
             if attempt < len(backoffs):
-                log(f"  [main] transient error on attempt {attempt}/3, sleeping {sleep_s}s: {e}")
+                log(f"  [main] transient error on attempt {attempt}/5, sleeping {sleep_s}s: {e}")
                 time.sleep(sleep_s)
             else:
-                log(f"  [main] giving up after 3 attempts: {e}")
+                log(f"  [main] giving up after 5 attempts: {e}")
                 raise
 
 
@@ -334,7 +334,7 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
       "unchanged" — splitter ran but returned 0/1 usable sub-quotes,
                     or its response was unparseable
       "failed"    — API error: either a non-retryable 4xx, or transient
-                    503/429 that didn't recover within 3 attempts
+                    503/429 that didn't recover within 5 attempts
 
     On any non-"split" outcome, sub_quotes is [quote] so the caller can
     extend its list verbatim and the original quote survives.
@@ -348,7 +348,7 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
         f"Original quote ({_word_count(text)} words):\n\n{text}"
     )
 
-    backoffs = [5, 15, 45]
+    backoffs = [5, 15, 45, 120, 300]
     response = None
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
@@ -373,10 +373,10 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
                 log(f"  [split] non-retryable error, keeping original: {e}")
                 return [quote], "failed"
             if attempt < len(backoffs):
-                log(f"  [split] transient error on attempt {attempt}/3, sleeping {sleep_s}s: {e}")
+                log(f"  [split] transient error on attempt {attempt}/5, sleeping {sleep_s}s: {e}")
                 time.sleep(sleep_s)
             else:
-                log(f"  [split] giving up after 3 attempts: {e}")
+                log(f"  [split] giving up after 5 attempts: {e}")
                 return [quote], "failed"
 
     try:
