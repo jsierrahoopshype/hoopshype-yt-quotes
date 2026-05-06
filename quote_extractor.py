@@ -293,11 +293,18 @@ def _needs_split(quote: dict) -> bool:
     return False
 
 
-def split_quote(client, quote: dict) -> list:
+def split_quote(client, quote: dict) -> tuple[list, str]:
     """Run a text-only Gemini call to split one oversized quote.
 
-    Returns a list of sub-quote dicts. On any failure, returns [quote] so the
-    original is preserved.
+    Returns (sub_quotes, status) where status is:
+      "split"     — splitter produced multiple sub-quotes
+      "unchanged" — splitter ran but returned 0/1 usable sub-quotes,
+                    or its response was unparseable
+      "failed"    — API error: either a non-retryable 4xx, or transient
+                    503/429 that didn't recover within 3 attempts
+
+    On any non-"split" outcome, sub_quotes is [quote] so the caller can
+    extend its list verbatim and the original quote survives.
     """
     speaker = quote.get("speaker") or "Unknown speaker"
     timestamp = quote.get("timestamp") or "0:00"
@@ -307,19 +314,43 @@ def split_quote(client, quote: dict) -> list:
         f"Timestamp: {timestamp}\n"
         f"Original quote ({_word_count(text)} words):\n\n{text}"
     )
+
+    backoffs = [5, 15, 45]
+    response = None
+    for attempt, sleep_s in enumerate(backoffs, start=1):
+        try:
+            response = client.models.generate_content(
+                model=MODEL,
+                contents=[SPLIT_PROMPT, user_text],
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.3,
+                ),
+            )
+            break
+        except Exception as e:
+            status_code = gemini_error_status(e)
+            msg = str(e).upper()
+            transient = (
+                status_code in (429, 503)
+                or "UNAVAILABLE" in msg
+                or "RESOURCE_EXHAUSTED" in msg
+            )
+            if not transient:
+                log(f"  [split] non-retryable error, keeping original: {e}")
+                return [quote], "failed"
+            if attempt < len(backoffs):
+                log(f"  [split] transient error on attempt {attempt}/3, sleeping {sleep_s}s: {e}")
+                time.sleep(sleep_s)
+            else:
+                log(f"  [split] giving up after 3 attempts: {e}")
+                return [quote], "failed"
+
     try:
-        response = client.models.generate_content(
-            model=MODEL,
-            contents=[SPLIT_PROMPT, user_text],
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                temperature=0.3,
-            ),
-        )
         parsed = json.loads(response.text or "")
     except Exception as e:
-        log(f"  [split] call failed, keeping original: {e}")
-        return [quote]
+        log(f"  [split] malformed JSON, keeping original: {e}")
+        return [quote], "unchanged"
 
     if isinstance(parsed, dict):
         for key in ("quotes", "sub_quotes", "results"):
@@ -328,7 +359,7 @@ def split_quote(client, quote: dict) -> list:
                 break
     if not isinstance(parsed, list) or not parsed:
         log("  [split] returned no usable sub-quotes; keeping original")
-        return [quote]
+        return [quote], "unchanged"
 
     out = []
     for sub in parsed:
@@ -341,22 +372,35 @@ def split_quote(client, quote: dict) -> list:
             "quote": sub["quote"],
             "why_it_matters": sub.get("why_it_matters", quote.get("why_it_matters", "")),
         })
-    return out if out else [quote]
+    if len(out) > 1:
+        return out, "split"
+    if len(out) == 1:
+        return out, "unchanged"
+    return [quote], "unchanged"
 
 
 def post_process_quotes(client, quotes: list) -> list:
     """Split oversized quotes, then re-rank and cap at MAX_QUOTES_AFTER_SPLIT."""
     out = []
+    counts = {"split": 0, "unchanged": 0, "failed": 0}
     for i, q in enumerate(quotes or []):
         if _needs_split(q):
             wc = _word_count(q.get("quote", ""))
             tc = len(q.get("topic_tags") or [])
-            subs = split_quote(client, q)
-            if len(subs) > 1:
+            subs, status = split_quote(client, q)
+            counts[status] += 1
+            if status == "split":
                 log(f"  [split] quote {i + 1} ({wc} words, {tc} tags) -> {len(subs)} sub-quotes")
             out.extend(subs)
         else:
             out.append(q)
+
+    if sum(counts.values()):
+        log(
+            f"  [split] summary: {counts['split']} split, "
+            f"{counts['unchanged']} unchanged, "
+            f"{counts['failed']} failed after retries"
+        )
 
     if len(out) > MAX_QUOTES_AFTER_SPLIT:
         log(f"  [split] capping {len(out)} quotes at {MAX_QUOTES_AFTER_SPLIT}")
