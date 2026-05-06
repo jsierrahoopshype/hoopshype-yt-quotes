@@ -38,6 +38,7 @@ PROMPT = """You are watching an NBA YouTube show. Extract the top 12 most contro
 Hard rules — these are limits, not targets:
 
 - LENGTH: Each quote MUST be between 60 and 220 words after cleanup. Quotes over 220 words must be split into separate ranked quotes or shortened. Do not exceed 220 words under any circumstance.
+- PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - ONE TOPIC PER QUOTE: A single quote covers a single subject — one player, one team, one story, one argument. If the speaker pivots to a new player, team, story, or argument, that is a new quote with its own rank, timestamp, and topic tags. Do not merge two topics into one quote even when they are spoken back-to-back.
 - TAG COUNT: Each quote gets 1 to 3 topic tags. If you want more than 3 tags, the quote is covering too much ground — split it.
 - MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject.
@@ -75,6 +76,7 @@ SPLIT_PROMPT = """You are editing a single quote from an NBA YouTube show that i
 Hard rules:
 
 - Each sub-quote MUST be between 60 and 220 words after cleanup. Do not exceed 220 words under any circumstance.
+- PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - Each sub-quote covers a single subject — one player, one team, one story, one argument.
 - Each sub-quote gets 1 to 3 topic tags drawn ONLY from this vocabulary: trades, free agency, team dynamics, player legacy, rumors, front office, coaching, playoffs, contracts.
 - Use the SAME speaker and the SAME timestamp as the original quote for every sub-quote.
@@ -275,6 +277,37 @@ def gemini_error_status(exc: Exception) -> int | None:
 def is_token_limit_error(exc: Exception) -> bool:
     msg = str(exc).lower()
     return "token" in msg and ("limit" in msg or "exceed" in msg or "too" in msg)
+
+
+def _is_transient_gemini_error(exc: Exception) -> bool:
+    status = gemini_error_status(exc)
+    if status in (429, 500, 503):
+        return True
+    msg = str(exc).upper()
+    return "UNAVAILABLE" in msg or "RESOURCE_EXHAUSTED" in msg or "INTERNAL" in msg
+
+
+def call_gemini_with_retry(client, url: str) -> tuple[str, object]:
+    """Wrap call_gemini with the same 5s/15s/45s retry policy as the splitter.
+
+    Retries on 429, 500, 503, or messages containing UNAVAILABLE /
+    RESOURCE_EXHAUSTED / INTERNAL. Non-retryable errors (400/token-limit,
+    other 4xx) propagate immediately so the caller can map them to
+    too-long or failed-other.
+    """
+    backoffs = [5, 15, 45]
+    for attempt, sleep_s in enumerate(backoffs, start=1):
+        try:
+            return call_gemini(client, url)
+        except Exception as e:
+            if not _is_transient_gemini_error(e):
+                raise
+            if attempt < len(backoffs):
+                log(f"  [main] transient error on attempt {attempt}/3, sleeping {sleep_s}s: {e}")
+                time.sleep(sleep_s)
+            else:
+                log(f"  [main] giving up after 3 attempts: {e}")
+                raise
 
 
 # --------------------------------------------------------------------------- #
@@ -517,38 +550,14 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
     day_dir = OUTPUT_DIR / today
     day_dir.mkdir(parents=True, exist_ok=True)
 
-    attempts_429 = 0
     attempts_parse = 0
     last_raw = ""
 
     while True:
         try:
-            raw_text, _usage = call_gemini(client, url)
-            last_raw = raw_text
-            try:
-                data = json.loads(raw_text)
-            except json.JSONDecodeError as e:
-                attempts_parse += 1
-                log(f"  malformed JSON (attempt {attempts_parse}): {e}")
-                if attempts_parse >= 2:
-                    (day_dir / f"{video_id}.FAILED.txt").write_text(
-                        last_raw or str(e), encoding="utf-8"
-                    )
-                    return "failed-json", None
-                continue
-            data["quotes"] = post_process_quotes(client, data.get("quotes") or [])
-            write_outputs(video, channel_name, data, raw_text)
-            return "ok", data
+            raw_text, _usage = call_gemini_with_retry(client, url)
         except Exception as e:
             status = gemini_error_status(e)
-            if status == 429:
-                attempts_429 += 1
-                if attempts_429 > 3:
-                    log(f"  rate-limited 4x, giving up on {video_id}")
-                    return "rate-limited", None
-                log(f"  429 rate-limit, sleeping 60s (attempt {attempts_429}/3)")
-                time.sleep(60)
-                continue
             if status == 400 or is_token_limit_error(e):
                 log(f"  token-limit / 400 on {video_id}: {e}")
                 (day_dir / f"{video_id}.SKIPPED-too-long").write_text("", encoding="utf-8")
@@ -556,6 +565,23 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
             log(f"  unexpected Gemini error on {video_id}: {e}")
             (day_dir / f"{video_id}.FAILED.txt").write_text(str(e), encoding="utf-8")
             return "failed-other", None
+
+        last_raw = raw_text
+        try:
+            data = json.loads(raw_text)
+        except json.JSONDecodeError as e:
+            attempts_parse += 1
+            log(f"  malformed JSON (attempt {attempts_parse}): {e}")
+            if attempts_parse >= 2:
+                (day_dir / f"{video_id}.FAILED.txt").write_text(
+                    last_raw or str(e), encoding="utf-8"
+                )
+                return "failed-json", None
+            continue
+
+        data["quotes"] = post_process_quotes(client, data.get("quotes") or [])
+        write_outputs(video, channel_name, data, raw_text)
+        return "ok", data
 
 
 def main() -> int:
@@ -662,7 +688,7 @@ def main() -> int:
     # Step 4: process with Gemini.
     client = genai.Client(api_key=gemini_key)
     log(f"Processing {len(queued)} video(s) with Gemini...")
-    summary = {"ok": 0, "too-long": 0, "rate-limited": 0, "failed-json": 0, "failed-other": 0}
+    summary = {"ok": 0, "too-long": 0, "failed-json": 0, "failed-other": 0}
     processed_items = []
     for channel, video in queued:
         name = channel.get("name", "?")
