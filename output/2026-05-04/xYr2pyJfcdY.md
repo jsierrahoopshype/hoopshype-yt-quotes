@@ -1,0 +1,77 @@
+# The Draymond Green Show
+
+Channel: The Draymond Green Show
+
+Source: https://www.youtube.com/watch?v=xYr2pyJfcdY
+
+_Speakers identified: Draymond Green, Devin Booker_
+
+**1. Devin Booker, on playoffs, team dynamics, coaching**
+[00:53](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=53s)
+
+"It's definitely something that has to be looked at. I heard Caruso tell them to call the tech and he ended up doing it. In my 11 years I haven't called a rough out by name. But James Williams, a lot of y'all may know him as Gucci because he has adopted the nickname and he's run head on with that, was terrible tonight. Through and through. It's bad for the sport, it's bad for the integrity of the sport. People are going to start viewing this as WWE if they're not held responsible."
+
+_Why it matters:_ A star player's direct and strong criticism of officiating, suggesting bias and questioning the integrity of the game, often leads to fines and sparks league-wide discussion.
+
+**2. Draymond Green, on front office, playoffs, team dynamics**
+[01:27](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=87s)
+
+"I have been talking about responsibility of officials. I have talked about that dating back. Players get fined, you know about it. You can Google how much money I have been fined throughout my career. It is a Googleable offense. And you can do that. When coaches get fined, you know. It's announced, the whole world knows, it's right in your face. When organizations get fined, you know. It's out in the world, it's in the open, it's right there in your face. For years we've been told officials get disciplined, but no one knows when they're disciplined, no one knows what the discipline is."
+
+_Why it matters:_ Draymond highlights a perceived double standard in the NBA's transparency policies, arguing that while player, coach, and team fines are public, official discipline remains private, which can erode trust in the league's integrity.
+
+**3. Draymond Green, on front office, team dynamics, rumors**
+[03:45](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=225s)
+
+"When I say nothing's private, I mean nothing's private. We made an in-game adjustment, a starting lineup adjustment in the playoffs. I want to say this was a year ago. We changed our starting lineup. It was not supposed to get out until the starting lineups were announced. The news was out in 20 minutes. This is a playoff in-game adjustment. And the news was out in 20 minutes. To say that anything in the NBA is private, that's just not real. It's just not realistic. All of you all find out news about our team before we find out. I find out news about our team, about our organization at times, about injuries, about all these on the internet. To say that things are done in private, that's just not a private business."
+
+_Why it matters:_ Draymond uses a personal anecdote about a playoff lineup change leaking quickly to underscore his belief that 'nothing is private in the NBA' except for official discipline, reinforcing his transparency argument.
+
+**4. Draymond Green, on front office, contracts, team dynamics**
+[05:30](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=330s)
+
+"What I will tell you is, the officials has one of the best unions around. And they fight for them. I always wonder, who is the leader of the union for the officials? That's who the NBPA need to be going after. Because that's who ends up with the best deal. The officials got upset one time, said we're done. We're not going. Everybody panicked. Everybody. Talk about keeping things private. The officials have not agreed that you can publicly discipline them. Sounds like a great union to me."
+
+_Why it matters:_ Draymond points out the strength of the officials' union as a reason for their private discipline, suggesting that the NBPA should learn from this to better advocate for players' interests.
+
+**5. Draymond Green, on playoffs, team dynamics**
+[06:24](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=384s)
+
+"I've had my issues with this official as well. In my opinion, I think he makes it very personal. If he got something against you, it's going to be made very personal. And so, I'm not surprised by what D Book said. I always have an issue with Gucci being called another man's name and like embracing that. Man. To introduce yourself as, yo, I'm Gucci. Man. It's a different thing, man."
+
+_Why it matters:_ Draymond's personal critique of a specific referee's conduct, including his adopted nickname and perceived personal bias, adds a layer of player perspective to the ongoing officiating debate.
+
+**6. Draymond Green, on coaching, team dynamics, playoffs**
+[07:18](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=438s)
+
+"As the leader of the Phoenix Suns, you have to be careful. Because what happens is, it can easily come off as an excuse to the guys in your locker room. Not everybody else don't matter. But it can come off as an excuse to the guys in your locker room. And you just don't want to give guys who in every locker room there's guys looking for outs, there's guys looking for excuses. And as a leader, you just don't never want to give guys an out. You just never want to get them an out. You got to go through the fire, we got to go through the fire, it is what it is. You never want to give them an out."
+
+_Why it matters:_ Draymond offers leadership advice, cautioning against public complaints about officiating that could be perceived as excuses by teammates, highlighting the delicate balance leaders must strike in high-stakes environments.
+
+**7. Draymond Green, on player legacy, playoffs, team dynamics**
+[08:44](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=524s)
+
+"Quite honestly, Shay is great at drawing fouls. He uses your leverage against you. He has mastered the art of drawing a foul. If you watch him, most of them are fouls. And when I say most, I'm talking 90 plus percent of them, they do be fouls. Like he has mastered the art of it. To the level that James Harden had the art mastered before, but in a different way. He's mastered the art of it. For a great scorer, I think that's a great thing to master. And he's done that. Now, some of them, I think, back in the old days, officials would see that and be like, I'm not calling it. And I think that's the frustration that some people have is, it seems that he gets so many of these calls. And just some of them the way they look, the way they happen, officials just they used to wouldn't call it. Especially in the playoffs. They wouldn't call it."
+
+_Why it matters:_ Draymond compares Shai Gilgeous-Alexander's foul-drawing ability to James Harden's, acknowledging it as a mastered art that, while frustrating for opponents, is a legitimate skill for a great scorer.
+
+**8. Draymond Green, on coaching, playoffs, team dynamics**
+[09:47](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=587s)
+
+"Unfortunately for Phoenix, this series is over. Because, even without the fouls, these games haven't even been competitive. I think their best bet is, you pack the paint in, you make them shoot the three. Pack the paint, make them shoot the three. But if I pack the paint, these aren't drive and kick threes, these are swing around the perimeter threes. Are they capable of doing that? Phoenix has a very switchable defense, but when you switch, you got to load up. You got to load boxes in the elbows, shut the paint down, you cannot come in this paint. Y'all have to shoot. Keep the ball outside the perimeter and shoot threes. If they can do that, that's the only way they can keep this series close. Or excuse me. Get it another game. Which I don't think is happening."
+
+_Why it matters:_ Draymond offers a blunt assessment of the Suns' playoff chances, suggesting a defensive strategy against OKC and predicting an early end to the series due to a lack of competitiveness.
+
+**9. Draymond Green, on player dynamics, coaching, playoffs**
+[16:36](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=996s)
+
+"What I've seen from JD is not playing with the level of physicality that I spoke about him playing with earlier in the season. He looks like a young JD all over again where he's not quite playing with that level of physicality. Wendell Carter's been very impressive in this matchup. He's had the most rebounds in a playoff game for a Magic player since Dwight Howard. He's been dominating the matchup. And if you JD, it's three games in, brother. You can flip the script. You're capable of it. From a talent standpoint, from a skill standpoint, you are capable of it. But it has to be here. Right now, mentally, he ain't there. Mentally, he need to come around."
+
+_Why it matters:_ Draymond critiques Jalen Duren's playoff performance, highlighting a mental and physical regression and emphasizing the need for a mental shift to overcome his struggles against Wendell Carter.
+
+**10. Draymond Green, on coaching, playoffs, team dynamics**
+[18:18](https://www.youtube.com/watch?v=xYr2pyJfcdY&t=1098s)
+
+"I'm very surprised that the Pistons are chasing over screens on Franz, chasing over screens on Paolo. I don't understand why they're doing that. You should be going under all those screens and forcing them to make jump shots. Pistons were fouling way too much, reaching fouls. You got to have discipline when it comes to playoffs. You can't have a bunch of reaching fouls. Once we get to these playoff series, bro, you're not getting those fouls you get in the regular season. They ain't calling them and we ain't reaching like that. So, the Pistons got to clean that up defensively. You can't be in the penalty six minutes to go in every quarter because you're getting dumb reaching fouls, sending guys to the line. Make the guy score the basketball. It is very hard to score the basketball. Stop fouling so much. You have to have the discipline to not foul if you want to win at a high level."
+
+_Why it matters:_ Draymond criticizes the Pistons' defensive strategy and lack of discipline, arguing that excessive fouling and poor screen navigation are hindering their playoff success and need immediate correction.
