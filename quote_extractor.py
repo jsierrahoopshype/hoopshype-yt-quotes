@@ -70,6 +70,33 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
 }"""
 
 
+SPLIT_PROMPT = """You are editing a single quote from an NBA YouTube show that is too long or covers too many topics. Split it into 1 to 4 standalone sub-quotes.
+
+Hard rules:
+
+- Each sub-quote MUST be between 60 and 220 words after cleanup. Do not exceed 220 words under any circumstance.
+- Each sub-quote covers a single subject — one player, one team, one story, one argument.
+- Each sub-quote gets 1 to 3 topic tags drawn ONLY from this vocabulary: trades, free agency, team dynamics, player legacy, rumors, front office, coaching, playoffs, contracts.
+- Use the SAME speaker and the SAME timestamp as the original quote for every sub-quote.
+- Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation. Preserve the speaker's meaning. Do not exaggerate. Do not fabricate.
+- Drop weak segments rather than padding. Returning fewer sub-quotes is better than returning weak ones.
+- Add a one-sentence "why it matters" note for each sub-quote, framed for HoopsHype Rumors readers (NBA-savvy, want news value).
+
+Return ONLY valid JSON, no surrounding text or markdown fences. The output is a JSON ARRAY at the top level (not an object):
+
+[
+  {
+    "speaker": "string",
+    "timestamp": "MM:SS",
+    "topic_tags": ["trades"],
+    "quote": "cleaned quote text",
+    "why_it_matters": "one sentence"
+  }
+]"""
+
+MAX_QUOTES_AFTER_SPLIT = 15
+
+
 # --------------------------------------------------------------------------- #
 # Small utilities
 # --------------------------------------------------------------------------- #
@@ -251,6 +278,96 @@ def is_token_limit_error(exc: Exception) -> bool:
 
 
 # --------------------------------------------------------------------------- #
+# Post-processing: split oversized quotes via a second, text-only Gemini call
+# --------------------------------------------------------------------------- #
+
+def _word_count(text: str) -> int:
+    return len((text or "").split())
+
+
+def _needs_split(quote: dict) -> bool:
+    if _word_count(quote.get("quote", "")) > 220:
+        return True
+    if len(quote.get("topic_tags") or []) > 3:
+        return True
+    return False
+
+
+def split_quote(client, quote: dict) -> list:
+    """Run a text-only Gemini call to split one oversized quote.
+
+    Returns a list of sub-quote dicts. On any failure, returns [quote] so the
+    original is preserved.
+    """
+    speaker = quote.get("speaker") or "Unknown speaker"
+    timestamp = quote.get("timestamp") or "0:00"
+    text = quote.get("quote", "")
+    user_text = (
+        f"Speaker: {speaker}\n"
+        f"Timestamp: {timestamp}\n"
+        f"Original quote ({_word_count(text)} words):\n\n{text}"
+    )
+    try:
+        response = client.models.generate_content(
+            model=MODEL,
+            contents=[SPLIT_PROMPT, user_text],
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=0.3,
+            ),
+        )
+        parsed = json.loads(response.text or "")
+    except Exception as e:
+        log(f"  [split] call failed, keeping original: {e}")
+        return [quote]
+
+    if isinstance(parsed, dict):
+        for key in ("quotes", "sub_quotes", "results"):
+            if isinstance(parsed.get(key), list):
+                parsed = parsed[key]
+                break
+    if not isinstance(parsed, list) or not parsed:
+        log("  [split] returned no usable sub-quotes; keeping original")
+        return [quote]
+
+    out = []
+    for sub in parsed:
+        if not isinstance(sub, dict) or not sub.get("quote"):
+            continue
+        out.append({
+            "speaker": sub.get("speaker") or speaker,
+            "timestamp": sub.get("timestamp") or timestamp,
+            "topic_tags": sub.get("topic_tags") or quote.get("topic_tags", []),
+            "quote": sub["quote"],
+            "why_it_matters": sub.get("why_it_matters", quote.get("why_it_matters", "")),
+        })
+    return out if out else [quote]
+
+
+def post_process_quotes(client, quotes: list) -> list:
+    """Split oversized quotes, then re-rank and cap at MAX_QUOTES_AFTER_SPLIT."""
+    out = []
+    for i, q in enumerate(quotes or []):
+        if _needs_split(q):
+            wc = _word_count(q.get("quote", ""))
+            tc = len(q.get("topic_tags") or [])
+            subs = split_quote(client, q)
+            if len(subs) > 1:
+                log(f"  [split] quote {i + 1} ({wc} words, {tc} tags) -> {len(subs)} sub-quotes")
+            out.extend(subs)
+        else:
+            out.append(q)
+
+    if len(out) > MAX_QUOTES_AFTER_SPLIT:
+        log(f"  [split] capping {len(out)} quotes at {MAX_QUOTES_AFTER_SPLIT}")
+        out = out[:MAX_QUOTES_AFTER_SPLIT]
+
+    for i, q in enumerate(out):
+        q["rank"] = i + 1
+    return out
+
+
+# --------------------------------------------------------------------------- #
 # Output
 # --------------------------------------------------------------------------- #
 
@@ -375,6 +492,7 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
                     )
                     return "failed-json", None
                 continue
+            data["quotes"] = post_process_quotes(client, data.get("quotes") or [])
             write_outputs(video, channel_name, data, raw_text)
             return "ok", data
         except Exception as e:
