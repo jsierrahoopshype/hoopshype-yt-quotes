@@ -13,7 +13,9 @@ import json
 import os
 import re
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -97,6 +99,8 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
 ]"""
 
 MAX_QUOTES_AFTER_SPLIT = 15
+SPLIT_WORKERS = 4   # concurrent splitter calls within a single video
+VIDEO_WORKERS = 3   # concurrent process_video calls across the queue
 
 
 # --------------------------------------------------------------------------- #
@@ -413,20 +417,45 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
 
 
 def post_process_quotes(client, quotes: list) -> list:
-    """Split oversized quotes, then re-rank and cap at MAX_QUOTES_AFTER_SPLIT."""
-    out = []
+    """Split oversized quotes (in parallel), then re-rank and cap.
+
+    Splitter calls fan out across SPLIT_WORKERS threads. The final list is
+    assembled in the original input order so ranks remain stable, then
+    re-numbered 1..N and capped at MAX_QUOTES_AFTER_SPLIT.
+    """
+    quotes = quotes or []
     counts = {"split": 0, "unchanged": 0, "failed": 0}
-    for i, q in enumerate(quotes or []):
+    results: list = [None] * len(quotes)
+
+    split_jobs = []
+    for i, q in enumerate(quotes):
         if _needs_split(q):
-            wc = _word_count(q.get("quote", ""))
-            tc = len(q.get("topic_tags") or [])
-            subs, status = split_quote(client, q)
-            counts[status] += 1
-            if status == "split":
-                log(f"  [split] quote {i + 1} ({wc} words, {tc} tags) -> {len(subs)} sub-quotes")
-            out.extend(subs)
+            split_jobs.append((i, q))
         else:
-            out.append(q)
+            results[i] = [q]
+
+    if split_jobs:
+        with ThreadPoolExecutor(max_workers=SPLIT_WORKERS) as ex:
+            future_to_job = {
+                ex.submit(split_quote, client, q): (i, q) for i, q in split_jobs
+            }
+            for fut in as_completed(future_to_job):
+                i, q = future_to_job[fut]
+                try:
+                    subs, status = fut.result()
+                except Exception as e:
+                    log(f"  [split] worker raised {e!r}; keeping original")
+                    subs, status = [q], "failed"
+                counts[status] += 1
+                if status == "split":
+                    wc = _word_count(q.get("quote", ""))
+                    tc = len(q.get("topic_tags") or [])
+                    log(f"  [split] quote {i + 1} ({wc} words, {tc} tags) -> {len(subs)} sub-quotes")
+                results[i] = subs
+
+    out = []
+    for r in results:
+        out.extend(r if r is not None else [])
 
     if sum(counts.values()):
         log(
@@ -511,6 +540,36 @@ def regenerate_index() -> None:
     if not rows:
         lines.append("_No videos processed yet._")
     (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def _process_one_video(client, channel, video, today, lock, summary, processed_items) -> None:
+    """Worker: run one video through Gemini and update shared state under lock.
+
+    Any unhandled exception is caught here so a single failure cannot kill
+    sibling workers in the thread pool.
+    """
+    name = channel.get("name", "?")
+    video_id = video["video_id"]
+    log(f"  -> {video_id} [{name}]: {video['title'][:80]}")
+    try:
+        status, data = process_video(client, video, name)
+    except Exception as e:
+        log(f"  unexpected exception processing {video_id}: {e}")
+        status, data = "failed-other", None
+    log(f"     status [{video_id}]: {status}")
+    with lock:
+        summary[status] = summary.get(status, 0) + 1
+        if status == "ok" and data:
+            quotes = data.get("quotes") or []
+            top = quotes[0] if quotes else {}
+            processed_items.append({
+                "video_id": video_id,
+                "title": data.get("video_title_guess") or video.get("title") or video_id,
+                "channel": name,
+                "top_quote": top.get("quote", ""),
+                "speaker": top.get("speaker", ""),
+                "date": today,
+            })
 
 
 # --------------------------------------------------------------------------- #
@@ -685,28 +744,25 @@ def main() -> int:
         log(f"Capping queue from {len(queued)} to max_videos_per_run={max_total}")
         queued = queued[:max_total]
 
-    # Step 4: process with Gemini.
+    # Step 4: process with Gemini, up to VIDEO_WORKERS in parallel.
+    # google-genai's Client wraps an httpx transport that's safe for concurrent
+    # use across threads, so one Client is shared by all workers.
     client = genai.Client(api_key=gemini_key)
-    log(f"Processing {len(queued)} video(s) with Gemini...")
+    log(f"Processing {len(queued)} video(s) with Gemini (up to {VIDEO_WORKERS} in parallel)...")
     summary = {"ok": 0, "too-long": 0, "failed-json": 0, "failed-other": 0}
-    processed_items = []
-    for channel, video in queued:
-        name = channel.get("name", "?")
-        log(f"  -> {video['video_id']} [{name}]: {video['title'][:80]}")
-        status, data = process_video(client, video, name)
-        summary[status] = summary.get(status, 0) + 1
-        log(f"     status: {status}")
-        if status == "ok" and data:
-            quotes = data.get("quotes") or []
-            top = quotes[0] if quotes else {}
-            processed_items.append({
-                "video_id": video["video_id"],
-                "title": data.get("video_title_guess") or video.get("title") or video["video_id"],
-                "channel": name,
-                "top_quote": top.get("quote", ""),
-                "speaker": top.get("speaker", ""),
-                "date": today,
-            })
+    processed_items: list = []
+    state_lock = threading.Lock()
+
+    with ThreadPoolExecutor(max_workers=VIDEO_WORKERS) as ex:
+        futures = [
+            ex.submit(_process_one_video, client, channel, video, today, state_lock, summary, processed_items)
+            for channel, video in queued
+        ]
+        for fut in as_completed(futures):
+            try:
+                fut.result()
+            except Exception as e:
+                log(f"  unhandled worker exception: {e}")
 
     regenerate_index()
 
