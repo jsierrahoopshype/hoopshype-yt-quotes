@@ -15,6 +15,7 @@ import re
 import sys
 import threading
 import time
+import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
@@ -505,13 +506,38 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
 
 
 def write_outputs(video: dict, channel_name: str, data: dict, raw_text: str) -> Path:
+    """Write <video_id>.md and <video_id>.json atomically.
+
+    Both files are written first to a sibling .tmp path and then renamed onto
+    the canonical name, so a crash mid-write can never leave an empty .md
+    visible at the published path. An empty rendered markdown is treated as a
+    bug and raises before any file is opened.
+    """
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     day_dir = OUTPUT_DIR / today
     day_dir.mkdir(parents=True, exist_ok=True)
     md_path = day_dir / f"{video['video_id']}.md"
     json_path = day_dir / f"{video['video_id']}.json"
-    md_path.write_text(to_markdown(video["url"], channel_name, data), encoding="utf-8")
-    json_path.write_text(raw_text, encoding="utf-8")
+
+    md_content = to_markdown(video["url"], channel_name, data)
+    if not md_content:
+        raise ValueError(f"to_markdown produced empty content for {video['video_id']}")
+    json_content = raw_text or ""
+
+    md_tmp = md_path.with_name(md_path.name + ".tmp")
+    json_tmp = json_path.with_name(json_path.name + ".tmp")
+    try:
+        md_tmp.write_text(md_content, encoding="utf-8")
+        json_tmp.write_text(json_content, encoding="utf-8")
+        md_tmp.replace(md_path)
+        json_tmp.replace(json_path)
+    except Exception:
+        for tmp in (md_tmp, json_tmp):
+            try:
+                tmp.unlink(missing_ok=True)
+            except Exception:
+                pass
+        raise
     return md_path
 
 
@@ -545,8 +571,10 @@ def regenerate_index() -> None:
 def _process_one_video(client, channel, video, today, lock, summary, processed_items) -> None:
     """Worker: run one video through Gemini and update shared state under lock.
 
-    Any unhandled exception is caught here so a single failure cannot kill
-    sibling workers in the thread pool.
+    Any unhandled exception is caught and the full traceback is logged so a
+    silent failure can never masquerade as a successful run. After a status
+    of "ok" the on-disk .md is sanity-checked and the status is downgraded
+    to "failed-other" if the file is missing or zero bytes.
     """
     name = channel.get("name", "?")
     video_id = video["video_id"]
@@ -555,7 +583,24 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
         status, data = process_video(client, video, name)
     except Exception as e:
         log(f"  unexpected exception processing {video_id}: {e}")
+        for line in traceback.format_exc().rstrip().splitlines():
+            log(f"    {line}")
         status, data = "failed-other", None
+
+    if status == "ok":
+        md_path = OUTPUT_DIR / today / f"{video_id}.md"
+        try:
+            size = md_path.stat().st_size
+        except FileNotFoundError:
+            size = -1
+        if size <= 0:
+            log(
+                f"  [sanity] {video_id}.md is "
+                f"{'missing' if size < 0 else 'zero bytes'} "
+                "after process_video returned ok; downgrading to failed-other"
+            )
+            status, data = "failed-other", None
+
     log(f"     status [{video_id}]: {status}")
     with lock:
         summary[status] = summary.get(status, 0) + 1
