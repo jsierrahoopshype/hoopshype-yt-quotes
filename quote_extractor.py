@@ -148,17 +148,48 @@ def title_matches_skip_keyword(title: str, keywords: list) -> str:
 # --------------------------------------------------------------------------- #
 
 def find_existing_artifact(video_id: str) -> Path | None:
-    """Return the first existing artifact for this video_id, or None.
+    """Return the on-disk path that marks this video as already-processed, or None.
 
-    Looks for <video_id>.md, <video_id>.SKIPPED-*, or <video_id>.FAILED.* in
-    any subdirectory of output/. The presence of any of these means the video
-    has already been seen and should not be re-processed.
+    The disk is the only source of truth — output/index.md and any other
+    accumulated state are ignored. A video counts as processed only when one
+    of these is observably true:
+
+      - some output/<date>/<video_id>.md AND output/<date>/<video_id>.json
+        both exist as regular files with size > 0 (a successful prior run
+        for that date), OR
+      - some output/<date>/<video_id>.SKIPPED-too-long exists, OR
+      - some output/<date>/<video_id>.FAILED.txt exists.
+
+    Date folders are scanned newest-first so the most recent prior outcome
+    wins when a video has artifacts in more than one date directory.
+
+    Returns the full Path that triggered the match so the caller can log it.
+    Crucially, .md.tmp / .json.tmp partial files DO NOT count — they signal
+    an interrupted run that should be retried. Empty .md or .json files DO
+    NOT count either, for the same reason.
     """
     if not OUTPUT_DIR.exists():
         return None
-    for path in OUTPUT_DIR.rglob(f"{video_id}.*"):
-        if path.is_file():
-            return path
+    for day_dir in sorted(
+        (p for p in OUTPUT_DIR.iterdir() if p.is_dir() and p.name != "digest"),
+        reverse=True,
+    ):
+        md = day_dir / f"{video_id}.md"
+        js = day_dir / f"{video_id}.json"
+        try:
+            if (
+                md.is_file()
+                and js.is_file()
+                and md.stat().st_size > 0
+                and js.stat().st_size > 0
+            ):
+                return md
+        except OSError:
+            pass
+        for marker_name in (f"{video_id}.SKIPPED-too-long", f"{video_id}.FAILED.txt"):
+            marker = day_dir / marker_name
+            if marker.is_file():
+                return marker
     return None
 
 
@@ -625,7 +656,11 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     """Return '' if the video should be processed, otherwise a reason string."""
     existing = find_existing_artifact(video["video_id"])
     if existing:
-        return f"already processed ({existing.name})"
+        try:
+            existing_str = str(existing.resolve())
+        except OSError:
+            existing_str = str(existing)
+        return f"already processed (matched on disk: {existing_str})"
 
     if channel.get("bypass_filters"):
         return ""
