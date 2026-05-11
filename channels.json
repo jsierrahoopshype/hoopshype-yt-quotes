@@ -1,5 +1,96 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "name": "The Draymond Green Show",
+      "channel_id": "UCBNqqomXKPSWvcQDXOkRvRA",
+      "bypass_filters": false,
+      "active": true
+    },
+    {
+      "name": "NBA on ESPN",
+      "channel_id": "UCVSSpcmZD2PwPBqb8yKQKBA",
+      "bypass_filters": false,
+      "active": true
+    },
+    {
+      "name": "Mind the Game",
+      "channel_id": "UC6L_LBqoKZXFa4WxHox5iCw",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "All The Smoke",
+      "channel_id": "UC2ozVs4pg2K3uFLw6-0ayCQ",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Out The Mud",
+      "channel_id": "UCqwKvfByZqmdC2jaFcUPcvQ",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "To The Baha",
+      "channel_id": "UCU50K9xm-5_qbzwjMRr9A8w",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Run It Back",
+      "channel_id": "UCwZo_mDI4fOIp-g18kinGBw",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Road Trippin",
+      "channel_id": "UCSes4X8uDrpc4X46hJKjejg",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "No Fouls Given",
+      "channel_id": "UC-Ovj3qDVxBAOWX3kwzOVRw",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Roommates Show",
+      "channel_id": "UC1N15bwJCPFHjEsun1epfmw",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Kyrie LIVE",
+      "channel_id": "UCllPn98H4a079UMrahK7hhw",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Trae Young",
+      "channel_id": "UCwr3hqUDuO4D4szLkjeVlrA",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Anthony Edwards",
+      "channel_id": "UCFEiKlkFpJBISr1paTLW8Vg",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "7PM in Brooklyn",
+      "channel_id": "UCT3wF21Qx0d0HmuiCzji8Lg",
+      "bypass_filters": true,
+      "active": true
+    },
+    {
+      "name": "Curious Mike",
+      "channel_id": "UC3ZStupBLNVY4wVVOn7-e3w",
+      "bypass_filters": true,
+      "active": true
+    }
+  ],
   "min_duration_minutes": 15,
   "skip_title_keywords": [
     "highlights",
