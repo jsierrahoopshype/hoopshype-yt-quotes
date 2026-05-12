@@ -1,30 +1,21 @@
 name: Daily quote extraction
-
 on:
-  schedule:
-    # 07:00 UTC daily. Madrid time is +1h (winter) or +2h (summer).
-    # - cron: '0 7 * * *'
   workflow_dispatch:
-
 jobs:
   extract:
     runs-on: ubuntu-latest
     timeout-minutes: 300  # 5h, well under the 6h GitHub Actions ceiling
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
       - name: Run extractor
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -32,7 +23,6 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           OUTPUT_BASE_URL: ${{ secrets.OUTPUT_BASE_URL }}
         run: python quote_extractor.py
-
       - name: Mirror output/ into docs/ for GitHub Pages
         if: always()
         run: |
@@ -42,10 +32,8 @@ jobs:
           fi
           cat > docs/index.md <<'EOF'
           # HoopsHype YouTube quotes
-
           See the [browsable archive](output/) of all processed videos.
           EOF
-
       - name: Commit and push any new files
         if: always()
         run: |
@@ -57,8 +45,6 @@ jobs:
             exit 0
           fi
           git commit -m "Daily run: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          # Pull-rebase first in case anything else pushed to this branch
-          # while the (potentially long) extraction was running.
           git pull --rebase origin "${GITHUB_REF_NAME}" || {
             echo "Pull-rebase failed; aborting push to avoid clobbering."
             exit 1
