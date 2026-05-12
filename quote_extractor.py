@@ -12,11 +12,12 @@ Usage (from repo root):
 import json
 import os
 import re
+import signal
 import sys
 import threading
 import time
 import traceback
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -102,6 +103,26 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
 MAX_QUOTES_AFTER_SPLIT = 15
 SPLIT_WORKERS = 4   # concurrent splitter calls within a single video
 VIDEO_WORKERS = 3   # concurrent process_video calls across the queue
+PER_VIDEO_TIMEOUT_SECS = 25 * 60      # hard upper bound per video
+SCRIPT_TIMEOUT_SECS = 4 * 60 * 60     # hard upper bound for the whole run
+
+# Substrings (uppercased) in an exception's str() that count as transient
+# network/server errors and should be retried with the standard backoff.
+_TRANSIENT_MESSAGE_PATTERNS = (
+    "UNAVAILABLE",
+    "RESOURCE_EXHAUSTED",
+    "INTERNAL",
+    "SERVER DISCONNECTED",
+    "CONNECTION RESET",
+    "CONNECTION ABORTED",
+    "READ TIMED OUT",
+    "REMOTE END CLOSED CONNECTION",
+    "READERROR",
+    "REMOTEPROTOCOLERROR",
+    "CONNECTERROR",
+    "READTIMEOUT",
+    "CONNECTTIMEOUT",
+)
 
 
 # --------------------------------------------------------------------------- #
@@ -316,11 +337,29 @@ def is_token_limit_error(exc: Exception) -> bool:
 
 
 def _is_transient_gemini_error(exc: Exception) -> bool:
+    """True for retryable errors: HTTP 429/500/503, httpx network errors,
+    and any message containing one of _TRANSIENT_MESSAGE_PATTERNS.
+    """
     status = gemini_error_status(exc)
     if status in (429, 500, 503):
         return True
+    try:
+        import httpx
+        if isinstance(exc, (
+            httpx.ReadError,
+            httpx.RemoteProtocolError,
+            httpx.ConnectError,
+            httpx.ReadTimeout,
+            httpx.ConnectTimeout,
+        )):
+            return True
+    except ImportError:
+        pass
     msg = str(exc).upper()
-    return "UNAVAILABLE" in msg or "RESOURCE_EXHAUSTED" in msg or "INTERNAL" in msg
+    for pattern in _TRANSIENT_MESSAGE_PATTERNS:
+        if pattern in msg:
+            return True
+    return False
 
 
 def call_gemini_with_retry(client, url: str) -> tuple[str, object]:
@@ -398,14 +437,7 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
             )
             break
         except Exception as e:
-            status_code = gemini_error_status(e)
-            msg = str(e).upper()
-            transient = (
-                status_code in (429, 503)
-                or "UNAVAILABLE" in msg
-                or "RESOURCE_EXHAUSTED" in msg
-            )
-            if not transient:
+            if not _is_transient_gemini_error(e):
                 log(f"  [split] non-retryable error, keeping original: {e}")
                 return [quote], "failed"
             if attempt < len(backoffs):
@@ -610,13 +642,27 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
     name = channel.get("name", "?")
     video_id = video["video_id"]
     log(f"  -> {video_id} [{name}]: {video['title'][:80]}")
+
+    # Run process_video on a dedicated single-thread executor so we can
+    # walk away after PER_VIDEO_TIMEOUT_SECS if the worker hangs (e.g.
+    # on a TCP read that never returns). Python can't truly cancel a
+    # running thread; we accept that the abandoned thread keeps running
+    # in the background until the runner reaps it.
+    inner_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"vid-{video_id}")
+    future = inner_pool.submit(process_video, client, video, name)
     try:
-        status, data = process_video(client, video, name)
-    except Exception as e:
-        log(f"  unexpected exception processing {video_id}: {e}")
-        for line in traceback.format_exc().rstrip().splitlines():
-            log(f"    {line}")
-        status, data = "failed-other", None
+        try:
+            status, data = future.result(timeout=PER_VIDEO_TIMEOUT_SECS)
+        except FuturesTimeoutError:
+            log(f"  [timeout] video {video_id} exceeded {PER_VIDEO_TIMEOUT_SECS // 60}min total, abandoning")
+            status, data = "failed-other", None
+        except Exception as e:
+            log(f"  unexpected exception processing {video_id}: {e}")
+            for line in traceback.format_exc().rstrip().splitlines():
+                log(f"    {line}")
+            status, data = "failed-other", None
+    finally:
+        inner_pool.shutdown(wait=False)
 
     if status == "ok":
         md_path = OUTPUT_DIR / today / f"{video_id}.md"
@@ -723,7 +769,36 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
         return "ok", data
 
 
+def _install_script_timeout() -> None:
+    """Schedule a SIGALRM after SCRIPT_TIMEOUT_SECS that force-exits the
+    process. SIGALRM is Unix-only; on Windows this is a no-op so local
+    test runs aren't affected. On Linux (the GitHub Actions runner) the
+    handler runs between Python bytecodes / on syscall return and we
+    use os._exit because ThreadPoolExecutor workers can be stuck on
+    blocking I/O and would otherwise block clean interpreter shutdown.
+    """
+    if not hasattr(signal, "SIGALRM"):
+        log("signal.SIGALRM not available on this platform; script-level timeout disabled")
+        return
+
+    def _handler(signum, frame):
+        log(
+            f"[timeout] script-level {SCRIPT_TIMEOUT_SECS // 3600}h budget exceeded, "
+            "exiting with partial output"
+        )
+        try:
+            sys.stdout.flush()
+            sys.stderr.flush()
+        except Exception:
+            pass
+        os._exit(3)
+
+    signal.signal(signal.SIGALRM, _handler)
+    signal.alarm(SCRIPT_TIMEOUT_SECS)
+
+
 def main() -> int:
+    _install_script_timeout()
     gemini_key = os.getenv("GEMINI_API_KEY")
     yt_key = os.getenv("YOUTUBE_API_KEY")
     missing = [name for name, val in (("GEMINI_API_KEY", gemini_key), ("YOUTUBE_API_KEY", yt_key)) if not val]
