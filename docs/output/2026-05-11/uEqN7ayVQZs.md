@@ -1,0 +1,14 @@
+# Mind The Game: LeBron James on playing at 41
+
+Channel: Mind the Game
+
+Source: https://www.youtube.com/watch?v=uEqN7ayVQZs
+
+_Speakers identified: Steve Nash, LeBron James_
+
+**1. LeBron James, on player legacy, playoffs, team dynamics**
+[00:13](https://www.youtube.com/watch?v=uEqN7ayVQZs&t=13s)
+
+"No, I definitely didn't. I didn't believe that. I mean, listen, I came to the Lakers in 2018 at 33. And there's no way if someone had said, 'Would you be playing in 2026 in the postseason?' like, just playing, I don't know if I would have been able to answer that question, just playing. And then let alone saying, 'Hey, now but now you're the number one option on a playoff team and you're helping to win a series,' like, 'You're the number one option on that team.' I just, I wouldn't have believed that. I mean, you know, I knew I still had a lot left in the tank when I came to this franchise in '18, but to say that, you know, eight years later, you know, at 41, I would be leading a team into the postseason and and and then, you know, coming out with a with a series win. I wouldn't have guessed that and I wouldn't have bet on that."
+
+_Why it matters:_ LeBron James expresses his disbelief at his own sustained elite performance at age 41, highlighting the unprecedented nature of his longevity as a primary option on a playoff team.
