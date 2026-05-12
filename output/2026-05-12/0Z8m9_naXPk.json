@@ -1,0 +1,34 @@
+{
+  "video_title_guess": "Lakers Should Try To Keep Reaves On A Discount",
+  "speakers_seen": [
+    "Michelle Beadle",
+    "Chandler Parsons",
+    "Lou Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Lou Williams",
+      "timestamp": "00:21",
+      "topic_tags": [
+        "contracts",
+        "front office",
+        "team dynamics"
+      ],
+      "quote": "Ooh, that's tough. No, I'd try to get a deal. I don't know if I could get him 241 because you want to get other pieces around him and Luka. If you're going to, you can't. If you pay him that max, you can't really add any pieces. You've seen what happened in the playoffs, you need other pieces.",
+      "why_it_matters": "Lou Williams expresses skepticism about the Lakers offering Austin Reaves a max contract, arguing it would hinder their ability to acquire additional talent needed to contend in the playoffs."
+    },
+    {
+      "rank": 2,
+      "speaker": "Chandler Parsons",
+      "timestamp": "00:36",
+      "topic_tags": [
+        "contracts",
+        "team dynamics",
+        "playoffs"
+      ],
+      "quote": "See, that's my biggest problem, bro, is like, okay, they pay Reaves, they bring LeBron back, Luka's healthy. Are they still going to compete with the Spurs and the Thunder in the West then? Like, is that enough? You're paying all these guys to what? To be average?",
+      "why_it_matters": "Chandler Parsons questions the Lakers' championship aspirations if they commit significant cap space to Austin Reaves, suggesting such a move might only lead to an average team in a competitive Western Conference."
+    }
+  ]
+}

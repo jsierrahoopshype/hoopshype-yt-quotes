@@ -1,0 +1,91 @@
+# TO THE BAHA
+
+Channel: To The Baha
+
+Source: https://www.youtube.com/watch?v=t0KjvAc1S_o
+
+_Speakers identified: Blue Jersey Man, Black Hat Man, Hoodie Man_
+
+**1. Hoodie Man, on player legacy, team dynamics**
+[00:42](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=42s)
+
+"I don't think he's a leader. Like, I think he leads by example. He is what he is, he's a scorer. Like, I don't think you, I don't, I have never looked at Kevin Durant and be like, all right, he immediately is going to lead our team and everybody follows him. He's paid to be a scorer. I've never looked like even the teams, the beginning of OKC years, his first, how many years he played in OKC? Seven? Seven years. Would you say KD was a leader then? I, I wouldn't even say that. I would say it was Russell Westbrook. He was the leader. As far as in Golden State, Draymond Green, the leader. And Steph."
+
+_Why it matters:_ This offers a nuanced perspective on Kevin Durant's leadership style, suggesting he leads by example as a scorer rather than a vocal leader, contrasting him with past teammates like Russell Westbrook and Draymond Green.
+
+**2. Black Hat Man, on player legacy, team dynamics**
+[02:11](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=131s)
+
+"He made people uncomfortable. Kobe did. He made people uncomfortable because he talked shit. He let you know that you ain't working hard enough. So I'm not gonna pass you the f***ing ball. I see what you do every day. I mean, he, he obviously said it in an interview. I see what you do every day. Why the hell would I pass you the damn ball? Like he's that type. He's vocal, he gonna let you know. But if you put in the work, then he rocking with you. But if you don't and you on bullshit, he also gonna tell you that too. So, I mean, Kobe was one of those dudes who was never quiet, but he led by example because he worked out at 5:00 in the morning before practice."
+
+_Why it matters:_ This vividly describes Kobe Bryant's demanding and vocal leadership style, emphasizing how he pushed teammates through direct criticism and leading by example with his intense work ethic.
+
+**3. Black Hat Man, on player conduct, team dynamics, social media**
+[03:52](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=232s)
+
+"When you do that, when you such a high-caliber guy, when you act like that or if you do that and they find out it was you, because that's the thing about these days, these kids now can do all kind of shit with social media, they know what they, they know what's a burner account. Like me, I wouldn't know the goddamn difference. You can fool shit out of me. You know what I'm saying? Because I'm just not up to date like these young guys. So you can't fool these young dudes. So they know that's your burner account or not. If they know that's you and you really doing this, they gonna lose respect for you. If you do that, they gonna lose respect for you."
+
+_Why it matters:_ This emphasizes how modern young players are savvy to social media tactics like burner accounts, and such actions by high-caliber veterans can lead to a significant loss of respect within the locker room.
+
+**4. Hoodie Man, on trades, front office**
+[06:41](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=401s)
+
+"It's tough because you sit there and you're like, do you still make a call to see what you can get? Of course. They gonna do that regardless. Like, do you shop him around? Yeah. Because you know some of your, like some teams, you ain't, you're not shopping Jokic, you're not shopping Ant, you're not shopping Shay. Like, is KD on that level where you're not shopping him? I think you do. I think you sit there and say, hey look, what y'all, what would y'all, what would if do you want, are you a Kevin Durant away? Is Denver a Kevin Durant away? Is Miami a Kevin Durant away? Detroit is a Kevin Durant away. Like, this is, this is my thing. Detroit is literally a Kevin Durant away from being the best team in the East. If you could, so I just looked this up, I sent it to Hung earlier."
+
+_Why it matters:_ This explores Kevin Durant's trade value, questioning if he's an untouchable star like Jokic or Ant, and suggests potential destinations like Detroit, arguing he could elevate them to an elite Eastern Conference team.
+
+**5. Hoodie Man, on trades, team dynamics, player legacy**
+[09:18](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=558s)
+
+"If you get Kevin Durant to Denny, it's the same shit that you did in Phoenix. Denny's not the guy no more. You're going to go to Kevin Durant before you go to Denny. That's where you gotta understand. If you're trying to move forward with your future, you can't bring a Kevin Durant to the team because it's the same thing with LeBron. Unless you send Denny to Houston. Yes, but then you can't do that. I know. I know, exactly. No, you can't do that. It's the same thing with the LeBron and the Lakers shit. If you're going to, LeBron took the, and we'll talk about it later, LeBron."
+
+_Why it matters:_ This argues against pairing Kevin Durant with a young star like Cade Cunningham (referred to as 'Denny'), asserting that Durant would overshadow him, hindering the young player's development, similar to past situations.
+
+**6. Black Hat Man, on player legacy, team dynamics**
+[05:09](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=309s)
+
+"No, because he's somebody that's you would consider being up here, All-Star, Hall of Famer, f***ing star of the league, but when you do shit like that, it brings you to a lower tier now, like, oh, you with us? They got no respect for him. No, they ain't got no respect for him now. Before it was like all the respect, oh shit, we got Kevin Durant. I used to watch him. Some of them might have said Kevin Durant my GOAT. Like, just be real with you because you think about how young some of them kids is, they actually watched Kevin Durant. When he was in OKC, some of them kids probably was in middle school. Think about that. Some of them was in middle school, if not elementary. That's what's crazy."
+
+_Why it matters:_ This explains how a star player's questionable actions can erode the respect of younger teammates who once idolized them, effectively lowering their standing within the league.
+
+**7. Black Hat Man, on team dynamics, player legacy**
+[14:03](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=843s)
+
+"KD is not gonna take a back seat to Sengun. F*** no. No, he's not. He's absolutely not. But I think, but I think Sengun was trying to be the guy. If you look at it sometimes, it was frustrating, frustrating KD, because I watched his body language, bro. Terrible. Yeah, he was like, like just, I ain't gonna say disgusted, but he was a pissed with some of the things Sengun was doing. He was disgusted. But if there's somebody else over there that he got a little bit more respect for, I think he'll take a back seat. Not taking no back seat to Sengun. He's not talking, doing that."
+
+_Why it matters:_ This highlights the tension between Kevin Durant and Alperen Sengun, suggesting Durant's unwillingness to defer to Sengun stemmed from a lack of respect and frustration with his play.
+
+**8. Black Hat Man, on trades, player movement, team dynamics**
+[17:35](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=1055s)
+
+"But I know Houston is trying to go young. What do you think about swapping him and AR? Do a sign and trade? No. I know that's not gonna happen because the Lakers are not gonna let him go. But I'm just saying, Luka, LeBron, KD, you got some vets. You still got, you know, you still keep Marcus Smart, you still keep those guys. I'm just saying. That can work. He can't, he can't go to a young team. I'm sorry. It's not gonna work. You're right. It's not gonna work. You're right, right. So I'm looking at veteran teams. There ain't but so many veteran teams in this league at this point. You feel me? So like, he's probably gotta go back. He gotta go, he gotta go like, like I say, Denver, the Lakers, somebody like that."
+
+_Why it matters:_ This explores potential veteran-heavy trade scenarios for Kevin Durant, suggesting teams like the Lakers or Nuggets as ideal fits where he can contribute without being the primary leader, acknowledging his unsuitability for young teams.
+
+**9. Hoodie Man, on trades, playoffs, team dynamics**
+[15:34](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=934s)
+
+"But he's 38, he's about to be 38. I'm not wasting my time going to Washington. Why is that wasting up time? It's wasting time. Either, that team, that team does have a chance to make it up the East? No, nigga. Who are they beating? Trae and who? With Trae Young and KD and AD. That ain't bad. They're not winning anything. They never played together. They're not beating the Knicks. They're not beating them teams in the East. They'll make the playoffs. That's cool. They'll be more than. But you still got other guys around them that have never played in the playoffs."
+
+_Why it matters:_ This dismisses the idea of Kevin Durant joining Trae Young and Anthony Davis in Washington, arguing that at 38, it would be a 'waste of time' as the team wouldn't win a championship, despite making the playoffs.
+
+**10. Black Hat Man, on team dynamics, trades, front office**
+[06:03](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=363s)
+
+"But if you're going with the young movement, the young cats ain't feeling them. But you, I know they ain't feeling them, but you gotta try to figure it out. I don't think he feeling them. You gotta see what it looks like with a point guard. You gotta see what it looks like with Fred. That's true. You gotta get Fred back. Steven Adams is coming back, you know what I'm saying? You gotta see what it looks like because before, before Steven Adams got hurt, like, honestly, it was, it was okay. They still needed a point guard, we knew that, but at least Steven Adams gave them some type of leadership and he was just a force, like, you know, on that, on that on the inside. But if you get Fred and him back, you have to take a look at what it looks like with KD. You have to try to figure something out."
+
+_Why it matters:_ This argues that despite Kevin Durant's issues, the Houston Rockets should still try to integrate him with returning leaders like Fred VanVleet and Steven Adams to assess the team's potential before making a trade.
+
+**11. Blue Jersey Man, Hoodie Man, on front office, player legacy, team dynamics**
+[13:24](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=804s)
+
+"If you're a GM though, are you like kind of staying away from KD though? It's definitely f***ing scary. It's getting there. Phoenix didn't work out. Houston didn't. People say he gave up on his team and you know, GMs talk."
+
+_Why it matters:_ This captures the growing apprehension among GMs regarding Kevin Durant's track record with team dynamics, suggesting his past failures in Phoenix and Houston, coupled with rumors of him 'giving up,' make him a risky asset.
+
+**12. Hoodie Man, on team dynamics, player legacy**
+[04:23](https://www.youtube.com/watch?v=t0KjvAc1S_o&t=263s)
+
+"Hey, 824, if we keeping it a buck, since the burner account, they have went downhill. For real. Yeah. Like, let's keep it, like, when, think about it, the Houston Rockets at that time, I wonder what their record was at the time. But since then, it has went downhill. They have been just going straight up and down."
+
+_Why it matters:_ This suggests a direct correlation between the Kevin Durant burner account controversy and the subsequent decline of the Houston Rockets, implying a lasting negative impact on team performance.

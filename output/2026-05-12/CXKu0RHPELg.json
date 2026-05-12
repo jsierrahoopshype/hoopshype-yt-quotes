@@ -1,0 +1,30 @@
+{
+  "video_title_guess": "Mind the Game",
+  "speakers_seen": [
+    "Steve Nash",
+    "LeBron James"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Nash",
+      "timestamp": "00:00",
+      "topic_tags": [
+        "player legacy",
+        "team dynamics"
+      ],
+      "quote": "So if I had to make a case against Wemby, which I hate to do because I love him, and I think you're right, it's corny to be like he has his time. That's not fair. I will say maybe we're not ready, like as a basketball society, to give it to him at this stage, which may be proven wrong as we evolve like on this side of it, the judgment. But I would say this, if I had to say one thing and now he can close a game every single night defensively. But I would say he is not where he will be as you were in your prime, maybe you'd still be doing as Luka is, as SGA is, as Jokic is. Last five minutes, here's the ball, take us home.",
+      "why_it_matters": "Steve Nash offers a nuanced take on Victor Wembanyama's current impact, suggesting the league isn't fully ready for his unique talent while highlighting his defensive closing ability and future offensive potential compared to current superstars."
+    },
+    {
+      "rank": 2,
+      "speaker": "LeBron James",
+      "timestamp": "00:41",
+      "topic_tags": [
+        "player legacy"
+      ],
+      "quote": "I'm glad I won't be in the league when it arrives. I'm glad I'll be able to watch and do this and and figure out what time my tee time is tomorrow.",
+      "why_it_matters": "LeBron James humorously acknowledges Victor Wembanyama's immense future potential, expressing relief that he won't have to face him at his peak."
+    }
+  ]
+}
