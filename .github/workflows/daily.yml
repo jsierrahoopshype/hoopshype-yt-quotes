@@ -3,7 +3,7 @@ name: Daily quote extraction
 on:
   schedule:
     # 07:00 UTC daily. Madrid time is +1h (winter) or +2h (summer).
-    - cron: '0 7 * * *'
+    # - cron: '0 7 * * *'
   workflow_dispatch:
 
 jobs:
