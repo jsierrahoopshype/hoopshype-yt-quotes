@@ -1,0 +1,22 @@
+{
+  "video_title_guess": "No Fouls Given",
+  "speakers_seen": [
+    "Unknown speaker",
+    "Unknown speaker",
+    "Unknown speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unknown speaker",
+      "timestamp": "00:50",
+      "topic_tags": [
+        "playoffs",
+        "team dynamics",
+        "player legacy"
+      ],
+      "quote": "You guys know, listen, and this is not me trolling because it's Boston guy. New York does this every year. They get everybody all excited and then, 'We're gonna win it! Parade in the streets!' And they're gonna do something that's gonna disappoint everyone. They do it every year. I promise you, I've seen this for the last 25 years. Definitely gonna lose to Detroit. Or they're gonna go up 3-0 in the Finals and lose four straight. It's gonna be something devastating. We all know this. Come on.",
+      "why_it_matters": "This speaker provides a strong, cynical take on the Knicks' historical playoff performance, predicting their eventual collapse despite current excitement, which could fuel debate among fans."
+    }
+  ]
+}

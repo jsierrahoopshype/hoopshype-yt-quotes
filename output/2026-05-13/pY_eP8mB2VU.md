@@ -1,0 +1,14 @@
+# Roommates Show
+
+Channel: Roommates Show
+
+Source: https://www.youtube.com/watch?v=pY_eP8mB2VU
+
+_Speakers identified: Unknown speaker, Josh Hart, Julius Randle_
+
+**1. Josh Hart, on team dynamics, coaching**
+[00:05](https://www.youtube.com/watch?v=pY_eP8mB2VU&t=5s)
+
+"I didn't see it until after the game, him tried to rip his arm out of his shoulder. When you're on the other side of that, you just don't know what's going on through someone's head. They're mad, they're frustrated, you just got to be cautious of what thing can happen. I just remember after the whole Mitch situation, CJ kind of walked past me and was like, 'Tell your guys just to protect themselves. We don't want anything to happen.' And so I was like, 'Alright, I got you.' And I said, 'Just be smart, play off two feet, no home run plays, just be as smart as we can.' But yeah, him trying to do all that was a little much."
+
+_Why it matters:_ Josh Hart provides an inside look at how players and coaches communicate and strategize about player safety and composure during intense on-court altercations, highlighting the need for caution and smart play.

@@ -1,0 +1,78 @@
+{
+  "video_title_guess": "Room Mates Show",
+  "speakers_seen": [
+    "Unknown speaker",
+    "Jalen Brunson",
+    "Josh Hart"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Josh Hart",
+      "timestamp": "03:06",
+      "topic_tags": [
+        "front office",
+        "team dynamics"
+      ],
+      "quote": "You have an all-time great still in his prime. You retool. You retool. You figure it out. Unless he says, I don't want to be there, you figure it out, right? I don't know what all the possibilities that people could possibly think of.",
+      "why_it_matters": "Hart offers a clear directive for the Nuggets' front office: retool the roster around Nikola Jokic, emphasizing that a prime all-time great demands immediate competitive adjustments."
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Brunson",
+      "timestamp": "00:50",
+      "topic_tags": [
+        "player legacy",
+        "playoffs",
+        "team dynamics"
+      ],
+      "quote": "He listed out their whole government names. This is the best, at least in recent times, best backing up of trash talk. In the last 10, 15 years of the league. One, no one else really talks trash like that, at least in the media. But he was saying everything and then was out there going out and getting like 25 and 30. I'm like, you know what, brother, you can say whatever.",
+      "why_it_matters": "Brunson praises Jaden McDaniels for his rare ability to back up trash talk with strong on-court performance, highlighting a unique aspect of his playoff impact."
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Brunson",
+      "timestamp": "01:29",
+      "topic_tags": [
+        "playoffs",
+        "team dynamics"
+      ],
+      "quote": "The Laker one, that's interesting. They're in a little, I think the Game 6 is tonight. They're in a little dog fight. It's interesting because now it's like, if you look at Houston, they were down 3-0, they just won two in a row. In their mind, they're really, yeah, I think so. But in your mind, you're like, I just want we just won two in a row. It's 3-2. We should have won Game 3 where they just had that six-point collapse at the end of the game. So I'm sure these dudes are confident as on high because they're probably looking at it like, we should be up 3-2 right now. And this is Game 6, so this is in Houston.",
+      "why_it_matters": "Brunson analyzes the Lakers-Rockets series, noting Houston's comeback from 3-0 and their perceived missed opportunity in Game 3, suggesting their confidence is high despite being down 3-2."
+    },
+    {
+      "rank": 4,
+      "speaker": "Josh Hart",
+      "timestamp": "03:52",
+      "topic_tags": [
+        "team dynamics",
+        "playoffs"
+      ],
+      "quote": "They had so many injuries this year. They were like number two at one point, maybe even number one. They were a high seed and they dropped down. Aaron Gordon got hurt. Watson got hurt. Braun was hurt for 45 games or whatever. KCP got hurt. Jamal, I think was out for a little bit. But they're all like, you retool, man. You won with him. He showed that he's won. You figure it out.",
+      "why_it_matters": "Hart points to the Nuggets' extensive injury woes throughout the season, including key players like Aaron Gordon, Watson, Braun, KCP, and Jamal Murray, as a primary reason for their playoff struggles, reinforcing the need to retool around Jokic."
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Brunson",
+      "timestamp": "03:33",
+      "topic_tags": [
+        "team dynamics",
+        "playoffs"
+      ],
+      "quote": "That series I think is different because they're I'm not gonna obviously Jokic is their most important guy, but their he could be their second most important guy is Aaron Gordon and obviously he was in and out this year.",
+      "why_it_matters": "Brunson identifies Aaron Gordon as potentially the second most important player for the Nuggets, suggesting his inconsistent availability due to injury significantly impacted their playoff performance."
+    },
+    {
+      "rank": 6,
+      "speaker": "Unknown speaker",
+      "timestamp": "02:49",
+      "topic_tags": [
+        "front office",
+        "team dynamics",
+        "playoffs"
+      ],
+      "quote": "What do you do if you're Denver? Obviously, Jokic came out and said if we were back in Serbia, everyone would be gone. But if you're Denver, obviously you have some things to figure out. What do you guys think?",
+      "why_it_matters": "The host raises a critical question about Denver's future strategy after their playoff exit, referencing Nikola Jokic's strong comments about potential roster changes."
+    }
+  ]
+}
