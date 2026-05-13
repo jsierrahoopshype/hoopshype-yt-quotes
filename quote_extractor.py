@@ -634,6 +634,58 @@ def regenerate_index() -> None:
     (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def write_daily_digest(date_str: str) -> Path | None:
+    """Concatenate every per-video <video_id>.md in output/<date>/ into one
+    output/<date>/digest.md and return its path. Returns None if there is no
+    day folder or no per-video .md to include.
+
+    Regenerates from scratch each call so the digest reflects ALL successful
+    videos for that date across every run that day. The digest itself, plus
+    .FAILED.txt and .SKIPPED-too-long marker files, are excluded from the
+    concatenation. Per-video h1 headings are demoted to h2 so the document
+    has a clean outline under the date-level h1.
+    """
+    day_dir = OUTPUT_DIR / date_str
+    if not day_dir.is_dir():
+        return None
+
+    video_md_paths = sorted(
+        p for p in day_dir.glob("*.md")
+        if p.is_file() and p.name != "digest.md"
+    )
+    if not video_md_paths:
+        return None
+
+    parts = [f"# HoopsHype YT Quotes — {date_str}", ""]
+    for i, md_path in enumerate(video_md_paths):
+        try:
+            content = md_path.read_text(encoding="utf-8").strip()
+        except Exception:
+            continue
+        if not content:
+            continue
+        if content.startswith("# "):
+            content = "#" + content  # demote h1 to h2
+        if i > 0:
+            parts.append("---")
+            parts.append("")
+        parts.append(content)
+        parts.append("")
+
+    digest_path = day_dir / "digest.md"
+    tmp = digest_path.with_name(digest_path.name + ".tmp")
+    try:
+        tmp.write_text("\n".join(parts), encoding="utf-8")
+        tmp.replace(digest_path)
+    except Exception:
+        try:
+            tmp.unlink(missing_ok=True)
+        except Exception:
+            pass
+        raise
+    return digest_path
+
+
 def _process_one_video(client, channel, video, today, lock, summary, processed_items) -> None:
     """Worker: run one video through Gemini and update shared state under lock.
 
@@ -923,6 +975,9 @@ def main() -> int:
                 log(f"  unhandled worker exception: {e}")
 
     regenerate_index()
+    # Build the consolidated daily digest BEFORE the Slack post so the
+    # linked digest.md exists by the time anyone clicks it.
+    write_daily_digest(today)
 
     if processed_items:
         slack_notify.post_digest(processed_items, today)

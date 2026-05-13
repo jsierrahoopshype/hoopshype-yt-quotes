@@ -1,7 +1,10 @@
 name: Daily quote extraction
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 4 * * *'   # 04:00 UTC — midnight ET, 6am Madrid (summer)
+    - cron: '0 9 * * *'   # 09:00 UTC — 5am ET, 11am Madrid (summer)
+    - cron: '0 14 * * *'  # 14:00 UTC — 10am ET, 4pm Madrid (summer)
+    - cron: '0 20 * * *'  # 20:00 UTC — 4pm ET, 10pm Madrid (summer)
   workflow_dispatch:
 jobs:
   extract:

@@ -24,11 +24,11 @@ def _output_base_url() -> str:
     return (os.getenv("OUTPUT_BASE_URL") or "").strip().rstrip("/")
 
 
-def _date_folder_link(date_str: str) -> str:
+def _digest_link(date_str: str) -> str:
     base = _output_base_url()
     if not base:
-        return f"output/{date_str}/"
-    return f"{base}/{date_str}/"
+        return f"output/{date_str}/digest.md"
+    return f"{base}/{date_str}/digest.md"
 
 
 CLOSING_LINE = (
@@ -78,7 +78,7 @@ def post_digest(items: list, date_str: str) -> bool:
     lines = [
         f"*HoopsHype YT Quotes — {date_str}*",
         f"Processed {n} video{plural}.",
-        _date_folder_link(date_str),
+        _digest_link(date_str),
     ]
     for it in items:
         title = it.get("title") or it["video_id"]
