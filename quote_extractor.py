@@ -37,28 +37,41 @@ CONFIG_PATH = ROOT / "channels.json"
 WATCH_URL_TEMPLATE = "https://www.youtube.com/watch?v={video_id}"
 YT_API_BASE = "https://www.googleapis.com/youtube/v3"
 
-PROMPT = """You are watching an NBA YouTube show. Extract the top 12 most controversial or insightful quotes about NBA trades, free agency, player movement, team dynamics, front office, contracts, player legacy, coaching, or playoff issues.
+PROMPT = """You are watching an NBA YouTube show. Extract the editorially strongest quotes about NBA trades, free agency, player movement, team dynamics, front office, contracts, player legacy, coaching, or playoff issues.
 
 Hard rules — these are limits, not targets:
 
 - LENGTH: Each quote MUST be between 60 and 220 words after cleanup. Quotes over 220 words must be split into separate ranked quotes or shortened. Do not exceed 220 words under any circumstance.
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
-- ONE TOPIC PER QUOTE: A single quote covers a single subject — one player, one team, one story, one argument. If the speaker pivots to a new player, team, story, or argument, that is a new quote with its own rank, timestamp, and topic tags. Do not merge two topics into one quote even when they are spoken back-to-back.
-- TAG COUNT: Each quote gets 1 to 3 topic tags. If you want more than 3 tags, the quote is covering too much ground — split it.
+- ONE TOPIC PER QUOTE: A single quote covers a single subject — one player, one team, one story, one argument. If the speaker pivots to a new player, team, story, or argument, that is a new quote with its own rank and timestamp. Do not merge two topics into one quote even when they are spoken back-to-back.
 - MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject.
+
+How many quotes to return (scale to the video's length and substance — do NOT pad):
+
+- Under 5 min:       0 to 2 quotes. If nothing is editorially worth pulling, return an empty array.
+- 5 to 15 min:       3 to 6 quotes.
+- 15 to 30 min:      6 to 10 quotes.
+- 30 to 60 min:      9 to 15 quotes.
+- 60 to 90 min:      12 to 18 quotes.
+- 90+ min:           15 to 20 quotes.
+
+Cap at 20 in all cases. An empty array is acceptable if the video has nothing worth quoting. Better to return 5 strong quotes than 12 mediocre ones.
 
 Editorial rules:
 
-- Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return "Unknown speaker". Do not guess.
+- Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return "Unknown speaker". Do not guess. Do not describe their appearance ("man with beard", "guy in red hoodie") — that is not a speaker identification.
 - Provide a start timestamp in MM:SS or H:MM:SS format pointing at the moment the quote begins.
-- Tag each quote using only these topics: trades, free agency, team dynamics, player legacy, rumors, front office, coaching, playoffs, contracts.
+- For each quote, write a "summary_phrase": a 5-12 word headline that describes the SUBSTANCE of what the speaker is saying, in concrete terms. Examples:
+    - "why Embiid can't have a 'legacy game' in round 1"
+    - "Max Strus's defensive transformation in Cleveland"
+    - "DeAndre Ayton on his last straw in Portland"
+  Do NOT use generic category labels like "player legacy", "team dynamics", "trades", "coaching", "playoffs". The summary_phrase must name a specific player, team, story, or argument — not a category.
+- For each quote, list every player, coach, or front-office name mentioned IN THE QUOTE TEXT in the "names_mentioned" array. Use the exact substring spelling that appears in your cleaned quote text. Do not include team names, hosts who don't appear in the quote body, or the speaker's own name unless they refer to themselves in third person inside the quote.
 - FILLER CLEANUP: Strip conversational noise so the quote reads like lightly edited print. Remove "uh", "um", "er", "ah" and variants. Remove "you know" when used as filler (keep it when it's a real question or phrase). Remove "like" when used as filler or hedging (keep it as a real verb or comparison). Remove "I mean" when used to restart a thought. Remove "kind of" and "sort of" when used as filler. Collapse repeated words from false starts ("the the", "we we"). Resolve mid-sentence trailing-off restarts to the speaker's completed thought (e.g. "if he goes home, he's not -- he can be the guy" -> "if he goes home, he can be the guy"). Preserve the speaker's voice and emphasis. Do not paraphrase or change meaning. Example —
   Before: "If he leaves LA, uh, Cleveland. I think it's full circle, going home again, um, joining a team that, as we saw, uh, last night, um, once again, you know, obviously Donovan Mitchell going off..."
   After: "If he leaves LA, Cleveland. I think it's full circle, going home again, joining a team that, as we saw last night, once again, obviously Donovan Mitchell going off..."
 - Preserve the speaker's meaning. Do not exaggerate their tone. Do not fabricate.
 - Skip play-by-play recap, sponsor reads, intros, outros, generic opinions, and recycled talking points unless phrased forcefully.
-- Add a one-sentence "why it matters" note framed for HoopsHype Rumors readers (NBA-savvy, want news value).
-- Return up to 12 quotes ranked by news value. If fewer than 12 meet the bar, return fewer.
 
 Return ONLY valid JSON, no surrounding text or markdown fences:
 
@@ -70,9 +83,9 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
       "rank": 1,
       "speaker": "string",
       "timestamp": "MM:SS",
-      "topic_tags": ["trades"],
-      "quote": "cleaned quote text",
-      "why_it_matters": "one sentence"
+      "summary_phrase": "5-12 word specific headline naming a player, team, or story",
+      "names_mentioned": ["LeBron James", "Mikal Bridges"],
+      "quote": "cleaned quote text"
     }
   ]
 }"""
@@ -85,11 +98,11 @@ Hard rules:
 - Each sub-quote MUST be between 60 and 220 words after cleanup. Do not exceed 220 words under any circumstance.
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - Each sub-quote covers a single subject — one player, one team, one story, one argument.
-- Each sub-quote gets 1 to 3 topic tags drawn ONLY from this vocabulary: trades, free agency, team dynamics, player legacy, rumors, front office, coaching, playoffs, contracts.
 - Use the SAME speaker and the SAME timestamp as the original quote for every sub-quote.
+- For each sub-quote, write a "summary_phrase": a 5-12 word headline naming the specific player, team, story, or argument. Do not use generic category labels.
+- For each sub-quote, list every player, coach, or front-office name mentioned in the sub-quote text in "names_mentioned", using the exact substring spelling from your cleaned text.
 - Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation. Preserve the speaker's meaning. Do not exaggerate. Do not fabricate.
 - Drop weak segments rather than padding. Returning fewer sub-quotes is better than returning weak ones.
-- Add a one-sentence "why it matters" note for each sub-quote, framed for HoopsHype Rumors readers (NBA-savvy, want news value).
 
 Return ONLY valid JSON, no surrounding text or markdown fences. The output is a JSON ARRAY at the top level (not an object):
 
@@ -97,13 +110,13 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
   {
     "speaker": "string",
     "timestamp": "MM:SS",
-    "topic_tags": ["trades"],
-    "quote": "cleaned quote text",
-    "why_it_matters": "one sentence"
+    "summary_phrase": "5-12 word specific headline",
+    "names_mentioned": ["LeBron James"],
+    "quote": "cleaned quote text"
   }
 ]"""
 
-MAX_QUOTES_AFTER_SPLIT = 15
+MAX_QUOTES_AFTER_SPLIT = 20
 SPLIT_WORKERS = 4   # concurrent splitter calls within a single video
 VIDEO_WORKERS = 3   # concurrent process_video calls across the queue
 PER_VIDEO_TIMEOUT_SECS = 25 * 60      # hard upper bound per video
@@ -397,11 +410,7 @@ def _word_count(text: str) -> int:
 
 
 def _needs_split(quote: dict) -> bool:
-    if _word_count(quote.get("quote", "")) > 220:
-        return True
-    if len(quote.get("topic_tags") or []) > 3:
-        return True
-    return False
+    return _word_count(quote.get("quote", "")) > 220
 
 
 def split_quote(client, quote: dict) -> tuple[list, str]:
@@ -472,9 +481,9 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
         out.append({
             "speaker": sub.get("speaker") or speaker,
             "timestamp": sub.get("timestamp") or timestamp,
-            "topic_tags": sub.get("topic_tags") or quote.get("topic_tags", []),
+            "summary_phrase": sub.get("summary_phrase") or quote.get("summary_phrase", ""),
+            "names_mentioned": sub.get("names_mentioned") or quote.get("names_mentioned", []),
             "quote": sub["quote"],
-            "why_it_matters": sub.get("why_it_matters", quote.get("why_it_matters", "")),
         })
     if len(out) > 1:
         return out, "split"
@@ -516,8 +525,7 @@ def post_process_quotes(client, quotes: list) -> list:
                 counts[status] += 1
                 if status == "split":
                     wc = _word_count(q.get("quote", ""))
-                    tc = len(q.get("topic_tags") or [])
-                    log(f"  [split] quote {i + 1} ({wc} words, {tc} tags) -> {len(subs)} sub-quotes")
+                    log(f"  [split] quote {i + 1} ({wc} words) -> {len(subs)} sub-quotes")
                 results[i] = subs
 
     out = []
@@ -530,6 +538,20 @@ def post_process_quotes(client, quotes: list) -> list:
             f"{counts['unchanged']} unchanged, "
             f"{counts['failed']} failed after retries"
         )
+
+    # Dedupe on the cleaned quote body only (item 6c). Keep first occurrence.
+    seen_bodies = set()
+    deduped = []
+    for q in out:
+        key = (q.get("quote") or "").strip()
+        if key and key in seen_bodies:
+            continue
+        if key:
+            seen_bodies.add(key)
+        deduped.append(q)
+    if len(deduped) != len(out):
+        log(f"  [dedupe] removed {len(out) - len(deduped)} identical quote(s)")
+    out = deduped
 
     if len(out) > MAX_QUOTES_AFTER_SPLIT:
         log(f"  [split] capping {len(out)} quotes at {MAX_QUOTES_AFTER_SPLIT}")
@@ -546,10 +568,9 @@ def post_process_quotes(client, quotes: list) -> list:
 
 def to_markdown(url: str, channel_name: str, data: dict) -> str:
     vid = video_id_from_url(url)
+    title = data.get("video_title_guess") or "NBA quotes"
     lines = [
-        f"# {data.get('video_title_guess', 'NBA quotes')}",
-        "",
-        f"Channel: {channel_name}",
+        f"# {title} — *{channel_name}*",
         "",
         f"Source: {url}",
         "",
@@ -560,15 +581,51 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
     for q in data.get("quotes", []):
         secs = timestamp_to_seconds(q.get("timestamp", "0:00"))
         ts_link = f"https://www.youtube.com/watch?v={vid}&t={secs}s" if vid else url
-        topics = ", ".join(q.get("topic_tags", []))
-        lines.append(f"**{q.get('rank', '?')}. {q.get('speaker', 'Unknown speaker')}, on {topics}**")
+        speaker = (q.get("speaker") or "").strip()
+        summary = (q.get("summary_phrase") or "").strip()
+        # Item 6b: omit awkward "Unknown speaker (man with beard)" attributions.
+        if _is_unknown_speaker(speaker):
+            speaker = ""
+        if speaker and summary:
+            header = f"**{q.get('rank', '?')}. {speaker} — {summary}**"
+        elif speaker:
+            header = f"**{q.get('rank', '?')}. {speaker}**"
+        elif summary:
+            header = f"**{q.get('rank', '?')}. {summary}**"
+        else:
+            header = f"**{q.get('rank', '?')}.**"
+        lines.append(header)
         lines.append(f"[{q.get('timestamp', '?')}]({ts_link})")
         lines.append("")
-        lines.append(f"\"{q.get('quote', '')}\"")
-        lines.append("")
-        lines.append(f"_Why it matters:_ {q.get('why_it_matters', '')}")
+        body = q.get("quote", "")
+        bolded = _bold_names(body, q.get("names_mentioned") or [])
+        lines.append(f"\"{bolded}\"")
         lines.append("")
     return "\n".join(lines)
+
+
+def _is_unknown_speaker(speaker: str) -> bool:
+    """True when Gemini couldn't ID the speaker (with or without an
+    appearance-based descriptor like 'Unknown speaker (man with beard)')."""
+    if not speaker:
+        return True
+    lower = speaker.strip().lower()
+    return lower.startswith("unknown speaker") or lower in ("unknown", "speaker")
+
+
+def _bold_names(text: str, names: list) -> str:
+    """Wrap every occurrence of each name in **bold** markers.
+
+    Longest names first via a single regex pass so "LeBron James" is bolded
+    as one unit instead of "**LeBron** James". Exact substring match,
+    case-sensitive, matching the spec.
+    """
+    valid = [n for n in (names or []) if isinstance(n, str) and n.strip()]
+    if not valid or not text:
+        return text or ""
+    sorted_names = sorted(set(valid), key=len, reverse=True)
+    pattern = "|".join(re.escape(n) for n in sorted_names)
+    return re.sub(pattern, lambda m: f"**{m.group(0)}**", text)
 
 
 def write_outputs(video: dict, channel_name: str, data: dict, raw_text: str) -> Path:
@@ -657,20 +714,30 @@ def write_daily_digest(date_str: str) -> Path | None:
         return None
 
     parts = [f"# HoopsHype YT Quotes — {date_str}", ""]
-    for i, md_path in enumerate(video_md_paths):
+    first = True
+    for md_path in video_md_paths:
         try:
             content = md_path.read_text(encoding="utf-8").strip()
         except Exception:
             continue
         if not content:
             continue
+        # Item 6d: skip videos that processed cleanly but produced zero quotes.
+        # Quote headers start with "**<n>. " in the rendered markdown.
+        if not re.search(r'(?m)^\*\*\d+\.', content):
+            continue
         if content.startswith("# "):
             content = "#" + content  # demote h1 to h2
-        if i > 0:
+        if not first:
             parts.append("---")
             parts.append("")
+        first = False
         parts.append(content)
         parts.append("")
+
+    if first:
+        # Every per-video .md was quoteless. Nothing meaningful to publish.
+        return None
 
     digest_path = day_dir / "digest.md"
     tmp = digest_path.with_name(digest_path.name + ".tmp")
