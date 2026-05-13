@@ -72,11 +72,12 @@ Editorial rules:
   After: "If he leaves LA, Cleveland. I think it's full circle, going home again, joining a team that, as we saw last night, once again, obviously Donovan Mitchell going off..."
 - Preserve the speaker's meaning. Do not exaggerate their tone. Do not fabricate.
 - Skip play-by-play recap, sponsor reads, intros, outros, generic opinions, and recycled talking points unless phrased forcefully.
+- HALLUCINATION GUARD: Begin your JSON with a "video_title" field that ECHOES BACK EXACTLY the YouTube title supplied above (the line starting with "YouTube title:"). Preserve case, punctuation, and emoji. This is a sanity check — if the content of your analysis doesn't match the title we provided, the response will be rejected and the video will be retried.
 
 Return ONLY valid JSON, no surrounding text or markdown fences:
 
 {
-  "video_title_guess": "string",
+  "video_title": "exact echo of the YouTube title supplied above",
   "speakers_seen": ["names you saw or heard, in order of appearance"],
   "quotes": [
     {
@@ -178,6 +179,31 @@ def title_matches_skip_keyword(title: str, keywords: list) -> str:
         if kw.lower() in low:
             return kw
     return ""
+
+
+def _normalize_title(title: str) -> str:
+    """Lowercase, strip punctuation/emoji/everything non-alphanumeric, collapse
+    whitespace. Used for the hallucination guard's word-overlap comparison."""
+    if not title:
+        return ""
+    lower = title.lower()
+    stripped = re.sub(r"[^a-z0-9\s]+", " ", lower)
+    return re.sub(r"\s+", " ", stripped).strip()
+
+
+def _title_word_overlap(expected: str, got: str) -> float:
+    """Fraction of expected's distinct words that also appear in got's words.
+    Returns 1.0 when expected has no analyzable words (pure-emoji titles
+    etc.), so the check doesn't false-positive on uncheckable inputs.
+    """
+    exp_words = set(_normalize_title(expected).split())
+    if not exp_words:
+        return 1.0
+    got_words = set(_normalize_title(got).split())
+    return len(exp_words & got_words) / len(exp_words)
+
+
+HALLUCINATION_OVERLAP_THRESHOLD = 0.70  # strictly greater; 0.70 itself is rejected
 
 
 # --------------------------------------------------------------------------- #
@@ -317,17 +343,19 @@ def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
 # Gemini
 # --------------------------------------------------------------------------- #
 
-def call_gemini(client, url: str) -> tuple[str, object]:
+def call_gemini(client, url: str, video_title: str = "") -> tuple[str, object]:
     """Send the video to Gemini and return (raw_text, usage_metadata).
 
-    Parsing is done by the caller so the raw text is available for
-    error-archiving even when JSON parsing fails.
+    The actual YouTube title is prepended to the prompt so Gemini can echo
+    it back in its JSON. The caller compares the echo against the expected
+    title to catch hallucinated full-output responses.
     """
+    titled_prompt = f"YouTube title: {video_title}\n\n{PROMPT}"
     response = client.models.generate_content(
         model=MODEL,
         contents=[
             types.Part.from_uri(file_uri=url, mime_type="video/mp4"),
-            PROMPT,
+            titled_prompt,
         ],
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
@@ -378,7 +406,7 @@ def _is_transient_gemini_error(exc: Exception) -> bool:
     return False
 
 
-def call_gemini_with_retry(client, url: str) -> tuple[str, object]:
+def call_gemini_with_retry(client, url: str, video_title: str = "") -> tuple[str, object]:
     """Wrap call_gemini with the same 5s/15s/45s/120s/300s retry policy as the splitter.
 
     Retries on 429, 500, 503, or messages containing UNAVAILABLE /
@@ -389,7 +417,7 @@ def call_gemini_with_retry(client, url: str) -> tuple[str, object]:
     backoffs = [5, 15, 45, 120, 300]
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
-            return call_gemini(client, url)
+            return call_gemini(client, url, video_title)
         except Exception as e:
             if not _is_transient_gemini_error(e):
                 raise
@@ -568,7 +596,7 @@ def post_process_quotes(client, quotes: list) -> list:
 
 def to_markdown(url: str, channel_name: str, data: dict) -> str:
     vid = video_id_from_url(url)
-    title = data.get("video_title_guess") or "NBA quotes"
+    title = data.get("video_title") or "NBA quotes"
     lines = [
         f"# {title} — *{channel_name}*",
         "",
@@ -777,7 +805,7 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
             status, data = future.result(timeout=PER_VIDEO_TIMEOUT_SECS)
         except FuturesTimeoutError:
             log(f"  [timeout] video {video_id} exceeded {PER_VIDEO_TIMEOUT_SECS // 60}min total, abandoning")
-            status, data = "failed-other", None
+            status, data = "failed-timeout", None
         except Exception as e:
             log(f"  unexpected exception processing {video_id}: {e}")
             for line in traceback.format_exc().rstrip().splitlines():
@@ -860,9 +888,11 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
     attempts_parse = 0
     last_raw = ""
 
+    expected_title = video.get("title") or ""
+
     while True:
         try:
-            raw_text, _usage = call_gemini_with_retry(client, url)
+            raw_text, _usage = call_gemini_with_retry(client, url, expected_title)
         except Exception as e:
             status = gemini_error_status(e)
             if status == 400 or is_token_limit_error(e):
@@ -885,6 +915,20 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
                 )
                 return "failed-json", None
             continue
+
+        # Hallucination guard: confirm Gemini analyzed the video we sent by
+        # checking that its echoed video_title overlaps the actual YouTube
+        # title we provided. Skip writing any output on mismatch so the
+        # video can be retried next cron.
+        echoed_title = (data.get("video_title") or "").strip()
+        overlap = _title_word_overlap(expected_title, echoed_title)
+        if overlap <= HALLUCINATION_OVERLAP_THRESHOLD:
+            log(
+                f"  [hallucination] video {video_id} title mismatch "
+                f"(overlap {overlap:.0%}): expected {expected_title!r}, "
+                f"got {echoed_title!r}"
+            )
+            return "failed-hallucination", None
 
         data["quotes"] = post_process_quotes(client, data.get("quotes") or [])
         write_outputs(video, channel_name, data, raw_text)
@@ -1026,7 +1070,14 @@ def main() -> int:
     # use across threads, so one Client is shared by all workers.
     client = genai.Client(api_key=gemini_key)
     log(f"Processing {len(queued)} video(s) with Gemini (up to {VIDEO_WORKERS} in parallel)...")
-    summary = {"ok": 0, "too-long": 0, "failed-json": 0, "failed-other": 0}
+    summary = {
+        "ok": 0,
+        "too-long": 0,
+        "failed-json": 0,
+        "failed-hallucination": 0,
+        "failed-timeout": 0,
+        "failed-other": 0,
+    }
     processed_items: list = []
     state_lock = threading.Lock()
 
