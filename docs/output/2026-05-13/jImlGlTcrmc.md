@@ -1,0 +1,30 @@
+# The Road Trippin' Show: OKC Thunder's Defensive Prowess and Culture — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=jImlGlTcrmc
+
+_Speakers identified: Kendrick Perkins, Allie Clifton, Channing Frye_
+
+**1. Kendrick Perkins — OKC Thunder's defensive prowess and two-way players**
+[00:12](https://www.youtube.com/watch?v=jImlGlTcrmc&t=12s)
+
+"They are one of the greatest defensive teams that we've ever seen. I'm going to appreciate what I've been witnessing from them defensively from top to bottom. **SGA** always the league leader in steals, best player, not a defensive liability, been seeing him block dunks, shots, all type of shit. Then you move to **Alex Caruso**, who's just this pitbull that's caged up on the bench and it's like sick 'em. And he comes in and bring a whole different type of tenacity. I've never seen a team full of two-way players like this in my life."
+
+**2. Kendrick Perkins — OKC Thunder's focus on championships over individual accolades**
+[02:30](https://www.youtube.com/watch?v=jImlGlTcrmc&t=150s)
+
+"It was a point throughout this series that he actually looked like the guy, the number one option. It was a point with **Chet Holmgren** in game one and two, looked like the best player on the floor offensively and defensively. This team is on a damn mission. You see a lot of old teams, older teams that sacrificed, they didn't accomplish a lot, like, I bring up 2008 **Paul**, **Ray**, **KG**, they were towards the back end of their careers, they had already accomplished all the individual accolades they could possibly accomplish. This team has a bunch of young guys who don't give a damn about individual accolades. It's all about them winning championships."
+
+**3. Channing Frye — Sam Presti's trustworthiness and player compensation strategy**
+[06:36](https://www.youtube.com/watch?v=jImlGlTcrmc&t=396s)
+
+"They don't take that personally because they know when their time is up, he's going to take care of them and move them to where they need to get moved to get paid. I think showing people, showing your team that you are that guy and that you are trustworthy and that your communication is on level 12, that guys are bought in for the two million. Because at the end of the day, **AJ Mitchell** is going to get paid. They win another championship, he does well, they're going to say, **AJ Mitchell**, you know what we're going to do? We're either going to pay you ourselves for time spent and reward you for your time here, or we're going to find someone else where you not only can you play, but you're going to get the money that you may have missed by allowing us to pay these guys so that we can win championships."
+
+**4. Allie Clifton — Mark Daigneault's coaching philosophy of being present and fostering ownership**
+[08:44](https://www.youtube.com/watch?v=jImlGlTcrmc&t=524s)
+
+"**Mark Daigneault** was asked about his approach to his team and the MO that he carries. He said the best advice he's received is simple: be there when they need you. Early on, that meant more guidance and direction, but now it's not over-coaching or taking away their ownership. He actually thinks that that's the worst thing you can do. I think that that is something that he has found a balance of so well, but it can be said not just for the coaching staff, but the front office. And the other night, Rui was asked how are you able to muster up the belief in getting a game in this series period, and he was talking about just how every player, no matter who it is, understands their role. When you can see that from the outside looking in, they put themselves in a completely different category."
+
+**5. Kendrick Perkins — Sam Presti's evolution as a GM fostering player freedom and positive culture**
+[09:46](https://www.youtube.com/watch?v=jImlGlTcrmc&t=586s)
+
+"**Sam Presti** has been through a lot. He lost **James Harden**, he lost **Kevin Durant**, had **Paul George**, lost him, had to trade **Russell Westbrook**. What **Sam Presti** realized is, I have to change too. I have to allow these guys to have freedom. I have to allow these guys to walk into here, make fashion statements. I have to allow these guys to be themselves. So when we hear **Daigneault** talk like that, that's their temperature. And look at the results. We're not going to give you any trouble outside of basketball. We'll probably never hear about not one of OKC Thunder players being involved in something at a nightclub, being involved somewhere they're not supposed to be. Those guys go to practice, go to their families, on the video game, and go back to the gym and then go to the arena. You got to have a different mentality. Everybody doesn't fit that system. It's just a different type of mentality and a different type of will that you got to have, and if you don't accept it, then you won't be there for long. **Jeremiah Robinson-Earl** said it himself, I was sad as hell when I got traded from Philly, but when I got there, I was like, oh shit, yes, it's a real culture."

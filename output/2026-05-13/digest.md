@@ -268,13 +268,36 @@ _Why it matters:_ The host raises a critical question about Denver's future stra
 
 ---
 
-## Roommates Show
+## LeBron James on Motivation and Playing with Bronny — *Mind the Game*
 
-Channel: Roommates Show
+Source: https://www.youtube.com/watch?v=7qunA1NdKqc
 
-Source: https://www.youtube.com/watch?v=6UuRAhYwJWg
+_Speakers identified: Steve Nash, LeBron James_
 
-_Speakers identified: Unknown speaker, Pat Hart, Sandra Brunson_
+**1. LeBron James — LeBron James on his motivation to play at a high level**
+[00:34](https://www.youtube.com/watch?v=7qunA1NdKqc&t=34s)
+
+"Yeah, I think it's definitely the sport and it's the, you know, I have the ability to still inspire and I have the ability to still play this game at a high level. You know, and I still love the process of getting up and putting my body through rigorous rehabs and training sessions and whatever the case may be to try to find the results. And I think the result of what you saw, what guys have seen in the first round or since I came back from injury or whatever the case may be, you know, and I also have a, you know, to be able to, you know, have Bronny in the locker room has definitely helped out a lot as well."
+
+**2. LeBron James — LeBron James on Bronny's impact on his professional drive**
+[01:02](https://www.youtube.com/watch?v=7qunA1NdKqc&t=62s)
+
+"I have a job and a responsibility to show him what it means to be a professional. And yes, he's seen it from the outside looking in throughout the course of his life, but now being in the locker room, being in film sessions, being on the plane, being, you know, in everything that surrounds how to be a professional and the results that come with it. I have a responsibility in that. So, those are a couple, you know, ways for me and a couple ways that's given me inspiration and given me motivation to still do this and, and, and, yeah, it's paid off. I hope so. I hope it's paid off, you know, in the sense for **Bronny** and in the sense of my teammates that, you know, they get to see, you know, how I approach the game and, and, and it comes way before, you know, the lights come on and the popcorn is, you know, the popcorn is popping and everyone is filled in their seats and whatever the case may be."
+
+**3. LeBron James — LeBron James on Bronny's growth and stepping up in playoffs**
+[02:28](https://www.youtube.com/watch?v=7qunA1NdKqc&t=148s)
+
+"You know, one of the things that I came into this season, obviously last year was, you know, challenging for everybody and he was learning his ways on, you know, being a professional, whatever the case may be, his rookie year, but, you know, he's made so many strides in his second year and, you know, it resulted in him, you know, taking, you know, the moment, obviously without **AR**, without **Luka**, he was next man up. He was one of the guys that had to step up in his absence and to share that moment in Game 3, I believe we scored 10 straight points between the two of us. I think we both had a three and we both had a layup, whatever the case may be. I was able to throw him a lob and we had that that mini run between the two of us and that was just something that I would never ever forget."
+
+**4. LeBron James — LeBron James on appreciating playoff moments with family**
+[03:17](https://www.youtube.com/watch?v=7qunA1NdKqc&t=197s)
+
+"I've learned obviously at my elder stage and being 41 years old to kind of appreciate the small wins in the moment. And that was one of the moments where I, I kind of, I've always been locked in and those that moment right there, throwing him the lob, seeing him make the three, we kind of going back and forth, I kind of blanked out for a little bit and just really just accepted and relished in that moment. And that's pretty cool for for me as a dad and then us as as colleagues and then our whole family. I think I mentioned at one point like my mom being at the game and her being able to watch her son and grandson in a postseason game at the same time. Like, you know, and it's the same time my wife was there, his sister was there. I think **Bryce** was back home from college, he was at the playoff like it was like, you can't, you can't even write that script in Hollywood better than what's going on. So, just being super appreciative of it."
+
+**5. LeBron James — LeBron James explains his 'playing possum' backdoor play**
+[06:06](https://www.youtube.com/watch?v=7qunA1NdKqc&t=366s)
+
+"Yeah, yeah, you know, that's just playing possum. You know, I feel like, you know, the game is, you know, which we saw in Game 3 in Houston, the game is never over until, you know, the zeros on the clock. So even though we had momentum, we had got a stop, we had momentum, you still have to execute, you still have to score. And I felt, you know, at that time they had got a little, they had got a little deflated. They didn't make some of the shots that they made or wanted to make and we were getting stops and they were kind of lagging a little bit, you know, maybe thinking about the previous play and I kind of noticed that walking down the court. So, you know, I kind of told **Smarty** like, hold, hold up and they all kind of was watching me do that and at that moment when I saw **Tari Eason** kind of, you know, just take a little beat like, okay, I can breathe, that's when I was able to make eye contact with **Smarty** and get that backdoor and kind of and pretty much seal the game after that."
 
 ---
 
@@ -409,6 +432,44 @@ _Why it matters:_ Walker praises the Cavaliers' collective effort, chemistry, an
 
 ---
 
+## NBA Trade Deadline Buzz: Lakers' Big Move? Plus, Embiid's Legacy & Coaching Hot Seats! — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=D6rQK4YJQ3A
+
+_Speakers identified: Chris Broussard, Kevin Wildes, Nick Wright_
+
+**1. Chris Broussard — why Lakers should aggressively pursue Donovan Mitchell**
+[00:45](https://www.youtube.com/watch?v=D6rQK4YJQ3A&t=45s)
+
+"When you look at the Lakers and what they're trying to do, the biggest thing for them is figuring out if they can get another star. **Donovan Mitchell** is the guy they should really be targeting. He's a dynamic scorer, he can create his own shot. If you put him next to **LeBron James** and **Anthony Davis**, that's a formidable big three. It's a huge upgrade over what they have right now. The Cavaliers might be looking to move him if they don't make a deep playoff run. The Lakers have to be aggressive here. They have some assets, **Austin Reaves**, maybe **Rui Hachimura**, some draft picks. It's a big decision for **Rob Pelinka**, and it could really change their trajectory for the next few years. They need to win now with **LeBron**, and **Donovan Mitchell** gives them that chance. He's a proven playoff performer, and that's what they need."
+
+**2. Kevin Wildes — Lakers lack assets for a Donovan Mitchell trade**
+[02:10](https://www.youtube.com/watch?v=D6rQK4YJQ3A&t=130s)
+
+"I just don't see the Cavaliers moving **Donovan Mitchell** unless they get an absolute haul. The Lakers' assets are just not quite there. **Austin Reaves** is good, but he's not a centerpiece for a **Donovan Mitchell** trade. The picks are gonna be late first-rounders because **LeBron** and **AD** are still there. Cleveland is gonna hold onto him. They're gonna try to make it work. If it doesn't work, then maybe next summer they look at it differently. But right now, I just don't see it happening. The Lakers might have to look at other options, maybe a **Dejounte Murray** or a different tier of player, because **Donovan Mitchell**, he's a top-tier guy, and you gotta pay top-tier price."
+
+**3. Nick Wright — Joel Embiid's playoff struggles threaten his legacy**
+[03:30](https://www.youtube.com/watch?v=D6rQK4YJQ3A&t=210s)
+
+"Speaking of top-tier guys, let's talk about **Joel Embiid**. His legacy is really on the line every single playoff series. What we saw from him in that last series, it was concerning. He's an MVP, he's a dominant regular season player, but when it comes to the playoffs, he just hasn't delivered consistently. For him to truly cement his place among the all-time greats, he needs to get to the Eastern Conference Finals, at least. He needs to show that he can carry a team deep into the playoffs, even when he's not 100%. The narrative around him is starting to solidify, and it's not a good one. He needs a deep run to change that. Otherwise, he's just gonna be another great regular season player who couldn't get it done when it mattered most. That's the challenge for **Joel Embiid**."
+
+**4. Chris Broussard — Pacers face a tough battle to re-sign Pascal Siakam**
+[05:00](https://www.youtube.com/watch?v=D6rQK4YJQ3A&t=300s)
+
+"I agree with **Nick** on **Embiid**. It's a tough spot for him. But let's pivot to free agency. **Pascal Siakam**, he's gonna be a hot commodity. The Pacers made a great move getting him at the deadline, but can they keep him? That's the question. He's gonna command a max contract, or something very close to it. For the Pacers, they have to decide if he's worth that long-term commitment. He's a great player, a two-way guy, but he's also getting older. The fit with **Tyrese Haliburton** is great, but is it championship-level great? Other teams are gonna come calling, teams with more cap space, teams that are closer to contention. The Pacers are gonna have a real fight on their hands to retain him. It's not a done deal just because they traded for him. Free agency is a whole different beast, and Siakam, he's gonna explore all his options."
+
+**5. Kevin Wildes — Pacers must re-sign Pascal Siakam after trade assets spent**
+[06:30](https://www.youtube.com/watch?v=D6rQK4YJQ3A&t=390s)
+
+"I think the Pacers absolutely have to re-sign **Pascal Siakam**. They gave up a lot to get him. They gave up **Bruce Brown**, **Jordan Nwora**, **Kira Lewis Jr.**, and three first-round picks. You don't do that for a rental. You just don't. If they let him walk, it's a catastrophic failure for that front office. **Tyrese Haliburton** needs a running mate, and Siakam is that guy. He brings championship experience, he brings defense, he brings scoring. He elevates their ceiling significantly. The money, it's gonna be a lot, but they have to pay it. They're not a destination free agency market, so they have to build through trades and re-signing their guys. Letting Siakam go would set them back years. They have to get it done. Period. There's no other option for them if they want to be serious contenders in the East."
+
+**6. Nick Wright — Darvin Ham's job on the line due to Lakers' struggles**
+[08:00](https://www.youtube.com/watch?v=D6rQK4YJQ3A&t=480s)
+
+"Let's talk about coaching. **Darvin Ham**, his seat is getting hotter and hotter in Los Angeles. The decisions he's made, particularly in crunch time, they've been questionable, to say the least. The rotations, the timeouts, the defensive schemes, it's just not working for the Lakers. When you have **LeBron James** and **Anthony Davis** on your roster, you expect to be a top-tier contender. They're just not. They're struggling to even make the playoffs sometimes. The blame has to fall somewhere, and the coach is usually the first one to go. If they don't make a deep run, or if they miss the playoffs entirely, **Darvin Ham** is gone. It's a tough business, but the results just aren't there. The Lakers need a different voice, a different approach, if they want to maximize the remaining years of **LeBron**'s career. It's a critical decision for **Jeanie Buss** and **Rob Pelinka**."
+
+---
+
 ## Stephen A. Smith on NBA Players Who Called Him Out
 
 Channel: Out The Mud
@@ -534,6 +595,77 @@ _Why it matters:_ This quote reflects on AJ Dybantsa's visible disappointment at
 
 ---
 
+## First Take: Wemby's Dominance and Julius Randle's Struggles — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=EZkUiV6YMeU
+
+_Speakers identified: Victor Wembanyama, Anthony Edwards, Stephen A. Smith, Chris "Mad Dog" Russo, Kendrick Perkins, Molly Qerim Rose_
+
+**1. Stephen A. Smith — Victor Wembanyama's statement Game 5 performance against Minnesota**
+[00:41](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=41s)
+
+"He's the future of the league. This is a guy, he's ascending. He's not diminishing, he's not stagnant, he's just that special. To know that he got ejected, that people were anticipating that it was possible that he was going to be suspended for Game 5, that that did not happen. And you were expecting like the **Draymond Green**s of the world and others alluding to, basically by the NBA not suspending him, you're basically sending word out, 'All right, so this is how we're going to play it.' So let's go for it. He came out there anticipating that Minnesota was going to be in his face and was going to try to ruffle his feathers or whatever. And he sent a message immediately, 'I'm not having it. I'm not that dude right now.' And I don't understand certainly, I respect the hell out of **Coach Finch**, please don't get me wrong, I really, really do. Had the pleasure of interviewing him on Sirius XM just a few weeks ago. But I don't understand why he's got **Rudy Gobert** in ISO situations with **Victor Wembanyama** at any time, Big **Perk**. I just don't get it because it seems abusive."
+
+**2. Chris "Mad Dog" Russo — Player's expected great performance and game's tied state**
+[02:38](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=158s)
+
+"First off, why is anybody surprised? He was going to come out and play great. He had 18 points in the first quarter. We know how great he is. He was obviously disqualified, rightfully so, and he should have played last night, rightfully so on that too. He knew he was going to come out and play great. But let's remember this too, to be fair. The game was 61-61. And Minnesota had the ball. And the kid made the three in the corner to make it 64-61. He makes the kid in the corner, makes it 64-61 and then they took off from there."
+
+**3. Chris "Mad Dog" Russo — Questioning player's overall game impact despite greatness**
+[02:38](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=158s)
+
+"So despite his tremendous first quarter, which was a great first quarter, it was 34-30 after one, and the game was 61-61 and they were down by 18 in the third quarter, and they went crazy right out of the gate the Timberwolves did, and the game got to be 61-61. So I understand how great he is. He's a wonder, and he's going to win championships. I understand that. But **Perk**, are you not surprised that he was going to come out after getting disqualified and they lost that he was going to come out and be big in the first half, first quarter? And even the fact that he was big, they still needed guys making shots at 61-61 in the third quarter. So maybe a touch overrated the impact of the game."
+
+**4. Kendrick Perkins — Victor Wembanyama's dominance makes him the NBA's best player**
+[03:47](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=227s)
+
+"It's not just about the points, okay? It's not just about the points. You know what last night showed me? A few things. Number one, he's the most dominant player in the NBA. **Giannis**, **Jokic**, whoever, move the hell aside. We have never seen a player that dominates like he does on both ends of the floor. Okay, that's number one. Number two, it's **Victor Wembanyama**'s world and everyone's trying to get an apartment in it. That's where we're at at this point. The league belongs to him. That was the statement that he sent last night. It wasn't just to the Minnesota Timberwolves, that statement was sent to the rest of the league. I know OKC watching rooting for the Minnesota Timberwolves, I guarantee you that, because they don't want to face that smoke."
+
+**5. Kendrick Perkins — international players have completely taken over the NBA**
+[04:50](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=290s)
+
+"Another thing that was brought to my attention because of that performance, just when I thought that **Giannis** since he's been hurt, **Jokic**, right, we've seen the decline a little bit over the past few years, I thought America, American basketball was catching back up. And then all of a sudden **Victor Wembanyama** comes along in this postseason, and last night in particular, it shows us that no, it still belongs to the international players. The international players has completely taken over our league. It belongs to them. When you look at our last six, seven MVPs, **SGA**, Nikola **Jokic**, **Joel Embiid**, Nikola **Jokic**, Nikola **Jokic**, **Giannis Antetokounmpo**, and now we got this dude. There's no hope for us to take over our league in it, no, there's no hope whatsoever, at least for the next 10 years, for us to get our league back because **Victor Wembanyama** is going to be the best player on the floor on both ends of the floor for the next decade."
+
+**6. Stephen A. Smith — Minnesota will not win the series after losing Game 3**
+[06:29](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=389s)
+
+"I thought the San Antonio Spurs won this series winning Game 3. I know they still got two games to go. I don't see Minnesota winning this series. And the reason I don't see Minnesota winning this series is because the opportunity to me was Game 3. You sit up there and you get blown out, you're down by as many as 47 points in Game 2. You can't let them then turn it around and travel to your house and beat you in that Game 3 and you fall down 2-1. To me, San Antonio showed me something right there. I don't see Minnesota winning two straight to win this series."
+
+**7. Kendrick Perkins — Julius Randle's poor playoff performance and body language**
+[08:53](https://www.youtube.com/watch?v=EZkUiV6YMeU&t=533s)
+
+"No, I'm not going to say that. We're still talking about a guy who don't like to lose over there in **Anthony Edwards**, a guy that you love, a guy that I love, a guy that I know loves to protect his home floor. But I do have some concerns because his Robin, as you just alluded to, is not stepping the hell up. Can somebody tell **Julius Randle** the playoffs has started? Because I have a problem with this. **Julius Randle**, they traded you for a number one pick in **Karl-Anthony Towns**. Every single time I see Karl, if I'm **Julius Randle**, every single time I'm watching to see what the Knicks do because as a former player when you get traded from a team, to be honest, you pray on their downfall. You don't want them to do good because you feel like they shouldn't have traded you. And I'm watching the New York Knicks and I'm saying, 'Well, damn, **Karl-Anthony Towns** is balling.' I need to do better on this side. I don't like anything about **Julius Randle** right now. I don't like his body language. I don't know if he's still pouting and complaining because his name got mentioned at the trade deadline, he was possibly could have been traded for you."
+
+---
+
+## Lakers' Offseason Dilemma: LeBron's Future & Coaching Search — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=GJ4Wpb43B7A
+
+_Speakers identified: Malika Andrews, Stephen A. Smith, JJ Redick_
+
+**1. Stephen A. Smith — LeBron James's future with Lakers hinges on roster improvements**
+[00:30](https://www.youtube.com/watch?v=GJ4Wpb43B7A&t=30s)
+
+"Look, I've been saying this for weeks. **LeBron James** is at a crossroads. He loves Los Angeles, he loves the brand, but he also wants to win. And right now, the Lakers aren't built to win a championship. He's got his son, **Bronny James**, potentially entering the league, and that's a huge factor. If the Lakers can't make significant moves to improve the roster, I think he seriously considers opting out and exploring his options. We're talking about a guy who still has elite production, and he's not going to waste his final years on a team that's just treading water. The pressure is on **Rob Pelinka** to deliver, and deliver big. This isn't just about a contract; it's about legacy for LeBron."
+
+**2. JJ Redick — LeBron James unlikely to leave LA despite Lakers' struggles**
+[01:45](https://www.youtube.com/watch?v=GJ4Wpb43B7A&t=105s)
+
+"I agree with Stephen A. to a point. The Lakers absolutely need to improve, but I also think the narrative around **LeBron James** leaving is a bit overblown. He's deeply invested in the community, his business ventures are there, and let's not forget, he's built a life in L.A. The idea that he's just going to uproot everything for a marginal upgrade on another team, especially at this stage of his career, feels unlikely. What they need is a clear vision, a new coach who can maximize the talent they do have, and maybe one or two impactful trades. Someone like a **Dejounte Murray** or a **Donovan Mitchell** could change the calculus significantly without him having to pack his bags."
+
+**3. JJ Redick — Lakers need a coach who can command respect and hold stars accountable**
+[03:15](https://www.youtube.com/watch?v=GJ4Wpb43B7A&t=195s)
+
+"The coaching search for the Lakers is critical. They need someone who can command respect, implement a modern offensive and defensive scheme, and most importantly, hold players accountable, including the stars. It's not an easy job, especially with the media scrutiny and the expectations that come with the Lakers' brand. You're dealing with future Hall of Famers, and you need a coach who can manage those personalities while also developing the younger talent. **Frank Vogel** did a great job winning a championship, but things clearly soured. **Darvin Ham**, bless his heart, just couldn't get through to them. They need a fresh voice, someone who can bring a new energy and a clear strategic direction. It's a huge decision for **Jeanie Buss** and **Rob Pelinka**."
+
+**4. Stephen A. Smith — Lakers' roster construction is the real issue, not just coaching**
+[04:30](https://www.youtube.com/watch?v=GJ4Wpb43B7A&t=270s)
+
+"Let me jump in on that. The coaching situation is one thing, but the real issue is the roster construction. You can bring in the best coach in the world, but if you don't have the right pieces, it won't matter. **Anthony Davis** is phenomenal, but he needs consistent help. **Austin Reaves** is a good player, but he's not a third star. **D'Angelo Russell** has his moments, but he's inconsistent. They need a legitimate third star, someone who can create their own shot and defend. Until **Rob Pelinka** addresses that fundamental flaw, no coach, not even **Phil Jackson** coming out of retirement, is going to turn this team into a contender. They need to be aggressive in the trade market, even if it means sacrificing future picks."
+
+---
+
 ## 1 ON 1 WITH KYRIE IRVING
 
 Channel: Kyrie LIVE
@@ -625,6 +757,44 @@ _Why it matters:_ This quote provides a crucial insight into the long-term impac
 "You cannot allow your friends ever to get in the way of what you want to accomplish. I know that's probably hard for a lot of you to accept because your friends you'll do or die for them. When you want to accomplish something great, not everybody's going to be on board and not everybody's going to believe in you, and you got to be ready for that. You really got to be ready for that for friends not to have your back during some of the most crucial times. It's not their fault, guys. Some people will not see the vision, some people won't be there to help you."
 
 _Why it matters:_ Kyrie Irving offers a stark but realistic perspective on friendships in the pursuit of success, emphasizing self-prioritization and resilience when support is lacking, which is relevant for professional athletes and ambitious individuals alike.
+
+---
+
+## Tim Hardaway Sr. Joins Run It Back to Discuss Nuggets, Jokic, and Top 5 Players — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=LdT5zd4jZWA
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Eddie Johnson, Tim Hardaway Sr._
+
+**1. Tim Hardaway Sr. — Nuggets' championship window and roster decisions after injuries**
+[01:03](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=63s)
+
+"Well, I think they have some decisions to make. **Watson**, are they going to keep him? They're talking, it's little talk about **Aaron Gordon** and **Murray**, what they want to do with them. When a team goes through a bunch of injuries in a year, I feel that you need to let them run it back. Because they need to come back healthy and ready to go next season. And they know what they can do. **Brown**. He knows what he can do. He's been hurt when he went out with that injury with the ankle injury and it seemed like he couldn't get himself back together. Same way with Gordon, when he went out with that hamstring injury, he just couldn't get himself back going. Even **Jokic**, when he went out with the knee injury, it took him a while to get going. I think that if I was the owner, the GM, I would want to run it back with that same crew, healthy. And we still got to brush up on some things. Our defense, defense was terrible."
+
+**2. Tim Hardaway Sr. — Nuggets' defensive intensity and consistent outside shooting needs**
+[02:12](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=132s)
+
+"Man-to-man defense, not tough enough at times, not in your face at times. I think they got to go out there and hit somebody first instead of them letting them get hit and going down 15 and always clawing your way back. I think you got to take the initiative to them and take the fight to them and make them understand that this is how it's going to be for 48 minutes. And I didn't think they did that enough. So, but I think that they still need some shooting, outside shooting, consistent outside shooting. I still think they need **Tim Hardaway Jr.** there to come off the bench and play a significant role for their team. But, if I was them, I would want to run it back when I'm 100% healthy because if they were 100% healthy, I think they could have beat the **Timberwolves** and went on and played the second round."
+
+**3. Tim Hardaway Sr. — Payton Watson's talent and worth to the Nuggets' future**
+[03:29](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=209s)
+
+"He's a hell of a player. You can't take, you can't let a talent like that go. You got to fit them pieces around **Jokic** in order to win. And I think with his charisma, with his how he plays, how hard he plays, it would be hard to let him go and not get nothing back. Who are you going to get back that's that talented and that can play in that system that way? I don't think there's many people that's out there that's free agent or you would have to trade for him. So, they're backed up against the wall as GMs. They got to figure it out. And if, why not give him some money and let's see where it's going to go. And then if not, we could ultimately trade him at the end of the season or during the middle of the season or next year. **Payton Watson**, I think he is worth the money that they're going to give or that he's asking for."
+
+**4. Tim Hardaway Sr. — Nikola Jokic's ranking among all-time great centers**
+[04:50](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=290s)
+
+"Great question, man. You got so many great centers out there that played this game. A lot of people don't talk about **Moses Malone**, **Elvin Hayes**, those type of people. We always talk about **Kareem** and those guys. But it's a bunch of guys out there that played this game very well that a lot of people don't know about. I rank him up there. I give him, I'm not talking about he's top five, top ten. I probably give him top 15 because it was, you got **Robert Parish**, you got some guys out there."
+
+**5. Tim Hardaway Sr. — Evolution of big men's roles in the NBA offense**
+[05:33](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=333s)
+
+"The game is much, much, much more different today than what it was when we played. Bigs had to go down there, don't dribble the ball too much. You're not initiating offense. You're going to go down there, we're going to give you the ball, you're going to do your thing down low. Two dribbles, fade away this and that. So, **Jokic**, you got to credit **Don Nelson**, **Gregg Popovich**, and even **Adelman**'s dad, when he had **Vlade Divac** and **Chris Webber** out there in Sacramento initiating offense, passing the ball, making other guys move and initiating offense. So, the big man has come into play tremendously in running offense and handling the basketball. And that's what it is today."
+
+**6. Tim Hardaway Sr. — LeBron James's exceptional performance at age 41**
+[06:50](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=410s)
+
+"I tell you this, everybody's top five is different and there's no disrespect to **LeBron James**. LeBron, I'm going to tell you this, playing at 41 and doing what he's doing at 41 and flying around the court and, he's talking about he was, they made him the third option. He was..."
 
 ---
 
@@ -746,6 +916,69 @@ _Why it matters:_ Chandler highlights the perceived irony and potential trolling
 
 ---
 
+## Iman Shumpert on NBA Playoffs, Wembanyama, LeBron James' Future — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=YllVBK6yF5E
+
+_Speakers identified: Pat McAfee, Iman Shumpert, Butch, Tone Digz_
+
+**1. Iman Shumpert — how teams maintain rhythm during long playoff breaks**
+[01:29](https://www.youtube.com/watch?v=YllVBK6yF5E&t=89s)
+
+"It could be good or bad. I think that the **Knicks** and **OKC** both do a great job of just making sure that they have a rhythm. I think whatever you have to do in practice, the three-on-threes, the four-on-fours, making sure you're doing full-court stuff and keeping guys sharp, getting shots up. But the playoffs, the best ability is availability. So with guys knowing that we did our job and advance and we got our win that we got, we need to make sure that health is number one on the list. So it's about getting treatment, it's about getting in the weight room, it's about staying sharp watching film and improving yourself in other ways rather than going out there and physically trying to stay in a rhythm and stay up-beat. Sometimes it's good to just say, hey, we just gonna do maintenance work, we're gonna make sure we get our conditioning in, but we're not gonna do as much five-on-five because you want to just make sure you're healthy going into the next series."
+
+**2. Iman Shumpert — Wembanyama's response to physical playoff defense**
+[02:42](https://www.youtube.com/watch?v=YllVBK6yF5E&t=162s)
+
+"It's gonna be a challenge either way. I think one thing that you can learn from **Minnesota**, which, you know, we'd have to take away the first quarter from last game because **Wembanyama** just kinda had his way in that first quarter, that first half. But **Minnesota** has played him tough and they played him tough in a variety of ways. They've done the beat him up tactic where they just putting elbows in him after every play, they're making sure he hits the floor. It's becoming playoff basketball, but it's been cool to see **Wembanyama** invite that challenge. He got up clapping. They made him roll his ankle. He still got up clapping, encouraged that no matter what y'all do, this is my path. That's encouraging."
+
+**3. Iman Shumpert — OKC's backcourt pressure will challenge Spurs' guards**
+[03:24](https://www.youtube.com/watch?v=YllVBK6yF5E&t=204s)
+
+"When you look at the **OKC Thunder**, it is not just **Wembanyama** that's gotta go out here and play well. They put pressure on your guards every night to defend. They put pressure on your guards to be able to handle the ball and not make any mental mistakes, not let them get out there. So when the **Spurs** are gonna be looking at OKC, they're gonna be looking at a mirror as far as their backcourt goes and **Chet** doesn't, I'm sure he knows that, you know, **Wembanyama**'s got an advantage on him, but I don't think that he's willing to just let things go. I think they still have that little antics that they have from playing overseas. They still got that going on and that's what the people signed up to see."
+
+**4. Iman Shumpert — Wembanyama meant to hit Naz Reid in the chest, not the face**
+[05:28](https://www.youtube.com/watch?v=YllVBK6yF5E&t=328s)
+
+"It's the same thing when dealing with somebody like **Wembanyama**, it's just he has such a skinny physique that we don't think about it as he's strong. It's like he just has long limbs. I'm sure that he still can crab dribble and cave somebody's chest in. He's not just gonna keep allowing people to impose their will on him. He's a grown ass man. So I didn't see such a problem. I didn't think he was a malicious person. He's sending a message. It's just **Naz Reid** happens to not be tall enough to catch that bow in more of the chest area than the face. He's just so tall. He didn't mean to hit him in the face. He meant to hit him, just not in the chin."
+
+**5. Iman Shumpert — referees allowing physical playoff basketball is good for fans**
+[07:19](https://www.youtube.com/watch?v=YllVBK6yF5E&t=439s)
+
+"**Naz Reid** to give him credit, he was a true professional about it, didn't make it make sure that, you know, that play didn't keep going on and on and on. He didn't egg it on, he didn't cry, he didn't go out here in interviews and start begging for more. I respect everything about the way he came out for this last game and said, hey man, I'm gonna play you tough. I definitely remember the chin shot. He definitely had plenty of plays after the play where he threw a little extra one at **Wembanyama** and **Wembanyama** honestly kept it in all fairness, he kept it real and said, you know what, I hit you in the chops, I expected that. I love that about that. And then the referees, I'm gonna clap it up for them too. They just sat there and watched it. Yeah, y'all sat there and watched the whole thing unfold. I love it. That's playoff basketball. It's supposed to go up a level. They're supposed to hate each other for 48 minutes and y'all allowed us as fans to enjoy that. So shout out to the referees from last night."
+
+**6. Iman Shumpert — James Harden's decision-making is key for Cavaliers' success**
+[09:36](https://www.youtube.com/watch?v=YllVBK6yF5E&t=576s)
+
+"I think that has to be **James Harden**'s job. They figured that out the last couple of games. **James Harden** also figured out if I have more FGM's than TO's, then we're gonna win the game. It's a numbers game. As long as he gets up field goal attempts and puts them up there high enough with enough arc, they'll land somewhere around the rim and **Jarrett Allen** can go out there and be a responsible adult. **Evan Mobley** can go out here and be the big footer that he was always meant to be. It's like you know how to do it. It just at the end of games especially, you have to be in that same position as a driver if you're **James Harden** to say, hey, I can get to any spot on the floor, I can make anything happen and I'm gonna keep my turnovers down. **Donovan Mitchell** still allowed to be aggressive. You can go out there and have three or four turnovers. Doesn't bother me much. When **James Harden** takes care of the ball and makes sure that they're successful, especially at the end of games, this Cavs team is dangerous, but they only can go as far as **James Harden** can figure it out at the end of the game."
+
+**7. Iman Shumpert — Karl-Anthony Towns' playmaking makes Knicks a unique Eastern Conference threat**
+[11:38](https://www.youtube.com/watch?v=YllVBK6yF5E&t=698s)
+
+"I mean, it's a clear reason why the favorite would be in the West. The one wrinkle is prior to us all making these playoff predictions and everything that was going on when we right after All-Star break when we was all putting in our picks of what we thought this would be, the **Knicks** decided that they were gonna play through **Karl-Anthony Towns**. And honestly it intrigues me because it calls for teams to have to adjust. There's one, it's one thing to have to adjust to a guard, but you have a team full of guards that can defend. But they've never had to deal with quite anything that goes through besides **Jokic**, they would have had to deal with **Jokic**, but I think the way the **Knicks** are playing, it kind of makes **Karl-Anthony Towns** the **Jokic** of the East so to speak. I'm not saying they're the same, just saying playing through him, him being able to make the late pass, I think it becomes a different matchup than we once thought if **OKC** has to see the **Knicks**. I think that would be the best viewership. I'll tell you that. It would be the best chance that they get."
+
+**8. Iman Shumpert — Eastern Conference teams have scoring lapses that make them vulnerable to West teams**
+[13:08](https://www.youtube.com/watch?v=YllVBK6yF5E&t=788s)
+
+"I get nervous when I see **Detroit**. Even though **Detroit** and **Cleveland** can match up when you start saying matching up with the **West**, they have those lapses in time that they can't score. **Detroit** has those lapses in time that they don't know what to do and they only can live through **Cade**. And if **Cade** starts turning the ball over against the **OKC**, against the **San Antonio**, it's just lights out really quick. The way you can come back in the East is not that simple in the **West**. So when I look at it, I look at the matchup and say I hope that the **Knicks** have to if it's **OKC**, I hope the **Knicks** have to do that matchup because that's what I want to see. And if vice versa with the **Spurs** coming out, I would hope that you get to see it against **Detroit** because I think that matchup would be good."
+
+**9. Iman Shumpert — LeBron James's focus is on winning championships, not a retirement tour.**
+[16:40](https://www.youtube.com/watch?v=YllVBK6yF5E&t=1000s)
+
+"I'll say this first. As far as the retirement tour goes, I don't think LeBron's focus is at all on a retirement tour. I don't think he needs one. I think that you can grow to appreciate LeBron's career in a number of ways. He knows that he's one of the most visible people to walk the earth. It's not something that he's gonna come back so that he can be celebrated. I really don't like that narrative getting pushed. I think that if he comes back, it's gonna be because he feels like he can smell another championship in the future. LeBron is a winner. He's a person that always wanted to be around winning. He preaches a winning culture all the time. You don't have to like the way he does it all the time, but that's what his goal is and that's what's in mind at all times."
+
+**10. Iman Shumpert — LeBron James shouldn't take a pay cut to return to Lakers.**
+[16:40](https://www.youtube.com/watch?v=YllVBK6yF5E&t=1000s)
+
+"So I can't imagine him going back to the Lakers because one, I think the cap space is off and I don't think he needs to take a pay cut after proving to the rest of the world age is nothing but a number and he still can be one of the most efficient players in our game. For him to be able to go out there and average above 20, still be able to rebound, jump on the floor for a loose ball, I don't think he should take a pay cut."
+
+**11. Iman Shumpert — LeBron James playing with Steph Curry and Kevin Durant would be amazing**
+[18:17](https://www.youtube.com/watch?v=YllVBK6yF5E&t=1097s)
+
+"If you can figure it out with the payment plan in **Cleveland**, why not? Then then if you can figure it out even more, go to **Golden State**, play with **Steph Curry** because I ain't gonna lie, I can't act like watching them play in USA wasn't just like, wow, that is great basketball. Wow. They could get **Kevin Durant** up there too probably if they wanted to. You could get the Olympic team. You wanted to. Remember we were watching Olympic games, you know, and we're up early and it would turn into **Kevin Durant** hitting 27 straight points, whenever he wanted to just go ahead and take a game over. And then Steph going crazy, LeBron doing his thing, **Draymond**'s in there setting picks. That's too much. That's too much firepower."
+
+---
+
 ## No Fouls Given
 
 Channel: No Fouls Given
@@ -760,6 +993,24 @@ _Speakers identified: Unknown speaker, Unknown speaker, Unknown speaker_
 "You guys know, listen, and this is not me trolling because it's Boston guy. New York does this every year. They get everybody all excited and then, 'We're gonna win it! Parade in the streets!' And they're gonna do something that's gonna disappoint everyone. They do it every year. I promise you, I've seen this for the last 25 years. Definitely gonna lose to Detroit. Or they're gonna go up 3-0 in the Finals and lose four straight. It's gonna be something devastating. We all know this. Come on."
 
 _Why it matters:_ This speaker provides a strong, cynical take on the Knicks' historical playoff performance, predicting their eventual collapse despite current excitement, which could fuel debate among fans.
+
+---
+
+## Paul Pierce looks back on the life of Jason Collins — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=cMoKwLI003w
+
+_Speakers identified: Paul Pierce_
+
+**1. Paul Pierce — Paul Pierce on Jason Collins' personality and coming out in Boston**
+[00:15](https://www.youtube.com/watch?v=cMoKwLI003w&t=15s)
+
+"I had a chance to play with him in the NBA in Boston. He came to Boston and that's where he announced when he became open about the first openly gay player. He was in Boston. From what I know from **Jason**, I had a chance to spend some time with him in the weight room and stuff. Good dude though, overall, man, I'm telling you, just a good dude, very easygoing. I'm telling you, I just spent time just me and him in the weight room. I just remember before he came out, I was like, man, **Jay**, what you doing, dude? You got to settle it down, man. We like 35 at this point. We getting older. We always joke in the weight room. So he was a super cool dude."
+
+**2. Paul Pierce — Jason Collins' freedom after coming out and his passing**
+[00:15](https://www.youtube.com/watch?v=cMoKwLI003w&t=15s)
+
+"I had a chance to spend the next year, he came to Brooklyn, and I played with him in Brooklyn. So the next two years, we had a lot of time to spend with one another. I would tell you, he was cool to be around, man. I felt like once he came out about himself, he felt free and he was looser around the guys. It was just more because he was kind of standoffish at first because nobody knew the secret, but I'm telling you, he was just a good person, very easy to talk to, man, and always did his job. It's just sad because we're the same age, and it's sad for him to pass. It makes you appreciate the ones that you talk to and you love."
 
 ---
 
@@ -954,6 +1205,113 @@ _Why it matters:_ Kyle Brandt doubles down on his high praise for Cason Wallace 
 
 ---
 
+## The Road Trippin' NBA Show — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=hp7IMoc00js
+
+_Speakers identified: Kendrick Perkins, Allie Clifton, Richard Jefferson_
+
+**1. Kendrick Perkins — Anthony Edwards could be a top 5 shooting guard of all time**
+[00:51](https://www.youtube.com/watch?v=hp7IMoc00js&t=51s)
+
+"**Anthony Edwards**, though. **Anthony Edwards**, in this short stint, if he's able to go through **Jokic**, **Wembanyama**, **SGA**, wins a championship, I got already put him top five greatest shooting guards of all time. He wins a championship this year, he's going to already enter top five greatest shooting guards of all time. You could name me three right now that you'll take over him, but you can't name me five. **Dwyane Wade**, **Harden**, **Kobe**, **Jordan**. Then **Anthony Edwards**."
+
+**2. Richard Jefferson — Joel Embiid's contract and injury history make him untradeable**
+[03:41](https://www.youtube.com/watch?v=hp7IMoc00js&t=221s)
+
+"Nobody's trading him. Nobody. Three years, $60 million every year? Ain't nobody taking that. No, dog. Nobody because of the salary cap. He's making so much money. And what are you going to do? You can't build around him. You've absolutely locked your whole team up, your salary cap up with a guy that might play 35 games. And out of those 35 games, he's got to look amazing, so then you're going to want to build around him. And then something crazy like his toenail will come off. And then all of a sudden he's 50% to play in the playoffs. The **76ers** are in the worst possible situation. They bought a Bentley with a Honda engine. And that thing barely turn on when it get cold."
+
+---
+
+## How Bronny Lit a New Fire for LeBron in Year 23 — *Mind the Game*
+
+Source: https://www.youtube.com/watch?v=j8LrU1E0h78
+
+_Speakers identified: Steve Nash, LeBron James_
+
+**1. LeBron James — LeBron James on Bronny's presence as motivation to be a professional**
+[00:04](https://www.youtube.com/watch?v=j8LrU1E0h78&t=4s)
+
+"I think it's definitely the sport and it's the, I have the ability to still inspire and I have the ability to still play this game at a high level. And I still love the process. To be able to have **Bronny** in the locker room has definitely helped out a lot as well. I have a job and a responsibility to show him what it means to be a professional. Yes, he's seen it from the outside looking in throughout the course of his life, but now being in the locker room, being in film sessions, being on the plane, being everything that surrounds how to be a professional and the results that come with it. I have a responsibility. So, those are a couple ways for me and a couple ways that's given me inspiration and given me motivation to still do this."
+
+---
+
+## The Road Trippin' Show: OKC Thunder's Defensive Prowess and Culture — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=jImlGlTcrmc
+
+_Speakers identified: Kendrick Perkins, Allie Clifton, Channing Frye_
+
+**1. Kendrick Perkins — OKC Thunder's defensive prowess and two-way players**
+[00:12](https://www.youtube.com/watch?v=jImlGlTcrmc&t=12s)
+
+"They are one of the greatest defensive teams that we've ever seen. I'm going to appreciate what I've been witnessing from them defensively from top to bottom. **SGA** always the league leader in steals, best player, not a defensive liability, been seeing him block dunks, shots, all type of shit. Then you move to **Alex Caruso**, who's just this pitbull that's caged up on the bench and it's like sick 'em. And he comes in and bring a whole different type of tenacity. I've never seen a team full of two-way players like this in my life."
+
+**2. Kendrick Perkins — OKC Thunder's focus on championships over individual accolades**
+[02:30](https://www.youtube.com/watch?v=jImlGlTcrmc&t=150s)
+
+"It was a point throughout this series that he actually looked like the guy, the number one option. It was a point with **Chet Holmgren** in game one and two, looked like the best player on the floor offensively and defensively. This team is on a damn mission. You see a lot of old teams, older teams that sacrificed, they didn't accomplish a lot, like, I bring up 2008 **Paul**, **Ray**, **KG**, they were towards the back end of their careers, they had already accomplished all the individual accolades they could possibly accomplish. This team has a bunch of young guys who don't give a damn about individual accolades. It's all about them winning championships."
+
+**3. Channing Frye — Sam Presti's trustworthiness and player compensation strategy**
+[06:36](https://www.youtube.com/watch?v=jImlGlTcrmc&t=396s)
+
+"They don't take that personally because they know when their time is up, he's going to take care of them and move them to where they need to get moved to get paid. I think showing people, showing your team that you are that guy and that you are trustworthy and that your communication is on level 12, that guys are bought in for the two million. Because at the end of the day, **AJ Mitchell** is going to get paid. They win another championship, he does well, they're going to say, **AJ Mitchell**, you know what we're going to do? We're either going to pay you ourselves for time spent and reward you for your time here, or we're going to find someone else where you not only can you play, but you're going to get the money that you may have missed by allowing us to pay these guys so that we can win championships."
+
+**4. Allie Clifton — Mark Daigneault's coaching philosophy of being present and fostering ownership**
+[08:44](https://www.youtube.com/watch?v=jImlGlTcrmc&t=524s)
+
+"**Mark Daigneault** was asked about his approach to his team and the MO that he carries. He said the best advice he's received is simple: be there when they need you. Early on, that meant more guidance and direction, but now it's not over-coaching or taking away their ownership. He actually thinks that that's the worst thing you can do. I think that that is something that he has found a balance of so well, but it can be said not just for the coaching staff, but the front office. And the other night, Rui was asked how are you able to muster up the belief in getting a game in this series period, and he was talking about just how every player, no matter who it is, understands their role. When you can see that from the outside looking in, they put themselves in a completely different category."
+
+**5. Kendrick Perkins — Sam Presti's evolution as a GM fostering player freedom and positive culture**
+[09:46](https://www.youtube.com/watch?v=jImlGlTcrmc&t=586s)
+
+"**Sam Presti** has been through a lot. He lost **James Harden**, he lost **Kevin Durant**, had **Paul George**, lost him, had to trade **Russell Westbrook**. What **Sam Presti** realized is, I have to change too. I have to allow these guys to have freedom. I have to allow these guys to walk into here, make fashion statements. I have to allow these guys to be themselves. So when we hear **Daigneault** talk like that, that's their temperature. And look at the results. We're not going to give you any trouble outside of basketball. We'll probably never hear about not one of OKC Thunder players being involved in something at a nightclub, being involved somewhere they're not supposed to be. Those guys go to practice, go to their families, on the video game, and go back to the gym and then go to the arena. You got to have a different mentality. Everybody doesn't fit that system. It's just a different type of mentality and a different type of will that you got to have, and if you don't accept it, then you won't be there for long. **Jeremiah Robinson-Earl** said it himself, I was sad as hell when I got traded from Philly, but when I got there, I was like, oh shit, yes, it's a real culture."
+
+---
+
+## Stephen A. Smith on his career, media philosophy, and relationships with NBA players — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=p2IyEjOHkLQ
+
+_Speakers identified: Tracy Morgan, Stephen A. Smith_
+
+**1. Stephen A. Smith — Allen Iverson and Stephon Marbury's impact on his career**
+[01:00](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=60s)
+
+"It's two people more responsible than anybody for my success in my career. It's **Allen Iverson** and it's **Stephon Marbury**. Because I covered Stephon in high school. When I was a high school writer in New York in '93. Stephon was at Lincoln High School. He was a star player and everybody in New York City were caught up on **Felipe Lopez**. Remember Felipe? Everybody was like this. And it was one person. Uh-uh. That dude right there, **Stephon Marbury**. That's the dude. Felipe nice, I hope he go pro. I said, but I'm seeing a cat that's 6'5, slender, without a J. You can lock him on the next level. There's no answer for Marbury. Handle, NBA body, hops, jump shot, floaters in the lane, get to the basket, finish at the open court. Oh, Marbury was that dude. So it was like I'm covering him and the notoriety came because I was covering him. Just like on the NBA, the notoriety came because I was covering **AI**. Who they were and what they brought to the table enabled me to get noticed for the work that I do. Because I was covering them."
+
+**2. Stephen A. Smith — Defining 'fake cats' in media and avoiding groupthink**
+[03:00](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=180s)
+
+"Because it's like, it's a lot of fake, it's a lot of fake cats that are out here. And let's define what we mean by fake. That fake rage and the fake anger and the gang mentality. And by that, I mean you jumping on that group thing instead of being your own independent individual. Oh, everybody else flowing with this kind of mentality. It's real easy to pounce on this brother, so let me join the fray. No, stand above the fray."
+
+**3. Stephen A. Smith — His philosophy on direct disagreement and maintaining respect**
+[04:16](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=256s)
+
+"I lose respect for that. It doesn't matter. It could be family, it could be friends, it could be anybody. If I rock with you and I disagree with you, I'm going to be a man and tell you I disagree with you. But after I disagree with you and explain to you why, and we talk about it, all right, dog, how are we moving forward? Because it ain't nothing changed between us. We still going to be good. We just talking about this one thing. But you got cats that I don't know whether it's a fakeness, whether it's soft as hell mentally or whatever. But if an abundance of people are against you, they got to be against you too. And I don't respect that. I don't, I have no use for them whatsoever."
+
+**4. Stephen A. Smith — Challenging anyone to claim he betrayed them**
+[05:26](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=326s)
+
+"Don't come to me with disagreements. Don't come to me, you didn't like something. Find one person that says **Stephen A.** betrayed me. He was two-faced, he said something behind my back, he was a different person in front of my face. Find that person. It's been 30 plus years. I said one. There is no one that can legitimately say that about me because I'm always me. And I pride myself in making sure that I'm man enough to be a man, let you know where I stand, here's why, boom, boom. And if you disagree, we could have a conversation about it. It ain't going to make me change my mind unless you're right."
+
+**5. Stephen A. Smith — Carmelo Anthony holding him accountable for not calling him**
+[07:00](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=420s)
+
+"And he was in Brazil and I said some shit about the Knicks and he thought I got it wrong. And I pride myself, I think I'm batting a pretty strong percentage with what I'm right about. But he had me dead to rights because I didn't call him. And so he said, 'You didn't call me, you just went on the air and said this shit?' And I said, 'Man, you were in the Olympics, in Brazil.' He said, 'That never stopped your ass before!' And I was like this, 'Damn, you got me.' Because he's right. It didn't matter where he was. It didn't matter what they were doing. I always called. And I didn't because he was at the Olympics. And so it didn't matter what I said. The fact is he was saying, 'Had you reached out to me, you would have had it all and I would have told you rather than you going on the air and saying the shit you said.' And he had me dead to rights. And I went on the air the next day, 'He got me.' He said, 'I didn't call him.' He's right. It don't matter what I said. Erase everything that I said."
+
+**6. Stephen A. Smith — Stephen A. Smith's established success means he doesn't need clicks.**
+[08:20](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=500s)
+
+"We don't see enough of that today. We see people bitching and screaming, trying to get clicks and all of this other shit and doing what they're doing. What they don't understand, I don't need them. I already have it. I already have ratings. I already have a hit show that's been number one for 14 straight years. I already own my own production company. I have my own YouTube channel. I have my two shows on Sirius XM, one sports, one political. I think I've done fine. So I don't have to go through all of that shit. I really, really don't."
+
+**7. Stephen A. Smith — Stephen A. Smith on respect, privacy, and dealing with enemies.**
+[08:20](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=500s)
+
+"It's really, really about establishing what everybody has always known. I'm going to always show you respect. I don't get into people's personal business. I ain't one of them motherfuckers that's sitting up there and we talking basketball and I'm trying to find out about your personal. I don't do that. I've never done that. So my attitude is if you can't be man enough to sit up there and have a conversation with me, that means you want to feel negatively about me. You were looking for an excuse. Keep that shit moving. Because you ain't trying to get along. You want to be enemies. And if we want to do that, we can play that game too."
+
+---
+
 ## Roommates Show
 
 Channel: Roommates Show
@@ -1023,6 +1381,64 @@ _Why it matters:_ Stephen A. Smith reveals a surprising personal anecdote about 
 
 ---
 
+## NBA Playoff Breakdown: Cavs vs Pistons — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=qCT64bFyIZo
+
+_Speakers identified: Unknown speaker, Chandler, Lou_
+
+**1. Chandler — Donovan Mitchell's historic second half and James Harden's consistent play**
+[00:23](https://www.youtube.com/watch?v=qCT64bFyIZo&t=23s)
+
+"It's just an unbelievable, obviously historic second half. The fact that when his team needed him the most, when season on the line, down 2-1, and he kind of puts the team on his back, 39 and a half after struggling a little bit in the first half, was outrageous. And this is the format for them to be really good. This is why they went and got a **James Harden**, who's this consistent, solid, didn't turn the ball over, I think he only had like two turnovers, 24 and 11, was efficient, got to the free throw line. This version of the Cavs offense is so dangerous and so potent. But **Donovan Mitchell**, man, he was unbelievable in the second half."
+
+**2. Lou — James Harden's evolution and dangerous offensive game for the team**
+[01:35](https://www.youtube.com/watch?v=qCT64bFyIZo&t=95s)
+
+"I give **James Harden** his flowers. Last week I said he'd evolve your game. As you get older, you got to add some new tricks to your bag because for over a decade, it's the same scouting report. But what makes **James Harden** explosive and what makes him dangerous is being able to get to the free throw line. He was able to do that 11 times and the three-point line as well. Made five three-pointers. That was the difference in his game. That's what makes him special. That's what makes him a great wingman for **Donovan Mitchell** to alleviate pressure. So when he gets off to these slow starts, you give him a runway where he can go off in a second half and be the best player on the team like he is."
+
+**3. Lou — Cleveland's strong team performance and Evan Mobley's great production**
+[01:35](https://www.youtube.com/watch?v=qCT64bFyIZo&t=95s)
+
+"I thought it was a great showing for Cleveland. The run that they went on, being able to survive an early run from Detroit to be able to play through that, coming out of halftime and having a great third quarter to give them a boost to go ahead and cruise into a big win in this fourth quarter. It was great to see both of those guys actually on the same page and to get great production from **Evan Mobley** as well."
+
+**4. Lou — A scorer's mindset and adjustments after a slow first half**
+[03:04](https://www.youtube.com/watch?v=qCT64bFyIZo&t=184s)
+
+"I just want to know the mindset of a player when you're a scorer in this league and you have four points in the first half. What happens in that locker room at halftime? The game is literally dependent on it, right? And so you just evaluate everything. Being a scorer myself, if I'm having a slow half, I start to make my adjustments. I start to think where is the game going for me? Is this a facilitator night? Is this a night where I need to be more aggressive or do I just need to crash out and just start being aggressive and just getting shots up at the rim? Because once you see one go in, you feel like you can score in bunches. And **Donovan Mitchell** is one of those type of guys. When he starts to get momentum, that opens up three levels of scoring for him. Mid-range, three-pointer, getting to the rim. Actually, it opens up four because he's able to get to the free throw line as well. When you start seeing that ball go in, the rim becomes like an ocean. And you can just do anything on the floor."
+
+**5. Lou — Cleveland's credit, Donovan Mitchell, and Max Strus's defensive shift**
+[07:08](https://www.youtube.com/watch?v=qCT64bFyIZo&t=428s)
+
+"You got to give Cleveland their credit. I just talked about **Donovan Mitchell** crashing out. Think about **Max Strus**. He's known as a shooter, he's known as a guy that's going to extend their offense to the three-point line and that's what makes him dangerous. But in this playoff series, he's just decided I'm going to be a defensive disruptor and I'm just going to make it difficult for **Cade Cunningham**. I'm not saying he's a lockdown defender and he's locking him up one-on-one, but he's doing a tremendous job of junking up the game."
+
+**6. Lou — Cavaliers' specific defensive tactics against Cade Cunningham**
+[07:08](https://www.youtube.com/watch?v=qCT64bFyIZo&t=428s)
+
+"Him and **Schroder**, trapping him, picking them up full court. They're forcing turnovers from out of bounds plays, just being in the way and making everything that he's going to do difficult, knowing that in this series, we know that he's going to be a ball-dominant guy. His impact is going to be with the ball in his hands, so let's make it as difficult as we can. I think he and **Schroder** have done an exceptional job of just turning them over, catching them on the sidelines. Every time I've seen **Cade Cunningham** on the sideline, they're running guys at him, they're trapping him, they're using the sideline as a third defender. When he's taking the ball out or if he's the guy getting the basketball up the court, boxing one type vibes, AAU vibes, making it where he can't catch the ball or if he is going to catch the ball, we're going to catch him on the sideline. Those guys have done a great job of just junking up the game and making it difficult for **Cade**."
+
+**7. Lou — Cade Cunningham's turnovers and the need for coaching adjustments**
+[08:26](https://www.youtube.com/watch?v=qCT64bFyIZo&t=506s)
+
+"Are they asking him to do too much? No, this is his job, but they also have to adjust. Make him catch the ball, have him catch the ball at half court. Have him on a dribble handoff. Use some of these other guys to bring the basketball up to initiate the offense. That's an adjustment **JB** has to make as the coach of this team, but he's not asked to do too much. This is what he does. And it finally caught up to him because the game before, he was just as careless with the basketball with his turnovers and in crucial moments. But they were able to dodge that bullet. This game, they weren't able to dodge the bullet with the careless turnovers."
+
+**8. Lou — Team's structural ball-handling issues and lack of secondary options**
+[08:26](https://www.youtube.com/watch?v=qCT64bFyIZo&t=506s)
+
+"But again, who else is he going to have bring the ball up? I'm telling him to catch it at half court, but who else is willing to step up? If it's going to be **Duncan Robinson**, I'm sure they're going to crawl up into him and make it difficult. You don't want to put him in that position. You don't have **Jenkins** coming in off the bench. Those are your other primary ball handlers and they're not so much as ball handlers as a **Cade Cunningham**. So asking him to bring the ball up, that's just how this team is built. We've had these conversations already. Secondary scorer, now we're talking about a secondary person to bring the basketball up to make **Cade Cunningham** more effective in the half court, but that's just the way that this team is built."
+
+**9. Chandler — Jalen Duren's future contract and his role as a second option**
+[13:59](https://www.youtube.com/watch?v=qCT64bFyIZo&t=839s)
+
+"**Jalen Duren** is their second best player. That doesn't mean he's their second option. So if this summer you're looking at a max if he's going to make $50 million a year, maybe you pay him $46 million a year. I'm saying he's getting paid regardless of what happens. He's 22 years old. He is a man child. His best basketball is ahead of him. Yes, he's struggling. Yes, it's still weird with the rebounding and just the overall production in the playoffs. But the dude is 22 years old and that's not who he is to be that second option. He might be the second most valuable player. He might be the second All-Star. He's not the second option on the offense. **Jenkins** is more of a second option than he is, which is crazy to say."
+
+**10. Lou — Contrasting Jalen Duren's and Paul Reed's offensive playstyles and team reliance**
+[14:36](https://www.youtube.com/watch?v=qCT64bFyIZo&t=876s)
+
+"No excuse for that. But again, think about think about the style of play. **Jalen** is the type of player that somebody has to set the table for him or yet he has to eat off of the offensive glass, right? If **Cade Cunningham** is having trouble with being a playmaker, getting in the paint and making him more effective, that's where you're starting to see that trickle down effect as well. **Paul Reed** can he can produce off the dribble. He can create his own shots. As you can see, catch the ball at the three-point line, get into the paint, get into his fadeaways, his floaters, finishing over guys. He got an offensive package where he can go and do those things. So completely different games. **Jalen Duren**, he needs Cade to go. He needs Cade to set the table for him where **Paul Reed** can go out, put the ball on the floor and go get his own bucket."
+
+---
+
 ## The Road Trippin' Show: Wembanyama's Elbow and Defensive Dominance
 
 Channel: Road Trippin
@@ -1082,23 +1498,66 @@ _Why it matters:_ Channing Frye emphasizes Victor Wembanyama's unparalleled defe
 
 ---
 
-## Kyrie Irving and Kai Cenat Live Stream
+## NBA Playoffs: Spurs vs. Timberwolves Game 5 Recap & Analysis — *Run It Back*
 
-Channel: Kyrie LIVE
+Source: https://www.youtube.com/watch?v=s-_lldB9AbM
 
-Source: https://www.youtube.com/watch?v=qiZvfjxSnOQ
+_Speakers identified: Chandler, Lou_
 
-_Speakers identified: Kyrie Irving, Kai Cenat_
+**1. Lou — Wembanyama's tone-setting dominance in Game 5**
+[00:44](https://www.youtube.com/watch?v=s-_lldB9AbM&t=44s)
 
----
+"Set the tone for his guys, and understanding he was playing with fire. It was a blessing for him to be involved in this game and he didn't take that for granted. He went out there and did what he was supposed to do as the best player on that team. That first quarter he was tremendous, did a lot of his damage right out of the gate, from rebounding to what he did on the offensive end, the tone that he set on the defensive end. I think after that, the rest of those guys picked up the slack. You had a brilliant night from **Harper**. The guards **Vassell** and **Castle**, obviously, they've been consistent in what they've been able to do. But it all started with **Wemby** and how he approached that game and was aggressive on the offensive end, was able to get to the rim, used his three ball, he only made two, but early in that game he was just he was just aggressive. I haven't seen him that aggressive in all of these playoffs. So it was a good sign for them and I think it carried over through four quarters after that."
 
-## Stephen A. Smith on being clueless about his value (Revolt Sports)
+**2. Chandler — Wemby's early game dominance and team support**
+[01:44](https://www.youtube.com/watch?v=s-_lldB9AbM&t=104s)
 
-Channel: Out The Mud
+"Just this energy and this maturity if you want to say the word like **Mitch Johnson** did, just how to start the game. Having 18 points and six rebounds in the first quarter, that's a great game for most people playing right now. And this guy set the tone doing this 2-2 series. Again, back against the wall, needed this game, protect home court, and he kind of instilled his will and his power early and set the tempo in this entire game. So this is exactly what they needed. **Lou** mentioned **Dylan Harper**, he was great, he's been fantastic all series. **Keldon Johnson** really stepped up big last night. He's kind of their tough guy, their motor, he plays so hard and he was finishing really efficiently. He was unbelievable, but the tone was set by **Wemby**."
 
-Source: https://www.youtube.com/watch?v=rzK6_ErY7fo
+**3. Lou — Disputing the 'wronged hero' narrative for Wembanyama's elbow**
+[03:04](https://www.youtube.com/watch?v=s-_lldB9AbM&t=184s)
 
-_Speakers identified: Stephen A. Smith_
+"I mentioned it yesterday in the group chat. I was like, the narrative around him playing in this game is funny, like he's passionate now because he threw an elbow. It's like, no, that was a dirty play. Why are you mad? And it is and it's fortunate that you didn't get fined because number one, by the rule, you're supposed to at least be fined $2,000. Didn't get fined, didn't get suspended. That's a blessing. But the playoffs are better with **Wemby** and I don't think he should have been suspended. But the narrative around like, oh, he's a wronged hero, or he's mature, or he was being rage-baited. It's like, no, he did something out of pocket."
+
+**4. Lou — Popovich prefers a mature Wembanyama after dodging a bullet**
+[05:49](https://www.youtube.com/watch?v=s-_lldB9AbM&t=349s)
+
+"There is a reason why his coach said he prefers a more mature **Wemby**. Keep your emotions under check because we dodged a bullet here. And because we were able to dodge this bullet, we got a convincing Game 5 win that we absolutely needed. So I understand that part, but the rage-bait, he's not getting fouled no more than anybody else. You have to be physical. This is the NBA playoffs. Nobody's going out of their way to put **Wemby** on his butt. He's going to stay on the floor. He falls on the floor five to ten times a game."
+
+**5. Chandler — High draft pick thriving on a loaded Spurs guard roster**
+[10:48](https://www.youtube.com/watch?v=s-_lldB9AbM&t=648s)
+
+"It's very rare to see a player of his age and such a high pick contribute so quickly on a really, really good team. Usually, it's like the **Cooper Flags**, you're a high pick for a reason, you're going to a team that needs you, to a team that was really bad this season before. This is a unique situation because the Spurs are a fantastic team. They're loaded at the guard position and he still finds ways to thrive with **De'Aaron Fox** on the floor with him, with **Stephon Castle** on the floor with him, with all these other playmaking, productive guards. And he finds a way to stand out."
+
+**6. Chandler — Fearless explosive guard destined for multiple All-Stars and championships**
+[10:48](https://www.youtube.com/watch?v=s-_lldB9AbM&t=648s)
+
+"He's so good, he's so athletic, his handle. He is going to be an absolute star in this league and he's fearless. These kids are just different. I know he grew up around it, knew his father was a great player, he's been around the league. He's not a normal rookie, he's not nervous, he's not timid, he's just taking the game to them. He plays with his head down and he is an explosive guard that is going to be around for a really long time and have multiple All-Stars and hopefully championships for San Antonio and he's going to be a huge part of that going forward because he is a dog."
+
+**7. Chandler — Julius Randle's inconsistent play compared to Karl-Anthony Towns**
+[13:16](https://www.youtube.com/watch?v=s-_lldB9AbM&t=796s)
+
+"He's got to be better. I feel like watching him is like watching **KAT**. You know right away what version you're going to get. You can just tell if he's aggressive, if he has energy, if he's got that pep in his step early on, you're going to get a different version of **Julius Randle**. When he's good, he is so good."
+
+**8. Chandler — Julius Randle's struggles against Victor Wembanyama at the rim**
+[13:16](https://www.youtube.com/watch?v=s-_lldB9AbM&t=796s)
+
+"He gets in the paint, he tries to get to his left hand and then he spins. Every time he spins against San Antonio Spurs, he knows there's a 7-foot-6 guy coming weak side to try and beat his shot up. He's settling a lot, he's taking more outside jumpers, he's taking more mid-range jumpers because of the idea that **Wemby** is at the rim. That's usually where he plays bully ball, gets to the rim and tries to overpower you. He can't really do that with **Wemby** at the rim meeting him."
+
+**9. Chandler — Julius Randle's crucial role as an offensive X-factor**
+[13:16](https://www.youtube.com/watch?v=s-_lldB9AbM&t=796s)
+
+"I think he'll find ways to get more involved early on because when he gets going, it makes their offense a lot easier. He was 0 for 4 from the three last night, so when he can expand and make shots, it makes the defense get closer to him where he can beat you on the first step and be more aggressive. He's definitely got to be better. We know **Anthony Edwards** is going to be solid. We know **Jaden McDaniels** at this point is going to be exactly who he is. **Julius Randle** has got to be that X-factor who gives you those 20 and 10 because their offense is way better when he's better."
+
+**10. Chandler — Rudy Gobert's defensive impact against Victor Wembanyama and Nikola Jokic**
+[16:47](https://www.youtube.com/watch?v=s-_lldB9AbM&t=1007s)
+
+"They need **Rudy Gobert** to offset **Victor Wembanyama** as much as he possibly can. Gobert had such a great series against **Nikola Jokic**, just making things difficult on him. Wembanyama is a different type of player offensively, and obviously he's a lot taller and has more length. But Rudy has to have that sort of passion, that sort of energy on the defensive end and try to make it harder for him. It's easier said than done. Neither of them are really guardable to a point. But Gobert just has to have that impact, whether it's loose balls, diving on the floor, taking charges, blocking shots, offensive tip-outs, all the little stuff that **Rudy Gobert** can do without getting the ball and trying to score points. His value is not on how many points he had, or how many shots he took. It's can he do all those little things and can he make Wembanyama's night harder on him than it should be? He hasn't really done that. I feel like he did a much better job with Jokic. He knows him very well. Wembanyama also knows him really well. They have the whole French connection thing; they've known each other for years, playing against each other for years, and played with each other. But he's just got to have more energy or physicality, he's got to make it more difficult for Wembanyama."
+
+**11. Lou — Predicting Game 7 and praising Edwards' confident mindset**
+[19:08](https://www.youtube.com/watch?v=s-_lldB9AbM&t=1148s)
+
+"I genuinely feel like we got seven games. I'd like to, listen, a lot of people be like, oh, he's not worried. If I have the best player on my team and he's like, we all right, this is what we expect. Nobody said this was going to be easy. That tells me we're still in a good space. We're still in a confident space. If he's frantic and he's worried, that would concern me more so than anything. So I like the fact that he's like, look, I'm not too worried. Game 6 is in our building. We're going to respond and we'll be all right. Game 7 on Sunday. I like the attitude. I like him keeping the morale up, them not hanging their heads and being prepared to move on."
 
 ---
 

@@ -1,0 +1,35 @@
+# Tim Hardaway Sr. Joins Run It Back to Discuss Nuggets, Jokic, and Top 5 Players — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=LdT5zd4jZWA
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Eddie Johnson, Tim Hardaway Sr._
+
+**1. Tim Hardaway Sr. — Nuggets' championship window and roster decisions after injuries**
+[01:03](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=63s)
+
+"Well, I think they have some decisions to make. **Watson**, are they going to keep him? They're talking, it's little talk about **Aaron Gordon** and **Murray**, what they want to do with them. When a team goes through a bunch of injuries in a year, I feel that you need to let them run it back. Because they need to come back healthy and ready to go next season. And they know what they can do. **Brown**. He knows what he can do. He's been hurt when he went out with that injury with the ankle injury and it seemed like he couldn't get himself back together. Same way with Gordon, when he went out with that hamstring injury, he just couldn't get himself back going. Even **Jokic**, when he went out with the knee injury, it took him a while to get going. I think that if I was the owner, the GM, I would want to run it back with that same crew, healthy. And we still got to brush up on some things. Our defense, defense was terrible."
+
+**2. Tim Hardaway Sr. — Nuggets' defensive intensity and consistent outside shooting needs**
+[02:12](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=132s)
+
+"Man-to-man defense, not tough enough at times, not in your face at times. I think they got to go out there and hit somebody first instead of them letting them get hit and going down 15 and always clawing your way back. I think you got to take the initiative to them and take the fight to them and make them understand that this is how it's going to be for 48 minutes. And I didn't think they did that enough. So, but I think that they still need some shooting, outside shooting, consistent outside shooting. I still think they need **Tim Hardaway Jr.** there to come off the bench and play a significant role for their team. But, if I was them, I would want to run it back when I'm 100% healthy because if they were 100% healthy, I think they could have beat the **Timberwolves** and went on and played the second round."
+
+**3. Tim Hardaway Sr. — Payton Watson's talent and worth to the Nuggets' future**
+[03:29](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=209s)
+
+"He's a hell of a player. You can't take, you can't let a talent like that go. You got to fit them pieces around **Jokic** in order to win. And I think with his charisma, with his how he plays, how hard he plays, it would be hard to let him go and not get nothing back. Who are you going to get back that's that talented and that can play in that system that way? I don't think there's many people that's out there that's free agent or you would have to trade for him. So, they're backed up against the wall as GMs. They got to figure it out. And if, why not give him some money and let's see where it's going to go. And then if not, we could ultimately trade him at the end of the season or during the middle of the season or next year. **Payton Watson**, I think he is worth the money that they're going to give or that he's asking for."
+
+**4. Tim Hardaway Sr. — Nikola Jokic's ranking among all-time great centers**
+[04:50](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=290s)
+
+"Great question, man. You got so many great centers out there that played this game. A lot of people don't talk about **Moses Malone**, **Elvin Hayes**, those type of people. We always talk about **Kareem** and those guys. But it's a bunch of guys out there that played this game very well that a lot of people don't know about. I rank him up there. I give him, I'm not talking about he's top five, top ten. I probably give him top 15 because it was, you got **Robert Parish**, you got some guys out there."
+
+**5. Tim Hardaway Sr. — Evolution of big men's roles in the NBA offense**
+[05:33](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=333s)
+
+"The game is much, much, much more different today than what it was when we played. Bigs had to go down there, don't dribble the ball too much. You're not initiating offense. You're going to go down there, we're going to give you the ball, you're going to do your thing down low. Two dribbles, fade away this and that. So, **Jokic**, you got to credit **Don Nelson**, **Gregg Popovich**, and even **Adelman**'s dad, when he had **Vlade Divac** and **Chris Webber** out there in Sacramento initiating offense, passing the ball, making other guys move and initiating offense. So, the big man has come into play tremendously in running offense and handling the basketball. And that's what it is today."
+
+**6. Tim Hardaway Sr. — LeBron James's exceptional performance at age 41**
+[06:50](https://www.youtube.com/watch?v=LdT5zd4jZWA&t=410s)
+
+"I tell you this, everybody's top five is different and there's no disrespect to **LeBron James**. LeBron, I'm going to tell you this, playing at 41 and doing what he's doing at 41 and flying around the court and, he's talking about he was, they made him the third option. He was..."

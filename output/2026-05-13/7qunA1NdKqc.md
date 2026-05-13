@@ -1,0 +1,30 @@
+# LeBron James on Motivation and Playing with Bronny — *Mind the Game*
+
+Source: https://www.youtube.com/watch?v=7qunA1NdKqc
+
+_Speakers identified: Steve Nash, LeBron James_
+
+**1. LeBron James — LeBron James on his motivation to play at a high level**
+[00:34](https://www.youtube.com/watch?v=7qunA1NdKqc&t=34s)
+
+"Yeah, I think it's definitely the sport and it's the, you know, I have the ability to still inspire and I have the ability to still play this game at a high level. You know, and I still love the process of getting up and putting my body through rigorous rehabs and training sessions and whatever the case may be to try to find the results. And I think the result of what you saw, what guys have seen in the first round or since I came back from injury or whatever the case may be, you know, and I also have a, you know, to be able to, you know, have Bronny in the locker room has definitely helped out a lot as well."
+
+**2. LeBron James — LeBron James on Bronny's impact on his professional drive**
+[01:02](https://www.youtube.com/watch?v=7qunA1NdKqc&t=62s)
+
+"I have a job and a responsibility to show him what it means to be a professional. And yes, he's seen it from the outside looking in throughout the course of his life, but now being in the locker room, being in film sessions, being on the plane, being, you know, in everything that surrounds how to be a professional and the results that come with it. I have a responsibility in that. So, those are a couple, you know, ways for me and a couple ways that's given me inspiration and given me motivation to still do this and, and, and, yeah, it's paid off. I hope so. I hope it's paid off, you know, in the sense for **Bronny** and in the sense of my teammates that, you know, they get to see, you know, how I approach the game and, and, and it comes way before, you know, the lights come on and the popcorn is, you know, the popcorn is popping and everyone is filled in their seats and whatever the case may be."
+
+**3. LeBron James — LeBron James on Bronny's growth and stepping up in playoffs**
+[02:28](https://www.youtube.com/watch?v=7qunA1NdKqc&t=148s)
+
+"You know, one of the things that I came into this season, obviously last year was, you know, challenging for everybody and he was learning his ways on, you know, being a professional, whatever the case may be, his rookie year, but, you know, he's made so many strides in his second year and, you know, it resulted in him, you know, taking, you know, the moment, obviously without **AR**, without **Luka**, he was next man up. He was one of the guys that had to step up in his absence and to share that moment in Game 3, I believe we scored 10 straight points between the two of us. I think we both had a three and we both had a layup, whatever the case may be. I was able to throw him a lob and we had that that mini run between the two of us and that was just something that I would never ever forget."
+
+**4. LeBron James — LeBron James on appreciating playoff moments with family**
+[03:17](https://www.youtube.com/watch?v=7qunA1NdKqc&t=197s)
+
+"I've learned obviously at my elder stage and being 41 years old to kind of appreciate the small wins in the moment. And that was one of the moments where I, I kind of, I've always been locked in and those that moment right there, throwing him the lob, seeing him make the three, we kind of going back and forth, I kind of blanked out for a little bit and just really just accepted and relished in that moment. And that's pretty cool for for me as a dad and then us as as colleagues and then our whole family. I think I mentioned at one point like my mom being at the game and her being able to watch her son and grandson in a postseason game at the same time. Like, you know, and it's the same time my wife was there, his sister was there. I think **Bryce** was back home from college, he was at the playoff like it was like, you can't, you can't even write that script in Hollywood better than what's going on. So, just being super appreciative of it."
+
+**5. LeBron James — LeBron James explains his 'playing possum' backdoor play**
+[06:06](https://www.youtube.com/watch?v=7qunA1NdKqc&t=366s)
+
+"Yeah, yeah, you know, that's just playing possum. You know, I feel like, you know, the game is, you know, which we saw in Game 3 in Houston, the game is never over until, you know, the zeros on the clock. So even though we had momentum, we had got a stop, we had momentum, you still have to execute, you still have to score. And I felt, you know, at that time they had got a little, they had got a little deflated. They didn't make some of the shots that they made or wanted to make and we were getting stops and they were kind of lagging a little bit, you know, maybe thinking about the previous play and I kind of noticed that walking down the court. So, you know, I kind of told **Smarty** like, hold, hold up and they all kind of was watching me do that and at that moment when I saw **Tari Eason** kind of, you know, just take a little beat like, okay, I can breathe, that's when I was able to make eye contact with **Smarty** and get that backdoor and kind of and pretty much seal the game after that."

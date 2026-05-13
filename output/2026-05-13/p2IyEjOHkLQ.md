@@ -1,0 +1,40 @@
+# Stephen A. Smith on his career, media philosophy, and relationships with NBA players — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=p2IyEjOHkLQ
+
+_Speakers identified: Tracy Morgan, Stephen A. Smith_
+
+**1. Stephen A. Smith — Allen Iverson and Stephon Marbury's impact on his career**
+[01:00](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=60s)
+
+"It's two people more responsible than anybody for my success in my career. It's **Allen Iverson** and it's **Stephon Marbury**. Because I covered Stephon in high school. When I was a high school writer in New York in '93. Stephon was at Lincoln High School. He was a star player and everybody in New York City were caught up on **Felipe Lopez**. Remember Felipe? Everybody was like this. And it was one person. Uh-uh. That dude right there, **Stephon Marbury**. That's the dude. Felipe nice, I hope he go pro. I said, but I'm seeing a cat that's 6'5, slender, without a J. You can lock him on the next level. There's no answer for Marbury. Handle, NBA body, hops, jump shot, floaters in the lane, get to the basket, finish at the open court. Oh, Marbury was that dude. So it was like I'm covering him and the notoriety came because I was covering him. Just like on the NBA, the notoriety came because I was covering **AI**. Who they were and what they brought to the table enabled me to get noticed for the work that I do. Because I was covering them."
+
+**2. Stephen A. Smith — Defining 'fake cats' in media and avoiding groupthink**
+[03:00](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=180s)
+
+"Because it's like, it's a lot of fake, it's a lot of fake cats that are out here. And let's define what we mean by fake. That fake rage and the fake anger and the gang mentality. And by that, I mean you jumping on that group thing instead of being your own independent individual. Oh, everybody else flowing with this kind of mentality. It's real easy to pounce on this brother, so let me join the fray. No, stand above the fray."
+
+**3. Stephen A. Smith — His philosophy on direct disagreement and maintaining respect**
+[04:16](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=256s)
+
+"I lose respect for that. It doesn't matter. It could be family, it could be friends, it could be anybody. If I rock with you and I disagree with you, I'm going to be a man and tell you I disagree with you. But after I disagree with you and explain to you why, and we talk about it, all right, dog, how are we moving forward? Because it ain't nothing changed between us. We still going to be good. We just talking about this one thing. But you got cats that I don't know whether it's a fakeness, whether it's soft as hell mentally or whatever. But if an abundance of people are against you, they got to be against you too. And I don't respect that. I don't, I have no use for them whatsoever."
+
+**4. Stephen A. Smith — Challenging anyone to claim he betrayed them**
+[05:26](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=326s)
+
+"Don't come to me with disagreements. Don't come to me, you didn't like something. Find one person that says **Stephen A.** betrayed me. He was two-faced, he said something behind my back, he was a different person in front of my face. Find that person. It's been 30 plus years. I said one. There is no one that can legitimately say that about me because I'm always me. And I pride myself in making sure that I'm man enough to be a man, let you know where I stand, here's why, boom, boom. And if you disagree, we could have a conversation about it. It ain't going to make me change my mind unless you're right."
+
+**5. Stephen A. Smith — Carmelo Anthony holding him accountable for not calling him**
+[07:00](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=420s)
+
+"And he was in Brazil and I said some shit about the Knicks and he thought I got it wrong. And I pride myself, I think I'm batting a pretty strong percentage with what I'm right about. But he had me dead to rights because I didn't call him. And so he said, 'You didn't call me, you just went on the air and said this shit?' And I said, 'Man, you were in the Olympics, in Brazil.' He said, 'That never stopped your ass before!' And I was like this, 'Damn, you got me.' Because he's right. It didn't matter where he was. It didn't matter what they were doing. I always called. And I didn't because he was at the Olympics. And so it didn't matter what I said. The fact is he was saying, 'Had you reached out to me, you would have had it all and I would have told you rather than you going on the air and saying the shit you said.' And he had me dead to rights. And I went on the air the next day, 'He got me.' He said, 'I didn't call him.' He's right. It don't matter what I said. Erase everything that I said."
+
+**6. Stephen A. Smith — Stephen A. Smith's established success means he doesn't need clicks.**
+[08:20](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=500s)
+
+"We don't see enough of that today. We see people bitching and screaming, trying to get clicks and all of this other shit and doing what they're doing. What they don't understand, I don't need them. I already have it. I already have ratings. I already have a hit show that's been number one for 14 straight years. I already own my own production company. I have my own YouTube channel. I have my two shows on Sirius XM, one sports, one political. I think I've done fine. So I don't have to go through all of that shit. I really, really don't."
+
+**7. Stephen A. Smith — Stephen A. Smith on respect, privacy, and dealing with enemies.**
+[08:20](https://www.youtube.com/watch?v=p2IyEjOHkLQ&t=500s)
+
+"It's really, really about establishing what everybody has always known. I'm going to always show you respect. I don't get into people's personal business. I ain't one of them motherfuckers that's sitting up there and we talking basketball and I'm trying to find out about your personal. I don't do that. I've never done that. So my attitude is if you can't be man enough to sit up there and have a conversation with me, that means you want to feel negatively about me. You were looking for an excuse. Keep that shit moving. Because you ain't trying to get along. You want to be enemies. And if we want to do that, we can play that game too."
