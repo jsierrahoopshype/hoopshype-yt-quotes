@@ -1,5 +1,7 @@
 name: Daily quote extraction
 on:
+  schedule:
+    - cron: '0 7 * * *'
   workflow_dispatch:
 jobs:
   extract:
