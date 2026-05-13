@@ -24,11 +24,17 @@ def _output_base_url() -> str:
     return (os.getenv("OUTPUT_BASE_URL") or "").strip().rstrip("/")
 
 
-def _video_link(date_str: str, video_id: str) -> str:
+def _date_folder_link(date_str: str) -> str:
     base = _output_base_url()
     if not base:
-        return f"output/{date_str}/{video_id}.md"
-    return f"{base}/{date_str}/{video_id}.md"
+        return f"output/{date_str}/"
+    return f"{base}/{date_str}/"
+
+
+CLOSING_LINE = (
+    "CHECK OTHER YOUTUBE PODCASTS HERE: "
+    "https://www.youtube.com/feed/subscriptions"
+)
 
 
 def _truncate_quote(text: str, n: int = 200) -> str:
@@ -69,9 +75,12 @@ def post_digest(items: list, date_str: str) -> bool:
 
     n = len(items)
     plural = "s" if n != 1 else ""
-    lines = [f"*HoopsHype YT Quotes — {date_str}*", f"Processed {n} video{plural}."]
+    lines = [
+        f"*HoopsHype YT Quotes — {date_str}*",
+        f"Processed {n} video{plural}.",
+        _date_folder_link(date_str),
+    ]
     for it in items:
-        link = _video_link(it.get("date", date_str), it["video_id"])
         title = it.get("title") or it["video_id"]
         channel = it.get("channel") or ""
         speaker = it.get("speaker") or "Unknown speaker"
@@ -80,5 +89,6 @@ def post_digest(items: list, date_str: str) -> bool:
         lines.append(f"📺 *{title}* ({channel})")
         if quote:
             lines.append(f'Top quote: "{quote}" — {speaker}')
-        lines.append(link)
+    lines.append("")
+    lines.append(CLOSING_LINE)
     return _post({"text": "\n".join(lines)})

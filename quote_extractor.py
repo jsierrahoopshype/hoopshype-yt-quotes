@@ -52,7 +52,10 @@ Editorial rules:
 - Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return "Unknown speaker". Do not guess.
 - Provide a start timestamp in MM:SS or H:MM:SS format pointing at the moment the quote begins.
 - Tag each quote using only these topics: trades, free agency, team dynamics, player legacy, rumors, front office, coaching, playoffs, contracts.
-- Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation. Preserve the speaker's meaning. Do not exaggerate their tone. Do not fabricate.
+- FILLER CLEANUP: Strip conversational noise so the quote reads like lightly edited print. Remove "uh", "um", "er", "ah" and variants. Remove "you know" when used as filler (keep it when it's a real question or phrase). Remove "like" when used as filler or hedging (keep it as a real verb or comparison). Remove "I mean" when used to restart a thought. Remove "kind of" and "sort of" when used as filler. Collapse repeated words from false starts ("the the", "we we"). Resolve mid-sentence trailing-off restarts to the speaker's completed thought (e.g. "if he goes home, he's not -- he can be the guy" -> "if he goes home, he can be the guy"). Preserve the speaker's voice and emphasis. Do not paraphrase or change meaning. Example —
+  Before: "If he leaves LA, uh, Cleveland. I think it's full circle, going home again, um, joining a team that, as we saw, uh, last night, um, once again, you know, obviously Donovan Mitchell going off..."
+  After: "If he leaves LA, Cleveland. I think it's full circle, going home again, joining a team that, as we saw last night, once again, obviously Donovan Mitchell going off..."
+- Preserve the speaker's meaning. Do not exaggerate their tone. Do not fabricate.
 - Skip play-by-play recap, sponsor reads, intros, outros, generic opinions, and recycled talking points unless phrased forcefully.
 - Add a one-sentence "why it matters" note framed for HoopsHype Rumors readers (NBA-savvy, want news value).
 - Return up to 12 quotes ranked by news value. If fewer than 12 meet the bar, return fewer.
