@@ -1,0 +1,49 @@
+# Out the Mud
+
+Channel: Out The Mud
+
+Source: https://www.youtube.com/watch?v=pr24NMPO7eI
+
+_Speakers identified: Unknown speaker, Stephen A. Smith_
+
+**1. Stephen A. Smith, on player legacy, front office, contracts**
+[00:26](https://www.youtube.com/watch?v=pr24NMPO7eI&t=26s)
+
+"How about when I got fired in 2009? When ESPN and I had a contract dispute and they decided to go in a different direction. I was unemployed for a year. I didn't have a check coming in for damn near a year, and I was wondering whether or not I was ever going to make it back in the business again. I would like to remind everybody, let's keep this in mind. TV One and BET wouldn't hire me. I'm going to repeat that. This is, let me just put it out there. I'm Stephen A. BET and TV One wouldn't hire me. I had nothing and I felt like I was being blackballed. I felt like the word had been put out, whether it's by ESPN or contemporaries in the industry, I don't know who it was, but I felt like the word had been put out, he ain't somebody you want to be associated with."
+
+_Why it matters:_ This reveals Stephen A. Smith's personal experience with career setbacks and the challenges of being perceived as undesirable in the industry, offering a rare glimpse into the struggles even prominent figures face.
+
+**2. Stephen A. Smith, on player legacy, team dynamics**
+[00:26](https://www.youtube.com/watch?v=pr24NMPO7eI&t=26s)
+
+"And it forced me to take a really, really long hard look at my career, the decisions that I've made, the people I alienated along the way, etcetera. It could be bosses that I tussled with or whomever. And I just reflected on some of the decisions that I made and why and felt like no matter what finger of blame I could point to in somebody else's direction, it ultimately came down to me."
+
+_Why it matters:_ This highlights Stephen A. Smith's emphasis on personal accountability and self-reflection as crucial for career longevity and success, a mindset often applicable to athletes navigating their own professional journeys.
+
+**3. Stephen A. Smith, on contracts, front office, player legacy**
+[02:09](https://www.youtube.com/watch?v=pr24NMPO7eI&t=129s)
+
+"I was arrogant. I was immature. I was pretty clueless about my own value, thinking that I deserve X amount of money. Well, why do you think that, Stephen A? And I thought the answer to those questions were, well, I'm doing commercials. You see me on bus stops. You see me on commercials. You see me on TV. You see people screaming my name when I walk into an arena. Well, that's not the same. That's not a value that they quantify. They have their own measuring stick to to sort of gauge your marketability, your value, etcetera, etcetera. And I was totally clueless to all of that because I didn't pay enough attention to the tea leaves and where they were and what was going on."
+
+_Why it matters:_ Stephen A. Smith reflects on his past arrogance and misunderstanding of how corporate entities quantify talent value, highlighting a common disconnect between public perception and internal business metrics that can impact contract negotiations.
+
+**4. Stephen A. Smith, on player legacy, coaching, team dynamics**
+[02:49](https://www.youtube.com/watch?v=pr24NMPO7eI&t=169s)
+
+"When I lost my job and ultimately they came back to me a couple of years later, I started out at Fox Sports Radio after I left ESPN. I was unemployed for almost a year. Then Fox Sports Radio came calling me for their morning show. I was driving 87 miles one way every morning to do Fox Sports Radio in New York City. And I would go from Fox Sports Radio in New York City and drive back to my house in South Jersey. So I was putting in 175 miles a day on my ride, going back and forth, waking up 3:30 in the morning, leaving by 4, getting to the city at 6, dealing with all of that stuff. That's what I had to deal with. And before ESPN came calling me back for radio and stuff like that, and then I just made up my mind, I was going to learn from my mistakes. It wasn't going to happen again. I knew what errors that I made and I didn't master the business of Corporate America."
+
+_Why it matters:_ Stephen A. Smith details the immense personal sacrifice and dedication required for his comeback, emphasizing his commitment to learning from past mistakes and mastering the corporate landscape, a journey that mirrors the resilience needed by athletes facing career setbacks.
+
+**5. Stephen A. Smith, on player legacy, contracts, team dynamics**
+[03:44](https://www.youtube.com/watch?v=pr24NMPO7eI&t=224s)
+
+"A lot of times when y'all don't do it, we look at y'all harshly and we shouldn't because y'all are professional athletes, professional basketball players, professional athletes, period, could be football, baseball, anything. Y'all are not subjected to Corporate America the way that we were in an official capacity. Y'all are like independent contractors. There's a level of freedom that you have that your talent allows. We walk in as employees. I've always been proud of athletes who are doing these things because I'm like, you're independent contractors that are exercising your independence and exploring your potential in a variety of mediums to see what works for you and what doesn't. I've never had a problem with that. I've never resented it. If anything, I was envious of it because I didn't have it. Other people get envious of y'all money. I'm like, please, why? Y'all earned it because y'all could do stuff that most of us can't do. But the other things that you can do that we could do as well, you had the freedom to do it and you maximized it. And I ain't got nothing but love and respect for that."
+
+_Why it matters:_ Stephen A. Smith highlights the fundamental difference in freedom and autonomy between professional athletes (independent contractors) and corporate media employees, expressing admiration for athletes who leverage their talent beyond their primary sport.
+
+**6. Stephen A. Smith, on contracts, team dynamics, player legacy**
+[04:10](https://www.youtube.com/watch?v=pr24NMPO7eI&t=250s)
+
+"I remember I sat down with Cam Newton a few days ago and I said to him, you're not realizing the magnitude of what I'm saying. I said, last up until last May, I'm 58 years old. Up until last May, to sit down with you two right now, to sit down with Cam Newton last week, to sit down with somebody else, I would have had to get ESPN's permission. You're not allowed to do that. You're an employee. You talk to who they allow you to talk to. They don't want you talking to somebody else, you can't. That's an employee. I said, I didn't have this freedom until I was 57 years old."
+
+_Why it matters:_ Stephen A. Smith reveals a surprising personal anecdote about his lack of freedom as an ESPN employee, needing permission for external engagements even at 57, underscoring the strict corporate controls over media personalities and the contrast with athlete autonomy.

@@ -1,5 +1,16 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-13
+
+- [Run It Back NBA Show](2026-05-13/0dF3oenTJKc.md)
+- [Daryl Morey's 76ers Trade Strategy Explained](2026-05-13/A4fS0Gqs7g4.md)
+- [Mind the Game](2026-05-13/CAjkiubhaGE.md)
+- [Antoine Walker Rips Jalen Duren and Praises Cavs](2026-05-13/Cz8fYLAz-Uo.md)
+- [Stephen A. Smith on NBA Players Who Called Him Out](2026-05-13/DDP92nXSOw8.md)
+- [NBA Unplugged Show Discussion](2026-05-13/EFuURDLxdBs.md)
+- [The Road Trippin'](2026-05-13/g_xtgxSJW1I.md)
+- [Out the Mud](2026-05-13/pr24NMPO7eI.md)
+- [NBA Trade Deadline Fallout & Free Agency Buzz: Who's Moving Where?](2026-05-13/xqqfbdOaZSg.md)
 ## 2026-05-12
 
 - [ESPN SportsCenter NBA Playoffs Recap](2026-05-12/-wEjAWhpvv8.md)
