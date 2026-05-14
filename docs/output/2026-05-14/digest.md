@@ -154,6 +154,89 @@ _Speakers identified: Matt Barnes, Stephen Jackson, Darren Waller_
 
 ---
 
+## How I prepared for the NBA Playoffs | Anthony Edwards — *Anthony Edwards*
+
+Source: https://www.youtube.com/watch?v=6o97amHkwV8
+
+_Speakers identified: Anthony Edwards, David Hines, Jenna Stangland, Chef Tyler Bogda, Christopher Hines, Javair Gillett_
+
+**1. Anthony Edwards — Anthony Edwards on his injury recovery and embracing treatment**
+[01:22](https://www.youtube.com/watch?v=6o97amHkwV8&t=82s)
+
+"How has it been dealing with the injuries this season? It's been cool. Because it was nothing too major, everything been super light, so it's been cool. Every day we stretch, but every other day is like recovery, treatment. This is the first time I actually really been hurt. And my back be bothering me, so it was like, bro, I got to get more treatment. And then when I start realizing it was good for me, then I'm going to go all the time."
+
+**2. David Hines — David Hines on Ant's recovery plan for deep playoff runs**
+[01:46](https://www.youtube.com/watch?v=6o97amHkwV8&t=106s)
+
+"If you look at the past four seasons, starting with USA Basketball, us going into the Western Conference Finals, USA Basketball, Western Conference Finals, and just playing a lot of basketball, just looking at maintenance ways that we could apply recovery modalities, whether it's at home, setting things up at the house where he can do his recovery, and then at the facility before and after practice. So if we are going to make a deep run, then we obviously need **Ant** to be healthy."
+
+**3. Anthony Edwards — Anthony Edwards on BFR helping his knee injury**
+[03:23](https://www.youtube.com/watch?v=6o97amHkwV8&t=203s)
+
+"My second year, my third year, I had a knee problem and I missed a couple games. And then I started working with him, who was doing BFR and my knee problem was going away. So I was like, yeah, this is going to be one of them love-hate relationship things. I'm willing to do it. He go kicking and screaming, but he get it done."
+
+**4. Anthony Edwards — Anthony Edwards on missing games and regaining conditioning**
+[03:39](https://www.youtube.com/watch?v=6o97amHkwV8&t=219s)
+
+"Has it been hard missing games? Oh yeah, for sure. Definitely rather be playing. Hell yeah. I was playing with my knee for a little minute, like three weeks. I got to see what my wind look like when I get back on the court because right now I'm scared. I know when I start running, I'm going to be tired, so I got to get it back. It's probably going to take me a week to get my wind back, to be honest."
+
+**5. Jenna Stangland — Jenna Stangland on customizing Ant's nutrition plan**
+[05:02](https://www.youtube.com/watch?v=6o97amHkwV8&t=302s)
+
+"My approach with **Ant** is meeting him where he's at and then seeing what tweaks we can agree on that are going to increase the nutrient density of what he's eating. So we're going to set up **Ant**'s order, BBQ chicken. He does a lot of off-menu items, so we got to write in the special requests."
+
+**6. Jenna Stangland — Jenna Stangland on Anthony Edwards' consistent meal choices**
+[05:50](https://www.youtube.com/watch?v=6o97amHkwV8&t=350s)
+
+"This is a great way to get a bunch of antioxidants in. On the road, he is very routine with what he eats, which is chicken, teriyaki sauce, rice, and broccoli. At home, he has steak bites with teriyaki sauce, broccoli, and rice."
+
+**7. Christopher Hines — Christopher Hines on developing Anthony Edwards' diverse shooting**
+[07:32](https://www.youtube.com/watch?v=6o97amHkwV8&t=452s)
+
+"All the nuances of shooting, man, it's a lot of detail that come into one and making it a natural jump shot. And so with him, one of the things that he asked me to do is not to limit his shooting, right? So don't make him just a catch and shoot guy, don't make him an off the dribble type of shot guy, ISO shot guy. He wanted to have his shooting very diverse. So we made it an emphasis to clean up the whole process."
+
+**8. Christopher Hines — Christopher Hines on Anthony Edwards' counters to defensive coverages**
+[07:58](https://www.youtube.com/watch?v=6o97amHkwV8&t=478s)
+
+"The beautiful thing about this regular season is he's seen every coverage. He's really seen what the NBA kind of wanted in terms of, okay, what are they forcing **Ant** not to do? I know he's top five in seeing two people on him when he has the ball, especially with a pick and roll. And so we just made it a point to where now we have a counter for everything. So you're going to put two on us, we know how to beat that. You're going to play us in a drop, we know how to beat that."
+
+**9. Christopher Hines — Christopher Hines on Anthony Edwards' quick learning ability**
+[08:40](https://www.youtube.com/watch?v=6o97amHkwV8&t=520s)
+
+"One thing I think that separates him from anybody I've worked with is I don't think people understand how smart he is. The ability to acquire something, see it done, and then actually replicate it and perfect it his way. I've never seen that. You can show a guy this and it usually takes him about a month, month and a half to start to feel comfortable with it. For him, it's a week."
+
+**10. Christopher Hines — Christopher Hines on preparing Anthony Edwards for playoff scoring**
+[09:10](https://www.youtube.com/watch?v=6o97amHkwV8&t=550s)
+
+"We started preparing for the playoffs a month after the season. We took a month off and then we got back to it. And that was truly putting in the post-game for him, right? So you're kind of seeing that this year a little bit. So now he has other options to score with."
+
+**11. Christopher Hines — Christopher Hines on preparing Anthony Edwards for the playoff marathon**
+[09:26](https://www.youtube.com/watch?v=6o97amHkwV8&t=566s)
+
+"But the playoffs, it's a marathon. And as we start building him back up, obviously he's injured right now, what we're going to do is start sharpening everything back up to where there is no box that you can kind of put him in, right? So staying through the process and can we prepare our bodies to be ready for the marathon?"
+
+**12. Javair Gillett — Javair Gillett on Anthony Edwards' transition to smarter training**
+[09:58](https://www.youtube.com/watch?v=6o97amHkwV8&t=598s)
+
+"It's kind of a transition period for **Ant** in his career. I think all the fundamental skills have been worked on. I think he's achieved those goals. He's more explosive, he's stronger. So now we're transitioning into a phase where he's got to be a lot smarter. It's got to be more scientific, more cutting edge. So our goals are how are we going to maximize recovery this year just to give yourself an edge."
+
+**13. Javair Gillett — Javair Gillett on Anthony Edwards' evolving training goals**
+[10:26](https://www.youtube.com/watch?v=6o97amHkwV8&t=626s)
+
+"Before the start of the season, he's like, I have to get stronger. I got to get my core, my upper body stronger to be able to finish at the rim more. So that was a major goal. And then later in the season, now we got to lighten up and get ready for the playoffs. So the goals have changed and evolved over the course of the season."
+
+**14. Javair Gillett — Javair Gillett on translating weight room training to on-court performance**
+[10:42](https://www.youtube.com/watch?v=6o97amHkwV8&t=642s)
+
+"What we're responsible for off the court is how can we improve athleticism? There's so many different factors. So one aspect we might work on on some balance and coordination that might play into what he's worked on all summer and that's his mid-range turnaround jumper. In the weight room we might work on moving and controlling the body at different angles so that he's able to transfer that onto the court. So we talk about it all the time in the weight room when he's doing exercises how it transfers. Hey, keep your head and shoulders still. That's finishing at the rim. So if I come push you and your head and shoulders don't move, you're going to be more accurate. A little tween-tween move."
+
+**15. Javair Gillett — Javair Gillett on multiple factors for Anthony Edwards' peak physical performance**
+[11:32](https://www.youtube.com/watch?v=6o97amHkwV8&t=692s)
+
+"**Ant** is different than other players in the league. If you're talking about just physical development, you're looking at a lot of factors. You have balance and stability, you have strength, obviously, you have explosiveness, you have your endurance, your conditioning. So there's a lot of different factors that come into play when it comes to **Ant** reaching peak levels of performance."
+
+---
+
 ## Does LeBron Deserve ANOTHER Statue In LA?? Road Trippin' Gets HEATED — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=9AG9_tvWrB4
@@ -262,6 +345,24 @@ _Speakers identified: Tim MacMahon, Michael C. Wright_
 [23:11](https://www.youtube.com/watch?v=9kLugj1X-2M&t=1391s)
 
 "The Thunder have grown and matured, and they are a better team now than they were last year. I'm just saying that the rest thing is kind of turned, you can go rest versus rust, but you want as little wear and tear as possible because that series is going to be a battle. And it's the teams are almost kind of reflections of one another. And you also know that the **Spurs** paid a lot of attention to how **OKC** rebuilt that thing because there's a lot of ties between the organizations."
+
+---
+
+## I Went 1 on 1 With President Obama | Anthony Edwards — *Anthony Edwards*
+
+Source: https://www.youtube.com/watch?v=9nKOmSAWDh8
+
+_Speakers identified: Anthony Edwards, Barack Obama_
+
+**1. Barack Obama — Anthony Edwards' potential as a leader and champion**
+[04:52](https://www.youtube.com/watch?v=9nKOmSAWDh8&t=292s)
+
+"The thing I love about this guy, you can tell he wants that smoke. He's not backing off. And the best athletes and the best champions, when the pressure is highest, that's when they want the ball, that's when they want the shot, and that's what this guy always does. This young man can go as far as he wants, he's got to keep on working hard, and part of the process when I watch **Bird**, **Magic**, **Michael**, all the great champions, at some point they start figuring out that they can do anything they want on the court. Now they got to figure out how can they get all their other teammates to feed off them. That's where he's about to ascend. So, we'll see how this next playoff works."
+
+**2. Barack Obama — Anthony Edwards' unique jump shot form and improvement**
+[05:40](https://www.youtube.com/watch?v=9nKOmSAWDh8&t=340s)
+
+"He couldn't shoot when I first met him. Boy, he's shooting. He's shooting pretty good now. He's doing better than shooting pretty good. The other thing is, the way he's shooting, there aren't that many guys, maybe **Ray Allen**, who get up as high on the jump shot. Most of the best shooters, they don't get too far off the ground. But he'll elevate. He'll elevate."
 
 ---
 
@@ -516,6 +617,19 @@ _Speakers identified: Female Host, Chandler, Lou_
 
 ---
 
+## My Thoughts On The Nuggets Playoff Series — *Curious Mike*
+
+Source: https://www.youtube.com/watch?v=VRSkeXp5Pzw
+
+_Speakers identified: Michael Porter Jr._
+
+**1. Michael Porter Jr. — Michael Porter Jr. on his mixed feelings watching the Nuggets-Wolves series after being "traded"**
+[00:00](https://www.youtube.com/watch?v=VRSkeXp5Pzw&t=0s)
+
+"If I would have been on the Nuggets, we wouldn't have lost the Wolves without **Ant**, without **DiVincenzo**. We would have had too many matchup problems. They were able to put **Jaden McDaniels** on **Jamal Murray**. But then who are you going to put on me? If I was out there, I think it would have been a little bit different. But I feel like a hater a little bit because I'm watching this series and I'm like, those are my guys on the team, I want them to do well. But I couldn't fully cheer for them because they traded me and then it's a weird feeling because I felt like a hater lowkey."
+
+---
+
 ## MOMENTS LEADING UP TO TRAE YOUNG'S TRADE | DOC 7: ANOTHER OPPORTUNITY — *Trae Young*
 
 Source: https://www.youtube.com/watch?v=VgeITnjcyVs
@@ -551,6 +665,19 @@ _Speakers identified: Trae Young, Unknown speaker_
 [06:08](https://www.youtube.com/watch?v=VgeITnjcyVs&t=368s)
 
 "Whoever **Trae Young** goes to, whatever team you decide you want to trade him to for the roster you have, that team is going to get an upgrade, especially if it goes to a team and that team don't have to lose much, because he is a 25 and 9 guy."
+
+---
+
+## We Been Hoopin’! #atlantahawks #nba #basketballplayer #basketball — *Trae Young*
+
+Source: https://www.youtube.com/watch?v=Vh23tBw3nvk
+
+_Speakers identified: Trae Young_
+
+**1. Trae Young — Trae Young on the Atlanta Hawks' tough schedule and good team vibes**
+[00:02](https://www.youtube.com/watch?v=Vh23tBw3nvk&t=2s)
+
+"We've been hooping. I ain't gonna lie. I just love our team, the vibe. Obviously, my teammates know my saying is 'the vibes is high.' You got to give our team credit, man. We're just fighting. The schedule's been ridiculously tough. I don't know what, no offense, **Adam**, but I think our schedule, man, is just crazy, just from the long West Coast trip and then obviously coming back here, never feeling like you're at home. But I know things will change when it comes to the schedule, but our team has been playing well, man, and I'm happy to see everybody playing well."
 
 ---
 
@@ -782,6 +909,39 @@ _Speakers identified: Rich Eisen, Chris Webber, Sue Herera, T.J. Jefferson_
 
 ---
 
+## Anthony Edwards: How I Overcame Injury to Return to Play — *Anthony Edwards*
+
+Source: https://www.youtube.com/watch?v=iuas_58LUeY
+
+_Speakers identified: David Hines, Robby Sikka, Anthony Edwards, Chris Finch, Charles Barkley_
+
+**1. David Hines — Anthony Edwards' initial recovery steps after hyperextension injury**
+[00:33](https://www.youtube.com/watch?v=iuas_58LUeY&t=33s)
+
+"Right after the hyperextension injury, bone bruise, got some swelling going, so one thing we want to manage is his range of motion. Big thing is making sure that his pain is under control. Manage the swelling these first few days, let him recover. So he's doing a ton of recovery modalities, Game Ready, Normatec, pool program, anti-inflammatory for pain management are things that we're doing in the first few days and making sure that he stays home."
+
+**2. David Hines — Managing Anthony Edwards' return with medical and performance data**
+[01:26](https://www.youtube.com/watch?v=iuas_58LUeY&t=86s)
+
+"Now we just making sure that we have a healthy balance with managing his injuries as he returns and making sure that things are settling down. We use all data from the medical side and the performance and strength side before he returns. Seeing if he can hit all of his high-end speeds, strength metrics for isometric testing, and his ability to jump, perform on the court before he returns. Those are things that we look at and if he's not capable of doing those things, we can make sure we're managing him and making sure that he's not progressing too fast before he returns on the court."
+
+**3. Robby Sikka — Anthony Edwards' unmatched toughness and dedication to playing**
+[02:07](https://www.youtube.com/watch?v=iuas_58LUeY&t=127s)
+
+"There's plenty of great athletes in the NBA. The toughness and the willingness to do the right things to take care of yourself, that's the part that struck me with **Anthony Edwards**. This is the greatest physical specimen that I have ever been around in my life. This is a kid who does the right things, he's doing treatment, and he's always trying to come back because he wants to play. There's no player that I've been around who wants to be on the floor more. He loves all parts of the game and being on the court. So he's a kid who works his tail off because he wants to be out there with his teammates, because he wants to win, because he wants to do everything the right way."
+
+**4. Anthony Edwards — Anthony Edwards' determination to play through injury in playoffs**
+[04:17](https://www.youtube.com/watch?v=iuas_58LUeY&t=257s)
+
+"I'm getting by, **Trey**. I'm messed up, man, but I'm fighting through it. It's hard to gauge my shot because I can't really bend and jump on my shot. But it's all good, man. It's just fight through it. It's the playoffs. I'll go out there on one leg if I have to, **Trey**. I don't care."
+
+**5. Robby Sikka — Anthony Edwards' quick recovery from past hamstring and foot injuries**
+[05:25](https://www.youtube.com/watch?v=iuas_58LUeY&t=325s)
+
+"**Anthony** sustained a hamstring strain at the beginning of the season this year. A typical player would have missed two weeks. **Ant** came back in less than 10 days. In the middle of the year, he had a foot infection and he played through it. There's no player that has come back from two injuries like that faster than expected. And it's because of the attention to detail that he has, because of his commitment to work. There's nobody like him that I've ever been around in my entire professional career. This is a kid who will do anything and everything to win and anything and everything to compete at the highest level."
+
+---
+
 ## Did NBA Get Rookie of the Year Wrong?! Roommates React to 2025-26 Awards — *Roommates Show*
 
 Source: https://www.youtube.com/watch?v=jsjQV5UFSaU
@@ -870,6 +1030,84 @@ _Speakers identified: Kyrie Irving, Brett Carroll_
 [22:34](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=1354s)
 
 "But you know what's funny about that too? Again, because we live in the 24/7 media cycle, and we have to talk about something, a lot of it was blown out of control and out of proportion on purpose. And so now when we look back on it, it's like, 'Oh, wait. That looked kind of crazy.' It looked kind of crazy when it's like, 'Yeah, you don't have to do that.'"
+
+---
+
+## Trae Young Speaks On Recovery, The Atlanta Hawks Success, and His OUMBB Assistant GM Position — *Trae Young*
+
+Source: https://www.youtube.com/watch?v=tRInRF6lFnY
+
+_Speakers identified: Trae Young_
+
+**1. Trae Young — Trae Young on the high rate of NBA injuries today**
+[01:30](https://www.youtube.com/watch?v=tRInRF6lFnY&t=90s)
+
+"When it comes to injuries, it's crazy to see how many stars are out in the game today. I mean, and then obviously seeing them coming back from rehab in the videos, obviously you see guys like **J.T.** back on the court, **Tyrese** dunking again. Even **Kyrie**, from his ACL injury last year. There's a lot of guys that are going through things and I think that's, I don't know, it could be attributed to how fast the game is nowadays. The space and how much guys are moving on and off the ball. Everybody's always in action. I don't think you can hide anymore in the NBA. I think you're always going to be in action and that puts a lot of wear and tear on your bodies. I think that's just some guys are going to get better at over time, going to be able to control that more as we learn more about our bodies and nutrition and things like that. But it's a part of the game and it's tough whenever you have to go through it, but like I said, it's a part of it."
+
+**2. Trae Young — Trae Young on the Hawks' improved play and handling a tough schedule**
+[03:00](https://www.youtube.com/watch?v=tRInRF6lFnY&t=180s)
+
+"Everybody's been growing even more into their roles from last year, having to do a little bit more. You're seeing some of the stuff that guys have worked on in the offseason and maybe some things that have surprised some of y'all that guys can do. You're getting to see a lot of it now and the way we're playing with the pace and getting out, getting stops and then running. We're just taking care of business and you can't necessarily say that we've been able to have games like this this year in previous seasons where we're just taking care of games we're supposed to. You got to give our team credit, man. We're just fighting, the schedule's been ridiculously tough. I don't know what, no offense **Adam**, but I think against our schedule, man, it's just crazy just from the long West Coast trip and then obviously coming back here and never feeling like you're at home. But I know things will change when it comes to the schedule, but our team has been playing well, man, and I'm happy to see everybody playing, playing well."
+
+**3. Trae Young — Trae Young highlights Onyeka Okongwu's improved jump shot and hard work**
+[05:06](https://www.youtube.com/watch?v=tRInRF6lFnY&t=306s)
+
+"I'm going to start off with **O**, the way he's been shooting, it's been crazy. I don't know if y'all remember from a few years ago, he said, 'I'm going to come back with a jumper.' I don't know if y'all remember him saying that or not. I do. I remember some of the comments, a lot of people probably was laughing at him, but now look at him. Look at what he's done as far as his game, being able to space the floor and that only helps our team offensively and he's been balling through this run. We're going to need him to play this way for the rest of the year. We want to go where we all want to go. I'm so happy that he's coming into his own skin and growing. Shout out to all the bigs coaches on court four who been with him, **Regg**, **Effa** and those guys. I'm happy that **O**'s been balling. He's put a lot of work in and it's paying off."
+
+**4. Trae Young — Trae Young on Dejounte Murray's leadership and accountability**
+[06:09](https://www.youtube.com/watch?v=tRInRF6lFnY&t=369s)
+
+"Then obviously you see the reason why I was trying to make this call and trying to get this guy on my team this year, **Dejounte Murray**. There's a reason why I was trying to get this guy on my team. There's a reason, and just from everything that he brings to the table as far as a person, as far as one of our leaders now of our team, and just communicating and making sure guys are holding guys accountable, but not just everybody around him, himself as well. I think that just shows what type of person he is. We haven't been able to be on the court very much, but I'm super excited to be able to be back on the court with him and don't expect his production to go down at all. If anything, it's going to go up."
+
+**5. Trae Young — Trae Young excited about Dejounte Murray's versatile skills**
+[06:09](https://www.youtube.com/watch?v=tRInRF6lFnY&t=369s)
+
+"For me, I want to play fast. I want to play off a guy that can create for me. I got a couple on my team that can do that, and it's going to be fun. I can play off **Dejounte Murray**, and I haven't had very many reps with him, but to be able to have a guy who can space the floor, shoot it, guard one through four, five if you really want him to, just brings so much to the table that you can't be anything but excited to play with a guy like that. I'm just excited to be back with him here soon, and I love what he's been able to do throughout this run. We've needed everything that he's brought, these fourth quarters, these big time shots, these big time defensive plays."
+
+**6. Trae Young — Trae Young on Jalen Johnson carrying the team and his efficient play**
+[08:16](https://www.youtube.com/watch?v=tRInRF6lFnY&t=496s)
+
+"Don't act like I didn't try to warn y'all. This dude has so much game, man, he has so much game that I don't even think he really understands the potential he has yet. He has so much even more room for growth and what you're seeing from him now is just the tip of the iceberg. Obviously, he's been carrying us throughout this run and putting up crazy numbers and playing super efficient and just playing the way we all know that's been in the building around him in practices and seeing him work out and seeing the work that he puts in and me being in LA knowing the guy he works out with in **Chris Johnson**, knowing the type of work they put in, it's not surprising to me."
+
+**7. Trae Young — Trae Young on Jalen Johnson's potential finally showing**
+[09:04](https://www.youtube.com/watch?v=tRInRF6lFnY&t=544s)
+
+"It may be surprising to y'all and some people out there who just now starting to become some Hawks fans or just now starting to hear about **Jalen Johnson**. But if you really know him or really been around him for a long time, you kind of knew that this was going to happen at some point. It was just a matter of time for everything to start coming together for him, and I'm just happy that he's able to be out on the court. I think if you ask him what the best feeling about everything coming for him right now, I think he would even tell you that he's just happy he gets to play. When he's on the court, everything else is going to show for itself. All the work is going to show and everything else is going to show for itself. If he's out there, this dude is a perennial All-Star, a guy who's going to make multiple All-NBAs, I feel like if the team success is there."
+
+**8. Trae Young — Trae Young's passion and pride for Jalen Johnson's future**
+[09:04](https://www.youtube.com/watch?v=tRInRF6lFnY&t=544s)
+
+"The future is so bright for this kid, man. I'm just so happy that I've been able to be a part of it from the beginning to now, and we'll see where the future brings. But this kid is obviously, man, **Jalen Johnson**'s a star, bro. I get so passionate when I talk about Jalen. I'm so happy for him, I'm happy for his family, his brother. He just has a great family, and I know the work that he puts in, and I'm glad y'all finally see the work showing."
+
+**9. Trae Young — Trae Young praises Coach Quinn Snyder's detailed coaching and readiness**
+[10:46](https://www.youtube.com/watch?v=tRInRF6lFnY&t=646s)
+
+"I definitely can't forget about the job **Quinn** has done. I think a lot of people are overseeing the job that he's done and his ATOs and stuff that most hoop heads don't even really care about, but it's the little things that make a difference and that's where the coach comes in and they they definitely make a difference. I feel like **Quinn**'s done a great job of making sure our our guys are ready and things like that. You got to give **Quinn** a lot of credit too with everybody else on our staff and I'm just excited to be back with the guys."
+
+**10. Trae Young — Trae Young details his current GM role while still playing**
+[11:59](https://www.youtube.com/watch?v=tRInRF6lFnY&t=719s)
+
+"I'm sure a lot of y'all are wondering what my job entails as far as being a GM. For me, being a player right now, I'm probably not going to be as involved as I will be when I retire, a long, long time from now. Right now, obviously, if we have a top recruit, if we have guys that I know **Coach** wants and we need to be all in on, I'm going to be on those calls. I'm going to be on those meetings or hear about this kid and if I need to get in touch with him, I will and trying to continue to boost our fan base and our sponsorships and everything like that. I feel like that's something that I need to continue to be a big role and help with."
+
+**11. Trae Young — Trae Young values his GM role as a mentor for young players**
+[11:59](https://www.youtube.com/watch?v=tRInRF6lFnY&t=719s)
+
+"One of the coolest things and probably one of the best things for me being in this new role as a GM is being the mentor I'm able to be for these young kids coming up and being able to be side by side in their growth in college and understanding and knowing their vision and their goals of wanting to play in the NBA. Being a resource or being a guy that's always right there in their corner that is going to try their everything to help them achieve their dreams. I think that's the best part about me being in my position."
+
+**12. Trae Young — Trae Young's goal to bring Oklahoma basketball a National Championship**
+[13:10](https://www.youtube.com/watch?v=tRInRF6lFnY&t=790s)
+
+"Not only do I want to see my my school and my university succeed at the highest level, win a championship, yes. But I know I can only do that with NBA talent and in high-level players and high-level IQ players and highly skilled players. That's why I'm here. I'm going to be here for a long time. I grew up in Norman since I was five years old. I'm not going to leave Norman, Oklahoma for a long time or this role. My goal is to to bring Oklahoma basketball their first National Championship and trust me, I'm going to get a ring when we do because there's nothing like winning a championship and I know it. I'm looking forward to to helping be a part of just a little piece of this puzzle of building this this championship team as we continue to build this over the years, bringing that National Championship to Oklahoma is my goal."
+
+**13. Trae Young — Trae Young's hypothetical GM role guiding college players on NIL deals**
+[14:15](https://www.youtube.com/watch?v=tRInRF6lFnY&t=855s)
+
+"This being the new NIL era, being that I know a little bit about playing basketball and having some money. I think as a GM at Oklahoma, I'm always trying to make sure that you have the right people around you, or if you don't, I'm trying to help put those type of people around you and help put you in the right spot. That's where I think I can come in and help these guys understand that it's not just about this one-year NIL deal or two years or being in college for all this time and chasing NIL deals. NIL has changed and a lot of these kids are making a lot of money, but it's not the end all be all, and I feel like that's where I can come in and help these kids understand that, and that's what I want to do."
+
+**14. Trae Young — NIL deals influencing college players' decisions and future paths**
+[14:15](https://www.youtube.com/watch?v=tRInRF6lFnY&t=855s)
+
+"That's what's crazy. When I came out, after college, you were either going to the NBA, or you were going overseas, or you were going to the G League and trying to work your way that way. Now there are just so many different routes and options, and guys are making certain decisions, possibly bad ones, just based off of the NIL deals nowadays, and guys just wanting more money rather than better situations for them. Things like that, I feel like can mess up a kid's future and ultimately being an NBA player. I can't tell you the amount of guys before the NIL era that made decisions that weren't the best school fit for them. So I can only imagine now seeing guys making the wrong money fit for them."
 
 ---
 
