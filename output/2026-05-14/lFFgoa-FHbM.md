@@ -1,0 +1,45 @@
+# Are NBA Journalists Just Entertainers Now? w/ Brett Carroll | Kyrie Irving 24 Hour Stream Guest — *Kyrie LIVE*
+
+Source: https://www.youtube.com/watch?v=lFFgoa-FHbM
+
+_Speakers identified: Kyrie Irving, Brett Carroll_
+
+**1. Brett Carroll — Brett distinguishes between journalists and TV personalities in sports media**
+[08:27](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=507s)
+
+"So what's happening now is these people are no longer journalists, right? So the journalism integrity does not have to be there. They're quote-unquote TV personalities. So there's a lot of TV personalities that just are there for the controversy, there for the takes, there for the excitement. They could say whatever they want. But the journalists are there for an investigative aspect, integrity, making sure that the relationships are fluid. I know a journalist doesn't like to be wrong. But what's happening is people are jumping back and forth, and I'm not going to say names, we're not trying to do that. But there's certain people who are journalists or were journalists and they kind of want to toggle back and forth. Where they want to act like they're a journalist so they can say what they want to say. But then when there's controversy behind it, it's, oh, well, I'm not a journalist, I'm just. So they hide behind."
+
+**2. Brett Carroll — Brett argues for transparency in team financials if player contracts are public**
+[12:17](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=737s)
+
+"Their whole contract? Yeah. And it was sent to you? No, I had to go dig for it, and they didn't want to give it to me, but I had to do it because it's technically the voting public and their tax dollars go to their contract, so they have a right to know how much you're getting, right? And the sports room is kind of the same thing because the fans are immediately involved in how the economics of whatever sport works, it's viewed as the public has a right to know what you're being made. Now, I would argue that the other side should probably put. If you're going to put the financials out there, put the financials on the other side. How much are these teams making? How much did they take home? What was their stuff, right? Because now we can hold everybody accountable and that's just players."
+
+**3. Kyrie Irving — Kyrie discusses how public contracts put a target on players' lives**
+[13:25](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=805s)
+
+"I wonder if people know that how much that puts a target on someone's life where you know what's going on, but you see it very casual, but it helps the overall growth of the sport, the sexiness of it, like, oh, guess what, **Kai** or so-and-so is making this record-breaking historic numbers. Yeah, like the Thunder, shout out to all the Thunder that got paid. Yeah, shout out to **Shay**, **J-Dub**, shout out to everybody that got the max deal, they're already on that payment scale, right? My max deal, I'm not saying it was, not a lot of money, my max deal, my first max deal, it was five years, $90 million, and my next deal grew up from there. But I look at it as, is it too much information at some point though? Because when does it become comfortable for me? If you know exactly what I'm making, there's an awkwardness to that where I'm existing in within our same society, but also separation there because now I could feel less sorry for you, I could feel more envy, all that."
+
+**4. Brett Carroll — Brett criticizes modern sports media for turning casual 'barbershop talk' into news**
+[16:12](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=972s)
+
+"I think that's also the problem too, everything has become barbershop talk. And I think we forget what barbershop talk is. Yes, that is a very casual sense. We use entertainment as almost like an escape where we're living vicariously through other people's lives, what we would do to make those decisions if we were them. Yeah, those are barbershop conversations. If it were me, sh*t is. I'd probably handle it like this. Timmy Two-Shoes Johnson was the best I've ever seen. I'm trying to tell you. You know he was the best ever. The best ever. I've seen him drop 50 points in a quarter. God damn, I saw him wake up in his bed and then drop 50 in the bed while he was on the court. And it was raining. And thundering too. God damn. They said he shook somebody so bad, caused a hurricane. But then, but now it's become news now where it's like barbershop talk is the news. And it's like, wait, when did barbershop talk become that? Barbershop talk is just supposed to be the pass of time."
+
+**5. Kyrie Irving — Kyrie Irving addresses revisionist history, prioritizing personal peace and family.**
+[20:17](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=1217s)
+
+"Hold on. There's been some revisionist history going on over the last week or so. I don't know if you've been peeping. But for some players? I'm just saying, maybe people forget season to season. But on a personal level, I'm not forgetting that. On a human level, I'm not forgetting that. Basketball, of course, it takes precedent here. Have I made all the right decisions? No. But what I can say is, as a man, I stood up for myself. I made sure that I was good for not only my family, but good for my friends. Making sure that I'm enjoying what I'm doing, and I'm not losing my peace of mind because I'm trying to appeal to somebody else or appeal to the situation."
+
+**6. Kyrie Irving — Kyrie Irving refuses to revise timeline, emphasizes accountability and presence.**
+[20:17](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=1217s)
+
+"And that's why I said, over the last few weeks, I think I could've sat here and gone through a bunch of Twitter clippings, or Instagram clippings, or Discord. But for me, I think that also has a time and a place. I'm not trying to go out and say, he's wrong completely. You're entitled to your opinion. But what I'm not going to do is revise the whole entire timeline and be like, I don't have any accountability in this. I didn't have a say-so in it. Come on. We were there, bro. Yes, we were right there. We were sitting next to you. That's when it gets into laziness and confrontation is not normal anymore."
+
+**7. Kyrie Irving — Kyrie's sensitivity to criticism and its impact on his brand**
+[22:34](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=1354s)
+
+"But when it comes to the basketball takes, it's hard not to feel sensitive about what I love to do. I'm just going to leave it at that. It's hard not to feel sensitive when someone's talking about. I'm an artist, I'm sensitive about my sh*t. I'm sensitive. Am I sensitive to the point where I would try to go at somebody in the public forum as well? I don't even think that's sensitive. I just think that some people make different decisions when it comes to that. I just process those emotions a lot differently. I take it in stride. I understand that this does help the business grow. Now, if I'm at the butt of the jokes or I'm at the butt of the point, and they're not giving me any grace, that's the problem I had over the last few years. That was my discretion, or my transgression that I had towards media pundits or people that were speaking about real life things that now when we look at it, it seems as though, '**Kyrie** wasn't too crazy.' But I'm saying when it gets tossed into on-court stuff versus your off-court, and then now that's being integrated into your on-court personality, and now brands are looking like, 'Okay, well, now we can't touch them.' And again, I didn't make it easy. I'm just saying for me personally, I..."
+
+**8. Kyrie Irving — Media exaggerates stories in the 24/7 news cycle**
+[22:34](https://www.youtube.com/watch?v=lFFgoa-FHbM&t=1354s)
+
+"But you know what's funny about that too? Again, because we live in the 24/7 media cycle, and we have to talk about something, a lot of it was blown out of control and out of proportion on purpose. And so now when we look back on it, it's like, 'Oh, wait. That looked kind of crazy.' It looked kind of crazy when it's like, 'Yeah, you don't have to do that.'"
