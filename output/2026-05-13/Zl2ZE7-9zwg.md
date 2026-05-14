@@ -1,0 +1,70 @@
+# Kyrie Irving catches up with Tylil and reacts to his 57 point game vs. Spurs — *Kyrie LIVE*
+
+Source: https://www.youtube.com/watch?v=Zl2ZE7-9zwg
+
+_Speakers identified: Tylil, Kyrie Irving_
+
+**1. Tylil — New generation disrespecting goats like Kyrie Irving**
+[01:04](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=64s)
+
+"It just got me tight because it's genuinely the new generation that really wants to be watering down with goats like you and so much other athletes, influencers, and real idols. I was just so mad. They asked me, 'Are you and somebody better than you?' I said, '**Kyrie Irving** had 57 points against the one of the greatest NBA teams of all time. Why would you ask me that?'"
+
+**2. Tylil — Kyrie Irving prioritizing legacy over basketball and money**
+[01:53](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=113s)
+
+"I'm gonna be honest, you speak on stuff that a lot of people really won't speak on because you are trying to leave a legacy. I know that's why, even from the Mafia Throne to now, every message you're saying, I can tell the legacy is more important than anything, more important than basketball, more important than money. That's why I really appreciate you, for real."
+
+**3. Kyrie Irving — Struggles of being yourself in a conformist world**
+[02:15](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=135s)
+
+"It's hard being yourself in a world that is trying to tell you that you should be like everybody else and everything else. It's like trying to fit into a mold, especially the younger generation where I am part of that younger generation too. The old heads, they just be looking and they're like, 'Okay, you guys...' I remember somebody told me this. They said, 'We're the generation that the older generation basically would say, 'Alright, if a dog had rabies and we saw it across the street, we would tell y'all don't go with that dog.' We're like, 'That dog has rabies.' The old heads be like, 'Nah, I'm not gonna fuck around, I'll just keep going.' But the younger generation, our generation, is like, 'Yo, how can I fix that? How can I help this life out?'"
+
+**4. Tylil — Tylil's toughest battle growing as a person and creator**
+[07:51](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=471s)
+
+"What you told me, another thing you told me, is that you said it's hard to grow as a person. You said you had to figure out how to grow as a person and as a basketball player. That's one of my toughest battles right now. I'll be trying to grow as a person and as a creator. So, if the Tylil show and it's **Tylil James**, I'm pouring into the top of the game and I'm also pouring into the Tylil show. Those are really two... I'm the same person at heart, mind, and spirit, but at the same time, those are really two different people."
+
+**5. Kyrie Irving — Introducing himself authentically instead of relying on perception**
+[13:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=830s)
+
+"Every time I see somebody or I meet somebody, I try my best to introduce myself first before they ask for a picture or before I allow them to come up to me and be like, 'Oh, Kyrie, I know you from this.' No, you don't. You only know what you see. 'How are you doing? What's your name?' I try to remember their name because the next time that I see them, it's way more personable than just, 'Yo, I got a picture with **Kyle** or I did this.' There's no problem with that, but I'm saying now I'm at that space where I just want to introduce myself to people exactly where they see in front of them, and not just the perception. So that's what I wanted to speak on with you was, I see you going about your content creation a different kind of way. I saw you come on stream, you had a different type of energy at the beginning of the stream."
+
+**6. Tylil — Learning from internet drama and striving for self-improvement**
+[19:20](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=1160s)
+
+"My stream before that, when I was at the New York game, they never got to me. The things I'm saying and the things I'm doing might have them thinking they got to me, but it's only forever me versus me, **Tylil James** versus **Tylil James**. Anything that they will ever say, I can take criticism, and if I feel like there's a little bit of truth in it, I'm gonna take what they said, I'll take it to the chin, and I'll just be better moving forward. When I said 'beef and on' and 'drama and on,' I was in my Discord talking about it and we were all just laughing and trolling. In all honesty, I'm not really into no drama. Nobody has ever mentioned my name, I never mentioned anybody's name. I just speak on things in general and I don't be biased, and they take it and they always twist it and add a little twist to it. I don't give a fuck about who you are. Nobody in this world or nobody on the internet is never gonna tell me what I can speak on and what I can't speak on. As long as I'm not putting a name on it, it should be a problem."
+
+**7. Tylil — Internet's growing influence and personal accountability for content creators**
+[20:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=1250s)
+
+"The way I've been looking at the internet is like, 'Damn, y'all really got the internet got the most influence it's ever had in history.' Not only because it's monetized, but because people with a lot of power, including myself today, are showing them that the things that they say that's dumb shit and irrelevant are being acknowledged. I fell into the trap, just like everybody else I was speaking on. So I'm no better than anybody else that'd be on the internet acting a fool, into drama and into beef when it's pointless. That shit was like a smack when I really realized, 'Yo, I literally just put myself in the same basket, in the same category as everybody else that has been with this dumb shit all over the internet.' It was really just a lesson learned. When it's all said and done, to finish off my stream, I'm talking to **Kyrie**, side-step three to win a chip. I'm good."
+
+**8. Kyrie Irving — Disrespecting the WNBA by claiming high scoring averages**
+[31:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=1910s)
+
+"How much would I average? I would never say that, bro. I don't disrespect the game like that. Can't come on now. [Tylil: Me personally, I feel like I average a triple-double.] That's cap. [Tylil: You don't think I would average a triple-double in the WNBA?] F*** no. [Tylil: I would average 45, 10, and 12 in the WNBA game.] That's cap. I play mad defense and I guard and I'm physical, bro. Imagine one of them running to the screen with me."
+
+**9. Kyrie Irving — Recalling high-scoring performances by NBA opponents**
+[33:35](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2015s)
+
+"On me personally? There's been some games, bro. There's been some games. I had one time, 60. 60 ball. We played against the Portland Trail Blazers. **Damian Lillard**, 60 ball. We ended up winning that game, but he gave our team 60. And then **Stephen Curry** gave us like 50-something one time, or 40-something. It was like a duel between me and him. That was crazy. **James Harden**, 40-plus. It's just certain guys, bro, that just gonna get 40. It's not like I haven't gotten my shit off, but at the same time, you gotta show respect."
+
+**10. Kyrie Irving — Luka Doncic's impressive practice performance and scoring ability**
+[34:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2090s)
+
+"**Luka Doncic** gave me like 38, 12, and 12 in Brooklyn. Now that's who you need to be studying right there. You're more comparative to like talking about you a big guard. What is Luka like that in practice too? Yes. So practice, he's giving you probably like 60, 18, and 18 in practice. I witnessed him give somebody 24 points in three minutes."
+
+**11. Kyrie Irving — Responding to claims of other streamers being better basketball players**
+[35:17](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2117s)
+
+"Somebody said that **Duke Dennis** is better than you. Is that true? I'll give him $1500. I heard that some... this is what the chat is saying right now. They said **Cam Wilder** is better, **Dennis**, **Tony Marco**. I don't believe it, but they're saying a bunch of people are better than you, bro. They're saying **Kai** is better. They're saying **Plaqueboy Max**, **Flight**, **Walo**. They're saying **Walo** is better than you. They're saying **Ray** is better. Anybody you want to, anybody you think could beat me, you just send them and I'm gonna play them. But you literally just said somebody, you said a human gave you 60 points. Do you know how much points 60 is?"
+
+**12. Kyrie Irving — Recalling his 57-point game against the San Antonio Spurs**
+[44:20](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2660s)
+
+"I appreciate you, bro, because even talking to you regular like this makes me understand how far I've come, and it's really a blessing, on God. But chat, let's really watch this. If you've never watched this, and a guy tried to ever play with how great **Kyrie Irving** is, please just go to this one video right here. Just watch this. By the way, this was the year after they won too. The Spurs were OD this year, bro. Somebody's gotta look at the record of this team, bro. They had such an amazing record. This was a tough game, man, because the Spurs were always buzzing my ass."
+
+**13. Kyrie Irving — Breaking down his 57-point game against the Spurs' legendary lineup**
+[45:20](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2720s)
+
+"Tylil points out the Spurs players on the court: **David West**, **Tim Duncan**, **Manu Ginobili**, **Kawhi Leonard**, **Tony Parker**. Kyrie says they were the Avengers. He says he'll break down the game for Tylil next time. He says it was all types of buckets. He was hitting some shit. Tylil says every time Kyrie lays up, he gets fouled. Kyrie agrees. Tylil says the Spurs were 55-27. Kyrie says that's insane, they were coming off a championship run. Kyrie says shoutout to all the legends he's playing against. Tylil says they weren't calling a lot of fouls for the Spurs. Kyrie agrees. Tylil says it was a foul. Kyrie agrees. Tylil says they didn't see it. Kyrie says they didn't see it. Tylil says corner three right over him. Kyrie says **Green** is a very successful NBA player but needs to step up more. Tylil says that's a fast break. Kyrie says he froze **Kawhi**. Tylil says it was an and-one. Kyrie agrees. Tylil says it was overtime. Kyrie says this is where greatness is made, even if it was a regular season game. He says the whole arena was shocked when he made that shot. He says he froze **Kawhi**. Tylil says it was an and-one. Kyrie agrees. Tylil says he missed both free throws. Kyrie agrees."

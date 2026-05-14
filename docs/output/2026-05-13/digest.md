@@ -301,6 +301,19 @@ _Speakers identified: Steve Nash, LeBron James_
 
 ---
 
+## There's NOTHING Wemby Can't Do — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=99otzlT50gU
+
+_Speakers identified: Chandler Parsons, Michelle Beadle, Cuttino Mobley_
+
+**1. Chandler Parsons — Wemby's unbelievable all-around offensive game and athleticism**
+[00:00](https://www.youtube.com/watch?v=99otzlT50gU&t=0s)
+
+"The tone was set by **Wemby**, and it's just crazy. I was watching him last night and there's not one thing he cannot do on the basketball court. Even just watch those highlights: his handle, his shot taking, his shot making. It truly is unbelievable just with his size and his athleticism and his handle and his just offensive game. It doesn't make sense. It's ridiculous."
+
+---
+
 ## Daryl Morey's 76ers Trade Strategy Explained
 
 Channel: Road Trippin
@@ -760,6 +773,24 @@ _Why it matters:_ Kyrie Irving offers a stark but realistic perspective on frien
 
 ---
 
+## Max ain't hearing Jaylen Brown slander 😤☘️ — *All The Smoke*
+
+Source: https://www.youtube.com/watch?v=LSV0gw3CdZ4
+
+_Speakers identified: Shannon Sharpe, Matt Barnes_
+
+**1. Shannon Sharpe — Shannon Sharpe defends Jaylen Brown's career-best season comments**
+[00:00](https://www.youtube.com/watch?v=LSV0gw3CdZ4&t=0s)
+
+"But I don't understand why everybody so mad at **Jaylen Brown** because he said something good. He said, 'I had the best season I had all my career.' I said, 'Ain't nothing wrong with that.' That guy did. That guy had a first team All-NBA, right? What are we talking about? That man could say that. So everybody holds like, 'Oh, that's trade talk. He should be out of there now.' Man, fuck that. Hey, I like what you said, boy. You did have a great season. Yes, man. So you got the right to say that. What are we talking about? Boston, keep **Jaylen Brown** around. **Sam Cassell**, keep **Jaylen Brown** around. Now y'all get rid of that guy, it's going to be some problems over there."
+
+**2. Matt Barnes — Matt Barnes says only Giannis is worth trading Jaylen Brown for**
+[00:59](https://www.youtube.com/watch?v=LSV0gw3CdZ4&t=59s)
+
+"The only way I see, or if I'm Boston, if **Jaylen Brown** moves, is if I get **Giannis**. I don't think there's another player in the league that is tradable that I'm giving up **Jaylen Brown** for. If it's **Giannis**, I'm definitely considering it, but if I'm Boston, I'm trying to run it back with the same team. They got to pick up some, they got a lot of shooters out there. They got to pick up some more dogs on the defensive end."
+
+---
+
 ## Tim Hardaway Sr. Joins Run It Back to Discuss Nuggets, Jokic, and Top 5 Players — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=LdT5zd4jZWA
@@ -819,6 +850,19 @@ _Why it matters:_ Danny Green suggests the Orlando Magic's decision to fire head
 "No, the decision wasn't made that night. The decision was ingrained in their mind when they saw the type of season they had. When they lost to Boston with the eight guys in street clothes, it was a while the decision had been planned. That's why we said, whoever loses this series, the coach is going to get fired. I saw this coming. I saw the writing on the wall. I don't think they played to their expectations. Yeah, they won the play-in and they got to the playoffs, but this team underperformed for me. I thought they would be a top four team. And at times in the playoffs, versus Detroit, they looked like they were a top four seed until the meltdown. It was something that I thought could happen. The writing was on the wall, and maybe they reached their peak with coach."
 
 _Why it matters:_ An unknown speaker asserts that the decision to fire Jamal Mosley was a long-planned move by the front office, driven by the team's underperformance relative to expectations and their playoff meltdown, suggesting the team had reached its ceiling under his leadership.
+
+---
+
+## Putting into perspective how GREAT Shai Gilgeous-Alexander is and why he's GOOD for basketball — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=O9oYslgT-DU
+
+_Speakers identified: Unknown speaker, Stephen A. Smith_
+
+**1. Stephen A. Smith — Stephen A. Smith on Shai Gilgeous-Alexander's all-around greatness and MVP caliber play**
+[00:04](https://www.youtube.com/watch?v=O9oYslgT-DU&t=4s)
+
+"I think **SGA** is better for the game of basketball. Because the brother is whatever he needs to be to win. You need him to drop 50? Fine. You need him to shoot some threes? Fine. You need him to be Mr. Mid-Range? Fine. You need him to finish at the basket? Fine. You need him to manipulate you and get to the free throw line? Fine. You need him to defend? Fine. Do you understand that this is the fourth consecutive year that **SGA** has averaged over 30? This year is going to mark the third consecutive year he finishes in the top two for League MVP. Here is a brother that signed a contract that is going to pay him $70 million a year and nobody blinked because we all know he deserves it. When you're pointing to a dude that produces the way he's producing, it ain't no such thing as international or domestic. It's everything. It's Canada, it's the United States, it's Slovenia, it's Czechoslovakia, it's France, England and every place in between. He's that dude."
 
 ---
 
@@ -916,6 +960,44 @@ _Why it matters:_ Chandler highlights the perceived irony and potential trolling
 
 ---
 
+## We Can't Let People Revise NBA History! - Kyrie Irving — *Kyrie LIVE*
+
+Source: https://www.youtube.com/watch?v=TYmnCFP2zB4
+
+_Speakers identified: Kyrie Irving_
+
+**1. Kyrie Irving — Kyrie Irving on being fearless about revising NBA history**
+[02:30](https://www.youtube.com/watch?v=TYmnCFP2zB4&t=150s)
+
+"Being able to sit in front of you guys and authenticate feelings and emotions and go back into history and not allow things to be rewritten for someone else's benefit. That's where we at today, y'all, we not letting people revise history anymore. Those days are over and I'm fearless about it. That's what I'm fearless about. What on my mind is thinking about championships? Of course, that's always there, but the other side is I'm not letting people revise history."
+
+**2. Kyrie Irving — Kyrie Irving defends Kobe's early career dominance against media**
+[03:00](https://www.youtube.com/watch?v=TYmnCFP2zB4&t=180s)
+
+"I'm not letting people come on and talk about **Kobe** like **Kobe** wasn't one of the best that not only played but that came in as a 17-year-old against grown men. And by time this man was 22 years old, he had a few championships and he was busting the best of the best ass. If you don't knock that shit off, I'm talking to y'all at home, the media talking heads, the ones that casually throw names around like, bro, if you don't knock it off, you weren't like that. It's okay. Not everybody could be **Kobe**."
+
+**3. Kyrie Irving — Kobe Bryant's character immortalized him beyond basketball**
+[04:00](https://www.youtube.com/watch?v=TYmnCFP2zB4&t=240s)
+
+"This man, **Kobe Bryant**, is immortalized not just because of his basketball. That's what I'm trying to tell y'all, this man, he is way bigger because of the character, because of what we witnessed him go through. We didn't care about certain failures. The real Kobe fans didn't care about the failures. They didn't care about the naysayers. The real Kobe fans, the real Mamba fans that I'm talking to, didn't care about who he was competing with."
+
+**4. Kyrie Irving — Kyrie Irving on why basketball is bigger than GOATs**
+[07:00](https://www.youtube.com/watch?v=TYmnCFP2zB4&t=420s)
+
+"I don't care who the GOAT is. I don't care because basketball is bigger than the GOAT. And even the GOATs of basketball will tell you that. Basketball is bigger than the GOATs. Basketball is bigger than these media fan votes, these media voted awards."
+
+**5. Kyrie Irving — Kyrie Irving demands authentic NBA history, not media-trained narratives**
+[11:20](https://www.youtube.com/watch?v=TYmnCFP2zB4&t=680s)
+
+"This older generation still has yet to realize, and it's not them, the older generation, I'm not criticizing them. I'm just saying that there are groups within the older generation where they're like, 'Yo, damn, why these youngins, man, what's going on? Why don't they ask us for this?' It's like, bro, because the vulnerability that we need is media-trained from y'all. I'm not trying to get the media-trained version, I'm trying to get the real authentic version. What was the league like in the 80s? Stop telling me about **Larry Bird** and **Magic Johnson**, I love my big bros and my uncs, but stop telling me, start telling me about the truth. What was going on in the 70s? What were the people fighting for? What were they fighting for in the 60s? I don't care how many championships **Bill Russell** won. I love him. I love **Bill Russell**, but what else was he doing? Please, he was standing with **Muhammad Ali**, **Joe Brown**. I mean, he was really in it. I love that **Bill Russell**. That's the spiritual side. He used basketball because basketball unites. Basketball brings people together. Basketball does not become these media frenzy takes."
+
+**6. Kyrie Irving — Kyrie Irving praises WNBA's 'Pay Us What You Owe Us' movement**
+[14:40](https://www.youtube.com/watch?v=TYmnCFP2zB4&t=880s)
+
+"Pay us what you owe us. I'm rocking with that 100%. I don't care who has something to say about it. I think that the girls' game is growing exponentially and we have so many more exciting moments where it's challenging how we view their game and how we view their business. And sometimes challenging comes with making waves, and that's part of it. The women's game has always been nice, but now we're in a new day and age where they come out with political statements like 'Pay us what you owe us.' I came in during the 2011 lockout, so I understand what it's like to be locked out from the league. I understand what it's like to not be able to be on the same page, but they're going to have some interesting points to leverage and into some interesting points to negotiate. And I just want to give a shoutout to them and all of the W ladies that are consistently paying attention to how the business is framed and how they can make it better for everyone involved. The more unified you guys are, the better your strategy can be and the more that they have to come to that table and respect you guys."
+
+---
+
 ## Iman Shumpert on NBA Playoffs, Wembanyama, LeBron James' Future — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=YllVBK6yF5E
@@ -979,6 +1061,79 @@ _Speakers identified: Pat McAfee, Iman Shumpert, Butch, Tone Digz_
 
 ---
 
+## Kyrie Irving catches up with Tylil and reacts to his 57 point game vs. Spurs — *Kyrie LIVE*
+
+Source: https://www.youtube.com/watch?v=Zl2ZE7-9zwg
+
+_Speakers identified: Tylil, Kyrie Irving_
+
+**1. Tylil — New generation disrespecting goats like Kyrie Irving**
+[01:04](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=64s)
+
+"It just got me tight because it's genuinely the new generation that really wants to be watering down with goats like you and so much other athletes, influencers, and real idols. I was just so mad. They asked me, 'Are you and somebody better than you?' I said, '**Kyrie Irving** had 57 points against the one of the greatest NBA teams of all time. Why would you ask me that?'"
+
+**2. Tylil — Kyrie Irving prioritizing legacy over basketball and money**
+[01:53](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=113s)
+
+"I'm gonna be honest, you speak on stuff that a lot of people really won't speak on because you are trying to leave a legacy. I know that's why, even from the Mafia Throne to now, every message you're saying, I can tell the legacy is more important than anything, more important than basketball, more important than money. That's why I really appreciate you, for real."
+
+**3. Kyrie Irving — Struggles of being yourself in a conformist world**
+[02:15](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=135s)
+
+"It's hard being yourself in a world that is trying to tell you that you should be like everybody else and everything else. It's like trying to fit into a mold, especially the younger generation where I am part of that younger generation too. The old heads, they just be looking and they're like, 'Okay, you guys...' I remember somebody told me this. They said, 'We're the generation that the older generation basically would say, 'Alright, if a dog had rabies and we saw it across the street, we would tell y'all don't go with that dog.' We're like, 'That dog has rabies.' The old heads be like, 'Nah, I'm not gonna fuck around, I'll just keep going.' But the younger generation, our generation, is like, 'Yo, how can I fix that? How can I help this life out?'"
+
+**4. Tylil — Tylil's toughest battle growing as a person and creator**
+[07:51](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=471s)
+
+"What you told me, another thing you told me, is that you said it's hard to grow as a person. You said you had to figure out how to grow as a person and as a basketball player. That's one of my toughest battles right now. I'll be trying to grow as a person and as a creator. So, if the Tylil show and it's **Tylil James**, I'm pouring into the top of the game and I'm also pouring into the Tylil show. Those are really two... I'm the same person at heart, mind, and spirit, but at the same time, those are really two different people."
+
+**5. Kyrie Irving — Introducing himself authentically instead of relying on perception**
+[13:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=830s)
+
+"Every time I see somebody or I meet somebody, I try my best to introduce myself first before they ask for a picture or before I allow them to come up to me and be like, 'Oh, Kyrie, I know you from this.' No, you don't. You only know what you see. 'How are you doing? What's your name?' I try to remember their name because the next time that I see them, it's way more personable than just, 'Yo, I got a picture with **Kyle** or I did this.' There's no problem with that, but I'm saying now I'm at that space where I just want to introduce myself to people exactly where they see in front of them, and not just the perception. So that's what I wanted to speak on with you was, I see you going about your content creation a different kind of way. I saw you come on stream, you had a different type of energy at the beginning of the stream."
+
+**6. Tylil — Learning from internet drama and striving for self-improvement**
+[19:20](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=1160s)
+
+"My stream before that, when I was at the New York game, they never got to me. The things I'm saying and the things I'm doing might have them thinking they got to me, but it's only forever me versus me, **Tylil James** versus **Tylil James**. Anything that they will ever say, I can take criticism, and if I feel like there's a little bit of truth in it, I'm gonna take what they said, I'll take it to the chin, and I'll just be better moving forward. When I said 'beef and on' and 'drama and on,' I was in my Discord talking about it and we were all just laughing and trolling. In all honesty, I'm not really into no drama. Nobody has ever mentioned my name, I never mentioned anybody's name. I just speak on things in general and I don't be biased, and they take it and they always twist it and add a little twist to it. I don't give a fuck about who you are. Nobody in this world or nobody on the internet is never gonna tell me what I can speak on and what I can't speak on. As long as I'm not putting a name on it, it should be a problem."
+
+**7. Tylil — Internet's growing influence and personal accountability for content creators**
+[20:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=1250s)
+
+"The way I've been looking at the internet is like, 'Damn, y'all really got the internet got the most influence it's ever had in history.' Not only because it's monetized, but because people with a lot of power, including myself today, are showing them that the things that they say that's dumb shit and irrelevant are being acknowledged. I fell into the trap, just like everybody else I was speaking on. So I'm no better than anybody else that'd be on the internet acting a fool, into drama and into beef when it's pointless. That shit was like a smack when I really realized, 'Yo, I literally just put myself in the same basket, in the same category as everybody else that has been with this dumb shit all over the internet.' It was really just a lesson learned. When it's all said and done, to finish off my stream, I'm talking to **Kyrie**, side-step three to win a chip. I'm good."
+
+**8. Kyrie Irving — Disrespecting the WNBA by claiming high scoring averages**
+[31:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=1910s)
+
+"How much would I average? I would never say that, bro. I don't disrespect the game like that. Can't come on now. [Tylil: Me personally, I feel like I average a triple-double.] That's cap. [Tylil: You don't think I would average a triple-double in the WNBA?] F*** no. [Tylil: I would average 45, 10, and 12 in the WNBA game.] That's cap. I play mad defense and I guard and I'm physical, bro. Imagine one of them running to the screen with me."
+
+**9. Kyrie Irving — Recalling high-scoring performances by NBA opponents**
+[33:35](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2015s)
+
+"On me personally? There's been some games, bro. There's been some games. I had one time, 60. 60 ball. We played against the Portland Trail Blazers. **Damian Lillard**, 60 ball. We ended up winning that game, but he gave our team 60. And then **Stephen Curry** gave us like 50-something one time, or 40-something. It was like a duel between me and him. That was crazy. **James Harden**, 40-plus. It's just certain guys, bro, that just gonna get 40. It's not like I haven't gotten my shit off, but at the same time, you gotta show respect."
+
+**10. Kyrie Irving — Luka Doncic's impressive practice performance and scoring ability**
+[34:50](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2090s)
+
+"**Luka Doncic** gave me like 38, 12, and 12 in Brooklyn. Now that's who you need to be studying right there. You're more comparative to like talking about you a big guard. What is Luka like that in practice too? Yes. So practice, he's giving you probably like 60, 18, and 18 in practice. I witnessed him give somebody 24 points in three minutes."
+
+**11. Kyrie Irving — Responding to claims of other streamers being better basketball players**
+[35:17](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2117s)
+
+"Somebody said that **Duke Dennis** is better than you. Is that true? I'll give him $1500. I heard that some... this is what the chat is saying right now. They said **Cam Wilder** is better, **Dennis**, **Tony Marco**. I don't believe it, but they're saying a bunch of people are better than you, bro. They're saying **Kai** is better. They're saying **Plaqueboy Max**, **Flight**, **Walo**. They're saying **Walo** is better than you. They're saying **Ray** is better. Anybody you want to, anybody you think could beat me, you just send them and I'm gonna play them. But you literally just said somebody, you said a human gave you 60 points. Do you know how much points 60 is?"
+
+**12. Kyrie Irving — Recalling his 57-point game against the San Antonio Spurs**
+[44:20](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2660s)
+
+"I appreciate you, bro, because even talking to you regular like this makes me understand how far I've come, and it's really a blessing, on God. But chat, let's really watch this. If you've never watched this, and a guy tried to ever play with how great **Kyrie Irving** is, please just go to this one video right here. Just watch this. By the way, this was the year after they won too. The Spurs were OD this year, bro. Somebody's gotta look at the record of this team, bro. They had such an amazing record. This was a tough game, man, because the Spurs were always buzzing my ass."
+
+**13. Kyrie Irving — Breaking down his 57-point game against the Spurs' legendary lineup**
+[45:20](https://www.youtube.com/watch?v=Zl2ZE7-9zwg&t=2720s)
+
+"Tylil points out the Spurs players on the court: **David West**, **Tim Duncan**, **Manu Ginobili**, **Kawhi Leonard**, **Tony Parker**. Kyrie says they were the Avengers. He says he'll break down the game for Tylil next time. He says it was all types of buckets. He was hitting some shit. Tylil says every time Kyrie lays up, he gets fouled. Kyrie agrees. Tylil says the Spurs were 55-27. Kyrie says that's insane, they were coming off a championship run. Kyrie says shoutout to all the legends he's playing against. Tylil says they weren't calling a lot of fouls for the Spurs. Kyrie agrees. Tylil says it was a foul. Kyrie agrees. Tylil says they didn't see it. Kyrie says they didn't see it. Tylil says corner three right over him. Kyrie says **Green** is a very successful NBA player but needs to step up more. Tylil says that's a fast break. Kyrie says he froze **Kawhi**. Tylil says it was an and-one. Kyrie agrees. Tylil says it was overtime. Kyrie says this is where greatness is made, even if it was a regular season game. He says the whole arena was shocked when he made that shot. He says he froze **Kawhi**. Tylil says it was an and-one. Kyrie agrees. Tylil says he missed both free throws. Kyrie agrees."
+
+---
+
 ## No Fouls Given
 
 Channel: No Fouls Given
@@ -1011,6 +1166,99 @@ _Speakers identified: Paul Pierce_
 [00:15](https://www.youtube.com/watch?v=cMoKwLI003w&t=15s)
 
 "I had a chance to spend the next year, he came to Brooklyn, and I played with him in Brooklyn. So the next two years, we had a lot of time to spend with one another. I would tell you, he was cool to be around, man. I felt like once he came out about himself, he felt free and he was looser around the guys. It was just more because he was kind of standoffish at first because nobody knew the secret, but I'm telling you, he was just a good person, very easy to talk to, man, and always did his job. It's just sad because we're the same age, and it's sad for him to pass. It makes you appreciate the ones that you talk to and you love."
+
+---
+
+## Wemby's ANGRY Return, Mitchell Dominant Agains Pistons + OKC Swept The Lakers: Is LeBron Retiring? — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=cheOFX8TE4U
+
+_Speakers identified: Paul Pierce, Wosny Lambre, Danny Green_
+
+**1. Paul Pierce — Paul Pierce declares Victor Wembanyama the most complete player ever**
+[00:00](https://www.youtube.com/watch?v=cheOFX8TE4U&t=0s)
+
+"I'm watching **Wemby**, and I swear to you, I said, I'm watching like, this is the best basketball player I've ever seen play. He is the most complete player we've ever seen play the game. We could talk about **LeBron**, **Jordan**. He is the most complete player in the history of the game. The way he influences the defense, and then when he turns it on the offense, he just making all kind of shots. The type of shots that he's making at this size, even the ones he missed where he got fouled and they threw the lob and he still almost made it. I'm looking to contort his body the way he does it at that size. The put-back and one, he reaches his hand with the touch. All this little stuff, I'm looking at the little things that he's doing as a guy that size, and it's just unbelievable."
+
+**2. Paul Pierce — Victor Wembanyama is a created player with diverse skills**
+[00:00](https://www.youtube.com/watch?v=cheOFX8TE4U&t=0s)
+
+"It's like everybody says, look, just create a player. Just create this guy. He's the tallest in the league. He could shoot like **KD**, drives like **Jamal Crawford**. He went and saw him this morning. Then he showed me the **KD** mentality. Then now today he showed me the calmness of the monks. He just went over here. He's giving me everything on the basketball court that you could even think of. And I can't believe that I'm watching this."
+
+**3. Wosny Lambre — Donovan Mitchell's historic 39-point second half against the Pistons**
+[00:11](https://www.youtube.com/watch?v=cheOFX8TE4U&t=11s)
+
+"He dropped 39 points in the second half to beat the **Pistons** 112-103. That score is not indicative of how much they dominated that second half."
+
+**4. Danny Green — Remembering his unique, positive spirit and impact on the team**
+[02:49](https://www.youtube.com/watch?v=cheOFX8TE4U&t=169s)
+
+"He was a good kid. I say kid, but he was a grown man at the time, but they were all young. They were a very tight-knit group. He was a great kid. He brought in a lot of great, good energy. He was one of those kids that, I won't say how to put it, but he was a hype man. He would be the guy with a lot of positivity, high energy. He was a great athlete, of course, and he owned cats. He was kind of different, unique, artsy, liked fashion. Such a good spirit, bro."
+
+**5. Danny Green — Jaren Jackson Jr.'s close bond and music with the team**
+[02:49](https://www.youtube.com/watch?v=cheOFX8TE4U&t=169s)
+
+"The first person I thought of was **Jaren Jackson Jr.** because they were tight. I reached out to him to see if he was good. He had a studio. He would bring Trip, **Jaren Jackson Jr.**, people go to his studio, hang out, him, Jaren Jackson, they would make music. So he would come in, listen to his music. They all listen to YoungBoy, but he would be the guy with a lot of positivity, high energy."
+
+**6. Danny Green — Uncertainty and speculation surrounding his recent personal struggles**
+[02:49](https://www.youtube.com/watch?v=cheOFX8TE4U&t=169s)
+
+"When I first got the news, I didn't know what was going on. I thought maybe he had another injury. He had been going through some, you could see he was gaining some weight in his face and looked like he might have been going through some mental issues possibly. We don't know what the real cause was. I know he had gotten engaged like a year or so ago. So I was like, he's growing up happy. But I also saw the post was taken down, so I'm not sure if that was one of the causes or issues."
+
+**7. Danny Green — Memphis community mourns the loss of a good soul**
+[02:49](https://www.youtube.com/watch?v=cheOFX8TE4U&t=169s)
+
+"Him being there for six, seven years, or however long, that community's going to miss him. All the people that came across him and that worked with him are going to definitely miss him. He was a good soul, bro. It's just a sad story. Regardless if you know him or not, he's 29 years old. He had a lot of life to live. Condolences out to his family and, of course, the Memphis community."
+
+**8. Paul Pierce — Paul Pierce's early memories and first impressions of Jason Collins**
+[08:53](https://www.youtube.com/watch?v=cheOFX8TE4U&t=533s)
+
+"I had a chance to play against **Jason Collins** as a youth here in the Los Angeles area, probably since the earliest ages, like 12, 13. They were always on the circuit. Played for a team, from what I remember, named ARC. **Dartania Stamps** was their coach. And then I had a chance to play with him in the NBA in Boston. He came to Boston, and that's where he announced when he became open about the first openly gay player. He was in Boston. From what I know from **Jason Collins**, and I had a chance to spend some time with him in the weight room, good dude though, overall, man. I'm telling you, just a good dude, very easygoing. I mean, I'm telling you, I just spent time just me and him in the weight room, and I just remember, man, before he came out, I was like, man, Jay, what you doing, dude? You got to settle it down, man. We like 35 at this point. And we always joke in the weight room. So he was super cool dude."
+
+**9. Paul Pierce — Jason Collins' post-coming out freedom and Paul Pierce's appreciation**
+[08:53](https://www.youtube.com/watch?v=cheOFX8TE4U&t=533s)
+
+"I spent the next year he came to Brooklyn. And I played with him in Brooklyn. So the next two years, we had a lot of time to spend with one another. I would tell you, he was cool to be around, man. I felt like once he came out about himself, he was free and he was looser around the guys. It was just more, because he was kind of standoffish at first, because nobody knew the secret. But I'm telling you, he was just a good person, very easy to talk to, man, and always did his job. And it's just sad because we're the same age. And for him to pass, it's just like, makes you appreciate the ones that you talk to and you love."
+
+**10. Paul Pierce — Rudy Gobert's defensive struggles against Wemby and the need for adjustment**
+[27:17](https://www.youtube.com/watch?v=cheOFX8TE4U&t=1637s)
+
+"**Rudy Gobert** can't play the rest of the series. That's the adjustment. You have to spread the court. Period. You have to spread the court. If you're not going to guard **Wemby**, and you can't switch these pick and rolls, and you're not going to be a dominant defender and a rebounder, what are we doing with this matchup? So we have to, if he's not doing a good job of guarding **Wemby**, then he kind of has no purpose in this series. Because he's, he is hurting them a lot. **Naz Reid** should be starting center. He's not catching the balls. He's not going up. He's not going up strong. He's going to miss the free throw too. You have to, you have to start **Naz Reid** with **Julius Randle** and go with a small lineup. Spread the court. Hope that Randle can get some shots to go down and have more lane for him now when he starts to drive on his matchup to, because you got Naz and you could keep **Wemby** away from the sitting in the paint. That's the adjustment. And you have to play faster. Come in early with I.O. You have to play faster."
+
+**11. Paul Pierce — Detroit Pistons need Jalen Duren to return to form**
+[39:13](https://www.youtube.com/watch?v=cheOFX8TE4U&t=2353s)
+
+"I know Cleveland has momentum, they won two straight, but I got to go with Detroit. I think they're going to get back to the basics. They have to understand who they are night in and night out. **Jalen Duren**, he can't play any worse than he did the last game. He has to be a menace on the rebound. He has to bring a certain physicality to the game like he did in games one and two, to where **Mobley** and **Jarrett** were in foul trouble and get back to a form where we were anointing him as one of the best young bigs in the game. 20 and 10 automatic. It was automatic during the season. That was the one constant, it was 20, 19, 20 and 10. Anything on top of that was a bonus, but he was going to get 20, 19, 20 and 10. So he has to get back to that. I'm going with Detroit. I think they're going to get back, get their game plan down and limit these opportunities that they're giving."
+
+**12. Paul Pierce — Criticizing Nick Wright's 'ridiculous' take on players bringing kids to press conferences**
+[49:55](https://www.youtube.com/watch?v=cheOFX8TE4U&t=2995s)
+
+"First off, **Nick Wright** says the most ridiculous things. I'm not a fan. He knows it. He says some of the most ridiculous things because he's pissed off. Suddenly, this is something that the players have been doing this for decades. Like decades, now it's a problem. When somebody lose and had their kids up there, so it's okay when you win now. A few weeks ago, he called a kid a clown. Like, come on, dog. What is this? Is this sports reporting? What is this? What really is he talking about? Seriously, bro, I can't stand this dude."
+
+**13. Wosny Lambre — Daryl Morey's unethical handling of James Harden's contract situation**
+[58:40](https://www.youtube.com/watch?v=cheOFX8TE4U&t=3520s)
+
+"Daryl's done stuff in the media where there's just certain things with guys in the media who formed relationships with certain people in management. Some of Daryl's coverage used to get on my nerves because I know guys, I know he's really good at maintaining relationships with media guys, and I know that shit affects his coverage. And that shit gets on my nerves. The tomfoolery that he did with **James Harden** was fucking unethical. Straight up and down. I don't care what nobody says. The deal runs on these handshake agreements where it's like, I'm going to force my way to Philly, and we're going to make sure to give you the extension, no matter what happens. Like that's the deal that they had, and he reneged on the deal. Like there's an honor system with these deals, and he reneged that deal. That was fucking embarrassing."
+
+**14. Wosny Lambre — Daryl Morey's aggressive GM approach contrasted with Danny Ainge's job security.**
+[59:35](https://www.youtube.com/watch?v=cheOFX8TE4U&t=3575s)
+
+"What I respect about the job that he did in Philly is that a lot of GMs would have went in and did what **Danny Ainge** is doing in Utah. They would have went with some youth movement. They'd have been like, 'We're moving off **Joel Embiid** with the injuries. We're going in a different direction.' And they would have had job security. Nobody's talking about firing **Danny Ainge** in Utah. They've done nothing in four years. Everybody's just like, 'Oh, look at the picks. Oh, look at the young talent.' Nobody's getting fired over there. They've done nothing since he got there. **Danny Ainge**, nobody's calling for his head. They've achieved zero. A GM, if you want to protect your job status, is go with a youth movement and always be like, 'Next year, that next draft pick, that next move.' Sell hope and optimism. Whereas **Daryl Morey**, he's like, 'We got **Joel Embiid**. We're going to build around him. We're going to take a risk. We're going to take a shot on **Paul George**.' They actually went for it. That took balls. So I respect **Daryl Morey** and what he tried to do in Philly, and it just didn't work out. The world's not fair. You lose your job. It is what it is. But I love that he went for it, and it just didn't work out."
+
+**15. Wosny Lambre — Fan excitement for the 76ers before last season's injury disaster.**
+[59:35](https://www.youtube.com/watch?v=cheOFX8TE4U&t=3575s)
+
+"Even after they beat **Boston**, people were like, 'Wait a minute. Philly got **Joel Embiid**. They got **Paul George**. **Tyrese Maxey**'s just as good as **Jalen Brunson**.' It's easy to forget that, but people were really excited. Before last season, obviously last season was a disaster with the injuries and they ended up getting the fourth pick or whatever and getting **VJ**. Going into the season, people were excited about that team. Then the crazy injury bugs and all of that."
+
+**16. Wosny Lambre — Challenges for the next 76ers GM: salary structure and star performance.**
+[59:35](https://www.youtube.com/watch?v=cheOFX8TE4U&t=3575s)
+
+"So I understand why he lost his job. But I look at what he tried to do in Philly, and I think if you're a fan, you should want your GM to try to go for it. And good luck to the next guy that gets in. Because again, the salary structure, we're talking about next two years, they owe like basically 105 million to **Joel Embiid** and **Paul George**. Two guys who in the **Knicks** series, you can't tell me those guys played like max contract players in that series."
+
+**17. Danny Green — Daryl Morey's tenure in Philadelphia and the questionable Jalen McDaniels trade**
+[56:20](https://www.youtube.com/watch?v=cheOFX8TE4U&t=3380s)
+
+"I thought he was solid. I think he was, you know, he was good at what he did. But I think in this tenure, there were some things that people questioned. I think probably the last straw might have been the **Jalen McDaniels** thing. That might have been like, as he performed better, it was like, damn, we let this kid go. You know what I'm saying? Like, you signed Joel the extension, you signed PJ, was it three, four years or something like that? Tyrese, so he has a player option on the fourth, but we know he's picking it up for 50 something. So they're like, okay, we got some solid people to fill seats, but more than healthy, like unfortunately, not much you can do about that. When healthy, they look solid. But I don't know, the contracts aren't looking as good. And then again, the **Jalen McDaniels** thing, you know, that's been coming out. And then he said, we're selling high. I feel like we're selling high on it. And then now Jared's actually balling and showing like his value. I think that hits a little different."
 
 ---
 
@@ -1266,6 +1514,19 @@ _Speakers identified: Kendrick Perkins, Allie Clifton, Channing Frye_
 [09:46](https://www.youtube.com/watch?v=jImlGlTcrmc&t=586s)
 
 "**Sam Presti** has been through a lot. He lost **James Harden**, he lost **Kevin Durant**, had **Paul George**, lost him, had to trade **Russell Westbrook**. What **Sam Presti** realized is, I have to change too. I have to allow these guys to have freedom. I have to allow these guys to walk into here, make fashion statements. I have to allow these guys to be themselves. So when we hear **Daigneault** talk like that, that's their temperature. And look at the results. We're not going to give you any trouble outside of basketball. We'll probably never hear about not one of OKC Thunder players being involved in something at a nightclub, being involved somewhere they're not supposed to be. Those guys go to practice, go to their families, on the video game, and go back to the gym and then go to the arena. You got to have a different mentality. Everybody doesn't fit that system. It's just a different type of mentality and a different type of will that you got to have, and if you don't accept it, then you won't be there for long. **Jeremiah Robinson-Earl** said it himself, I was sad as hell when I got traded from Philly, but when I got there, I was like, oh shit, yes, it's a real culture."
+
+---
+
+## Josh Hart on the massive win in Atlanta — *Roommates Show*
+
+Source: https://www.youtube.com/watch?v=kY7E-ijCcmc
+
+_Speakers identified: Josh Hart, Unknown speaker_
+
+**1. Josh Hart — Josh Hart on opponent's high turnovers in a dominant win**
+[00:00](https://www.youtube.com/watch?v=kY7E-ijCcmc&t=0s)
+
+"You're so locked in mentally that whole day on, 'this is going to be a tough game, it's going to be a wire-to-wire game, we got to battle, value every possession, whatever.' And then you look up and you're up 60. We got obviously respect for them, but we were scoring basically whenever we wanted. At halftime, they had more turnovers than field goals."
 
 ---
 
@@ -1655,6 +1916,29 @@ _Why it matters:_ Brewer asserts that AJ Mitchell is a starting-caliber NBA play
 
 ---
 
+## Danny Green & Paul Pierce share their thoughts on the Draymond/Austin Rivers back & forth — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=vZ8t8r9Q6hs
+
+_Speakers identified: Danny Green, Paul Pierce_
+
+**1. Danny Green — Draymond Green's magnificent adaptation to his role for winning**
+[00:31](https://www.youtube.com/watch?v=vZ8t8r9Q6hs&t=31s)
+
+"But when you start going up levels, you have to fall into a pecking order. Now there's this guy, these two score better than you now. So you have to fall into a certain role or you can't play. And Draymond has done a magnificent job of understanding his role as he's gotten higher in levels of play since high school. So high school he averaged 30, then you get to college, say, 'I can't average 30, I have to do this to make the team and be effective.' But he has a high IQ and figured out, 'This is how I have to play to succeed.' And could he have done more on another team? Most possibly, but he probably wouldn't have been on a winning team like he was."
+
+**2. Paul Pierce — Player's journey to Hall of Fame, shaped by Steve Kerr**
+[01:13](https://www.youtube.com/watch?v=vZ8t8r9Q6hs&t=73s)
+
+"I think he just said that in a briefing, but saying it was best that what turned out happened was best for him. The best thing for him is that he knew who he was and accepted that early. He hindered me, but he also made me, this is what he's saying about **Steve Kerr**. And that also turned me into a Hall of Fame player. So he appreciates that. Would I have liked to have plays drawn up for me and try to be a **JJ** or a **Klay** or something like that? But that wasn't going to, does that fit for me to be winning basketball or win championships in the situation that you were in? Depending where I'm at. Maybe, maybe not, who knows."
+
+**3. Paul Pierce — Accepting a role is crucial for team success and player longevity**
+[01:13](https://www.youtube.com/watch?v=vZ8t8r9Q6hs&t=73s)
+
+"I'm going back to the bigger picture. A lot of guys don't accept being a role player, accept doing a role. That's why they're out the league or just bouncing around from team to team. A lot of guys want to be featured more and not hindered or put in a box. But when it comes to the bigger picture, for the greater of the group, you have to fit your role for that team. And he did that perfectly and he became a star, he's a star in his role and that's why I said he was a superstar role player."
+
+---
+
 ## NBA Trade Deadline Fallout & Free Agency Buzz: Who's Moving Where?
 
 Channel: Run It Back
@@ -1746,3 +2030,61 @@ _Why it matters:_ This predicts the Oklahoma City Thunder will make smart, under
 "The Portland Trail Blazers' handling of their roster and contracts post-Damian Lillard has been perplexing. They have a collection of young talent, but the long-term deals given to players who don't necessarily fit a clear timeline or complement their emerging stars like Scoot Henderson and Shaedon Sharpe raise questions. It feels like they're caught between rebuilding and trying to be competitive, without fully committing to either. Joe Cronin, the GM, needs to make some tough decisions about which contracts to move and which players are truly part of the future. You can't develop young players effectively when the roster is clogged with veterans on mid-tier deals who aren't moving the needle. It's a critical juncture for their front office to define a clear path forward, or they risk wasting valuable assets and time."
 
 _Why it matters:_ This criticizes the Portland Trail Blazers' front office for their confusing roster and contract management, suggesting a lack of clear direction post-Damian Lillard.
+
+---
+
+## Has Jalen Duren's AWFUL playoff performance caused him MILLIONS of dollars 👀 — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=zfkJOBApimA
+
+_Speakers identified: Unknown speaker, Unknown speaker, Unknown speaker_
+
+**1. coaching strategy to manage player energy**
+[00:06](https://www.youtube.com/watch?v=zfkJOBApimA&t=6s)
+
+"As a coach, what I would do is put him in a situation where he's not exerting so much energy. If he got to keep bringing his motherfucker up and somebody's picking you up 94 feet, that's tiresome, bro. They turn him every time, he got to come off a pick, pass the ball, he got to go try to get it back. He's doing all of that just to be able to make a play or try to score, that's tiresome."
+
+**2. Cavaliers' bigs' passing ability and Paul Reed's role**
+[01:03](https://www.youtube.com/watch?v=zfkJOBApimA&t=63s)
+
+"To me, that's where the problem is at, because they don't have, really, their big is not, they're not good passers. Let's be honest. They're not bad passers, but they're not good passers. If you had a **Hartenstein** in this series, Cleveland might be in trouble. The problem is the good passer is **Paul Reed**. They're going to have to play **Paul Reed** more."
+
+**3. Donovan Mitchell's playoff scoring and defensive matchups**
+[02:38](https://www.youtube.com/watch?v=zfkJOBApimA&t=158s)
+
+"What's Donovan averaging in the series? What, 20 something? I think he's averaging 30. He's averaging 32 and a half in the series. He's shooting about probably 40, probably 50, right around 48 to 50. Last three games he shot 45, 54, 50. But nobody, I said the **Raptors** matched up better against Donovan. I said he was going to get his shot off this playoff series. I said that before it started. I didn't think they had the personnel to guard Donovan."
+
+**4. James Harden's need for better play and fewer turnovers**
+[04:10](https://www.youtube.com/watch?v=zfkJOBApimA&t=250s)
+
+"If you're not giving up offensive rebounds as much as they were the first two games, you're going to be in the game. And if you get, okay, let's just keep it a buck. If you get a decent **James Harden**, **James Harden** has to play well. That's point blank. The two games **James Harden** played well, they won. I can't have you have more turnovers than you do field goals made. That can't happen, and assists."
+
+**5. Cade Cunningham's high turnovers and usage rate costing games**
+[05:48](https://www.youtube.com/watch?v=zfkJOBApimA&t=348s)
+
+"Cade Game 3 had 27, 10, 10, and 8. Eight turnovers. That will cost you a game. That was on a loss. Game 3 and Game 4, Cade had 8, and then the next game he had, what did we say, 5? Yeah, he had 5 turnovers that game. Shit, that's a lot, bro. He's doing a lot, though, as you know. His usage rate is insane, and now they're doubling him on every possession, so what is he supposed to do?"
+
+**6. Jalen Duren's future contract despite playoff struggles**
+[07:04](https://www.youtube.com/watch?v=zfkJOBApimA&t=424s)
+
+"I don't think so. He's an All-Star at the end of the day. And we all know there's been guys that have great seasons but didn't necessarily perform the same way in the playoffs. And they still get paid. Young fella's going to get paid. He's young. He still has some learning to do. It's probably his first big playoff series, big moments like this that he's had since he's been in the league. So, there's no need to panic. He's going to be okay. It's a learning experience. He's still not out of it yet, so he can change, he can turn it around and come out and kill these next games. But he's definitely struggling right now. And he's still going to get 200 something million. He was an All-Star. Once you get that step, you're a max guy."
+
+**7. Jalen Duren's significant playoff performance drop-off**
+[09:58](https://www.youtube.com/watch?v=zfkJOBApimA&t=598s)
+
+"**Jalen Duren** in the playoffs. Regular season, 28.2 points, 9.5 rebounds, 0.5 assists, 65% field goal percentage. Playoffs, 10 points, 8.5 rebounds, 0.2 assists, 31% field goal percentage. These numbers are tough. That's a big, that's a big drop-off. Talking about your field goal percentage. That's a huge drop-off. But if you're the **Detroit Pistons**, you believe in his work, you hope he's a worker, you hope that you know the type of guy he is and what he brings to the table. Maybe it's just a little confidence thing right now."
+
+**8. Jalen Duren's contract and potential for improvement**
+[11:25](https://www.youtube.com/watch?v=zfkJOBApimA&t=685s)
+
+"If he doesn't get better, and I'm hoping he does, because he's 22, it's not going to be a pretty contract. You got to invest in it, though. Invest on his potential. I know you got to invest on his potential, but I'm saying if he does not get better, it will be an ugly contract. That's with anybody, though. You can say that literally about anybody. But my thing is, I think he has room, I think he can get better. You can look at some guys and just be like, 'Alright, he ain't never going to get this shit.' He's on year 4. He can get better. 100% because one, he has all the physical tools. Someone else could use **Jalen Duren**. Detroit, this is a whole different. You can't lose **Jalen Duren**. You can't lose him."
+
+**9. defining NBA max and supermax contract tiers**
+[13:17](https://www.youtube.com/watch?v=zfkJOBApimA&t=797s)
+
+"When you think of extension and five-year deals and max contract guys, when you think that way, let's set the criteria. What is the criteria for max contract guys in the NBA? Who do you have to resemble? Who is your max contract guys in your eyes? That's your **Luka**, that's your **Ant**, that's your **Shai**. Those are supermax guys. Those are different. Supermax is **Jayson Tatum**, **Jaylen Brown**, guys who are getting 300 and something. **Luka** obviously should be eligible to get three. **Shai** should be eligible to get four. **Jokic** should be eligible to get three, four. **Wembanyama**, when it's time for him, going to be eligible to get four, three or four. I think it's going to go up by the time he gets his max. So, those guys are supermax. Then you got your max guys, who are All-Stars. That's your 200 to about 270 range. 275, whatever it is. Those are your max guys. So, **Duren** is a max guy. Supermax is **Cade**. He's a supermax on their team. Everybody has probably two All-Stars on their team. **Donovan** for Cleveland is the supermax guy. Everybody else that's All-Stars are max. **Mobley** is a max guy. **Jalen Brunson**, supermax. The standard max is between 25% to 30% of the salary cap, and the supermax is 35%."
+
+**10. Jalen Duren's max contract eligibility despite current playoff performance**
+[16:02](https://www.youtube.com/watch?v=zfkJOBApimA&t=962s)
+
+"**Jalen Duren** is averaging 9.5 points, 7 rebounds, 44% from the field. It's not looking pretty. So, let's have this conversation. Let's have this real conversation because it's going to piggyback into when we talked about the **Lakers** all season. When you think of extension and five-year deals and max contract guys, when you think that way, let's set the criteria. What is the criteria for max contract guys in the NBA? Who do you have to resemble? Is Duren getting a max or supermax? He's getting a max. As a rookie, he gets the max if he hits the All-NBA criteria. Oh, then he gets supermax. It doesn't even matter because he's not going to get All-NBA. You're just getting the max. You earn your way, you play your way to All-NBA, you deserve that bread. He's getting 200 million. He's getting 200. That's a fact."
