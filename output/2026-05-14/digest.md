@@ -1,5 +1,51 @@
 # HoopsHype YT Quotes — 2026-05-14
 
+## Stephen A. Smith says he criticized players based on THEIR expectations 👀 — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=0ET1kcd6yT8
+
+_Speakers identified: Stephen A. Smith, Tony Gill_
+
+**1. Stephen A. Smith — how his 7th-grade teacher unlocked his confidence**
+[00:55](https://www.youtube.com/watch?v=0ET1kcd6yT8&t=55s)
+
+"If he gets bored, he drifts. And he didn't hear a word that a teacher said or a classmate said or anything like that, he's not listening. He said, 'The key to your son is him being interested. Whatever it is that he's interested in, he's a quick learner.' And he said, 'I promise you, if you find out where your son's passion lies, you will have a star in your hands.' And I listened to him and that was the first time in my life that I really ever had confidence."
+
+**2. Stephen A. Smith — how sports helped him earn his father's respect**
+[02:05](https://www.youtube.com/watch?v=0ET1kcd6yT8&t=125s)
+
+"It's like sports just was that easy for me to comprehend and to dissect. It's like, so all of a sudden it was like, all right, I'm not that dumb after all. And it got to a point where my father went from lacking respect for me to actually asking me to watch the games for him, to tell him what happened and to dissect everything. Slugging percentage, batting average, home runs, base hits, stolen bases, errors, ERA, all of this stuff. He got me monitoring it. So when he couldn't watch it, he'd say, 'Steve, what happened?'"
+
+**3. Stephen A. Smith — his bold approach to covering NBA players**
+[03:08](https://www.youtube.com/watch?v=0ET1kcd6yT8&t=188s)
+
+"I come in, I'm a high school reporter for the New York Daily News, 14 months later I'm writing for the Philadelphia Inquirer. I'm covering colleges, football and basketball, and then I start covering backup NBA in 1996, **Allen Iverson**'s rookie year. And then that next year they gave me the beat and they made me the beat writer for the Philadelphia 76ers. And as y'all know, when you're the beat writer, you go wherever the team goes and stuff like that. And so everybody would be like, 'Why is he so bold? Why is it that he's willing to say stuff that most people ain't willing to say or whatever? Why isn't he scared?' Well, first of all, I'm from the streets, I ain't going to be scared to tell what I see, that's number one. But number two, here was the biggest reason for my bravery: it was y'all, meaning NBA players. Because I didn't assume. I'd walk up to y'all and say, remember my first time I interviewed you, **Tony**, one of the first questions I asked you, I said, 'What's going to define success for you this year?' You were in Memphis."
+
+**4. Stephen A. Smith — holding NBA players accountable to their own expectations**
+[03:50](https://www.youtube.com/watch?v=0ET1kcd6yT8&t=230s)
+
+"First thing I said to you. Because **Tony**, I didn't go up to y'all and be like this, 'You should do X, Y, Z.' No. What you saying? What's going to define success for you? What's going to define success for you? What the coach say? What's the team expectation? And based off of that, I'd spend the year holding you accountable for what you said was going to qualify as success. I didn't make the assumption. I said, I spoke to the GM, spoke to the coach, spoke to the players, here's what they said. Okay. So if you tell me, 'Yeah, man, I got a 20 a night, I got to shoot at least 45% from the field. I got to make sure that I got my assists, in your case, I got my rebounds.' In your case, it wasn't about scoring, it was about defending. So I got to put these cats on lock. All right, I'm looking at **Tony**, I'm like this, 'All right, one of the top five, top 10 defensive players in the league, are you that?'"
+
+---
+
+## Chandler Calls BS on Pistons NO CALL — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=3kN-16cKDSM
+
+_Speakers identified: Michelle Beadle, Chandler Parsons_
+
+**1. Chandler Parsons — Chandler Parsons criticizes Tony Brothers' no-call that cost the Pistons a win**
+[00:00](https://www.youtube.com/watch?v=3kN-16cKDSM&t=0s)
+
+"I love **Tony Brothers**. He's hilarious. He screwed this up royally because this is a foul. They make the free throw, game over. Pistons are up 3-2. You did reference to it very shortly there, the **Thompson**, **Jarrett Allen** moment here. No foul call. First of all, that was a great play, but he's lucky that wasn't a foul. And by the way, **JB** after the game did say this was a foul. It was with 1.5 seconds on the clock. Would you rather they had called this given it's playoffs? Here's the thing, if it got called, I understand that people would have been 'let him play,' 'this is not the way to end a playoff game.' But this right here is a full-blown loose ball foul. I don't care how much time. I don't care if it's incidental, accidental, whatever you want to call it. This is a foul. If this is the second quarter, he's blowing the whistle because this is a foul."
+
+**2. Chandler Parsons — Chandler Parsons argues Pistons were screwed by a clear no-call**
+[00:41](https://www.youtube.com/watch?v=3kN-16cKDSM&t=41s)
+
+"There's more than a second left on the clock. This is BS. And again, they end up going to overtime and losing this game when all you had to do was just make one free throw with a second on the clock and this game is over. They're going up 3-2. I love **Tony Brothers**. He's hilarious. He screwed this up royally because this is a foul. They make the free throw, game over. Pistons are up 3-2. There's no excuse for him. He's looking right at it. He is right in front of it. He blew this call. Coaches always say, one play doesn't determine the outcome of the game. You didn't lose the game because that one play or that one call. They could have won the game with the one proper call though. They did everything in their position to still have a chance to win this game and got screwed by a no-call that should have been a call. That's just point blank. That's exactly what happened. But **Tony Brothers** smoked this no-call and I wish there could have been some sort of review or proper steps to make this right, but they got smoked."
+
+---
+
 ## Darren Waller Went From Addiction and Rehab to NFL Stardom… Then Walked Away — *All The Smoke*
 
 Source: https://www.youtube.com/watch?v=4AJzI30zF5I
@@ -136,6 +182,89 @@ _Speakers identified: Allie, Richard Jefferson, Kendrick Perkins_
 
 ---
 
+## Is the Spurs vs. Wolves a matchup between the 2 future faces of the league?! 👀 | Howdy Partners — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=9kLugj1X-2M
+
+_Speakers identified: Tim MacMahon, Michael C. Wright_
+
+**1. Tim MacMahon — Spurs and Thunder rivalry is the next great NBA matchup**
+[00:00](https://www.youtube.com/watch?v=9kLugj1X-2M&t=0s)
+
+"It's going to be the next great rivalry in the NBA. And the Spurs want all the smoke because they've whooped the Thunder's butt up and down this year. Bang the drum and let them know about it. **Wembanyama** in OKC, **Wembanyama** in Bricktown, it's not going to be a warm welcome, but he's ready for it."
+
+**2. Michael C. Wright — Playoff unpredictability makes San Antonio's series outcome uncertain**
+[01:11](https://www.youtube.com/watch?v=9kLugj1X-2M&t=71s)
+
+"It's a good question, my man, and typically, I can answer it, but it's playoff basketball, man, and there's that unpredictability factor. You would think, just man for man on paper, that **San Antonio** would be able to handle business. Those guards, the way they pressure defensively, and **Anthony Edwards**, his situation with the knee, the guards should be able to do their thing and lock down **Anthony Edwards**. And then look, if you get lucky enough to get past them, you got the big guy waiting right there on the backline. So, on paper, everything says that should be the case. **San Antonio** should handle business, but man, it's playoff basketball, you never know what'll happen."
+
+**3. Tim MacMahon — Victor Wembanyama's mature response to his Game 3 mistake**
+[01:57](https://www.youtube.com/watch?v=9kLugj1X-2M&t=117s)
+
+"I like the way that **Victor Wembanyama** responded to his screw-up, and I do want to, let's make that clear. It's not revenge. Let's not do the whole revenge thing. It was not revenge. No, he let his teammates down. Exactly. And so this wasn't like some wronged hero or anything. I understand why he was frustrated. It is playoff basketball, it's physical, and it's especially physical with him. He better get used to it because that's going to be this way from now until he retires from the NBA. Teams are constantly going to push and shove and do extra things because if you don't, what are you going to do? You're going to just sit and let the guy dominate? You're going to sit there and let the guy? They were physical with him in Game 3 and he, lit them on fire. Of course, they're going to be a little bit extra with him in Game 4. And Victor usually is very mature and measured, and he had a moment where he wasn't."
+
+**4. Michael C. Wright — Wembanyama's dominant first quarter in Game 5 like Luka Doncic**
+[03:33](https://www.youtube.com/watch?v=9kLugj1X-2M&t=213s)
+
+"That was sick, right? It was ridiculous. The man had 16 points in the first five, six minutes of the game. I looked at the play-by-play, and at one point, he was outscoring **Minnesota** 16-11 by himself. Crazy. It was almost like Luka. You remember that? Was it the Game 7 against Phoenix? Yes, you remember that? He outscored him in the first half 30 to 27. Yeah, I remember. Yes. It was like that, like that type of domination early on. And just for him to be able to, well, first, second, first off, I think also we got to give **Minnesota** credit for having the resilience to come back because they came back and made it a game still."
+
+**5. Tim MacMahon — Dylan Harper's sky-high ceiling and comparison to young James Harden**
+[07:23](https://www.youtube.com/watch?v=9kLugj1X-2M&t=443s)
+
+"Dude, he's going to be he already is really good. The ceiling for him is sky-high. Long-term, it's pretty likely **Dylan Harper**, I'm saying it's pretty likely he's going to be their second-best player long-term. And we just talked about how awesome **Stephon Castle** is. 10 years from now, I think **Dylan Harper** is going to probably be recognized as a top-10 player in the league. He's that kind of a talent. I told you, he reminds me a lot of young **James Harden**."
+
+**6. Tim MacMahon — Dylan Harper's impressive fearlessness and ability to meet the moment**
+[08:20](https://www.youtube.com/watch?v=9kLugj1X-2M&t=500s)
+
+"But seriously though, as a rookie, **Harper**'s fearlessness is ability to meet the moment is awfully impressive. And obviously, where we first really saw it was Game 3 in **Portland** where **Wembanyama** was out with a concussion protocol, the Spurs were down, whatever it was at the half, 15, something like that at the half, and then Dylan **Harper** just completely dominated the second half. And so he's been a huge part of this thing."
+
+**7. Michael C. Wright — Spurs' history of successful late draft picks like Manu Ginobili**
+[10:53](https://www.youtube.com/watch?v=9kLugj1X-2M&t=653s)
+
+"But what's crazy is they typically pick pretty decently when they have those late picks. So we might they might draft the next **Manu Ginobili**. You never know, man. Get him a **Tony Parker**. You never know with them. **Carter Bryant**'s going to be a player. He's contributing right now."
+
+**8. Tim MacMahon — Anthony Edwards' amazing performance despite two bad knees**
+[12:31](https://www.youtube.com/watch?v=9kLugj1X-2M&t=751s)
+
+"The rest will be even obviously going into Game 6, but I do wonder how much that's going to help **Anthony Edwards**, who considering the circumstances, has been pretty amazing in this series. Remember, he's one, it was like, whoa, he's playing Game 1? That's surprising. And then he's what, it was like 25 minutes, was going to bump it up, but it was a blowout Game 2. He's been I think 40, 41, 39 since then with two bad knees and playing well. I don't know how much difference an extra 24 hours makes, but it sure doesn't hurt."
+
+**9. Tim MacMahon — Anthony Edwards possesses a unique blend of athleticism, competitiveness, and charisma**
+[13:55](https://www.youtube.com/watch?v=9kLugj1X-2M&t=835s)
+
+"And **Ant** is there's a natural confidence that comes with him. And it's a contagious confidence. I was talking to somebody who has gotten to know **Ant** over the years, has been in Minnesota for a long time. And this is a Texas show, so I'm relying on people to have more broad sports knowledge because this is a Minnesota sports reference, but I think you'll get it. He said this guy is a **Randy Moss**-type athlete, a **Kevin Garnett**-type of competitor, and has the charisma of **Kirby Puckett**. I mean, you talk about you talk about the Minnesota Triple Crown, all in one package, but I see it with **Ant**. I truly, I said the other day, for a guy he's never been first-team All-NBA, you can't give me five guys you'd rather have for the playoffs than **Anthony Edwards**. Now, **Victor Wembanyama** is one of the four that I'll take over him."
+
+**10. Michael C. Wright — Anthony Edwards and Victor Wembanyama are the future faces of the league**
+[14:55](https://www.youtube.com/watch?v=9kLugj1X-2M&t=895s)
+
+"And we should not take for granted the fact that we are watching pretty much the future faces of the league go at each other. I mean, because in the next however many years, those two guys are going to be the guys that the league markets, they push them because obviously their skill sets, their charisma, all the things that come with being a star. Yeah, and just, yeah, the skill, these guys are highlight machines."
+
+**11. Tim MacMahon — Wembanyama's unprecedented moves and Dylan Harper's meme-worthy reactions**
+[15:36](https://www.youtube.com/watch?v=9kLugj1X-2M&t=936s)
+
+"And then **Wembanyama**, every single game, does things we've never seen before. Every game he does things, especially at his size. You know, **Rudy Gobert**'s my guy. The fake with the left hand, the fake. I mean, Rudy's still dizzy. It's like, when you're a little kid, you go to Disneyland, you get off the teacups. He put him on the he put him on the teacups, man. He did, bro. He did. And Dylan like that face he made, this series has become like a meme machine with all the faces he makes. Between that face and the elbow face, if there was any doubt that **Victor** deserved to be ejected, it went out the window when you saw **Dylan Harper**'s reaction in the background with that elbow."
+
+**12. Tim MacMahon — Spurs' second-half dominance driven by pace, aggression, and guard play**
+[17:33](https://www.youtube.com/watch?v=9kLugj1X-2M&t=1053s)
+
+"The Spurs are making a habit of just completely overwhelming teams in the second half. You saw it Game 3 in **Portland** without **Wembanyama**, and then Game 4 with **Wembanyama**. It was crazy the scoring difference from a certain point in the second half. They outscored them like 60 something to 30 something. I don't have it right in front of me either. The paint points was stupid. 68 points in the paint. And a lot of that, the paint points and the pace were related stats for the Spurs. Obviously, **Wembanyama**'s going to get, **Wembanyama** doesn't need pace to score in the paint, but when the Spurs are at their best, they are getting out, they're playing fast, they're attacking in transition. They've got three guards who can just flat out go. They've got three guys who can you can put the ball in their hands and it's a fast break. And obviously **De'Aaron Fox**, **Stephon Castle**, and **Dylan Harper**. And then **Wembanyama** can push it."
+
+**13. Tim MacMahon — Harper and Castle's improved three-point shooting elevates their superstar potential**
+[19:41](https://www.youtube.com/watch?v=9kLugj1X-2M&t=1181s)
+
+"Their three-point numbers in the second half of the season compared to the first half were drastically different, drastically improved. And look, that's going to be both those guys are already very good. Both of them clearly have star potential. I think **Stephon Castle**'s established himself as a star player. Their ceiling in terms of superstardom, a lot of that's going to be defined by the three-point shot. If those guys are are real, legitimate threats from three, I mean, the sky's the limit. And the Spurs team that won 62 this year, that's probably going to be the floor if those guys are three-point shooters. Just look out."
+
+**14. Tim MacMahon — Spurs must close out the series in Game 6 to avoid Game 7**
+[21:55](https://www.youtube.com/watch?v=9kLugj1X-2M&t=1315s)
+
+"They get two shots to win the series, but they need to get their business done in Game 6. They need to nip this thing in the bud. If they get it done Friday, the series starts Monday. If they play till Sunday, you don't play with fire in Game 7. Don't give **Anthony Edwards** a chance to put a dagger through your heart. That's a game you do not want to play. But if it goes to seven, then the series will start Wednesday. So there will be three nights later in either case, but obviously there's going to be a significant rest advantage for the Thunder."
+
+**15. Tim MacMahon — Thunder's maturity and the upcoming series will be a battle**
+[23:11](https://www.youtube.com/watch?v=9kLugj1X-2M&t=1391s)
+
+"The Thunder have grown and matured, and they are a better team now than they were last year. I'm just saying that the rest thing is kind of turned, you can go rest versus rust, but you want as little wear and tear as possible because that series is going to be a battle. And it's the teams are almost kind of reflections of one another. And you also know that the **Spurs** paid a lot of attention to how **OKC** rebuilt that thing because there's a lot of ties between the organizations."
+
+---
+
 ## Jalen & Josh Talk Mental Strategy, Knicks' New-Look Offense and the KAT Factor — *Roommates Show*
 
 Source: https://www.youtube.com/watch?v=Cnk6RClnMog
@@ -156,6 +285,32 @@ _Speakers identified: Josh Hart, Josh Giddey_
 [04:39](https://www.youtube.com/watch?v=Cnk6RClnMog&t=279s)
 
 "He played fantastic. Made big shots. Made plays on both sides of the ball. He's just doing what **OG** does. I think we see that on a regular basis. But I think **OG** was just hot the entire, entire series. And everyone saw it. We see it all the time, but everyone really, really saw it this time."
+
+---
+
+## James Harden is the BEST Scorer I've EVER Seen — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=EbQG4745sfw
+
+_Speakers identified: Unknown speaker, Chandler, Unknown speaker_
+
+**1. Chandler — Chandler praises James Harden as one of the greatest scorers ever**
+[00:00](https://www.youtube.com/watch?v=EbQG4745sfw&t=0s)
+
+"Not surprised. This dude's been doing this for so many years. He's the best scorer I've ever played with. He's the best scorer I've ever seen. When you get an NBA rule basically changed in the foul calls because of your innovativeness and because of your creativity, you're different. This guy's always been different. Coming out of Arizona State from a bench player to a sixth man, to an absolute bucket, to now transformed himself into one of the better point guards last five, seven years in the NBA as a true scorer, just to do a seamless switch to point guard is a gift and he's unbelievable the way he creates contact, the way he lulls you to sleep and steps back. He is one of the greatest scorers of all time and it's not even a debate. The way he's so versatile, the way he gets downhill, gets to the rim. It's crazy. He didn't have a right hand his entire career and still would somehow get back to that left, still finish with his left hand on the right side, still would find ways to score."
+
+---
+
+## Stephen A Smith be like it be your OWN teammates in the NBA that be getting them 👀 — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=H6CChV8zu1k
+
+_Speakers identified: Stephen A. Smith_
+
+**1. Stephen A. Smith — Stephen A. Smith on players holding teammates accountable for soft play**
+[00:00](https://www.youtube.com/watch?v=H6CChV8zu1k&t=0s)
+
+"Here's the thing that so many cats have missed throughout the years. Let's say, for example, I soft-soaked some sh*t and I could have came harder, but I didn't. Do you know who would come up to me and get on me about it? The other players! 'Yeah, your ass was a little bit soft today. You could have went harder.' And I'm like, 'Really, that's what we doing?' 'You would have did it to me!' True. Okay. No problem."
 
 ---
 
@@ -214,6 +369,29 @@ _Speakers identified: Kyrie Irving, Colin Castellaw_
 [13:09](https://www.youtube.com/watch?v=HGo4LQqGcOQ&t=789s)
 
 "That's a great question. I think overall, it's really about eyeballs. Media more or less is just about attention. And so a lot of people make it like me versus you. And they're like, well, every eyeball that I might bring somebody else is an eyeball that could be taken away from me or whatever it is. And really, we found it doesn't work like that. We call it eyeballs everywhere, 360-degree distribution. So the more you can collaborate, the more you can come together, the more you can do social media collabs, the more you can do distribution collabs. A lot of people don't realize licensing content and syndication is a huge side of the business. So hey, you've got a show or a piece of content. There's no reason that you can't take somebody like Players TV interested in across the world. Monetize that same thing instead of once by throwing it up on YouTube and giving **Daddy Google** a bunch of money. You can monetize it seven, eight, nine, ten different ways if you got the distribution now."
+
+---
+
+## Sit Down With Cam Wilder | Kyrie Irving 24 Hour Stream Special Guest — *Kyrie LIVE*
+
+Source: https://www.youtube.com/watch?v=IZEj27TUACY
+
+_Speakers identified: Kyrie Irving, Cam Wilder_
+
+**1. Cam Wilder — Cam Wilder's military upbringing, college basketball, and anesthesiologist career plans**
+[03:03](https://www.youtube.com/watch?v=IZEj27TUACY&t=183s)
+
+"Absolutely not. I was a military kid. So I was around a lot, traveled a lot. I had to meet a bunch of different people. Shout out to all the military kids. Yeah, man, military kid. Honestly, I went to school, right? Obviously, I played college basketball. I was NAIA level. It wasn't nothing crazy. I was kind of ass in high school, right? I'll be real. I was kind of ass in high school, right? But I was going to school to be an anesthesiologist. I have full plans on great money, great benefits there. Yes, sir. I wouldn't say I was really interested in it, but the money was good. I saw six figures a year. I said, let's do it. So I was doing that in college."
+
+**2. Cam Wilder — COVID-19's unexpected impact on Cam Wilder's content creation journey**
+[03:03](https://www.youtube.com/watch?v=IZEj27TUACY&t=183s)
+
+"But then COVID hit. That was a crazy time, 2020. So COVID hit when you were 19. Yeah, I was 19. Do you feel like your life changed during that time? Like just being at home more remote or just because we don't talk about it as often? COVID changed a lot of things. Everything. Some people say it was like a bad time. It was a really bad time for people, and it was a real dull moment. That was the best thing that ever happened to me because everybody's inside, so content creation at that time was the perfect time. Everyone's sitting at the crib on their phone. One of my college teammates told me to pick up the phone, make some TikToks. It just went up from there. Was that uncomfortable when you started making TikToks initially?"
+
+**3. Cam Wilder — Cam Wilder on his six-figure spending on 2K VC**
+[34:40](https://www.youtube.com/watch?v=IZEj27TUACY&t=2080s)
+
+"I already did. So how much are you spending on VC? A lot. How much though? How much like, how much what's the most money you spend on 2K? Keep it to me. For us, keep it at me. I don't know if I want to do that. Wow, it's that much? I spend a lot. But especially, are we in six figures? We're in this, are we talking about in total? Like all of the in total. Yes, in total, in total. Oh, absolutely. Okay, you're in the six-figure range of spending on VC. You're one of 2K's best customers. You could talk sh*t all you want. They fleece me every year. You're one of their best customers. Please give them the best review you can. You're one of their best customers. Oh yeah, they fleece me every year. 100,000? Right now, we say 100,000 spent on 2K VC. Oh yeah. Over the course of your your lifespan and playing 2K. Absolutely. And it got worse when I started getting some money. Because then I was just buying VC."
 
 ---
 
@@ -536,6 +714,74 @@ _Speakers identified: Ernie Johnson, Shaquille O'Neal, Kenny Smith, Charles Bark
 
 ---
 
+## C-Webb says Giannis to Warriors is the OBVIOUS move: An UNSTOPPABLE combo 🔥 | The Rich Eisen Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=eCwIIcixDAw
+
+_Speakers identified: Rich Eisen, Chris Webber, Sue Herera, T.J. Jefferson_
+
+**1. Chris Webber — Chris Webber's early prediction on the series' philosophical shift**
+[01:20](https://www.youtube.com/watch?v=eCwIIcixDAw&t=80s)
+
+"First of all, they've done some great things. They've come back. But I told a friend, as an analyst, not as a fan, the other day when they were up 2-0 that I thought they would be in this position. It's a difference between offensive mind philosophies and defensive mind philosophies. If you get a tie game, maybe you want an offensive philosophy. I think **Big Staff** has done a great job out of the last nine minutes, I believe, of that game. They were up, and you just thought that it was going to be over."
+
+**2. Chris Webber — Coaching strategy to create easy baskets and involve players**
+[01:20](https://www.youtube.com/watch?v=eCwIIcixDAw&t=80s)
+
+"As a player, I remember having to have coaches to get me one or two easy ones. Call a play so I can get an easy layup. Call a play to get us involved and move and not just depend on the flow of one player. What I think has happened is that in games like this, you always want to get back home. That 2-0 lead really didn't mean anything."
+
+**3. Chris Webber — Cleveland's small lineup adjustments and big man scoring challenge**
+[01:20](https://www.youtube.com/watch?v=eCwIIcixDAw&t=80s)
+
+"The guards of Cleveland started to get a rhythm. They started to understand where they were going to be double-teamed, how they were going to be double-teamed. Then Cleveland went to a smaller lineup. When Cleveland went to that smaller lineup, your big has to be able to score at a clip to really make the other team fearful and want to change strategies. If you're not getting that scoring from that position, then that defender, that bigger guy, is a mismatch on the floor defensively for the little guy that he should have been going at at the other end. So I just see the strategy having changed, and the offensive-minded Cavs are up, and their question is, can they finish it?"
+
+**4. Chris Webber — Chris Webber praises Donovan Mitchell's scoring and unselfishness for Cleveland.**
+[05:00](https://www.youtube.com/watch?v=eCwIIcixDAw&t=300s)
+
+"What he's done, I mean, 39 in a quarter, I believe, or a half, I believe it was. People wanted to talk all year about how he and Harden are a liability, or he's a poor man's Harden, I heard people joke about that. But when you have guards that constantly put pressure, because one thing, let's get straight, you cannot check one player in the NBA. It's not one player you can check, period. It's can you make them uncomfortable? Can you get them off their spacing? Then maybe that will affect their shot. So when guys like Harden and others are scoring, and you have a guy one-on-one that can do things like he can, and he's not selfish, that's what I love about it. The easiest guy to check is a selfish guy. When he and Harden get the ball in their hands and they start going into their bag of one-on-one moves, if you're waiting in the corner, if you're waiting at the top with your hands ready, you might get a wide-open shot because they attract so much defense. So I think it's tough because the guards really have done a good job, and **Mobley** as well. The Pistons, they're going to fight at home, but can they score?"
+
+**5. Chris Webber — Chris Webber on Coach Popovich's unique accountability and motivational coaching style.**
+[07:04](https://www.youtube.com/watch?v=eCwIIcixDAw&t=424s)
+
+"The man that I know **Coach Popovich** to be is to hold you accountable, and hold you accountable in a space that could be uncomfortable because he wants you to understand. Then he lifts you up and puts a battery in your back that, it's almost like being Tyson with his great cornerman in the corner telling you you could do it or challenging you. I don't know what was said, but I know that I would bet anything that one, it was an accountability aspect of it. There was a joke in between, and then it was how are we going to do this and how are we going to go forward once we've held ourselves accountable."
+
+**6. Chris Webber — Popovich's lasting impact on San Antonio Spurs' organizational culture and identity.**
+[07:04](https://www.youtube.com/watch?v=eCwIIcixDAw&t=424s)
+
+"**Popovich** is a great man, and that's why early in the season, San Antonio was my favorite to win the championship because he's in the locker room. You don't have to have the clipboard on the sideline to have an impact. You can feel his impact all over San Antonio and throughout the NBA, but definitely when you look at his demeanor, how he keeps the older guys from the team around. Those are his fingerprints, because what it does is it reinforces your tenets of your organization to new players that come in. They can lean and say, 'Hey, **Timmy**, you've gone through this. Hey, **David**, hey, **Sean Elliott**.' They're all available, and a lot of organizations don't do that. That's why they have no identity besides one great season or what happened last year. But the identity and the heart and soul of that team in San Antonio starts with Coach **Popovich**. It starts with hard work, accountability, treating your fellow man right and kicking some ass."
+
+**7. Chris Webber — Chris Webber explains San Antonio's system built around a dominant big and a scoring point guard.**
+[10:17](https://www.youtube.com/watch?v=eCwIIcixDAw&t=617s)
+
+"To me again, most people don't get the **Fox** dynamic. Everyone has a system, and the system of San Antonio is to have one of the greatest big fellas in the world and a point guard that can score and get in the paint with speed. That's who **Tony Parker** was. He led the league some seasons in point paints with the **Shaq** because in our league, who is the most dominant in the paint? But he got in the paint so much because of that quagmire: do you guard him, or do you stop the big fella from the pick-and-roll, or do you come in from the corners and now I can hit the corners? So I think **Fox** is really going to be an important cog in this because the speed of he and maybe the **MVP** again is going to be something special. So that G League **Fox** matchup, so yeah, I can't wait."
+
+**8. Chris Webber — Chris Webber considers Giannis Antetokounmpo to the Golden State Warriors an obvious, unstoppable combination.**
+[11:27](https://www.youtube.com/watch?v=eCwIIcixDAw&t=687s)
+
+"I don't know about **Giannis**. There are a couple teams he can go to, but he's only going championship. Of course, I think the easiest, or not the easiest, the most obvious is Golden State, right? **Giannis** in the West Coast where the game is faster. You're going to have to build a wall for him on every play. That may just be an unstoppable combination with him in the post, and the way that they play and **Coach Kerr** and having the best shooter ever, **Curry**, out there doing his thing."
+
+**9. Chris Webber — LeBron's age not affecting his dominant play for championship teams.**
+[12:17](https://www.youtube.com/watch?v=eCwIIcixDAw&t=737s)
+
+"I feel that the thing that's working against **LeBron** is his age, not how he plays. The way he has played, the next two years, he's going to be a dominant cog, period. I believe that all things being equal, if you have a team that's already established to win a championship, I would highly monitor his situation in LA. To me, there are a lot of great pieces. What you need during this time of the year, if you're **Kevin Durant**, if you're **Karl-Anthony Towns**, if you're anyone, you need someone that makes everyone better. We can't say **LeBron** is a liability in any era if we're talking about just to win a championship during this time."
+
+**10. Chris Webber — LeBron's Lakers contract and impact of elevating teammates in playoffs.**
+[12:17](https://www.youtube.com/watch?v=eCwIIcixDAw&t=737s)
+
+"So I get all the moves, but I'm not a Laker fan, obviously, but I love to see him back with the Lakers because I love to see the Lakers honor him with the contract that he deserves so he could stay there and keep his legacy going. But if that doesn't happen and he gets with a team that is in the top four to win a championship, I think something special can happen because right now you need your players that play at a certain level to take it to another level. Not just because they hit a bunch of threes in two games or got a couple steals, but because someone is deliberately, thoughtfully playing in a certain way that they keep that person valuable even if they don't touch the ball. I think that we see that we need that impact every playoffs, and forget it because of regular season dominance by the players. Right now you need a player that makes players better, so I'm really watching to see what happens with him."
+
+**11. Chris Webber — Chris Webber explains why he would choose LeBron James over Giannis Antetokounmpo for a team needing confidence and IQ to win a championship.**
+[15:11](https://www.youtube.com/watch?v=eCwIIcixDAw&t=911s)
+
+"If I can only get one of them, it really depends on the type of team and shooters, who I have, what I need. But if I feel like our team needs confidence and needs IQ, thoughtfulness, and a player that can go get it, I'm going to get **LeBron** for two years. I like playing with the guys that, I like playing with guys that have more weight with the back of their name on the back of their jersey than the organization. Because you can trust that the paint of the organization, they're going to feel because he's an organization within himself. The same with **Giannis**. However, if I have players that I need to make better, if I have players that I need to shine the most during the playoffs, and have players that are smart enough to get them involved and not just have empty numbers and get us some wins, yeah, I'm going with **LeBron**."
+
+**12. Chris Webber — Chris Webber identifies Cleveland as an ideal destination for LeBron James due to their bigs, shooters, and other capable players.**
+[18:21](https://www.youtube.com/watch?v=eCwIIcixDAw&t=1101s)
+
+"I like Cleveland. I didn't think of Cleveland. The reason why I like Cleveland is because he has big guys he can throw the alley-oop to, you know? You need big guys, right? Because he gets in the pick-and-roll, and he has shooters, and he has other guys, a la a **Kyrie** and others that can take over, when he just wants to be **Magic Johnson**. Then when he wants to be **Jordan**, he switches and starts attacking. So yeah, I really actually, I think, just right now from this conversation, Cleveland is, man, that would be something. That would be something."
+
+---
+
 ## Did NBA Get Rookie of the Year Wrong?! Roommates React to 2025-26 Awards — *Roommates Show*
 
 Source: https://www.youtube.com/watch?v=jsjQV5UFSaU
@@ -665,3 +911,49 @@ _Speakers identified: Unknown speaker, Jalen Brunson, Josh Hart_
 [00:38](https://www.youtube.com/watch?v=yL5rWm7r9Ek&t=38s)
 
 "Yeah, I would say home cause it's the Garden. I think if I was on any other team, I would probably say away, cause like **JB** said, it hits a little different when you're in, especially a close game, when the crowd's going crazy or whatever and y'all hit a big shot."
+
+---
+
+## Anthony Edwards a Top 5 Shooting Guard of All Time with Championship!? #Antman #anthonyedwards #nba — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=zB7SytTHxPI
+
+_Speakers identified: Kendrick Perkins, Richard Jefferson_
+
+**1. Kendrick Perkins — Anthony Edwards becomes top 5 shooting guard with a championship**
+[00:00](https://www.youtube.com/watch?v=zB7SytTHxPI&t=0s)
+
+"If he's able to go through **Jokic**, **Wemby**, **SGA**, wins the championship, I got already put him top 5 greatest shooting guards of all time. If **Anthony Edwards** wins a championship this year, he's going to already enter top 5 greatest shooting guards of all time. You could name me three right now that you'd take over him, but you can't name me five. **D-Wade**, **Harden**, **Kobe**, **Jordan**, then **Anthony Edwards**."
+
+---
+
+## Chandler & Lou Do Their Own 2026 NBA Mock Draft! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=zW1uQQOdMzs
+
+_Speakers identified: Chandler, Lou_
+
+**1. Chandler — Aday Mara's impressive combine measurements and fit as a big man**
+[00:28](https://www.youtube.com/watch?v=zW1uQQOdMzs&t=28s)
+
+"This might be a shocker to some, but I'm going with the big fella, **Aday Mara**, who was a UCLA transfer to Michigan, just won a Natty. His measurements at the combine were insane. 7'6" wingspan, his standing reach was 9'9". He could touch the rim basically, not jumping. And it's exactly what they need. They just lost **Zu**. It's a need pick. I think it's a little high talent-wise. I think he's more of a 10 to 15 guy, but I love him here at five."
+
+**2. Chandler — Caleb Wilson as a talented mystery pick for the Grizzlies**
+[01:09](https://www.youtube.com/watch?v=zW1uQQOdMzs&t=69s)
+
+"This was **Caleb Wilson**. This guy could go one, he could go two, he could go three, he could go four. We don't know. He is kind of the mystery sexy pick of this draft. He's so talented, he's got game. He could end up being the best player in this draft, and I think he's a perfect fit for the culture and the organization of the **Memphis Grizzlies**."
+
+**3. Lou — Darryn Peterson as a future guard for Memphis**
+[02:41](https://www.youtube.com/watch?v=zW1uQQOdMzs&t=161s)
+
+"Number three, I got **Darryn Peterson** going number three. I know he's projected to go one or going two, but because of my one and two picks, I think he lands right there at three. We all know what's going on with **Ja Morant** down in **Memphis**. This is a great opportunity for them to get a guard of the future if it doesn't work out for years to come with **Ja Morant** and they move a different direction. You got a guy like **Darryn Peterson** that'll be available right there number three."
+
+**4. Lou — Caleb Wilson's versatile game and potential fit in Washington**
+[03:30](https://www.youtube.com/watch?v=zW1uQQOdMzs&t=210s)
+
+"Number one, like **Chandler** just said, the mystery pick that can go from one, two, or three, it's going to be young cat **Caleb Wilson** out of North Carolina. I think he's one of the more versatile players in the league. People gave me a hard time that I made a **Tim Duncan** comparison. No, I said **Tim Duncan**, a mix of **Tim Duncan**, a mix of **Kevin Durant**, a mix of **KG**. All of those things. I think he can do all of those things. And I like him landing there at number one. Already in Washington, you got **Trae Young** as your point guard, you got **AD** as your big. If you can convince **AD** to stick around and pair up with these guys, now you got your three and you got your stretch four as well that can fill in those gaps for you."
+
+**5. Chandler — Darryn Peterson's talent and potential despite draft rumors**
+[04:26](https://www.youtube.com/watch?v=zW1uQQOdMzs&t=266s)
+
+"Personnel-wise, I love **Peterson** on the **Grizzlies**. And if he's available at three, they 1000% taking him. I think he's the tricky one, right? He's only 6'4.5", but his talent level, his shot-making, his scoring, the way he can put the ball in the basket. He's the most interesting one to me. I think if there wasn't all these rumors and BS floating around him all season long, I think he would have went number one."

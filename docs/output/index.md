@@ -2,11 +2,17 @@
 
 ## 2026-05-14
 
+- [Stephen A. Smith says he criticized players based on THEIR expectations 👀 — *Out The Mud*](2026-05-14/0ET1kcd6yT8.md)
+- [Chandler Calls BS on Pistons NO CALL — *Run It Back*](2026-05-14/3kN-16cKDSM.md)
 - [Darren Waller Went From Addiction and Rehab to NFL Stardom… Then Walked Away — *All The Smoke*](2026-05-14/4AJzI30zF5I.md)
 - [Does LeBron Deserve ANOTHER Statue In LA?? Road Trippin' Gets HEATED — *Road Trippin*](2026-05-14/9AG9_tvWrB4.md)
+- [Is the Spurs vs. Wolves a matchup between the 2 future faces of the league?! 👀 | Howdy Partners — *NBA on ESPN*](2026-05-14/9kLugj1X-2M.md)
 - [The KYRIE BATTLEFRONT 2 LAN TOURNAMENT Is In The Works | Kyrie Irving Plays Star Wars Battlefront 2 — *Kyrie LIVE*](2026-05-14/BbIiMcy_5Ro.md)
 - [Jalen & Josh Talk Mental Strategy, Knicks' New-Look Offense and the KAT Factor — *Roommates Show*](2026-05-14/Cnk6RClnMog.md)
+- [James Harden is the BEST Scorer I've EVER Seen — *Run It Back*](2026-05-14/EbQG4745sfw.md)
+- [Stephen A Smith be like it be your OWN teammates in the NBA that be getting them 👀 — *Out The Mud*](2026-05-14/H6CChV8zu1k.md)
 - [How Players TV Aims to Help Athletes in Today's Media | Kyrie Irving 24 Hour Stream — *Kyrie LIVE*](2026-05-14/HGo4LQqGcOQ.md)
+- [Sit Down With Cam Wilder | Kyrie Irving 24 Hour Stream Special Guest — *Kyrie LIVE*](2026-05-14/IZEj27TUACY.md)
 - [Paul Pierce had to pay up 🤣 — *No Fouls Given*](2026-05-14/IyKrBSz9h10.md)
 - [To The Baha is live! — *To The Baha*](2026-05-14/Jn-jMcJOJeg.md)
 - [It’s quite simple… He’s a star. #atlantahawks #nba #basketballplayer #basketball #podcast — *Trae Young*](2026-05-14/JsHcTa9olcU.md)
@@ -20,11 +26,16 @@
 - [HoopsHype YT Quotes — 2026-05-14](2026-05-14/digest.md)
 - [The Inside Guys react to Cavaliers-Pistons Game 5 of ECSF | Inside The NBA — *NBA on ESPN*](2026-05-14/dnO04CnJjXU.md)
 - [The Real Process of Coming Back From a Knee Hyperextension #injuryrecovery #sportshealth #training — *Anthony Edwards*](2026-05-14/e0csKat9U0g.md)
+- [C-Webb says Giannis to Warriors is the OBVIOUS move: An UNSTOPPABLE combo 🔥 | The Rich Eisen Show — *NBA on ESPN*](2026-05-14/eCwIIcixDAw.md)
+- [Jalen and Josh on their favorite players to play against — *Roommates Show*](2026-05-14/is3Hgie01S0.md)
 - [Did NBA Get Rookie of the Year Wrong?! Roommates React to 2025-26 Awards — *Roommates Show*](2026-05-14/jsjQV5UFSaU.md)
 - [Are NBA Journalists Just Entertainers Now? w/ Brett Carroll | Kyrie Irving 24 Hour Stream Guest — *Kyrie LIVE*](2026-05-14/lFFgoa-FHbM.md)
+- [Darren Waller was out of the NFL & took an $11-an-hour job stocking shelves — *All The Smoke*](2026-05-14/qA-FjG9r8-E.md)
 - [How Fast Can He Heal? #nba #antman #wolverine #shorts — *Anthony Edwards*](2026-05-14/qlarDAPZcmM.md)
 - [Pistons BLOW It! + Harden Changing Playoff Narrative?? — *Run It Back*](2026-05-14/wJpl07W4UAg.md)
 - [Jalen and Josh on if they prefer home or road crowds — *Roommates Show*](2026-05-14/yL5rWm7r9Ek.md)
+- [Anthony Edwards a Top 5 Shooting Guard of All Time with Championship!? #Antman #anthonyedwards #nba — *Road Trippin*](2026-05-14/zB7SytTHxPI.md)
+- [Chandler & Lou Do Their Own 2026 NBA Mock Draft! — *Run It Back*](2026-05-14/zW1uQQOdMzs.md)
 ## 2026-05-13
 
 - [Run It Back NBA Show](2026-05-13/0dF3oenTJKc.md)
