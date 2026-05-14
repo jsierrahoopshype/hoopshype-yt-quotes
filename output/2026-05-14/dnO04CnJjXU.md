@@ -1,0 +1,40 @@
+# The Inside Guys react to Cavaliers-Pistons Game 5 of ECSF | Inside The NBA — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=dnO04CnJjXU
+
+_Speakers identified: Ernie Johnson, Shaquille O'Neal, Kenny Smith, Charles Barkley, Donovan Mitchell_
+
+**1. Donovan Mitchell — Donovan Mitchell on Cavaliers' team depth and impact players**
+[04:40](https://www.youtube.com/watch?v=dnO04CnJjXU&t=280s)
+
+"To be honest, I definitely think I'm going to put that in the scrapbook just because that's what it takes. It doesn't matter, and I've said this all playoffs, it doesn't matter what you do, as long as you win the game and how you impact the game. And I think this was a perfect example of just how deep our team is, where you got Max, you got Ev, you got James, you got Jay, you know, Dennis coming in. Everybody did their part and they played. But I want to give a big shout-out to **Max Strus** and **Evan Mobley**. We're not in this position without those two guys doing what they did at the end of the game."
+
+**2. Donovan Mitchell — Donovan Mitchell on adapting his scoring to game situations**
+[05:06](https://www.youtube.com/watch?v=dnO04CnJjXU&t=306s)
+
+"Yeah, you got to have that feel, right? I think last game called for that. I think tonight they did a better job of trying to take me out of it, putting two on the ball. So just trying to make the right play. But you know, Shaq, I'm always ready to go when my time is ready. But just for the game, every game is different, and tonight this is what the game called for, and go from there."
+
+**3. Donovan Mitchell — Donovan Mitchell on Cavaliers' turnover issues with new players**
+[05:40](https://www.youtube.com/watch?v=dnO04CnJjXU&t=340s)
+
+"We do. We definitely do. I think the biggest thing, and honestly, when you add, and I'm not making excuses, we got to be better, I'm going to start off right there. But a lot of it too is when you have a guy, you bring in new guys and a guy like James, you got to figure out positioning. Some of it is on him, some of it is on me too. So I don't want to take away from that, but just figure out where we are. So it's just as much as the ball handler as it is, guys spacing. For example, Game 2, he had a crucial turnover late, but that's because I wasn't standing in the corner. So making it easy for each other, but then also the guys on the ball got to make the right play."
+
+**4. Shaquille O'Neal — Shaquille O'Neal on Cavaliers' composure and road win in playoffs**
+[07:13](https://www.youtube.com/watch?v=dnO04CnJjXU&t=433s)
+
+"The best thing Cleveland did tonight was not panic. I think they started the fourth quarter 0-for-9 and really weren't playing well, but they kept it close. And then listen, they just kept playing. Strus played great. Harden, like Chuck said, was the old Harden, and they just kept playing. When you keep playing, when you can keep competing, anything can happen. They had a couple careless turnovers. I thought it was over, but then Detroit had some turnovers and had some missed shots. Cleveland just played, they got it to overtime, those last two calls, questionable fouls, it doesn't matter. Got it to overtime, and they just dominated in overtime. And now they did something that they haven't done, won on the road. Now the question is, can they close it out and can they close it out emphatically?"
+
+**5. Charles Barkley — Charles Barkley on Pistons' over-reliance on Cade Cunningham**
+[07:52](https://www.youtube.com/watch?v=dnO04CnJjXU&t=472s)
+
+"I thought Cleveland was the better team coming to this series, that's why I picked them. When you watch the Pistons play, **Cade Cunningham** has more responsibility than any player in the NBA, in my opinion. Like, they are too, they're too dependent on Cade. They look for him every single trip up and down the court. Dennis, was the only guy, if he gets it, he just kind of like, he's young and he just be playing. But the rest of those guys, they're so dependent. Tobias, but the rest of those guys, they got to start being, it's too late now for this year, this year is, it is what it is. You can't depend, in the history of basketball, you can't depend on one guy to score, make every pass, because that's just too, against the elite teams. You can get through the regular season and they got, but I thought Cleveland, this to me was a Cleveland game."
+
+**6. Charles Barkley — Charles Barkley on Cavaliers' improved balance with James Harden**
+[09:33](https://www.youtube.com/watch?v=dnO04CnJjXU&t=573s)
+
+"This is the Cavs team I thought. I thought James was going to play well. I thought Donovan was going to play well. I thought Allen and Mobley would play well. Strus is going to do his thing. This is a really good team. I thought, one of the reason I like this team better because when Donovan was there by himself, he was just going to score. He's a hell of a scorer. But now with James there, James can, I said, he can have a flashback, which he did offensively, but he going to get Mobley, Allen, Strus, all those guys involved. That's why I think this is a different team going forward."
+
+**7. Kenny Smith — Kenny Smith on turnovers as critical 'million-dollar basketballs'**
+[10:28](https://www.youtube.com/watch?v=dnO04CnJjXU&t=628s)
+
+"Both teams gave the other an opportunity to win. And they just didn't seize it. Neither one seized it. As a point guard, I used to look at the basketball as a million dollars. You just don't give your million dollars to anyone, and you just don't throw it in the air at any time. You make sure that the person is ready to receive it, and that's the person you want. And if you look at both of these teams, **James Harden** at times, and Donovan, they turned the basketball over. 20 points off turnovers in the first half. That's your hope if you're the Detroit Pistons. **Cade Cunningham**, down the stretch, turns it over. As great as he is as a player, if he eliminated the careless turnovers, he would be MVP, possibly of the league. But that is the one thing that at times, if he could just hone in on that, that's the separator for him."

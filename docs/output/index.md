@@ -1,5 +1,14 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-14
+
+- [Does LeBron Deserve ANOTHER Statue In LA?? Road Trippin' Gets HEATED — *Road Trippin*](2026-05-14/9AG9_tvWrB4.md)
+- [Paul Pierce had to pay up 🤣 — *No Fouls Given*](2026-05-14/IyKrBSz9h10.md)
+- [To The Baha is live! — *To The Baha*](2026-05-14/Jn-jMcJOJeg.md)
+- [The REAL Reason Wemby Snapped on Minnesota (And Got a Pass) — *All The Smoke*](2026-05-14/Xxn8N3txwcI.md)
+- [BAHA BOYZ VS Lonzo Ball and Gelo Ball 9PM EST FT Spencer Dinwiddie — *To The Baha*](2026-05-14/dcIXX2QeQXA.md)
+- [The Inside Guys react to Cavaliers-Pistons Game 5 of ECSF | Inside The NBA — *NBA on ESPN*](2026-05-14/dnO04CnJjXU.md)
+- [Pistons BLOW It! + Harden Changing Playoff Narrative?? — *Run It Back*](2026-05-14/wJpl07W4UAg.md)
 ## 2026-05-13
 
 - [Run It Back NBA Show](2026-05-13/0dF3oenTJKc.md)
