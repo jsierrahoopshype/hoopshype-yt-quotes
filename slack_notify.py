@@ -84,9 +84,10 @@ def post_digest(items: list, date_str: str) -> bool:
         title = it.get("title") or it["video_id"]
         channel = it.get("channel") or ""
         speaker_raw = (it.get("speaker") or "").strip()
-        # Drop "Unknown speaker" and any "Unknown speaker (man with beard)"
-        # variants — better to leave the attribution off than describe a hoodie.
-        speaker = "" if speaker_raw.lower().startswith("unknown speaker") else speaker_raw
+        # Drop bare "Unknown", "Unknown speaker", and "Unknown speaker (man
+        # with beard)" variants. Better to leave the attribution off than
+        # describe a hoodie or invent a placeholder.
+        speaker = "" if speaker_raw.lower().startswith("unknown") else speaker_raw
         quote = _truncate_quote(it.get("top_quote") or "")
         lines.append("")
         lines.append(f"📺 *{title}* ({channel})")

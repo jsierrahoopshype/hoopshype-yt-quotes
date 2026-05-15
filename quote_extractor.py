@@ -18,7 +18,7 @@ import threading
 import time
 import traceback
 from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError, as_completed
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -59,7 +59,8 @@ Cap at 20 in all cases. An empty array is acceptable if the video has nothing wo
 
 Editorial rules:
 
-- Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return "Unknown speaker". Do not guess. Do not describe their appearance ("man with beard", "guy in red hoodie") — that is not a speaker identification.
+- Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return an empty string "" for the speaker. Never invent or guess a speaker name. Never use descriptors like "man with beard" or "guy in red hoodie" — that is not a speaker identification. Never use the literal value "Unknown" or "Unknown speaker" — leave the field empty.
+- MULTI-SPEAKER QUOTES: When two or more identified speakers contribute substantively to the SAME subject in dialogue (e.g. one host asks a question and another answers it on the same player/team/story), keep them in one quote and use the "text_blocks" field to record each contribution as a paragraph in chronological order. The top-level "speaker" field is the speaker with the longest contribution; the top-level "speakers" array lists all contributing speakers in order. Leave "quote" empty when using "text_blocks". If the speakers shift to a different player/team/story, split into separate quotes per the ONE TOPIC PER QUOTE rule — do not bundle multiple subjects under a multi-speaker quote.
 - Provide a start timestamp in MM:SS or H:MM:SS format pointing at the moment the quote begins.
 - For each quote, write a "summary_phrase": a 5-12 word headline that describes the SUBSTANCE of what the speaker is saying, in concrete terms. Examples:
     - "why Embiid can't have a 'legacy game' in round 1"
@@ -82,11 +83,16 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
   "quotes": [
     {
       "rank": 1,
-      "speaker": "string",
+      "speaker": "string (empty if not confidently identifiable; longest contributor for multi-speaker quotes)",
+      "speakers": ["only populate for multi-speaker quotes; omit or leave empty otherwise"],
       "timestamp": "MM:SS",
       "summary_phrase": "5-12 word specific headline naming a player, team, or story",
       "names_mentioned": ["LeBron James", "Mikal Bridges"],
-      "quote": "cleaned quote text"
+      "quote": "cleaned quote text (leave empty when using text_blocks)",
+      "text_blocks": [
+        {"speaker": "X", "text": "X's contribution"},
+        {"speaker": "Y", "text": "Y's contribution"}
+      ]
     }
   ]
 }"""
@@ -99,9 +105,11 @@ Hard rules:
 - Each sub-quote MUST be between 60 and 220 words after cleanup. Do not exceed 220 words under any circumstance.
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - Each sub-quote covers a single subject — one player, one team, one story, one argument.
-- Use the SAME speaker and the SAME timestamp as the original quote for every sub-quote.
+- Use the SAME timestamp as the original quote for every sub-quote. Use the SAME speaker (or speakers) unless the original was multi-speaker and a particular sub-quote only includes one of them.
 - For each sub-quote, write a "summary_phrase": a 5-12 word headline naming the specific player, team, story, or argument. Do not use generic category labels.
 - For each sub-quote, list every player, coach, or front-office name mentioned in the sub-quote text in "names_mentioned", using the exact substring spelling from your cleaned text.
+- If a sub-quote is multi-speaker dialogue on the same subject, populate "text_blocks" with one entry per speaker contribution (in order) and leave "quote" empty. The "speaker" field becomes the longest contributor in that sub-quote; populate "speakers" with the list. Single-speaker sub-quotes use "quote" only.
+- If the speaker is not confidently identifiable, leave "speaker" empty (do not write "Unknown").
 - Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation. Preserve the speaker's meaning. Do not exaggerate. Do not fabricate.
 - Drop weak segments rather than padding. Returning fewer sub-quotes is better than returning weak ones.
 
@@ -110,10 +118,15 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
 [
   {
     "speaker": "string",
+    "speakers": ["only for multi-speaker sub-quotes"],
     "timestamp": "MM:SS",
     "summary_phrase": "5-12 word specific headline",
     "names_mentioned": ["LeBron James"],
-    "quote": "cleaned quote text"
+    "quote": "cleaned quote text (empty if using text_blocks)",
+    "text_blocks": [
+      {"speaker": "X", "text": "X's contribution"},
+      {"speaker": "Y", "text": "Y's contribution"}
+    ]
   }
 ]"""
 
@@ -122,6 +135,7 @@ SPLIT_WORKERS = 4   # concurrent splitter calls within a single video
 VIDEO_WORKERS = 3   # concurrent process_video calls across the queue
 PER_VIDEO_TIMEOUT_SECS = 25 * 60      # hard upper bound per video
 SCRIPT_TIMEOUT_SECS = 4 * 60 * 60     # hard upper bound for the whole run
+RECENT_DAYS = 14                      # videos older than this are skipped
 
 # Substrings (uppercased) in an exception's str() that count as transient
 # network/server errors and should be retried with the standard backoff.
@@ -437,8 +451,21 @@ def _word_count(text: str) -> int:
     return len((text or "").split())
 
 
+def _canonical_quote_text(quote: dict) -> str:
+    """Return the full body of a quote regardless of single-speaker ("quote")
+    or multi-speaker ("text_blocks") shape. Used for length, dedupe, and
+    Slack top-quote extraction.
+    """
+    blocks = quote.get("text_blocks") or []
+    if blocks:
+        return " ".join(
+            (b.get("text") or "").strip() for b in blocks if isinstance(b, dict)
+        ).strip()
+    return (quote.get("quote") or "").strip()
+
+
 def _needs_split(quote: dict) -> bool:
-    return _word_count(quote.get("quote", "")) > 220
+    return _word_count(_canonical_quote_text(quote)) > 220
 
 
 def split_quote(client, quote: dict) -> tuple[list, str]:
@@ -454,13 +481,29 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
     On any non-"split" outcome, sub_quotes is [quote] so the caller can
     extend its list verbatim and the original quote survives.
     """
-    speaker = quote.get("speaker") or "Unknown speaker"
+    speaker = quote.get("speaker") or ""
     timestamp = quote.get("timestamp") or "0:00"
-    text = quote.get("quote", "")
+    canonical = _canonical_quote_text(quote)
+    blocks = quote.get("text_blocks") or []
+    speakers_list = quote.get("speakers") or []
+    if blocks:
+        formatted_blocks = []
+        for b in blocks:
+            sp = (b.get("speaker") or "").strip()
+            tx = (b.get("text") or "").strip()
+            if sp:
+                formatted_blocks.append(f"**{sp}:** \"{tx}\"")
+            else:
+                formatted_blocks.append(f'"{tx}"')
+        body = "\n\n".join(formatted_blocks)
+        speakers_line = f"Speakers: {', '.join(speakers_list or [b.get('speaker','') for b in blocks])}\n"
+    else:
+        body = canonical
+        speakers_line = f"Speaker: {speaker}\n" if speaker else ""
     user_text = (
-        f"Speaker: {speaker}\n"
+        f"{speakers_line}"
         f"Timestamp: {timestamp}\n"
-        f"Original quote ({_word_count(text)} words):\n\n{text}"
+        f"Original quote ({_word_count(canonical)} words):\n\n{body}"
     )
 
     backoffs = [5, 15, 45, 120, 300]
@@ -504,15 +547,31 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
 
     out = []
     for sub in parsed:
-        if not isinstance(sub, dict) or not sub.get("quote"):
+        if not isinstance(sub, dict):
             continue
-        out.append({
+        sub_blocks = sub.get("text_blocks") or []
+        sub_quote = sub.get("quote") or ""
+        if not sub_blocks and not sub_quote.strip():
+            continue
+        sub_dict = {
             "speaker": sub.get("speaker") or speaker,
             "timestamp": sub.get("timestamp") or timestamp,
             "summary_phrase": sub.get("summary_phrase") or quote.get("summary_phrase", ""),
             "names_mentioned": sub.get("names_mentioned") or quote.get("names_mentioned", []),
-            "quote": sub["quote"],
-        })
+            "quote": sub_quote,
+        }
+        if sub_blocks:
+            # Keep only well-formed blocks
+            clean_blocks = [
+                {"speaker": (b.get("speaker") or "").strip(), "text": (b.get("text") or "").strip()}
+                for b in sub_blocks if isinstance(b, dict) and (b.get("text") or "").strip()
+            ]
+            if clean_blocks:
+                sub_dict["text_blocks"] = clean_blocks
+                sub_speakers = sub.get("speakers") or [b["speaker"] for b in clean_blocks if b["speaker"]]
+                if sub_speakers:
+                    sub_dict["speakers"] = sub_speakers
+        out.append(sub_dict)
     if len(out) > 1:
         return out, "split"
     if len(out) == 1:
@@ -552,7 +611,7 @@ def post_process_quotes(client, quotes: list) -> list:
                     subs, status = [q], "failed"
                 counts[status] += 1
                 if status == "split":
-                    wc = _word_count(q.get("quote", ""))
+                    wc = _word_count(_canonical_quote_text(q))
                     log(f"  [split] quote {i + 1} ({wc} words) -> {len(subs)} sub-quotes")
                 results[i] = subs
 
@@ -567,11 +626,13 @@ def post_process_quotes(client, quotes: list) -> list:
             f"{counts['failed']} failed after retries"
         )
 
-    # Dedupe on the cleaned quote body only (item 6c). Keep first occurrence.
+    # Dedupe on the cleaned quote body only. Keep first occurrence. The
+    # canonical text helper handles both single-speaker "quote" and
+    # multi-speaker "text_blocks" shapes.
     seen_bodies = set()
     deduped = []
     for q in out:
-        key = (q.get("quote") or "").strip()
+        key = _canonical_quote_text(q)
         if key and key in seen_bodies:
             continue
         if key:
@@ -625,20 +686,42 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
         lines.append(header)
         lines.append(f"[{q.get('timestamp', '?')}]({ts_link})")
         lines.append("")
-        body = q.get("quote", "")
-        bolded = _bold_names(body, q.get("names_mentioned") or [])
-        lines.append(f"\"{bolded}\"")
+        names = q.get("names_mentioned") or []
+        blocks = q.get("text_blocks") or []
+        if blocks:
+            for j, block in enumerate(blocks):
+                block_speaker = (block.get("speaker") or "").strip()
+                block_text = block.get("text") or ""
+                bolded = _bold_names(block_text, names)
+                if _is_unknown_speaker(block_speaker):
+                    lines.append(f"\"{bolded}\"")
+                else:
+                    lines.append(f"**{block_speaker}:** \"{bolded}\"")
+                if j < len(blocks) - 1:
+                    lines.append("")  # blank line -> markdown paragraph break
+        else:
+            body = q.get("quote", "")
+            bolded = _bold_names(body, names)
+            lines.append(f"\"{bolded}\"")
         lines.append("")
     return "\n".join(lines)
 
 
 def _is_unknown_speaker(speaker: str) -> bool:
-    """True when Gemini couldn't ID the speaker (with or without an
-    appearance-based descriptor like 'Unknown speaker (man with beard)')."""
+    """True when the speaker field should be treated as no-attribution.
+
+    Covers empty strings, the literal 'Unknown' / 'Unknown speaker', and
+    variants Gemini sometimes returns even though the prompt forbids them
+    ('Unknown speaker (man with beard)', 'Unknown host', etc.). The defensive
+    check stays in place even after the prompt was updated to require an
+    empty string for unidentified speakers.
+    """
     if not speaker:
         return True
     lower = speaker.strip().lower()
-    return lower.startswith("unknown speaker") or lower in ("unknown", "speaker")
+    if lower.startswith("unknown"):
+        return True
+    return lower in ("speaker",)
 
 
 def _bold_names(text: str, names: list) -> str:
@@ -838,7 +921,7 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
                 "video_id": video_id,
                 "title": data.get("video_title_guess") or video.get("title") or video_id,
                 "channel": name,
-                "top_quote": top.get("quote", ""),
+                "top_quote": _canonical_quote_text(top),
                 "speaker": top.get("speaker", ""),
                 "date": today,
             })
@@ -847,6 +930,24 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
 # --------------------------------------------------------------------------- #
 # Main pipeline
 # --------------------------------------------------------------------------- #
+
+def _age_skip_reason(published_iso: str) -> str:
+    """Return a skip reason if a video was published more than RECENT_DAYS
+    ago. Empty string when the video is recent OR when the timestamp can't
+    be parsed (don't drop on bad metadata — let the rest of the pipeline
+    decide).
+    """
+    if not published_iso:
+        return ""
+    try:
+        pub_dt = datetime.fromisoformat(published_iso.replace("Z", "+00:00"))
+    except (ValueError, TypeError):
+        return ""
+    age = datetime.now(timezone.utc) - pub_dt
+    if age > timedelta(days=RECENT_DAYS):
+        return f"published {age.days} days ago, older than {RECENT_DAYS}-day cutoff"
+    return ""
+
 
 def filter_video(video: dict, channel: dict, config: dict) -> str:
     """Return '' if the video should be processed, otherwise a reason string."""
@@ -857,6 +958,14 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
         except OSError:
             existing_str = str(existing)
         return f"already processed (matched on disk: {existing_str})"
+
+    # Age cutoff applies to ALL channels, including bypass_filters ones. The
+    # bug we're fixing is that rarely-posting channels (Anthony Edwards,
+    # Curious Mike) bypass editorial filters but their "last 10 videos"
+    # span months and can pollute today's digest with stale uploads.
+    age_reason = _age_skip_reason(video.get("published") or "")
+    if age_reason:
+        return age_reason
 
     if channel.get("bypass_filters"):
         return ""
