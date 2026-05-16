@@ -4,91 +4,106 @@
       "name": "The Draymond Green Show",
       "channel_id": "UCBNqqomXKPSWvcQDXOkRvRA",
       "bypass_filters": false,
-      "active": true
+      "active": true,
+      "known_speakers": ["Draymond Green", "Baron Davis"]
     },
     {
       "name": "NBA on ESPN",
       "channel_id": "UCVSSpcmZD2PwPBqb8yKQKBA",
       "bypass_filters": false,
-      "active": true
+      "active": true,
+      "known_speakers": []
     },
     {
       "name": "Mind the Game",
       "channel_id": "UC6L_LBqoKZXFa4WxHox5iCw",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["LeBron James", "Steve Nash"]
     },
     {
       "name": "All The Smoke",
       "channel_id": "UC2ozVs4pg2K3uFLw6-0ayCQ",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Matt Barnes", "Stephen Jackson"]
     },
     {
       "name": "Out The Mud",
       "channel_id": "UCqwKvfByZqmdC2jaFcUPcvQ",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Zach Randolph", "Tony Allen"]
     },
     {
       "name": "To The Baha",
       "channel_id": "UCU50K9xm-5_qbzwjMRr9A8w",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Theo Pinson", "Raymond Felton", "Charlie Villanueva"]
     },
     {
       "name": "Run It Back",
       "channel_id": "UCwZo_mDI4fOIp-g18kinGBw",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Michelle Beadle", "Lou Williams", "Chandler Parsons", "DeMarcus Cousins"]
     },
     {
       "name": "Road Trippin",
       "channel_id": "UCSes4X8uDrpc4X46hJKjejg",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Richard Jefferson", "Channing Frye", "Kendrick Perkins", "Allie Clifton"]
     },
     {
       "name": "No Fouls Given",
       "channel_id": "UC-Ovj3qDVxBAOWX3kwzOVRw",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Paul Pierce", "Danny Green", "Wosny Lambre"]
     },
     {
       "name": "Roommates Show",
       "channel_id": "UC1N15bwJCPFHjEsun1epfmw",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Jalen Brunson", "Josh Hart", "Matt Hillman"]
     },
     {
       "name": "Kyrie LIVE",
       "channel_id": "UCllPn98H4a079UMrahK7hhw",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Kyrie Irving"]
     },
     {
       "name": "Trae Young",
       "channel_id": "UCwr3hqUDuO4D4szLkjeVlrA",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Trae Young"]
     },
     {
       "name": "Anthony Edwards",
       "channel_id": "UCFEiKlkFpJBISr1paTLW8Vg",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Anthony Edwards"]
     },
     {
       "name": "7PM in Brooklyn",
       "channel_id": "UCT3wF21Qx0d0HmuiCzji8Lg",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Carmelo Anthony", "The Kid Mero", "Rudy Gay", "Monica McNutt", "Kazeem Famuyide"]
     },
     {
       "name": "Curious Mike",
       "channel_id": "UC3ZStupBLNVY4wVVOn7-e3w",
       "bypass_filters": true,
-      "active": true
+      "active": true,
+      "known_speakers": ["Michael Porter Jr."]
     }
   ],
   "min_duration_minutes": 15,

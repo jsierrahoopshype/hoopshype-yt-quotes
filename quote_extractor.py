@@ -139,6 +139,14 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
 ]"""
 
 MAX_QUOTES_AFTER_SPLIT = 20
+
+# Footer link appended to every published digest.md. Uses HTML so it opens
+# in a new tab in both GitHub blob and GitHub Pages renderers, matching the
+# style of the Source and timestamp links inside per-video markdown.
+DIGEST_CLOSING_LINE = (
+    '<a href="https://www.youtube.com/feed/subscriptions" target="_blank" '
+    'rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>'
+)
 SPLIT_WORKERS = 4   # concurrent splitter calls within a single video
 VIDEO_WORKERS = 3   # concurrent process_video calls across the queue
 PER_VIDEO_TIMEOUT_SECS = 25 * 60      # hard upper bound per video
@@ -434,19 +442,32 @@ def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
 # Gemini
 # --------------------------------------------------------------------------- #
 
-def call_gemini(client, url: str, video_title: str = "") -> tuple[str, object]:
+def call_gemini(client, url: str, video_title: str = "", known_speakers: list | None = None) -> tuple[str, object]:
     """Send the video to Gemini and return (raw_text, usage_metadata).
 
     The actual YouTube title is prepended to the prompt so Gemini can echo
     it back in its JSON. The caller compares the echo against the expected
     title to catch hallucinated full-output responses.
+
+    When the channel has a configured known_speakers list, a hint line is
+    prepended to anchor recurring-host name spellings so Gemini doesn't
+    substitute similar-sounding names (e.g. Allie Clifton -> Allie LaForce).
     """
-    titled_prompt = f"YouTube title: {video_title}\n\n{PROMPT}"
+    parts = [f"YouTube title: {video_title}"]
+    if known_speakers:
+        joined = ", ".join(known_speakers)
+        parts.append(
+            f"KNOWN HOSTS for this channel: {joined}. Other speakers may appear "
+            "as guests, but when identifying the regular hosts, use these exact "
+            "spellings. Do NOT substitute similar-sounding names (e.g., "
+            "Allie LaForce, Allison Williams)."
+        )
+    prefixed_prompt = "\n\n".join(parts) + "\n\n" + PROMPT
     response = client.models.generate_content(
         model=MODEL,
         contents=[
             types.Part.from_uri(file_uri=url, mime_type="video/mp4"),
-            titled_prompt,
+            prefixed_prompt,
         ],
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
@@ -497,7 +518,7 @@ def _is_transient_gemini_error(exc: Exception) -> bool:
     return False
 
 
-def call_gemini_with_retry(client, url: str, video_title: str = "") -> tuple[str, object]:
+def call_gemini_with_retry(client, url: str, video_title: str = "", known_speakers: list | None = None) -> tuple[str, object]:
     """Wrap call_gemini with the same 5s/15s/45s/120s/300s retry policy as the splitter.
 
     Retries on 429, 500, 503, or messages containing UNAVAILABLE /
@@ -508,7 +529,7 @@ def call_gemini_with_retry(client, url: str, video_title: str = "") -> tuple[str
     backoffs = [5, 15, 45, 120, 300]
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
-            return call_gemini(client, url, video_title)
+            return call_gemini(client, url, video_title, known_speakers)
         except Exception as e:
             if not _is_transient_gemini_error(e):
                 raise
@@ -928,6 +949,12 @@ def write_daily_digest(date_str: str) -> Path | None:
         # Every per-video .md was quoteless. Nothing meaningful to publish.
         return None
 
+    # Closing line, separated from the last video block by a horizontal rule.
+    parts.append("---")
+    parts.append("")
+    parts.append(DIGEST_CLOSING_LINE)
+    parts.append("")
+
     digest_path = day_dir / "digest.md"
     tmp = digest_path.with_name(digest_path.name + ".tmp")
     try:
@@ -966,7 +993,8 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
     # running thread; we accept that the abandoned thread keeps running
     # in the background until the runner reaps it.
     inner_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"vid-{video_id}")
-    future = inner_pool.submit(process_video, client, video, name)
+    known_speakers = channel.get("known_speakers") or []
+    future = inner_pool.submit(process_video, client, video, name, known_speakers)
     try:
         try:
             status, data = future.result(timeout=PER_VIDEO_TIMEOUT_SECS)
@@ -1076,11 +1104,13 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     return ""
 
 
-def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | None]:
+def process_video(client, video: dict, channel_name: str, known_speakers: list | None = None) -> tuple[str, dict | None]:
     """Run Gemini against one video, write outputs.
 
     Returns (status, data) where data is the parsed Gemini response on success
-    and None otherwise.
+    and None otherwise. known_speakers (optional) primes the prompt with
+    the channel's recurring-host names so Gemini doesn't substitute
+    similar-sounding ones.
     """
     url = video["url"]
     video_id = video["video_id"]
@@ -1092,11 +1122,15 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
     last_raw = ""
 
     expected_title = video.get("title") or ""
-    log(f"  [meta] {video_id} publish={pub_date} title={expected_title!r}")
+    known_speakers = list(known_speakers or [])
+    if known_speakers:
+        log(f"  [meta] {video_id} publish={pub_date} title={expected_title!r} known_hosts={known_speakers}")
+    else:
+        log(f"  [meta] {video_id} publish={pub_date} title={expected_title!r}")
 
     while True:
         try:
-            raw_text, _usage = call_gemini_with_retry(client, url, expected_title)
+            raw_text, _usage = call_gemini_with_retry(client, url, expected_title, known_speakers)
         except Exception as e:
             status = gemini_error_status(e)
             if status == 400 or is_token_limit_error(e):
