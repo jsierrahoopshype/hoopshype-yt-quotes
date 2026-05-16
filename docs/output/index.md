@@ -4,6 +4,10 @@
 
 - [Anthony Edwards NEEDS HELP”! Kendrick Perkins Losses On Timberwolves #nba #anthonyedwards — *Road Trippin*](2026-05-16/DePXxIwQY1s.md)
 - [Perk Declares Wemby The BEST Player In The NBA & GOES OFF On Julius Randle — *Road Trippin*](2026-05-16/GzQ4nst8_ak.md)
+- [Phil Handy Reveals The Truth About Kobe Bryant's Tough Love Mindset — *All The Smoke*](2026-05-16/MZjc7jjS4MQ.md)
+- [HoopsHype YT Quotes — 2026-05-16](2026-05-16/digest.md)
+- [Can You Name NBA Player's College? — *Run It Back*](2026-05-16/u3mTp5WiAg0.md)
+- [Mo Williams Holds the MOST UNIQUE NBA Record! + Winning Title with 2016 Cavs! — *Run It Back*](2026-05-16/vbJpu_FU7bY.md)
 ## 2026-05-15
 
 - [PlaqueBoyMax on Squashing His Drake Beef, the Iceman Rollout & Grammy Nomination — *7PM in Brooklyn*](2026-05-15/CoB4b7f_FBk.md)
