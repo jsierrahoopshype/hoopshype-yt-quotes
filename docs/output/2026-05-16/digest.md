@@ -1,5 +1,103 @@
 # HoopsHype YT Quotes — 2026-05-16
 
+## Mad Max on LeBron: 'It's Time to Go' After Lakers Sweep — *All The Smoke*
+
+Source: <a href="https://www.youtube.com/watch?v=7ge2kgbXxfk" target="_blank" rel="noopener">https://www.youtube.com/watch?v=7ge2kgbXxfk</a>
+
+_Speakers identified: Matt Barnes, Max_
+
+**1. Matt Barnes — Dylan Brooks' courtside antics during Lakers game**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=73s" target="_blank" rel="noopener">1:13</a>
+
+**Matt Barnes:** "As former players, we see everything. We're focused on the game, but we see who's in the crowd, what women are there, what rappers are there, what actors are there. And this motherfucker sitting courtside just gleamed up, a whole mouthful of diamonds and a whole chest full of diamonds. So I thought it was funny, bro, to be honest with you. **Dylan Brooks** is a character."
+
+**Max:** "Yeah, it was funny as hell, yeah. I enjoyed it. I enjoyed it."
+
+**2. Matt Barnes — LeBron James' incredible performance despite Lakers' sweep**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=97s" target="_blank" rel="noopener">1:37</a>
+
+"Unfortunately, the Lakers went down. Bron's been his fourth time being swept in the playoffs. The others were the 2007 Finals against **San Antonio**, against the **Warriors** in the Finals, and then the **Nuggets** in the Conference Finals, and then last night. 23 years in the league down, still had a great year. And his post-conference, he spoke about wearing a lot of different hats this year. At one point being the third option and then having to move into a second option role, and then with both guys down, being the first option. So when we sit back and look at what this man is still doing for his age and years in the game, it's just absolutely incredible."
+
+**3. Max — Max believes LeBron James' time with Lakers is over**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=159s" target="_blank" rel="noopener">2:39</a>
+
+**Max:** "With the Lakers, hell yeah. His ass. Yeah, LeBron, yeah, he got to go, man. It's time to go. I love LeBron. I love what he's about. I love everything about. But it's time to go, man. If I was LeBron."
+
+**Matt Barnes:** "Is this him thinking or is this management thinking?"
+
+**4. Max — Lakers management's disrespect towards LeBron James**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=180s" target="_blank" rel="noopener">3:00</a>
+
+"Just the way the management treated the motherfucker, man. The management, hey, no respect. So they're ready for him to go. Like you said, it's new ownership, so I get it. They got **AR**, but I mean, there's some people been saying some shit about him too. I think his ass got to go too."
+
+**5. Max — Debate on keeping LeBron James or Austin Reaves**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=204s" target="_blank" rel="noopener">3:24</a>
+
+**Matt Barnes:** "You cleaning house, Max? Are you working for the Lakers?"
+
+**Max:** "Yeah, well, I'm going to keep one of the other. I'm going to keep LeBron or I'm going to keep **AR**. But I think for me, I will keep LeBron and let LeBron finish on up there. And **AR**, you can get a lot for that motherfucker, man. He's a hot commodity right now."
+
+**Matt Barnes:** "Well, you can't, well, **AR** is a, he's unrestricted, right?"
+
+**Max:** "Yeah, but you can sign and trade him."
+
+**6. Matt Barnes — Austin Reaves' potential $200 million contract**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=227s" target="_blank" rel="noopener">3:47</a>
+
+**Matt Barnes:** "Yeah, so he's going to get some money. People are talking, you know, close to that 200 range, if not 200."
+
+**Max:** "Hey, you say 200? Get the hell up out of here, man. Max, that's what they're saying, Max. You don't believe it?"
+
+**7. Max — Austin Reaves' playoff struggles and defensive targeting**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=255s" target="_blank" rel="noopener">4:15</a>
+
+**Max:** "Man, you see how that man got exposed in this playoff, man? That motherfucker, I mean, really, hey, can't guard. They say the man hurt. Man, if you're hurt, man, don't play, man. So I don't want to hear you're hurt."
+
+**Matt Barnes:** "No, if you're on the court, there's no excuses."
+
+**Max:** "That's what I'm saying. That's what they used to tell us."
+
+**Nate:** "He played better in the regular season than the postseason last two years."
+
+**Matt Barnes:** "Oh, really? So yeah, **Nate** said obviously regular season numbers are a lot different than the postseason. Although he was coming off an injury, he was definitely a target on defense. Defenses are offenses attack the shit out of him."
+
+**8. Matt Barnes — Luka Doncic's consistent performance and team leadership**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=293s" target="_blank" rel="noopener">4:53</a>
+
+"To me, that's really the issue with this backcourt, with Luka. Both him and **AR** are both tremendous offensive weapons. But Luka is somebody that shows up all the time. He don't want to play defense all the time, but he's going to show up in the regular season and the playoffs. I think the one thing **Austin** has riding for him is Luka wants him back. We know that this is Luka's team now, respectfully to Bron."
+
+**9. Matt Barnes — LeBron James' free agency decisions and legacy considerations**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=317s" target="_blank" rel="noopener">5:17</a>
+
+"It'll be interesting. Is this LeBron's last game? Does he take a pay cut, and I mean a major pay cut, to stay there and allow them to go out and get some other pieces? Or does he move again? Because to me, it's not a knock, but one of the things in my hierarchy when you rank amongst the greatest is he's had to move around and jump around. Does he jump to another team and try to get, is it a **Cleveland**? Is it a new team? You hear that the **Warriors** want to land a LeBron or a **Kawhi**? So it's interesting to me. You start thinking legacy and, you know, is he going to another team in hopes to get a ring? Is he going back to **Cleveland** to end it? Or is he going to take a pay cut and stay with the Lakers?"
+
+**10. Max — LeBron James will not retire, should return to Cleveland**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=377s" target="_blank" rel="noopener">6:17</a>
+
+**Matt Barnes:** "Do you think it's LeBron's, I mean, I don't think producer **Nate** wanted to ask, is it LeBron's last game overall? Do you think there's any chance that he walks away from the game after this game?"
+
+**Max:** "From the game? From the NBA? Oh, hell no. That's no way. Hell no. Never ever. Bron ain't walking away now. I think he's, I mean, I think LeBron should go back to **Cleveland**, man. I know he said he don't like **Cleveland** and some shit I thought he heard, I thought I heard him say sometime in some interview."
+
+**11. Max — LeBron James has better chance winning with Cleveland**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=405s" target="_blank" rel="noopener">6:45</a>
+
+"Yeah, okay. That damn sure was me. Yeah, but no, but LeBron, I think he should have gone back home, man, finish it on up. Have a better chance of winning with **Cleveland** than he will with the Lakers. Because I don't think the Lakers are going to do enough next year. I don't know what they're going to do next year. The Lakers, I don't know. I don't know what they're doing over there now."
+
+**12. Matt Barnes — D'Angelo Russell's jewelry and lack of focus during playoffs**
+<a href="https://www.youtube.com/watch?v=7ge2kgbXxfk&t=428s" target="_blank" rel="noopener">7:08</a>
+
+**Matt Barnes:** "I wonder what they're going to do with **dominating**."
+
+**Max:** "Oh, well, got to keep him out the Bloods. Got to keep him over there from the Bloods and the Crips and shit. The Bloods and shit, the night photo game."
+
+**Matt Barnes:** "You out here gang banging and buying jewelry while you're down 0-3. Crazy work. You out here gang banging. What are we doing? Necklaces."
+
+**Max:** "What are we doing, man? What are we doing? We about to get swept, man. What are we doing?"
+
+**Matt Barnes:** "You know what they say? You can't give some of these money."
+
+---
+
 ## Anthony Edwards NEEDS HELP”! Kendrick Perkins Losses On Timberwolves #nba #anthonyedwards — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=DePXxIwQY1s
@@ -112,6 +210,54 @@ _Speakers identified: Phil Handy, Matt Barnes, Stephen Jackson_
 <a href="https://www.youtube.com/watch?v=MZjc7jjS4MQ&t=0s" target="_blank" rel="noopener">00:00</a>
 
 "I asked him one time, **Matt**, I asked him, I said, 'Man, why are you such an asshole?' I asked him that. He said, 'You really want to know?' You know how he was. And he said to me, '**Phil**, man, some of my teammates don't understand the work.' He said, 'So I see dudes walk into practice 10 minutes before practice and they leave right after. Why am I going to pass them the basketball? I don't respect their work ethic. I'm in here busting my ass every day trying to perfect my craft. And these dudes don't want to work on their game. I don't trust them. So I'm not going to pass them the basketball. I'm going to ride them hard every day.' Made perfect sense when he really broke it down as to why he is the way he is with certain dudes. I was just like, 'Yeah, I respect that, bro.' I respect that. But his realness in the sense of, he told me, he was like, 'Look, man, you have an ability to connect with people. Do not concern yourself with what people think about you.'"
+
+---
+
+## Chandler Parsons was at WAR with the Grizzlies front office, Fans and ownership 😳 — *Out The Mud*
+
+Source: <a href="https://www.youtube.com/watch?v=_YNDk_dxtj0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=_YNDk_dxtj0</a>
+
+_Speakers identified: Chandler Parsons_
+
+**1. Chandler Parsons — Chandler Parsons on battling Grizzlies front office, fans, and ownership**
+<a href="https://www.youtube.com/watch?v=_YNDk_dxtj0&t=0s" target="_blank" rel="noopener">00:00</a>
+
+"Again, the shit I had to go through with my injuries and my own personal struggle to get back and to be the player I once was, was so difficult. And then you had this pressure of expectation, a big contract, being a missing piece and failing at all of those. It sucked. I felt like I was in a constant battle with my own home fans and my own front office, my own ownership, blaming me for taking this contract, when who in their right mind wouldn't do that? But trust me, it hurt me more not being that guy for the Memphis Grizzlies than it hurt the Memphis Grizzlies me not being that guy."
+
+---
+
+## Chandler Parsons tells all on the car accident that ROBBED him of his NBA career — *Out The Mud*
+
+Source: <a href="https://www.youtube.com/watch?v=nwP627ozP18" target="_blank" rel="noopener">https://www.youtube.com/watch?v=nwP627ozP18</a>
+
+_Speakers identified: Host 1, Chandler Parsons, Host 2_
+
+**1. Chandler Parsons — Chandler Parsons on being forced out of Memphis due to injuries**
+<a href="https://www.youtube.com/watch?v=nwP627ozP18&t=11s" target="_blank" rel="noopener">00:11</a>
+
+"Yeah, so then it ends in Memphis, I tried so hard to get back and then if you remember, then I tore my right meniscus and I had a surgery every single season after that second one when I signed there. And I never was the player I was. And I just remember my last altercation was with **Chris Wallace** and then the GMs. They basically gave me an option like, 'You're not going to play anymore really for the Grizzlies. What would you prefer? Go to LA and leave or go to the G-League?' And I just remember I'm like, 'What? Those are my two options?' Peace. Gone. And so I went to LA and then they basically said, 'Listen, we'll work out a deal or trade for you.' And then that summer is when I got traded to **Atlanta**."
+
+**2. Chandler Parsons — Chandler Parsons on the car accident forcing his NBA retirement**
+<a href="https://www.youtube.com/watch?v=nwP627ozP18&t=137s" target="_blank" rel="noopener">02:17</a>
+
+"I remember I got in this thing where it was like an insurance policy lawsuit to where I still can't really talk about it today, but I basically had to make a decision to settle with the insurance company or never play in the NBA again or not and try and play with everything that happened with my knees, one or two more years. And so that was it. That was right during COVID, so it was a weird time anyways. I was the bubble year and **Atlanta** didn't make the bubble anyways, so our season was done. And so I basically did the lawsuit and that was a wrap on the NBA."
+
+**3. Chandler Parsons — Chandler Parsons on the anger and unpreparedness of forced retirement**
+<a href="https://www.youtube.com/watch?v=nwP627ozP18&t=181s" target="_blank" rel="noopener">03:01</a>
+
+"Yeah, I was mad. I never thought I was going to retire at 31. Never thought I was going to be retired by some drunk idiot. And again, you want to retire and leave on your own terms and I wasn't able to do that. Thank God I was taken care of financially, but you don't really prepare for retirement. I don't know how you guys handled it, but this was the perfect storm for me."
+
+**4. Chandler Parsons — Chandler Parsons on how personal life events helped him cope with retirement**
+<a href="https://www.youtube.com/watch?v=nwP627ozP18&t=203s" target="_blank" rel="noopener">03:23</a>
+
+"I had COVID, so it was already weird. I had just got engaged. We had just had our first baby. I had just picked up golf and started playing golf. So all this stuff happened to me at the same time where I never really had that downtime to get depressed about not being in the league anymore. I never really had that chance to sulk because the whole world ended with COVID. I'm getting married. I'm having a baby. I'm becoming a father, which is the greatest thing on earth. So it's like, it just seemed like all this great stuff was happening that I didn't care about the shitty ending of my career where I think that helped me not go through those dark times that you've seen athletes go through."
+
+**5. Chandler Parsons — Chandler Parsons on transitioning to media after his NBA career ended**
+<a href="https://www.youtube.com/watch?v=nwP627ozP18&t=248s" target="_blank" rel="noopener">04:08</a>
+
+**Host 2:** "Which probably made it easy for you to make the transition into the media."
+
+**Chandler Parsons:** "100%. And then during that I took some time off, did this whole lawsuit thing and that's when I first did actually did, **Jack** and **Mads** podcast and that was the first media thing I did. And I loved it and I had always enjoyed being on camera and talking and I'm a personable guy. And so after that is when I started doing my show after two years after I retired, I did my show and now we're year four and we're running it back."
 
 ---
 
