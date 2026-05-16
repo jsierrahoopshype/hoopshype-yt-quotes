@@ -44,7 +44,11 @@ Hard rules — these are limits, not targets:
 - LENGTH: Each quote MUST be between 60 and 220 words after cleanup. Quotes over 220 words must be split into separate ranked quotes or shortened. Do not exceed 220 words under any circumstance.
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - ONE TOPIC PER QUOTE: A single quote covers a single subject — one player, one team, one story, one argument. If the speaker pivots to a new player, team, story, or argument, that is a new quote with its own rank and timestamp. Do not merge two topics into one quote even when they are spoken back-to-back.
-- MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject.
+- CONTIGUOUS QUOTES ONLY: Each quote must be a single uninterrupted span of speech from one speaker (or, for dialogue, from two speakers exchanging contiguously). Do NOT join non-adjacent passages. Do NOT skip middle content and rejoin opening and closing fragments. Do NOT condense a long monologue by cutting the middle. If a passage is too long to quote in full, return a shorter contiguous excerpt of it (start at point X, end at point Y, both inside the same continuous speech segment) — never fabricate continuity by stitching separated text together. For multi-speaker quotes (text_blocks), each speaker's contribution within their block must also be contiguous — do not stitch a speaker's earlier and later statements into one block. Example —
+  BAD (stitches non-adjacent passages from the same long monologue): "I think the Knicks have a real shot this year because Brunson is just on another level... and that's why I'd take them over the Cavs in a seven-game series."
+  (Between those two sentences the speaker actually talked for 3 minutes about Mikal Bridges, Karl-Anthony Towns, and the coaching staff — none of which appears in the quote above.)
+  GOOD (one short contiguous span): "I think the Knicks have a real shot this year because Brunson is just on another level. Look at what he did in Game 5 — 41 points, the closing stretch, the way he got to the rim. That's the kind of run no one was projecting from him this season."
+- MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject AND contiguous within that subject.
 
 How many quotes to return (scale to the video's length and substance — do NOT pad):
 
@@ -60,7 +64,10 @@ Cap at 20 in all cases. An empty array is acceptable if the video has nothing wo
 Editorial rules:
 
 - Identify the speaker by name when shown on screen, named in chyrons, named in the video title, or clearly addressed by another speaker. Otherwise return an empty string "" for the speaker. Never invent or guess a speaker name. Never use descriptors like "man with beard" or "guy in red hoodie" — that is not a speaker identification. Never use the literal value "Unknown" or "Unknown speaker" — leave the field empty.
-- MULTI-SPEAKER QUOTES: When two or more identified speakers contribute substantively to the SAME subject in dialogue (e.g. one host asks a question and another answers it on the same player/team/story), keep them in one quote and use the "text_blocks" field to record each contribution as a paragraph in chronological order. The top-level "speaker" field is the speaker with the longest contribution; the top-level "speakers" array lists all contributing speakers in order. Leave "quote" empty when using "text_blocks". If the speakers shift to a different player/team/story, split into separate quotes per the ONE TOPIC PER QUOTE rule — do not bundle multiple subjects under a multi-speaker quote.
+- MULTI-SPEAKER QUOTES: Use the "text_blocks" field WHENEVER two or more identified speakers each contribute more than about 5 words to the same subject within the same minute of audio. This threshold is low on purpose — short back-and-forth exchanges should render as dialogue, not as a single squished block. Both speakers count as long as their contributions are substantive (an attributed setup question by a host like "What did you think of that play?" followed by a substantive answer DOES qualify). Record each contribution as a paragraph in chronological order; the top-level "speaker" field is the speaker with the longest contribution; the "speakers" array lists all contributing speakers in order; "quote" is left empty. If the speakers shift to a different player/team/story, split into separate quotes per the ONE TOPIC PER QUOTE rule — do not bundle multiple subjects under one multi-speaker quote. Example of a short exchange that MUST use text_blocks:
+  Speaker A: "Did you see that no-call on Brunson at the end?"
+  Speaker B: "Tony Brothers blew it. That's a foul every day of the week. They make the free throw, game over."
+  -> render as two text_blocks, not a single combined quote.
 - Provide a start timestamp in MM:SS or H:MM:SS format pointing at the moment the quote begins.
 - For each quote, write a "summary_phrase": a 5-12 word headline that describes the SUBSTANCE of what the speaker is saying, in concrete terms. Examples:
     - "why Embiid can't have a 'legacy game' in round 1"
@@ -105,6 +112,7 @@ Hard rules:
 - Each sub-quote MUST be between 60 and 220 words after cleanup. Do not exceed 220 words under any circumstance.
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - Each sub-quote covers a single subject — one player, one team, one story, one argument.
+- CONTIGUOUS ONLY: Each sub-quote must be a single uninterrupted span of speech from the original. Do not stitch the opening and closing sentences of the original together while skipping middle content. If the substantive content for a subject is itself non-contiguous in the original, pick the strongest single contiguous span and drop the rest rather than fabricating continuity.
 - Use the SAME timestamp as the original quote for every sub-quote. Use the SAME speaker (or speakers) unless the original was multi-speaker and a particular sub-quote only includes one of them.
 - For each sub-quote, write a "summary_phrase": a 5-12 word headline naming the specific player, team, story, or argument. Do not use generic category labels.
 - For each sub-quote, list every player, coach, or front-office name mentioned in the sub-quote text in "names_mentioned", using the exact substring spelling from your cleaned text.
@@ -220,6 +228,65 @@ def _title_word_overlap(expected: str, got: str) -> float:
 HALLUCINATION_OVERLAP_THRESHOLD = 0.70  # strictly greater; 0.70 itself is rejected
 
 
+RETRY_CAP = 2  # after this many cap-eligible failures, write FAILED.txt
+# failure statuses that count toward the retry cap. failed-json is exempt:
+# it always writes its own FAILED.txt with the raw response for debugging
+# and shouldn't get tracked here.
+_CAP_ELIGIBLE_FAILURES = frozenset({"failed-timeout", "failed-hallucination", "failed-other"})
+
+
+def _attempts_path(day_dir: Path, video_id: str) -> Path:
+    return day_dir / f"{video_id}.ATTEMPTS.txt"
+
+
+def _read_attempts(day_dir: Path, video_id: str) -> int:
+    try:
+        return int(_attempts_path(day_dir, video_id).read_text(encoding="utf-8").strip() or "0")
+    except (OSError, ValueError):
+        return 0
+
+
+def _record_failed_attempt(day_dir: Path, video_id: str, status: str) -> int:
+    """Increment <video_id>.ATTEMPTS.txt and, if the cap has been reached,
+    write <video_id>.FAILED.txt so find_existing_artifact stops re-queuing
+    the video next cron. Returns the new attempt count.
+    """
+    if status not in _CAP_ELIGIBLE_FAILURES:
+        return 0
+    day_dir.mkdir(parents=True, exist_ok=True)
+    attempts = _read_attempts(day_dir, video_id) + 1
+    try:
+        _attempts_path(day_dir, video_id).write_text(str(attempts), encoding="utf-8")
+    except OSError:
+        pass
+    if attempts >= RETRY_CAP:
+        failed_path = day_dir / f"{video_id}.FAILED.txt"
+        if not failed_path.exists():
+            try:
+                failed_path.write_text(
+                    f"persistent failure after {attempts} attempts; last status: {status}\n",
+                    encoding="utf-8",
+                )
+            except OSError:
+                pass
+    return attempts
+
+
+def _publish_date(video: dict) -> str:
+    """Return the video's YYYY-MM-DD UTC publish date for routing output to
+    output/<date>/. Falls back to today's UTC date if publishedAt is missing
+    or unparseable so we never crash here.
+    """
+    iso = (video.get("published") or "").strip()
+    if iso:
+        try:
+            dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+            return dt.astimezone(timezone.utc).strftime("%Y-%m-%d")
+        except (ValueError, TypeError):
+            pass
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+
 # --------------------------------------------------------------------------- #
 # State: filesystem-as-database
 # --------------------------------------------------------------------------- #
@@ -331,7 +398,13 @@ def parse_iso8601_duration(s: str) -> int:
 
 
 def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
-    """Batch-call videos.list (50 IDs per call). Returns {id: {title, duration}}."""
+    """Batch-call videos.list (50 IDs per call). Returns {id: {title, duration}}.
+
+    Each result is keyed by the API response's own item["id"] — never by
+    request order — so reordering or missing items in the response can't
+    misalign titles with the wrong video. Items without an "id" field are
+    skipped with a log line.
+    """
     out = {}
     unique_ids = list(dict.fromkeys(video_ids))  # de-dupe, preserve order
     for i in range(0, len(unique_ids), 50):
@@ -342,9 +415,13 @@ def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
             api_key,
         )
         for item in data.get("items", []):
+            item_id = (item.get("id") or "").strip()
+            if not item_id:
+                log(f"  [meta] WARN: videos.list returned an item with no id; skipping")
+                continue
             snippet = item.get("snippet", {}) or {}
             details = item.get("contentDetails", {}) or {}
-            out[item.get("id", "")] = {
+            out[item_id] = {
                 "title": snippet.get("title", ""),
                 "channel_title": snippet.get("channelTitle", ""),
                 "duration": parse_iso8601_duration(details.get("duration", "")),
@@ -661,7 +738,7 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
     lines = [
         f"# {title} — *{channel_name}*",
         "",
-        f"Source: {url}",
+        f'Source: <a href="{url}" target="_blank" rel="noopener">{url}</a>',
         "",
     ]
     if data.get("speakers_seen"):
@@ -684,7 +761,8 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
         else:
             header = f"**{q.get('rank', '?')}.**"
         lines.append(header)
-        lines.append(f"[{q.get('timestamp', '?')}]({ts_link})")
+        ts_label = q.get('timestamp', '?')
+        lines.append(f'<a href="{ts_link}" target="_blank" rel="noopener">{ts_label}</a>')
         lines.append("")
         names = q.get("names_mentioned") or []
         blocks = q.get("text_blocks") or []
@@ -747,8 +825,8 @@ def write_outputs(video: dict, channel_name: str, data: dict, raw_text: str) -> 
     visible at the published path. An empty rendered markdown is treated as a
     bug and raises before any file is opened.
     """
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    day_dir = OUTPUT_DIR / today
+    pub_date = _publish_date(video)
+    day_dir = OUTPUT_DIR / pub_date
     day_dir.mkdir(parents=True, exist_ok=True)
     md_path = day_dir / f"{video['video_id']}.md"
     json_path = day_dir / f"{video['video_id']}.json"
@@ -864,16 +942,22 @@ def write_daily_digest(date_str: str) -> Path | None:
     return digest_path
 
 
-def _process_one_video(client, channel, video, today, lock, summary, processed_items) -> None:
+def _process_one_video(client, channel, video, lock, summary, processed_items) -> None:
     """Worker: run one video through Gemini and update shared state under lock.
 
     Any unhandled exception is caught and the full traceback is logged so a
     silent failure can never masquerade as a successful run. After a status
     of "ok" the on-disk .md is sanity-checked and the status is downgraded
     to "failed-other" if the file is missing or zero bytes.
+
+    Output files are routed by the video's publish date, not the run date,
+    so a 4-day-old video processed today still lands under its own day's
+    folder and digest.
     """
     name = channel.get("name", "?")
     video_id = video["video_id"]
+    pub_date = _publish_date(video)
+    day_dir = OUTPUT_DIR / pub_date
     log(f"  -> {video_id} [{name}]: {video['title'][:80]}")
 
     # Run process_video on a dedicated single-thread executor so we can
@@ -898,7 +982,7 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
         inner_pool.shutdown(wait=False)
 
     if status == "ok":
-        md_path = OUTPUT_DIR / today / f"{video_id}.md"
+        md_path = day_dir / f"{video_id}.md"
         try:
             size = md_path.stat().st_size
         except FileNotFoundError:
@@ -911,6 +995,16 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
             )
             status, data = "failed-other", None
 
+    # Retry-cap accounting. failed-json is intentionally excluded — it
+    # writes its own FAILED.txt with raw content for debugging and we
+    # want it to keep retrying without cap. Timeouts, hallucinations,
+    # and generic failed-other all increment ATTEMPTS.txt; on the
+    # RETRY_CAP-th cumulative failure a FAILED.txt marker is written
+    # so the duplicate check stops re-queuing the video.
+    if status in _CAP_ELIGIBLE_FAILURES:
+        n = _record_failed_attempt(day_dir, video_id, status)
+        log(f"  [attempts] {video_id} now at {n}/{RETRY_CAP} failed attempts")
+
     log(f"     status [{video_id}]: {status}")
     with lock:
         summary[status] = summary.get(status, 0) + 1
@@ -919,11 +1013,11 @@ def _process_one_video(client, channel, video, today, lock, summary, processed_i
             top = quotes[0] if quotes else {}
             processed_items.append({
                 "video_id": video_id,
-                "title": data.get("video_title_guess") or video.get("title") or video_id,
+                "title": data.get("video_title") or video.get("title") or video_id,
                 "channel": name,
                 "top_quote": _canonical_quote_text(top),
                 "speaker": top.get("speaker", ""),
-                "date": today,
+                "date": pub_date,
             })
 
 
@@ -990,14 +1084,15 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
     """
     url = video["url"]
     video_id = video["video_id"]
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    day_dir = OUTPUT_DIR / today
+    pub_date = _publish_date(video)
+    day_dir = OUTPUT_DIR / pub_date
     day_dir.mkdir(parents=True, exist_ok=True)
 
     attempts_parse = 0
     last_raw = ""
 
     expected_title = video.get("title") or ""
+    log(f"  [meta] {video_id} publish={pub_date} title={expected_title!r}")
 
     while True:
         try:
@@ -1008,8 +1103,11 @@ def process_video(client, video: dict, channel_name: str) -> tuple[str, dict | N
                 log(f"  token-limit / 400 on {video_id}: {e}")
                 (day_dir / f"{video_id}.SKIPPED-too-long").write_text("", encoding="utf-8")
                 return "too-long", None
+            # failed-other no longer writes FAILED.txt here — _process_one_video
+            # increments the attempt counter and writes FAILED.txt only after
+            # the retry cap is hit. This lets transient errors retry on the
+            # next cron without a permanent marker after one bad outcome.
             log(f"  unexpected Gemini error on {video_id}: {e}")
-            (day_dir / f"{video_id}.FAILED.txt").write_text(str(e), encoding="utf-8")
             return "failed-other", None
 
         last_raw = raw_text
@@ -1192,7 +1290,7 @@ def main() -> int:
 
     with ThreadPoolExecutor(max_workers=VIDEO_WORKERS) as ex:
         futures = [
-            ex.submit(_process_one_video, client, channel, video, today, state_lock, summary, processed_items)
+            ex.submit(_process_one_video, client, channel, video, state_lock, summary, processed_items)
             for channel, video in queued
         ]
         for fut in as_completed(futures):
@@ -1202,12 +1300,18 @@ def main() -> int:
                 log(f"  unhandled worker exception: {e}")
 
     regenerate_index()
-    # Build the consolidated daily digest BEFORE the Slack post so the
-    # linked digest.md exists by the time anyone clicks it.
-    write_daily_digest(today)
+
+    # A video processed today might publish-date to a different folder
+    # (e.g. a 4-day-old upload that finally got through). Regenerate the
+    # digest.md for every publish date that received new content this run.
+    publish_dates_touched = sorted({it.get("date") for it in processed_items if it.get("date")})
+    digest_dates = []
+    for pd in publish_dates_touched:
+        if write_daily_digest(pd) is not None:
+            digest_dates.append(pd)
 
     if processed_items:
-        slack_notify.post_digest(processed_items, today)
+        slack_notify.post_digest(processed_items, today, digest_dates=digest_dates)
     else:
         slack_notify.post_no_new_videos(today)
 

@@ -64,22 +64,33 @@ def post_no_new_videos(date_str: str) -> bool:
     return _post({"text": f"HoopsHype YT Quotes — {date_str}: No new videos today."})
 
 
-def post_digest(items: list, date_str: str) -> bool:
+def post_digest(items: list, date_str: str, digest_dates=None) -> bool:
     """Post a digest to Slack.
 
     items is a list of dicts with keys: video_id, title, channel,
-    top_quote, speaker, date.
+    top_quote, speaker, date (publish date).
+
+    date_str is the RUN date used in the message header.
+
+    digest_dates is an optional explicit list of YYYY-MM-DD publish dates to
+    emit as digest URLs at the top of the message (one per line). When None,
+    the unique publish dates from items are used. A run that processes one
+    same-day video and one 4-day-old video produces two digest URLs.
     """
     if not items:
         return post_no_new_videos(date_str)
+
+    if digest_dates is None:
+        digest_dates = sorted({(it.get("date") or date_str) for it in items})
 
     n = len(items)
     plural = "s" if n != 1 else ""
     lines = [
         f"*HoopsHype YT Quotes — {date_str}*",
         f"Processed {n} video{plural}.",
-        _digest_link(date_str),
     ]
+    for d in digest_dates:
+        lines.append(_digest_link(d))
     for it in items:
         title = it.get("title") or it["video_id"]
         channel = it.get("channel") or ""
