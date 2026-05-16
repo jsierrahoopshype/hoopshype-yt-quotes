@@ -1,5 +1,9 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-16
+
+- [Anthony Edwards NEEDS HELP”! Kendrick Perkins Losses On Timberwolves #nba #anthonyedwards — *Road Trippin*](2026-05-16/DePXxIwQY1s.md)
+- [Perk Declares Wemby The BEST Player In The NBA & GOES OFF On Julius Randle — *Road Trippin*](2026-05-16/GzQ4nst8_ak.md)
 ## 2026-05-15
 
 - [PlaqueBoyMax on Squashing His Drake Beef, the Iceman Rollout & Grammy Nomination — *7PM in Brooklyn*](2026-05-15/CoB4b7f_FBk.md)
