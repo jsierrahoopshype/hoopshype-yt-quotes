@@ -1,0 +1,33 @@
+{
+  "video_title": "Charles Oakley stepped to JR Rider IMMEDIATELY 💀",
+  "speakers_seen": ["Matt Barnes", "JR Rider"],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JR Rider",
+      "speakers": ["JR Rider", "Matt Barnes"],
+      "timestamp": "00:05",
+      "summary_phrase": "JR Rider recalls Charles Oakley's blunt advice during a Knicks game",
+      "names_mentioned": ["Mason", "Oakley", "Ewing"],
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "JR Rider",
+          "text": "I remember playing against the Knicks where they had Mason, Oakley, Ewing. I'm going to the rack, I dunked on somebody and they told me, yeah, next time you go in the rack, you're going to end up on your back. So I went right to the rack and they knocked me down. And I just remember saying, 'Next motherf***er foul me, it's on in this motherf***er.' And Oakley said, 'Shut the f*** up and shoot your motherf***ing free throws.'"
+        },
+        {
+          "speaker": "JR Rider",
+          "text": "Grown ass men with hair on they chest, so you better pick your battles!"
+        },
+        {
+          "speaker": "Matt Barnes",
+          "text": "My question, did you shut the f*** up and shoot your free throws or you keep talking?"
+        },
+        {
+          "speaker": "JR Rider",
+          "text": "Well, I mumbled some sh*t."
+        }
+      ]
+    }
+  ]
+}

@@ -2,10 +2,16 @@
 
 ## 2026-05-17
 
+- [The WILD CAR accident that ended Chandler Parsons’ career — *Out The Mud*](2026-05-17/1-yDI1XlmSI.md)
+- [Charles Oakley stepped to JR Rider IMMEDIATELY 💀 — *All The Smoke*](2026-05-17/HTfTpEdCayc.md)
+- [Perk Says Rob Pelinka Got His Job Because Of KOBE + Lakers Lack Culture — *Road Trippin*](2026-05-17/XBTcjCpPab4.md)
+- [Did Chandler Parsons ROB the Grizzlies of MILLIONS of dollars 👀 — *Out The Mud*](2026-05-17/ZLrIl_SdiNQ.md)
+- [Spurs Make Western Conference Finals + Who Faces the Knicks?? — *Run It Back*](2026-05-17/anadLS3eGr0.md)
 - [HoopsHype YT Quotes — 2026-05-17](2026-05-17/digest.md)
 - [Craig Hodges’ Shooting Masterclass 🎯 — *All The Smoke*](2026-05-17/ev4IpdsTW_4.md)
 - [Penny Hardaway would be 1-2 with Micahel Jordan if... — *Run It Back*](2026-05-17/fM3_PneqYTw.md)
 - [Lakers SWEPT + Will Thunder Go UNDEFEATED In Playoffs?!? [Reupload] — *Run It Back*](2026-05-17/h2dxbfv5ESs.md)
+- [ESPN’s Kendrick Perkins Addresses Luka Doncic Joel Embiid Comparison #NBA #lukadoncic #lakers — *Road Trippin*](2026-05-17/oqop8HY9S0o.md)
 - [Perk ADMITS He Was WRONG About Luka & Embiid Comparison — *Road Trippin*](2026-05-17/z2Y1iSKyVDw.md)
 ## 2026-05-16
 

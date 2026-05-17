@@ -1,0 +1,46 @@
+# Perk Says Rob Pelinka Got His Job Because Of KOBE + Lakers Lack Culture — *Road Trippin*
+
+Source: <a href="https://www.youtube.com/watch?v=XBTcjCpPab4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=XBTcjCpPab4</a>
+
+_Speakers identified: Allie Clifton, Kendrick Perkins, Channing Frye, Richard Jefferson_
+
+**1. Channing Frye — Lakers' need for a true starting rim-running center**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=0s" target="_blank" rel="noopener">00:00</a>
+
+"Here's what I think the Lakers need. A true starting center. A true starting rim-running center. Now, where in the hell are you going to get that from? Because those guys are valuable in the NBA."
+
+**2. Channing Frye — Daniel Gafford as a potential Lakers center trade target**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=19s" target="_blank" rel="noopener">00:19</a>
+
+**Kendrick Perkins:** "**Daniel Gafford**."
+
+**Channing Frye:** "Ooh. Is he on contract? **Daniel Gafford** is a crazy name. That would change a lot, especially if you want to say, 'Hey, **Luka**, we're going all in with you, we'll go get **Daniel Gafford**.'"
+
+**3. Kendrick Perkins — Rob Pelinka's accountability and job origin with the Lakers**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=65s" target="_blank" rel="noopener">01:05</a>
+
+**Kendrick Perkins:** "They are hired other people alongside **Rob Pelinka**, right? Like there's other people that have been GMs."
+
+**Allie Clifton:** "In the front office, yeah."
+
+**Kendrick Perkins:** "It's time for **Rob Pelinka**, it's time for **Rob Pelinka**, you know, have a level of accountability and it's better to have three sets of eyes than one set of eye. For too long **Rob Pelinka** has had to answer to no one. And I love **Rob Pelinka**, but let's just keep it a buck, okay? **Rob Pelinka** got the job when he first got it because of **Kobe**. Let's just, we're just here, let's just be real. And since then, yes, one NBA championship, but **Rob Pelinka** has not been too powerful over the last three, four years."
+
+**4. Kendrick Perkins — Lakers' expectation of winning championships every season**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=150s" target="_blank" rel="noopener">02:30</a>
+
+"You know the energy, it's the same in Boston. It's championships or bust. It's not about putting butts in the seats, it's not about selling jerseys, it's not about selling tickets. It's championships or bust. Every season, the fans come in with the expectation of winning a championship. That's what they need to get back to. **Kobe Bryant**, God rest his soul, was here, his expectations for the Lakers will still be win championships."
+
+**5. Channing Frye — Rob Pelinka's positive moves and building Lakers culture**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=209s" target="_blank" rel="noopener">03:29</a>
+
+"I think **Rob** needs somebody who can go get more things, like get you another **Luke Kennard**. I think **Rui**'s development has been amazing. Hiring **JJ** is a great thing. So, as much as **Rob** has been bad, **Rob** also is doing things now that are putting the Lakers in a position to have a sense of culture. What is a Lakers guy now? What is a Lakers guy?"
+
+**6. Kendrick Perkins — Kendrick Perkins argues championships, not culture, define success**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=209s" target="_blank" rel="noopener">03:29</a>
+
+"Culture? The only thing cultural is championships. Don't come talk about building no culture. They want to win. They have to build a culture to win. No, you got to get the personnel in there to win. **Wembanyama**, **OKC**, **Minnesota**, none of them are going anywhere. You have to match personnel."
+
+**7. Channing Frye — Channing Frye defends culture, citing San Antonio, OKC, Minnesota**
+<a href="https://www.youtube.com/watch?v=XBTcjCpPab4&t=209s" target="_blank" rel="noopener">03:29</a>
+
+"You just named the three best cultures in the NBA. What are you talking about? The **San Antonio** culture for the last 30 years has been the best. **OKC**'s culture has been the best since **Sam Presti** got there. And **Minnesota**, you look at their culture, they're bringing guys off the bench. Coming in being dogs. **Tim Connelly**, he came in there and said, 'Yo, we're going to play this way.' And look at the success that they've had when everyone didn't believe in the two big lineup. Western Conference Finals, Western Conference Finals, second round, competing. So, the Lakers need to start building their culture so that they can add great players to that culture to win chips. That's all I'm saying."
