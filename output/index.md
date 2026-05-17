@@ -2,6 +2,10 @@
 
 ## 2026-05-17
 
+- [HoopsHype YT Quotes — 2026-05-17](2026-05-17/digest.md)
+- [Craig Hodges’ Shooting Masterclass 🎯 — *All The Smoke*](2026-05-17/ev4IpdsTW_4.md)
+- [Penny Hardaway would be 1-2 with Micahel Jordan if... — *Run It Back*](2026-05-17/fM3_PneqYTw.md)
+- [Lakers SWEPT + Will Thunder Go UNDEFEATED In Playoffs?!? [Reupload] — *Run It Back*](2026-05-17/h2dxbfv5ESs.md)
 - [Perk ADMITS He Was WRONG About Luka & Embiid Comparison — *Road Trippin*](2026-05-17/z2Y1iSKyVDw.md)
 ## 2026-05-16
 

@@ -1,39 +1,4 @@
-# HoopsHype YT Quotes — 2026-05-17
-
-## Craig Hodges’ Shooting Masterclass 🎯 — *All The Smoke*
-
-Source: <a href="https://www.youtube.com/watch?v=ev4IpdsTW_4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=ev4IpdsTW_4</a>
-
-_Speakers identified: Craig Hodges, Matt Barnes_
-
-**1. Craig Hodges — Craig Hodges on where to focus eyes when shooting**
-<a href="https://www.youtube.com/watch?v=ev4IpdsTW_4&t=0s" target="_blank" rel="noopener">00:00</a>
-
-"One of the first things I'd ask somebody is what are you looking at when you shoot? Young folks say, 'I'm looking at the back of the rim.' You couldn't be looking at the back of the rim because you're not 12 feet tall. So you're looking under the rim. So probably 90% of your shots are going to hit front rim because your eye is focused and your ball is going to go where your eye tells it to go. I look at probably 6 inches above the rim. You got to have at least that much clearance. It's three parts to your shot: foundation, form, and follow-through."
-
-**2. Craig Hodges — Craig Hodges on avoiding 'rolling' into a shot**
-<a href="https://www.youtube.com/watch?v=ev4IpdsTW_4&t=25s" target="_blank" rel="noopener">00:25</a>
-
-**Matt Barnes:** "I want you to teach 'em."
-
-**Craig Hodges:** "Yeah, this is critical right here. This happens so much. All right? And I call that rolling into your shot. So we'll have people start here and you'll see them and when they finally get to the top, this is happening. And I tell them, once you at the top, bring that down. Bring that down and now you're into your triple threat. So if you watch **Kobe** get that thing, **MJ** get that thing, they on the, you feel me? And now when you turn, it's already there. It's already there, it's already loaded. Likewise, I want to make sure that when my ball starts, my ball never drops below my core. Ever. Ever. Ever. I'm never bringing my ball down to take it up. Never. Never because I'm underneath it. I'm underneath that thing every time."
-
----
-
-## Penny Hardaway would be 1-2 with Micahel Jordan if... — *Run It Back*
-
-Source: <a href="https://www.youtube.com/watch?v=fM3_PneqYTw" target="_blank" rel="noopener">https://www.youtube.com/watch?v=fM3_PneqYTw</a>
-
-_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, Tim Hardaway_
-
-**1. Tim Hardaway — Penny Hardaway would have been 1-2 MVP with Michael Jordan**
-<a href="https://www.youtube.com/watch?v=fM3_PneqYTw&t=14s" target="_blank" rel="noopener">00:14</a>
-
-"Hey, I tell you, man, I played against **Penny**. I'm going to tell you, man, if **Penny** didn't get hurt, him and **Michael Jordan** would be like one, two MVPs in the league. One, two MVP in the league. That's the way, that's how **Penny** was. **Penny** could shoot, defend, rebound, pass. He was like **Magic**, but he could score. I need you to score 30. I need you to score 40. I need for you to have 15 assists. I need for you to have 12 rebounds. **Penny** would have done that. **Penny** would have came out and gave you that and would have won the game for you in game sevens or game six. That's how good **Penny** was."
-
----
-
-## Lakers SWEPT + Will Thunder Go UNDEFEATED In Playoffs?!? [Reupload] — *Run It Back*
+# Lakers SWEPT + Will Thunder Go UNDEFEATED In Playoffs?!? [Reupload] — *Run It Back*
 
 Source: <a href="https://www.youtube.com/watch?v=h2dxbfv5ESs" target="_blank" rel="noopener">https://www.youtube.com/watch?v=h2dxbfv5ESs</a>
 
@@ -78,37 +43,3 @@ _Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, Corey Bre
 <a href="https://www.youtube.com/watch?v=h2dxbfv5ESs&t=6540s" target="_blank" rel="noopener">1:49:00</a>
 
 "And at the end of the day, both teams did what they're supposed to do. They took care of business at home, both teams. And now there's a three-game series. And I think the momentum has to go towards **Detroit** being at home with the success they've had there and the not success that the **Cleveland Cavaliers** have had on the road. So they're still in a fine situation. It's just when you have an offense like that and your team is determined based on your defense, your toughness, you can't turn the ball over like that. You have to get shots at the basket."
-
----
-
-## Perk ADMITS He Was WRONG About Luka & Embiid Comparison — *Road Trippin*
-
-Source: <a href="https://www.youtube.com/watch?v=z2Y1iSKyVDw" target="_blank" rel="noopener">https://www.youtube.com/watch?v=z2Y1iSKyVDw</a>
-
-_Speakers identified: Allie Clifton, Kendrick Perkins, Channing Frye, Richard Jefferson_
-
-**1. Kendrick Perkins — Kendrick Perkins emphasizes Luka needs peak conditioning to win a championship**
-<a href="https://www.youtube.com/watch?v=z2Y1iSKyVDw&t=449s" target="_blank" rel="noopener">07:29</a>
-
-"All I'm saying is is that every single time we go give him his flowers for being a warrior, for battling through injuries, and it goes to show you how talented he really is. So that he's playing in those playoff games and he wasn't 100% but he was producing. What I'm saying is in order for **Luka** to win a championship, he needs to be in **SGA** form, **Jaylen Brown** form. I'm not saying his body type, but he has to be in that type of fashion. I don't want to keep coming into the postseason and they like, oh yeah, **Luka**'s available, but he's dealing with this. **Luka** is available, but he's dealing with a sore such and such."
-
-**2. Channing Frye — Channing Frye links Luka's soft tissue injuries to being out of shape**
-<a href="https://www.youtube.com/watch?v=z2Y1iSKyVDw&t=671s" target="_blank" rel="noopener">11:11</a>
-
-"If we put **James Harden** and **Luka** together as the same, they're hoopers. They want to play, that's how they get in shape. When did **James Harden** hurt his hamstring? When he was fat. **James Harden**, the hooper, the MVP, hurt his leg when he was out of shape in Brooklyn. So for me, when I hear **Luka** is starting to get in the territory of **Joel Embiid**, obviously that's a big exaggeration."
-
-**3. Kendrick Perkins — Kendrick Perkins admits his Joel Embiid comparison for Luka was wrong**
-<a href="https://www.youtube.com/watch?v=z2Y1iSKyVDw&t=845s" target="_blank" rel="noopener">14:05</a>
-
-**Kendrick Perkins:** "I was trippin'. If I could have went back and took it, took it back with the **Joel Embiid** territory, I would have took it back. But other than that, I wouldn't have took nothing else back."
-
-**Allie Clifton:** "Why do you guys make me have to work to just get the truth out of you? That's all I wanted, that's all. Everyone in the comments, why would you get so defensive when it comes to **Luka**?"
-
-**4. Kendrick Perkins — Kendrick Perkins uses Paul Pierce's conditioning as an example for Luka**
-<a href="https://www.youtube.com/watch?v=z2Y1iSKyVDw&t=787s" target="_blank" rel="noopener">13:07</a>
-
-"Getting to practice extra early, I'm watching him run them sprints on the treadmill with a level on 15 incline, because he was building himself up for the long haul. And guess what? By the time we got to the Finals, his body was so conditioned that he was able to go toe-to-toe with **Kobe**. All I'm saying is, Allie, I'm not taking away from **Luka**'s greatness, but I do believe that **Luka** can take it up another notch. I do believe that what we saw this year, I think he could take it up another notch past it, his body-wise, condition-wise. I do, because us wack-body guys, we have to be very careful and we got to be on point with our stuff so much because we're prone to have these soft tissue injuries. We're just not built like a LeBron James."
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
