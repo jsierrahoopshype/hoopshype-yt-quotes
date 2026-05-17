@@ -1,5 +1,8 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-17
+
+- [Perk ADMITS He Was WRONG About Luka & Embiid Comparison — *Road Trippin*](2026-05-17/z2Y1iSKyVDw.md)
 ## 2026-05-16
 
 - [Mad Max on LeBron: 'It's Time to Go' After Lakers Sweep — *All The Smoke*](2026-05-16/7ge2kgbXxfk.md)
