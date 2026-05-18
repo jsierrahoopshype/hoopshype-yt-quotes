@@ -211,6 +211,48 @@ _Speakers identified: Chandler Parsons_
 
 ---
 
+## Mike Tirico BELIEVES Victor Wembanyama is going to be the FACE of the LEAGUE | The Pat McAfee Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=8nLm6RyD118
+
+_Speakers identified: Pat McAfee, Mike Tirico, Pat McAfee's co-host (Foxy), Pat McAfee's co-host (Deebo), Pat McAfee's co-host (Connor)_
+
+**1. Pat McAfee's co-host — Pistons' successful season despite playoff exit and Jalen Duren's future — "Now they know what they need. Let's add more firepower and we'll be back next year."** [01:41](https://www.youtube.com/watch?v=8nLm6RyD118&t=101s)
+
+**Mike Tirico:** "So, let me ask you about this. You got **Pistons** fans there. Last year first round knocked out. This year second round, won a series, two Game 7s. Maybe you know a little bit more of what you need to do with your roster. Successful season or not successful season?"
+
+**Pat McAfee's co-host:** "I'll say it's a successful season for sure. They were the one seed all season long and were young. **Cade Cunningham**, 24 years old. **Ausar Thompson**, 23 years old. **Jalen Duren** only 22 years old. Now they know what they need. Let's add more firepower and we'll be back next year."
+
+**Mike Tirico:** "Good answer, but, but, do you pay Duren?"
+
+**Pat McAfee's co-host:** "**Big Perk** came on our show, Mike, and he was just saying how he'll learn from this. He's only 22. He's so young and he was so good in the regular season. You still need that to get to where you are in the playoffs. I think he'll be okay and I think we do pay him. But that's a huge question mark."
+
+**2. Pat McAfee — Wemby and Shai Gilgeous-Alexander's motivation for playoff performance — "How do you think Wemby responds and what does Shai Gilgeous-Alexander do fresh off his MVP?"** [02:50](https://www.youtube.com/watch?v=8nLm6RyD118&t=170s)
+
+"Feels like **Wemby** thrives off of these situations, especially with **Shai Gilgeous-Alexander** getting the MVP over him, obviously going into that building. Tonight's going to be a buzzsaw atmosphere. How do you think **Wemby** responds and what do you think **Shai Gilgeous-Alexander** does fresh off of his second MVP in a row?"
+
+**3. Mike Tirico — Chet Holmgren and Wemby represent NBA's next generation of big men. — "Chet Holmgren and Wemby have a really good thing going. This is the next generation of big man."** [03:05](https://www.youtube.com/watch?v=8nLm6RyD118&t=185s)
+
+"**Chet Holmgren** and **Wemby** have a really good thing going. These 7-foot plus unicorn kind of guys who are all over the floor, step out and hit shots. There's nobody who looks like **Wemby**. **Holmgren** might be the closest thing. This is the next generation of big man in the NBA. These guys who are 7-1, 7-4, plus and can do all this stuff. So it's a different kind of matchup."
+
+**4. Mike Tirico — Setting the tone and gaining momentum crucial in NBA playoff games. — "I just want to see who sets tone first. Who takes the hammer at the beginning."** [03:05](https://www.youtube.com/watch?v=8nLm6RyD118&t=185s)
+
+"I just want to see who sets tone first. Because the NBA, especially the playoffs, it's like, message sent, reply. Message sent, reply. How's that going to go back and forth? When message is sent and it's a 10 or 12 or 14 point lead and you can't come back, then it's advantage you. I want to see how that lays out right from the start. Who takes the hammer at the beginning and takes the Game 1 momentum and tone to the other guy."
+
+**5. Mike Tirico — Shai Gilgeous-Alexander's back-to-back MVPs and improved efficiency — "He got the trophy last year and said, I am motivated to come back better. And he did."** [05:39](https://www.youtube.com/watch?v=8nLm6RyD118&t=339s)
+
+"14 guys have won back-to-back MVPs. Very few of them guards and they're all like one-name guys. I'd give you the guys in order but I'll miss one. It's like **Russell** and **Wilt Chamberlain** and **Kareem Abdul-Jabbar** and **Moses Malone** and **Magic** and **Larry** and **Jordan** and **Duncan** and **Steve Nash** and **Giannis** and **Jokic** more recently. I think I got **Magic** in there. But it's a very small list. He got the trophy last year and said, I am motivated to come back better. And he did come back better. He was more efficient, shot 55% from the field this year and scored over 30 points again as an average. So he went to the lab after he got his trophy, and he got better. And he's in the prime of his career."
+
+**6. Mike Tirico — Oklahoma City's team development and motivation from underdog status — "Our banner's up in this building. Don't put us out to pasture just yet."** [06:40](https://www.youtube.com/watch?v=8nLm6RyD118&t=400s)
+
+"The ability to have a great mid-range game. So I put nothing past him. I think all the Oklahoma City guys love hearing all the noise about, here comes **San Antonio**, they're the team of the future. **Wemby**'s a unicorn, he's a unique star. They've got such a good cast. Their cast is amazing. **Harper**, **Fox**, you name it. So I think they're fueled by this. They go, wait a minute, we won the championship. Our banner's up in this building. Don't put us out to pasture just yet. We're in the prime too. Getting **Jalen Williams** back is going to be huge for them. They haven't had him much in these playoffs. So Williams, **Shai**, **Chet**, the guys they've developed, **Jalen Mitchell**'s been out of this world in these playoffs. They just keep developing guys and developing guys. So I put nothing past **Shai Gilgeous-Alexander**, nothing past **OKC**."
+
+**7. Mike Tirico — Victor Wembanyama's future as face of the league and handling physicality — "This guy will be the face of the league. He's special, a great teammate, super talented."** [10:59](https://www.youtube.com/watch?v=8nLm6RyD118&t=659s)
+
+"There's nothing I've seen that would take me off the track of this guy will be the face of the league. He's special. He's a great teammate, works his tail off, super talented, gets it in every way. I think guys will be physical with him all the way through. And he knows it's coming. And he has built himself, he goes through a routine before the game out in the arena, where guys are physical with him. He has built himself to be able to handle physical play. Not a lot of guys are of that mindset in year three. I've got to add this to my game. And he has, and it hasn't taken away from his ability. What's going to be key for him is playing 35 hard minutes in the playoffs with a terrific **Oklahoma City** team that likes to be physical with you, likes to get a couple of hands on you, has enough guys who can give you a solid rotation of different looks. How will he handle that?"
+
+---
+
 ## Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*
 
 Source: <a href="https://www.youtube.com/watch?v=9sw45DNpzcg" target="_blank" rel="noopener">https://www.youtube.com/watch?v=9sw45DNpzcg</a>
@@ -321,6 +363,282 @@ _Speakers identified: Michelle Beadle, Lou Williams, Chandler Parsons_
 <a href="https://www.youtube.com/watch?v=CHwFyiaauDc&t=160s" target="_blank" rel="noopener">02:40</a>
 
 "I do. I like the **Knicks**. You got to show respect to the team that's, that took care of business and afforded themselves some rest, right? Like we just watched Cleveland and we kind of get lazy and we like, dang, they had a great game last night. But it's a reason why the New York **Knicks** been off for quite a while because they took care of business. They're well rested. They've been able to get **OG** back in the lineup. And I think they're just prepared for the task. I think they know that this is an opportunity for them to really get to the NBA Finals. I think they take full advantage of it. They're going to get a **Detroit** team, they're going to get a Cleveland team that's coming off a tough fought Game 7. And sometimes when you're in that position, you kind of want to decompress. I don't think Cleveland has that opportunity and I think New York takes advantage of it. They've been on a high. They don't need any extra motivation. So again, I got to go with the team that's been chilling, ready and up, getting ready for this thing."
+
+---
+
+## RJ & Channing CAN'T AGREE On Anything: SGA MVP, Ant's Handshake & The Randle Problem — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=D8WTonjHwh8
+
+_Speakers identified: Allie Clifton, Channing Frye, Richard Jefferson_
+
+**1. Channing Frye — Ausar Thompson's offensive potential and need for a jumper — "the kid could be an All-Star every single year if he just had a jumper"** [05:00](https://www.youtube.com/watch?v=D8WTonjHwh8&t=300s)
+
+"If he's going to play 48 minutes a night, he got to give them something more than five points. With his God-given athletic ability, the kid could be an All-Star every single year if he just had a jumper."
+
+**2. Richard Jefferson — Ausar Thompson needs to learn diverse scoring methods — "It's not just a jumper, it's learning how to play basketball and put yourself in a good offensive position"** [05:16](https://www.youtube.com/watch?v=D8WTonjHwh8&t=316s)
+
+"It's not just a jumper, I'll back you up on this. It's not just a jumper, because there's a lot of guys that learn how to score in ways that aren't just a shooting a spot-up three or pull-up. It means more in transition. It means more downhill. It means learning when to cut back cut, being in the dunker spot, learning how to do a hand-off, a fake hand-off and going because they mess up the switch. You don't have, you can put hundreds of hours in on a jumper and that will improve over time. But also learning how to play basketball and put yourself in a good offensive position, that to your point, is not just shoot a jumper, it's putting yourself in a good offensive position to contribute more offensively than what he is."
+
+**3. Channing Frye — Pistons must develop offensive threats beyond Cade Cunningham — "For that team to take the real step, those guys got to really focus in this summer"** [06:50](https://www.youtube.com/watch?v=D8WTonjHwh8&t=410s)
+
+"For them to be great, obviously **Duren** needs to work on it too. They just need to really, they've established themselves defensively sometimes, but man, for that team to take the real step, those guys got to really focus in this summer and they're young, I think they're 23, 22, on being, being more of a threat on that end of the floor because it's not fun to watch them just, they just look at **Cade** and they're like, 'Alright, score some points for us and if we get a layup, we get a layup.'"
+
+**4. Channing Frye — Knicks' rest advantage allows extensive scouting of Cavaliers' game plans — "You've given the New York Knicks nine extra days to study you, to game plan you."** [16:10](https://www.youtube.com/watch?v=D8WTonjHwh8&t=970s)
+
+"We're not even taking into account both of those teams are shooting out all their, they're getting, they're different game plans. So like **Max Strus** starting, **Dean Wade** starting, like they're going into their, they're going deep into the bag to win these games as the opponent is watching them. So you've given the **New York Knicks** nine extra days to study you, to game plan you. And there's only, there's only so much that you can do with your team that they haven't seen before."
+
+**5. Channing Frye — Mitchell Robinson is X-factor for Knicks against Cavaliers' bigs — "If Mitchell Robinson can make an impact offensively, rebounding, defensively, because one thing I love about this series is this should be very, very, very personal for the Cleveland bigs."** [18:43](https://www.youtube.com/watch?v=D8WTonjHwh8&t=1123s)
+
+"I think the best player obviously is **Jalen Brunson**, then **Donovan**, then **KAT**, then **Evan Mobley**, then **OG**, then **James Harden**. I think that if **Mitchell Robinson** can make an impact offensively, rebounding, defensively, because one thing I love about this series is this should be very, very, very personal for the Cleveland bigs. They are three years older, they're three years stronger, they've shown that they are not soft. They've had two crazy tough series. Now they have to beat the team that basically made them look soft. They got bullied by the Knicks. So there ain't no more bullying now."
+
+**6. Richard Jefferson — Karl-Anthony Towns' offensive impact and defensive challenges — "Karl-Anthony Towns and his playmaking has really upped their offense."** [20:11](https://www.youtube.com/watch?v=D8WTonjHwh8&t=1211s)
+
+"I would go bigs also. Because **Karl-Anthony Towns** and his playmaking and them putting the ball in his hands has really upped their offense because now guys are getting easy buckets. **OG**'s getting an easy bucket here, **Mikal Bridges**, they're messing up switches. So him and his assists, multiple triple-doubles in this postseason. But what happens is, you put a small on him, he's big. You put a small to pressure him, he can see over. You put a big on him and he can drive by the big. There's no problem because bigs aren't used to pressure him. **Joel Embiid** wasn't going to get up and pressure him, **Drummond** wasn't going to get up and pressure him. So he could basically pick them apart. They got up close, so it really put a bind in their offense."
+
+**7. Richard Jefferson — Mobley and Allen: ideal defenders for Karl-Anthony Towns — "Evan Mobley and Jarrett Allen are the prototype for the bigs that you want to guard him."** [20:11](https://www.youtube.com/watch?v=D8WTonjHwh8&t=1211s)
+
+"Now you flip it, **Evan Mobley** and **Jarrett Allen** are the prototype for the bigs that you want to guard him. They can pressure him and they have the feet and the mobility to guard him if he goes on the move. **Drummond** and **Embiid** didn't. You put a small on him, he's too big, he can still, you put **Jalen Brown** on him, he could see over top of him. So I think that the bigs, how well **Evan Mobley** and **Jarrett Allen** guard **Karl-Anthony Towns**, because now he's the hub of the offense."
+
+**8. Richard Jefferson — Anthony Edwards' early handshake with Spurs is debatable sportsmanship — "When this thing is over, I'm walking off. You don't normally see that, but what you're coach is waving the white flag."** [36:37](https://www.youtube.com/watch?v=D8WTonjHwh8&t=2197s)
+
+"It's eight minutes to go. When this shit is over, I don't want to say any good, when that buzzer goes off, I want to walk off the court. Let me go say my goodbyes and pleasantries now. I'm done. We're recognized. We're waving the white flag. So I could sit there and keep taking this ass-whooping for eight minutes and then, or I can just say, 'Fuck it, hey, y'all, good game, good game, appreciate you, appreciate you.' And then go. Like there's two schools of thought. Most of the time, 99% of the time, dudes wait till the buzzer sounded. But at that point in time, your coach is waving the white flag, you're waving the white flag. When this thing is over, I'm walking off. You don't normally see that, but what you're coach is waving the white flag."
+
+**9. Channing Frye — Anthony Edwards' handshake at 8 minutes is disrespectful — "You would never, you would never in your life go across the court."** [38:35](https://www.youtube.com/watch?v=D8WTonjHwh8&t=2315s)
+
+"Eight minutes is crazy. It would, it would, it would, to me, one, you make a big deal halfway through a timeout to walk across the court, **Richard**. That's, you would never, you would never in your life go across the court. Hey, I'm sitting on the bench, when I see the guys, maybe at the beginning of a timeout, two, three minutes, where everything is calmed down. They literally just took that belt to ass, you wave the white flag and then you immediately go over there? Dude, you got to sit down, take that ass-whooping for a little bit. Three minutes, two minutes, then go over there, say, 'Hey, I just want to say boom, boom, boom.' That would have been very different, but eight minutes is wild."
+
+**10. Richard Jefferson — Anthony Edwards' unique personality and unfiltered approach to basketball — "Ant is special, he's unique, he sees it through a different lens, he plays that way, he's always been that way."** [49:00](https://www.youtube.com/watch?v=D8WTonjHwh8&t=2940s)
+
+"**Ant** sees the world through the eyes in which people don't fully understand. Me, Channing, including, we see the world through eyes of a lot of other people will never understand. So it's not different or better. I just have enough empathy and understand when you see a guy like a **LeBron**, like a **J-Kidd**, like a **Steve Nash**, guys that just their mentals are different. **Ant**'s funny, he's unique, doesn't have a filter. As **Kanye** said it, he's like, 'Sometimes people are like, hey man, I love that, man, man, he makes crazy beats or man, that's a crazy song.' He's like, 'Oh man, that, the dude might be crazy that's making all of this shit.' **Ant** is special, he's unique, he sees it through a different lens, he plays that way, he's always been that way. So for **Ant** to be like, ah, fuck it, this shit's over. **Ant**'s also the guy that will talk shit to **Kevin Durant** and smile at 22 years old."
+
+**11. Richard Jefferson — Shai Gilgeous-Alexander's MVP case based on historical scoring and team wins — "He scored 20 points in every game this season. He broke a Wilt Chamberlain's record."** [52:35](https://www.youtube.com/watch?v=D8WTonjHwh8&t=3155s)
+
+"He scored 20 points in every game this season. He broke a **Wilt Chamberlain**'s record. Yeah, he didn't lead in a stat, but he broke a historical record at 54% efficiency. He scored 20 points in every game this season that he played. He broke a **Wilt Chamberlain** record. Okay, you own the stats for the season, I'll take the historical record that hasn't been touched in 50 years. Come on. And what's the most important one? Wins. I don't care about any of you sports nerds, any of you stat nerds, any of you, the most important thing is wins. And his team led in wins. I don't care about any of you sports nerds, any of you stat nerds, any of you, the most important thing is wins. And his team led in wins."
+
+**12. Channing Frye — Victor Wembanyama's MVP case based on transformative impact — "Wemby made the biggest impact on his team both defensively and offensively."** [56:20](https://www.youtube.com/watch?v=D8WTonjHwh8&t=3380s)
+
+"I just think **Wemby** should have won it. I just think **Wemby** should have won it. You have a 22-year-old who took a team. No, no, it's less about. Now, I'm not disagreeing with anything that you are saying. I just think MVP to me, the most valuable player should go to the guy who has transformed his team from each year it's going to be different, right? So obviously they won last year. **Shai** should have got that thing a thousand times last year. I thought this year, if I had a vote, that **Wemby** made the biggest impact on his team both defensively and offensively. Was it as glamorous or as exciting as **SGA**? And their head-to-head record. I just have to me. So don't, don't think that I'm hating on **SGA**. I think **SGA** is all-time. I just think that **Wemby**'s year should have been rewarded because he came in here, they said, 'Hey, are you going to be the face of the league?' He said yes. Are you said, 'You get me some guys on my team, I'll put, get on my back.' Got it. He's first time unanimous Defensive Player of the Year. To me, he had the biggest, best year for a player. **Shai** is just great and **Shai** is doing **Shai** things."
+
+**13. Richard Jefferson — Coaches should fine players for tardiness to maintain respect and standards — "Should coaches fine players for being late? Hell yeah. Yes. Be respectful. We're all grown men."** [01:59:45](https://www.youtube.com/watch?v=D8WTonjHwh8&t=7185s)
+
+"Should coaches fine players for being late? Hell yeah. Yes. Be respectful. We're all grown men. A lot. I've seen coaches in, I think it was Colorado. They showed that they were going to fine players. They're like, 'Listen, we're giving you 800,000 for your NIL. You're going to be fined 10K if you're late to a shootaround or a weight session or a film meeting or a team meeting. If you don't, if you miss class, there's going to be a 5K fine.' They literally showed this in college now because of NIL. Because if we're paying you this money, here is our standard."
+
+---
+
+## Where does Shai's SECOND BACK to BACK MVP put him ALL-TIME today 👀 — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=IOMG44ir9jc
+
+_Speakers identified: Raymond Felton, Theo Pinson, , Charlie Villanueva_
+
+**1. Raymond Felton — Shai's back-to-back MVP, gifts to teammates, and future contract — "Shai Gilgeous-Alexander is your two-time MVP back-to-back. Man, gave him golf bags."** [00:07](https://www.youtube.com/watch?v=IOMG44ir9jc&t=7s)
+
+**Raymond Felton:** "Uh, before we get into the game, we got to give flowers. There's a two-time MVP back-to-back. Uh, who I said was going to who I said was going to get MVP? **Shai Gilgeous-Alexander** is your two-time MVP back-to-back."
+
+"And love what he did for his teammates."
+
+**Raymond Felton:** "Man, gave him golf bags."
+
+**Theo Pinson:** "AP."
+
+**Charlie Villanueva:** "AP."
+
+"We got the clip. Kurt, you want to you can let us talk over it. Big shout out to **Shai**. Hamilton's finest."
+
+**Raymond Felton:** "You would have did some shit like that?"
+
+**Theo Pinson:** "No."
+
+**Raymond Felton:** "Hell yeah."
+
+**Theo Pinson:** "You ain't doing it in Dallas. You ain't doing it where we was playing."
+
+**Raymond Felton:** "You ain't doing it in Dallas."
+
+**Theo Pinson:** "Fellas, you ain't doing it where we was playing."
+
+"The money's like that today though too, right?"
+
+**Raymond Felton:** "The money is like that. He is going to get an extension for about 400."
+
+**Theo Pinson:** "Let's have a conversation."
+
+"6, 700."
+
+**Charlie Villanueva:** "He only probably spent 500,000 maybe on that."
+
+**Raymond Felton:** "Multi-time MVP."
+
+"Probably 6, 7."
+
+**Charlie Villanueva:** "Did you say only CV? For a guy that's making fucking 60 mil."
+
+**Theo Pinson:** "I know you rich. Let me hold something."
+
+**2. Shai Gilgeous-Alexander's exclusive company as a multi-time MVP — "This puts him in exclusive company. There's 16 people in all of NBA history to do that."** [02:38](https://www.youtube.com/watch?v=IOMG44ir9jc&t=158s)
+
+**Raymond Felton:** "Multi-time MVP, guys."
+
+"Yeah, Kurt has the graphic."
+
+**Raymond Felton:** "Kurt, put the graphic up. Where does he rank among these guys?"
+
+"This puts him in exclusive company. So if you can see, we got Kareem, we got **Mike**, **Bill Russell**, **Wilt**, **LeBron**, **Larry**, **Magic**, **Nikola Jokic**, **Moses Malone**, **Giannis**, **Steph Curry**, **Tim Duncan**, **Karl Malone**, **Steve Nash**, **Bob Pettit**, and now **Shai Gilgeous-Alexander**."
+
+**Theo Pinson:** "**Bob Pettit**, get him out of there."
+
+"There's 16 people in all of NBA history to do that. It's kind of crazy."
+
+**Theo Pinson:** "I know that is."
+
+**Charlie Villanueva:** "It's tough, but I just feel like you can't start comparing until he's done. Let him get done and then let's talk about it. I hate comparing guys when they still playing. He still got a chance, what if he gets two more?"
+
+**Theo Pinson:** "Facts."
+
+**Raymond Felton:** "Man."
+
+**Charlie Villanueva:** "He's young too. He's young."
+
+**Theo Pinson:** "Meaning he's going to do a lot more."
+
+**Raymond Felton:** "He's like 26, 27."
+
+"**Shai**'s 27 or 28."
+
+**Raymond Felton:** "That's young."
+
+"He is 27."
+
+**3. Raymond Felton — Shai's potential to surpass Stephen Curry in accolades — "He is knocking on that motherfucking door. You got three more championships to get."** [05:22](https://www.youtube.com/watch?v=IOMG44ir9jc&t=322s)
+
+**Raymond Felton:** "No, not right now."
+
+**Theo Pinson:** "But he is knocking on that motherfucking door."
+
+**Raymond Felton:** "At 26."
+
+**Theo Pinson:** "He is knocking."
+
+**Charlie Villanueva:** "He got another 10 years."
+
+**Raymond Felton:** "You got three more championships to get."
+
+**Theo Pinson:** "Three more championships?"
+
+**Raymond Felton:** "Because **Steph** got four. So if he gets this championship and Finals MVP, he might be in front."
+
+**Theo Pinson:** "If he runs it back again."
+
+"No, I think he needs to do three."
+
+**Raymond Felton:** "Maybe three championships. Three championships."
+
+**4. Raymond Felton — Russell Westbrook's enduring love in OKC compared to Shai Gilgeous-Alexander — "They love Russ. There's no wrong Russ can do."** [06:23](https://www.youtube.com/watch?v=IOMG44ir9jc&t=383s)
+
+**Raymond Felton:** "I'm not basing it off just basketball. I'm basing it off the love **Russ** has for that city. I'm telling you, even when I just went back, I'm telling you."
+
+**Theo Pinson:** "I agree with that. I agree with that. I agree with you, bro. I'm telling you. It's still not there yet."
+
+**Theo Pinson:** "You talking about he's going to be loved more."
+
+**Raymond Felton:** "If he does that again before the end of his career in OKC, he may. But today, right now, he's not. They love **Russ**. There's no wrong **Russ** can do."
+
+**Theo Pinson:** "They love **Russ**. There's no wrong **Russ** can do."
+
+**Theo Pinson:** "So you don't think he's loved more yet?"
+
+**Raymond Felton:** "Yeah. **Russ** really made that culture."
+
+**Charlie Villanueva:** "He did. He put everything in every game, every night."
+
+**Raymond Felton:** "Yeah, bro."
+
+**Charlie Villanueva:** "And his energy is crazy."
+
+**Charlie Villanueva:** "To your point though, **Ray**, I don't think even if he wins this year, he still won't be loved more than **Russ** in OKC. I don't think he will until his career is done."
+
+**5. Raymond Felton — Russell Westbrook and Shai Gilgeous-Alexander deserve OKC statues — "I think Shai deserves a statue, obviously. And I think Russ is going to get one too."** [06:23](https://www.youtube.com/watch?v=IOMG44ir9jc&t=383s)
+
+**Raymond Felton:** "I think they both get a statue there. What do you think? I think they both get a statue there. They both got MVPs there. I think they both get a statue there. I think **Shai** deserves a statue, obviously. And I think **Russ** is going to get one too."
+
+**Theo Pinson:** "Yeah, that's fair. They both deserve it. They both deserve it."
+
+**Theo Pinson:** "I think he deserves one."
+
+**6. Raymond Felton — Shai Gilgeous-Alexander's impact on the league compared to Stephen Curry — "Everybody in the league changed their whole concept because of Steph and Golden State."** [08:04](https://www.youtube.com/watch?v=IOMG44ir9jc&t=484s)
+
+"Somebody said why is **Shai** not close to **Steph**?"
+
+**Raymond Felton:** "No, I think he's close."
+
+"He's for sure close."
+
+**Theo Pinson:** "He's very. I think he's close."
+
+**Charlie Villanueva:** "I just think it's because the way **Steph** changed the game, dude. He just, the three."
+
+"His impact on the game for sure."
+
+**Theo Pinson:** "Impact on the game. And he is the best shooter ever."
+
+**Raymond Felton:** "Best shooter of all time."
+
+**Charlie Villanueva:** "Best shooter of all time."
+
+**Raymond Felton:** "Everybody in the league changed their whole concept because of **Steph** and Golden State. Like."
+
+"But if you look at the image that Kurt just pulled up, he's like the last person we see do something like this is **MJ**."
+
+**Raymond Felton:** "Yeah, but no, no, no. No, what he's doing is crazy because now the league is trying to adjust to him and his team. So he's doing the same thing that **Steph** has done. Like now the league is trying to adjust to him and his team just like everybody was trying to adjust to **Steph** and the Golden State Warriors. So he's doing the same thing."
+
+**Theo Pinson:** "**Shai**'s doing it another way. **Shai**'s doing it efficiently though. Efficiency is fucking sick. It's sick. His. What was the stat in the fourth quarter? It was something crazy."
+
+"Shooting 54%."
+
+**7. Charlie Villanueva — Kevin Durant's impact on Stephen Curry's championship rings — "Without KD going there, Steph may only have two rings. That's a fact."** [09:21](https://www.youtube.com/watch?v=IOMG44ir9jc&t=561s)
+
+**Charlie Villanueva:** "Going back to this this **Shai** and **Steph** thing, somebody made a good point in the chat. It said without **KD** going there, **Steph** may only have two rings."
+
+**Theo Pinson:** "That's a fact. That is a fact. That's a very good point."
+
+**Charlie Villanueva:** "He ain't even play he ain't even had a, uh, he ain't even."
+
+**Theo Pinson:** "Who's a Hall of Famer on OKC? Another Hall of Famer."
+
+**Charlie Villanueva:** "Two of them."
+
+**Theo Pinson:** "Three of them."
+
+---
+
+## Chandler Parsons and Mark Cuban BULLIED the Houston Rockets to get his Dallas contract 💀 — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=JMyilTzMfQ4
+
+_Speakers identified: Zach Randolph, Chandler Parsons_
+
+**1. Chandler Parsons — Chandler Parsons on leaving Houston as a restricted free agent — "There's agents that get you paid, Dan Fegan gets you overpaid."** [00:11](https://www.youtube.com/watch?v=JMyilTzMfQ4&t=11s)
+
+**Zach Randolph:** "Was it a bittersweet moment leaving Houston?"
+
+**Chandler Parsons:** "Yes, that was a unique deal where I was a restricted free agent and I had a team option in my third in my fourth year for the Rockets, which ended up helping me because I remember I was overplaying my contract and I exceeded all expectations. By the time my fourth year came up, I was playing 40 minutes a night and I was a starter. So it was like, okay, how do we extend this guy? And I remember this is when then I hired **Dan Fegan**, who rest in peace, he was a great goat of, yeah, there's agents that get you paid, **Dan Fegan** gets you overpaid."
+
+**2. Chandler Parsons — Chandler Parsons' player-friendly Dallas contract Houston Rockets declined to match — "Houston didn't match it, and we did this to strong-arm them. I wanted to go back."** [01:20](https://www.youtube.com/watch?v=JMyilTzMfQ4&t=80s)
+
+"They didn't pick it up. So they didn't pick it up, and that summer I played great, I became a restricted free agent. That's when **Mark Cuban** comes in, he offers me a max deal. I think Orlando offered me a big deal. It was restricted, and he put in a no-trade. I had the craziest kickers and a player option in my year. There were incentives in my contract that were very player-friendly, where I had the option to get out of the contract a year early. I had the option to get even more of a raise if I got traded. There was a bunch of stuff in there where Houston didn't match it, and we did this to strong-arm them. I wanted to go back. Then Mark offered me the three-year deal in Dallas, and they get like three days or whatever to match the contract if you're a restricted free agent versus an unrestricted free agent. And they didn't match it."
+
+**3. Chandler Parsons — Chandler Parsons' bittersweet Houston departure and historic NBA pay raise — "I went from making $700 grand to $15 million a year."** [01:20](https://www.youtube.com/watch?v=JMyilTzMfQ4&t=80s)
+
+"So it is bittersweet because I never wanted to leave Houston. I loved Houston. I loved playing for **Kevin McHale**. I loved playing with **James Harden** and **Dwight Howard**, and we only had that one season together where **Damian Lillard** hit the shot and we got eliminated Game 6. This was the biggest raise in the history of the NBA back in the day. I went from making $700 grand to $15 million a year."
+
+**4. Chandler Parsons — Chandler Parsons' wild first meeting with Dallas Mavericks owner Mark Cuban — "We literally went to my apartment afterwards. Picture a room like this and we just wrestled right there."** [03:53](https://www.youtube.com/watch?v=JMyilTzMfQ4&t=233s)
+
+"I met **Mark Cuban** All-Star weekend in Houston where we went to a party, we got so fucked up. After we went back to my place and everyone surrounded us and we wrestled. This is while I was on the Rockets. We literally went to my apartment afterwards. Picture a room like this and we just wrestled right there. And that's how I met him. And I just became cool with that and obviously I was always interested in business and he was the shark, he was the man, he was this famous cool owner. He liked the same stuff I liked to do in the offseason, he was my guy. And so I developed this relationship with him early. He was very close with **Dan Fegan**, my agent at the time. So yeah, I went in there not only leaving bittersweet to leave Houston, but now I'm going to play for Dallas, who my boy is the owner, my hero, role model, **Dirk** is my teammate."
+
+**5. Chandler Parsons — Chandler Parsons on Dallas Mavericks being the perfect fit for his game — "It was the perfect storm going in there, close to Houston, it's right there in the same state."** [04:57](https://www.youtube.com/watch?v=JMyilTzMfQ4&t=297s)
+
+"100%. **Rick Carlisle**, they had just won the chip in 2011 and he's a great coach. You see all these numbers offensively, a lot of pick and roll, a lot of threes. And it's exactly like was my game. So it was the perfect storm going in there, close to Houston, it's right there in the same state, no state taxes. There was a lot of perks going there and again, now you got **Mark Cuban** on your side too, who's your boy, who'll take care of you post-career, business, etc. So it was awesome and I was obsessed with **Dirk**. I remember I have a yearbook picture wearing **Dirk**'s jersey and then here we go fast forward 15 years later, he's my teammate. That was awesome and those were great times. We had good team, good teams too and that's when the injuries started happening. That's where I had my first knee surgery and kind of domino effect from there, but those it was a three-year deal, I ended up only playing there for two years, but those two years were great relationships."
 
 ---
 
@@ -657,6 +975,42 @@ _Speakers identified: Paul Pierce, Wosny Lambre, Danny Green_
 
 ---
 
+## Shams addresses breaking the news on Shai Gilgeous-Alexander winning MVP 🏆🚨 | The Pat McAfee Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=uhz6lEVB8vk
+
+_Speakers identified: Pat McAfee, Shams Charania, Connor_
+
+**1. Shams Charania — Shams Charania details his responsibility in reporting vetted NBA news — "My job is to report the news. That's all I focus on."** [01:28](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=88s)
+
+"I mean listen, part of me is like, what are we talking about here? The other part of me is like, for me when I get news, when I get information, if I've vetted it, like I did late Saturday night, early Sunday morning, when I have news 100%, no matter how big, no matter how small, in this case, obviously, very big accomplishment, very big news around the NBA for **Shai Gilgeous-Alexander** being the 14th player in NBA history to be the back-to-back league MVP. He's only since **Stephen Curry**, the only guard to be back-to-back. He's the only player to go back-to-back, period, since **Nikola Jokic**. There's a list of accomplishments here. He's in rarified air. So this is a massive story. And when I get it, I vet it, then my job is to report the news. That's all I focus on, that's what I wake up thinking about, that's what I go to sleep thinking about. I feel responsibility and like you said, Pat, this isn't the first time necessarily, but it's not going to be the last time where I'm just going to try to do my job to the best of my ability."
+
+**2. Shams Charania — Milwaukee Bucks are officially open for Giannis Antetokounmpo trade offers — "The Milwaukee Bucks are open for business on trade calls and offers for two-time MVP Giannis Antetokounmpo"** [5:05](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=305s)
+
+"I reported last week, actually, on this show about a week ago that the Bucks were officially open for business on trade calls and offers for two-time MVP **Giannis Antetokounmpo** entering the NBA combine and over six weeks away from the draft, sources told ESPN. That has continued into this week and that's only going to continue. The crux of this is Giannis has believed for a period of months now that it's time for both sides to move on. The Bucks obviously last year, they felt like they had a team that would compete and when you have Giannis on your team, you do everything you can, right? And we've seen **Jon Horst**, their general manager, Drew Holiday in 2020, **Damian Lillard** in 2023, **Myles Turner** last summer. They're going to make swings. They're going to go all in, but this is a team that has gone all in over and over and over again and I think it has reached that point to where how much all in can you go? Do you even have the pieces necessary to go all in? And so those conversations will continue to pick up from ownership to management with Giannis. One thing I did pick up last week and into this week, Giannis's stance has not changed as far as what I reported the last several months. So this is a situation we'll keep an eye on over the next five to six weeks."
+
+**3. Connor — Giannis Antetokounmpo's potential trade to Boston or other approved teams — "there's a chance that he might be headed to Boston. I think he is the favorite at some places."** [06:12](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=372s)
+
+"It's been said on the internet that there's a chance that he might be headed to Boston. I think he is the favorite at some places. What is that status? Would that be a trade that could possibly happen including **Jaylen Brown** or just assets of some sort or are we looking at the teams that **Giannis** has already approved that you have pontificated about like Miami and spots like that where he'll go."
+
+**4. Shams Charania — Shams details teams interested in Giannis Antetokounmpo, including Celtics — "Minnesota, the Lakers, the Celtics, the Heat, the Knicks, those are all the teams that had interest in Giannis"** [06:12](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=372s)
+
+"Minnesota, the Lakers, the Celtics, the Heat, the Knicks, those are all the teams that had interest in **Giannis** at the deadline. There were conversations, some teams more than other teams. You think about teams like Miami and Minnesota, those were more extensive conversations. Those were more back-and-forth engagement conversations. Then you have teams like Cleveland and the Lakers and the Celtics that checked and the Knicks that checked in, that had interest. There were some conversations on concepts, but the Celtics did check in, they did make a call, they did have a level of interest and I think that is going to continue into this off season. But they've never gotten into the particulars because it takes two to tango. You're not just going to offer up a player that it might take to get a deal done without there being interest from the other side. So those are all things to be determined."
+
+**5. Shams Charania — Titans of NBA, Thunder-Spurs matchup, experience, and key players — "Two of the Titans of the NBA right now going against each other."** [08:57](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=537s)
+
+"To me, two of the Titans of the NBA right now going against each other. We'll see how much the aspect of experience plays into this. We know the Thunder have won it all already. This is the Spurs' first foray together as this unit. I think about this group right now: **Wemby**, **Cassel**, **Harper**, **Fox**. Then on the other side you have **SGA**, you have **J-Dub** who's back in the lineup tonight, **Jalen Williams**."
+
+**6. Shams Charania — Jalen Williams' return, Thunder depth, and conference finals hype — "Two very deep teams. We've been waiting for this moment."** [08:57](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=537s)
+
+"He's missed the last four weeks. He is good to go, cleared to play tonight, and I'm told he's going to be full throttle. So you have him back. You have **Chet Holmgren** on that team. Then they have waves upon waves of guys too. **Alex Caruso**, **AJ Mitchell** who just broke out as a star in the first couple rounds of these playoffs. So, two very deep teams. I feel like this has been an absolute Titan battle all year. We've been waiting for this moment. I think the last time I've thought about and there's been hype around a conference finals like this is the one that didn't happen. Lakers-Clippers in the bubble. Everyone wanted the Lakers and Clippers to face off in the bubble. Everyone's wanted the Spurs and Thunder to face off, now they are."
+
+**7. Shams Charania — Shams discusses LeBron James' future and potential next season — "all indications throughout the season have been that he's going to play another year."** [10:46](https://www.youtube.com/watch?v=uhz6lEVB8vk&t=646s)
+
+"I wouldn't say that that's something that's been determined. Honestly, I think LeBron, more than past years, probably needs even more time with his family, with his inner circle. I do know a lot of teams are calling him and his camp. I spoke to **Rich Paul** the other day at the Chicago Draft Combine last week and he told me like every contender in the NBA has essentially since the season ended placed a call. So that line is going to continue to be open, but listen, LeBron, all indications throughout the season have been that he's going to play another year. We'll see if that remains to be true. He's got to take that time. We've never seen this. 41 years old, year 23. I think if he decided to step away, I don't think anyone would hold it against him, but I think the expectation has been that probably you're going to get one more and we'll see if it's going to be with the **Lakers** or somewhere else. But listen, being in **LA**, having that comfortability and the **Lakers** want him, I think all those factors do play a part."
+
+---
+
 ## Kendrick Perkins Says Lakers Need A Culture Reset!? #Lakers #LeBron #lukadoncic #nba — *Road Trippin*
 
 Source: <a href="https://www.youtube.com/watch?v=xCQimB2n1sc" target="_blank" rel="noopener">https://www.youtube.com/watch?v=xCQimB2n1sc</a>
@@ -682,6 +1036,36 @@ _Speakers identified: Kendrick Perkins, Rob Pelinka, Channing Frye_
 **Channing Frye:** "You just named the three best cultures in the NBA."
 
 **Kendrick Perkins:** "What are you talking about?"
+
+---
+
+## Can the Cavs compete with the Knicks? 👀 Eastern Conference Finals Preview | NBA Today — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=yulmUX4kCtI
+
+_Speakers identified: Malika Andrews, Chiney Ogwumike, Danny Green, Donovan Mitchell, Josh Hart, J.B. Bickerstaff_
+
+**1. Donovan Mitchell — Donovan Mitchell reflects on reaching first Conference Finals — "We had our goals set on getting to the Finals. And we're just one step closer."** [01:33](https://www.youtube.com/watch?v=yulmUX4kCtI&t=93s)
+
+"A breath of fresh air, but like you said, we didn't just come here just to, that wasn't the goal when we started the season. Even last year, when we lost Indiana, we had our goals set on getting to the Finals. And we're just one step closer, but yeah, this has been almost a decade of running into the same issue, right? So sure, I can personally and as a team we can breathe a little bit, but in the same token, we can only breathe for about 12 hours and then get right back to it."
+
+**2. Danny Green — Danny Green highlights Jalen Brunson's unstoppable matchup advantage — "I don't think Cleveland has anybody that can guard Jalen Brunson in this series."** [05:00](https://www.youtube.com/watch?v=yulmUX4kCtI&t=300s)
+
+"I don't think Cleveland has anybody that can guard **Jalen Brunson** in this series. That's where it comes in. KAT, you have **Evan Mobley**, if he plays two-way like he's played in that last series against Detroit, he can kind of somewhat neutralize **Karl Sabonis**, as you would say, like he's out there playing like Sabonis. But when it comes to **Jalen Brunson**, you have **Donovan Mitchell**, you have **James Harden**, they're decent size, but **Jalen Brunson** is too quick, he's too crafty. **Max Strus**, again, **Dean Wade** has got size, but he's not foot speed enough to keep up with **Jalen Brunson**. So this is going to be a tough matchup for them in terms of **Jalen Brunson**."
+
+**3. J.B. Bickerstaff — J.B. Bickerstaff expresses pride in Pistons' effort despite playoff loss — "I'm not ever, will I be disappointed in these guys. These guys every single day give us what they got."** [06:13](https://www.youtube.com/watch?v=yulmUX4kCtI&t=373s)
+
+"It's not a disappointment at all. I'm not ever, will I be disappointed in these guys. These guys every single day give us what they got. So it is not a disappointment. It's a loss and it's a tough loss. But that adjective will never be used with this group."
+
+**4. Danny Green — Danny Green criticizes Anthony Edwards' early congratulations — "You're just going to sit the rest of the game and just watch from the bench, you could wait till after the game's over to shake everybody's hand."** [07:25](https://www.youtube.com/watch?v=yulmUX4kCtI&t=445s)
+
+**Danny Green:** "Yeah, this is a learning curve, learning lesson. I'm not too bent out of shape about it because I don't question **Anthony**'s competitive nature, his character. But you just waste the end of the game, cheering on your guys, waste the end of the game. He'll learn from this. But if it's one thing, if he was leaving the game going to the back to get treatment or he was hurt. But you're just going to sit the rest of the game and just watch from the bench, you could wait till after the game's over to shake everybody's hand."
+
+**Malika Andrews:** "Generally speaking, I'm not the sportsmanship police, when **Jaden McDaniels** dunked at the end of the game, I don't really care."
+
+**5. Chiney Ogwumike — Chiney Ogwumike questions Julius Randle's centerpiece status — "Their team hinges on him. There's a lot of pressure on him."** [09:11](https://www.youtube.com/watch?v=yulmUX4kCtI&t=551s)
+
+"When things were great, everything was great, but then when they hit the adversity, it feels like it hit them like a brick wall, particularly **Julius Randle**. Because his last series was not good at all. He shot 34% from the field, 19% from three. And then you worry about these circumstances, how hard are you playing, how are things working? I can say from this postseason, **Ant** tried, **Naz Reid** had moments, **Jaden McDaniels** was doing his thing. **Rudy Gobert** maxed out on his capabilities and honestly probably took a little bit of superpowers. Their team hinges on him. There's a lot of pressure on him. And going up against the Spurs, you just feel like you did not get big enough games and big enough moments or at least that requisite effort to where you're making a decision moving forward and you're like, is this guy still a centerpiece?"
 
 ---
 

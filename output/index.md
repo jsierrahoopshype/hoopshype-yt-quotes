@@ -5,8 +5,12 @@
 - [Stephen A. responds to Jaylen Brown’s comments: Be careful what you wish for… 😬 | First Take — *NBA on ESPN*](2026-05-18/162xX4-b0Yg.md)
 - [Wemby PROVED He's Ready for the Moment?? + Spurs-Thunder Predictions — *Run It Back*](2026-05-18/3thO9bwAKYc.md)
 - [Chandler Parsons says he was GARBAGE when he went to the Euroleague 😭 — *Out The Mud*](2026-05-18/435bHcN1w9Q.md)
+- [Mike Tirico BELIEVES Victor Wembanyama is going to be the FACE of the LEAGUE | The Pat McAfee Show — *NBA on ESPN*](2026-05-18/8nLm6RyD118.md)
 - [Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*](2026-05-18/9sw45DNpzcg.md)
 - [Harden Trade a SUCCESS with Cavs Making Conference Finals?? + Knicks-Cavs Predictions — *Run It Back*](2026-05-18/CHwFyiaauDc.md)
+- [RJ & Channing CAN'T AGREE On Anything: SGA MVP, Ant's Handshake & The Randle Problem — *Road Trippin*](2026-05-18/D8WTonjHwh8.md)
+- [Where does Shai's SECOND BACK to BACK MVP put him ALL-TIME today 👀 — *To The Baha*](2026-05-18/IOMG44ir9jc.md)
+- [Chandler Parsons and Mark Cuban BULLIED the Houston Rockets to get his Dallas contract 💀 — *Out The Mud*](2026-05-18/JMyilTzMfQ4.md)
 - [Knicks vs. Wemby or SGA in the NBA Finals Would Be BROADWAY 🎬🤯 — *7PM in Brooklyn*](2026-05-18/KSnOYFhM-K4.md)
 - [Shai goes BACK to BACK MVPs, Donovan reaches his FIRST conference finals, Pat Bev & Jennings BEEF — *To The Baha*](2026-05-18/LbLz0_B7vKo.md)
 - [Young Kiyan Drank PRE-WORKOUT Accidentally at the Knicks Facility 😭😵‍💫 — *7PM in Brooklyn*](2026-05-18/LoF7hfsCMrg.md)
@@ -18,7 +22,9 @@
 - [Jaylen Brown says f**k Stephen A Smith & he'll stop streaming if SAS retires 😳 — *Chaz NBA*](2026-05-18/qEjOFyj7D5w.md)
 - [FULL Western Conference Finals Preview - All-Time Series Brewing? — *NBA on ESPN*](2026-05-18/qcLD93lqYX0.md)
 - [Spida Mitchell CRUSHES Pistons, Cavs Move On To ECF + Detroit's Offseason | Spurs & OKC Kickoff WCF — *No Fouls Given*](2026-05-18/qw2sHcA6d0E.md)
+- [Shams addresses breaking the news on Shai Gilgeous-Alexander winning MVP 🏆🚨 | The Pat McAfee Show — *NBA on ESPN*](2026-05-18/uhz6lEVB8vk.md)
 - [Kendrick Perkins Says Lakers Need A Culture Reset!? #Lakers #LeBron #lukadoncic #nba — *Road Trippin*](2026-05-18/xCQimB2n1sc.md)
+- [Can the Cavs compete with the Knicks? 👀 Eastern Conference Finals Preview | NBA Today — *NBA on ESPN*](2026-05-18/yulmUX4kCtI.md)
 - [Have Nuggets, Celtics, Wolves, 76ers Expired? LeBron's Future + More  | ALL NBA PODCAST — *ALL NBA Podcast*](2026-05-18/z57TqczbTeM.md)
 ## 2026-05-17
 
