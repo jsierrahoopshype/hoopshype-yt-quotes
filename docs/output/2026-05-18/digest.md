@@ -198,6 +198,19 @@ _Speakers identified: Michelle Beadle, Lou Williams, Chandler Parsons_
 
 ---
 
+## Chandler Parsons says he was GARBAGE when he went to the Euroleague 😭 — *Out The Mud*
+
+Source: <a href="https://www.youtube.com/watch?v=435bHcN1w9Q" target="_blank" rel="noopener">https://www.youtube.com/watch?v=435bHcN1w9Q</a>
+
+_Speakers identified: Chandler Parsons_
+
+**1. Chandler Parsons — Chandler Parsons on struggling to adjust to Euroleague rules**
+<a href="https://www.youtube.com/watch?v=435bHcN1w9Q&t=0s" target="_blank" rel="noopener">00:00</a>
+
+"Bro, it's a different game. There's no defensive three seconds, there's no goal tending. They call carry on everything. So I remember the first couple weeks, I was garbage. I was so bad. I couldn't adjust to the game. Physical as a motherf***er. They don't call hand checks over there. It is a completely different game."
+
+---
+
 ## Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*
 
 Source: <a href="https://www.youtube.com/watch?v=9sw45DNpzcg" target="_blank" rel="noopener">https://www.youtube.com/watch?v=9sw45DNpzcg</a>
@@ -311,6 +324,30 @@ _Speakers identified: Michelle Beadle, Lou Williams, Chandler Parsons_
 
 ---
 
+## Knicks vs. Wemby or SGA in the NBA Finals Would Be BROADWAY 🎬🤯 — *7PM in Brooklyn*
+
+Source: <a href="https://www.youtube.com/watch?v=KSnOYFhM-K4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=KSnOYFhM-K4</a>
+
+_Speakers identified: Carmelo Anthony, The Kid Mero_
+
+**1. Carmelo Anthony — Carmelo Anthony on star power playing in the Garden Finals**
+<a href="https://www.youtube.com/watch?v=KSnOYFhM-K4&t=0s" target="_blank" rel="noopener">00:00</a>
+
+"The Garden is Broadway. Yes. It's meant for Conference Finals. It's meant for Finals. So now, when you get the star power coming into the Garden. Imagine **Wemby** on Broadway in the Finals. **SGA** on Broadway in the Finals. Now we talking some different level when it comes to sports."
+
+**2. Carmelo Anthony — Carmelo Anthony on watching the Knicks in the Finals**
+<a href="https://www.youtube.com/watch?v=KSnOYFhM-K4&t=19s" target="_blank" rel="noopener">00:19</a>
+
+**The Kid Mero:** "And **Melo** said he gonna be out there if they win the Eastern Conference, he gonna be out there with the sidetalk folks."
+
+**Carmelo Anthony:** "I'm outside with the beach chair, sitting at the front, having a watch party if we get to the Finals."
+
+**The Kid Mero:** "Say he's lying. Say he's lying."
+
+**Carmelo Anthony:** "I'm dead serious. I'm be right there on 7th Avenue crazies, beach chair. I'm not gonna be like **JR**. He was moving different. I'm gonna set a chair, sit there with the crazies. If I'm active in the Finals."
+
+---
+
 ## Reacting to Luka Doncic prefering to play with Austin Reaves over Giannis 🤯 — *To The Baha*
 
 Source: <a href="https://www.youtube.com/watch?v=RwwFVSkZGQk" target="_blank" rel="noopener">https://www.youtube.com/watch?v=RwwFVSkZGQk</a>
@@ -418,6 +455,133 @@ _Speakers identified: Matt Barnes, Darren Waller, Stephen Jackson_
 
 ---
 
+## The Detroit Pistons ‘ran out of gas’ in Game 7 against the Cavs - Vince Goodwill | Rich Eisen Show — *NBA on ESPN*
+
+Source: <a href="https://www.youtube.com/watch?v=d7d75rUJDg4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=d7d75rUJDg4</a>
+
+_Speakers identified: Tom Pelesero, Vincent Goodwill, Chris_
+
+**1. Vincent Goodwill — Team ran out of gas, lost superpower against Cavaliers**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=39s" target="_blank" rel="noopener">00:39</a>
+
+"Tom, I think you saw a team that ran out of gas last night. When you think about them being down 3-1 to the **Orlando Magic** and every game being an elimination game and playing every other day from that point on, the attrition of the playoffs came back to haunt them. In addition to the fact that simply they did not show up and all of their flaws came to bear. I always say this about them, their superpower is making sure that you cannot play your best game as an opponent. And they lost their superpower last night and that's why you were able to see the **Cleveland Cavaliers** play their best game almost from jump where they were just slower to the ball, they couldn't stop **James Harden** and **Donovan Mitchell** from getting to the lane, they couldn't stop the shooters from getting open shots. It was like Cinderella's slipper fell off."
+
+**2. Vincent Goodwill — Franchise needs sober offseason approach for roster around Cunningham**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=39s" target="_blank" rel="noopener">00:39</a>
+
+"But now I think it enables the franchise to walk into this offseason with a very clear and sober approach and not be seduced by what could have been a close Game 7 loss or something else that says, maybe we can bring the band back together. Now they really have to look at this roster around **Cade Cunningham** and probably **Ausar Thompson** as a second untouchable and figure out what pieces can we mix and match to make sure that we can elevate ourselves, not to beyond the 60-win range, but to be better prepared for playoff basketball this time next season."
+
+**3. Vincent Goodwill — Cavaliers' Eastern Conference Finals chances with star talent and high payroll**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=130s" target="_blank" rel="noopener">02:10</a>
+
+"You better be good in games 1 through 5 because I'm not sure what you're getting out of **James Harden** in games 6 and 7. History has told us that. That is a mystery bag that does not always yield positive results. But when you look at **Donovan Mitchell** and **James Harden** and then also the Twin Towers, **Evan Mobley** and **Jarrett Allen**, that's All-Star level talent at four of the five positions. In addition, this is the highest payroll in the NBA. They're the most expensive team in the league. We just think of the Cavs as being a small market and they don't have much of an identity beyond **LeBron James**, but there are expectations to be here and when you have two explosive players like Harden and Mitchell, it's going to be a much different series, I think, for the **New York Knicks** at least to start because you have two players that have to occupy **Jalen Brunson**, you have **Evan Mobley** who's a pretty dynamic big that they have not had to play in the first two series. This is going to be a styles make fights situation where neither team is truly prepared for what they're going to see based off of what they've had to deal with in the first two rounds."
+
+**4. Vincent Goodwill — Spurs and Thunder Western Conference Finals preview, discussing playoff pain**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=211s" target="_blank" rel="noopener">03:31</a>
+
+"Well, Tom, I think we all understand that when we made our MVP votes maybe five or six weeks ago at the end of the regular season, for one, the playoffs are long. But when you think about all of that, you think about **Shai Gilgeous-Alexander**, you think about his consistency, the 30-point streak, the 20-point streak, shooting over 50% from the field and 40 from three and everything else that he does. And then you look at the other side of **Victor Wembanyama**, and he's just this irresistible force. And you're wondering, do the Spurs have to go through some playoff pain? NBA history has told us for 40 years that you cannot go from being a non-playoff team to winning a championship without having some atrophy, without having some scar tissue."
+
+**5. Vincent Goodwill — NBA must address blatant flopping, not ignore subtle issues.**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=377s" target="_blank" rel="noopener">06:17</a>
+
+"Don't reward it. I'm glad we're going to see it because that lets us know that the NBA has allowed this to go too far out of hand and the league will have to address this in the offseason. Don't let it be done in the dark where **James Harden** doesn't get away with it and **Shai** doesn't get away with it and the league has to ignore the problem. As we've seen with tanking and some of the other things, the league does not address a problem if it's subtle. The league only addresses the problem when it's ugly and it's blatant."
+
+**6. Vincent Goodwill — Flopping on grand stage forces NBA to address it.**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=377s" target="_blank" rel="noopener">06:17</a>
+
+"And don't get me wrong, I don't want to see it. I don't want to see the acting job or the soap opera jobs that we see with guys knocking their neck back like they just got hit with a **Thomas Hitman Hearns** jab. But the fact is, it's not great basketball to watch and if it's going to be on the grand stage and that's the conversation that we keep having, that means that the league is going to have to address this over the summer and thank God."
+
+**7. Vincent Goodwill — Anthony Edwards' future with Timberwolves questioned due to supporting cast**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=682s" target="_blank" rel="noopener">11:22</a>
+
+"So, I'm sure being down 30 with eight minutes left, you find that real sobering and you're looking at your future and you're saying, can we get past these guys? Because they're only going to get better. And I got to sit my ass on the bench for the next eight minutes watching while **Rudy Gobert** and **Julius Randle**, the guys who can't help me get there, are sitting there. Let me shake these guys' hands. Let me bring attention to the fact that people think that I'm just this fun-loving guy that doesn't take winning seriously and now we have to have this very serious conversation about do the **Minnesota Timberwolves** have the requisite pieces around him? We've asked **Anthony Edwards** to take **Rudy Gobert**, who people don't think a lot of, **Karl-Anthony Towns**, who people did not think a lot of, and **Julius Randle**, who people don't know which **Julius Randle** you're going to get from day to day and he's had to carry various versions of those teams to the Western Conference Finals and now we're asking him to beat potentially two dynasties? Of course, he's going to say, no comment. That's for somebody else to answer and can you all really get me some help? Maybe **Giannis**?"
+
+**8. Vincent Goodwill — LeBron James' future role with Lakers and retirement considerations**
+<a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=855s" target="_blank" rel="noopener">14:15</a>
+
+"I'm a voter and I can tell you, I didn't vote him second. I'm not even sure if **Luka** was on my ballot, but I think the **Lakers** are such an interesting team because we've seen how **Luka Doncic** can be successful as the number one guy. If he's healthy, if he's focused. We saw him carry a **Dallas Mavericks** team to the **NBA** Finals. Can **LeBron James** at 41, 42 years old, be the number two, number three option? And in the way that you would need him to be a number two, number three option, he needs to be available, he needs to defend, he needs to shoot. I don't know if **LeBron James** is any one of those things at this point in his career and I don't know if that's necessarily the best thing for them, but I will say this, as a retired player, there's no better place to be as a retired **NBA** player than to be a former **Los Angeles Laker**. That will be your home for the rest of your career and I don't know if there's a better choice for **LeBron James** to make than that one."
+
+---
+
+## Is Series Sweep BAD in Playoffs?! Jalen & Josh Weigh In on Postseason Format & Embiid's Collapse — *Roommates Show*
+
+Source: <a href="https://www.youtube.com/watch?v=l7ioiOjD0e4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=l7ioiOjD0e4</a>
+
+_Speakers identified: Matt Hillman, Josh Hart, Jalen Brunson_
+
+**1. Josh Hart — Josh Hart complains about the long break after sweeping the series**
+<a href="https://www.youtube.com/watch?v=l7ioiOjD0e4&t=20s" target="_blank" rel="noopener">00:20</a>
+
+**Matt Hillman:** "You've had way too much time off between these series. You're bored as hell, aren't you?"
+
+**Josh Hart:** "I'm not gonna lie. A sweep is great, right? But dog, seven days minimum off, no games? That's torture. Torture. I'm over here just doing nothing. Hanging up art."
+
+**Matt Hillman:** "Just to feel something."
+
+**Josh Hart:** "Yeah, Adam. Come on, we got to lock in."
+
+**Matt Hillman:** "So basically what you're saying is you would have rathered like a seven-game battle?"
+
+**Josh Hart:** "That's not what I said. There's like an in-between there, buddy. I just don't like, there's too much time. We're in a good rhythm right now. **JB**'s passing the ball, getting off the rock. **KAT**'s passing the ball, not yelling at the refs."
+
+**2. Jalen Brunson — Jalen Brunson on Joel Embiid's impact and the series being weird**
+<a href="https://www.youtube.com/watch?v=l7ioiOjD0e4&t=249s" target="_blank" rel="noopener">04:09</a>
+
+**Matt Hillman:** "Did you feel that in Game 1? Were you like, hey, he's not really moving right? Like defensively this is an opportunity?"
+
+**Jalen Brunson:** "I felt like Game 1 was a wash. We were up 40 and I'm just thinking, like I said, it was an emotional win the game before, two days before, fly right to New York, prep for the next series in one day or whatever, and get ready to play. It's a quick turnaround, so I didn't think anything of it. And then, obviously him not playing Game 2, you just couldn't really tell. I don't know, the whole series is kind of weird. I feel like we were obviously playing great basketball, doing the things we had to do. It just was unexpected."
+
+**3. Josh Hart — Josh Hart on instilling doubt in opponents during close-out games**
+<a href="https://www.youtube.com/watch?v=l7ioiOjD0e4&t=411s" target="_blank" rel="noopener">06:51</a>
+
+"It's always tough in those close out games. I feel like your goal always is come out aggressive the beginning of the game, that first quarter, especially that first half and then you want doubt to kind of seep into the opponent. Like we're up 3-0, we're up 12 points in this game right now, this close out game. And then you want that doubt to start seeping in of like, okay, I don't know if we can come back from this one or this might be the end of the season and more that that doubt continues to seep in, it aids in your goal to close it out. I feel like that's something that we did very well the last two close out games was punch them at the beginning of the game and just keep punching."
+
+---
+
+## Jaylen Brown says f**k Stephen A Smith & he'll stop streaming if SAS retires 😳 — *Chaz NBA*
+
+Source: <a href="https://www.youtube.com/watch?v=qEjOFyj7D5w" target="_blank" rel="noopener">https://www.youtube.com/watch?v=qEjOFyj7D5w</a>
+
+_Speakers identified: Jaylen Brown, Stephen A. Smith, Carmelo Anthony, _
+
+**1. Jaylen Brown — Jaylen Brown questions Stephen A. Smith's journalism on Jayson Tatum**
+<a href="https://www.youtube.com/watch?v=qEjOFyj7D5w&t=26s" target="_blank" rel="noopener">0:26</a>
+
+"Let's pause right there. What type of journalism is this? **Jayson Tatum** hasn't been on my stream and this is what we're talking about on First Take? What if JT just don't like being somewhere in an uncontrolled environment? Why are you doing journalism on me having guests on my stream? And this is the part of the reason why I started streaming. This is a part of the reason why people use the term clown and it synchronizes with someone like **Stephen A. Smith**. Because this is what you're using your platform for. What are you talking about?"
+
+**2. Jaylen Brown — Jaylen Brown criticizes Stephen A. Smith's narrative about his favorite season.**
+<a href="https://www.youtube.com/watch?v=qEjOFyj7D5w&t=149s" target="_blank" rel="noopener">02:29</a>
+
+"This is a narrative that he's creating. This is in journalism. This is him making his own opinion and formulizing it about what I had to say on his platform. And this is why respectfully a lot of people say f**k **Stephen A.** because this is the type of stuff he does and then he doesn't recognize it. But he's creating a narrative saying that the reason why I'm saying that I had my favorite season is because selfishly I had a best performing year."
+
+**3. Jaylen Brown — Jaylen Brown explains his favorite season, criticizing Stephen A. Smith's understanding.**
+<a href="https://www.youtube.com/watch?v=qEjOFyj7D5w&t=149s" target="_blank" rel="noopener">02:29</a>
+
+"Not the fact that we out-proved expectations, not the fact that everybody expected us to be nothing and we had to fight and we showed up and we competed every single day and we had to fight for every victory. Not the joy of watching our teammates grow or not the joy of watching guys who are unproven start to solidify themselves as well through leadership, through chemistry. He maybe doesn't understand that because maybe he's never had to fight for nothing in his life. Maybe anytime adversity has hit, he's rolled over or he's gave in. So he thinks it's the same thing as somebody who has little to no expectation and they stood up and they made a name for themselves. He may not understand that concept and that's why he's pushing his narrative. But once again, this is what **Stephen A.** is using his platform for."
+
+**4. Jaylen Brown — Jaylen Brown offers to stop streaming if Stephen A. Smith retires**
+<a href="https://www.youtube.com/watch?v=qEjOFyj7D5w&t=242s" target="_blank" rel="noopener">4:02</a>
+
+"Let me stop right there. He just said I needed to be quiet? Be quiet for who? Man, f**k Stephen A. Stephen A, Stephen B, Stephen C, my offer still stands. You want me to be quiet and stop streaming? Well, I want you to be quiet and get off your and get off these networks because you're not using your platform to do real journalism. You're using your platform to use clickbait, using your platform to, let's go back and let's use example A. You're talking about JT not coming on my stream and this is the journalism that you're referencing."
+
+**5. Carmelo Anthony — Carmelo Anthony on streaming as the new press conference for athletes**
+<a href="https://www.youtube.com/watch?v=qEjOFyj7D5w&t=357s" target="_blank" rel="noopener">5:57</a>
+
+**Carmelo Anthony:** "give a press conference to a company. Right? When I'm my own IP, I can go do my own press conference. I can go do my own. Streaming is the new press conference. Right? Nobody want to sit in the room no more and answer questions on five, six, seven reporters. They want to get to the nitty-gritty of it and face it face-to-face with your followers and the people who's actually watching. Because they're the ones who really going to ask the real questions. So if I get my message to you, then I get my message to everybody else."
+
+"Mhm. Right."
+
+"Yeah."
+
+"Mhm."
+
+**6. Jaylen Brown — Jaylen Brown explains why he streams to fulfill media obligations**
+<a href="https://www.youtube.com/watch?v=qEjOFyj7D5w&t=548s" target="_blank" rel="noopener">9:08</a>
+
+"But the fact is that as an athlete, I'm obligated to speak to the media. It's my job. Like he thinks the media is his job, it's my job too. It's in my contract. If I do not speak to the media, then I will be fined. So when they use that comparison where it's my job, it's your job to play basketball. It's also my job to speak to the media. So me, my thought process, how do I work around that? I'm going to do it on my terms. If I got to talk to y'all, I'm going to do it on my terms. If y'all want to hear my takes, this is how y'all going to hear them. Because if I give them these takes to these other media, they going to try to build a narrative against me or turn it into something that I don't even it's get weird, bro. What are y'all talking about? But when they run with this media, then when they run with this narrative, they're going to be like, it's Stephen A's job and it's **Kendrick Perkins**' job and my job to talk to the media. It ain't your job to be a clown. It ain't."
+
+---
+
 ## FULL Western Conference Finals Preview - All-Time Series Brewing? — *NBA on ESPN*
 
 Source: <a href="https://www.youtube.com/watch?v=qcLD93lqYX0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=qcLD93lqYX0</a>
@@ -490,6 +654,146 @@ _Speakers identified: Paul Pierce, Wosny Lambre, Danny Green_
 <a href="https://www.youtube.com/watch?v=qw2sHcA6d0E&t=2250s" target="_blank" rel="noopener">37:30</a>
 
 "**OKC** can't say that about **San Antonio** because they beat them four or five. So they put a little chink in their little armor and they create when you beat a team like that in the regular season, you create doubt. **OKC**, they know they're good. They know they're the defending champs. They know they got the **MVP**. But I'll tell you, they like, they know this is going to be an uphill climb to beat **San Antonio**. I promise you that. They feel like they can beat them, but they're not sure."
+
+---
+
+## Kendrick Perkins Says Lakers Need A Culture Reset!? #Lakers #LeBron #lukadoncic #nba — *Road Trippin*
+
+Source: <a href="https://www.youtube.com/watch?v=xCQimB2n1sc" target="_blank" rel="noopener">https://www.youtube.com/watch?v=xCQimB2n1sc</a>
+
+_Speakers identified: Kendrick Perkins, Rob Pelinka, Channing Frye_
+
+**1. Kendrick Perkins — Kendrick Perkins on Rob Pelinka's lack of accountability and Lakers' championship expectation**
+<a href="https://www.youtube.com/watch?v=xCQimB2n1sc&t=0s" target="_blank" rel="noopener">00:00</a>
+
+"For too long, **Rob Pelinka** has had to answer to no one. And I love **Rob Pelinka**, but let's just keep it a book. **Rob Pelinka** got the job when he first got it because of **Kobe**. Let's just be real. Since then, yes, one NBA championship, but **Rob Pelinka** has not been too powerful over the last three, four years. I can't really give him credit for the **Luka** trade because that was something that was gift wrapped to him. It's time for him to put his fingerprints on this franchise. It's not about putting butts in the seats, it's not about selling jerseys, it's not about selling tickets. It's championships or bust. Every season, the fans come in with the expectation of winning a championship. That's what they need to get back to. If **Kobe Bryant**, God rest his soul, was here, his expectations for the Lakers would still be win championships."
+
+**2. Kendrick Perkins — Kendrick Perkins argues Lakers culture is only about championships**
+<a href="https://www.youtube.com/watch?v=xCQimB2n1sc&t=56s" target="_blank" rel="noopener">00:56</a>
+
+**Channing Frye:** "**Rob** also is doing things now that are putting the Lakers in a position to have a sense of culture. What is a Lakers guy now?"
+
+**Kendrick Perkins:** "The only thing cultural is championships. Don't come talk about building no culture."
+
+**Channing Frye:** "They want to win. They have to build a culture to win. You have to."
+
+**Kendrick Perkins:** "No, you got to get the personnel in there to win. **Wembanyama**, **OKC**, **Minnesota**, none of them are going anywhere."
+
+**Channing Frye:** "You just named the three best cultures in the NBA."
+
+**Kendrick Perkins:** "What are you talking about?"
+
+---
+
+## Have Nuggets, Celtics, Wolves, 76ers Expired? LeBron's Future + More  | ALL NBA PODCAST — *ALL NBA Podcast*
+
+Source: <a href="https://www.youtube.com/watch?v=z57TqczbTeM" target="_blank" rel="noopener">https://www.youtube.com/watch?v=z57TqczbTeM</a>
+
+_Speakers identified: Adam Mares, Mark Stein_
+
+**1. Adam Mares — Cavaliers' playoff success, Donovan Mitchell's show, and statement Game 7**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=149s" target="_blank" rel="noopener">02:29</a>
+
+"I think it still goes down as a success because they won a playoff series, which is something they hadn't done since 2008. But this was the number one seed. They went down 3-1 to Orlando. They went down 3-2 in this series. Now they forced a Game 7 with an amazing win on the road. But they clearly had nothing left, and **Donovan Mitchell** has put on a show. And this Cavs team that have really been under the microscope and have been just crushed all season and postseason long. This is quite a statement Game 7 from the Cavs."
+
+**2. Adam Mares — Pistons' playoff run, identified weaknesses, and pragmatic future approach**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=149s" target="_blank" rel="noopener">02:29</a>
+
+"At least the Pistons can say, we're young. We didn't make a move at the trade deadline beyond bringing in **Kevin Huerter**. They really took the Oklahoma City approach from two years ago. They wanted to give this group a playoff run, and some clear holes were identified and exposed. They need more shooting. **Duren** did not play anywhere near his regular season level. The guy's probably going to end up on an All-NBA team because of all the injuries in this league this year. We very rarely saw All-NBA play from him in these playoffs. So the Pistons certainly have questions, but the questions that the Cavs avoid by winning this game so handily, or at least putting on the shelf for one more round. Had the Cavs lost this Game 7 after taking a 3-2 lead and being able to close this thing out at home, it would have been really uncomfortable for them immediately, like seconds after the buzzer. The Pistons can take a little bit more of a pragmatic approach, even though it is a disappointment. This was a spot in the Eastern Conference Finals up for grabs for both of these teams, really, up for grabs. This was a coin flip series."
+
+**3. Adam Mares — New CBAs make teams rise and fall faster**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=307s" target="_blank" rel="noopener">05:07</a>
+
+"I'm spending a lot of time trying to figure out just the direction of the league and what these new CBAs and lottery reform and all that means about long-term contention. It just feels to me, maybe it's because of my perspective in Denver, but it feels to me like teams are rising and falling faster than ever. You could pop up out of nowhere quick, and you could fall and crash to the ground faster than ever."
+
+**4. Adam Mares — Pistons' run mirrors Nuggets; Cade Cunningham's future contention uncertain**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=307s" target="_blank" rel="noopener">05:07</a>
+
+"This Pistons run reminds me in many ways of the Nuggets' first run back in 2019. They beat a not very good Spurs team in Round 1, but it took seven games. And they went to a not very good, but okay, Portland team, and it went seven games, and they lost Game 7 on their home court. So very much mirrors what the Pistons have done. But why I bring it up is, when I talk about rising and falling, I know everybody tries to look at this like arc. You have a great player in Cade, let's extend this for 10 years. But I almost wonder if it's, they might look back on this and say, what are the chances? How many Conference Finals is **Cade Cunningham** going to make in the next five seasons? **Cade Cunningham** and the Pistons, I should say. I would set the line at one, like it's so hard to do. So if you had a chance now where you made it to a Game 7, I just think we'll look back at this three years from now and say, that was not a first year, take your time, he's into it. It was, if you're open, go for it, because you never know when you're going to fall out of contention in this new CBA."
+
+**5. Mark Stein — Pistons' missed opportunity in wide-open East despite flexibility**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=398s" target="_blank" rel="noopener">06:38</a>
+
+"I'm with you, and look, I think if you go back and look at our shows from February, I'm pretty sure I said I wish the **Pistons** would have been more aggressive because this East is so wide open. And in a way, it's been even more wide open than we anticipated because the way the **Celtics** finished the regular season, we thought, wow, okay, the **Celtics** have, they got **Jayson Tatum** back. They've now filled the void in a conference where we're struggling to pinpoint teams that we think can get to the Finals and give either the **Thunder** or a **Spurs** a good series. But the **Pistons** are still in the East, and unlike that's something that your **Nuggets** cannot say. And they do still have a lot of flexibility to make moves. They have not, they still have wiggle room, they still have financial flexibility, they still have draft chips to move around."
+
+**6. Mark Stein — Nuggets' lack of flexibility after going all in for Jokic**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=398s" target="_blank" rel="noopener">06:38</a>
+
+"So, whereas, if you want to compare this to **Denver**, which is obviously the team I think you know the best and that you're closest to, the **Nuggets** have just been going all in, all in, all in to just try to get as good a team around **Nikola Jokic** as they could. They won one, but now the **Nuggets** are definitely on that list of teams that they know their supporting cast isn't good enough, but they're lacking the flexibility to really change it. **Detroit** does have that."
+
+**7. Adam Mares — Cade Cunningham's elite talent makes him a franchise cornerstone for Pistons.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=560s" target="_blank" rel="noopener">09:20</a>
+
+"I think the two votes are well deserved, in my opinion. I think **Cade Cunningham** is appreciated quite a bit, but I just walk away from this thinking that that is one of the few guys I feel like you can build an entire roster around. He's that good. And for Pistons fans, I do think they have a lot of excitement going forward. I don't think that they've hurt themselves or anything like that. It's just, I do think every team is going to look back after a three or four-year run with a core and say, man, that ended quicker than we thought because this new CBA just seems to have everybody on the run."
+
+**8. Mark Stein — Duren's playoff struggles complicate his max contract negotiations with Detroit.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=560s" target="_blank" rel="noopener">09:20</a>
+
+**Adam Mares:** "Speaking of the new CBA, though, I am so curious what you are hearing about how you evaluate **Duren** after this playoffs because what a great year he had, improvement all around, but I don't think you can overstate how bad he was in this playoffs, or I should just say how ineffective he was in these playoffs. So what are people saying?"
+
+**Mark Stein:** "Especially because at the end of the regular season, people are saying, you got to max this guy. You got to give him a huge max. And again, we saw very little of that All-NBA level in this series. So yes, that's one of the difficult decisions that Detroit is going to face. What are those negotiations with **Duren** going to look like? And so even though obviously you wouldn't say that Detroit wanted things to turn out this way, because obviously they wanted to go, they wanted to win this series and go to the Conference Finals. But you do wonder if for the long term, the money saved, the money that they presumably would be able to save now, I wonder if that does end up helping them in the long term, because if you max **Duren**, that obviously changes your flexibility equation."
+
+**9. Mark Stein — Donovan Mitchell's huge moment, but Knicks are East favorites**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=4800s" target="_blank" rel="noopener">01:20:00</a>
+
+"First trip to the Conference Finals without **LeBron James** since 1992, long before the days that podcasts were possible. So yeah, the Game 5 performance, especially this performance, **Donovan Mitchell** having never been to a Conference Finals, this is a huge moment for him. I still think the Cavs, honestly, are going to face the questions that they, unless, the Knicks to me have established themselves as deserved favorites in the East now. I think the Knicks win the next round. Will the Cavs be able to play freer in that series because they were so close to elimination in this one? Possibly."
+
+**10. Mark Stein — Cavs' financial inflexibility and Donovan Mitchell's contract extension**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=4800s" target="_blank" rel="noopener">01:20:00</a>
+
+"But just remember, **Donovan Mitchell** has a similar contract to **Giannis Antetokounmpo**, and he's contract extension eligible in July. If the Cavs don't get him signed to an extension, does that mean they start listening to trade offers for him? Their finances, they have, they're the only second apron team in the league. So they're going to have to do something to loosen that up. And when they made the trade for **James Harden** at the trade deadline, it was instantly presumed around the league that he's getting a multi-year deal. Now that multi-year deal should come in at a lower annual number than the $39 million that Harden made this season. But the Cavs don't have financial flexibility. They don't have a lot of picks to make changes. Teams have been trying to get **Jarrett Allen** off them for a long time. Will they finally cave there?"
+
+**11. Mark Stein — Donovan Mitchell's monster win, but Cavs face heavy criticism**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=4800s" target="_blank" rel="noopener">01:20:00</a>
+
+"So, this was a huge step. I don't want to diminish it because **Donovan Mitchell** has had to hear over and over again about how he's never been to the Conference Finals, and he was great tonight. 15 points in that third quarter, even though he was racking up five fouls along the way. This is a monster win for the Cavs to do this on the road. But I would just say they, again, Detroit is a younger team, younger in its evolution with a lot more flexibility. The Cavs have to get something done this spring. They have, if the Knicks beat them 4-1 or a sweep, Cleveland is right back in the position where we are criticizing them heavily."
+
+**12. Adam Mares — Cavs' expensive roster and playoff success against peaking Knicks**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=5100s" target="_blank" rel="noopener">01:25:00</a>
+
+"Really? That's one of the questions I wanted to ask you: does this just constitute a success because this is a big win? They knocked off the one seed. You're in the Conference Finals. But you still, I mean, the **Knicks** are playing unbelievable basketball, man. In this playoffs, they have really reached their peak. And you're saying if they fall to that, it's throw it all out the window. You're still the most expensive roster."
+
+**13. Mark Stein — Cleveland's murky financial future and Donovan Mitchell's contract demands**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=5100s" target="_blank" rel="noopener">01:25:00</a>
+
+"If it's a lopsided series. Now, if they take the **Knicks** six, seven, or if the **Cavs** go to the Finals, I'll be the first one to hat tip them because I think the **Knicks** are going to win that series. Cleveland's future is murky because of the finances. They are so expensive. It's tough. You're living this in **Denver**. When you are expensive and you want to change things around, it's really hard to do that. I do not want to rain on the **Cavs**' parade. This is a tremendous moment for them because I thought **Detroit** had reclaimed momentum in the series. Great win for the **Cavs**. Huge individual moment for **Donovan Mitchell**. **Donovan Mitchell**'s going to be wanting a monster deal if you extend him, and he's almost 30 now. So, there's a lot of question marks still in Cleveland, as great a night as this is for them."
+
+**14. Mark Stein — Will Cavs' second apron spending influence other teams?**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=5100s" target="_blank" rel="noopener">01:25:00</a>
+
+"Another thing I wanted to ask you was, they are the most expensive roster. They're a second apron team, and I feel like all these owners and general managers are looking around and trying to understand, how bad is it if we go in the second round? Is it ever worth it? And I just wonder if you think it'll influence other teams to maybe look around and say, 'You know what, it worked for them, maybe it works for us. Let's spend and go in the second apron, even though we know all the penalties, you lose.'"
+
+**15. Adam Mares — Indiana's Ivica Zubac trade explained by his valuable contract**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=5100s" target="_blank" rel="noopener">01:25:00</a>
+
+"No. Honestly, look at **Indiana**. The **Pacers** have caught so much hell for what they did with their first round pick and trading it for **Ivica Zubac**. That pick falls out of the top four. Now you look at it, and you're like, 'Oh my God, **Indiana** gave up number five in this draft, a 2029 unprotected first, and **Benedict Mathurin**, all of that for **Ivica Zubac**. Oh my God, this is so terrible. Why did they do this?' You can certainly make that case, and it's a defensible case. The **Clippers** are going to get somebody really good at number five, and it might be painful. But the reason **Indiana** ultimately did it was because **Ivica Zubac** is a borderline All-Star, might be an All-Star center in the East, but he's only making $21 million. That kind of contract is so valuable for a player that productive at that number. **Indy**'s calculus was, 'We got to give all this up now because if we wait till summer, there might be a bidding war for **Ivica Zubac**, and we might lose it.'"
+
+**16. Adam Mares — Nuggets, Wolves, Celtics, Sixers facing ceiling due to second apron.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=6360s" target="_blank" rel="noopener">01:46:00</a>
+
+"The second apron is really a hard cap. It's not really a hard cap, but it really allows the owners to treat it as this hard cap. We can't do that. It's too risky. And it's just unfortunate, man. Let's talk about the teams that have expired here. So I think if we step back and look, the **Nuggets**, the **Timberwolves**, the **Celtics**, and the **76ers**. If you're those four teams, you all considered yourself, with the **76ers**, I think were tough because the health factor was such a variable for them, but the others, I think have been in this plateau where they've been up here, near the top or even at the top in some cases, and they've been hovering around. But I wonder if they all four of those teams, in your opinion, and just from what you're hearing around, do all four of those teams kind of feel like the ride is over? Not that they'll be bad if they run it back and stick to the formula, but that it's now looking more and more clear like their ceiling is not quite at the same level as the top teams in the NBA now."
+
+**17. Mark Stein — Western teams like Nuggets, Wolves struggle to refresh rosters.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=6360s" target="_blank" rel="noopener">01:46:00</a>
+
+"I have to point you again to the NBA map. When you are in the West, that landscape looks a lot more bleak. And that's why the **Nuggets** and the **Wolves**, who I think most people would say have been the best recent rivalry we've seen in this league, that came from nowhere. These two teams from the same division that met in the playoffs multiple times. Playoff series have been great between these teams. There's a real rivalry and animosity there. But again, the **Wolves** have **Anthony Edwards**, and the **Nuggets** have **Nikola Jokic**. But the moves you need to make to refresh their supporting casts are so much harder because of the financial situations those teams are in."
+
+**18. Mark Stein — Celtics can recharge easily in East with one trade.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=6360s" target="_blank" rel="noopener">01:46:00</a>
+
+"And whereas the **Celtics**, as inventive and bold as **Brad Stevens** has been, I just think somehow they're going to find a way to recharge themselves with a trade. And again, they're in the East. One move can move you up the ladder a lot quicker in the East than in the West. That is just reality."
+
+**19. Mark Stein — Joel Embiid's injury and contract make trade market impossible.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=7920s" target="_blank" rel="noopener">02:12:00</a>
+
+**Adam Mares:** "What do you anticipate the conversation being with **Joel Embiid** this offseason? Because I think it's actually interesting with him."
+
+**Mark Stein:** "I realistically there is no conversation. I just don't think. There's no market because of his injury. The contract, 50 plus million. Oh, 60. It's just, I don't even think you can really, I can't imagine what sort of trade you could really assemble there."
+
+**20. Mark Stein — Paul George's contract situation makes him more tradable than Embiid.**
+<a href="https://www.youtube.com/watch?v=z57TqczbTeM&t=7920s" target="_blank" rel="noopener">02:12:00</a>
+
+"**Paul George**, honestly, is much more tradable, I think, than **Joel Embiid**. He's in the same contract situation as **Trae Young** was this past season. But the difference again is, **Trae Young** is much younger. **Paul George** is 36. But **Paul George** only has one year left on his deal guaranteed, then a player option. So I wouldn't promise it, but let's see, possibly could a trade market emerge there? I would just say I think there's a better chance than a trade market emerging for **Joel Embiid**."
 
 ---
 

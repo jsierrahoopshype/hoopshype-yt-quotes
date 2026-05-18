@@ -4,15 +4,22 @@
 
 - [Stephen A. responds to Jaylen Brown’s comments: Be careful what you wish for… 😬 | First Take — *NBA on ESPN*](2026-05-18/162xX4-b0Yg.md)
 - [Wemby PROVED He's Ready for the Moment?? + Spurs-Thunder Predictions — *Run It Back*](2026-05-18/3thO9bwAKYc.md)
+- [Chandler Parsons says he was GARBAGE when he went to the Euroleague 😭 — *Out The Mud*](2026-05-18/435bHcN1w9Q.md)
 - [Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*](2026-05-18/9sw45DNpzcg.md)
 - [Harden Trade a SUCCESS with Cavs Making Conference Finals?? + Knicks-Cavs Predictions — *Run It Back*](2026-05-18/CHwFyiaauDc.md)
+- [Knicks vs. Wemby or SGA in the NBA Finals Would Be BROADWAY 🎬🤯 — *7PM in Brooklyn*](2026-05-18/KSnOYFhM-K4.md)
 - [Shai goes BACK to BACK MVPs, Donovan reaches his FIRST conference finals, Pat Bev & Jennings BEEF — *To The Baha*](2026-05-18/LbLz0_B7vKo.md)
 - [Young Kiyan Drank PRE-WORKOUT Accidentally at the Knicks Facility 😭😵‍💫 — *7PM in Brooklyn*](2026-05-18/LoF7hfsCMrg.md)
 - [Reacting to Luka Doncic prefering to play with Austin Reaves over Giannis 🤯 — *To The Baha*](2026-05-18/RwwFVSkZGQk.md)
 - [Darren Waller’s dream offense is a nightmare for any defender 😳🔥 — *All The Smoke*](2026-05-18/TNotAIzhHPs.md)
+- [The Detroit Pistons ‘ran out of gas’ in Game 7 against the Cavs - Vince Goodwill | Rich Eisen Show — *NBA on ESPN*](2026-05-18/d7d75rUJDg4.md)
 - [HoopsHype YT Quotes — 2026-05-18](2026-05-18/digest.md)
+- [Is Series Sweep BAD in Playoffs?! Jalen & Josh Weigh In on Postseason Format & Embiid's Collapse — *Roommates Show*](2026-05-18/l7ioiOjD0e4.md)
+- [Jaylen Brown says f**k Stephen A Smith & he'll stop streaming if SAS retires 😳 — *Chaz NBA*](2026-05-18/qEjOFyj7D5w.md)
 - [FULL Western Conference Finals Preview - All-Time Series Brewing? — *NBA on ESPN*](2026-05-18/qcLD93lqYX0.md)
 - [Spida Mitchell CRUSHES Pistons, Cavs Move On To ECF + Detroit's Offseason | Spurs & OKC Kickoff WCF — *No Fouls Given*](2026-05-18/qw2sHcA6d0E.md)
+- [Kendrick Perkins Says Lakers Need A Culture Reset!? #Lakers #LeBron #lukadoncic #nba — *Road Trippin*](2026-05-18/xCQimB2n1sc.md)
+- [Have Nuggets, Celtics, Wolves, 76ers Expired? LeBron's Future + More  | ALL NBA PODCAST — *ALL NBA Podcast*](2026-05-18/z57TqczbTeM.md)
 ## 2026-05-17
 
 - [The WILD CAR accident that ended Chandler Parsons’ career — *Out The Mud*](2026-05-17/1-yDI1XlmSI.md)
@@ -26,6 +33,7 @@
 - [Penny Hardaway would be 1-2 with Micahel Jordan if... — *Run It Back*](2026-05-17/fM3_PneqYTw.md)
 - [Lakers SWEPT + Will Thunder Go UNDEFEATED In Playoffs?!? [Reupload] — *Run It Back*](2026-05-17/h2dxbfv5ESs.md)
 - [ESPN’s Kendrick Perkins Addresses Luka Doncic Joel Embiid Comparison #NBA #lukadoncic #lakers — *Road Trippin*](2026-05-17/oqop8HY9S0o.md)
+- [LeBron FEELS DISRESPECTED by Lakers? Spurs & Wemby Scaring the NBA | Finding The Seams — *UnitedWeCast*](2026-05-17/xIym7ke6xq8.md)
 - [Perk ADMITS He Was WRONG About Luka & Embiid Comparison — *Road Trippin*](2026-05-17/z2Y1iSKyVDw.md)
 ## 2026-05-16
 
