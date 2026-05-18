@@ -198,6 +198,29 @@ def video_id_from_url(url: str) -> str:
     return m.group(1) if m else ""
 
 
+def _extract_one_off_video_id(token: str) -> str:
+    """Pull an 11-char YouTube video ID from a watch / youtu.be / shorts /
+    embed URL, or from a bare 11-char ID. Returns '' on no match.
+    """
+    token = (token or "").strip()
+    if not token:
+        return ""
+    if re.fullmatch(r"[A-Za-z0-9_-]{11}", token):
+        return token
+    return video_id_from_url(token)
+
+
+def _parse_extra_videos_env(raw: str) -> list:
+    """Split EXTRA_VIDEOS on commas AND newlines, strip whitespace, drop
+    empty tokens. Returns the list of raw input tokens for downstream
+    parsing/error reporting.
+    """
+    if not raw:
+        return []
+    tokens = re.split(r"[,\n\r]+", raw)
+    return [t.strip() for t in tokens if t.strip()]
+
+
 def load_config() -> dict:
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -1270,11 +1293,71 @@ def main() -> int:
         log("Daily quota resets at midnight Pacific Time. Increase quota or wait.")
         return 2
 
-    # Step 3: filter and queue.
-    queued = []
+    # Step 2.5: one-off queue from EXTRA_VIDEOS env (workflow_dispatch input).
+    # These bypass ALL standard filters — duration min, age cutoff, skip
+    # keywords, and the already-processed check — because the user
+    # explicitly requested them. The hallucination guard, splitter, retry
+    # logic, and per-video timeout still apply normally.
+    extra_queue = []
+    extra_ids_set = set()
+    extra_raw = os.getenv("EXTRA_VIDEOS", "")
+    extra_tokens = _parse_extra_videos_env(extra_raw)
+    if extra_tokens:
+        log(f"One-off input: {len(extra_tokens)} token(s) from EXTRA_VIDEOS")
+        seen = set()
+        ids_to_fetch = []
+        for token in extra_tokens:
+            vid = _extract_one_off_video_id(token)
+            if not vid:
+                log(f"  [oneoff] skip {token!r}: could not parse video ID")
+                continue
+            if vid in seen:
+                log(f"  [oneoff] skip {token!r}: duplicate of earlier one-off ID")
+                continue
+            seen.add(vid)
+            ids_to_fetch.append(vid)
+        if ids_to_fetch:
+            try:
+                extra_meta = hydrate_video_metadata(ids_to_fetch, yt_key)
+            except QuotaExceeded as e:
+                log(f"ERROR: YouTube Data API quota exceeded: {e}")
+                log("Daily quota resets at midnight Pacific Time. Increase quota or wait.")
+                return 2
+            except Exception as e:
+                log(f"  [oneoff] metadata fetch failed: {e}")
+                extra_meta = {}
+            for vid in ids_to_fetch:
+                m = extra_meta.get(vid)
+                if not m:
+                    log(f"  [oneoff] skip {vid}: no metadata returned (private/deleted/invalid?)")
+                    continue
+                channel_title = m.get("channel_title") or "(one-off)"
+                synthetic_channel = {
+                    "name": channel_title,
+                    "channel_id": "",
+                    "bypass_filters": True,
+                    "active": True,
+                    "known_speakers": [],
+                }
+                video = {
+                    "video_id": vid,
+                    "url": WATCH_URL_TEMPLATE.format(video_id=vid),
+                    "title": m.get("title", ""),
+                    "duration": m.get("duration", 0),
+                    "published": m.get("published_at", ""),
+                }
+                extra_queue.append((synthetic_channel, video))
+                extra_ids_set.add(vid)
+                log(f"  [oneoff] queued {vid} ({video['title'][:60]}) from {channel_title}")
+
+    # Step 3: filter and queue the channel rotation.
+    rotation_queue = []
     per_channel_count = {}
     for channel, vid in candidates:
         name = channel.get("name", "?")
+        if vid in extra_ids_set:
+            log(f"  [{name}] skip {vid}: also requested as one-off (processing once)")
+            continue
         m = meta.get(vid)
         if not m:
             log(f"  [{name}] skip {vid}: no metadata returned")
@@ -1293,8 +1376,11 @@ def main() -> int:
         if reason:
             log(f"  [{name}] skip {vid} ({video['title'][:60]}): {reason}")
             continue
-        queued.append((channel, video))
+        rotation_queue.append((channel, video))
         per_channel_count[cap_key] = per_channel_count.get(cap_key, 0) + 1
+
+    # One-offs go first so they grab the first parallel slots.
+    queued = extra_queue + rotation_queue
 
     if not queued:
         log("Nothing new to process.")
@@ -1345,7 +1431,14 @@ def main() -> int:
             digest_dates.append(pd)
 
     if processed_items:
-        slack_notify.post_digest(processed_items, today, digest_dates=digest_dates)
+        # Count one-offs that successfully processed (subset of processed_items).
+        one_off_count = sum(1 for it in processed_items if it.get("video_id") in extra_ids_set)
+        slack_notify.post_digest(
+            processed_items,
+            today,
+            digest_dates=digest_dates,
+            one_off_count=one_off_count,
+        )
     else:
         slack_notify.post_no_new_videos(today)
 

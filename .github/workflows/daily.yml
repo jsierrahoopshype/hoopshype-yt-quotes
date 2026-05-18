@@ -5,6 +5,11 @@ on:
     - cron: '0 14 * * *'  # 14:00 UTC — 10am ET, 4pm Madrid (summer)
     - cron: '0 20 * * *'  # 20:00 UTC — 4pm ET, 10pm Madrid (summer)
   workflow_dispatch:
+    inputs:
+      extra_videos:
+        description: "Optional: YouTube URLs to also process (one per line or comma-separated)"
+        required: false
+        type: string
 jobs:
   extract:
     runs-on: ubuntu-latest
@@ -26,6 +31,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           OUTPUT_BASE_URL: ${{ secrets.OUTPUT_BASE_URL }}
+          EXTRA_VIDEOS: ${{ inputs.extra_videos }}
         run: python quote_extractor.py
       - name: Mirror output/ into docs/ for GitHub Pages
         if: always()

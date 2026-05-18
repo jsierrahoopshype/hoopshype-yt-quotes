@@ -64,7 +64,7 @@ def post_no_new_videos(date_str: str) -> bool:
     return _post({"text": f"HoopsHype YT Quotes — {date_str}: No new videos today."})
 
 
-def post_digest(items: list, date_str: str, digest_dates=None) -> bool:
+def post_digest(items: list, date_str: str, digest_dates=None, one_off_count: int = 0) -> bool:
     """Post a digest to Slack.
 
     items is a list of dicts with keys: video_id, title, channel,
@@ -76,6 +76,10 @@ def post_digest(items: list, date_str: str, digest_dates=None) -> bool:
     emit as digest URLs at the top of the message (one per line). When None,
     the unique publish dates from items are used. A run that processes one
     same-day video and one 4-day-old video produces two digest URLs.
+
+    one_off_count is the number of items in this digest that came from the
+    workflow_dispatch EXTRA_VIDEOS input (vs. the normal channel rotation).
+    When > 0, the summary line breaks down the count.
     """
     if not items:
         return post_no_new_videos(date_str)
@@ -85,9 +89,17 @@ def post_digest(items: list, date_str: str, digest_dates=None) -> bool:
 
     n = len(items)
     plural = "s" if n != 1 else ""
+    if one_off_count > 0:
+        rotation = n - one_off_count
+        summary_line = (
+            f"Processed {n} video{plural} "
+            f"({rotation} from rotation, {one_off_count} one-off)."
+        )
+    else:
+        summary_line = f"Processed {n} video{plural}."
     lines = [
         f"*HoopsHype YT Quotes — {date_str}*",
-        f"Processed {n} video{plural}.",
+        summary_line,
     ]
     for d in digest_dates:
         lines.append(_digest_link(d))
