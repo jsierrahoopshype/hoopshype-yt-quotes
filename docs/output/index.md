@@ -2,8 +2,17 @@
 
 ## 2026-05-18
 
+- [Stephen A. responds to Jaylen Brown’s comments: Be careful what you wish for… 😬 | First Take — *NBA on ESPN*](2026-05-18/162xX4-b0Yg.md)
+- [Wemby PROVED He's Ready for the Moment?? + Spurs-Thunder Predictions — *Run It Back*](2026-05-18/3thO9bwAKYc.md)
 - [Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*](2026-05-18/9sw45DNpzcg.md)
+- [Harden Trade a SUCCESS with Cavs Making Conference Finals?? + Knicks-Cavs Predictions — *Run It Back*](2026-05-18/CHwFyiaauDc.md)
+- [Shai goes BACK to BACK MVPs, Donovan reaches his FIRST conference finals, Pat Bev & Jennings BEEF — *To The Baha*](2026-05-18/LbLz0_B7vKo.md)
+- [Young Kiyan Drank PRE-WORKOUT Accidentally at the Knicks Facility 😭😵‍💫 — *7PM in Brooklyn*](2026-05-18/LoF7hfsCMrg.md)
 - [Reacting to Luka Doncic prefering to play with Austin Reaves over Giannis 🤯 — *To The Baha*](2026-05-18/RwwFVSkZGQk.md)
+- [Darren Waller’s dream offense is a nightmare for any defender 😳🔥 — *All The Smoke*](2026-05-18/TNotAIzhHPs.md)
+- [HoopsHype YT Quotes — 2026-05-18](2026-05-18/digest.md)
+- [FULL Western Conference Finals Preview - All-Time Series Brewing? — *NBA on ESPN*](2026-05-18/qcLD93lqYX0.md)
+- [Spida Mitchell CRUSHES Pistons, Cavs Move On To ECF + Detroit's Offseason | Spurs & OKC Kickoff WCF — *No Fouls Given*](2026-05-18/qw2sHcA6d0E.md)
 ## 2026-05-17
 
 - [The WILD CAR accident that ended Chandler Parsons’ career — *Out The Mud*](2026-05-17/1-yDI1XlmSI.md)
