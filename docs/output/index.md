@@ -1,8 +1,13 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-18
+
+- [Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*](2026-05-18/9sw45DNpzcg.md)
+- [Reacting to Luka Doncic prefering to play with Austin Reaves over Giannis 🤯 — *To The Baha*](2026-05-18/RwwFVSkZGQk.md)
 ## 2026-05-17
 
 - [The WILD CAR accident that ended Chandler Parsons’ career — *Out The Mud*](2026-05-17/1-yDI1XlmSI.md)
+- [Bam's Top 4 Big Men List Is DELUSIONAL — *Road Trippin*](2026-05-17/H3TDrkDEPPo.md)
 - [Charles Oakley stepped to JR Rider IMMEDIATELY 💀 — *All The Smoke*](2026-05-17/HTfTpEdCayc.md)
 - [Perk Says Rob Pelinka Got His Job Because Of KOBE + Lakers Lack Culture — *Road Trippin*](2026-05-17/XBTcjCpPab4.md)
 - [Did Chandler Parsons ROB the Grizzlies of MILLIONS of dollars 👀 — *Out The Mud*](2026-05-17/ZLrIl_SdiNQ.md)
