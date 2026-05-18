@@ -16,6 +16,7 @@
 - [Young Kiyan Drank PRE-WORKOUT Accidentally at the Knicks Facility 😭😵‍💫 — *7PM in Brooklyn*](2026-05-18/LoF7hfsCMrg.md)
 - [Reacting to Luka Doncic prefering to play with Austin Reaves over Giannis 🤯 — *To The Baha*](2026-05-18/RwwFVSkZGQk.md)
 - [Darren Waller’s dream offense is a nightmare for any defender 😳🔥 — *All The Smoke*](2026-05-18/TNotAIzhHPs.md)
+- [Bobby Marks' Offseason Guide for the Detroit Pistons 🚨 | NBA on ESPN — *NBA on ESPN*](2026-05-18/TcA_eXVajss.md)
 - [The Detroit Pistons ‘ran out of gas’ in Game 7 against the Cavs - Vince Goodwill | Rich Eisen Show — *NBA on ESPN*](2026-05-18/d7d75rUJDg4.md)
 - [HoopsHype YT Quotes — 2026-05-18](2026-05-18/digest.md)
 - [Is Series Sweep BAD in Playoffs?! Jalen & Josh Weigh In on Postseason Format & Embiid's Collapse — *Roommates Show*](2026-05-18/l7ioiOjD0e4.md)
