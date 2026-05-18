@@ -75,6 +75,7 @@ Editorial rules:
     - "DeAndre Ayton on his last straw in Portland"
   Do NOT use generic category labels like "player legacy", "team dynamics", "trades", "coaching", "playoffs". The summary_phrase must name a specific player, team, story, or argument — not a category.
 - For each quote, list every player, coach, or front-office name mentioned IN THE QUOTE TEXT in the "names_mentioned" array. Use the exact substring spelling that appears in your cleaned quote text. Do not include team names, hosts who don't appear in the quote body, or the speaker's own name unless they refer to themselves in third person inside the quote.
+- For each quote, write an "excerpt" field: a verbatim string of UP TO 18 WORDS pulled directly from the quote body. Pick the punchiest / most quotable single line — the standalone sentence that would work as a pull-quote in a headline. The excerpt MUST appear word-for-word in the quote text (or, for multi-speaker quotes, in any one speaker's text_blocks contribution — pick the most quotable line, not necessarily the longest speaker's). Do not paraphrase, condense, or add punctuation that isn't there. If no obvious 18-word pull-quote exists (single-sentence quotes, all rambling, etc.), leave excerpt as an empty string "".
 - FILLER CLEANUP: Strip conversational noise so the quote reads like lightly edited print. Remove "uh", "um", "er", "ah" and variants. Remove "you know" when used as filler (keep it when it's a real question or phrase). Remove "like" when used as filler or hedging (keep it as a real verb or comparison). Remove "I mean" when used to restart a thought. Remove "kind of" and "sort of" when used as filler. Collapse repeated words from false starts ("the the", "we we"). Resolve mid-sentence trailing-off restarts to the speaker's completed thought (e.g. "if he goes home, he's not -- he can be the guy" -> "if he goes home, he can be the guy"). Preserve the speaker's voice and emphasis. Do not paraphrase or change meaning. Example —
   Before: "If he leaves LA, uh, Cleveland. I think it's full circle, going home again, um, joining a team that, as we saw, uh, last night, um, once again, you know, obviously Donovan Mitchell going off..."
   After: "If he leaves LA, Cleveland. I think it's full circle, going home again, joining a team that, as we saw last night, once again, obviously Donovan Mitchell going off..."
@@ -95,6 +96,7 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
       "timestamp": "MM:SS",
       "summary_phrase": "5-12 word specific headline naming a player, team, or story",
       "names_mentioned": ["LeBron James", "Mikal Bridges"],
+      "excerpt": "up to 18 words pulled verbatim from the quote body; empty string if no clean pull-quote",
       "quote": "cleaned quote text (leave empty when using text_blocks)",
       "text_blocks": [
         {"speaker": "X", "text": "X's contribution"},
@@ -116,6 +118,7 @@ Hard rules:
 - Use the SAME timestamp as the original quote for every sub-quote. Use the SAME speaker (or speakers) unless the original was multi-speaker and a particular sub-quote only includes one of them.
 - For each sub-quote, write a "summary_phrase": a 5-12 word headline naming the specific player, team, story, or argument. Do not use generic category labels.
 - For each sub-quote, list every player, coach, or front-office name mentioned in the sub-quote text in "names_mentioned", using the exact substring spelling from your cleaned text.
+- For each sub-quote, write an "excerpt" of up to 18 words pulled verbatim from the sub-quote body (or, for multi-speaker sub-quotes, from any speaker's contribution). Pick the punchiest standalone line. Empty string when no clean pull-quote exists.
 - If a sub-quote is multi-speaker dialogue on the same subject, populate "text_blocks" with one entry per speaker contribution (in order) and leave "quote" empty. The "speaker" field becomes the longest contributor in that sub-quote; populate "speakers" with the list. Single-speaker sub-quotes use "quote" only.
 - If the speaker is not confidently identifiable, leave "speaker" empty (do not write "Unknown").
 - Clean only obvious filler ("um", "uh", "you know", false starts) and punctuation. Preserve the speaker's meaning. Do not exaggerate. Do not fabricate.
@@ -130,6 +133,7 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
     "timestamp": "MM:SS",
     "summary_phrase": "5-12 word specific headline",
     "names_mentioned": ["LeBron James"],
+    "excerpt": "up to 18 words pulled verbatim; empty string if no clean pull-quote",
     "quote": "cleaned quote text (empty if using text_blocks)",
     "text_blocks": [
       {"speaker": "X", "text": "X's contribution"},
@@ -679,6 +683,7 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
             "timestamp": sub.get("timestamp") or timestamp,
             "summary_phrase": sub.get("summary_phrase") or quote.get("summary_phrase", ""),
             "names_mentioned": sub.get("names_mentioned") or quote.get("names_mentioned", []),
+            "excerpt": sub.get("excerpt") or "",
             "quote": sub_quote,
         }
         if sub_blocks:
@@ -782,7 +787,7 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
     lines = [
         f"# {title} — *{channel_name}*",
         "",
-        f'Source: <a href="{url}" target="_blank" rel="noopener">{url}</a>',
+        f"Source: {url}",
         "",
     ]
     if data.get("speakers_seen"):
@@ -791,22 +796,31 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
     for q in data.get("quotes", []):
         secs = timestamp_to_seconds(q.get("timestamp", "0:00"))
         ts_link = f"https://www.youtube.com/watch?v={vid}&t={secs}s" if vid else url
+        ts_label = q.get('timestamp', '?')
+        rank = q.get('rank', '?')
         speaker = (q.get("speaker") or "").strip()
         summary = (q.get("summary_phrase") or "").strip()
-        # Item 6b: omit awkward "Unknown speaker (man with beard)" attributions.
+        excerpt = (q.get("excerpt") or "").strip()
         if _is_unknown_speaker(speaker):
             speaker = ""
-        if speaker and summary:
-            header = f"**{q.get('rank', '?')}. {speaker} — {summary}**"
-        elif speaker:
-            header = f"**{q.get('rank', '?')}. {speaker}**"
-        elif summary:
-            header = f"**{q.get('rank', '?')}. {summary}**"
+        # Header format: **N. Speaker — summary — "excerpt"** [timestamp](url)
+        # Any of speaker/summary/excerpt may be empty; em-dashes join only
+        # present pieces. Plain markdown link for the timestamp so GitHub's
+        # renderer applies its own target=_blank rather than us emitting
+        # HTML that the sanitizer strips.
+        fragments = []
+        if speaker:
+            fragments.append(speaker)
+        if summary:
+            fragments.append(summary)
+        if excerpt:
+            fragments.append(f'"{excerpt}"')
+        if fragments:
+            inner = " — ".join(fragments)
+            header = f"**{rank}. {inner}** [{ts_label}]({ts_link})"
         else:
-            header = f"**{q.get('rank', '?')}.**"
+            header = f"**{rank}.** [{ts_label}]({ts_link})"
         lines.append(header)
-        ts_label = q.get('timestamp', '?')
-        lines.append(f'<a href="{ts_link}" target="_blank" rel="noopener">{ts_label}</a>')
         lines.append("")
         names = q.get("names_mentioned") or []
         blocks = q.get("text_blocks") or []
@@ -1104,26 +1118,36 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
             existing_str = str(existing)
         return f"already processed (matched on disk: {existing_str})"
 
-    # Age cutoff applies to ALL channels, including bypass_filters ones. The
-    # bug we're fixing is that rarely-posting channels (Anthony Edwards,
-    # Curious Mike) bypass editorial filters but their "last 10 videos"
-    # span months and can pollute today's digest with stale uploads.
+    # Age cutoff applies to ALL channels, including bypass_filters ones,
+    # for the same reason duration does (below) — rarely-posting channels
+    # would otherwise stale-pollute the digest.
     age_reason = _age_skip_reason(video.get("published") or "")
     if age_reason:
         return age_reason
 
+    # Duration cutoff also applies to ALL channels, including bypass_filters.
+    # Previously bypass_filters short-circuited before this check, which let
+    # a 26-second Short slip through on a bypass channel. Shorts have their
+    # own video IDs and show up in uploads playlists — the duration filter
+    # is the one defense against them.
+    duration = video.get("duration", 0)
+    try:
+        duration = int(duration)
+    except (TypeError, ValueError):
+        duration = 0
+    min_seconds = int(config.get("min_duration_minutes", 5)) * 60
+    if duration < min_seconds:
+        return f"duration {duration}s below {min_seconds}s minimum"
+
     if channel.get("bypass_filters"):
+        log(f"  [accept] {video['video_id']} duration={duration}s (bypass channel)")
         return ""
 
     kw = title_matches_skip_keyword(video["title"], config.get("skip_title_keywords", []))
     if kw:
         return f"title contains '{kw}'"
 
-    duration = video.get("duration", 0)
-    min_seconds = int(config.get("min_duration_minutes", 15)) * 60
-    if duration < min_seconds:
-        return f"duration {duration}s below minimum"
-
+    log(f"  [accept] {video['video_id']} duration={duration}s")
     return ""
 
 

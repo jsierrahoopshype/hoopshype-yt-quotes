@@ -22,13 +22,6 @@
       "known_speakers": ["LeBron James", "Steve Nash"]
     },
     {
-      "name": "All The Smoke",
-      "channel_id": "UC2ozVs4pg2K3uFLw6-0ayCQ",
-      "bypass_filters": true,
-      "active": true,
-      "known_speakers": ["Matt Barnes", "Stephen Jackson"]
-    },
-    {
       "name": "Out The Mud",
       "channel_id": "UCqwKvfByZqmdC2jaFcUPcvQ",
       "bypass_filters": true,
@@ -106,7 +99,7 @@
       "known_speakers": ["Michael Porter Jr."]
     }
   ],
-  "min_duration_minutes": 15,
+  "min_duration_minutes": 5,
   "skip_title_keywords": [
     "highlights",
     "full game",
