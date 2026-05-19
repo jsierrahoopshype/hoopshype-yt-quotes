@@ -31,6 +31,13 @@ def _digest_link(date_str: str) -> str:
     return f"{base}/{date_str}/digest.md"
 
 
+def _oneoff_digest_link(date_str: str) -> str:
+    base = _output_base_url()
+    if not base:
+        return f"output/oneoffs/{date_str}/digest.md"
+    return f"{base}/oneoffs/{date_str}/digest.md"
+
+
 CLOSING_LINE = (
     "CHECK OTHER YOUTUBE PODCASTS HERE: "
     "https://www.youtube.com/feed/subscriptions"
@@ -64,28 +71,49 @@ def post_no_new_videos(date_str: str) -> bool:
     return _post({"text": f"HoopsHype YT Quotes — {date_str}: No new videos today."})
 
 
-def post_digest(items: list, date_str: str, digest_dates=None, one_off_count: int = 0) -> bool:
+def post_digest(
+    items: list,
+    date_str: str,
+    digest_dates=None,
+    oneoff_digest_dates=None,
+    one_off_count: int = 0,
+) -> bool:
     """Post a digest to Slack.
 
     items is a list of dicts with keys: video_id, title, channel,
-    top_quote, speaker, date (publish date).
+    top_quote, speaker, date (publish date), is_one_off.
 
     date_str is the RUN date used in the message header.
 
-    digest_dates is an optional explicit list of YYYY-MM-DD publish dates to
-    emit as digest URLs at the top of the message (one per line). When None,
-    the unique publish dates from items are used. A run that processes one
-    same-day video and one 4-day-old video produces two digest URLs.
+    digest_dates is an explicit list of rotation publish dates to render
+    as digest URLs. When None, derived from items (rotation items only).
+
+    oneoff_digest_dates is an explicit list of one-off publish dates to
+    render as separate URLs under a "One-offs:" prefix. When None, derived
+    from items (one-off items only).
+
+    When oneoff_digest_dates is non-empty the URL block is split into
+    "Rotation:"-prefixed and "One-offs:"-prefixed sections. When empty,
+    the rotation URLs render unprefixed (preserves the rotation-only
+    format from previous runs).
 
     one_off_count is the number of items in this digest that came from the
-    workflow_dispatch EXTRA_VIDEOS input (vs. the normal channel rotation).
-    When > 0, the summary line breaks down the count.
+    workflow_dispatch EXTRA_VIDEOS input. When > 0, the summary line breaks
+    down the count.
     """
     if not items:
         return post_no_new_videos(date_str)
 
     if digest_dates is None:
-        digest_dates = sorted({(it.get("date") or date_str) for it in items})
+        digest_dates = sorted({
+            (it.get("date") or date_str)
+            for it in items if not it.get("is_one_off")
+        })
+    if oneoff_digest_dates is None:
+        oneoff_digest_dates = sorted({
+            (it.get("date") or date_str)
+            for it in items if it.get("is_one_off")
+        })
 
     n = len(items)
     plural = "s" if n != 1 else ""
@@ -101,8 +129,17 @@ def post_digest(items: list, date_str: str, digest_dates=None, one_off_count: in
         f"*HoopsHype YT Quotes — {date_str}*",
         summary_line,
     ]
-    for d in digest_dates:
-        lines.append(_digest_link(d))
+    if oneoff_digest_dates:
+        # Mixed run: label both sections so readers can tell editorial
+        # rotation digests from off-rotation one-off digests at a glance.
+        for d in digest_dates:
+            lines.append(f"Rotation: {_digest_link(d)}")
+        for d in oneoff_digest_dates:
+            lines.append(f"One-offs: {_oneoff_digest_link(d)}")
+    else:
+        # Rotation-only run: keep the unlabeled URL list (current format).
+        for d in digest_dates:
+            lines.append(_digest_link(d))
     for it in items:
         title = it.get("title") or it["video_id"]
         channel = it.get("channel") or ""

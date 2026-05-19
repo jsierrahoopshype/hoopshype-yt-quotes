@@ -322,37 +322,29 @@ def _publish_date(video: dict) -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
+def _video_day_dir(video: dict) -> Path:
+    """Where this video's outputs (md, json, markers, ATTEMPTS) land on disk.
+
+    One-off videos (video["is_one_off"] = True) route to
+    output/oneoffs/<pub_date>/ so editorial rotation digests stay clean.
+    Rotation videos use output/<pub_date>/ as before.
+    """
+    pub_date = _publish_date(video)
+    if video.get("is_one_off"):
+        return OUTPUT_DIR / "oneoffs" / pub_date
+    return OUTPUT_DIR / pub_date
+
+
+
 # --------------------------------------------------------------------------- #
 # State: filesystem-as-database
 # --------------------------------------------------------------------------- #
 
-def find_existing_artifact(video_id: str) -> Path | None:
-    """Return the on-disk path that marks this video as already-processed, or None.
-
-    The disk is the only source of truth — output/index.md and any other
-    accumulated state are ignored. A video counts as processed only when one
-    of these is observably true:
-
-      - some output/<date>/<video_id>.md AND output/<date>/<video_id>.json
-        both exist as regular files with size > 0 (a successful prior run
-        for that date), OR
-      - some output/<date>/<video_id>.SKIPPED-too-long exists, OR
-      - some output/<date>/<video_id>.FAILED.txt exists.
-
-    Date folders are scanned newest-first so the most recent prior outcome
-    wins when a video has artifacts in more than one date directory.
-
-    Returns the full Path that triggered the match so the caller can log it.
-    Crucially, .md.tmp / .json.tmp partial files DO NOT count — they signal
-    an interrupted run that should be retried. Empty .md or .json files DO
-    NOT count either, for the same reason.
+def _scan_day_dir_for_artifact(day_dir: Path, video_id: str, markers_only: bool) -> Path | None:
+    """Helper: look in one date folder for either full artifacts (.md + .json,
+    both non-empty) or just skip markers. Returns the matched path or None.
     """
-    if not OUTPUT_DIR.exists():
-        return None
-    for day_dir in sorted(
-        (p for p in OUTPUT_DIR.iterdir() if p.is_dir() and p.name != "digest"),
-        reverse=True,
-    ):
+    if not markers_only:
         md = day_dir / f"{video_id}.md"
         js = day_dir / f"{video_id}.json"
         try:
@@ -365,10 +357,74 @@ def find_existing_artifact(video_id: str) -> Path | None:
                 return md
         except OSError:
             pass
-        for marker_name in (f"{video_id}.SKIPPED-too-long", f"{video_id}.FAILED.txt"):
-            marker = day_dir / marker_name
-            if marker.is_file():
-                return marker
+    for marker_name in (f"{video_id}.SKIPPED-too-long", f"{video_id}.FAILED.txt"):
+        marker = day_dir / marker_name
+        if marker.is_file():
+            return marker
+    return None
+
+
+def find_existing_artifact(video_id: str, track: str = "rotation") -> Path | None:
+    """Return the on-disk path that marks this video as already-processed, or None.
+
+    The disk is the only source of truth — output/index.md and any other
+    accumulated state are ignored. .md.tmp / .json.tmp partial files DO NOT
+    count, and empty .md or .json files DO NOT count either; both signal
+    interrupted runs that should be retried.
+
+    Two tracks, independent disk state per the new one-off routing:
+
+      track="rotation" (default):
+        Scans output/<date>/ subdirs only (skipping "digest" and "oneoffs"
+        siblings). A video counts as processed when its .md AND .json both
+        exist non-empty, OR when a .SKIPPED-too-long or .FAILED.txt marker
+        exists.
+
+      track="oneoff":
+        Scans output/oneoffs/<date>/ subdirs for full artifacts (same rule
+        as rotation), AND falls back to the legacy output/<date>/ subdirs
+        for FAILURE MARKERS ONLY. Successful prior rotation processing
+        does NOT suppress a one-off — the user explicitly asked for
+        re-processability across tracks. Only legacy one-off failure
+        markers (from before this separation existed) are honored in the
+        rotation path.
+
+    Date folders are scanned newest-first within each candidate set.
+    """
+    if not OUTPUT_DIR.exists():
+        return None
+
+    rotation_day_dirs = sorted(
+        (p for p in OUTPUT_DIR.iterdir()
+         if p.is_dir() and p.name not in ("digest", "oneoffs")),
+        reverse=True,
+    )
+
+    if track == "rotation":
+        for day_dir in rotation_day_dirs:
+            hit = _scan_day_dir_for_artifact(day_dir, video_id, markers_only=False)
+            if hit is not None:
+                return hit
+        return None
+
+    if track == "oneoff":
+        oneoffs_root = OUTPUT_DIR / "oneoffs"
+        if oneoffs_root.exists():
+            for day_dir in sorted(
+                (p for p in oneoffs_root.iterdir() if p.is_dir()),
+                reverse=True,
+            ):
+                hit = _scan_day_dir_for_artifact(day_dir, video_id, markers_only=False)
+                if hit is not None:
+                    return hit
+        # Backward compat: legacy rotation path may contain markers from
+        # pre-split one-offs we want to keep honoring.
+        for day_dir in rotation_day_dirs:
+            hit = _scan_day_dir_for_artifact(day_dir, video_id, markers_only=True)
+            if hit is not None:
+                return hit
+        return None
+
     return None
 
 
@@ -883,8 +939,7 @@ def write_outputs(video: dict, channel_name: str, data: dict, raw_text: str) -> 
     visible at the published path. An empty rendered markdown is treated as a
     bug and raises before any file is opened.
     """
-    pub_date = _publish_date(video)
-    day_dir = OUTPUT_DIR / pub_date
+    day_dir = _video_day_dir(video)
     day_dir.mkdir(parents=True, exist_ok=True)
     md_path = day_dir / f"{video['video_id']}.md"
     json_path = day_dir / f"{video['video_id']}.json"
@@ -915,7 +970,11 @@ def regenerate_index() -> None:
     """Walk output/ and write a chronological index.md at the root."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     rows = []
-    for day_dir in sorted([p for p in OUTPUT_DIR.iterdir() if p.is_dir() and p.name != "digest"], reverse=True):
+    for day_dir in sorted(
+        [p for p in OUTPUT_DIR.iterdir()
+         if p.is_dir() and p.name not in ("digest", "oneoffs")],
+        reverse=True,
+    ):
         for md_path in sorted(day_dir.glob("*.md")):
             video_id = md_path.stem
             try:
@@ -938,18 +997,24 @@ def regenerate_index() -> None:
     (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
-def write_daily_digest(date_str: str) -> Path | None:
-    """Concatenate every per-video <video_id>.md in output/<date>/ into one
-    output/<date>/digest.md and return its path. Returns None if there is no
-    day folder or no per-video .md to include.
+def write_daily_digest(date_str: str, track: str = "rotation") -> Path | None:
+    """Concatenate every per-video <video_id>.md for one publish date into a
+    single digest.md and return its path. Returns None if there is no day
+    folder or no per-video .md to include.
+
+    track="rotation" -> output/<date>/digest.md  (rotation editorial content)
+    track="oneoff"   -> output/oneoffs/<date>/digest.md  (workflow_dispatch one-offs)
 
     Regenerates from scratch each call so the digest reflects ALL successful
-    videos for that date across every run that day. The digest itself, plus
-    .FAILED.txt and .SKIPPED-too-long marker files, are excluded from the
+    videos for that track + date across every run. The digest itself, plus
+    .FAILED.txt / .SKIPPED-too-long marker files, are excluded from the
     concatenation. Per-video h1 headings are demoted to h2 so the document
     has a clean outline under the date-level h1.
     """
-    day_dir = OUTPUT_DIR / date_str
+    if track == "oneoff":
+        day_dir = OUTPUT_DIR / "oneoffs" / date_str
+    else:
+        day_dir = OUTPUT_DIR / date_str
     if not day_dir.is_dir():
         return None
 
@@ -1021,8 +1086,9 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
     name = channel.get("name", "?")
     video_id = video["video_id"]
     pub_date = _publish_date(video)
-    day_dir = OUTPUT_DIR / pub_date
-    log(f"  -> {video_id} [{name}]: {video['title'][:80]}")
+    day_dir = _video_day_dir(video)
+    is_one_off = bool(video.get("is_one_off"))
+    log(f"  -> {video_id} [{name}{' / one-off' if is_one_off else ''}]: {video['title'][:80]}")
 
     # Run process_video on a dedicated single-thread executor so we can
     # walk away after PER_VIDEO_TIMEOUT_SECS if the worker hangs (e.g.
@@ -1083,6 +1149,7 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
                 "top_quote": _canonical_quote_text(top),
                 "speaker": top.get("speaker", ""),
                 "date": pub_date,
+                "is_one_off": is_one_off,
             })
 
 
@@ -1162,7 +1229,7 @@ def process_video(client, video: dict, channel_name: str, known_speakers: list |
     url = video["url"]
     video_id = video["video_id"]
     pub_date = _publish_date(video)
-    day_dir = OUTPUT_DIR / pub_date
+    day_dir = _video_day_dir(video)
     day_dir.mkdir(parents=True, exist_ok=True)
 
     attempts_parse = 0
@@ -1355,6 +1422,17 @@ def main() -> int:
                 if not m:
                     log(f"  [oneoff] skip {vid}: no metadata returned (private/deleted/invalid?)")
                     continue
+                # Independent dedup track for one-offs: only honors prior
+                # one-off success/markers in output/oneoffs/, plus legacy
+                # failure markers from before the split.
+                existing = find_existing_artifact(vid, track="oneoff")
+                if existing:
+                    try:
+                        existing_str = str(existing.resolve())
+                    except OSError:
+                        existing_str = str(existing)
+                    log(f"  [oneoff] skip {vid}: previously processed/marked on one-off track ({existing_str})")
+                    continue
                 channel_title = m.get("channel_title") or "(one-off)"
                 synthetic_channel = {
                     "name": channel_title,
@@ -1369,6 +1447,7 @@ def main() -> int:
                     "title": m.get("title", ""),
                     "duration": m.get("duration", 0),
                     "published": m.get("published_at", ""),
+                    "is_one_off": True,
                 }
                 extra_queue.append((synthetic_channel, video))
                 extra_ids_set.add(vid)
@@ -1445,22 +1524,35 @@ def main() -> int:
 
     regenerate_index()
 
-    # A video processed today might publish-date to a different folder
-    # (e.g. a 4-day-old upload that finally got through). Regenerate the
-    # digest.md for every publish date that received new content this run.
-    publish_dates_touched = sorted({it.get("date") for it in processed_items if it.get("date")})
-    digest_dates = []
-    for pd in publish_dates_touched:
-        if write_daily_digest(pd) is not None:
-            digest_dates.append(pd)
+    # Regenerate digest.md once per (track, publish-date) touched this run.
+    # Rotation and one-off content live in separate directory trees and get
+    # separate digests, so a one-off published on 2026-05-18 processed today
+    # lands in output/oneoffs/2026-05-18/digest.md and a rotation video
+    # published 2026-05-19 lands in output/2026-05-19/digest.md.
+    rotation_dates_touched = sorted({
+        it["date"] for it in processed_items
+        if it.get("date") and not it.get("is_one_off")
+    })
+    oneoff_dates_touched = sorted({
+        it["date"] for it in processed_items
+        if it.get("date") and it.get("is_one_off")
+    })
+    digest_dates_rotation = [
+        pd for pd in rotation_dates_touched
+        if write_daily_digest(pd, track="rotation") is not None
+    ]
+    digest_dates_oneoff = [
+        pd for pd in oneoff_dates_touched
+        if write_daily_digest(pd, track="oneoff") is not None
+    ]
 
     if processed_items:
-        # Count one-offs that successfully processed (subset of processed_items).
-        one_off_count = sum(1 for it in processed_items if it.get("video_id") in extra_ids_set)
+        one_off_count = sum(1 for it in processed_items if it.get("is_one_off"))
         slack_notify.post_digest(
             processed_items,
             today,
-            digest_dates=digest_dates,
+            digest_dates=digest_dates_rotation,
+            oneoff_digest_dates=digest_dates_oneoff,
             one_off_count=one_off_count,
         )
     else:
