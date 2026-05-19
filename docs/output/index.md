@@ -3,6 +3,9 @@
 ## 2026-05-19
 
 - [Cavs or Knicks? RJ & Channing Go ALL IN On Their ECF Picks — *Road Trippin*](2026-05-19/L4ZDBAG33l4.md)
+- [🚨EMERGENCY REACTION🚨 Wembanyama’s HUGE Statement in Instant Classic Game 1 — *NBA on ESPN*](2026-05-19/Pgh9tsiYUTI.md)
+- [HoopsHype YT Quotes — 2026-05-19](2026-05-19/digest.md)
+- [Hear from Wemby and SGA after the Spurs win Game 1 of the WCF in 2OT 🗣️ | SportsCenter — *NBA on ESPN*](2026-05-19/xPVUufSrH0c.md)
 ## 2026-05-18
 
 - [Stephen A. responds to Jaylen Brown’s comments: Be careful what you wish for… 😬 | First Take — *NBA on ESPN*](2026-05-18/162xX4-b0Yg.md)
