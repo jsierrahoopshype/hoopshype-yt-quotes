@@ -10,6 +10,15 @@ on:
         description: "Optional: YouTube URLs to also process (one per line or comma-separated)"
         required: false
         type: string
+
+# Serialize all runs (scheduled cron + workflow_dispatch) so concurrent runs
+# can't race each other to the same per-video output files. cancel-in-progress
+# is false: a newer trigger queues behind the current run instead of killing
+# it. With 3 crons/day spaced 5-6 hours apart and per-video timeouts capping
+# each run, queueing is safe.
+concurrency:
+  group: daily-extract
+  cancel-in-progress: false
 jobs:
   extract:
     runs-on: ubuntu-latest
@@ -55,8 +64,37 @@ jobs:
             exit 0
           fi
           git commit -m "Daily run: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin "${GITHUB_REF_NAME}" || {
-            echo "Pull-rebase failed; aborting push to avoid clobbering."
-            exit 1
-          }
-          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+          # Push with up to 3 retries on non-fast-forward. The concurrency
+          # lock above makes this rare, but a manual commit landing during
+          # the brief window between this job's checkout and push can
+          # still trip it. On each failure we fetch + rebase onto the
+          # latest remote tip and try again. If rebase produces conflicts
+          # or we exhaust the retry budget, we log loudly and exit 0 — the
+          # per-video files are valuable on the runner's disk and we don't
+          # want one transient push race to fail the whole workflow.
+          max_retries=3
+          attempt=0
+          while true; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              if [ "$attempt" -gt 0 ]; then
+                echo "Push succeeded on retry ${attempt}/${max_retries}."
+              fi
+              exit 0
+            fi
+            if [ "$attempt" -ge "$max_retries" ]; then
+              echo "==> Push failed after $((max_retries + 1)) attempts. Run artifacts remain on the runner but were not pushed to origin. Exiting cleanly so the workflow doesn't fail."
+              exit 0
+            fi
+            attempt=$((attempt + 1))
+            echo "Push failed; retry ${attempt}/${max_retries}: fetching + rebasing onto origin/${GITHUB_REF_NAME}"
+            if ! git fetch origin "${GITHUB_REF_NAME}"; then
+              echo "Fetch failed; exiting cleanly without pushing."
+              exit 0
+            fi
+            if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+              echo "Rebase had conflicts; aborting rebase and exiting cleanly without pushing."
+              git rebase --abort || true
+              exit 0
+            fi
+          done
