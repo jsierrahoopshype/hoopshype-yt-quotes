@@ -1,5 +1,83 @@
 # HoopsHype YT Quotes — 2026-05-19
 
+## Have Knicks Found the Recipe?! Jalen & Josh on Why this Year is DIFFERENT 😤 — *Roommates Show*
+
+Source: https://www.youtube.com/watch?v=098Zb8XeLSM
+
+_Speakers identified: Josh Hart, Jalen Brunson, Matt Hillman_
+
+**1. Josh Hart — why 20-point leads mean nothing in today's NBA — "these 20-point leads right now at this point in the season, they literally mean nothing."** [00:24](https://www.youtube.com/watch?v=098Zb8XeLSM&t=24s)
+
+"And I think with this year, you're seeing these 20-point leads dwindle fast. I mean, how many times is **Detroit** came back in **Orlando** being down 20 a couple games. You've seen **Philly**'s done it, **Minnesota** just did it last night and then they erased like a 20-point lead, then got tied and then gave up, you know, gave up and lost by like 20 again. But these 20-point leads right now at this point in the season, they literally mean nothing. So that's why you have to continue that, you know, that punch first mentality because you want to do that and then you don't want to give, especially at the end of game, you don't want to give teams confidence."
+
+**2. Josh Hart — why giving opponents confidence can change playoff outcomes — "you never want to give teams or players or whoever it is in the postseason momentum or opportunity."** [01:25](https://www.youtube.com/watch?v=098Zb8XeLSM&t=85s)
+
+"And that's something that I'm curious to see tonight of that **Cleveland** and **Detroit** series because obviously **Cleveland** was up, they handled business in that second half, they got up like 15-20 and then at the end of the game, at one point it got to like an eight-point game with like a minute left in the game. Those guys in **Detroit** came out and they came off the bench and kept the energy. So it's like you never want to give teams or players or whoever it is in the postseason momentum or opportunity because that can be a difference maker. **Sasser** played well. What if **Detroit**'s like, you know what, he played well, we need shooting, you throw him in Game 5 and he hits two, three, four threes and that can change the outcome of a game. Not saying that's going to happen tonight, you know what I mean, but you don't want any of those opportunities."
+
+**3. Josh Hart — Josh Hart jokes about forgetting to make shots in playoffs — "I forgot the objective when you shoot was to make it. And then I realized that Game 4."** [02:59](https://www.youtube.com/watch?v=098Zb8XeLSM&t=179s)
+
+**Matt Hillman:** "Was he above 40% that series?"
+
+**Josh Hart:** "No. I forgot the objective when you shoot was to make it. And then I realized that Game 4 and I was like, oh, you're supposed to make these shots. So then I was like, okay, let me, now I'm back."
+
+**Jalen Brunson:** "Haha."
+
+**Matt Hillman:** "Okay, I guess I stand corrected."
+
+**4. Jalen Brunson — Jalen Brunson credits defense for team's offensive flow — "I just feel like it's a credit to our defense, like we're getting out, we're getting easy buckets."** [03:59](https://www.youtube.com/watch?v=098Zb8XeLSM&t=239s)
+
+"I just feel like it's a credit to our defense, like we're getting out, we're getting easy buckets, we're getting easier shots and it's a credit to them, honestly. It's just the guys are, they're playing great. We got to continue that and it really starts with obviously how we're playing defense and how we're getting out, just making life easier for everybody."
+
+**5. Josh Hart — Josh Hart's impact beyond shooting when not making shots — "Even when I'm not making shots, I still feel like I have the ability to get in the paint."** [05:21](https://www.youtube.com/watch?v=098Zb8XeLSM&t=321s)
+
+"Even when I'm not making shots, I still feel like I have the ability to get in the paint, especially games like that where they play a slower pace. I'm able to rebound and push it. I'm able to get into the lane and get early shots and quick shots and negate that to a certain extent. If teams are playing off me, I know how to use that to my advantage in terms of whether I'm shooting the ball well with confidence, cool. If not, I'm able to get into pick-and-rolls, DHOs, stuff like that and I'm making that big still have to work."
+
+**6. Josh Hart — Josh Hart creating opportunities for Jalen Brunson off screens — "figure out a way of how can I get Jalen Brunson open off a screen"** [05:21](https://www.youtube.com/watch?v=098Zb8XeLSM&t=321s)
+
+"So now instead of me getting open shot, it's figure out a way of how can I get **Jalen Brunson** open off a screen because I know if I screen his man, if my guy's all the way in the paint, it's going to be tougher for him because he's going to have to either get back up and stop the pocket three or sit back and ride with that or now Jalen gets to dictate what he wants, especially with some of those rifle actions, allowing him to get downhill."
+
+---
+
+## Michael Wilbon speaks on Wemby's impact on the NBA: 'People have to keep up with him!' | Get Up — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=ELeif2Xcv4Y
+
+_Speakers identified: Shai Gilgeous-Alexander, Victor Wembanyama, Chet Holmgren, Jalen Williams, Monica McNutt, Brian Windhorst, Michael Wilbon_
+
+**1. Victor Wembanyama — Wembanyama's competitive response to losing the MVP award — "I still got a lot to learn and I want to get that trophy many times in my career."** [04:06](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=246s)
+
+"Yeah, for sure. Everything you just said. I still got a lot to learn and I want to get that trophy many times in my career."
+
+**2. Michael Wilbon — Wilbon compares Wembanyama's defensive impact to Bill Russell's — "Wembanyama has that sort of effect. What was it? They were 2 of 10 shooting."** [04:47](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=287s)
+
+"It was so discouraging. You know, I want to talk to **Ralph Sampson** and have a conversation. **Ralph Sampson** famously 7'4", three times the college player of the year. People predicted things for Ralph like Wembanyama for 40 years, which is what he was. Coaches literally would scream at **Ralph Sampson** for thinking of taking a shot outside the paint. They would. He was so discouraged from doing that. **Bill Russell**, of course, **Bill Russell** didn't touch the ball outside. There was no arc on the floor, boys and girls, you can Google it. So there was no arc to even play to. But yes, Russell affected games in my child's mind in that people were afraid. People just could not go in. You'd see **Jerry West** dribble in logo and all form and then dribble right back out because **Bill Russell** was not going to have that. Yes, Wembanyama has that sort of effect."
+
+**3. Brian Windhorst — Windhorst highlights Wembanyama's competitive edge and clutch performance — "This is the part of Wembanyama that makes him special because of that competitive edge."** [06:31](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=391s)
+
+"He's 7'5". We know that. He's incredibly gifted physically. He's very, very gifted skill-wise. He has developed his shot. He has developed his dribble. We know those two things. It's 108-105. He has played more minutes he's ever played in a game in his life. And you say, well, okay, he's got to wear out. He's got to wear out. This is the part of Wembanyama that makes him special because of that competitive edge. It's 108-105. He makes this shot, which **Bill Russell** never made, I'm fairly certain. Then in the double overtime, when everybody on that court is dead and he's never played more minutes in that second overtime, he scores nine points with four rebounds and a block. That's where Wembanyama becomes from freak to special because he summoned that. I thought he was dead. I thought he was dead. He's got nothing left. I'm thinking he shot that three because he didn't even have the energy. No, he shot the three because he knew what the time on the clock was."
+
+**4. Michael Wilbon — Wilbon describes Wembanyama's ruthless and petty competitive drive — "He is ruthless. There's a pettiness about it, which is necessary, right?"** [10:00](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=600s)
+
+"Wemby personifies that. He is ruthless. There's a pettiness about it, which is necessary, right? Maybe that loss hurt him so deeply that he, and this goes back if we're going to talk about historical comparisons with Russell and Bird and Jordan and Magic and Kobe, they looked at teammates in the locker room, I know this, and you know this for the Kobe stuff. They looked at guys and said, no, no, you're doing this or we will fight. Wembanyama, we don't know as much about locker room behavior. Wembanyama seems to have that gene like, I don't care what else the rest of you were doing, I'm not having this disappointment. So maybe that reference will be put to bed. I've been saying it's Russell, it's Magic, it's **Tim Duncan**. That's the list. Everybody else, Kobe, Shaq, Jordan, LeBron, Isiah, it took years. **Jerry West**, it took his whole life, right? There's a documentary about how long it took **Jerry West**. This dude, maybe he's cut from different cloth."
+
+**5. Michael Wilbon — OKC and Spurs' young core poised for long-term NBA dominance — "The Spurs and Thunder are going to run this thing for a long time."** [11:02](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=662s)
+
+"I remember when OKC won the championship last year, we talked so much about how young they are. This core is so young of **J-Dub** and **SGA** and **Holmgren** and how they're going to be around forever. And then we just put up there, Hembo had it up there, that the starting lineup that San Antonio started last night is the youngest in Conference Finals history. So, I mean, listen, for those of us who are sentimental and would like to see **Steph** or **LeBron** or **KD** or one of these guys get another bite at the apple, man, what you're looking at right now are the two teams that are going to dominate. There it is last night. Their starting lineup, the youngest in any Conference Finals game ever. The Spurs and Thunder are going to run this thing for a long time."
+
+**6. Brian Windhorst — OKC's youth and lack of playoff heartbreak experience — "They haven't had their heart broken yet."** [11:02](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=662s)
+
+**Brian Windhorst:** "People can, I've retired talking about this team being young. People can do it and say it. They've answered the call repeatedly in this postseason. I know there will still be bigger moments, but if they lose, I don't think it's because they're young."
+
+**Michael Wilbon:** "Perhaps. But I mean, Michael, I keep going back to what you said, those two years we were together on the NBA. You said it a million times, you have to have your heart broken. They haven't had their heart broken yet."
+
+**7. Michael Wilbon — Wilbon explains how Wembanyama's presence forces other players to improve — "Wemby's presence makes everybody else get better. You have to evolve and evolve at a quicker pace."** [11:48](https://www.youtube.com/watch?v=ELeif2Xcv4Y&t=708s)
+
+**Michael Wilbon:** "You know what's important too, the Wembanyama's presence makes everybody else get better. You have to evolve and evolve at a quicker pace because he's there. So in order to get near him, in the frame with him, you're going to have to get better. So maybe we're talking about Debansa doing that, or maybe we're talking about **Caleb Wilson**. Maybe we're looking ahead for the people who can be his peers, because right now, they did something on SportsCenter this morning about the American, what American player can be the MVP? What? Huh? You got SGA and this dude and they're at the ages they are. So we're talking the projection, but what it will do for the league, what it should do, is all the people coming in are going to have to do things. Coaches, scouting, players, they're going to have to do everything in their power to keep up with him. And that's the true impact of greatness."
+
+**Brian Windhorst:** "That's what happened with Shaq. We're talking about Shaq. Shaq in his third year made the finals. They got his heart broken. This is Shaq. This is Shaq 2.0."
+
+---
+
 ## Cavs or Knicks? RJ & Channing Go ALL IN On Their ECF Picks — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=L4ZDBAG33l4
@@ -109,6 +187,244 @@ _Speakers identified: Brian Windhorst, Tim Bontemps_
 **2. Tim Bontemps — Jalen Williams's late-game possession cost Thunder Game 1 — "The Jalen Williams possession with about 40 seconds to go in overtime cost this Thunder team the game."** [03:42](https://www.youtube.com/watch?v=Pgh9tsiYUTI&t=222s)
 
 "No one's gonna probably talk about it because they're gonna focus on Victor's play in the second overtime and Victor's three-pointer that he hit on the break. The **Jalen Williams** possession with about 40 seconds to go in overtime cost this Thunder team the game. It was a horrific possession. Didn't pass the ball, jacked up a horrible shot and that set up the run out that led to the Victor shot. And if the Thunder run a good play there and get a bucket, obviously the game's over. Even if they run the clock down and take a shot that's missed normally, the game might be over. But that possession is really gonna haunt them if they end up blowing this series in the end because they had the game on their racket, they let it get away and they let Victor make an iconic play and that pull-up three if the Spurs go on to win this series, for as much as everything else happened the second overtime, it's gonna be that pull-up three from 30 feet that people remember."
+
+---
+
+## Boogie - Thunder Won't Win A Game vs Wemby, Spurs?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=a3qSqVnXWAU
+
+_Speakers identified: Michelle Beadle, Lou Williams, DeMarcus Cousins_
+
+**1. Lou Williams — Lou Williams praises Alex Caruso's Game 1 offensive and defensive impact — "Just him coming in, understanding that Wemby is guarding him now and he's going to have some space."** [00:35](https://www.youtube.com/watch?v=a3qSqVnXWAU&t=35s)
+
+"Just him coming in, understanding that **Wemby** is guarding him now and he's going to have some space because they're trying to create, they're not trying to allow **SGA** lanes to get into the hole and **Wemby**'s playing free safety there and understanding the ability to be able to shoot the ball. I thought he played great on the defensive end. He tried his best to make it difficult for **Wemby** to catch the ball, was able to get a couple of steals out of those posts."
+
+**2. Lou Williams — Lou Williams on Chet Holmgren needing to be more involved in games — "They got to find a way to get Chet involved in this thing and Chet got to find a way to get involved."** [01:13](https://www.youtube.com/watch?v=a3qSqVnXWAU&t=73s)
+
+"He played a great game, but they got to find a way to get **Chet** involved in this thing and **Chet** got to find a way to get involved, whether it's going to be on the offensive end or the defensive end. Going into the second half and only having one shot attempt at halftime, you just can't have that for one of your All-Star caliber players."
+
+**3. DeMarcus Cousins — DeMarcus Cousins critiques Chet Holmgren's defensive effort against Victor Wembanyama — "It looked like he tucked his tail, bro. It really did."** [01:30](https://www.youtube.com/watch?v=a3qSqVnXWAU&t=90s)
+
+"It's hard to, obviously with **Chet**, he's not in the same position as a **Wemby** who's going to get as many touches, as many shot attempts. But like you said, defensively, with the ability that he does have, he needs to have a bigger impact on the game and I think he has to accept that challenge. Yes, I think **Alex Caruso** is a good matchup in certain situations, especially when he's out extended on the perimeter. Yes, I want Caruso with that matchup. But anything from the free throw line in, that's automatically a **Chet** or **Hartenstein** matchup. So, I said earlier, that's something that I would like to see next game where he steps up more to the challenge. But it looked like he tucked his tail, bro. It really did."
+
+**4. Lou Williams — Lou Williams explains Spurs' defensive strategy against Shai Gilgeous-Alexander — "San Antonio did a great job of just putting him in a position that everything that he was going to get, he was going to work for."** [04:48](https://www.youtube.com/watch?v=a3qSqVnXWAU&t=288s)
+
+"Defensively, yes. He saw a lot of bodies him trying to drive. He likes to play in that mid-range, likes to get to the rim, likes to play fouls. They just decided that they weren't going to, they were going to make him play from the three-point line and beyond and make it difficult for him. And even on the ones that it looked like he was going to be comfortable, they ran and junked up the game and they were trapping him up the court, taking the ball out of his hands and making somebody else do it. I think San Antonio did a great job of just putting him in a position that everything that he was going to get, he was going to work for and he couldn't really get into this game until the second half because of the way that the San Antonio Spurs were guarding him."
+
+**5. DeMarcus Cousins — DeMarcus Cousins believes Spurs' lengthy defenders match up well with Shai Gilgeous-Alexander — "This Spurs team, they match up well. They got long lengthy defenders."** [05:41](https://www.youtube.com/watch?v=a3qSqVnXWAU&t=341s)
+
+"I think he'll have a better performance moving forward. I think Game 1, the Spurs did an incredible job of having multiple bodies meeting him at his spots, which was boxes and elbows. So credit to them for that, but I do believe he'll have a better performance. But this Spurs team, they match up well. They got long lengthy defenders. He's usually one of the bigger guards on the floor. They kind of have that size to match up with that, probably I would say through the one through three spots. You got the young kid **Castle** who's a bully on the defensive end as far as how he matches up with guards. So it is a great matchup overall, but I think he'll figure it out and adjust."
+
+**6. DeMarcus Cousins — DeMarcus Cousins' bold Wembanyama take and series predictions — "I ain't subscribing to that page. I ain't following that page."** [06:21](https://www.youtube.com/watch?v=a3qSqVnXWAU&t=381s)
+
+**DeMarcus Cousins:** "Seven game series. No, I'm changing my position as well. What I said in the room was if we get this type of performance from **Wemby** every night and **Chet** doesn't meet that matchup, I absolutely do believe they won't win a game."
+
+**Michelle Beadle:** "Is that not crazy? That was said out loud and I loved it so much."
+
+**Lou Williams:** "I ain't subscribing to that page. I ain't following that page."
+
+**DeMarcus Cousins:** "But that's a big but. What I'm trying to say is at that level, I absolutely see it happening."
+
+**Michelle Beadle:** "Who wins seven?"
+
+**DeMarcus Cousins:** "Seven game series. I'm going to have to lean with the champs. I got to lean with the champs."
+
+**Michelle Beadle:** "Spurs. It's fair."
+
+**Lou Williams:** "Yeah, I think this goes seven now. If last night is what I'm looking forward to for the rest of this series, I don't think anybody gets out clean. I think this goes the distance."
+
+---
+
+## Is Wemby The Greatest Player In The WORLD?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=fcRehPHlT-g
+
+_Speakers identified: Michelle Beadle, Lou Williams, DeMarcus Cousins_
+
+**1. Michelle Beadle — Victor Wembanyama's motivation and the Spurs' hard-fought Game 1 win — "He said, yeah, I took it personally."** [00:00](https://www.youtube.com/watch?v=fcRehPHlT-g&t=0s)
+
+**Michelle Beadle:** "So, remember yesterday, **Lou**, I was like, that man is going to sit there and watch this other man collect some hardware that he rightfully thinks he deserves, and it's going to be a thing. He was motivated. And I said Spurs were going to win Game 1. Some say I'm a genius, I don't want to say that. But that being said, they fought to win it. Let's be clear, this wasn't a whooping. We're in two overtimes. This is crazy. It wasn't a whooping."
+
+**Lou Williams:** "Well, what you said, Beadle, you were right. And he confirmed it after the game. He said, yeah, I took it personally. And for somebody that finished fourth in voting, you would feel like he was the runner-up, how he went out and performed in this game."
+
+**2. Lou Williams — Victor Wembanyama's incredible performance and value as a player — "It was just incredible to watch."** [00:00](https://www.youtube.com/watch?v=fcRehPHlT-g&t=0s)
+
+"And so, when you have somebody that takes so much pride and wanting to be the best player, that is a huge asset to have as your best player in the world, man, and on your team. And so, all the flowers in the world for **Wemby**. I was able to see it last night in all 47 minutes that he did play. It was just incredible to watch."
+
+**3. Michelle Beadle — Wembanyama's performance mirroring Hakeem Olajuwon's after MVP snub — "Never give the MVP award to the person if the other one thought he should have had it."** [01:15](https://www.youtube.com/watch?v=fcRehPHlT-g&t=75s)
+
+"Can I give you guys an interesting because I was thinking this last night and **Nick Wright** wrote and shout out because I don't always agree with **Nick Wright**, but this was a good one. 1995, **Hakeem Olajuwon** had to sit in the building and watch **David Robinson** collect the hardware for MVP, and his night that night for Olajuwon was a 41, 16, 4, 3, and 2 win. Last night, same exact thing, **Wemby** watches **SGA** win something he wanted, 41, 24, 3, 1, and 3. Like that is, I don't know, I don't believe in like, yes, I do. Who am I kidding? I'm superstitious and weird and I believe in all that fun stuff. That to me is crazy. Never give the MVP award to the person if the other one thought he should have had it."
+
+**4. DeMarcus Cousins — Wembanyama's immediate impact and scary future potential — "I think this kid has arrived now. I think we're getting past the point of potential."** [02:04](https://www.youtube.com/watch?v=fcRehPHlT-g&t=124s)
+
+"Oh, he's special for a reason and, you know, he's still young in his career, but I think this kid has arrived now. I think we're getting past the point of potential. Like, we're actually seeing what this kid is going to be right now in the in this moment of his career. And that's scary because he still has a lot of growing to do. So, I mean, I think he's the perfect example of a young player coming in right now. The mentality, he cares about winning, it's not about the numbers, he cares about defense, like everything you want in a young franchise player, he's the perfect example of that. So, I mean, he's he's that guy for a reason. I mean, the numbers show it, the performance shows it, the presence shows it, the impact shows it. He's the real deal."
+
+**5. Lou Williams — Wembanyama's game-long impact as "head of the snake" — "Wemby was the head of the snake for both teams."** [03:04](https://www.youtube.com/watch?v=fcRehPHlT-g&t=184s)
+
+"He just knows how to play basketball. He knows how to impact the game on both ends of the floor. And to me last night, it was just a heavyweight bout. We could talk about numbers and stats and percentages and all of that, but for me, the San Antonio Spurs and the OKC Thunder, both teams were just lost in the game and just trying to make plays. Positive, negative. If you look at the stat sheet, you can make a case, close your eyes, everybody played bad. If you want to look at the numbers, everybody played bad, but that's what type of game this was last night. Just tried except **Wemby**. Like everybody just tried to make play after play. It didn't matter whether you made a mistake or whether it was a turnover. You didn't have the time to worry about those type of things in this type of game. Every possession mattered, and **Wemby** was the head of the snake for both teams."
+
+**6. Lou Williams — Spurs' young team gaining valuable experience on the fly — "They were learning on the fly last night. Like, whatever the experience that they lacked, I think they found it last night."** [08:34](https://www.youtube.com/watch?v=fcRehPHlT-g&t=514s)
+
+**DeMarcus Cousins:** "And you have to credit this Spurs group even more because one of their most experienced guards didn't even play. So, I mean, even with the 11 turnovers from **Castle**, the fact that he's able to play through it shows the poise and the maturity of this young group."
+
+**Lou Williams:** "They were learning on the fly last night. Exactly. Like, whatever the experience that they lacked, I think they found it last night. Like, they're not going to get a they're not going to get a better Game 1 Western Conference Finals experience than what they got last night when it comes to learning and how to figure out things on the fly and to make adjustments on the fly and still be as impactful as these young guys were. So that conversation, it was good yesterday, it's out the window now. The training wheels are off."
+
+**Michelle Beadle:** "I feel like we're watching them get the experience."
+
+**7. Lou Williams — De'Aaron Fox's return stabilizes starting point guard position. — "you put De'Aaron Fox back in that lineup because I think he steadies the boat."** [10:08](https://www.youtube.com/watch?v=fcRehPHlT-g&t=608s)
+
+"I think you put **De'Aaron Fox** back in the starting lineup. Like we said, **Jared Castle**, that's not his natural position to run the offense. He has some struggles there, but he also has some success as well. He had 11 assists to go with the 11 turnovers, but you put **De'Aaron Fox** back in that lineup because I think he steadies the boat. I think he gives them what they need from a point guard perspective."
+
+**8. Lou Williams — Dylan Harper and Fox create dynamic guard balance for San Antonio. — "Dylan Harper coming off the bench now, you have a dynamic scorer."** [10:08](https://www.youtube.com/watch?v=fcRehPHlT-g&t=608s)
+
+"And if you have **Dylan Harper** coming off the bench now, you have a dynamic scorer and you have somebody that can give you that balance in two groups. Like I mentioned earlier in the show, the two runs that **Oklahoma City Thunder** made in the first half and in the second half, they were with **Victor Wembanyama** off of the floor. They were with the second groups on the floor. So if you can insert **Dylan Harper** into that mix, I think that gives **San Antonio Spurs** a great balance to have to compete against **Oklahoma City Thunder**. **De'Aaron Fox** being back in the lineup, you got to give him the respect of having his job back. You don't lose your job to injury, and he's going to be just as impactful as Harper, but that gives you two dynamic guards that's on the floor at all times."
+
+---
+
+## Boogie - Chet To Blame For Thunder Loss To Spurs! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=jnTFZL4sdTU
+
+_Speakers identified: Michelle Beadle, DeMarcus Cousins, Lou Williams_
+
+**1. DeMarcus Cousins — DeMarcus Cousins blames Chet Holmgren for avoiding Wembanyama matchup — "I put this on Chet. I think you have to step up and accept that challenge."** [01:11](https://www.youtube.com/watch?v=jnTFZL4sdTU&t=71s)
+
+"I put this on **Chet**. Absolutely. I think you have to step up and accept that challenge. That's his matchup. You know, there's no reason to be having your 6'3", 6'4" guards every possession guard him at the free throw line extended. You have to step up and accept that challenge. I think that's I think that's what changes the series for OKC moving forward. If not, this could get really ugly if that's the game plan every night as far as how we want to guard **Wemby**. **Wemby** is the focal point of their offense. **Wemby** is the X-factor. He's the game-changer. So, you have to accept that challenge to be the game-changer defensively. And the reason I'm saying that, because he does have the ability to do so. I didn't like what I saw. I felt like **Chet** absolutely..."
+
+**2. DeMarcus Cousins — DeMarcus Cousins says Chet Holmgren 'tucked his tail' against Wembanyama — "He tucked his tail. I put this on him."** [01:56](https://www.youtube.com/watch?v=jnTFZL4sdTU&t=116s)
+
+**Michelle Beadle:** "Is he scared?"
+
+**DeMarcus Cousins:** "He tucked his tail. Okay. He tucked his tail. And he's way too good for that. But I put this on him. I believe they still had a chance to win despite the numbers. But defensively, the way he continued to avoid that matchup, this is on **Chet** for me."
+
+**3. Lou Williams — Lou Williams calls Wembanyama's performance a 'coming out party' — "Last night was a coming out party. That's what make the playoffs so special."** [02:38](https://www.youtube.com/watch?v=jnTFZL4sdTU&t=158s)
+
+"Other than that, I thought as great as **Wemby** is a player and as much credit as we give him, last night was a coming out party. That's what make the playoffs so special because you know you're on the world stage, everybody's watching this, this is the matchup we wanted to see and he didn't disappoint us not one bit. He was dominant on both ends of the floor. Every single time that OKC made a run, it was when he was off the floor. They shot 58% when he was off the floor, under 40% when he was on the floor. I'm saying it backwards, whatever. Just his presence, his presence alone, it just makes it easier for everybody around him to be able to do their part and play with confidence."
+
+**4. Michelle Beadle — Michelle Beadle draws Hakeem Olajuwon parallel to Wembanyama's performance — "Never give the MVP award to the person if the other one thought he should have had it."** [05:14](https://www.youtube.com/watch?v=jnTFZL4sdTU&t=314s)
+
+"Can I give you guys an interesting, because I was thinking this last night, **Nick Wright**, shout out, because I don't always agree with **Nick Wright**, but this was a good one. 1995, **Hakeem Olajuwon** had to sit in the building and watch **David Robinson** collect the hardware for MVP. And his night that night for Olajuwon was a 41, 16, 4, 3, and 2 win. Last night, same exact thing. **Wemby** watches **SGA** win something he wanted, 41, 24, 3, 1, and 3. Like that is, I don't know, I don't believe in like, yes I do, who am I kidding? I'm superstitious and weird and I believe in all that fun stuff. That to me is crazy. Never give the MVP award to the person if the other one thought he should have had it. We call it Mamba Mentality. At some point I don't know if that'll be called something else."
+
+**5. DeMarcus Cousins — DeMarcus Cousins says Wembanyama has arrived and is past potential — "I think this kid has arrived now. I think we're getting past the point of potential."** [06:04](https://www.youtube.com/watch?v=jnTFZL4sdTU&t=364s)
+
+"Oh, he's special for a reason and you know, he's still young in his career, but I think this kid has arrived now. I think we're getting past the point of potential. We're actually seeing what this kid is going to be right now in this moment of his career. And that's scary because he still has a lot of growing to do. So, I mean, I think he's the perfect example of a young player coming in right now. The mentality, he cares about winning, it's not about the numbers, he cares about defense. Like everything you want in a young franchise player, he's the perfect example of that. So, I mean, the numbers show it, the performance shows it, the presence shows it, the impact shows it. He's the real deal."
+
+**6. Michelle Beadle — Michelle Beadle describes Wembanyama as collecting powers like a video game — "He feels like he's doing that at a quicker rate than some."** [06:47](https://www.youtube.com/watch?v=jnTFZL4sdTU&t=407s)
+
+"He reminds me of a video game when you sort of like collect powers or weapons as you go and he feels like he's doing that at a quicker rate than some. Like he takes direction well. If he does something wrong one time, he's like, okay, I fixed it and I got it. And that's to me, if I'm not a Spurs fan, probably the scariest part of **Wemby**."
+
+---
+
+## Stephen A.'s MESSAGE for Shai Gilgeous-Alexander 🗣️ PROVE YOU'RE REALLY THE MVP! | First Take — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=lmTWAV1kess
+
+_Speakers identified: Michelle Johnson, Michael Wilbon, Stephen A. Smith, Cam'ron_
+
+**1. Michael Wilbon — Shai Gilgeous-Alexander must perform early in Game 2 as the MVP — "This is about Shai Gilgeous-Alexander. If he's going to be sort of that player we talk about..."** [00:26](https://www.youtube.com/watch?v=lmTWAV1kess&t=26s)
+
+"Very concerned because I got to win Game 2. I mean, I'm not concerned about the previous series and what he did or didn't do against the Lakers when it didn't matter. It matters now. It matters now, you're the two-time MVP. He got involved and really got engaged, activated in the fourth quarter last night. Too late in that game. But I mean, I don't want to overreact to the Game 1 loss. And he is the MVP and he has been a great player in the postseason. But this has to start in Game 2 and has to start early. He needs one of those games that is likely a 35 to 40 plus game. We don't know if **Jalen Williams**, we don't know how effective he is. They were working on both hamstrings at various points during the game. Chet's going to have his hands full with **Victor Wembanyama** no matter how effective he is or isn't in Game 2. This is about **Shai Gilgeous-Alexander**. If he's going to be sort of that player we talk about to have multiple championships and we're talking about who the league benefits from most if they win. This is Shai's time in Game 2 early and often."
+
+**2. Stephen A. Smith — Chet Holmgren must embrace guarding Wembanyama with pride — "Where's your pride? Where's your dignity? Are you going to stand by and let dudes a half an inch, a foot shorter than you guard Wembanyama?"** [02:47](https://www.youtube.com/watch?v=lmTWAV1kess&t=167s)
+
+"Do you remember what I said about **Chet Holmgren** in the first part of this show? Where's your pride? Where's your dignity? Are you going to stand by and let dudes a half an inch, a foot shorter than you guard **Wembanyama** when you're 7 feet 1? When are you going to embrace the challenge? Handle your business. You ain't a scrub, you can play, do it."
+
+**3. Stephen A. Smith — Imagining Shai Gilgeous-Alexander's MVP ceremony facing Wembanyama — "Could you imagine if Shai Gilgeous-Alexander won the league MVP again and San Antonio was facing them in the conference finals?"** [02:47](https://www.youtube.com/watch?v=lmTWAV1kess&t=167s)
+
+"**Shai Gilgeous-Alexander** is the reigning two-time league MVP. He hoisted that trophy last night. If you go back to the archives, **Shai**, you remember this. In the beginning of the season, **Wilbon**, **Cam'ron**, I went on the air and I said, could you imagine if **Shai Gilgeous-Alexander** won the league MVP again and San Antonio was facing them in the conference finals because we all know that's when you get the trophy. Usually when you're in the conference finals, they delay it and giving it to you until then. And I said, and he gets the trophy and **Wembanyama** is standing right there believing that it's something that belongs to him. Could you imagine that? Let's see **Shai** against **Wemby** in that scenario."
+
+**4. Stephen A. Smith — Wembanyama's statement challenging Shai Gilgeous-Alexander and OKC's title — "Wemby seemed to be making the kind of statement to the voters... 'Y'all made the wrong choice. That trophy belongs to me.'"** [02:47](https://www.youtube.com/watch?v=lmTWAV1kess&t=167s)
+
+"**Wemby** showed up. And **Wemby** seemed to be making the kind of statement to the voters, which I am one of them, where he was saying, 'Y'all made the wrong choice. How were y'all thinking? That trophy belongs to me.' **Shai**, what are you going to do about that? Because San Antonio is here and they're coming to take what you are the reigning defending NBA champions. And San Antonio in four or five meetings this year, beat you and then shows up to Game 1 on your home court without its star starting point guard **De'Aaron Fox** and beat you again. That's five of six meetings. You're **OKC**. What are you going to do about it? Because they're coming. They're here. And they're letting you know they're coming to take what you have. 'Take that league MVP trophy that I don't believe you deserve. I deserve it. But go ahead and have that. I'm going to take your title from you. I'm going to send you home and I'm going to win the chip. And I'm going to come back for that MVP next year.' That's the message that **Wemby** sent last night."
+
+**5. Michael Wilbon — Shai Gilgeous-Alexander's quiet superstar status and need for Game 2 noise. — "Shai Gilgeous-Alexander has been the quietest superstar you can really imagine. He's going to have to make some noise."** [05:38](https://www.youtube.com/watch?v=lmTWAV1kess&t=338s)
+
+"**Shai Gilgeous-Alexander** has been the quietest superstar you can really imagine. But he's also been a wonderful face for that organization. No doubt. He's going to have to make some noise in Game 2. I just wonder when you look, you draw some distinctions between their personalities, those two guys. And **Shai**, who was what? 27, maybe turning 28 soon. He's still young enough where he's going to be in the ring against **Wembanyama** for a while."
+
+**6. Michael Wilbon — Wembanyama's personal ruthlessness and future rivalry with Shai Gilgeous-Alexander. — "Wembanyama seems personally ruthless. Does Shai have this? Is it necessary? Or are we going to get several installations?"** [05:38](https://www.youtube.com/watch?v=lmTWAV1kess&t=338s)
+
+"And there's this thing that **Wembanyama** has, this heat that you see that people do not seem offended by, maybe because he's still new to the scene. And I've been saying all season that **Oklahoma City** as a team is politely ruthless. They have come to get you and to crush you. They've crushed certain teams all year. But **Wembanyama** seems personally ruthless. There seems to be a potentially petty element to it sometimes, like he enjoys getting into it. **Wembanyama**'s got a ruthlessness that we saw last night and it's like, wow. Does **Shai** have this? Is it necessary? Do you have that to sort of ascend and be opposite his number, **Wembanyama**'s number, in these coming years? And it sets up. Does it have to be somebody else? Is it going to be **D'Antoni**? Is it going to be **Caleb Wilson**? Is it going to be somebody from outside the picture frame right now who steps into it? Or are we going to get several installations of **Shai Gilgeous-Alexander** and **Wembanyama**?"
+
+**7. Cam'ron — Spurs' defense will smother Shai Gilgeous-Alexander, forcing him to be Superman — "The defense that they're showing Shai, it's not that he's not making the right basketball play, they're going to smother him."** [07:19](https://www.youtube.com/watch?v=lmTWAV1kess&t=439s)
+
+"Listen, Shai's going to have to step up, but I want to give some love to my man **Sean Sweeney**. We gave Miss Johnson his flowers. **Sean Sweeney** came from Dallas, got there this year and had the Spurs the third overall defense. The looks that they were showing given Shai, that's why I gave **Mark Daigneault** credit too. They had to send **Lu Dort** and **Jalen Williams**, whoever played **Alex Caruso**, Dan, all the way down the court to get Shai some space. So the defense that they're showing Shai, it's not that he's not making the right basketball play, they're going to smother him. The scout report is going to say that **Alex Caruso** is going to have to beat us every single game and Shai's going to be smothered from Game 1 through 4, 1 through 7, whatever it is. He did a great job in the second half and overtime, but he's going to face that this whole series. So I don't know if he's going to get better, but he's going to have to be Superman. So I wanted to give my man **Sean Sweeney** some love for the looks that he gave."
+
+**8. Stephen A. Smith — San Antonio Spurs' young core and Victor Wembanyama's future threat — "They're trying to kick down the door to claim something Oklahoma City has with no intentions of giving it back."** [08:35](https://www.youtube.com/watch?v=lmTWAV1kess&t=515s)
+
+"We talk about Wemby coming and the **San Antonio Spurs** and the supporting cast that he has. Here's where the level of urgency needs to kick in. San Antonio, you look at everybody 22 years and younger. They got like the key nucleus of their team, five or six dudes that are 22 years or younger. They're not going away. They're trying to kick down the door to claim something Oklahoma City has with no intentions of giving it back in the foreseeable future. So there's a level of urgency that everybody in the league has to have, but especially OKC, because here's why."
+
+**9. Stephen A. Smith — Oklahoma City Thunder's strong roster, draft capital, and bright future — "Oklahoma City Thunder have 13 first-round picks and 16 second-round picks."** [08:35](https://www.youtube.com/watch?v=lmTWAV1kess&t=515s)
+
+"Can it get any better than the situation that Oklahoma City has right now? You have the reigning two-time league MVP as your star. You got a cat in **Jaylen Williams**, J-Dub, where he and **Evan Mobley** a couple of years ago were the only two dudes that made All-NBA plus an All-NBA Defensive Team. You got two seven-footers in Holmgren and **Isaiah Hartenstein**. You got **AJ Mitchell** and **Cason Wallace** and these brothers who can play. And on top of it all, between now and 2032, over the next six years, the **Oklahoma City Thunder** have 13 first-round picks and 16 second-round picks."
+
+**10. Stephen A. Smith — Shai Gilgeous-Alexander and Chet Holmgren must counter Spurs' rise — "If you don't knock them off now, you may never see another NBA Finals."** [08:35](https://www.youtube.com/watch?v=lmTWAV1kess&t=515s)
+
+"And it is very possible that with everything that I just laid out, because of this dude in **Victor Wembanyama** and these dudes in the **San Antonio Spurs**, that if you don't knock them off now, you may never see another NBA Finals. Because they are in your conference standing in your way and letting you know they are taking it personal and they are coming for you. As smooth and silk and as cool as **Shai Gilgeous-Alexander** is, this ain't the time for that. You've got to be loud, you've got to be demonstrative, you've got to be emphatic. You've got to come and say, 'I'm not giving it up. You're going to have to come take it because I'm not giving it to you. We ain't going out like that.' He's got to do it. And **Chet Holmgren** has to help him along with everybody else. Because San Antonio ain't messing around. They ain't messing around."
+
+**11. Stephen A. Smith — OG Anunoby's health and importance for the Knicks' playoff run — "I need to see OG Anunoby healthy... he was shooting better than 60% from the field."** [02:21](https://www.youtube.com/watch?v=lmTWAV1kess&t=141s)
+
+"I need to see **OG Anunoby** healthy. After being out in the Sixers series with the hamstring injury and whatever the last few games, I want to see him back healthy. The fact that he's gotten this rest, that they got this break because they swept the Sixers and Cleveland and Detroit went seven games, I think it's incredibly important that this guy is in the flow. Remember, he was shooting better than 60% from the field and better than 50% from three-point range, averaging over 20 when he went down in the playoffs. So we have to understand his importance."
+
+**12. Stephen A. Smith — Mikal Bridges must justify Knicks' draft pick investment — "Mikal Bridges has to be that guy because we know Donovan Mitchell might get loose."** [02:21](https://www.youtube.com/watch?v=lmTWAV1kess&t=141s)
+
+"Strictly in regards to their performance, I'm going to say the name **Mikal Bridges** again. Yes, Wilbon, you're absolutely right. It isn't his fault that all those draft picks were given up for him. It isn't his fault, I got it, but they were given up. This is the Knicks situation and it's going to stay this way for the foreseeable future because they gave up all of these assets. He has to justify it. He doesn't have to do anything more than he's been doing over the last few games in these playoffs since they blew out Atlanta by 50 in the first half of Game or the close out Game 6. He's been flowing ever since. Keep that up, is all I'm trying to say. **Mikal Bridges** has to be that guy because we know **Donovan Mitchell** might get loose, who knows what **James Harden** is going to do, who knows what **Jarrett Allen** and **Evan Mobley** are going to do. If **OG Anunoby** is healthy and **Mikal Bridges** is balling, the New York Knicks are easily going to win this series."
+
+**13. Cam'ron — Karl-Anthony Towns' impact on Knicks offense and defense — "Last series, we saw him basically play with a handicap when we're talking about Joel Embiid."** [04:00](https://www.youtube.com/watch?v=lmTWAV1kess&t=240s)
+
+"I'll give you one from each team. I'm going to say for the New York Knicks it has to be **Karl-Anthony Towns**. Last series, we saw him basically play with a handicap when we're talking about **Joel Embiid**. You had to sag off him on defense. Therefore, it helped you out defensively when you saw screens coming, people cutting through, etc. because he was hobbled on defense. Not just that, offensively when they were, we'll call him point center KAT, had the ball in his hands, when he got the drive, defense also collapsed on him. So you were able to find open shots from **Jalen Brunson**, **Mikal Bridges** and where the Knicks just shot lights out, 57% from three-point land. And that was the key to that. You are a big handicap because of **Joel Embiid**. Are you going to do that against **Evan Mobley**? We'll see that."
+
+**14. Cam'ron — Jarrett Allen's past struggles and need to step up — "He said the lights were too bright for him. And that was three years ago."** [04:00](https://www.youtube.com/watch?v=lmTWAV1kess&t=240s)
+
+"And on the other side of the ball, I'll say, it has to be **Jarrett Allen**. He had two great sensational Game 7s in this playoff so far. But I remember him a couple years ago and your guy **Wendy** actually brought it up, how he got smoked by **Mitchell Robinson**. And he said the lights were too bright for him. And that was three years ago. The lights are going to be brighter than three years ago. And you've been playing exceptionally well this series. You're going to have to step up this year for the Cleveland Cavaliers to have a chance."
+
+**15. Michael Wilbon — Donovan Mitchell's early scoring crucial for James Harden's facilitation role. — "if Donovan Mitchell is assertive and productive early, it takes a lot of the pressure off James Harden."** [05:20](https://www.youtube.com/watch?v=lmTWAV1kess&t=320s)
+
+"I'll stick with Cleveland for a second. And it's going to be **Donovan Mitchell**. Look, **Donovan Mitchell** is capable of 50 point games in the playoffs. We know that. He doesn't have to have that tonight. I'm not suggesting he needs to be some great soloist. But here's what it does if **Donovan Mitchell** is assertive and productive early, it takes a lot of the pressure off **James Harden**. Stephen A, you and I particularly have spent a lot of years chronicling and having to be critical in the playoffs, particularly as mid-May turns to late May of **James Harden** and what he hasn't done. But what **James Harden** can do particularly if **Donovan Mitchell** is taking the pressure off him scoring, **James Harden** can just go to facilitation mode. He can do that and have 10, 11, 12 assists and be incredibly effective. This is not a situation where **James Harden** has to be what he was in Houston and has to come out and have a 35 point, 15 assist game. No, he doesn't need to do that. But in order to settle into that role, you need **Donovan Mitchell** scoring a lot in this game."
+
+**16. Michael Wilbon — Evan Mobley, Jarrett Allen must step up early for Cleveland. — "Evan Mobley and Jarrett Allen, you can't have any 3.2 assist, two rebound games out of them."** [05:20](https://www.youtube.com/watch?v=lmTWAV1kess&t=320s)
+
+"**Evan Mobley** and **Jarrett Allen** can then follow suit. Somebody's got to set the tone for Cleveland. **Evan Mobley** and **Jarrett Allen**, you can't have any 3.2 assist, two rebound games out of them. They need bigger games. We saw that late in the Toronto series, we saw it late in the Detroit series. They can't wait till late. Otherwise, there won't be a late in the Knicks series if they don't get started and preferably tonight."
+
+---
+
+## Windy believes that OKC might be ‘checkmated by the 7’4" guy’ Victor Wembanyama 😬 | Get Up — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=osePTXOvTZk
+
+_Speakers identified: Mike Greenberg, Jeff Teague, Brian Windhorst, Monica McNutt, Marcus Spears, Damien Woody_
+
+**1. Brian Windhorst — Dean Wade's effective defense against Jalen Brunson — "When Wade was the primary defender Monica, Jalen was 1 of 16."** [00:27](https://www.youtube.com/watch?v=osePTXOvTZk&t=27s)
+
+"He might end up being right because the Cavs are not a strong defensive team, but they do have a guy that they used on him in the regular season that was very effective and that's 6'10" **Dean Wade**, who I expect to be back in the starting lineup tonight after he did not start Game 7. When Wade was the primary defender Monica, Jalen was 1 of 16. Now, I'm really cautious about going over reaction on a three-game regular season situation where they're back-to-backs and whatnot. But this is who the Cavs will rely on to be the primary defender and with **Max Strus** off the bench."
+
+**2. Mike Greenberg — Jalen Brunson carried the Knicks two years ago, deflecting blame. — "any criticism of Brunson was ridiculous because he was carrying this team basically by himself"** [01:31](https://www.youtube.com/watch?v=osePTXOvTZk&t=91s)
+
+"Two years ago, when the playoffs, I did a rant that people in New York seem to really like when I talked about how **Jalen Brunson**, any criticism of **Brunson** was ridiculous because he was carrying this team basically by himself. If you looked at the roster man for man and what the output they were getting, the production they were getting from other places, it was ridiculous to point any finger of blame at him, even if he played a bad game."
+
+**3. Mike Greenberg — Current Knicks team's depth and key player contributions make them different. — "This team is different. This has changed dramatically in two years."** [01:31](https://www.youtube.com/watch?v=osePTXOvTZk&t=91s)
+
+"This team is different. This has changed dramatically in two years. The trade of **Julius Randle** for **Karl-Anthony Towns**, how does that look right about now after the series that Randle just had? **Karl-Anthony Towns**, sometimes you have to listen to people when they talk to you. It's a good lesson for me even after 30 years doing this because **Towns** kept saying, 'I don't need more shots, I just want the ball.' I was thinking, that's another way of saying I want more shots. He was actually telling you the truth. He wanted to be more involved in the offense. He has been. **OG Anunoby** has emerged as a legitimate star, assuming he is healthy. So while **Jalen Brunson** is still the best player on the team, they have so many other places they can go. To me, that's the difference in these **Knicks**."
+
+**4. Brian Windhorst — Cavaliers' dynamic defense and Donovan Mitchell's scoring ability — "the Cavs have a player in Donovan Mitchell who can take a game."** [03:28](https://www.youtube.com/watch?v=osePTXOvTZk&t=208s)
+
+"First off, the Cavs have a player in **Donovan Mitchell** who can take a game. He had a 39-point half in the last round. I wouldn't say he's playing his best basketball, but they have a guy who can come in and has come into Madison Square Garden in the past and taken a game from them. That's a big key. The second thing is, the Cavs do have a very malleable defense. They can switch and stuff like that. They do have good big men defenders. **Jarrett Allen** has come off a couple of very important games in this playoff career. The Cavs are more dynamic than the Sixers were. This is a different challenge. The Cavs are maddeningly inconsistent in everything that they do and that has driven their fans crazy. They are not a team that is a four-seed talent-wise. They are a team defensively and consistency-wise who are a four-seed."
+
+**5. Mike Greenberg — Victor Wembanyama's game felt historically significant — "last night had a little bit of that kind of feel with Wembanyama."** [04:47](https://www.youtube.com/watch?v=osePTXOvTZk&t=287s)
+
+"that felt like we may someday look back on it and say that's when everything changed. **Michael Jordan** makes that shot against Cleveland in Game 5 in 1989. We just had the anniversary of it recently, Windy, we were talking about it. You could almost break everything up into everything that came before that and everything that came since. I know that this might sound like hyperbole, but last night had a little bit of that kind of feel with **Wembanyama**."
+
+**6. Brian Windhorst — Oklahoma City Thunder potentially 'checkmated' by Wembanyama — "what if they're checkmated though? What if they're checkmated by the 7'5" guy?"** [05:12](https://www.youtube.com/watch?v=osePTXOvTZk&t=312s)
+
+"I have so much respect for the Oklahoma City Thunder organization. If you know about how they do things behind the scenes and how they are so researched and how I've seen them go through their own heartbreak and rebuild the team. And they have put together this team meticulously and beautifully. And as I'm watching this, I'm like, what if they're checkmated though? What if they're checkmated by the 7'5" guy? Because honestly, I'm just, I think of it like this, I'll keep saying it. You don't just have to beat him. You got to beat him four in seven. Four in seven. That mountain is looking like it's really hard to climb."
+
+**7. Mike Greenberg — Victor Wembanyama exceeding impossible expectations with Spurs — "Both of those somehow managed to exceed impossible expectations. This kid seems to be doing that right now."** [09:43](https://www.youtube.com/watch?v=osePTXOvTZk&t=583s)
+
+**Mike Greenberg:** "You know what makes me think of is that every now and again a great one comes along of whom everything is expected and they outdo it. Hembo and I did a book in which we pointed out **Wayne Gretzky** when he was, I want to say he was 12 years old, there were headlines in the papers already locally comparing him to to the greatest literally the greatest players, **Gordie Howe**, the greatest players of all time. **LeBron James** when he came into the league had as much fanfare as any player coming in directly out of high school. Both of those somehow managed to exceed impossible expectations. This kid seems to be doing that right now."
+
+**Marcus Spears:** "He seems to be doing that. And when you think of the great players that came before him, that's what makes it crazy. You have the Admiral. Of course, you had **Tim Duncan**. And he's doing this. This is wild."
+
+**Monica McNutt:** "And what does he have in common with those guys? The organization that he lands in. And so I think skill, focus, all of those things, but you got to give the Spurs a tip of the cap."
 
 ---
 

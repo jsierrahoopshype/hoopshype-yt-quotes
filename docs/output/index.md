@@ -2,9 +2,16 @@
 
 ## 2026-05-19
 
+- [Have Knicks Found the Recipe?! Jalen & Josh on Why this Year is DIFFERENT 😤 — *Roommates Show*](2026-05-19/098Zb8XeLSM.md)
+- [Michael Wilbon speaks on Wemby's impact on the NBA: 'People have to keep up with him!' | Get Up — *NBA on ESPN*](2026-05-19/ELeif2Xcv4Y.md)
 - [Cavs or Knicks? RJ & Channing Go ALL IN On Their ECF Picks — *Road Trippin*](2026-05-19/L4ZDBAG33l4.md)
 - [🚨EMERGENCY REACTION🚨 Wembanyama’s HUGE Statement in Instant Classic Game 1 — *NBA on ESPN*](2026-05-19/Pgh9tsiYUTI.md)
+- [Boogie - Thunder Won't Win A Game vs Wemby, Spurs?!? — *Run It Back*](2026-05-19/a3qSqVnXWAU.md)
 - [HoopsHype YT Quotes — 2026-05-19](2026-05-19/digest.md)
+- [Is Wemby The Greatest Player In The WORLD?!? — *Run It Back*](2026-05-19/fcRehPHlT-g.md)
+- [Boogie - Chet To Blame For Thunder Loss To Spurs! — *Run It Back*](2026-05-19/jnTFZL4sdTU.md)
+- [Stephen A.'s MESSAGE for Shai Gilgeous-Alexander 🗣️ PROVE YOU'RE REALLY THE MVP! | First Take — *NBA on ESPN*](2026-05-19/lmTWAV1kess.md)
+- [Windy believes that OKC might be ‘checkmated by the 7’4" guy’ Victor Wembanyama 😬 | Get Up — *NBA on ESPN*](2026-05-19/osePTXOvTZk.md)
 - [Hear from Wemby and SGA after the Spurs win Game 1 of the WCF in 2OT 🗣️ | SportsCenter — *NBA on ESPN*](2026-05-19/xPVUufSrH0c.md)
 ## 2026-05-18
 
