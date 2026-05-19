@@ -1,5 +1,8 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-19
+
+- [Cavs or Knicks? RJ & Channing Go ALL IN On Their ECF Picks — *Road Trippin*](2026-05-19/L4ZDBAG33l4.md)
 ## 2026-05-18
 
 - [Stephen A. responds to Jaylen Brown’s comments: Be careful what you wish for… 😬 | First Take — *NBA on ESPN*](2026-05-18/162xX4-b0Yg.md)
@@ -9,6 +12,8 @@
 - [Carmelo and Steve Novak Untold Knickstape Stories, Secret NBA Deals, Knicks Finals Chances & More — *7PM in Brooklyn*](2026-05-18/9sw45DNpzcg.md)
 - [Harden Trade a SUCCESS with Cavs Making Conference Finals?? + Knicks-Cavs Predictions — *Run It Back*](2026-05-18/CHwFyiaauDc.md)
 - [RJ & Channing CAN'T AGREE On Anything: SGA MVP, Ant's Handshake & The Randle Problem — *Road Trippin*](2026-05-18/D8WTonjHwh8.md)
+- [Draymond Green on Cavs/Pistons Game 7, NBA Conference Finals Matchups & SGA Winning NBA MVP — *The Draymond Green Show*](2026-05-18/HS0-0kh0EqA.md)
+- [Channing Says Wemby Got ROBBED For MVP + Spurs vs Thunder WCF Predictions — *Road Trippin*](2026-05-18/I43CDRGeYeE.md)
 - [Where does Shai's SECOND BACK to BACK MVP put him ALL-TIME today 👀 — *To The Baha*](2026-05-18/IOMG44ir9jc.md)
 - [Chandler Parsons and Mark Cuban BULLIED the Houston Rockets to get his Dallas contract 💀 — *Out The Mud*](2026-05-18/JMyilTzMfQ4.md)
 - [Knicks vs. Wemby or SGA in the NBA Finals Would Be BROADWAY 🎬🤯 — *7PM in Brooklyn*](2026-05-18/KSnOYFhM-K4.md)
@@ -17,12 +22,17 @@
 - [Reacting to Luka Doncic prefering to play with Austin Reaves over Giannis 🤯 — *To The Baha*](2026-05-18/RwwFVSkZGQk.md)
 - [Darren Waller’s dream offense is a nightmare for any defender 😳🔥 — *All The Smoke*](2026-05-18/TNotAIzhHPs.md)
 - [Bobby Marks' Offseason Guide for the Detroit Pistons 🚨 | NBA on ESPN — *NBA on ESPN*](2026-05-18/TcA_eXVajss.md)
+- [“8 Minutes Is CRAZY” - Ant’s Handshake + RJ Fires Back At Perk’s Julius Randle SLANDER — *Road Trippin*](2026-05-18/aRVhTfMRkoU.md)
 - [The Detroit Pistons ‘ran out of gas’ in Game 7 against the Cavs - Vince Goodwill | Rich Eisen Show — *NBA on ESPN*](2026-05-18/d7d75rUJDg4.md)
 - [HoopsHype YT Quotes — 2026-05-18](2026-05-18/digest.md)
+- [Eastern Conference Finals Preview - Knicks Heavy Favorites? — *NBA on ESPN*](2026-05-18/hi9flPSMJNE.md)
+- [The Final Chapter of LeBron? 👑 Where Does He End His NBA Legacy? — *ESPN LA*](2026-05-18/iDlI2F0vocQ.md)
 - [Is Series Sweep BAD in Playoffs?! Jalen & Josh Weigh In on Postseason Format & Embiid's Collapse — *Roommates Show*](2026-05-18/l7ioiOjD0e4.md)
 - [Jaylen Brown says f**k Stephen A Smith & he'll stop streaming if SAS retires 😳 — *Chaz NBA*](2026-05-18/qEjOFyj7D5w.md)
 - [FULL Western Conference Finals Preview - All-Time Series Brewing? — *NBA on ESPN*](2026-05-18/qcLD93lqYX0.md)
+- [Can Jalen Brunson Lead the Knicks to a Title This Year? | Carmelo Anthony & Steve Novak — *7PM in Brooklyn*](2026-05-18/qeg7ekgJIhg.md)
 - [Spida Mitchell CRUSHES Pistons, Cavs Move On To ECF + Detroit's Offseason | Spurs & OKC Kickoff WCF — *No Fouls Given*](2026-05-18/qw2sHcA6d0E.md)
+- [’THE SERIES WE’VE ALL BEEN WAITING FOR’ 🍿 Previewing Spurs vs. Thunder in the WCF | SportsCenter — *NBA on ESPN*](2026-05-18/uFzy34VFVpc.md)
 - [Shams addresses breaking the news on Shai Gilgeous-Alexander winning MVP 🏆🚨 | The Pat McAfee Show — *NBA on ESPN*](2026-05-18/uhz6lEVB8vk.md)
 - [Kendrick Perkins Says Lakers Need A Culture Reset!? #Lakers #LeBron #lukadoncic #nba — *Road Trippin*](2026-05-18/xCQimB2n1sc.md)
 - [Can the Cavs compete with the Knicks? 👀 Eastern Conference Finals Preview | NBA Today — *NBA on ESPN*](2026-05-18/yulmUX4kCtI.md)

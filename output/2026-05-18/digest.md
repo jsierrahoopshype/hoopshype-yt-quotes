@@ -426,6 +426,146 @@ _Speakers identified: Allie Clifton, Channing Frye, Richard Jefferson_
 
 ---
 
+## Draymond Green on Cavs/Pistons Game 7, NBA Conference Finals Matchups & SGA Winning NBA MVP — *The Draymond Green Show*
+
+Source: https://www.youtube.com/watch?v=HS0-0kh0EqA
+
+_Speakers identified: Draymond Green_
+
+**1. Draymond Green — Draymond disappointed by Pistons' lack of fight in Game 7 — "I just did not expect the Pistons not to punch back at all."** [01:16](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=76s)
+
+"The Cavs go into Game 7 on the road in Detroit and annihilates the Pistons by 31 points, which is the third largest Game 7 road win in the history of the NBA. Listen, I thought Detroit would put up a better fight. It was a little disappointing to see the fight that the Pistons had. Once they got punched once, the Cavs never truly needed to punch again. And that's disappointing going into a Game 7. Like, yes, we all know Game 7s are unpredictable, anything can happen in a Game 7. We know every cliché saying that's around, of course. But I just did not expect the Pistons not to punch back at all. It seemed very early in the game that like, yo, this is going to be an **Isaiah Stewart** type of game. The Pistons ain't really playing with no force, they're not punching back. **J.B.** had been going with **Paul Reed** for the last few games and rightfully so, **Paul Reed** had been playing well. But it just felt like Game 7 wasn't a game where the Pistons needed some toughness, they needed some force. And who brings that for them is **Isaiah Stewart**."
+
+**2. Draymond Green — Draymond disappointed by Tobias Harris's demeanor in Game 7 — "I was a little disappointed in Tobias's demeanor. It just kind of looked like deer in the headlights, uninterested."** [03:50](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=230s)
+
+"You can kind of see on a guy's face when it's like, oh man, like he really ain't ready for this moment. You can see it on guys' face. And I was a little disappointed in Tobias's demeanor. Tobias has played great all playoffs with the exception of the last few games. It was just a little disappointing. Like his first foul was an unnecessary foul. It's like, oh man, I'm going to grab. Then the second foul he took was an unnecessary foul. It's like, oh man, I'm going to grab. And the look on his face when he was grabbing and taking those fouls to me just kind of looked like deer in the headlights, uninterested. And that was just a little disappointing for me because for a team that has already beat the odds, being the number one seed after winning 14 games or something like 16 games or whatever it was two years ago to now be a number one seed."
+
+**3. Draymond Green — Jalen Duren's extension, playoff performance, and Pistons' fight — "Jalen Duren is up for an extension. Jalen Duren did not sign an extension last year."** [05:50](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=350s)
+
+"Everyone's talking about it, it's the worst kept secret. **Jalen Duren** is up for an extension. **Jalen Duren** did not sign an extension last year because he felt like he was worth more than they were offering. Well, now there's a fork in the road. Didn't play great all playoffs. Yet had a great year, 22 years old, still a lot of room for improvement. But sometimes when you have these situations in the playoffs, guys never get over it, never get over that hump. Now, I don't know that I'm not betting on a 22-year-old freaking nature. Probably got to make that bet. But I think it was consistent across the **Pistons**. But if you're going to go down, you want to see a guy go down or team go down with fight and that just wasn't quite the fight that was expected."
+
+**4. Draymond Green — Sam Merrill's pivotal role as a playoff series-swinger — "If Sam Merrill does not do another thing in these playoffs, Sam Merrill has done his job."** [05:50](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=350s)
+
+"**Sam Merrill** came out, we always talk about who's going to swing the series. If **Sam Merrill** does not do another thing in these playoffs, **Sam Merrill** has done his job. He swung one series. And as a role player, you only have to swing one series when your number is called. **Sam Merrill**'s job in the playoffs is complete."
+
+**5. Draymond Green — James Harden's bounce back after early series criticism — "Everybody saying, oh man, this is a stain on his legacy, stain on his career. Steadied the ship."** [10:34](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=634s)
+
+"**James Harden** played great. There was a lot of talk about **James Harden** in the beginning of the series. I was on Inside the NBA at the beginning of this series, speaking about **James Harden** and everything everybody had to say. And in true fashion, he bounced back. Everybody saying, oh man, this is a stain on his legacy, stain on his career. Where is he headed to the conference finals? A lot of talk was going on. Steadied the ship. Didn't do too much, didn't overdo it, steadied the ship."
+
+**6. Draymond Green — Kenny Atkinson's offensive adjustment through Evan Mobley — "Kenny Atkinson started running the offense through Evan Mobley... it allowed James Harden to play well. It allowed Donovan Mitchell to play well."** [10:34](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=634s)
+
+"Why I say **Kenny Atkinson** gets the game ball is, **Kenny Atkinson** started running the offense through **Evan Mobley**. **Evan Mobley**'s had a down year. **Evan Mobley** looked like he regressed and took two steps back. Yet **Kenny Atkinson** started running the offense through him a lot like they did last year and **Evan Mobley** this series looked like **Evan Mobley** from last year. Ironic how that worked out. But even more so than **Evan Mobley** having a big year, what did happen was, it allowed **James Harden** to play well. It allowed **Donovan Mitchell** to play well. And the reason it allowed them to do that because they just weren't standing in front of the defense trying to make every play. **Evan Mobley** had the ball. And then they get the ball and it's attack. And that's a totally different thing from coming down, dribbling, dribbling and waiting everybody to get set up while a guy hawking you, all of a sudden they get into a ball screen damn near half court, whole defense loaded up. Totally different thing. **Evan Mobley** now has it. They catch it downhill, catch it shot, catch it drive kick. Weren't playing directly in front of the whole defense. And it was beautiful to see. So I got to give **Kenny Atkinson** a lot of credit on getting his team through this series, allowing his guys to flourish the best way they could flourish in this series."
+
+**7. Draymond Green — Jarrett Allen's aggressive play in close-out games — "Jarrett Allen was huge yesterday. Seems like in these playoff games Jarrett Allen becomes this aggressive guy."** [10:34](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=634s)
+
+"**Jarrett Allen** was huge yesterday. Seems like in these playoff games **Jarrett Allen** becomes this aggressive guy, rebounding, rim protection. It's beautiful to see. A lot of people go the opposite way when it's a close out game. So, got to give him his credit. Spoke about the lights being too bright, but in these close out games, he's been showing up. And you got to give credit where credit is due."
+
+**8. Draymond Green — San Antonio Spurs must prove themselves against Thunder in playoffs. — "Now is the time for San Antonio to go prove that they're better."** [20:26](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1226s)
+
+"Next up, we got the **Thunder** versus the **Spurs**. The **Spurs** went 4-1 against the **Thunder** this season. The **Thunder** will come into this well rested as they played their last game May 11. And this is, listen, I think this will be an interesting series. Obviously, you got the young up-and-comers versus the champs. And champs getting their full strength, they got **Jalen Williams** back for Game 1. But now is when it gets real. You won four games against the champs this year, you should when you're **San Antonio**. Because you're approaching all those games like, man, we got to beat these boys, we got to prove them a point. And they're not really approaching those games like that. They're walking away like, oh man, these guys think they can really beat us. So now is the time for **San Antonio** to go prove that they're better."
+
+**9. Draymond Green — Jalen Williams' return impacts OKC's offense and Wembanyama defense. — "Jalen Williams may have to guard Wembanyama some. Jalen Williams has got the length, he's got the size."** [20:26](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1226s)
+
+"Now, **Jalen Williams** returning this series, ultimately, this is huge. It's not huge because of how great of a player **Jalen Williams** is, that's obvious. It's huge because in a series where you're going to have to move **Wembanyama** around. In a series where you got one guy attacking the defense on the front side of the play, you need that other guy that can bend the defense on the back side of the play because you attack the front side, you move **Wembanyama** out, you engage him. Now you swing it, you need to get back downhill. When that **Shai** swinging to **Jalen Williams** to get back downhill or **Jalen Williams** swinging to **Shai** to now get back downhill, looks different. I think this is huge for that reason for **OKC**. You're playing against the young up-and-coming team, you need to be at full strength. How much can **Jalen Williams** affect impact this series? Hasn't played a ton all year, has obviously been out the last couple weeks. How much can he impact this series from a health standpoint, from a conditioning standpoint? It's the conference finals. How much of an impact can he ultimately have on that? Another reason I'll tell you that can get interesting. **Jalen Williams** may have to guard **Wembanyama** some. **Jalen Williams** has got the length, he's got the size, he can keep up on the perimeter obviously. So he may actually have to guard **Wembanyama** some. Obviously, I'm pretty sure they'll start with **Chet** on him, maybe **Hartenstein**. But if those bigger guys struggle, to have someone at 6'9" that moves like **Jalen Williams** moves, can actually possibly have to guard **Wembanyama**. That team needs to go small and they need to play **Jalen Williams** at the big, they can do that. So, I think this changes the series in multiple different ways. Defensively and offensively, I think this impacts this series largely."
+
+**10. Draymond Green — OKC's downhill attack faces Wembanyama's elite rim protection. — "Oklahoma City is everything they do is predicated off getting downhill. San Antonio is built for them to get downhill."** [20:26](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1226s)
+
+"**Oklahoma City** is everything they do is predicated off getting downhill. **San Antonio** is built for them to get downhill. They've got **Wembanyama** at the rim. Sometimes **Luke Kornet** when **Victor Wembanyama** is out. But **Luke Kornet**, he's not stopping **Shai**, he's not stopping **Jalen Williams** from getting to the rim. But **Wembanyama**. How can they figure that out? One thing that **Minnesota** was doing early in this series, they kept ducking them in. As soon as somebody started driving, somebody ducked in to **Wembanyama** to engage his body so he just couldn't roll. They struggled with that later in the series and **Minnesota**, **San Antonio** started to figure it out. But that was something **Minnesota** did that I thought was beneficial early in the game. When you got **Hartenstein** out there, do you want **Hartenstein** ducking in? Number one, it's wearing them down. You got to engage like that every play, it's wearing you down. Wearing you down for the defensive end, wearing you down for the offensive end. I think that can somewhat help **OKC**."
+
+**11. Draymond Green — De'Aaron Fox's elite guard play crucial for Spurs' championship hopes. — "De'Aaron Fox almost must lead the charge. He almost must be the guy in this series for the Spurs."** [20:26](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1226s)
+
+"What this is going to boil down to is, **OKC** knows what they're doing. **OKC** comes at you in ways. **San Antonio** comes at you in ways. They have built similar teams. Athleticism, length, getting downhill, neither team overly relies on the three-point shot. They've built very similar rosters. **De'Aaron Fox** is going to have to be a huge series. They cannot win this series with a pedestrian performance by **De'Aaron Fox**. **De'Aaron Fox** almost must lead the charge. He almost must be the guy in this series for the **Spurs** if the **Spurs** is going to win this series. Because ultimately, what wins championships, incredible guard play. You must have great guard play if you're going to compete for championships. You look at all four of these teams that's left, **Cleveland Cavaliers**, great guard play. **New York Knicks**, great guard play. **OKC**, incredible guard play. **San Antonio** **Spurs**, they have very, very, very high level guard play. It needs to be great. If they're going to compete in this series, the guard play has to be great. No, it's not going to match **Shai Gilgeous-Alexander**. But it can't just be Shai here, **San Antonio** guard play here. It has to be somewhat comparable in order for the **Spurs** to ultimately compete and have a chance at winning this series."
+
+**12. Draymond Green — Knicks' rest advantage and strong perimeter defense against Cavs — "New York is tailor-made and built to play against this Cavs team."** [26:40](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1600s)
+
+"Knicks versus Cavs. The Knicks went 2-1 versus the Cavs this season. The Knicks come in well rested as well as they played their last game one day before OKC played their last game on May 10. Listen, there's always the rest versus rust. I don't get into that. Even if it costs you one game, over the course of a seven-game series like the Conference Finals, that rest is going to add up. It shouldn't cost you a game anyway. We're NBA players. Maybe it costs you a quarter, at worst it costs you a half. We're NBA players, you should still be able to get through that. So I don't buy the excuses. Ultimately, the New York Knicks got to come out ready to play. New York is tailor-made and built to play against this Cavs team. They have a bunch of guys you can match up on the perimeter. **Mikal Bridges**, **OG Anunoby**, **Josh Hart** coming off the bench. **Landry Shamet** is a pretty good on-ball defender. **Jose Alvarado**, you throw him in to see if he can hawk those guys for a few plays. **Duane Washington Jr.**, another good perimeter defender. So they're tailor-made to play against this Cleveland Cavaliers team and cause them some issues."
+
+**13. Draymond Green — Knicks' offensive strategy: Karl-Anthony Towns high post, Jalen Brunson — "Move Karl-Anthony Towns to that high post, it's been beautiful."** [26:40](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1600s)
+
+"If I'm **Mike Brown**, I don't think you need to stray far away from what you've been doing. Move **Karl-Anthony Towns** to that high post, it's been beautiful. Move him to the high post, pull those bigs away from the rim, get all those cutters going, get OG back into the flow, get **Mikal Bridges** into the series early. I don't think you need to come out ball heavy, ball dominant **Jalen Brunson**. The reason I don't think you need to come out ball heavy, ball dominant **Jalen Brunson**, is because I don't think the Cavs have many guys that can really match up with **Jalen Brunson**. So ultimately, you need to get **Karl-Anthony Towns** going, get **Karl-Anthony Towns** involved, allow him to get everyone else involved. Allow him to engage their bigs, maybe their bigs get in foul trouble. Changes the game because there's not great perimeter defense so they really rely on their bigs to clean up things and make up defensive mistakes in the paint and at the rim. **Karl-Anthony Towns** can negate that by pulling them away from the rim, possibly getting them in foul trouble."
+
+**14. Draymond Green — Cavs' offensive flow through Evan Mobley, Knicks' defensive pressure — "Don't let Evan Mobley handle the ball. Force it to be the guys Donovan Mitchell and James Harden."** [26:40](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1600s)
+
+"I also think the Cavs need to continue playing through **Evan Mobley**. Yes, the New York Knicks does not have an **Ausar Thompson**. So it's not going to be an **Ausar Thompson**, but it's multiple guys who can get up and pressure and do the things. I think continuing to play through **Evan Mobley** has to be a key for the Knicks. That'll probably be **OG Anunoby**'s matchup. What's OG doing? Is OG stepping up to that challenge? Maybe you get OG in foul trouble. OG needs to press up. Don't let **Evan Mobley** handle the ball. Force it to be the guys **Donovan Mitchell** and **James Harden**. Because ultimately, when those guys are handling the ball, they are great. Don't get me wrong. Those two guys are great. But the team isn't as good because they're just lined up in front of the defense. When they're just standing in front of the defense, it's easier to key on those guys. Ultimately, I think you need to be pressuring the hell out of **Evan Mobley**. Pressuring the hell out of him so that he can't run the offense. Because I think that's what this really comes down to. Who's going to be able to get into a better offensive flow? Neither one of these teams are great defensively, yet both are really good defensive teams. So who's going to be able to find the better offensive flow?"
+
+**15. Draymond Green — Draymond Green predicts Knicks will win series in six games — "They have found themselves playing incredible. They should win this series."** [26:40](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=1600s)
+
+"Ultimately, who do I have winning this series? The Knicks are playing great. They have hit a stride unlike many teams that we've seen in recent playoff history. They have found themselves playing incredible. They should win this series. **Donovan Mitchell** is going home, **James Harden** back in the Big Apple. It ain't going to be easy though. But the Knicks should take this series. Ultimately, I think I have to pick the Knicks. The Cavs are going to make it really tough though. But I'm going to take the Knicks. I'm going to take the Knicks in six. Knicks in six. That's who I'm rolling with."
+
+**16. Draymond Green — Shai Gilgeous-Alexander wins back-to-back MVP, beating Jokic and Wembanyama. — "Shai Gilgeous-Alexander officially wins the NBA MVP award with Nikola Jokic finishing second and Wembanyama finishing third."** [34:51](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=2091s)
+
+"**Shai Gilgeous-Alexander** officially wins the NBA MVP award with **Nikola Jokic** finishing second and **Wembanyama** finishing third. **Shai Gilgeous-Alexander** became the 14th player in NBA history to win back-to-back MVPs. He won it by a pretty nice margin. He had 839 total points versus second place **Nikola Jokic** with 634 points. **Wembanyama** not far behind Jokic with 569 points. **Luka Doncic** was in fourth for 250 points. One interesting thing, Luka did not receive one first-place vote. **Cade Cunningham** received two first-place votes. Well deserved, congratulations to **Shai Gilgeous-Alexander**. He was the MVP the entire season. I'm very surprised to see him get one fourth-place vote. It's actually ridiculous. But well deserved. They were the best team all season, he was the best player all season. If Jokic doesn't get hurt, maybe he can overtake Shai for the MVP. But **Wembanyama** came on a bit late, made a great push but just came on a bit late. And so Shai gets it back-to-back. I think it's well deserved. I think one of the things that was probably more interesting to most people was that everybody probably thought **Vic** would be in second as opposed to Jokic being in second."
+
+**17. Draymond Green — NBA MVP leak by Shams is embarrassing and disorganized. — "To tweet at 6:00 in the morning who the NBA MVP is, it's actually embarrassing."** [34:51](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=2091s)
+
+"There was a discrepancy with this. **Shams** leaked it. I think the NBA has to do something about that. Ultimately, you're the NBA, you control the media. **Shams** is an NBA reporter with ESPN who is a partner of the NBA. To tweet at 6:00 in the morning who the NBA MVP is, it's actually embarrassing. It makes our league look like we have no organization. It makes it look like that's child's play. We can't hold the winner of the most prestigious individual award in the NBA. We can't hold those results until it's actually time to be announced. That was a little disappointing. There's no way that can happen. If there's supposed to be an announcement on Amazon Prime, the announcement has to happen on Amazon Prime. This is something **Commissioner Silver** has to do something about. This can't happen. The leak of the NBA MVP. What are we doing here? It'd be one thing if it's a reporter that's not a prominent reporter in the NBA. But it's **Shams**. **Shams** has to be in partnership with the NBA to be as prominent as he is. That can't happen. So I thought that was embarrassing."
+
+**18. Draymond Green — Praising Cade, Brunson, Kawhi, Mitchell for their incredible MVP-caliber seasons. — "Congrats to those guys on having incredible years. Well deserved, beautiful to see."** [34:51](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=2091s)
+
+"Needless to say, congratulations to **Shai Gilgeous-Alexander**. Congratulations to all the guys. Rounding out the top five was **Cade Cunningham** with **Jalen Brunson** at six, **Kawhi Leonard** at seven with one fifth-place vote as well as **Donovan Mitchell** with one fifth-place vote. So, congrats to those guys on having incredible years. Well deserved, beautiful to see. Happy to see **Jalen Brunson** named somewhere on this list. Obviously, he would have hoped it would be higher and I hope he keeps putting that work in like he's always done and marching on up that list. But it's beautiful to see and congrats to all the guys that made this list putting the work in. It's not an easy feat. Especially **Shai Gilgeous-Alexander**, **Nikola Jokic**, guys who have won this award multiple times and they continue to stay at that level. It's huge."
+
+**19. Draymond Green — Emotional challenge of MVP presentation for OKC in Game 1. — "It is tough emotionally to see your guy get that award and then reset and go play that game right away."** [34:51](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=2091s)
+
+"Now, you have the game where Game 1, **Shai Gilgeous-Alexander** will be presented the award and **Wembanyama** is on the other side. Usually, it's a very tough game to play in when these things happen. **OKC** doesn't seem to be bothered by things like this. But emotionally, you see a guy get the MVP award, it's usually a very tough game. What will **Wembanyama**'s mindset be is the question. The reality is you're not getting any more motivation from not being voted the MVP than trying to win a championship anyway. This is the Conference Finals. It's four teams left. You have all the motivation you need. You're standing in the way of us being one of the final two teams. That's enough motivation in itself. However, it is tough emotionally to see your guy get that award and then reset and go play that game right away. It gets tough. We shall see how **OKC** handles it, but I would not be surprised if **OKC** struggles a bit coming out in this game because you're just trying to get over the emotions of watching your guy do some incredible things. It's tough at times. So we'll see how they handle it, but you don't need any more motivation."
+
+**20. Draymond Green — Myles Turner's explosive comments about Bucks culture and desire to leave. — "Myles Turner had some explosive comments about the Bucks culture under Doc on his Game Recognize Game podcast."** [40:38](https://www.youtube.com/watch?v=HS0-0kh0EqA&t=2438s)
+
+"**Myles Turner** had some explosive comments about the Bucks culture under Doc on his Game Recognize Game podcast. He said Doc never fined anyone, so guys were late, kind of called out Giannis. What I'll say here is, **Myles Turner** is trying to get the hell out of Milwaukee. I don't know that that's going to happen with the way he played this year and the contract that he signed. But he looked like he don't want to be there, talking about stuff like that out of the locker room. He has no interest in being there. It's been a very forgetful year for him after leaving Indianapolis for the first 10 years of his career. The way it all went down and then for the season to play out like this, pretty shitty. But he looked like he's trying to work his way out of there."
+
+---
+
+## Channing Says Wemby Got ROBBED For MVP + Spurs vs Thunder WCF Predictions — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=I43CDRGeYeE
+
+_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye_
+
+**1. Channing Frye — Channing questions Shai Gilgeous-Alexander's MVP stats — "I just think what did he lead the league in other than scoring?"** [01:04](https://www.youtube.com/watch?v=I43CDRGeYeE&t=64s)
+
+**Allie Clifton:** "Any surprise? Not with Shams. With **Shai** winning back-to-back."
+
+**Channing Frye:** "Uh, I'm just hating? Other than I'm kind of hating a little bit. I'm kind of hating a little bit."
+
+**Allie Clifton:** "Hating?"
+
+**Channing Frye:** "I just think what did he lead the league in other than scoring?"
+
+**Richard Jefferson:** "Oh god, don't do this, Channing. Please don't do this."
+
+**Channing Frye:** "I'm just asking a question."
+
+**Allie Clifton:** "He didn't he didn't lead the league in scoring, did he?"
+
+**Channing Frye:** "Oh, he didn't. Who did? Did he lead it in rebounding or blocks or steals?"
+
+**2. Richard Jefferson — Richard Jefferson argues wins are the most important stat — "Wins. The most important thing in our league is wins."** [02:20](https://www.youtube.com/watch?v=I43CDRGeYeE&t=140s)
+
+"Okay, really quickly. He didn't lead in any statistical categories. That's what everybody wants to say, okay? Right? Wins. The most important thing in our league is wins. I don't care about any of you sports nerds, any of you stat nerds, any of you the most important thing is wins."
+
+**3. Richard Jefferson — Richard Jefferson defends Shai's MVP with historical record and consistency — "He broke a Wilt Chamberlain record. Yeah, he didn't lead in the stat, but he broke a historical record."** [02:42](https://www.youtube.com/watch?v=I43CDRGeYeE&t=162s)
+
+"They started off 24 and 1. He scored 20 points in every game this season. He broke a **Wilt Chamberlain** record. Yeah, he didn't lead in the stat, but he broke a historical record. 20 points for straight years. At 54% efficiency. He scored in 20 points, he scored 20 points in every game this season that he played. He broke a **Wilt Chamberlain** record."
+
+**4. Channing Frye — Channing challenges Richard's 'wins only' MVP argument — "How does Russell Westbrook win an MVP?"** [04:51](https://www.youtube.com/watch?v=I43CDRGeYeE&t=291s)
+
+**Channing Frye:** "Wins are important stats. How does **Russell Westbrook** win an MVP?"
+
+**Richard Jefferson:** "No shit. But it is the stat. It is the only stat that matters. Team is the most important stat."
+
+**Channing Frye:** "Was that true? **Jokic** won it and they were fifth in the East. I think he won two of his three MVPs, they weren't one or two. They were eight and six without **Shai**. So."
+
+**Richard Jefferson:** "I couldn't agree. I couldn't agree. Why? Because he put up historical statistical categories."
+
+**5. Channing Frye — Channing argues Victor Wembanyama deserved MVP for transformative impact — "I just think MVP to me, the most valuable player should go to the guy who has transformed his team."** [06:40](https://www.youtube.com/watch?v=I43CDRGeYeE&t=400s)
+
+"You have a 22-year-old who took a team. No, no, this is less about now. I'm not disagreeing with anything that you are saying. I just think MVP to me, the most valuable player should go to the guy who has transformed his team from each year it's going to be different, right? So obviously they won last year. **Shai** should have got that thing a thousand times last year. I thought this year, if I had a vote, that **Wemby** made the biggest impact on his team both defensively and offensively."
+
+**6. Richard Jefferson — Richard summarizes MVP race, crediting Shai's team record as deciding factor — "Who had the best overall record in the NBA? And that was Shai's team."** [08:20](https://www.youtube.com/watch?v=I43CDRGeYeE&t=500s)
+
+"Dominance defensively because that's half the basketball game in **Wemby**. And then you look at consistency with with **Shai**. And especially because he had guys out. **J-Dub**, like I said, their All-NBA player missed majority like what? 50 games this year. And they still had the number one record? That's because that man every time he showed up, it was consistent. So I love the fact that the MVP race was among three juggernauts. Three absolute juggernauts. And what was the final deciding factor? Who had the best overall record in the NBA? And that was **Shai**'s team."
+
+---
+
 ## Where does Shai's SECOND BACK to BACK MVP put him ALL-TIME today 👀 — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=IOMG44ir9jc
@@ -817,6 +957,72 @@ _Speakers identified: Bobby Marks_
 
 ---
 
+## “8 Minutes Is CRAZY” - Ant’s Handshake + RJ Fires Back At Perk’s Julius Randle SLANDER — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=aRVhTfMRkoU
+
+_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye_
+
+**1. Richard Jefferson — The 'white flag' in basketball signifies game's end, tradition — "Your coach is waving the white flag, you're waving the white flag. When this thing is over, I'm walking off."** [01:15](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=75s)
+
+"Your coach is waving the white flag, you're waving the white flag. When this thing is over, I'm walking off. You don't normally see that, but your coach is pulling it. So the white flag, the game's over. Your coach is saying one of the top ten players in the world is coming out, it's over. Should he wait? Yes. Is that for tradition? Yes. That is a tradition. Once the white flag is done, it's whatever. He can be laughing and joking with somebody."
+
+**2. Richard Jefferson — Public reaction to Anthony Edwards laughing after a decided game — "Should Ant be laughing at a closeout game and joking with the other team with two minutes to go?"** [01:15](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=75s)
+
+"If they would have shown a player by their bench and one of the **Spurs** says something to **Ant** and **Ant**'s laughing and joking in the final two minutes, people would be like, 'Should **Ant** be laughing at a closeout game and joking with the other team with two minutes to go?' Am I lying? That's exactly what they would say. And if it was like, 'Yo, the white flag's already been done. Competition's over. This is finished.' Should he do it in the tradition? Probably not. Is it the worst thing in the world? No one gives a shit. I don't think that there's anything like he was out of line or any of that stuff."
+
+**3. Richard Jefferson — The situation is an overreaction, not impacting teammates — "I think we're making a big deal out of nothing is my point."** [01:15](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=75s)
+
+"What does that say to your teammates? The coach just pulled us all in the game. It's over. What does it say to my teammates? I said what's up to the other team because after this, it's over. So I just, I think we're making a big deal out of nothing is my point. I see that space, the game is over, coach pulled him, let's call it."
+
+**4. Channing Frye — Channing Frye criticizes eight-minute delay for post-game court walk — "You waved the white flag and then you immediately go over there? Dude, you got to sit down."** [02:40](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=160s)
+
+"Eight minutes? Eight minutes is crazy. It would have been better if it was two. To me, you make a big deal halfway through a timeout to walk across the court, **Richard**. You would never, you would never in your life go across the court. Hey, I'm sitting on the bench. When I see the guys, maybe at the beginning of a timeout, two, three minutes, where everything is calmed down. They literally just took that belt to ass. You waved the white flag and then you immediately go over there? Dude, you got to sit down, take that ass-whooping for a little bit. Three minutes, two minutes, then go over there, say, 'Hey, I just want to say, boom, boom, boom.' That would have been very different, but eight minutes is wild."
+
+**5. Channing Frye — NBA legends' historical sportsmanship vs. modern dapping up — "Every NBA player ain't Isaiah Thomas. Every player ain't Michael Jordan."** [02:40](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=160s)
+
+**Richard Jefferson:** "No. I'm not agreeing, I'm not disagreeing. Somebody said **Isaiah Thomas** wouldn't have dapped them up at all. Every NBA player ain't **Isaiah Thomas**. Every player ain't **Michael Jordan**."
+
+**Channing Frye:** "Also, there are other teams. I know **Isaiah**, **Zeke** gets the short end of the stick. That wasn't customary back in the day for everyone to be hunky-dory, 'I love you.' You never saw the Lakers and Celtics high-five or hug each other when they beat each other in the NBA Finals. They hated each other."
+
+**6. Richard Jefferson — Anthony Edwards' unique confidence and personality on and off court — "Ant is different. And so you got to accept all the quirky, all the good, all the bad, all the unique."** [06:12](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=372s)
+
+"Ant's also the guy that was on the USA roster that said that he was the most important player. He was the most important or something. You can't tell Ant. And that's why we love Ant. That's why we love Ant because Ant is sitting there playing against **Kevin Durant**, who's his idol, and talking, looking up to. He's also the player that the whole game was stopped so he could go over and give **Kevin Garnett** a hug. But that's what I'm saying. Ant sees it through a different lens, man. And it's like we can't applaud all of that and then he does something else through a different lens and we want to be like, 'Basketball culture' or 'blah, blah, blah.' Well, typically 22-year-olds don't talk to first-ballot Hall of Famers like **Kevin Durant** in a playoff game and talking shit and look at him. Ant is different. And so you got to accept all the quirky, all the good, all the bad, all the unique."
+
+**7. Richard Jefferson — Anthony Edwards' impressive toughness and playoff performance despite injuries — "What we should be talking about is how impressive Ant was and the fact that he came back for his team."** [06:12](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=372s)
+
+"Ant also showed up with two bad knees and went out there and played for his team. And at the end of the series, I'd rather be talking about that because Ant is different. He'll show up with one bad leg, hurt his knee, show up, win Game 1, be up, whatever it is. That's special. But that's also a different mentality, a different lens, a different focus. So if he does something different at the end, then there's no harm, no foul. What we should be talking about is how impressive Ant was and the fact that he came back for his team and had a team like **San Antonio** on the brink."
+
+**8. Richard Jefferson — Allie Clifton reads Kendrick Perkins' controversial take on trading Julius Randle — "I don't give a damn if it's for some fried catfish and a pot of gumbo."** [09:07](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=547s)
+
+**Channing Frye:** "I know **Perk** isn't here. What I'll say, no, no, no. I just have to say this. **Perk**, I wish he was here because he said something on TV that I got the clip about **Julius Randle** and I think he got to slow down. I can't tell **Perk** to slow down, he's not here, but."
+
+**Richard Jefferson:** "I'm sorry I'm not here. What am I doing with my life? I'm sorry I haven't been here to keep **Perk** in check a little bit. I know he's been wilding out. I'm sorry, y'all. Y'all think I'm the crazy one. I am. I am the crazy one, but like, I understand certain things. We'll keep, we'll keep, we'll, me and **Perk**, we'll have a powwow."
+
+**Allie Clifton:** "Keep talking for a second. What did **Perk** do? What did **Perk** say? Here it is. Big **Perk** on trading **Julius Randle**: 'I don't care, I don't give a damn if it's for some fried catfish and a pot of gumbo.'"
+
+**Channing Frye:** "I mean, it's, it's, it's, did he have the best series? No. But you competed versus a very tough team. I just, who's going to trade **Julius Randle**? And what are you going to get back for?"
+
+**Richard Jefferson:** "Wait, wait, wait, wait, wait, wait, everyone, calm down. Calm down. Not you. This is what I'm saying."
+
+**9. Richard Jefferson — Richard Jefferson defends Julius Randle's playoff performance against a strong defensive team — "Let's all just emotionally calm down. Let's emotionally let it breathe. Julius Randle was a couple of games from going to another Western Conference Final."** [11:09](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=669s)
+
+"The minute a player performs poorly in the playoffs, we're like, 'Let's trade him. What will we get for him? Who wants him?' And it's like, 'Guys, let's all just emotionally calm down. Let's emotionally let it breathe.' **Julius Randle** was a couple of games from going to another Eastern Conference or Western Conference Final. Their team was beat up and they went against a bunch of elite dudes. They had a bunch of elite, elite, elite dudes. **San Antonio**, if they had been to the playoffs and let's say they got to the second round last year, I think people would pick them to win a championship. But because this is the first time that they've been in the postseason, people are hesitant to say that they're the best team or that they're going to win a championship. Are you okay? And so, at the end of the day, this team is elite over there with elite depth, elite wing defenders, elite perimeter defenders, and elite post defenders. **Julius Randle** didn't play well. He knows he didn't play well. That's the end of the day. Let's let, let's let everything calm down before we start clicking up the trade machine."
+
+**10. Richard Jefferson — Ausar Thompson's offseason work includes mental and body language — "Your offseason work isn't always just your jump shot. It could be your conditioning, it could be your mentals."** [12:10](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=730s)
+
+"No different than a person like **Ausar Thompson** and what he needs to work on in the offseason. Your offseason work isn't always just your jump shot. It could be your conditioning, it could be your mentals, it could be a million different things. If there are body language or if there are certain things that players need to work on or address, that could be a sports psychologist, that could be a sports therapist."
+
+**11. Richard Jefferson — A leader's temperament and body language impact the entire team — "Their energy and their body language just drains the whole team. Those are parts of being a leader."** [12:10](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=730s)
+
+"If your body language and energy, and we've all played with players whose sudden energy makes us ask, 'What's wrong with him today?' I don't know. Everything was fine yesterday. Why is he mad today? I don't know. Everything good, bro? Yes. But their energy and their body language just drains the whole team. It's like, 'Dude, we love you. You are, bro. Everything good? What did we do? We didn't do anything.' Then are you good at home? Those are parts of being a leader. If you are a leader, your temperament has to be that."
+
+**12. Richard Jefferson — Player growth includes mental maturity, conditioning, and skill improvement — "Ausar needs to improve his jumper the same way that Luka needed to improve his conditioning."** [12:10](https://www.youtube.com/watch?v=aRVhTfMRkoU&t=730s)
+
+"If that's a part of someone's growth process, I'm not here to say who, but if that's something that needs to be dealt with, I wish everybody the best. People could have maturing and things that they need to improve on, no different than improving your jumper, improving your conditioning. You don't think that Ausar needs to improve his jumper the same way that **Luka** needed to improve his conditioning, which he addressed. These are all things that if you're trying to be a complete player, it's part of it."
+
+---
+
 ## The Detroit Pistons ‘ran out of gas’ in Game 7 against the Cavs - Vince Goodwill | Rich Eisen Show — *NBA on ESPN*
 
 Source: <a href="https://www.youtube.com/watch?v=d7d75rUJDg4" target="_blank" rel="noopener">https://www.youtube.com/watch?v=d7d75rUJDg4</a>
@@ -862,6 +1068,122 @@ _Speakers identified: Tom Pelesero, Vincent Goodwill, Chris_
 <a href="https://www.youtube.com/watch?v=d7d75rUJDg4&t=855s" target="_blank" rel="noopener">14:15</a>
 
 "I'm a voter and I can tell you, I didn't vote him second. I'm not even sure if **Luka** was on my ballot, but I think the **Lakers** are such an interesting team because we've seen how **Luka Doncic** can be successful as the number one guy. If he's healthy, if he's focused. We saw him carry a **Dallas Mavericks** team to the **NBA** Finals. Can **LeBron James** at 41, 42 years old, be the number two, number three option? And in the way that you would need him to be a number two, number three option, he needs to be available, he needs to defend, he needs to shoot. I don't know if **LeBron James** is any one of those things at this point in his career and I don't know if that's necessarily the best thing for them, but I will say this, as a retired player, there's no better place to be as a retired **NBA** player than to be a former **Los Angeles Laker**. That will be your home for the rest of your career and I don't know if there's a better choice for **LeBron James** to make than that one."
+
+---
+
+## Eastern Conference Finals Preview - Knicks Heavy Favorites? — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=hi9flPSMJNE
+
+_Speakers identified: Brian Windhorst, Kevin Pelton, Tim McMahon_
+
+**1. Brian Windhorst — Knicks' rest advantage and O.G. Anunoby's health for playoffs — "The Knicks have nine or ten days off between games. That is a really good thing for O.G. Anunoby."** [00:30](https://www.youtube.com/watch?v=hi9flPSMJNE&t=30s)
+
+**Brian Windhorst:** "The Knicks have had nine days, I think? Nine or ten days off between games. That is a really good thing for **O.G. Anunoby**. Hopefully he'll be back from that hamstring issue."
+
+**Kevin Pelton:** "I guess it'll be on the ninth day. It's Tuesday. They last played Sunday. Yeah, by all it seems he'll be ready to go for Game 1."
+
+**Brian Windhorst:** "So, you have one team that's well-rested and one team that's coming off back-to-back seven-game series. The Cavs will have some rhythm."
+
+**2. Brian Windhorst — Knicks' impressive offense against Cavs' weakest defense — "The Cavs defense is going to be stressed against that New York offense."** [01:55](https://www.youtube.com/watch?v=hi9flPSMJNE&t=115s)
+
+"The Knicks offensive production has been dramatically impressive. I would argue that of the eight teams left in the second round, do I want to say this? Do I want to say this? Do the Cavs have the weakest defense? They certainly have the weakest defense of the remaining teams. The Cavs defense is going to be stressed against that New York offense."
+
+**3. Kevin Pelton — Cavs' disappointing playoff performance and exploitable flaws despite Conference Finals — "The Cavs have been pretty awful through these first two rounds of the playoffs."** [02:38](https://www.youtube.com/watch?v=hi9flPSMJNE&t=158s)
+
+**Kevin Pelton:** "The **Cavs** have been pretty awful through these first two rounds of the playoffs. Brian's the leader of **Cavs** Corner, will you not say this has been a very disappointing showing through the first two rounds despite them being in the Conference Finals? That they played lower than what your expectations would be for the amount of talent they have?"
+
+**Brian Windhorst:** "I think the point out is they're eight and six so far in the playoffs. If a team is eight and six, they very clearly have exploitable flaws and also their flaws that undercut them."
+
+**4. Kevin Pelton — Cavs and Knicks underperformed despite preseason co-favorite expectations — "The Cavs and the Knicks entered the season as the co-favorites in the East for a reason."** [02:38](https://www.youtube.com/watch?v=hi9flPSMJNE&t=158s)
+
+"Now that being said, these are the two teams that at the start of the year were expected to be here. That is the irony of the situation. The **Cavs** and the **Knicks** entered the season as the co-favorites in the East for a reason. They both have a lot of talent. You saw in this Game 7 today, the **Cavs** played much like the team they were supposed to be. That is why this has been sort of an infuriating run for them because they have not really looked like that team for most of these playoffs. They have weezed their way through a **Raptors** series where the **Raptors** were all banged up with injuries and couldn't really score. And they then weezed their way through the series against the **Pistons** who had one guy who could really handle the ball and often couldn't really score and still almost won the series anyway."
+
+**5. Brian Windhorst — Kenny Atkinson's tactical adjustment to avoid Ausar Thompson offensively — "The tactical adjustment we made was avoiding Ausar Thompson. We were just like if he's near the ball, throw it to somebody else."** [04:10](https://www.youtube.com/watch?v=hi9flPSMJNE&t=250s)
+
+**Brian Windhorst:** "Hey McMahon, fresh quote from **Kenny Atkinson**. The tactical adjustment we made was avoiding **Ausar Thompson**. We were just like if he's near the ball, throw it to somebody else. **Bontemps** is like, put him on the bench. He's not a starter."
+
+**Tim McMahon:** "But listen, and yes, avoid him. It was avoid him on one end and invite him to shoot it on the other."
+
+**Kevin Pelton:** "Yeah, it's fine. It's true. I mean, they should have, I mean, they would have been better off benching him honestly and playing him off the bench instead. But anyway, that's a separate discussion."
+
+**6. Brian Windhorst — Ausar Thompson's defensive impact compared to Tony Allen's legendary hounding — "When you compare somebody to Tony Allen, it is a defensively, it is a very high compliment."** [04:10](https://www.youtube.com/watch?v=hi9flPSMJNE&t=250s)
+
+**Tim McMahon:** "**Tony Allen**, one of the all-time great perimeter defenders, he basically said, they're getting guys who have jumpers like me out of the league now. And **Ausar Thompson** is a modern-day,"
+
+**Kevin Pelton:** "He's a bigger, stronger, faster **Tony Allen**, that's what he is."
+
+**Tim McMahon:** "That's what he is. And we'll see if he can develop a jumper."
+
+**Brian Windhorst:** "I remember when I covered the series Memphis against Oklahoma City. And **Tony Allen**, this is Durant like pretty much when he was just ascending into being. **Tony Allen** had hounded Durant so much that there would be times where Durant would come off, he would run around screens and Durant would catch the ball. Allen would be ten feet behind him, eight feet behind him. And Durant would immediately turn his body and protect the ball because Allen had been there so much that he just assumed he would. His defense was so strong that he didn't even have to be there to defend him. And so, when you compare somebody to **Tony Allen**, it is a defensively, it is a very high compliment."
+
+**7. Kevin Pelton — Cavs' defensive challenge against Jalen Brunson — "The guy who's probably best suited to guard Jalen Brunson on the Cavs is Keon Ellis, who's barely played."** [08:06](https://www.youtube.com/watch?v=hi9flPSMJNE&t=486s)
+
+"**Donovan Mitchell** and **James Harden** have looked tired at times during this series and during this run. They've had to play every other day for a month, as you said, they've had to play two seven-game series. The Knicks are very rested. The Knicks have a lot of guys they can throw at both of those guys. The Cavs, ironically, the guy who's probably best suited to guard **Jalen Brunson** on the Cavs is **Keon Ellis**, who's barely played. Other than that, they don't really have a lot of guys to throw at **Jalen Brunson**."
+
+**8. Tim McMahon — Knicks' shooting negating Cavs' interior defense — "The strength of the Cavs defense is obviously their two big guys, is Mobley and Allen."** [09:44](https://www.youtube.com/watch?v=hi9flPSMJNE&t=584s)
+
+**Tim McMahon:** "Well, and the strength of the Cavs defense is obviously their two big guys, is **Mobley** and **Allen**. And against the **Pistons**, **Mobley** and **Allen** could pack the paint and basically just put a wall around the rim. And you cannot do that especially against the Knicks starting lineup where they've got the self-proclaimed greatest shooting big man of all time. And, you know, they can they can put five guys out there that, you know, even **Josh Hart**, you have to respect him as a three-point threat."
+
+**Kevin Pelton:** "I mean, he shot 39% from three this year. That's been one of the huge revelations of the season."
+
+**Tim McMahon:** "And you have to fear as a three-point threat. You know, if **Anunoby**'s healthy, you have to fear him as a three-point threat. They can, so they can spread the floor where that that's the biggest weakness of the **Pistons** is just that you can really clog things up for them on the defensive end."
+
+---
+
+## The Final Chapter of LeBron? 👑 Where Does He End His NBA Legacy? — *ESPN LA*
+
+Source: https://www.youtube.com/watch?v=iDlI2F0vocQ
+
+_Speakers identified: Steve Mason, John Ireland, Lindsay, Brandon Robinson, BC_
+
+**1. John Ireland — John Ireland on Pistons' lack of consequences after blowout loss — "Detroit was so bad as recently as three, four years ago. I don't think they can do anything."** [00:16](https://www.youtube.com/watch?v=iDlI2F0vocQ&t=16s)
+
+**Lindsay:** "And you asked us something interesting in the pre-show meeting. Is there consequences for this for the Pistons?"
+
+**John Ireland:** "Yes. Normally there would be if you get blown out in a Game 7 at home and it's that lopsided. But Detroit was so bad as recently as three, four years ago. I don't think they can do anything."
+
+**2. John Ireland — John Ireland suggests Kawhi Leonard or Kevin Durant for Pistons — "Here's two people they should go get: The first one is Kawhi Leonard. The other one is Kevin Durant."** [00:32](https://www.youtube.com/watch?v=iDlI2F0vocQ&t=32s)
+
+"But if they don't go out and get a second scorer to help **Cade Cunningham**, they're just going to end the seasons this way for the foreseeable future. Here's two people they should go get. The first one is **Kawhi Leonard** because I think the Clippers would give him up and I think the Clippers need draft capital. The other one is **Kevin Durant**. But Durant's older than Kawhi. He's 37. But wouldn't those two guys, if they would have had Durant or Kawhi in this series, wouldn't they have won it?"
+
+**3. Brandon Robinson — Brandon Robinson on LeBron James potentially joining Giannis or the Knicks — "Where he goes, LeBron could follow or join at the same time."** [01:19](https://www.youtube.com/watch?v=iDlI2F0vocQ&t=79s)
+
+"Would a **LeBron James** and a **Giannis Antetokounmpo** pairing in Cleveland make sense? I would pay attention to Giannis quite a bit this summer because where he goes, LeBron could follow or join at the same time. But I also do think that LeBron's relationship with certain key members of the **New York Knicks** do make sense. **William Wesley**, who works in the front office of the **New York Knicks**, has known **LeBron James** since he was in high school. If you remember, **William Wesley** has been recruiting all his life. When **John Calipari** was fired as the head coach of the then **New Jersey Nets**, he was an assistant coach in Philadelphia under his mentor **Larry Brown**."
+
+**4. John Ireland — John Ireland on salary cap issues for ECF losers pursuing LeBron James — "If you bring LeBron in, chances are you're going to have to get rid of one of your core components."** [02:37](https://www.youtube.com/watch?v=iDlI2F0vocQ&t=157s)
+
+**Lindsay:** "So I have a question. Does the loser of the Eastern Conference Finals believe that they are LeBron away from the Finals? Like Knicks or Cleveland. If they lose this series, do they go out and get LeBron?"
+
+**John Ireland:** "The problem is that both of those teams are loaded with high salaries. So if you bring LeBron in even for that 15 million mid-level that Mace was talking about, chances are you're going to have to get rid of one of your core components. The Knicks would have to give up on somebody like **Josh Hart** or **Mikal Bridges**. There's already talk that the Cavaliers might have to move off of **Jarrett Allen** or **Evan Mobley**, but they were both great yesterday."
+
+**5. John Ireland — John Ireland updates LeBron James's odds of staying with Lakers — "It makes the most sense for LeBron to come to the Lakers. They can pay him the most money."** [03:22](https://www.youtube.com/watch?v=iDlI2F0vocQ&t=202s)
+
+"I'll say it again, it makes the most sense for LeBron to come to the Lakers. They can pay him the most money. He loves living in LA. But where there's smoke, there's fire. **Dave McMenamin**'s report last week was accurate. If I had to up my percentages again, I would say now I'm looking, here I'll do it right now. LeBron, LA Lakers equals 49%. Other equals 49%. Retirement is 2%. So you are saying that there's as likely a chance that LeBron will play somewhere else as it is that he will play here. 49, 49."
+
+**6. John Ireland — Steve Mason and John Ireland debate Lakers' future with or without LeBron James — "I think that it's time to build a roster for the future around Luka."** [05:20](https://www.youtube.com/watch?v=iDlI2F0vocQ&t=320s)
+
+**Steve Mason:** "If he can only get 15 out there, why should he make more money here?"
+
+**John Ireland:** "Because we can pay him, we can go over the cap."
+
+**Steve Mason:** "We can go over the cap, but at the same time, we've got to build a young, athletic roster with three and D wings."
+
+**John Ireland:** "Now you sound like the people that call Sports Graffiti."
+
+**Steve Mason:** "Wait, I'm not thinking about just 2026, 2027. I'm thinking about the next year and the year after that. And honestly, John, there are players out there that I think could make the difference."
+
+**John Ireland:** "Someone will call Sports Graffiti and say in essence what you just said, just cut bait now."
+
+**Steve Mason:** "I didn't say anything negative about LeBron except to say I think that it's time to build a roster for the future around Luka. I'm not crapping on LeBron."
+
+**John Ireland:** "So you're on the **Andy Kamenetzky** position. Get rid of LeBron. Not because you don't like him, but because you want to move on to the next chapter."
+
+**Steve Mason:** "That's fair."
+
+**John Ireland:** "I want LeBron because he gives us a better chance to win next year."
+
+**Steve Mason:** "I care about next year and the year after that. And honestly, John, there are players out there that I think could make the difference. But we'll talk about that on Sports Graffiti today."
 
 ---
 
@@ -969,6 +1291,50 @@ _Speakers identified: Bobby Marks, Brian Windhorst_
 
 ---
 
+## Can Jalen Brunson Lead the Knicks to a Title This Year? | Carmelo Anthony & Steve Novak — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=qeg7ekgJIhg
+
+_Speakers identified: Carmelo Anthony, Steve Novak, The Kid Mero_
+
+**1. Steve Novak — Steve Novak assesses Knicks' playoff performance against Atlanta and Philadelphia — "when you've been in it, you know when you're one of the teams that it can be you."** [00:05](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=5s)
+
+"I'm not going to be that guy. But I will say, you, look, when you've been in it, you know when you're one of the teams that it can be you. And I think throughout the season, you felt like this was a team that they're in that group. And in the NBA, that's all you're trying to be is in that group because you know the best teams with the best records in the regular season, the team that's the hottest to start the playoffs, they're not necessarily the team that wins the championship. And so, I'll tell you the eye test right now, when you beat **Atlanta** by 50, you're up 50 in the second quarter against **Atlanta** in a closeout game, win that game by 50 and then win in four games against **Philly** and shoot the rock the way that they were, 18 threes in the first half, 25 in the game, you start to go, is it the opponent? Are they not as good? Or is it the **Knicks**?"
+
+**2. Carmelo Anthony — Carmelo Anthony praises Knicks as most impressive playoff team — "They're the most impressive team in these playoffs right now."** [01:32](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=92s)
+
+"To me, they're the hottest team. They're the most impressive team in these playoffs right now. I didn't think **Atlanta** was going to beat the **Knicks**, right? I just didn't think **Atlanta** was ready right now. It's two different trajectories right now. You got one team that's still trying to figure out who they are, and you got one team who's thinking championship. That's two different areas on the totem pole."
+
+**3. Carmelo Anthony — Carmelo Anthony discusses the challenge of facing a strong Philly team — "Joel Embiid is back healthy. He's in a different bag. Paul George is playing out of his ass."** [01:32](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=92s)
+
+"When you get to **Philly**, you start thinking, this is going to be a battle. They just swept **Boston**. **Joel Embiid** is back healthy. He's in a different bag. **Paul George** is playing out of his ass. **Maxey** is playing well. They have a real team, which was a team earlier in the season saying, that's not the team the **Knicks** want to see in the postseason. That was the word."
+
+**4. Carmelo Anthony — Knicks' playoff resilience against a tired, battered Philly team — "Now you get to Philly, battered Philly, tired Philly. That was their championship."** [01:32](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=92s)
+
+"So now the **Knicks** come and **Philly** catches the **Knicks** already battered, already dealt with whatever schemes in **Atlanta**, which was a chess match against **Quin Snyder** and the **Hawks**. You dealt with everything that you could possibly deal with. Now you get to **Philly**, battered **Philly**, tired **Philly**. That was their championship, like getting rid of beating **Boston**, coming back down 3-1. They didn't have no more after that. Now we get rid of them. So now you're sitting back like, holy shit, the **Knicks** are coming together at the right time."
+
+**5. Carmelo Anthony — Carmelo Anthony recalls Kevin Durant's early career struggles with T-Mac, Vince — "Kevin Durant had a conversation I have caught with T-Mac and Vince."** [04:03](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=243s)
+
+"This is what had me like, okay, if they get it right, they're going to be good. Because the Knicks played OKC in OKC. We did the game. And conversations with **Kevin Durant**. **Kevin Durant** had a conversation I have caught with **T-Mac** and **Vince**. And out of that conversation came, we're still trying to figure this out, right? We're trying to tell **Kevin Durant** how to play, what he should do, to give him advice, and he's still trying to figure it out. This was two weeks, probably a week and a half, two weeks left in the season going into the playoffs."
+
+**6. Carmelo Anthony — Knicks' playoff dominance over Hawks, 76ers, even with stars struggling — "He beat the Philadelphia 76ers by passing the ball."** [04:03](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=243s)
+
+"They figured this out, right? Atlanta allowed them to figure everything out. How to stop a scorer in **Trae Young**, how to defend this, how to defend that, strategies, different strategies we got to use against **Coach Snyder** and the Hawks. All right, let's get rid of them. Philadelphia. If **Joel Embiid** isn't healthy, you have no chance against us. Nobody expected it. **Kevin Durant** didn't even have a great series in Philadelphia. So this is how I know, I felt like the Knicks got a shot. Because when you can beat a team by 50, you can sweep a team and your best player, second best player on the team is not playing well. He beat you by passing the ball. He impacted the game. He beat the Philadelphia 76ers by passing the ball."
+
+**7. Carmelo Anthony — Knicks are the most complete team in the East — "The Knicks are the most complete team in the East."** [04:03](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=243s)
+
+"When you have that aspect of your team, and you have a killer in **Jalen Brunson**, and you have **Deuce McBride** coming out hitting seven threes in the first quarter. **OG Anunoby** is out. You're talking about the most complete team. The Knicks are the most complete team in the East."
+
+**8. Carmelo Anthony — Carmelo Anthony predicts the Knicks will make the Finals this year — "This is the year that I think the Knicks get to the Finals. This is the year that the beginning..."** [06:37](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=397s)
+
+"I like the **Knicks** in the Finals. I just, I like the **Knicks**. This is the year that I think the **Knicks** get to the Finals. This is the year that the beginning, where all this started at, this is where the vision was going to. Back-to-back Eastern Conference Finals. Okay, now let's take that next step, year four, five of all of this being put together. Finals is the call. You can't go to Eastern Conference Finals and lose."
+
+**9. Carmelo Anthony — Carmelo Anthony describes the unique atmosphere of the NBA Finals at Madison Square Garden — "The Garden is Broadway. And the Garden is meant for moments like that."** [09:05](https://www.youtube.com/watch?v=qeg7ekgJIhg&t=545s)
+
+"The Garden is Broadway. And the Garden is meant for moments like that. It ain't meant for first round, second round. It's meant for Conference Finals. It's meant for Finals. You get what I'm saying? So now, when you get the star power coming into the Garden for the Conference Finals or the Finals, the Finals, right? I just, I want you to visualize. Imagine **Wembanyama** on Broadway. **Shai Gilgeous-Alexander** on Broadway in the Finals. Now we're talking some different level shit when it comes to sports. **Shai Gilgeous-Alexander** could go play in **Indiana** in the Finals, he could go play, they could go anywhere. New York in the Finals."
+
+---
+
 ## Spida Mitchell CRUSHES Pistons, Cavs Move On To ECF + Detroit's Offseason | Spurs & OKC Kickoff WCF — *No Fouls Given*
 
 Source: <a href="https://www.youtube.com/watch?v=qw2sHcA6d0E" target="_blank" rel="noopener">https://www.youtube.com/watch?v=qw2sHcA6d0E</a>
@@ -1016,6 +1382,38 @@ _Speakers identified: Paul Pierce, Wosny Lambre, Danny Green_
 <a href="https://www.youtube.com/watch?v=qw2sHcA6d0E&t=2250s" target="_blank" rel="noopener">37:30</a>
 
 "**OKC** can't say that about **San Antonio** because they beat them four or five. So they put a little chink in their little armor and they create when you beat a team like that in the regular season, you create doubt. **OKC**, they know they're good. They know they're the defending champs. They know they got the **MVP**. But I'll tell you, they like, they know this is going to be an uphill climb to beat **San Antonio**. I promise you that. They feel like they can beat them, but they're not sure."
+
+---
+
+## ’THE SERIES WE’VE ALL BEEN WAITING FOR’ 🍿 Previewing Spurs vs. Thunder in the WCF | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=uFzy34VFVpc
+
+_Speakers identified: Tim McMahon, Christine Williamson, Michael C. Wright, Danny Green_
+
+**1. Tim McMahon — Jalen Williams' return from hamstring injury and lineup questions — "Jalen Williams is ready to go. If the series against the Lakers was a competitive series, he probably would have returned for Game 4."** [00:27](https://www.youtube.com/watch?v=uFzy34VFVpc&t=27s)
+
+"**Jalen Williams** is ready to go. And frankly, if the series against the Lakers was a competitive series, he probably would have returned for Game 4. They were on the verge of a sweep, they got that business done, buying him another week or so to be able to rest up, but he is fully recovered. Now what we don't know, is there a minutes limit? The Thunder are keeping those cards close to the vest. We're not certain about what the starting lineup's going to look like. He has started every single game he's played in since early in his rookie year. If he returns to the starting lineup, is **AJ Mitchell** coming off the bench after starting against the Lakers? Could they go small with **Isaiah Hartenstein**? Those questions, we'll find the answers out to that 30 minutes before tip-off."
+
+**2. Tim McMahon — Shai Gilgeous-Alexander's respect for Victor Wembanyama's competitive drive — "He's well aware that Victor Wembanyama believes that he should have been the most valuable player of the league."** [01:24](https://www.youtube.com/watch?v=uFzy34VFVpc&t=84s)
+
+"He's well aware that **Victor Wembanyama** believes that he should have been the most valuable player of the league. He made that very clear as he was campaigning for the award. And **SGA** respects it. He says basically he's an extreme competitor, and to achieve the things that Wemby's trying to achieve, that **SGA**'s trying to achieve, frankly has achieved, you have to have that kind of super confidence in yourself as **SGA** put it. And look, he's not adding any fuel to the fire in terms of motivation for Wemby. He says, we understand what kind of challenge this is. This guy presents things that nobody else ever has in the league before."
+
+**3. Michael C. Wright — Victor Wembanyama's motivation from not winning MVP — "Victor Wembanyama said that one of the things that all the greats have in common, they snatched up every accolade and award that they could."** [02:58](https://www.youtube.com/watch?v=uFzy34VFVpc&t=178s)
+
+"Let me first tell you that **Victor Wembanyama**, he said that one of the things that all the greats have in common, he said that they snatched up every accolade and award that they could earlier in their career. Well, obviously, **Vic** envisions himself as a guy that becomes one of the great ones. So also, let's go back to February and March when he was campaigning. It wasn't a simple campaign. We're talking about bullet points that he was making. So I haven't talked to **Vic**tor since Game 6 of the Western Conference Semis, but let's just see how he comes out tonight. If he comes out trying to block everything and doing what **Vic**tor does, I'm pretty sure he was highly motivated by **SGA** winning MVP over him."
+
+**4. Danny Green — Coaching matchup between Mitch Johnson and Mark Daigneault — "This is going to be a chess match. Mitch Johnson, Mark Daigneault, we're going to see what they're made of in this series."** [05:24](https://www.youtube.com/watch?v=uFzy34VFVpc&t=324s)
+
+"I'm looking at the coaches. This is going to be a chess match. **Mitch Johnson**, **Mark Daigneault**, we're going to see what they're made of in this series because both these two teams are pretty evenly matched. They have a lot of talent, they have a lot of depth, they have a lot of firepower and star power. So we're going to see who's going to make the right adjustments, who's going to put in the right lineups, who's going to have the right matchups and outsmart each other. **Mitch Johnson**, Coach of the Year candidate for good reason. **Mark Daigneault**, I think he's won one before. So we're going to see what these two coaches have in store and who's going to make the right adjustments throughout the series to give their team an edge. It's going to be a lot of fun and exciting because these two teams have matched up. Everybody's been wanting to see this, but I think it really comes down to what these two guys can come in store and cook up and chef up for their team to give them a chance to win the series."
+
+**5. Danny Green — Jalen Williams' expected role as a distributor upon returning — "With the emergence of AJ Mitchell, we don't need you to score as much as you were before."** [06:13](https://www.youtube.com/watch?v=uFzy34VFVpc&t=373s)
+
+"Obviously, they need him to be aggressive. But with the emergence of **AJ Mitchell**, we don't need you to score as much as you were before. Come in, be a **Jayson Tatum** role, pick and choose your moments. Be aggressive and assertive, that doesn't mean for yourself, but for teammate and rebound. You rebound, play great defense, assist, take the pressure off **Shai** some. And then also make it easier for **AJ Mitchell**, but we don't need you to score as much right away because we have some other guys that have shown growth in that area. Not only **AJ Mitchell**, you have **Jared McCann**, obviously **Lu Dort** and **Alex Caruso** could knock down shots, but **Cason Wallace** has been a sniper. **Isaiah Joe** has been a sniper. They have a lot of shooting and good pieces around them, so he doesn't have to come back in right away and start averaging 20. He can just be more of a distributor."
+
+**6. Danny Green — Cavaliers' impressive Game 7 win with role players stepping up — "You got to give a lot of credit where it started and that's Donovan Mitchell. He put on an absolute clinic."** [10:02](https://www.youtube.com/watch?v=uFzy34VFVpc&t=602s)
+
+"Just how big and how much the others stepped up for the Cleveland Cavaliers. Guys like **Sam Merrill**, **Jarrett Allen** had a heck of a Game 7. **Evan Mobley** playing big inside. But you got to give a lot of credit where it started and that's **Donovan Mitchell**. He put on an absolute clinic as a point guard in that game. Distributing, getting like five or six assists early, also scoring, being efficient, setting up **Jarrett Allen** and **Evan Mobley** to have easy dunks and layups. And of course them protecting the rim. And you got guys like **Sam Merrill** knocking down threes. He had like 15 points in the first quarter. **Dean Wade** joined the party. So how those other guys stepped up, they're going to need them to do that in this next series for them to have a chance because the Knicks are rolling right now."
 
 ---
 
