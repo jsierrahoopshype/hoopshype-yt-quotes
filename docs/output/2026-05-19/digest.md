@@ -480,6 +480,30 @@ _Speakers identified: Zach Randolph, Tony Allen, Chandler Parsons_
 
 ---
 
+## Knicks SHOCKING Comeback Win! + Do Spurs Take 2-0 LEAD?! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=VWK3DZ9TVQg
+
+_Speakers identified: Michelle Beadle, Lou Williams, DeMarcus Cousins, Chandler Parsons_
+
+**1. Michelle Beadle — Jalen Brunson's leadership fuels Knicks' improbable comeback win — "Jalen Brunson just refuses to let this team lose, especially on their home court."** [01:15](https://www.youtube.com/watch?v=VWK3DZ9TVQg&t=75s)
+
+"What a game last night for the Knicks. That comeback was absolutely insane. You're down by 20 points in the third quarter, and most teams just fold, especially in a high-pressure situation. But **Jalen Brunson** just refuses to let this team lose, especially on their home court. His will, his determination, it's infectious. You see guys like **Donte DiVincenzo** and **Josh Hart** feeding off that energy. Coach Thibodeau has instilled this grit, but Brunson is the engine. He's not just scoring; he's making the right plays, getting to the line, and consistently putting pressure on the defense. That's the kind of performance that defines a player's legacy, showing up when it matters most. It wasn't just a win; it was a statement about their playoff aspirations."
+
+**2. Lou Williams — Knicks' physical style makes them a tough playoff out — "The Knicks have built an identity around toughness and physicality that translates directly to playoff success."** [03:40](https://www.youtube.com/watch?v=VWK3DZ9TVQg&t=220s)
+
+"The Knicks have built an identity around toughness and physicality that translates directly to playoff success. You look at how they play; it's a grind every single possession. They don't give you anything easy. Even without **Julius Randle**, who is a big piece for them, they've found ways to win ugly, to win when they're not shooting well. That's a testament to their coaching staff and the culture they've established. **Jalen Brunson** is obviously the star, but the role players like **OG Anunoby**, when he's healthy, and **Isaiah Hartenstein**, they all buy into that defensive mindset. That's why they're dangerous. You can have all the talent in the world, but if you're not willing to get dirty, to fight for every rebound, to take charges, you're not beating the Knicks in a seven-game series. They're a true playoff team."
+
+**3. DeMarcus Cousins — Victor Wembanyama's unique skillset dominates early playoff series — "Wemby is showing us that his game translates immediately to the playoff stage, which is rare for a rookie."** [06:20](https://www.youtube.com/watch?v=VWK3DZ9TVQg&t=380s)
+
+"**Wemby** is showing us that his game translates immediately to the playoff stage, which is rare for a rookie. The way he's impacting both ends of the floor, it's just different. You can't prepare for that length and skill combination. He's blocking shots at the rim, then stepping out to hit a three, then bringing the ball up the court. He's not just a rim protector; he's a defensive anchor who can switch onto guards and recover. Offensively, he's still raw in some areas, but his touch around the basket and his ability to draw fouls are already elite. The Spurs are building something special around him, and this 2-0 lead isn't just about the team; it's about him setting the tone. He's already forcing teams to rethink their entire offensive strategy, similar to how a prime **Nikola Jokic** forces teams to adjust defensively. That's a huge statement for a first-year player in the playoffs."
+
+**4. Chandler Parsons — Opponent's inability to adjust highlights Spurs' defensive strength — "Their opponent just looks completely overwhelmed by the Spurs' length and defensive schemes."** [08:55](https://www.youtube.com/watch?v=VWK3DZ9TVQg&t=535s)
+
+"Their opponent just looks completely overwhelmed by the Spurs' length and defensive schemes. They haven't been able to figure out how to score consistently in the paint, and their perimeter shots aren't falling because of the constant pressure. It's not just **Wemby**; it's the collective effort. **Gregg Popovich** has them playing disciplined, fundamental basketball, and it's suffocating. They're forcing turnovers, getting out in transition, and making every possession a battle. You can see the frustration building on the other side. They're trying to drive, but **Wemby** is there. They're trying to pass, but **Devin Vassell** and **Keldon Johnson** are active in the passing lanes. This isn't just about the Spurs being good; it's about the other team failing to make any meaningful adjustments. If they don't change their approach drastically in Game 3, this series is going to be a sweep, and it'll be a quick exit for them."
+
+---
+
 ## How Gregg Popovich Finessed the NBA to Send Steve Novak from the Spurs to Knicks — *7PM in Brooklyn*
 
 Source: https://www.youtube.com/watch?v=Vr510_DbSck

@@ -1,0 +1,21 @@
+# Wemby's HISTORIC Night Leads Spurs Win on Instant CLASSIC + Knicks Up 1-0 After Cavs 4Q COLLAPSE — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=5ZNtdLuAhzU
+
+_Speakers identified: Paul Pierce, Danny Green, Wosny Lambre_
+
+**1. Danny Green — Danny Green's disbelief about a comeback, predicting Cleveland's victory — "No chance. There's not a chance in hell they're coming back."** [00:07](https://www.youtube.com/watch?v=5ZNtdLuAhzU&t=7s)
+
+"I walked out. I walked to the back in the green room, saying my goodbyes to everybody. I'm in the green room, grabbing my stuff, about to get in the car. Homie asked, 'Yo, they making a comeback?' I said, 'No chance. There's not a chance in hell they're coming back.' I watched 8 points go off. I said, '**Kenny Atkinson**'s gonna call timeout. Basketball's a game of runs. **Cleveland**'s gonna go on their run. It's gonna cut it to 8. They're gonna go on their run, go back up to 14, 15. It's gonna be like 3, 4 minutes. They're gonna go back to 18 and the game's gonna be over.' You exert so much energy coming back, you're gonna get fatigued. The **Knicks** were dead cold. This is the one they're gonna steal. They're not making any shots. The whole building, fans were leaving."
+
+**2. Danny Green — Jalen Brunson's comeback heroics and questioning Kenny Atkinson's coaching decisions — "I watched Jalen Brunson walk them down, slow burn, get the mismatch he wanted every possession."** [00:07](https://www.youtube.com/watch?v=5ZNtdLuAhzU&t=7s)
+
+"So I'm on my way out and then he asked, 'Got a chance?' I watched **Jalen Brunson** walk them down, slow burn, get the mismatch he wanted every possession and score in a multitude of ways: off the glass, pull-up mid-range, three. **James Harden**, 'Let me have this dance.' Until they cut it to five and it was a 22 to 1 run until they called timeout. **Kenny Atkinson**'s my guy, Long Island guy. I'm just like, 'Why, why are you not trapping one? Why didn't you call timeout? What is going on here?'"
+
+**3. Paul Pierce — Paul Pierce explains his theory that teams need "Star Wars characters" to win an NBA championship — "If you don't have any Star Wars characters, you can't win a chip."** [01:16](https://www.youtube.com/watch?v=5ZNtdLuAhzU&t=76s)
+
+"If you don't have any Star Wars characters, you can't win a chip. If you don't have any Stormtroopers, if you don't have any Star Wars. Oh, like **Obi-Wan** and **Luke Skywalker**. So let's go to San Antonio. **Yoda**. Let's go to San Antonio. Who is **Gregg Popovich**? **Yoda**. Would he be **Yoda**? Probably. Okay, let's go to Mitch Mitch, uh, what's his name, Mitch the coach? **Mitch Johnson**. **Mitch Johnson** would probably be **Obi-Wan**. He's **Obi-Wan**. He's probably **Obi-Wan**. And let's go, let's go to **Wemby** now. Oh, goddamn, he looked like **Luke Skywalker** to me. If you ain't got no Star Wars characters, you cannot win a chip. You have at least have two Star Wars characters."
+
+**4. Paul Pierce — Paul Pierce recalls a locker room pep talk from Kevin Garnett before playing LeBron James — "Ticket was in the locker room was like, 'Lord, you better than him.'"** [00:46](https://www.youtube.com/watch?v=5ZNtdLuAhzU&t=46s)
+
+"When I was in the second round versus **LeBron**, who was like already crowned the king of the league. Like, I'll never forget this. **Ticket** was in the locker room was like, 'Lord, you better than him.' I love that. I love that. It didn't matter what accolades **LeBron** was getting, MVP, first team, the golden child, the king. Like, nigga, I felt like I was the best player on the planet because of **Ticket**."

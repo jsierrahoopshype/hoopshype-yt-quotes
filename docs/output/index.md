@@ -2,10 +2,16 @@
 
 ## 2026-05-20
 
+- [Wemby's HISTORIC Night Leads Spurs Win on Instant CLASSIC + Knicks Up 1-0 After Cavs 4Q COLLAPSE — *No Fouls Given*](2026-05-20/5ZNtdLuAhzU.md)
 - [The Inside Guys react to EPIC Cavs-Knicks ECF Game 1 👏 | Inside The NBA — *NBA on ESPN*](2026-05-20/BYDQtGPZmWw.md)
+- [Boogie, Lou & Chandler SHOCKED After Knicks Comeback Win! — *Run It Back*](2026-05-20/GPGvt3voVvc.md)
+- [Stephen A. says ANYONE who was involved with the Luka Doncic trade DESERVES to be fired | First Take — *NBA on ESPN*](2026-05-20/IV_dIBILO7c.md)
 - [Stephen A.: Jalen Brunson was UNSTOPPABLE! 🤩 + Perk & Wilbon on Cavs in ECF Game 1 | SportsCenter — *NBA on ESPN*](2026-05-20/KW-rpjD6IpA.md)
+- [Stephen A. says ’THE KNICKS ARE GOING TO THE FINALS!’ 🏆 | First Take — *NBA on ESPN*](2026-05-20/P3oTk7hpQZQ.md)
+- [Why Alan Hahn is blaming Kenny Atkinson for the Cavs' Game 1 loss in New York 😮 | Get Up — *NBA on ESPN*](2026-05-20/QSu4h_csp3E.md)
 - [HoopsHype YT Quotes — 2026-05-20](2026-05-20/digest.md)
 - [🔥 Every point from Knicks' ECF Game 1 comeback to force overtime | NBA on ESPN — *NBA on ESPN*](2026-05-20/eyklZ24oFGw.md)
+- [Philly Not a REAL Sports Town?! 🤨 Josh & Jalen Spark Viral Debate After Dominating Sixers — *Roommates Show*](2026-05-20/fC7JvOILaPA.md)
 - [Watch Donovan Mitchell & Jalen Brunson address Cavs-Knicks ECF Game 1 OT thriller | NBA on ESPN — *NBA on ESPN*](2026-05-20/iRLmRFQ8yKQ.md)
 - [Tim Legler & Kendrick Perkins react to Cavs-Knicks ECF Game 1 OT thriller 🔥 | SC with SVP — *NBA on ESPN*](2026-05-20/k1y--YMnjbc.md)
 ## 2026-05-19
@@ -18,6 +24,7 @@
 - [Is it Victor Wembanyama’s league now?! 👀 Game 1 of the WCF: Spurs vs. OKC | Howdy Partners — *NBA on ESPN*](2026-05-19/P7fLRoiKmc4.md)
 - [🚨EMERGENCY REACTION🚨 Wembanyama’s HUGE Statement in Instant Classic Game 1 — *NBA on ESPN*](2026-05-19/Pgh9tsiYUTI.md)
 - [Memphis' front office & fans HATED Chandler Parsons because he brought BEAUTIFUL women courtside 🤯 — *Out The Mud*](2026-05-19/Siw0nioYBJc.md)
+- [Knicks SHOCKING Comeback Win! + Do Spurs Take 2-0 LEAD?! — *Run It Back*](2026-05-19/VWK3DZ9TVQg.md)
 - [How Gregg Popovich Finessed the NBA to Send Steve Novak from the Spurs to Knicks — *7PM in Brooklyn*](2026-05-19/Vr510_DbSck.md)
 - [Boogie - Thunder Won't Win A Game vs Wemby, Spurs?!? — *Run It Back*](2026-05-19/a3qSqVnXWAU.md)
 - [HoopsHype YT Quotes — 2026-05-19](2026-05-19/digest.md)
