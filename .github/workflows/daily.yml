@@ -98,3 +98,15 @@ jobs:
               exit 0
             fi
           done
+      # Slack runs LAST, after git push, so the linked digest URLs are
+      # guaranteed to be live on origin by the time anyone clicks through.
+      # `if: always()` runs the step even when the extractor exited
+      # non-zero (e.g. SIGALRM force-exit 3 from a hung background
+      # thread). hashFiles() skips when the extractor crashed before
+      # writing the payload.
+      - name: Post Slack notification
+        if: always() && hashFiles('.slack_payload.json') != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          OUTPUT_BASE_URL: ${{ secrets.OUTPUT_BASE_URL }}
+        run: python slack_notify_from_file.py .slack_payload.json

@@ -26,7 +26,6 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
-import slack_notify
 
 load_dotenv()
 
@@ -154,7 +153,8 @@ DIGEST_CLOSING_LINE = (
 SPLIT_WORKERS = 4   # concurrent splitter calls within a single video
 VIDEO_WORKERS = 3   # concurrent process_video calls across the queue
 PER_VIDEO_TIMEOUT_SECS = 25 * 60      # hard upper bound per video
-SCRIPT_TIMEOUT_SECS = 4 * 60 * 60     # hard upper bound for the whole run
+SCRIPT_TIMEOUT_SECS = 30 * 60         # 30 min — hard wall-clock budget for the whole run
+SLACK_PAYLOAD_FILENAME = ".slack_payload.json"
 RECENT_DAYS = 14                      # videos older than this are skipped
 
 # Substrings (uppercased) in an exception's str() that count as transient
@@ -1304,7 +1304,7 @@ def _install_script_timeout() -> None:
 
     def _handler(signum, frame):
         log(
-            f"[timeout] script-level {SCRIPT_TIMEOUT_SECS // 3600}h budget exceeded, "
+            f"[timeout] script-level {SCRIPT_TIMEOUT_SECS // 60}min budget exceeded, "
             "exiting with partial output"
         )
         try:
@@ -1316,6 +1316,21 @@ def _install_script_timeout() -> None:
 
     signal.signal(signal.SIGALRM, _handler)
     signal.alarm(SCRIPT_TIMEOUT_SECS)
+
+
+def _queue_slack_payload(payload: dict) -> None:
+    """Write the Slack message contents to disk for the workflow's post-push
+    step to consume. We don't POST to Slack from inside this process anymore
+    because hung background threads can keep the Python interpreter alive
+    long past the meaningful "Done." moment; posting from the workflow
+    after git push guarantees the linked digests are live by the time
+    anyone clicks through.
+    """
+    try:
+        (ROOT / SLACK_PAYLOAD_FILENAME).write_text(json.dumps(payload), encoding="utf-8")
+        log(f"[slack] payload queued at {SLACK_PAYLOAD_FILENAME}; workflow posts after git push")
+    except OSError as e:
+        log(f"[slack] failed to write payload: {e}")
 
 
 def main() -> int:
@@ -1372,7 +1387,7 @@ def main() -> int:
         if not candidates:
             log("No candidate videos discovered.")
             regenerate_index()
-            slack_notify.post_no_new_videos(today)
+            _queue_slack_payload({"kind": "no_new_videos", "date_str": today})
             return 0
 
         # Step 2: hydrate metadata in batches of 50.
@@ -1488,7 +1503,7 @@ def main() -> int:
     if not queued:
         log("Nothing new to process.")
         regenerate_index()
-        slack_notify.post_no_new_videos(today)
+        _queue_slack_payload({"kind": "no_new_videos", "date_str": today})
         return 0
 
     if len(queued) > max_total:
@@ -1548,15 +1563,16 @@ def main() -> int:
 
     if processed_items:
         one_off_count = sum(1 for it in processed_items if it.get("is_one_off"))
-        slack_notify.post_digest(
-            processed_items,
-            today,
-            digest_dates=digest_dates_rotation,
-            oneoff_digest_dates=digest_dates_oneoff,
-            one_off_count=one_off_count,
-        )
+        _queue_slack_payload({
+            "kind": "digest",
+            "date_str": today,
+            "items": processed_items,
+            "digest_dates": digest_dates_rotation,
+            "oneoff_digest_dates": digest_dates_oneoff,
+            "one_off_count": one_off_count,
+        })
     else:
-        slack_notify.post_no_new_videos(today)
+        _queue_slack_payload({"kind": "no_new_videos", "date_str": today})
 
     log(f"Done. {summary}")
     return 0
