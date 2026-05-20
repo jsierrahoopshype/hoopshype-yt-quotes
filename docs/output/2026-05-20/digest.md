@@ -584,6 +584,150 @@ _Speakers identified: Kendrick Perkins, Richard Jefferson, Allie Clifton, Channi
 
 ---
 
+## What Did Wemby Just Do in OKC?? Road Trippin' REACTS — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=W8rx3kIKoQI
+
+_Speakers identified: Richard Jefferson, Channing Frye, Allie Clifton_
+
+**1. Channing Frye — defensive strategy against a 7'5" player like Wemby — "I have to keep him, I have to figure out a way to keep him above the free-throw line."** [00:00](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=0s)
+
+**Richard Jefferson:** "What do you think the best attack plan is? Because like I I love we can all point out the problems. Honestly, what would I do? Yeah, what would I do?"
+
+**Channing Frye:** "I have to keep him, I have to figure out a way to keep him above the free-throw line if I want to get downhill. And the minute that he comes to to block, I have to throw those 911 passes. Because he's so good defensively, he jumps late. He does not jump early, Richard, which I watched, watch the film."
+
+**Richard Jefferson:** "No, he's genius. He's genius. I'm a genius."
+
+**Channing Frye:** "He's genius because if he jumps early, they throw it to him."
+
+**2. Channing Frye — defensive strategy against elite players like Giannis and Wemby — "When Wemby runs up the court, you gotta have somebody right next to him. Almost like you gotta be pushing on him the whole game."** [01:26](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=86s)
+
+"Honestly, you gotta say, hey, like when we played **Giannis**, right? We're like, hey, it's gotta be five of us versus him. And you gotta wear him down. And honestly, when **Wemby** runs up the court, you gotta have somebody right next to him. Almost like you gotta be pushing on him the whole game. He cannot run freely at all. But the problem is the Spurs have so much talent. **Dylan Harper** says, oh, we're gonna play four-on-four? **Devin Vassell**, we're playing four-on-four? **Stephon Castle**, we're playing four-on-four?"
+
+**3. Richard Jefferson — Kyrie Irving and LeBron James finishing over Wemby — "I would love to see Kyrie finishing over Wemby. If there's one human being, if there's two human beings, it's LeBron and Kyrie."** [02:00](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=120s)
+
+**Richard Jefferson:** "I'm not gonna lie, I'm not gonna lie, I would love to see Kyrie finishing over **Wemby**. If there's one human being, if there's two human beings, it's LeBron and Kyrie. We don't know how. Now I don't again, we're talking about the best finisher, one of the best finishing guards versus one of the best shot blocking. You know Kyrie will hold it and do all like, but **Wemby**'s gonna get some blocks and Kyrie's gonna get some buckets."
+
+**Channing Frye:** "Hey, bareface. Sorry, sorry. Let me chat real quick. Hey, bareface. There was a time, I was on a Western Conference Finals team, starting. So, let's just scooch up."
+
+**4. Channing Frye — explaining the Gortat screen in basketball — "You set the screen and then as you're rolling, you're not even looking for the ball, you're re-screening your guy."** [03:23](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=203s)
+
+**Channing Frye:** "I think Minnesota had the right idea. I think Minnesota had the right idea, doing a **Gortat** screen. But I think honestly, you gotta keep him."
+
+**Allie Clifton:** "What's a **Gortat** screen?"
+
+**Channing Frye:** "Where you set the screen and then as you're rolling, you're not even looking for the ball, you're re-screening your guy and your guard is driving behind your back and you're basically blocking off the defender. But he's seen that already. That was Minnesota's ace in the hole."
+
+**5. Channing Frye — Wemby's coachability, skill, and emotional investment in plays — "He's coachable, he's skilled, and he is emotionally invested in every single play."** [03:53](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=233s)
+
+"**Wemby** is, here's a problem. He has **Pop** in his ear. We saw the video when they lost, **Pop** was meeting him at the airport. He got **Tim Duncan**, **David Robinson**, **Ginóbili**, the Spurs mafia in his back. He's coachable. He's skilled and he is emotionally, emotionally invested in every single play. When he shot that 40-footer, I said, brother, we talk about nuts on a wildebeest, those are blue whale nuts to shoot that shot with that type of confidence, understanding time, score, situation, and am I gonna get a better shot than this? If you rewind that play, you would say, what happened the last two or three plays before that? He's gotten beaten up, they were double-teaming, he missed, I think, missed a shot or two. He goes, this is the best shot my team, I'm riding out. And he goes and shoots that."
+
+**6. Richard Jefferson — detailed defensive and offensive strategy against Wemby — "Get to his body as quickly as possible. Push him out as far as possible."** [06:00](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=360s)
+
+"Meeting him early. Almost at half-court, you have to have him start feeling a body, like this is ideal defense coming in in a structured transition. Get to his body as quickly as possible. Push him out as far as possible. On how you score on the offensive side, NBA players' jobs is to figure it out. We're not just like, well, **Wemby**'s here, here went all the games. It's like, okay, where are the floaters, where are the outlets, where can we screen, screening your own man like you said **Channing**. They'll put him on the three and D corner guy so he can just stay on the weak side. So then you got to figure out how do you create an offense where someone can screen him, keep a body on him that prevents him from rotating and coming over and trying to help. So physicalness first, body to him. He hasn't scored 40 and 20 every single game of this postseason. They've lost some games. So they are beatable. I would force the other guys to beat me on the offensive end, and he's okay with that because they have a talented team. It's not just **Wemby**, it's the weapons around him that allow him to be this dude."
+
+**7. Channing Frye — Team's NBA Finals level emotional investment and short-term memory — "their emotional investment into every play is like they are so locked in."** [08:30](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=510s)
+
+"Not only because you have **Wemby**, it's because we're playing four-on-four. The belief, if you look, I think **Stephon Castle** had 11 turnovers, right? No one brings that up. Why? Because when he had a turnover, they just got back and were like, all right, that's it. There was no, again, their emotional investment into every play is like they are so locked in. In all honesty, it's hard to sustain that, but they are at that level that is an NBA Finals level where every play is life or death. And when you make a turnover, it's over, what's up right here. And that is so hard for basketball players because you always think, well, I got another game tomorrow, or what do I feel like? They're like, ball's out of bounds. You got a steal, you got a block. No one cares. Foul. Short-term memory. And that's what makes them dangerous."
+
+**8. Channing Frye — Team's depth and other players' contributions when Wemby is out — "When Wemby goes out for those six to ten minutes, you're like, let's take advantage of Luke Kornet."** [08:30](https://www.youtube.com/watch?v=W8rx3kIKoQI&t=510s)
+
+"Because you go, look at **Dylan Harper**'s hitting shots. Here's some blocks. Look at this, **Luke Kornet**'s making crazy plays, just being a leader, being consistent. When **Wemby** goes out for those six to ten minutes, you're like, let's take advantage of **Luke Kornet**. He ends up with three blocks too. It's such a wild team. **Chet** needs to take advantage of his matchup so that **Wemby** has to guard him."
+
+---
+
+## Perk DARES Chet to GO CHECK Wemby + Who's To Blame for Cavs EPIC Meltdown?? — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=XAL6nGH2O-Y
+
+_Speakers identified: Allie Clifton, Richard Jefferson, Kendrick Perkins, Channing Frye_
+
+**1. Kendrick Perkins — Kendrick Perkins praises Jalen Brunson's leadership and Josh Hart's defense — "When you talk about protecting your house and showing true leadership, the way that he was in that time out in that huddle, talking with passion and then came out and made love to James Harden."** [10:45](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=645s)
+
+"When you talk about protecting your house and showing true leadership, the way that he was in that time out in that huddle, talking with passion and then came out and made love to **James Harden**. Time and time again. I mean whispering things in his ear. God. I'm talking about look, that was a hell of a win that was hell of a coach by **Mike Brown** and **Mike Brown** did a hell of a job for us his substitutions throughout the course of that run too. Landry Shamet. Hey boy, hey, talk about being a star in your role. I like people like you, boy. You defended your ass off, timely buckets, bought that tenacity. The Knicks look like a they look like an all in group. That's why I'm starting that, Allie. Now they could go whatever direction they want go in. I'm going there. **Jalen Brunson** and the Knicks. Karl-Anthony Towns. Hey boy, I see you sliding the big 22."
+
+**2. Richard Jefferson — Richard and Channing discuss Josh Hart's fouls and defensive strategy — "The pull one is like you want your defender to go. Go. I'm almost pushing you."** [12:55](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=775s)
+
+**Richard Jefferson:** "The pull one is like you want your defender to go. Go. I'm almost pushing you."
+
+**Channing Frye:** "He let the intrusive thoughts. He said, yo, I'm going to hold him and nobody's going to see him."
+
+**Richard Jefferson:** "I'm going to hold your ass. And let's say, what are you doing? Everybody sees that. You're seven foot two. Not even to see, it's like even from a strategic space. I want separation. If you go up there, I get a bounce pass, I can get a lob. If if you shoot it and that guy goes and contest, I get an offensive rebound. Everything is great for me if my defender goes towards them."
+
+**3. Channing Frye — Knicks' slow start, Mitchell Robinson's impact, and shooting lineup success — "As soon as Jalen Brunson started to get rolling, they started doing that soft double, and now you have shooters."** [14:05](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=845s)
+
+"**Richard** had talked about, hey, is that team going to be rusty? Their rhythm. At the beginning of the game, the Cavs came out. It seemed like a back-to-back game for the Cavs. The Knicks had three days off during the regular season, and the Knicks just couldn't get that car to start. They kept trying different things. I was wrong about **Mitchell Robinson**'s impact this game, but I would have never said **Landry Shamet** was going to come in. As soon as **Jalen Brunson** started to get rolling, they started doing that soft double, and now you have shooters, shooters, shooters, shooter. **Mitchell Robinson**, you can kind of rotate to somebody else, a non-shooter. When they put that shooting lineup out, we talk about **Mike Brown**, a lot of people are like, oh, this isn't, he's not as good as **Tibs** or he's not this or that. But he's going down to the bench 7-8-9-10, getting guys, using them as chess pieces. **Landry Shamet** came in and started in his role."
+
+**4. Channing Frye — Cavs' collapse and the Knicks' playoff comeback chemistry — "When that avalanche came, when that tsunami took over the Cavs, the Cavs just looked around like, what do we do?"** [14:05](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=845s)
+
+"**Perk** mentioned this. When that avalanche came, when that tsunami took over the **Cavs**, the **Cavs** just looked around like, what do we do? I'm going to talk good about the **Knicks** for a second. When you talk chemistry, being down 22 in the playoffs, you have to have a certain level of trust and love, and 'we're not done yet' in your heart to come back from that much against a great team. The **Cavs** were playing great, perfect basketball in the first half."
+
+**5. Richard Jefferson — Opponent's flawed strategy of getting ball out of James Harden's hands — "You actually made it somewhat easier for what they're trying to do."** [19:20](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1160s)
+
+"It was more of what I saw to be kind of the first half, it was weird because both teams were going back and forth. Neither team was shooting the ball well. **Tim Legler** said it at halftime: 'Whichever team gets breaks open this three-point shot first, they're going to be the ones to take advantage.' The two things I found to be unique on both sides defensively: When they were trying to get the ball out of **James Harden**'s hands. They were trying to get him out of **James Harden**'s hands. But **James Harden** hasn't been ultra-effective, and maybe they were trying to force him into a turnover, but they weren't even having a guy shoot the gap to try and steal that pass like a free safety. So basically James got the ball out of his hands. Now when James has the ball, he's typically trying to create for other people. You actually made it somewhat easier for what they're trying to do. So James would throw it and it would be **Jarrett Allen**, and he would throw it to **Sam Merrill**. Merrill gets a wide open shot because you're trying to get it out of **James Harden**'s hands, who's not being the most effective, and you have perimeter defenders that can contain him. He was getting guarded by **Duncan Robinson** in the last series against Detroit. They felt comfortable, Duncan did a pretty good job on him. So that created that was during the run that pushed it to the 22 when they were playing that defense. They were trying to get it out of James's hands, and then like shooter was driving downhill, everybody was creating shots off that. That didn't make sense."
+
+**6. Richard Jefferson — Knicks' successful strategy of attacking James Harden on defense — "Those dudes hit some tough shots. Jalen Brunson hit some tough shots."** [19:20](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1160s)
+
+"And then on the other side, the simple switch, they were going at **James Harden**. Those dudes hit some tough shots. **Jalen Brunson** hit some tough shots. You feel comfortable sometimes when you feel like you're able to get what you want in front of something with the person in front of you. Those boys hit some shots. That's part of the credit. But also if they do it 12 times in a row, that's the part that like, bro, again and again. And then so what they did is they started to go and then they started to have **Sam Merrill**, and they started to kind of, and that's when it kind of slowed the run a little bit. It felt like they were going to be able to hold on when they started to kind of go at them, but then **Mikal Bridges** hits a shot. **Landry Shamet** hits a shot. So it was impressive by the Knicks. But you can't."
+
+**7. Kendrick Perkins — Kendrick Perkins criticizes Cavs' lack of leadership and James Harden's defense — "You're up 22 points in the fourth quarter. All you need to do is get stops."** [23:30](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1410s)
+
+"Here's the thing. What it showed was last night, showed a lack of leadership all across the board. Because we could sit up here and harp about the wasted possessions they had offensively. We could talk about how Donovan Mitchell didn't get touches. You're up 22 points in the fourth quarter. All you need to do is get stops. Not one time, not one time did I see when the Knicks were shooting free throws or, you know, it was a loose ball. I didn't see I didn't see people saying, hey man, huddle up. I didn't it's bad enough Kenny didn't call a time out just to to to put some type of motivation into the guys. And then forget **James Harden** being picked on. We all saw that, we saw that in 4K. The dumbest play that he had on the night that pissed me off. It's right in front of the Knicks bench. **Jalen Brunson** is dribbling the damn basketball. **James Harden** is guarding Mikal Bridges in the corner. **James Harden** comes up and just does this. Turns his back to Mikal Bridges, leave Mikal Bridges. He didn't go in trap. He played like in the middle of like, oh, I'm showing help, but like it was the dumbest shit in the world. And all of a sudden it was an easy kick. Bam, knocked down three, all of a sudden the Knicks are down three with I think it was like a minute 16 seconds left. At some point, at some point, somebody got to say, hey man, let's get them out."
+
+**8. Kendrick Perkins — Kendrick Perkins praises Knicks' offense and spacing, comparing to Golden State — "The Knicks has arguably, in my opinion, has had the best offense in this post season."** [24:50](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1490s)
+
+"Now, in the Cavs defense, I will say this. The Knicks has arguably, in my opinion, has had the best offense in this post season. What do the Knicks do an outstanding job of? Spacing. Right? So we all know that because they space and they're running like this Golden State type offense and you got to and you got to have **Karl-Anthony Towns**, you got to watch out for **Karl-Anthony Towns** because he stretches the floor. This is why I feel like in not to switch subjects, he will be a problem if they played against the San Antonio Spurs because he's the only person that could actually bring Wemby out from inside the paint that. No, just hear me out. I'm not saying they will beat them. But what I'm saying is, it's hard to trap. It's hard to trap. So at that point, because you're putting so many people in rotation, you got to sit this fucking ass down."
+
+**9. Kendrick Perkins — Kendrick Perkins criticizes James Harden for getting verbal agreements without producing results — "I've never seen a person get more verbal agreements before they have to go out there and actually produce and get the job done than a person than James Harden."** [26:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1560s)
+
+"You know what's crazy to me? I'm going to tell you what's crazy. **Brian Windhorst** reported a few days ago that the Cavs basically has given **James Harden** a verbal agreement. Put the money in the bag. Put the money in the fucking bag. Boy, I wish you would. I've never seen a person get more verbal agreements before they have to go out there and actually produce and get the job done than a person than **James Harden**. A verbal agreement. So when when people start to ask it's called it's called leverage. Oh, okay, you use that leverage. No, you're right, but when people started started to ask **Kenny Atkinson**, hey, can you bench James? Uh, can't. We got to see a lot of it go over a lot of people's head because don't act like we all don't know that a lot of shit come from the top. A coach only got so much that he could really, yeah, a lot of shit come from the top. Hey, he better be on the floor."
+
+**10. Richard Jefferson — Wemby's current play meets high expectations, showing his immense capability — "he's playing to the capability of what he has. He's skilled."** [30:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1800s)
+
+"Allie, we were talking the other day and I was like, I'm not surprised by **Wemby**. I wasn't overly impressed, and you were like, why? And I was like, because he's playing to his capability. We've seen him hit deep threes. That's a great compliment. That is a wildly amazing compliment for a player of that caliber. All kidding aside, because we're all basketball nerds, he's playing to the capability of what he has. He's skilled. If he ever decides to say, hey, screw it, it's time to go be big and I'm going to get beat up, but we all know."
+
+**11. Richard Jefferson — LeBron's regular season physicality offers a parallel for Wemby's potential — "LeBron didn't like to post up in the regular season. He didn't want to take that beating."** [30:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1800s)
+
+"**LeBron** didn't like to post up in the regular season. He didn't want to take that beating. So he would do all the other stuff, and then in the postseason, that's when he would go to the block more and take the fouls and be a little bit more physically dominant. But he didn't want to do that all year. And so for **Wemby** to be like, okay, now is time for me to go in there and take these hits and get aggressive and be physical. For him to do that, it's like those numbers and what he's doing, you have all of this ability, you have all of these physical gifts, and this is what you are capable of doing. That was really cool, and that's why we always say, if he plays to his capability, it's over."
+
+**12. Richard Jefferson — Wemby's unguardable physical attributes, like Shaq's, but NBA players adapt — "His physical attributes in a very different way are unguardable. He can catch it in a place that no one can."** [30:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1800s)
+
+"The last time we've seen a physically dominant person like that was **Shaquille O'Neal**. Now mind you, it was different, but their physical attributes were unguardable. His physical attributes in a very different way are unguardable. He can catch it in a place that no one can, he can do lobs, he can block shots that no one else can. He can do things that no one else in the world can, and there's a big gap. There's a big gap between what he can do and everyone else. So if he plays to his capability, it could be over for a little while. It's never over forever. It's never over forever because that's not how NBA players work. NBA players figure it out."
+
+**13. Richard Jefferson — Physical defense and offensive creativity needed to score against Wemby — "Wemby is always going to have the shot blocking advantage, but NBA players our jobs is to figure it out."** [33:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1980s)
+
+"Meeting him early, almost at half court, you have to have him start feeling a body. This is ideal defense coming in as in a structured transition. Get to his body as quickly as possible. Push him out as far as possible. On how you score on the offensive side, this is one thing. **Wemby** is always going to have the shot blocking advantage, but NBA players, our jobs is to figure it out. We're not just like, well, **Wemby**'s here, here went all the games. It's like, okay, where are the floaters? Where are the outlets? Where can we screen? Screening your own man like you said, **Channing**."
+
+**14. Richard Jefferson — Offensive strategies to counter Wemby's weak-side defensive positioning — "you got to figure out how do you create an offense where someone can screen him, keep a body on him."** [33:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1980s)
+
+"But a lot of times, they'll put him on the three and D corner guy. They'll put him on the corner brother over there that's sitting over there so then he can just stay on the weak side. So then you got to figure out how do you create an offense where someone can screen him, keep a body on him that prevents him from rotating and coming over and trying to help. So physicalness first, body to him."
+
+**15. Richard Jefferson — Wemby's team is beatable due to surrounding talent — "They've lost some games. So they are beatable. It's not just Wemby. It's the weapons around him."** [33:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=1980s)
+
+"And again, he hasn't scored 40 and 20 every single game of this postseason. They've lost some games. So they are beatable. They are beatable. And I would force the other guys, I would force the other guys to beat me on the offensive end. And he's okay with that because they have a talented team. So it's not just **Wemby**. It's the weapons around him that allow him to be this dude."
+
+**16. Richard Jefferson — Draft lottery clarifies pick value, enabling teams to field offers — "Now that every team has their slots, Milwaukee is like, 'We will now field offers.'"** [36:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=2160s)
+
+"It was after the draft lottery that just happened. Why was it after the draft lottery? It was after the draft lottery because now teams like **Pelicans** will be like, 'We'll give you our first round pick.' Well, is that number one? Is that number eight? Is that number six? So, now that every team has their slots, one through whatever, now **Milwaukee** is like, 'We will now field offers because now we know are you offering us the seventh pick or the 12th pick or the second pick?' So that's why he came up and they announced it."
+
+**17. Richard Jefferson — Trade deadline pick uncertainty; Giannis trade after lottery — "After the draft lottery, the next day they were like, 'All right, we're fielding offers for Giannis.'"** [36:00](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=2160s)
+
+"Why didn't they trade him at the trade deadline? Well, if you're getting picks and you don't know what picks that is, so you don't know the true value. You might take **Brooklyn**'s first round pick that ends up being sixth, and you might have thought it was going to be the number one. After the draft lottery, the next day they were like, 'All right, we're fielding offers for **Giannis**.' Just so you guys know the correlation of when they trade guys, deadlines and stuff. After the draft lottery, now everybody knows what pick, especially in this draft. This draft is so valuable. So there's like, 'We want to know what number you have versus just getting your first round pick and you're a bottom 16.'"
+
+**18. Richard Jefferson — New GM, rookie, and rebuild signal franchise direction change — "The franchise is changing in a direction of a three to five year rebuild."** [38:30](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=2310s)
+
+"I don't have any information. I would say this is that, if we take personal sides out of it and just knowing, I think they've had success, they've been to the finals, this is a very accomplished coach. But when a new GM comes, you have a rookie that's the Rookie of the Year that's 19 years old. The franchise is changing in a direction of a three to five year rebuild."
+
+**19. Richard Jefferson — Jason Kidd's market interest and mutual parting for a rebuild — "J Kidd is a guy that would have a lot of different interest."** [38:30](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=2310s)
+
+"When you have a coach like **Jason Kidd** who is trying to become a championship level coach and I think has proven that he has the ability given the right team in the right situation, I think it makes sense when GMs come in and they want to start over. And I think it's a mutually parting ways, it's mutually parting if that's what's being reported. So that basically means it's like, hey, we're going to be losing for the next few years and doing this. And **J Kidd** is a guy that would have a lot of different interest. The **Knicks** inquired about **Jason Kidd**. They inquired about **Jason Kidd** last year before hiring **Mike Brown**. Obviously **Dallas** didn't let them talk to **J Kidd**, but I think there would be tons of interest in the market for him, and rightfully so. So I look at that is like, hey, we're going to go a different direction. And then you got a new GM that's probably going to want his guy. And **J Kidd** is a great coach, but it's like, hey, we want to start new, we want to do this and this is how we want to go about it."
+
+**20. Channing Frye — Team vision and younger coaches for development versus old-school styles. — "There's a lot of teams that took younger coaches, said, hey, we need to relate to these young guys."** [39:30](https://www.youtube.com/watch?v=XAL6nGH2O-Y&t=2370s)
+
+"If you want to get the best out of everyone, then they all have to be bought in on a full vision. And it's not wrong that you're coming in with a different vision than what they might have been privy to with the previous owners or previous people, right? **Jason Kidd** is a very, very good coach. I think if I'm **Masai**, I like Rich said, I got to have my own player. Or my own person. I got to bring in my team. I got to bring in my type of guys. As we've seen in Toronto, **Masai**'s guys don't necessarily look like **Jason Kidd**'s guys. Also, I'd say, why would I not start with a younger coach who's going to develop? Look at what Boston did with their coach, starting with a younger coach and say, hey, we're going to develop here. Utah starting to build something, Charlotte starting to build something, OKC starting to build something. There's a lot of teams that took younger coaches, said, hey, we need to relate to these young guys. We want to develop, build for the future. Are you that guy or are you going to want to do a little bit more old school like a **Mike Brown**, like a **Steve Kerr**, like a **JJ**."
+
+---
+
 ## Draymond Green Reacts to Jason Kidd Getting Fired, Spurs & Knicks Upset Wins — *The Draymond Green Show*
 
 Source: https://www.youtube.com/watch?v=YK5jMZVc-jc
