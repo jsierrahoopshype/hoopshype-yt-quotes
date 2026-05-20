@@ -1,5 +1,10 @@
 # HoopsHype YouTube quotes — index
 
+## 2026-05-20
+
+- [Stephen A.: Jalen Brunson was UNSTOPPABLE! 🤩 + Perk & Wilbon on Cavs in ECF Game 1 | SportsCenter — *NBA on ESPN*](2026-05-20/KW-rpjD6IpA.md)
+- [Watch Donovan Mitchell & Jalen Brunson address Cavs-Knicks ECF Game 1 OT thriller | NBA on ESPN — *NBA on ESPN*](2026-05-20/iRLmRFQ8yKQ.md)
+- [Tim Legler & Kendrick Perkins react to Cavs-Knicks ECF Game 1 OT thriller 🔥 | SC with SVP — *NBA on ESPN*](2026-05-20/k1y--YMnjbc.md)
 ## 2026-05-19
 
 - [Have Knicks Found the Recipe?! Jalen & Josh on Why this Year is DIFFERENT 😤 — *Roommates Show*](2026-05-19/098Zb8XeLSM.md)
@@ -10,11 +15,13 @@
 - [Is it Victor Wembanyama’s league now?! 👀 Game 1 of the WCF: Spurs vs. OKC | Howdy Partners — *NBA on ESPN*](2026-05-19/P7fLRoiKmc4.md)
 - [🚨EMERGENCY REACTION🚨 Wembanyama’s HUGE Statement in Instant Classic Game 1 — *NBA on ESPN*](2026-05-19/Pgh9tsiYUTI.md)
 - [Memphis' front office & fans HATED Chandler Parsons because he brought BEAUTIFUL women courtside 🤯 — *Out The Mud*](2026-05-19/Siw0nioYBJc.md)
+- [How Gregg Popovich Finessed the NBA to Send Steve Novak from the Spurs to Knicks — *7PM in Brooklyn*](2026-05-19/Vr510_DbSck.md)
 - [Boogie - Thunder Won't Win A Game vs Wemby, Spurs?!? — *Run It Back*](2026-05-19/a3qSqVnXWAU.md)
 - [HoopsHype YT Quotes — 2026-05-19](2026-05-19/digest.md)
 - [Is Wemby The Greatest Player In The WORLD?!? — *Run It Back*](2026-05-19/fcRehPHlT-g.md)
 - [Boogie - Chet To Blame For Thunder Loss To Spurs! — *Run It Back*](2026-05-19/jnTFZL4sdTU.md)
 - [Stephen A.'s MESSAGE for Shai Gilgeous-Alexander 🗣️ PROVE YOU'RE REALLY THE MVP! | First Take — *NBA on ESPN*](2026-05-19/lmTWAV1kess.md)
+- [The BAHA gets HOSTILE debating if Wemby is the BEST player over Shai Gilgeous-Alexander 🤯 — *To The Baha*](2026-05-19/myg2dvZB188.md)
 - [Windy believes that OKC might be ‘checkmated by the 7’4" guy’ Victor Wembanyama 😬 | Get Up — *NBA on ESPN*](2026-05-19/osePTXOvTZk.md)
 - [Chris Paul COMMENDS how Wemby carries himself 🗣️ 'HE'S HOOPIN'!' 🍿 | The Pat McAfee Show — *NBA on ESPN*](2026-05-19/rQdEWavzTHE.md)
 - [Hear from Wemby and SGA after the Spurs win Game 1 of the WCF in 2OT 🗣️ | SportsCenter — *NBA on ESPN*](2026-05-19/xPVUufSrH0c.md)

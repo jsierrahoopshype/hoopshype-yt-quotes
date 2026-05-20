@@ -1,5 +1,203 @@
 # HoopsHype YT Quotes — 2026-05-19
 
+## DWade & Udonis Haslem Break Down Wemby’s Mentality, SGA’s MVP & Cavs vs Knicks — *DwyaneWade*
+
+Source: https://www.youtube.com/watch?v=0O2XFbcP5G0
+
+_Speakers identified: Udonis Haslem, DWade, Bob_
+
+**1. DWade — Miami Heat Big Three contract and pressure to win — "If we lose the second year, remember we had to go into Boston. If we lose that year, you know who going to be getting traded."** [04:38](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=278s)
+
+"We get together as a Big Three and we signed six-year deals and it sound great, but it's a four-year opt-out in there and then also that you got some trade. I was happy. So if we lose the first year. If we lose the second year, remember we had to go into **Boston**. If we lose that year, you know who going to be getting traded."
+
+**2. Udonis Haslem — Accountability in NBA for players and front office — "We're going to be held accountable if we don't perform. So guess what? You're the star team, go hold them accountable upstairs as well."** [04:47](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=287s)
+
+"And this is why and I can go to the next generation because I had the opportunity to play with guys like yourself and I know what the expectation is. So that's why when I sit in the locker rooms with guys like **Bam** and these guys and I tell these guys what the expectation is. I also tell them, listen. We're going to be held accountable if we don't perform. So guess what? You're the star team, go hold them accountable upstairs as well. because you will be judged. You will be hold accountable if you don't perform."
+
+**3. DWade — Thunder, Knicks benefit from sweeping series, allowing rest for injured players — "You got J-Dub with the Thunder that's injured. You got him time now to come back into the series."** [07:25](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=445s)
+
+"It's a balancing act, right? Obviously the goal is when you're the more superior team, the goal is to get the series over with. Don't play around. Get the series over with. So one, you win the series, but two, you're not walking around with unfortunate injuries. And so your job is to do that. So you got two teams in this conference finals when it comes to the Thunder and the Knicks who did their job. They swept. They now they sit back and they wait. And so here's the benefit. Now you get to rest. You got guys that are injured. You got **J-Dub** with the Thunder that's injured. You got him time now to come back into the series. So there are some positives."
+
+**4. DWade — Cleveland's Game 7 win gives them competitive edge over rested teams — "They are in that edge, that competitive spirit, that mode, and you got to get yourself back into it."** [07:25](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=445s)
+
+"But here's the negative. The negative is, you got a team like **Cleveland** who had to go on the road and win Game 7. They are in that edge, that competitive spirit, that mode, and you got to get yourself back into it. You got to get yourself into a whole different series, whole different physicality, whole different players, all these things going on. So yeah, that's the give and take of being really, really good where you got to take care of business, but also too, you got other teams who are finding ways to win together. They're building confidence while you're at home trying to do whatever you can to stay in shape and not lose your edge, and they already coming in with the edge. And so yeah, that's what makes it compelling."
+
+**5. Udonis Haslem — Importance of mental edge and avoiding rest in playoffs — "For me I just wanted to keep my mind sharp and I just wanted to keep that edge. My edge was my superpower."** [08:57](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=537s)
+
+"Those guys that need those couple days that a little banged up, I I totally 1,000% agree with that. But if you're healthy, for me I just wanted to keep my mind sharp and I just wanted to keep that edge. I just never wanted to relax too much. I just never wanted to lose my edge. I never wanted to relax too much. I never wanted that feeling. I always wanted to stay in the moment and get to the next task. I just never wanted to relax. I always felt like a team that was coming out of a series going right into another series that had been grinding and fighting and they keep that mentality and keep that emotion as they translate into the next series. As you took five or six days off, I always felt like that just gave them a little bit more of edge but just from your perspective how would you feel about having that much time off and another team just coming off of seven games theory is coming right into one. My edge was my superpower. So I understood who I was and what I was. So my edge was my superpower and I never wanted to lose that."
+
+**6. DWade — Cleveland Cavaliers understand their playoff moment and opportunity — "these moments do not keep coming. Here it is. I have a moment right now."** [10:55](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=655s)
+
+"I think that's why what the **Cleveland Cavaliers** did. It wasn't how everybody wanted it to go. I wanted them to close it out in Game 6 at home too. Everybody. But what they did in understanding this moment, like **Donovan Mitchell** as the leader, understanding, these moments do not keep coming. Here it is. I have a moment right now where the Eastern Conference yesterday everybody is like, 'Oh, the **Knicks** are playing amazing. The **Knicks** are going to...' No one knows what the next round is going to be. No one knows. No one knows what's going to happen. So if you're looking at it, you're the **Cleveland Cavaliers**, you're like, 'No, no. I have a chance. I have a chance to go to the Finals. I have a chance to go to obviously the Eastern Conference Finals.'"
+
+**7. DWade — Donovan Mitchell's leadership and response after Game 6 — "he came back and he responded. He responded. You need your star players to step up."** [10:55](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=655s)
+
+"So what I love what **Donovan Mitchell** did, he had an awful Game 6 for the player that he is and the leader that he is, and he came back and he responded. He responded. As playing with guys, as a guy who has to, you need your star players to step up in certain moments, but especially on the road. And when you watch your star player come out there and lead the team the way he led that team, you have so much more confidence in your abilities and what you need to do for that, and you just want to give him everything you have."
+
+**8. DWade — DWade's past interaction with Draymond Green about Rudy Gobert — "Draymond Green walked up on me before and had a conversation. He didn't like what I said in the Olympics about something."** [18:24](https://www.youtube.com/watch?v=0O2XFbcP5G0&t=1104s)
+
+"**Draymond Green** walked up on me before and had a conversation. He didn't like what I said in the Olympics about something. It was about **Rudy Gobert**. It was about **Rudy Gobert** and I know we had to have that conversation and I had to express with him like, hold on, I got a job. I got a role. I'm on the government side of the **Utah Jazz**. I want **Rudy Gobert** to do. Yes, I want the US to win. But also I want to see **Rudy Gobert** had success. And we said there had that combo and I appreciated that because he came up to me about, hey, I didn't like how you said this and I was like, respect now, let's talk about it. So as long as it go that way and we could talk about how you received it. Communication goes this way and this way. And so I'm all about. We need more of that. Need more of that. Shout out **Draymond Green** for that. We need more of that."
+
+---
+
+## Carmelo Anthony on Wemby's Takeover, Knicks Finals Chances & Kiyan's Tough Freshman Year — *ALL THE SMOKE*
+
+Source: https://www.youtube.com/watch?v=FBPI5LEdxd8
+
+_Speakers identified: Matt Barnes, Carmelo Anthony, Stephen Jackson_
+
+**1. Carmelo Anthony — Carmelo Anthony's post-retirement journey and initial media reluctance — "This whole media Melo thing, I've never saw myself doing this."** [01:23](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=83s)
+
+"Honestly, it's been amazing to just go through that journey. We all retired, you guys know that, that transition period of what it takes to really figure out what's next. I got a chance to do it earlier than most people. I got a chance to start locking in mentally what I want to do, putting a plan together. This whole media Melo thing, I've never saw myself doing this. The people were calling, I'm like, I'm not doing that. Listen, y'all want me to go out there and talk? I'm not talking. Y'all don't want to hear what I got to say."
+
+**2. Carmelo Anthony — Carmelo Anthony's unique perspective on basketball from grassroots to pros — "I get to see it from grassroots and development all the way up to the professional leagues."** [01:23](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=83s)
+
+"But then as I started being around the kids and just the youth in EBYL and the circuits and being in Bmore and my teams, you get a different connection. I got a different connection to the game and I got a chance to see the game from a whole different landscape, from a younger generation. So now I get to see it from grassroots and development all the way up to the professional leagues, all the way up to international. So I'm in the game, so it's only right for me to just go in and talk the game, but do it my way. I don't want to do it the way that nobody else does it. I want to support people that are out there talking the game. But my experience is totally different than anybody else's experience. I don't have the same experience as other people. We all played ball, but I don't have the same experience."
+
+**3. Carmelo Anthony — Carmelo Anthony's commitment to honest, genuine, and accountable commentary — "I'll give you my honest opinion and it's going to always be genuine, it's going to always be real."** [01:23](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=83s)
+
+"So I want to talk about things that I've been through, things that I've seen, things that I've participated in, and that's it. And I'll give you my honest opinion and it's going to always be genuine, it's going to always be real because I want to help everybody that's in whatever situation that they're in. But also, if you're messing up, pardon the French, if you're messing up, then you're messing up. We can't do nothing about that. We still got to hold you accountable."
+
+**4. Carmelo Anthony — Victor Wembanyama's unprecedented mindset and understanding of global NBA face. — "We've never seen nothing like Victor Wembanyama. We've never seen nothing like Wemby."** [05:43](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=343s)
+
+"We've seen a lot of nice guys come through this league. We've seen the best of the best. We've played against the best of the best, and we pay homage to who came before us. We stand on the shoulders of giants. With that being said, we've never seen nothing like **Victor Wembanyama**. We've never seen nothing like **Wemby**. I don't care what it is. This guy's in his first three seasons. We don't know what he's going to be. He was mad that **Shai Gilgeous-Alexander** got the MVP last night. He came out, he stood on business, he said it, 'I'm mad, I don't like that he got it, that's supposed to have been mine.' People are going to talk about how tall he is and what he could do. No, no, no, no. We're going to talk about the mindset that he got. We've never seen young players coming in this league saying, 'I want the MVP, it should be mine, I'm going to take it, Defensive Player of the Year is mine, this, this, and that, my team is going to win 60 wins.' We don't hear stuff like that. We heard that from **Muhammad Ali**. We fell in love, we love **Muhammad Ali** for his brashness. This ain't brashness right here. This is a young kid who really understands what it means to be the face of the NBA internationally, globally. He understands that. And everything that comes with that. And I've never seen nothing like that, champ."
+
+**5. Carmelo Anthony — Victor Wembanyama's unconscious talent and unprecedented comparison to LeBron James. — "This is different. This is on a whole different level than what we felt about LeBron James."** [05:43](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=343s)
+
+"He did, he caught a lob, he was standing on the ground, **Chet** was on his left arm, he just reached up and dunked. I've never seen nothing like that. And then just to add on to that, the three at the end of the game, you know how pressurized that situation is in that moment, to come down and shoot a transition three. And he came out after the game and said, 'I wasn't even thinking, I don't know what was going on.' That's a scary sign to me. For you to be doing that and getting 40 and 20 something and five blocks and six steals, and you're not thinking? Come on. To answer the question, I've never seen anything up close and personal like that. I came in the game with **LeBron James**. I've seen **LeBron James**, and we thought we ain't never seen **LeBron James** before. This is different. This is on a whole different level than what we felt about **LeBron James**."
+
+**6. Matt Barnes — San Antonio's young core defies playoff experience expectations — "Their core guys are 20, 21, and 22 in a league that experience always pays dividends."** [10:33](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=633s)
+
+"What's interesting too is the youngest starting five in playoff history where the average age is almost 23, about 22 years and 300 plus days. In our league, come playoff time, experience was key. But this new generation, they're trying to debunk that. Obviously, Oklahoma City had a few knocks before they got to their stuff last year and won a chip. But this is a very young San Antonio team led by a 20-year-old and a 22-year-old. And **Devin Vassell**, 21? Their core guys are 20, 21, and 22 in a league that experience always pays dividends, but they're showing us otherwise. Speak to the youth and then obviously with that San Antonio system and the foundation that was laid by **Pop**, **Tim Duncan**, **Manu Ginobili**, and **Tony Parker**, have laid to have us see this young team almost act like they've been there before when they haven't."
+
+**7. Carmelo Anthony — San Antonio's simple, top-down culture and Pop's leadership — "San Antonio's system is very simple. You come in here, you work hard, you play hard, you be a professional, you do your job."** [10:33](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=633s)
+
+"That's a testament to the culture. That's a testament to what was established years ago back in the 90s. That just doesn't fade. You just wait your time to get the next great one. So they have their great one. Now you get a chance to build around that. And the system is very simple. You come in here, you work hard, you play hard, you be a professional, you do your job. That's it. So when you're able to do that, which is why **Dylan Harper** could come in and play that way. He was eight for 20 last night as a rookie in Game 1 of the Western Conference Finals. That tells me Mitch let him go. There's a lot of confidence he gives him. When you look at that and you still look at videos of **Pop** meeting **Wemby** at the airport and going to talk to him, it's one, two in the morning. This is **Pop**, he's going through what he's dealing with, and you're still putting your imprint on these guys. And you're calling **Devin Vassell** late at night and telling him, giving him pointers, showing him video. What organization in any sport has that continuity across the board? When you talk about San Antonio and their culture, it starts from the top. This culture starts from the top. We as players could create the culture, but it's got to be run from the top. And **Pop**'s been doing that. He's been winning with that formula, and this is no different."
+
+**8. Carmelo Anthony — Young Spurs' unawareness compared to veteran Tim Duncan era — "They don't even know what they're doing. That's the scary part."** [10:33](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=633s)
+
+"This is no different than when he had **Tim Duncan** and those guys. You guys were there. This is no different than those years. They're just younger, right? They don't even know what they're doing. That's the scary part. Whereas you, y'all knew what y'all were doing. **Tim Duncan** knew what he was doing. **Manu Ginobili** knew what he was doing. **Pop**, these guys don't know what they're doing, and they're just hooping."
+
+**9. Carmelo Anthony — Carmelo Anthony on the Nuggets' 2009 Western Conference Finals belief — "We really felt like, we can get the Lakers that year. We really believed that we could get the Lakers."** [15:33](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=933s)
+
+"I walked out there last night like I was back in 08, 09 Western Conference Finals. It felt like it. I love these moments. Going back to that, as a team that year, we felt like we had an opportunity to make that run. We had an opportunity to get out the West that year. We went through everything in building our team up to that point. I came in, I got drafted in 03. Those Western Conference Finals were like 08, 09. So you're talking about four, five years of just trying to get there and building and building. Then you're going from losing in the first round for three, four seasons to going to the Western Conference Finals in that switch. I had to look back and see what was the switch. Yes, **Chauncey Billups** was a major part of that team. But also, we had a really good group of guys, just a brotherhood off the court, on the court. And we had depth on our team. We had a bench on our team. And we really felt like, we can get the **Lakers** that year. We really believed that we could get the **Lakers**."
+
+**10. Carmelo Anthony — Carmelo Anthony's personal experience battling Kobe Bryant and Phil Jackson — "That was probably one of my greatest experiences in the NBA."** [15:33](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=933s)
+
+"I know what **Wemby** is feeling right now when you beat a team in regular season, you go into postseason feeling like you can, we got their number. That whole experience, just from tip-off to me and **Kobe** locking in at the beginning of the game, and he telling me, 'Let's go, you're here now, let's go.' I'm looking at this, 'What? Western Conference Finals with the **Lakers**, **Kobe**, me?' It was just that experience, going through it and the preparation that it took to compete against not just the **Lakers**, but **Kobe** himself. And also **Phil Jackson**. **Phil Jackson** as a coach, you have to prepare for him too as a player. I had to prepare for Phil, I had to think about what Phil was trying to do. **Kobe** was trying to do. Sometimes they were on two different pages, so you didn't know what was going on in the game. That was probably one of my greatest experiences in the NBA."
+
+**11. Carmelo Anthony — Knicks' playoff preparation and strategy against Cleveland's star guards. — "You're going up against Cleveland with Donovan Mitchell. He's one of those guys. James Harden is one of those guys."** [18:48](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1128s)
+
+"The Knicks gradually got better in the playoffs. It seemed like they started to get healthy. They started to figure out different styles of play and get prepared themselves for what's about to come. I think the Atlanta series against the Knicks prepared them to go up against Cleveland. And I say that because Atlanta had a guard like **CJ McCollum** who was head hunting up there. He was ready to whatever mismatch he was looking for, he wanted, he was going to get. And they proved that it could work. That formula could work. Now, Atlanta ran out of gas. They only had one of those guys. You're going up against Cleveland with **Donovan Mitchell**. He's one of those guys. **James Harden** is one of those guys. You got two guys that can head hunt pick and rolls and matchups and do what they do and manipulate that. So that part of the game kind of got me like, what is our strategy against that?"
+
+**12. Carmelo Anthony — Julius Randle's crucial role and the bigs battle against Cleveland. — "Who's going to win the battle of the bigs? It's going to be a grimy, grind out series."** [18:48](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1128s)
+
+"The bigs matchup, **Mobley** and **Jarrett Allen**, **Mitchell Robinson**, who's going to win the battle of the bigs? It's going to be a grimy, grind out series for the bigs. Or is **Julius Randle** coming in as the **Julius Randle** that swept Philly, where you're in the Joker position and you pass it and you're making everybody look good? Or are you coming in ready to put Cleveland away? Which **Julius Randle** is coming?"
+
+**13. Carmelo Anthony — Carmelo Anthony predicts Knicks in Finals, highlights key players. — "I do believe the Knicks have the right formula to be playing in June in the Finals."** [18:48](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1128s)
+
+"I do believe that the Knicks get to the Finals this year. I've said this at the beginning of the season. I said Knicks, Denver in the Finals. This was a while ago. But I do believe the Knicks have the right formula to be playing in June in the Finals. They got defense, they got three-point shooting, they got a closer, a killer in **Jalen Brunson**. And **Julius Randle**, no matter what people think about **Julius Randle**, **Julius Randle** goes out there and you look up, 'I got 25, 12.' You're like, 'How the heck **Julius Randle** got 25 and 12?' But **Julius Randle** got 25 and 12. So, **OG Anunoby**, we need **OG Anunoby** back and **Mikal Bridges**. What **Mikal Bridges** is going to show up? Is **Mikal Bridges** from Atlanta going to show up, or **Mikal Bridges** from Philadelphia going to show up? Those are my takes on the series. Knicks in seven."
+
+**14. Stephen Jackson — Stephen Jackson and Matt Barnes predict a better Game 2 for the Thunder after a poor Game 1 — "I think Game 2 they're going to play a lot better. They're going to be way more solid, make better plays, take care of the ball."** [24:12](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1452s)
+
+**Matt Barnes:** "So the spread is six, six and a half for San Antonio. So you're taking the points or you're just taking San Antonio period?"
+
+**Stephen Jackson:** "I'm taking San Antonio period, but for the for this segment, I'm taking the points."
+
+**Matt Barnes:** "Six and a half. We'll see if Oklahoma City can rebound. I got the Spurs as well with the six and a half points."
+
+**Stephen Jackson:** "I don't think it's going to be an overtime. I don't think they're going to bounce back. I think San Antonio won that game and they didn't even play well. A lot of turnovers, a lot of bad decisions. It's a young team, first game in the Western Conference Finals on the road. They had a little jitters. I think Game 2 they're going to play a lot better. They're going to be way more solid, make better plays, take care of the ball. And I think it's going to be an easier win this time. I don't think it's going to be an overtime."
+
+**15. Stephen Jackson — Spurs' strong 2-0 series lead and predicted win — "San Antonio wins this series in no more than five, possibly six."** [25:36](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1536s)
+
+**Matt Barnes:** "So going home 2-0 as the Spurs, how would you feel going to Game 3 up 2-0?"
+
+**Stephen Jackson:** "Finish the job. You got to finish the job. Obviously, this is the defending champs. They got the two-time MVP on their team. They got Williams back. But that boy **Wemby** is different. And **De'Aaron Fox** should be back at some point this series. **Dylan Harper** is playing great. **Cassius Stanley** is playing well. Their supporting cast, **Miss Johnson**, have these boys hitting on all cylinders at the right time. So, I feel like San Antonio wins this series in no more than five, possibly six."
+
+**16. Matt Barnes — Gregg Popovich's background role and mentorship of young players — "Pop kind of seems like he's like the mafia figure now in the background."** [25:36](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1536s)
+
+**Stephen Jackson:** "Exactly. What have you seen from **Pop**? **Pop** kind of seems like he's like the mafia figure now in the background. You saw when **Wemby** came off the plane after he had the elbow, he pulled him to the side. What are you hearing or seeing there? And then what do you think **Pop**'s talking to **Mitch** about behind the scenes about?"
+
+**Matt Barnes:** "I really don't think **Pop** is really too much talking the game plan with **Mitch**. I think he's trusting in **Mitch** and his coaching staff to do what they need to do. I don't think he's stepping on any toes there. But the relationships with **Wemby** and **Harper** and **Cassius Stanley**, I think he's having the conversations with them. One as a father figure, but also as a guy who's continuing to give them confidence. They're young guys. So you want to hear, I know as a young guy, I want to hear, 'Bro, you're doing good, you're doing well. Don't worry about it.' All those things that **Pop** has been good at for so many years that he gave to **Tim Duncan**, **Ginobili**, so many guys. I think he's just giving that more of that to the guys because he's not on the sidelines."
+
+**17. Carmelo Anthony — Carmelo Anthony's intentional work ethic to master scoring spots — "I just wanted to master the spots. If you're going to say that I'm just a scorer, then I'm going to be the best scorer."** [27:25](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1645s)
+
+"I don't think people put in that type of intentional work. When I say intentional work of going to a gym, just working on four spots today. That's it. Can you go through that process and not get bored with that of shooting the same shot for an hour and a half? What it takes to get through that. And for me, it was, I just wanted to master the spots. If you're going to say that I'm just a scorer, then I'm going to be the best scorer. I don't care about all of that. I'm going to be the best scorer, and I'm going to show you why I'm the best scorer."
+
+**18. Carmelo Anthony — Carmelo Anthony evaluates current and past NBA players' skill sets — "When you get an opportunity to measure yourself up against the skill set of a lot of these guys, you realize it's not that many people out there at 6'8", 6'7" with the skill set."** [27:25](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1645s)
+
+"My retirement now allows me to go back and watch all basketball now. Old school, new school, new players, old players. And then watch players that I think personally are some of the best players that I love to watch. And then go back and watch the players that they say are the greatest players that's out there. And when you get an opportunity to measure yourself up against the skill set of a lot of these guys, you realize it's not that many people out there at 6'8", 6'7" with the skill set. So for me, I can speak on that skill set. There's guys that I want to work with today. There's a lot of guys that I want to work with today."
+
+**19. Carmelo Anthony — Carmelo Anthony advocates for mid-range game and avoiding copycat offenses — "MVP of the league, back-to-back MVP champion is the best mid-range player in the NBA."** [27:25](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1645s)
+
+"They say the mid-range is gone. MVP of the league, back-to-back MVP champion is the best mid-range player in the NBA. When it comes down to it, where is he getting to? He's getting to that left elbow, he's getting to that left block, push off, getting to the fade, bump fade. This is what we got to be teaching. How can you step on a court and go train and shoot a three first? No, I haven't even warmed up yet. We can't do that. So it's about, how do you get away from the league being copycat? It's a copycat league. Everybody runs the same system, handoffs, hand-downs, stack plays, fake. No, I need somebody to get to it. Every team needs somebody to be able to get to them spots and get to it."
+
+**20. Carmelo Anthony — Carmelo Anthony advises Paolo Banchero to master his mid-range game before attempting step-back threes — "Master the mid-range game before you go out there and shoot a step-back three."** [29:09](https://www.youtube.com/watch?v=FBPI5LEdxd8&t=1749s)
+
+"I'll give you one example. Detroit versus Orlando. Right? Even though Orlando lost. **Paolo Banchero**, right? Everybody wanted **Paolo Banchero**. You should get to the mid-range. You, get to your mid-range. You're going to be successful at getting to your mid-range game. Master the mid-range game before you go out there and shoot a step-back three. Right? So today there's no, there's no differentiator between players and talent today. Right? If you're a guard, you're a guard. If you're a wing, you're a three-and-D guy. Right? Everybody's a three-and-D guy today. So it's, there's no, there's no positions no more on the court in in the game. And for me, I just enjoyed being in the gym, working on new things, working on new moves, getting my workout in, after the workout, I might be messing around, I might learn something. I might, man, let me try this step back on this fade right here. Oh, man, this feels good. Let me work on that the next day and the next day and the next day. But I don't think people have that, uh, that creativity today."
+
+---
+
+## New Orleans Pelicans' biggest questions after naming Jamahl Mosley head coach | NBA on NBC — *NBA on NBC*
+
+Source: https://www.youtube.com/watch?v=GKxI_WN3hww
+
+_Speakers identified: Chris Mannix_
+
+**1. Chris Mannix — Pelicans quickly shifted interest to Jamahl Mosley for developmental history — "Jamahl has a history of taking over young developing teams and turning them into winners."** [01:00](https://www.youtube.com/watch?v=GKxI_WN3hww&t=60s)
+
+"When **Jamahl Mosley** became available, I was told that the Pelicans shifted their interest quickly and immediately to **Jamahl Mosley**. Jamahl has a history of taking over young developing teams and turning them into winners. His first year in Orlando, the Magic won 22 games, they won 47 two years later. Now, they were never really able to build on that to become the kind of sustainable contender that Orlando fans, the Orlando organization had hoped for."
+
+**2. Chris Mannix — Zion Williamson's healthy season and future with Pelicans — "The plan is to hold on to Zion, to keep him in New Orleans."** [02:26](https://www.youtube.com/watch?v=GKxI_WN3hww&t=146s)
+
+"The big question moving forward in New Orleans now is will **Zion Williamson** be part of this next iteration of Pelicans teams? From what I was told during this interview process with coaches, the plan is to hold on to Zion, to keep him in New Orleans. He's got two full years left on his contract. And maybe one of the silver linings in a disappointing 25-26 season was Zion was relatively healthy. He played 62 games, averaged right around 21 points per game, shot a good percentage from the floor. That's the second highest most number of games that Zion has played in his career. So getting him back, getting him healthy is a great sign for the Pelicans. And as of right now, the plan is to hold on to Zion and continue to build him out as a coach."
+
+---
+
+## Memphis' front office & fans HATED Chandler Parsons because he brought BEAUTIFUL women courtside 🤯 — *Out The Mud Podcast*
+
+Source: https://www.youtube.com/watch?v=Siw0nioYBJc
+
+_Speakers identified: TA, Chandler Parsons_
+
+**1. Chandler Parsons — Chandler Parsons on fans' ignorance about player rehab and expectations — "a lot of fans, you know, they were always wondering, man, what the hell was up with Chandler Parsons?"** [00:11](https://www.youtube.com/watch?v=Siw0nioYBJc&t=11s)
+
+**TA:** "Yeah, no, it's good because a lot of fans, you know, they were always wondering, man, what the hell was up with **Chandler Parsons**? Did he not like the city and things of that nature? And I was here to see, you know what I'm saying? Like, man, bro getting rehab. I see you in there doing all them RDLs."
+
+"You doing everything. You telling your business."
+
+**Chandler Parsons:** "And see that's also with fans, there's so short-sighted and honestly ignorant because they'll see you at dinner or they'll see you out and they'll judge you off that, not knowing you were just in the facility for six hours before then doing rehab, seeing your osteopath, in the gym, taking jump shots, doing all this tedious as just to try and get back to the level of your expectations, not anyone else's."
+
+**2. Chandler Parsons — Chandler Parsons on the difficulty of injuries and feeling blamed by the team — "the shit I had to go through with my injuries and my own personal struggle to get back"** [02:42](https://www.youtube.com/watch?v=Siw0nioYBJc&t=162s)
+
+"And thank you, **TA**, I appreciate you saying that because again, the shit I had to go through with my injuries and my own personal struggle to get back and to be the player I once was, was so difficult. And then you add this pressure of expectation, a big contract, kind of being a missing piece and failing at all of those, it sucked. And I just felt not attacked, but just like, I felt like I was in like a constant battle with my own home fans and my own front office, my own ownership kind of like almost blaming me for like taking this contract."
+
+**3. Chandler Parsons — Chandler Parsons on taking the contract and the mental toll of not performing — "Who in their right mind wouldn't do that? First of all, as a player in a business, you'd be a moron not to take the contract."** [03:17](https://www.youtube.com/watch?v=Siw0nioYBJc&t=197s)
+
+"Who in their right mind wouldn't do that? First of all, as a player in a business, you'd be a moron not to take the contract. But trust me, it hurt me more not being that guy for the **Memphis Grizzlies** than it hurt the **Memphis Grizzlies** me not being that guy. That bothered me more, took a toll on my mental like, and again, I was single and I had a great time."
+
+**4. Chandler Parsons — Chandler Parsons on his personal life being misconstrued and the 'ChanCun' incident — "that had nothing to do with my setbacks or my recovery or why I wasn't good"** [03:40](https://www.youtube.com/watch?v=Siw0nioYBJc&t=220s)
+
+"That's who I always was. If I was playing, trust me, there would have been the same thing sitting there courtside, probably even worse. So that had nothing to do with my setbacks or my recovery or why I wasn't good. That was, that's who I am. That's what I like to do. And so that I think again was another misconception. And I remember there was one thing All-Star Weekend, I went to Cancun and we made merch and we called it ChanCun. We took a short bus. I remember I got a short bus to the PJ on the runway. And it was bad. Optically, I'm here to admit that if there was one thing I would apologize, it would be that. But again, I was young and stupid and I felt like I was a little bitter in my relationship."
+
+**5. Chandler Parsons — Chandler Parsons on being booed by home fans and the resulting negative narrative — "I missed my first free throw and the entire home arena booed me."** [04:26](https://www.youtube.com/watch?v=Siw0nioYBJc&t=266s)
+
+**Chandler Parsons:** "And I got fouled. And I go to the free throw line and I missed my first free throw and the entire home arena booed me."
+
+**TA:** "Damn."
+
+"What?"
+
+**TA:** "Six years, I can't do that."
+
+**Chandler Parsons:** "They booed me. So that's when, and I remember after the game, the media asked me what do you think about that? And I said, listen, if they're going to treat me like this, I'll treat every home game like a road game. And that's just when it was just spiraled, it was bad. And again, I never was the player I was before either, so that didn't help my case. And then I'd get into interactions at restaurants or in like this town. It was just a very sour situation at that. But I just felt like I was never given a fair chance basketball-wise. I was always judged by social media or the girls courtside or me being in LA, this Hollywood player that's in Memphis out of place. That was the, that was the narrative and I hated it because I was busting my ass trying to be a great player."
+
+"You really was."
+
+**TA:** "I witnessed that."
+
+---
+
 ## Minnesota Timberwolves offseason plans: Giannis, Julius Randle and more — *Flagrant Howls | Minnesota Timberwolves Podcast*
 
 Source: https://www.youtube.com/watch?v=vBKtrOK7x88
