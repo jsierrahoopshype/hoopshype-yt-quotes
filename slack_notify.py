@@ -24,18 +24,18 @@ def _output_base_url() -> str:
     return (os.getenv("OUTPUT_BASE_URL") or "").strip().rstrip("/")
 
 
-def _digest_link(date_str: str) -> str:
+def _digest_link(date_str: str, filename: str = "digest.md") -> str:
     base = _output_base_url()
     if not base:
-        return f"output/{date_str}/digest.md"
-    return f"{base}/{date_str}/digest.md"
+        return f"output/{date_str}/{filename}"
+    return f"{base}/{date_str}/{filename}"
 
 
-def _oneoff_digest_link(date_str: str) -> str:
+def _oneoff_digest_link(date_str: str, filename: str = "digest.md") -> str:
     base = _output_base_url()
     if not base:
-        return f"output/oneoffs/{date_str}/digest.md"
-    return f"{base}/oneoffs/{date_str}/digest.md"
+        return f"output/oneoffs/{date_str}/{filename}"
+    return f"{base}/oneoffs/{date_str}/{filename}"
 
 
 CLOSING_LINE = (
@@ -77,6 +77,7 @@ def post_digest(
     digest_dates=None,
     oneoff_digest_dates=None,
     one_off_count: int = 0,
+    run_slot: str | None = None,
 ) -> bool:
     """Post a digest to Slack.
 
@@ -92,10 +93,10 @@ def post_digest(
     render as separate URLs under a "One-offs:" prefix. When None, derived
     from items (one-off items only).
 
-    When oneoff_digest_dates is non-empty the URL block is split into
-    "Rotation:"-prefixed and "One-offs:"-prefixed sections. When empty,
-    the rotation URLs render unprefixed (preserves the rotation-only
-    format from previous runs).
+    run_slot identifies which cron / manual trigger produced this run
+    (e.g. "09utc", "14utc", "manual-1547"). When provided, the URLs
+    target the per-run digest-<slot>.md instead of the aggregate
+    digest.md, so the Slack link points at exactly this run's content.
 
     one_off_count is the number of items in this digest that came from the
     workflow_dispatch EXTRA_VIDEOS input. When > 0, the summary line breaks
@@ -129,17 +130,18 @@ def post_digest(
         f"*HoopsHype YT Quotes — {date_str}*",
         summary_line,
     ]
+    digest_filename = f"digest-{run_slot}.md" if run_slot else "digest.md"
     if oneoff_digest_dates:
         # Mixed run: label both sections so readers can tell editorial
         # rotation digests from off-rotation one-off digests at a glance.
         for d in digest_dates:
-            lines.append(f"Rotation: {_digest_link(d)}")
+            lines.append(f"Rotation: {_digest_link(d, digest_filename)}")
         for d in oneoff_digest_dates:
-            lines.append(f"One-offs: {_oneoff_digest_link(d)}")
+            lines.append(f"One-offs: {_oneoff_digest_link(d, digest_filename)}")
     else:
         # Rotation-only run: keep the unlabeled URL list (current format).
         for d in digest_dates:
-            lines.append(_digest_link(d))
+            lines.append(_digest_link(d, digest_filename))
     for it in items:
         title = it.get("title") or it["video_id"]
         channel = it.get("channel") or ""

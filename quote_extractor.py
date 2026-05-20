@@ -322,6 +322,27 @@ def _publish_date(video: dict) -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
+def _determine_run_slot() -> str:
+    """Identify which scheduled cron (or manual trigger) is running so we can
+    write a per-run digest filename like digest-09utc.md or
+    digest-manual-1547.md.
+
+    - Scheduled GitHub Actions runs expose the firing cron expression as
+      GITHUB_EVENT_SCHEDULE. The hour parses out as the slot label.
+    - workflow_dispatch (and any local invocation without GHA env vars)
+      falls back to manual-<HHMM> using the script's start time in UTC.
+    """
+    event_name = (os.getenv("GITHUB_EVENT_NAME") or "").strip()
+    schedule = (os.getenv("GITHUB_EVENT_SCHEDULE") or "").strip()
+    if event_name == "schedule" and schedule:
+        m = re.match(r"^\s*\S+\s+(\d{1,2})\s+", schedule)
+        if m:
+            hour = int(m.group(1)) % 24
+            return f"{hour:02d}utc"
+    now = datetime.now(timezone.utc)
+    return f"manual-{now.strftime('%H%M')}"
+
+
 def _video_day_dir(video: dict) -> Path:
     """Where this video's outputs (md, json, markers, ATTEMPTS) land on disk.
 
@@ -967,7 +988,14 @@ def write_outputs(video: dict, channel_name: str, data: dict, raw_text: str) -> 
 
 
 def regenerate_index() -> None:
-    """Walk output/ and write a chronological index.md at the root."""
+    """Walk output/ and write a top-level index.md with one entry per
+    rotation publish date, linking at that date's aggregate digest.md.
+
+    Per-run digest-<slot>.md files are NOT listed individually here —
+    readers opening the index want one chronological catalog entry per
+    date, pointing at the cumulative aggregate. The oneoffs/ subtree is
+    excluded entirely (one-offs are surfaced via their Slack URL only).
+    """
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     rows = []
     for day_dir in sorted(
@@ -975,41 +1003,44 @@ def regenerate_index() -> None:
          if p.is_dir() and p.name not in ("digest", "oneoffs")],
         reverse=True,
     ):
-        for md_path in sorted(day_dir.glob("*.md")):
-            video_id = md_path.stem
-            try:
-                first_line = md_path.read_text(encoding="utf-8").splitlines()[0]
-                title = first_line.lstrip("# ").strip() or video_id
-            except Exception:
-                title = video_id
-            rel = f"{day_dir.name}/{md_path.name}"
-            rows.append((day_dir.name, title, rel))
+        digest = day_dir / "digest.md"
+        try:
+            if digest.is_file() and digest.stat().st_size > 0:
+                rows.append(day_dir.name)
+        except OSError:
+            pass
     lines = ["# HoopsHype YouTube quotes — index", ""]
-    current_day = None
-    for day, title, rel in rows:
-        if day != current_day:
-            lines.append(f"## {day}")
-            lines.append("")
-            current_day = day
-        lines.append(f"- [{title}]({rel})")
     if not rows:
         lines.append("_No videos processed yet._")
+    else:
+        for date in rows:
+            lines.append(f"- [{date}]({date}/digest.md)")
     (OUTPUT_DIR / "index.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
-def write_daily_digest(date_str: str, track: str = "rotation") -> Path | None:
-    """Concatenate every per-video <video_id>.md for one publish date into a
-    single digest.md and return its path. Returns None if there is no day
-    folder or no per-video .md to include.
+def write_digest_file(
+    date_str: str,
+    track: str,
+    output_filename: str,
+    video_ids: list | None = None,
+) -> Path | None:
+    """Concatenate per-video <video_id>.md files into a single digest file.
 
-    track="rotation" -> output/<date>/digest.md  (rotation editorial content)
-    track="oneoff"   -> output/oneoffs/<date>/digest.md  (workflow_dispatch one-offs)
+    track="rotation" -> output/<date>/<output_filename>
+    track="oneoff"   -> output/oneoffs/<date>/<output_filename>
 
-    Regenerates from scratch each call so the digest reflects ALL successful
-    videos for that track + date across every run. The digest itself, plus
-    .FAILED.txt / .SKIPPED-too-long marker files, are excluded from the
-    concatenation. Per-video h1 headings are demoted to h2 so the document
-    has a clean outline under the date-level h1.
+    video_ids=None: include every per-video .md in the folder (the
+    aggregate digest). Files whose names start with "digest" are excluded
+    so the function doesn't recursively pull its own prior output back in.
+
+    video_ids=[...]: include ONLY those video_ids, in the given order.
+    Used for per-run digests where the content should reflect only the
+    videos that this specific run processed.
+
+    Returns the path to the written digest, or None if there's nothing to
+    publish (folder missing, no per-video .md to include, all candidates
+    quoteless). The closing CHECK OTHER YOUTUBE PODCASTS HERE link is
+    appended to every digest under a horizontal rule.
     """
     if track == "oneoff":
         day_dir = OUTPUT_DIR / "oneoffs" / date_str
@@ -1018,10 +1049,17 @@ def write_daily_digest(date_str: str, track: str = "rotation") -> Path | None:
     if not day_dir.is_dir():
         return None
 
-    video_md_paths = sorted(
-        p for p in day_dir.glob("*.md")
-        if p.is_file() and p.name != "digest.md"
-    )
+    if video_ids is None:
+        video_md_paths = sorted(
+            p for p in day_dir.glob("*.md")
+            if p.is_file() and not p.name.startswith("digest")
+        )
+    else:
+        video_md_paths = []
+        for vid in video_ids:
+            p = day_dir / f"{vid}.md"
+            if p.is_file():
+                video_md_paths.append(p)
     if not video_md_paths:
         return None
 
@@ -1034,7 +1072,7 @@ def write_daily_digest(date_str: str, track: str = "rotation") -> Path | None:
             continue
         if not content:
             continue
-        # Item 6d: skip videos that processed cleanly but produced zero quotes.
+        # Skip videos that processed cleanly but produced zero quotes.
         # Quote headers start with "**<n>. " in the rendered markdown.
         if not re.search(r'(?m)^\*\*\d+\.', content):
             continue
@@ -1048,16 +1086,14 @@ def write_daily_digest(date_str: str, track: str = "rotation") -> Path | None:
         parts.append("")
 
     if first:
-        # Every per-video .md was quoteless. Nothing meaningful to publish.
         return None
 
-    # Closing line, separated from the last video block by a horizontal rule.
     parts.append("---")
     parts.append("")
     parts.append(DIGEST_CLOSING_LINE)
     parts.append("")
 
-    digest_path = day_dir / "digest.md"
+    digest_path = day_dir / output_filename
     tmp = digest_path.with_name(digest_path.name + ".tmp")
     try:
         tmp.write_text("\n".join(parts), encoding="utf-8")
@@ -1343,6 +1379,8 @@ def main() -> int:
         return 1
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    run_slot = _determine_run_slot()
+    log(f"Run slot: {run_slot}")
 
     config = load_config()
     channels = [c for c in config.get("channels", []) if c.get("active", True)]
@@ -1539,11 +1577,15 @@ def main() -> int:
 
     regenerate_index()
 
-    # Regenerate digest.md once per (track, publish-date) touched this run.
-    # Rotation and one-off content live in separate directory trees and get
-    # separate digests, so a one-off published on 2026-05-18 processed today
-    # lands in output/oneoffs/2026-05-18/digest.md and a rotation video
-    # published 2026-05-19 lands in output/2026-05-19/digest.md.
+    # Per-run digest filename — one file per (cron slot OR manual trigger)
+    # so the morning cron's digest never gets overwritten by the afternoon
+    # cron's run. The aggregate digest.md alongside reflects everything
+    # ever processed for that date.
+    per_run_filename = f"digest-{run_slot}.md"
+
+    # Per-(track, publish-date) work: write the run-specific digest with
+    # ONLY this run's items, then rebuild the aggregate digest.md from the
+    # full folder. Both files get the subscriptions footer.
     rotation_dates_touched = sorted({
         it["date"] for it in processed_items
         if it.get("date") and not it.get("is_one_off")
@@ -1552,20 +1594,32 @@ def main() -> int:
         it["date"] for it in processed_items
         if it.get("date") and it.get("is_one_off")
     })
-    digest_dates_rotation = [
-        pd for pd in rotation_dates_touched
-        if write_daily_digest(pd, track="rotation") is not None
-    ]
-    digest_dates_oneoff = [
-        pd for pd in oneoff_dates_touched
-        if write_daily_digest(pd, track="oneoff") is not None
-    ]
+
+    digest_dates_rotation = []
+    for pd in rotation_dates_touched:
+        run_ids = [it["video_id"] for it in processed_items
+                   if it.get("date") == pd and not it.get("is_one_off")]
+        run_path = write_digest_file(pd, "rotation", per_run_filename, video_ids=run_ids)
+        # Always rebuild the aggregate so the catalog stays current.
+        write_digest_file(pd, "rotation", "digest.md", video_ids=None)
+        if run_path is not None:
+            digest_dates_rotation.append(pd)
+
+    digest_dates_oneoff = []
+    for pd in oneoff_dates_touched:
+        run_ids = [it["video_id"] for it in processed_items
+                   if it.get("date") == pd and it.get("is_one_off")]
+        run_path = write_digest_file(pd, "oneoff", per_run_filename, video_ids=run_ids)
+        write_digest_file(pd, "oneoff", "digest.md", video_ids=None)
+        if run_path is not None:
+            digest_dates_oneoff.append(pd)
 
     if processed_items:
         one_off_count = sum(1 for it in processed_items if it.get("is_one_off"))
         _queue_slack_payload({
             "kind": "digest",
             "date_str": today,
+            "run_slot": run_slot,
             "items": processed_items,
             "digest_dates": digest_dates_rotation,
             "oneoff_digest_dates": digest_dates_oneoff,

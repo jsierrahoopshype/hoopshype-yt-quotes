@@ -41,6 +41,10 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           OUTPUT_BASE_URL: ${{ secrets.OUTPUT_BASE_URL }}
           EXTRA_VIDEOS: ${{ inputs.extra_videos }}
+          # Empty for workflow_dispatch and unknown event types; the cron
+          # expression (e.g. "0 9 * * *") for schedule events. Used to
+          # derive the run slot for per-run digest filenames.
+          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
         run: python quote_extractor.py
       - name: Mirror output/ into docs/ for GitHub Pages
         if: always()
