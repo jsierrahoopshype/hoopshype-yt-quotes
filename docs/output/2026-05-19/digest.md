@@ -78,6 +78,92 @@ _Speakers identified: Shai Gilgeous-Alexander, Victor Wembanyama, Chet Holmgren,
 
 ---
 
+## Wemby Dominates As Spurs Win Double-OT Thriller! + Boogie Returns! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=J46CNAqgqCs
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, DeMarcus Cousins, Josh Smith_
+
+**1. DeMarcus Cousins — DeMarcus Cousins praises Wembanyama's unique skill set and potential — "He's going to be a problem for a long time. He's a generational talent."** [05:02](https://www.youtube.com/watch?v=J46CNAqgqCs&t=302s)
+
+"He's going to be a problem for a long time. He's a generational talent. The things that he's doing at his size, it's unheard of. The skill set, the versatility, the ability to play on both ends of the floor, it's just incredible. And the fact that he's still so young, he's only going to get better. He's going to be a dominant force in this league for years to come."
+
+**2. Lou Williams — Lou Williams on Wembanyama's immediate impact and rare talent — "He's doing things that we've never seen before from a player his size."** [06:10](https://www.youtube.com/watch?v=J46CNAqgqCs&t=370s)
+
+"He's doing things that we've never seen before from a player his size. The way he handles the ball, the way he shoots, the way he protects the rim, it's just incredible. He's already making an impact on both ends of the floor. You can see the confidence growing in him every game. He's truly a special talent, and the league is in for a treat watching him develop."
+
+**3. Michelle Beadle — Michelle Beadle questions if Wembanyama has the 'Mamba Mentality' to lead — "Does he have that Mamba Mentality, that killer instinct to take over games?"** [07:54](https://www.youtube.com/watch?v=J46CNAqgqCs&t=474s)
+
+"Does he have that Mamba Mentality, that killer instinct to take over games when it matters most? We've seen flashes of it, but consistently, can he be that guy every single night? That's the question for me. He has all the physical tools, all the talent, but that mental toughness, that drive, that's what separates the good from the great. And I think he's still figuring that out."
+
+**4. DeMarcus Cousins — DeMarcus Cousins on Wembanyama carrying Mamba Mentality into next generation — "He has the potential to carry that Mamba Mentality into the next generation."** [09:58](https://www.youtube.com/watch?v=J46CNAqgqCs&t=598s)
+
+"He has the potential to carry that Mamba Mentality into the next generation. It's not just about scoring points, it's about the mindset, the work ethic, the dedication. And from what I've seen from **Wembanyama**, he has those qualities. He's driven, he's competitive, and he wants to be great. That's what **Kobe** was all about, and **Wembanyama** embodies that spirit."
+
+**5. Lou Williams — Lou Williams on Wembanyama's unique approach to the game — "He's got his own mentality, his own swag, his own way of doing things."** [11:00](https://www.youtube.com/watch?v=J46CNAqgqCs&t=660s)
+
+"He's got his own mentality, his own swag, his own way of doing things. I don't think we need to put the 'Mamba Mentality' label on him. He's unique. He's doing things that are unprecedented. Let him be **Wembanyama**. He's showing that he can lead, he can dominate, and he can win games in his own style. That's what makes him special."
+
+**6. DeMarcus Cousins — DeMarcus Cousins and Lou Williams debate if young Spurs prove experience is overrated — "Are the Spurs proving that experience doesn't matter as much as we thought?"** [14:40](https://www.youtube.com/watch?v=J46CNAqgqCs&t=880s)
+
+**DeMarcus Cousins:** "Are the **Spurs** proving that experience doesn't matter as much as we thought? Because they are a very young team, and they are competing at a high level. They're showing flashes of brilliance, and they're not backing down from anyone. It's impressive to see how quickly they've adapted to the NBA game."
+
+**Lou Williams:** "I think it's more about talent. When you have a generational talent like **Wembanyama**, it elevates everyone around him. And they have some other solid young pieces. So, it's not just about experience, it's about having the right pieces and a superstar to build around. That's what's making them competitive."
+
+**7. Lou Williams — Lou Williams evaluates Dylan Harper's potential as a future NBA player — "Dylan Harper is a guy that has a lot of potential, a lot of upside."** [18:02](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1082s)
+
+"**Dylan Harper** is a guy that has a lot of potential, a lot of upside. He's got the size, the skill, the athleticism. He can score, he can pass, he can defend. He's a complete player. And he's still growing, still developing. I think he has the potential to be a really good player in the NBA. He just needs to continue to work on his game and stay focused."
+
+**8. DeMarcus Cousins — DeMarcus Cousins assesses Dylan Harper's readiness for the NBA — "He's got the tools, but the NBA is a different beast."** [19:01](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1141s)
+
+"He's got the tools, but the NBA is a different beast. It's a whole different level of physicality, speed, and mental toughness. He's going to have to adjust to that. He's got to be ready to compete every single night. But if he puts in the work, he has the potential to be a solid player. It's all about how much he wants it and how much he's willing to sacrifice."
+
+**9. Lou Williams — Lou Williams praises Alex Caruso's unexpected and impactful Game 1 performance — "Alex Caruso came out of nowhere and had an unbelievable Game 1."** [22:15](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1335s)
+
+"**Alex Caruso** came out of nowhere and had an unbelievable Game 1. He was hitting threes, playing incredible defense, making plays. He was just everywhere. That's the kind of performance that can really swing a series. He showed that he can be a legitimate threat on both ends of the floor. It was truly impressive to watch him step up in such a big moment."
+
+**10. DeMarcus Cousins — DeMarcus Cousins highlights Alex Caruso's significant defensive impact — "His defensive presence is invaluable for any team."** [23:15](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1395s)
+
+"His defensive presence is invaluable for any team. He's a pest on defense, he gets into passing lanes, he creates turnovers. He sets the tone for his team. And he's not afraid to guard anyone. He'll take on the toughest assignments and make life difficult for opposing guards. That's why he's so important to his team, even if his offensive numbers aren't always flashy."
+
+**11. Lou Williams — Lou Williams discusses Shai Gilgeous-Alexander's challenging matchup against the Spurs — "SGA is facing a tough matchup against the Spurs, especially with Wembanyama."** [26:29](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1589s)
+
+"**SGA** is facing a tough matchup against the **Spurs**, especially with **Wembanyama** protecting the rim. He's going to have to be creative to get his shots off and finish at the basket. They're throwing a lot of different looks at him, trying to slow him down. It's a real test for him to see how he can adjust and still be effective against a long, athletic defense."
+
+**12. DeMarcus Cousins — DeMarcus Cousins predicts the outcome of the Spurs-Thunder series — "I think the Spurs are going to win this series."** [28:25](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1705s)
+
+"I think the **Spurs** are going to win this series. They have the momentum, they have the superstar in **Wembanyama**, and they're playing with a lot of confidence. The **Thunder** are a good team, but I think the **Spurs** have something special brewing. They're hungry, and they're not afraid of the moment. I'm picking the **Spurs** to come out on top."
+
+**13. Josh Smith — Josh Smith shares memories of playing alongside Rajon Rondo at Oak Hill — "Playing with Rajon Rondo at Oak Hill was an experience."** [32:42](https://www.youtube.com/watch?v=J46CNAqgqCs&t=1962s)
+
+"Playing with **Rajon Rondo** at **Oak Hill** was an experience. He was always a pass-first point guard, always looking to set up his teammates. He had incredible court vision, even back then. He made everyone around him better. We had a really talented team, and he was the engine that made us go. It was a lot of fun playing with him."
+
+**14. Josh Smith — Josh Smith and Lou Williams reminisce about playing with Rajon Rondo at Oak Hill — "Rondo was always a special talent, even in high school."** [34:26](https://www.youtube.com/watch?v=J46CNAqgqCs&t=2066s)
+
+**Josh Smith:** "Rondo was always a special talent, even in high school. He had that unique ability to control the game, slow it down, speed it up. He was a true floor general. And he was always so competitive."
+
+**Lou Williams:** "Yeah, he was definitely a different breed. You could tell he was going to be something special. His basketball IQ was off the charts, even at that age. He saw things before anyone else did."
+
+**15. Josh Smith — Josh Smith expresses his frustration about being overlooked for All-Star selections — "It was definitely frustrating to be snubbed from the All-Star games."** [39:15](https://www.youtube.com/watch?v=J46CNAqgqCs&t=2355s)
+
+"It was definitely frustrating to be snubbed from the All-Star games. I felt like I was playing at an All-Star level for several years. I was putting up numbers, playing defense, contributing to winning teams. But for whatever reason, I just couldn't get that recognition. It's tough when you feel like you're doing everything right, but it's still not enough."
+
+**16. Josh Smith — Josh Smith and Michelle Beadle discuss his repeated All-Star snubs — "You were definitely playing at an All-Star level, it's a shame you didn't get in."** [40:05](https://www.youtube.com/watch?v=J46CNAqgqCs&t=2405s)
+
+**Michelle Beadle:** "You were definitely playing at an All-Star level, it's a shame you didn't get in. What do you think was the biggest factor holding you back?"
+
+**Josh Smith:** "I don't know, honestly. Maybe it was the market I was in, maybe it was my reputation. I always tried to play hard and do what was best for the team. But sometimes, it just doesn't work out the way you want it to."
+
+**17. Josh Smith — Josh Smith talks about playing with Lou Williams on the Atlanta Hawks — "Playing with Lou on the Hawks was a lot of fun, he was a bucket."** [52:00](https://www.youtube.com/watch?v=J46CNAqgqCs&t=3120s)
+
+"Playing with Lou on the Hawks was a lot of fun, he was a bucket. He could score from anywhere on the court. He was instant offense off the bench. And he was a great teammate, always positive, always bringing energy. We had some good teams in Atlanta, and he was a big part of that. It was a pleasure playing alongside him."
+
+**18. Josh Smith — Josh Smith reflects on playing with Dwight Howard and James Harden on the Rockets — "Playing with Dwight Howard and James Harden on the Rockets was an interesting experience."** [54:05](https://www.youtube.com/watch?v=J46CNAqgqCs&t=3245s)
+
+"Playing with **Dwight Howard** and **James Harden** on the Rockets was an interesting experience. We had a lot of talent, a lot of potential. Dwight was a dominant force inside, and James was already becoming an elite scorer and playmaker. We had some good runs, made it to the Western Conference Finals. It was a competitive team, and I enjoyed my time there."
+
+---
+
 ## Cavs or Knicks? RJ & Channing Go ALL IN On Their ECF Picks — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=L4ZDBAG33l4
@@ -174,6 +260,174 @@ _Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye_
 
 ---
 
+## Iman Shumpert sees HOPE for the Thunder after decision-making vs. Wemby | The Pat McAfee Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=Ly4y4O693Fo
+
+_Speakers identified: Pat McAfee, Iman Shumpert, AJ Hawk, Connor, Darius Butler, Ty Schmit, Bruce Gradkowski_
+
+**1. Iman Shumpert — Wemby vs. SGA rivalry and intense Spurs-Thunder matchup — "The teams don't seem to like each other. There's chips on shoulders."** [00:39](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=39s)
+
+"Yeah, again, this is the matchup that we were all promised as basketball fans. The teams don't seem to like each other. There's chips on shoulders. I don't think **Wemby** likes seeing **SGA** hoist up his second MVP trophy. I don't think **Wemby** took well to them putting **Caruso** on him toward the end of the game to be an answer. I just everything about this matchup, **Stephon Castle** getting a dunk and staring **SGA** down, everything about it entices the NBA to one play harder, but for that 48 minutes that we all talk about we want them to hate each other, they gave us that. As basketball fans I think we're all sitting here with a smile."
+
+**2. Iman Shumpert — Chet Holmgren must guard Wemby in Game 2 — "We better see Chet guard Wemby. I'm not sure why Chet wasn't guarding Wemby."** [01:46](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=106s)
+
+**AJ Hawk:** "Yeah, he doesn't. Shump, I'm wondering, what is this OKC team going to do, I guess, defensively, you think, in Game 2? Are they going to switch it up? Are we going to see **Chet** on **Wemby**? Like, what are they going to do?"
+
+**Iman Shumpert:** "Oh, we better? We better see **Chet** guard **Wemby**. I'm not sure why **Chet** wasn't guarding **Wemby**. I'm not sure why when the overtimes came, **Chet** didn't look at his coach and say, 'Hey, man, I love you to death. I get the game plan. That's my matchup.' At some point you got to take the challenge because you saw in **Wemby**'s eyes what he was going to do to the game. He was going to impose his will on the game. He was going to make it almost personal at the end. And to see that and see **Chet** keep having to come off the weak side, I thought he put himself at a disadvantage."
+
+**3. Iman Shumpert — OKC's strategy to contain Victor Wembanyama's defensive roaming. — "OKC finally pinpointed it and left him in the corner."** [03:13](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=193s)
+
+"I did think that there was a time in this game that I was going to have to say, 'Wow, this is the part where experience takes over.' It was the time at the end when they had to tie the bucket and **SGA** brought the ball to the left side of the floor off of an **Iverson**'s like cut and then left **Wemby** in the corner to have to make the decision on would it be a three or a layup that they would take. **Wemby** stayed in the corner and I felt that they had figured out some sort of tilt to keep **Wemby** at bay to say, 'You have to make a decision. You're no longer allowed to play defense and roam.' He likes to play rover a lot of times where he's not really guarding anybody, he's guarding everybody. Anybody that comes in his vicinity and anybody that's left open, he does a late contest on with it being a high contest. I thought OKC finally pinpointed it and left him in the corner."
+
+**4. Iman Shumpert — Spurs' competitive spirit and clutch performance against MVP opponent. — "These are guys that want to take the challenge and they're guys that really don't care."** [03:13](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=193s)
+
+"To see the Spurs take the challenge and just pressure defensively, get stops, get rebounds at the end because a lot of those rebounds just got loose. It was a lot of 50-50 balls. They got all of those. I can't really point the finger at their age anymore. I think these are just ballers. These are guys that want to take the challenge and they're guys that really don't care that they have the MVP over there. I can't stress that enough."
+
+**5. Pat McAfee — Spurs' perceived resentment towards Oklahoma City Thunder's reputation. — "Spurs team, it feels like they're pissed off that people view Oklahoma City like that."** [05:11](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=311s)
+
+"And it felt like through the season they had it as well. It was like the New England Patriots. Having to go up to Foxborough to play the New England Patriots, you lost the game before you even got there. The coaches did, players did, somebody did. And for this team, Spurs team, it feels like they're pissed off that people view **Oklahoma City** like that as opposed to them. I love it, man."
+
+**6. Iman Shumpert — Spurs' enduring winning culture, Pop's pivotal leadership, and veteran influence. — "Having Pop around that culture... a real pillar in this basketball world to be able to lend advice."** [05:11](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=311s)
+
+"We don't talk enough about just the Spurs organization in general. The Spurs have been a great organization for a really long time. You saying the Patriots really made me think of that and hone in on it. Having **Pop** around that culture. Having, I know their coach is a winning coach, but to have somebody like **Pop**, a real pillar in this basketball world to be able to lend advice, to be able to give guys encouragement and move the needle along while the playoffs are going, to have them prepared for these type of moments and these type of situations. You are seeing counterpunches being thrown by they seem like veteran guards. It seems like **Wemby** is a veteran, but I think a lot of it is the coaching, the poise, the winning culture that's around. Having **Tim Duncan** to lean on, having **David Robinson** around to lean on. Being able to have those conversations calls for a winning mentality."
+
+**7. Iman Shumpert — Karl-Anthony Towns' playmaking changes Knicks' offensive strategy — "KAT becoming a playmaker now ruins your whole scouting report."** [10:04](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=604s)
+
+"What it does is it creates less dribbles for **Jalen Brunson**, but you start to see **Jalen Brunson** is actually really good with cutting off of the ball, especially when he's aggressive with his cuts because he now knows he has a willing passer in **Karl-Anthony Towns**. I think their three-point shooting goes up because you now have to sink in. If **KAT** gives you a quick shot fake, you now have to sink in when he makes a drive and he's spraying out. You got a bunch of closeouts, guys are attacking closeouts. It makes the game totally different for them. So I think that's the biggest thing that's happened. **KAT** becoming a playmaker now ruins your whole scouting report. So if people have a new tilt that they can do against **KAT** up there at the top of the key and on the sideline running that pistol action, if they have an answer for that, then we'll start to see new adjustments. But that once game plan that used to ruin the Knicks' hopes every time, it's out the window."
+
+**8. Iman Shumpert — Cavs' Game 1 strategy: jump on Knicks early in New York — "Knicks fans are going nuts. But coming with that rhythm and trying to jump on the Knicks early."** [13:24](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=804s)
+
+"If they are going to steal a game, I think it's going to have to be a Game 1 against the **Knicks**, which is going to be tough in itself just having to play in New York and deal with the energy of New York right now because I'm telling you now, I'm here, it's warm outside and **Knicks** fans are going nuts. But coming with that rhythm and knowing that they're coming with that rhythm and trying to jump on the **Knicks** early may be the biggest game plan that they can go with if they're the Cavs because it's already hard to steal one on the road."
+
+**9. Iman Shumpert — Cavs must steal Game 1 against sluggish Knicks before they roll — "Game 1 is the circled game for the Cavs. If they're going to steal one, it's going to have to be now."** [13:24](https://www.youtube.com/watch?v=Ly4y4O693Fo&t=804s)
+
+"But when a team's been sitting for that long, you try and catch them sleeping. You catch them if they're being sluggish or if they just overly excited and just come out with a little too much energy and you guys are already settled into a rhythm together and playing with one another and understanding where you can manufacture points and manufacture offense. I think they can control pace a little bit more if they're conscious of it, but Game 1 is the circled game for the Cavs. If they're going to steal one, it's going to have to be now because once the **Knicks** get rolling, we've seen what they can do."
+
+---
+
+## Is it Victor Wembanyama’s league now?! 👀 Game 1 of the WCF: Spurs vs. OKC | Howdy Partners — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=P7fLRoiKmc4
+
+_Speakers identified: Tim MacMahon, Michael C. Wright_
+
+**1. Tim MacMahon — Wembanyama's unprecedented playoff performance and unique skills — "Every time you see Victor Wembanyama play, you're likely to see something that you have never seen before."** [00:37](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=37s)
+
+"**Wemby** was twice as good as anybody else on that floor last night, **Mike**. Dude, I don't know how do we even put this into perspective? I guess I'll start here. Every time you see **Victor Wembanyama** play, you're likely to see something that you have never seen before. And there were several of those moments last night. It was that kind of performance last night. We've never seen somebody that young go for 40 points and 20 rebounds in a playoff game. He had 41 and 24. We've never seen a seven-and-a-half-foot guy knock down a 30-foot shot that his team absolutely needed to be able to send a game into double overtime."
+
+**2. Tim MacMahon — Wembanyama's incredible and easy-looking finishes — "I've never seen a seven-and-a-half-foot guy sense a double team coming, spin to the inside."** [01:20](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=80s)
+
+"Some of the plays that he made, some of the finishes, I've never seen a seven-and-a-half-foot guy sense a double team coming, spin to the inside and just make a hook shot in the lane with his left hand, his off-hand, look easy. **Mike**, I don't know about you, but there were a bunch of times last night, I just had my hands on my head in complete awe of what we were watching."
+
+**3. Michael C. Wright — Wembanyama's performance as a culmination of his skills and desire to perform — "A lot of the footwork, the spins, the, hey, double team coming, I don't care. I can shoot over it."** [01:45](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=105s)
+
+**Michael C. Wright:** "Absolutely, my man, and a lot of what we saw was just sort of a culmination of everything he sort of put together from his time, like his first day in the league, and you saw a lot of his **Hakeem Olajuwon** stuff. A lot of the footwork, the spins, the, hey, double team coming, I don't care. I can shoot over it, or I'll go in between it and dunk. It was, you know what? I'm going back to my old-school sports writing roots, but last night was one of those nights where you really wanted to take just take a bead and really process everything you saw and just do your best to encapsulate that moment, you know, with whatever, whatever you write. And I was kind of regretful that I didn't really get to do that the way I wanted to, because you know, we got a million things going on. But I did my best, my man, and hopefully we got a lot more of these coming. I think we do. And I think it's going to be on both sides."
+
+**4. Tim MacMahon — The Spurs and OKC are starting a long-term epic rivalry — "I think this is going to be a long, epic series, and this is going to be the start of what's going to be an epic rivalry."** [02:47](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=167s)
+
+"And that's the thing. We got, I think this is going to be a long, epic series, and this is going to be start, or it is the start, of what's going to be an epic rivalry. I think over the next 10 years, we might get seven or eight of these series between these teams. And if you're anybody else in the Western Conference watching this series, I think two words come to mind. O is the first one, and I'm not allowed to say the next one on a Disney platform. But because the level for these teams is just so high, and they are ascending."
+
+**5. Tim MacMahon — Wembanyama's unique blend of athleticism, skill, and competitive drive — "Wemby does have a very rare competitiveness for somebody who's that gifted, a superstar."** [03:13](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=193s)
+
+"And **Wemby** is ascending. I ran into somebody with the Spurs last night in the hallway, and it was a pretty giddy hallway outside that visitor's locker room. He said, 'Man, he's just a baby.' Dude, this guy's going to keep getting better. He's going to keep getting stronger. He's going to keep working on his skill set. And of all the ways that **Wemby**'s unique, and again, like we've never seen anybody that tall who's that athletic. We've never seen anybody that tall who's that skilled. We certainly have never seen anybody who's all of those things combined. But the competitiveness of this guy is unique. Like somebody who, and it's not unprecedented. A lot of the stuff with **Wemby**'s unprecedented, but **Wemby** does have a very rare competitiveness for somebody who's that gifted, a superstar who's that determined to squeeze every bit of potential out of his game. And he takes things personally too, **Mike**."
+
+**6. Tim MacMahon — Wembanyama's personal drive to be the league's best and embrace clutch moments — "Wemby had made very, very clear he believed belonged to him. And this series is an opportunity for Wemby to stake his claim as the best player in the league."** [04:29](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=269s)
+
+**Tim MacMahon:** "There was a pregame trophy ceremony, the MVP trophy, the trophy that **Wemby** had made very, very clear he believed belonged to him. And this series is a lot of things. One of them is an opportunity for **Wemby** to stake his claim as the best player in the league. Basically, for him to say, 'Hey, it's my league now.' It's a 1-0 lead, it ain't four, but that was a hell of a step last night doing that."
+
+**Michael C. Wright:** "It was, man. And, you know, we all, me included, we all will probably overreact a little bit to Game 1. But man, that performance, it was like **Mitch Johnson** said after the game, that it was sort of, he said that he's got this unique desire to want to step into those moments. And, you know, a lot of young players, they shy away from that."
+
+**7. Tim MacMahon — Wembanyama's 30-foot shot rivaled Stephen Curry's iconic moment — "The Steph shot in regular season games is one of the iconic shots of this generation. That Wemby shot was pretty iconic."** [05:43](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=343s)
+
+"It was from almost the same spot on the floor. **Steph** was a little further out, but it was that same, it was going the same direction in the same building, very near the same spot, and he is, I don't know, 15 inches taller than **Steph**. The **Steph** shot in regular season games is one of the iconic shots of this generation. That **Wemby** shot was pretty iconic. And what's crazy is, I, it was his most ridiculous highlight of overtime, but he had a reel."
+
+**8. Tim MacMahon — Wembanyama's powerful dunk, late-game scoring, and impactful defense — "He outscored the Thunder 12-7 to close the game. To close out a 41-point, 24-rebound, three-block performance."** [06:12](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=372s)
+
+**Tim MacMahon:** "And one of those was that and-one dunk where **Chet** came over and tried to challenge, and he dunked it with some real force. I'm going to say some real animosity. He didn't like **Chet** swatting him at the regulation buzzer, sending it into OT. And man, to have that kind of a dagger dunk. The man had six dunks in the game. I think three of them were in the overtime periods. From the time he let that 30-whatever-footer go, **Mike**, he outscored the Thunder 12-7 to close the game. To close out a 41-point, 24-rebound, three-block performance, and the three blocks does not even begin to hint at the impact that he made on the defensive end."
+
+**Michael C. Wright:** "That last block though, that was like the topper. Like you blocked **J-Dub** at the rim, and it's a dad block. It's, you didn't give it to me."
+
+**9. Tim MacMahon — Wembanyama's dramatic flair and ability to thrive under pressure — "He wants to be the best player ever, and he wants to be recognized as the best player ever."** [07:14](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=434s)
+
+**Tim MacMahon:** "Oh, no, you do that, and then you strut over to the corner where your bench is, and he basically poses for your teammate."
+
+**Michael C. Wright:** "Hey, yeah, I forgot about. He was just like."
+
+**Tim MacMahon:** "Yeah. And that, I mean, listen, the guy has a flair for the dramatic. Like I said, he wants to squeeze every potential. He wants to be the best player ever, and he wants to be recognized as the best player ever. He wants, he loves the stage, he loves these lights. That's why, that's part of the reason why going into this, and we'll see, you know, maybe, maybe this could end up getting proven wrong as the series goes, but one reason I wasn't too concerned about playoff inexperience is because we've seen **Wemby** on big stages, and we've seen how much he responds to the bright lights. We're seeing that right now."
+
+**10. Michael C. Wright — Keldon Johnson on the Spurs' 'double down' mentality in hostile environments — "We didn't come here to try to steal one in Oklahoma City. We came to win."** [08:02](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=482s)
+
+**Michael C. Wright:** "Yeah, yeah. It's just not, it's not just **Vic**, it's all those guys. I was talking to **Keldon** after the game, **Keldon Johnson**, and he was just like, because I asked him, I said, 'Man, like in an environment like this, when that crowd starts going crazy, you know, like what, what's the mentality? What's the mindset there?' He was like, 'Double down.' He's like, 'Double down because when you play against,' and he said, 'We got all the respect in the world for **Oklahoma City**. But when you play like a, when you play against a team like this and an environment like this, when they come with that energy, if you don't match it, you're going to get your, you know what, beat.' And he said, 'All due respect to **Oklahoma City**, but we didn't come here to try to steal one in **Oklahoma City**. We came to win.' And I was like, 'Okay, that's what y'all are on.' And that permeates throughout the entire roster, and it's just, it's, I guess it's a credit to the GM, **Brian Wright**, for building that team that way, because, you know, you've got, when you kind of look throughout that roster, you've got some alpha dogs, whether that's **Steph**, **Vic**, and **Keldon**."
+
+**Tim MacMahon:** "And Harper's an alpha dog, my friend."
+
+**11. Michael C. Wright — The Spurs' roster is built with a few key 'alpha dogs' leading the team — "You don't have to have a whole team full of them. You just need three or four, and the rest of the team is going to follow."** [09:10](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=550s)
+
+**Tim MacMahon:** "Oh, yeah."
+
+**Michael C. Wright:** "You got to get to that later. But when you, you don't have to have a whole team full of them. You just need three or four, and the rest of the team is going to follow, they're going to follow right behind. And I think that's what they've got. They've got a ton of like just super competitive people. Like, you know, like these guys competed everything. I mean, you should see some of the things they're doing in the locker room. It's, it's wild, but credit to them, but **Oklahoma City** is not done."
+
+**12. Tim MacMahon — OKC's history of overcoming Game 1 losses and problem-solving in playoff series — "One of the things he loves about his team is their problem-solving, their ability to figure out how to attack problems."** [09:45](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=585s)
+
+"Oh, God, no, listen. **OKC**, they've been through this. They lost Game 1 at home to the **Nuggets** last year. They lost Game 1 at home on a heartbreaking game-winner by **Tyrese Haliburton** in the NBA Finals. Those were both seven-game series, they won both those series. As **Mark Daigneault** said, one of the things he loves about his team is their problem-solving, their ability to figure out how to attack problems, how to address issues throughout the course of games and really throughout the course of series. They take a lot of pride in being able to get better game by game by game in a series."
+
+**13. Tim MacMahon — Wemby's unique defensive presence as a one-man zone — "Wemby is essentially a one-man zone. He basically clogs up everything inside the three-point line."** [10:25](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=625s)
+
+"As **Shai** told me the other night, **Wemby** presents problems that nobody else does. And one of the problems he presents, I would say probably as awesome as he was offensively last night, defensively is where the Spurs really won the game, and that is **Wemby** is essentially a one-man zone. He basically clogs up everything inside the three-point line by himself. And they've got great point-of-attack defenders. **Steph Castle**, **Dylan Harper**, those two dudes in particular. And they're throwing extra bodies at **Shai**."
+
+**14. Tim MacMahon — Shai takes blame for poor performance against Wemby's Spurs — "He pinned the blame on himself for the loss. He basically said, 'I have to be better.'"** [10:25](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=625s)
+
+"**Shai** went 7-for-23. He made it very clear after getting that MVP trophy, he didn't play up to that standard, and he pinned the blame on himself for the loss. He basically said, 'I have to be better, especially against a team of this caliber.' He understands the weight when you lift that trophy. He understands the weight that comes with that, he understands the responsibility that comes with that. And 7-for-23 shooting, he had 12 assists, but four turnovers, not good enough. He didn't use the word intimidate, but he did admit **Wemby** intimidated him. It was an intimidating factor. He talked about needing to find the balance between aggressive and being smart attacking when **Wemby**'s back there. And he found that for the last 5:26 of the fourth quarter when they came back, they rallied. He had 10 points and a couple assists during that stretch."
+
+**15. Michael C. Wright — OKC and Shai Gilgeous-Alexander are expected to improve their shooting in future games — "Shai is not going to miss shots like that all series. The Oklahoma City Thunder, they're not going to be standing back there with wide open shots and miss those shots."** [12:29](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=749s)
+
+**Tim MacMahon:** "7-for-23 is not going to cut it. We don't have the soft pedal things for him. He's a grown man."
+
+**Michael C. Wright:** "No, that's not what I'm saying. What I'm saying is **Shai** is not going to miss shots like that all series. The **Oklahoma City** Thunder, they're not going to be standing back there with wide open shots and miss those shots the way that they did in Game 1. They missed a bunch of shots that they knocked down fairly easily."
+
+**16. Tim MacMahon — OKC must find ways to move Wembanyama out of the paint to create offensive opportunities — "They've got to figure out ways to move the defense and especially move Wemby."** [13:14](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=794s)
+
+**Tim MacMahon:** "I didn't think **Shai** was getting great looks. I, I thought that because of **Wemby**'s presence, **Shai**, and **Wemby**'s presence, and they were throwing extra bodies at him. If **Shai**, like operating at the top of the offense, he's got, he's got a great point-of-attack defender on him, then it's guys on the elbows, guys in the box, one of them on the box is **Victor Wembanyama**. The defense is loaded up against him. They've got to figure out ways to move the defense and especially move **Wemby**. They've got to get **Wemby** moved."
+
+**Michael C. Wright:** "You got to get him out of the paint."
+
+**Tim MacMahon:** "Well, out of the paint or even moving inside the paint. I forgot who, who got the bucket, but there was one time where they got a drive and **Chet** was able to set a **Gortat** screen. They've got to get him moving, can't just let him be back there playing goalie. That's just, that's not going to work. But whatever it is, **Shai** understands the weight of the crown, and it's especially heavy when you've got a seven-and-a-half-foot alien trying to rip it out of your hands."
+
+**17. Michael C. Wright — De'Aaron Fox's high ankle sprain is a significant factor, but OKC believes they have solutions — "They did play that game without De'Aaron Fox. That's one more guy that can give you problems on both ends of the floor."** [14:22](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=862s)
+
+**Michael C. Wright:** "Oh, no doubt. But like I felt like he made, for the most part, he made the right plays. He actually made some pretty good plays. He saw some things and hit the guys that he needed to hit. They just couldn't make those shots. I'm really, like I said, I just think that Oklahoma City is going to be much better. And you know how it is, man, once you sort of, the first game or two is like you're feeling each other out, trying to figure out what you're trying to do. And if that is how they are going to, to play, OKC, I think they've got solutions for that. And then it becomes a matter of, okay, how do they defend the Spurs? Because, let's be real here, they did play that game without **De'Aaron Fox**. That's one more guy that can give you problems on both ends of the floor, and he was."
+
+**Tim MacMahon:** "And **Fox** has an ankle issue. I think they're calling it stiffness, it's a sprain."
+
+**Michael C. Wright:** "Yeah, it's a high sprain."
+
+**Tim MacMahon:** "I was going to say, it ain't a low sprain."
+
+**18. Michael C. Wright — De'Aaron Fox's Game 1 absence was precautionary, and his ankle injury will need management throughout the playoffs — "It's not going to get any better with him playing. I think it's a matter of trying to manage it."** [15:23](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=923s)
+
+**Tim MacMahon:** "So what are you hearing about his potential availability in Game 2 or moving forward in the series first?"
+
+**Michael C. Wright:** "Well, it sounded like his absence from Game 1, for the most part, was pretty precautionary. I think **D** could have."
+
+**Tim MacMahon:** "I don't know about precautionary in Game 1 of the Western Conference Finals."
+
+**Michael C. Wright:** "I'm telling you, man, like when you, when you got horses like that, you know, you can, you can keep one in the stable and still feel good about your chances. I think they want to get that ankle, because it's a, it's one of those deals where it's not going to get any better with him playing."
+
+**Tim MacMahon:** "That's what **Mitch Johnson** basically said, 'He's dealing with this as long as we're playing.'"
+
+**Michael C. Wright:** "Yeah. And so I think it's a matter of trying to manage it. Because say you get through this series, you got another tough one coming."
+
+**19. Tim MacMahon — Dylan Harper's historic playoff debut against elite OKC Thunder — "The only other rookie to go 20 points, 10 rebounds, five and five in a playoff game, Magic Johnson."** [16:13](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=973s)
+
+"You got to throw all the bullets you can. You got to get through this series because **OKC** is a historically elite team, a defending championship team. You took home court advantage, but they're still the number one seed. Now, **Dylan Harper**, what a response though. 24 points, first playoff start, 24 points, 11 rebounds, seven steals, six assists. The only other rookie to go 20 points, 10 rebounds, five and five in a playoff game, **Magic Johnson**."
+
+**20. Tim MacMahon — Spurs' historic young lineup and terrifying ascending talent — "Their seven-and-a-half-foot alien who wants all the smoke is an ascending talent."** [16:13](https://www.youtube.com/watch?v=P7fLRoiKmc4&t=973s)
+
+"And Mike, you don't have **Fox**, who's your vet closer. He's not an old vet, but he's a vet. The average age of that starting lineup for the **Spurs**, 22.9 years old. I think I saw that was the youngest starting lineup in a conference finals game, which means as far as back as they can track. Again, that's what is so terrifying about the **Spurs**. Their seven-and-a-half-foot alien who wants all the smoke is an ascending talent. He's going to keep getting better, he's going to keep getting stronger, he's going to keep working on his game. **Dylan Harper**'s just scratching the surface. **Steph Castle**, who did a lot of good, also did a lot of bad, 11 turnovers, but he had one of his trampoline dunks over **SGA** when he just goes up off two feet in traffic off a drive. He's an ascending talent. **Carter Bryant** is getting key minutes. They're just so loaded already with the arrow pointing up on almost their entire, at least their entire rotation."
+
+---
+
 ## 🚨EMERGENCY REACTION🚨 Wembanyama’s HUGE Statement in Instant Classic Game 1 — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=Pgh9tsiYUTI
@@ -187,6 +441,42 @@ _Speakers identified: Brian Windhorst, Tim Bontemps_
 **2. Tim Bontemps — Jalen Williams's late-game possession cost Thunder Game 1 — "The Jalen Williams possession with about 40 seconds to go in overtime cost this Thunder team the game."** [03:42](https://www.youtube.com/watch?v=Pgh9tsiYUTI&t=222s)
 
 "No one's gonna probably talk about it because they're gonna focus on Victor's play in the second overtime and Victor's three-pointer that he hit on the break. The **Jalen Williams** possession with about 40 seconds to go in overtime cost this Thunder team the game. It was a horrific possession. Didn't pass the ball, jacked up a horrible shot and that set up the run out that led to the Victor shot. And if the Thunder run a good play there and get a bucket, obviously the game's over. Even if they run the clock down and take a shot that's missed normally, the game might be over. But that possession is really gonna haunt them if they end up blowing this series in the end because they had the game on their racket, they let it get away and they let Victor make an iconic play and that pull-up three if the Spurs go on to win this series, for as much as everything else happened the second overtime, it's gonna be that pull-up three from 30 feet that people remember."
+
+---
+
+## Memphis' front office & fans HATED Chandler Parsons because he brought BEAUTIFUL women courtside 🤯 — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=Siw0nioYBJc
+
+_Speakers identified: Zach Randolph, Tony Allen, Chandler Parsons_
+
+**1. Chandler Parsons — Chandler Parsons on fans judging players without understanding rehab efforts — "They'll see you at dinner or they'll see you out and they'll judge you off that."** [00:28](https://www.youtube.com/watch?v=Siw0nioYBJc&t=28s)
+
+"And see that's also with fans, they're so short-sided and honestly ignorant because they'll see you at dinner or they'll see you out and they'll judge you off that, not knowing you were just in the facility for six hours before then doing rehab, seeing your osteopath in the gym, taking jump shots, doing all this tedious ass shit just to try and get back to the level of your expectations. Not anyone else's."
+
+**2. Chandler Parsons — Chandler Parsons on Memphis fans misunderstanding his contract and health struggles — "I just think they never gave me a fair shot based on my health and the misunderstanding of me coming in."** [00:53](https://www.youtube.com/watch?v=Siw0nioYBJc&t=53s)
+
+"That's what's funny to me too. You think you wanted me to play more than I wanted me to play, like my family wanted me to play? That shit was so annoying and I do think going into that situation I thought I was going to be a perfect fit. I thought we were going to be good. You guys had developed this awesome culture and grit and grind, you had made runs in the playoffs. And I do hate the fact that I was supposed to be that and I thought I could be that and I wasn't that, but all the shit with the fans and stuff like that, I just think they never gave me a fair shot based on my health and the misunderstanding of me coming in, stealing this contract and being overpaid was ridiculous."
+
+**3. Tony Allen — Tony Allen and Chandler Parsons on courtside women and LeBron James comparison — "You used to have just the hottest babes in the front court."** [01:27](https://www.youtube.com/watch?v=Siw0nioYBJc&t=87s)
+
+**Tony Allen:** "I'm going to tell you what put a little flame to it. I remember this vividly. I'll tell you what put a little flame. Well, put a little flame to it. You're married now and we can speak on this. You're married now. You used to have just the hottest babes in the front court."
+
+**Chandler Parsons:** "Why was that a bad thing?"
+
+**Tony Allen:** "And then it was that was the focus and then you're rehab, you're rehab somewhere in LA and we like, damn, what Brad. We look up you in Cabo. It was kind of weird and then it was coach, you know coach feels that that's your homeboy. He told the media, you know, we about to sign **Chandler Parsons**, he the best thing with an IQ like **LeBron James**. I said, what? Not no kicking it in Cabo at this time of the year. And so the fans and we was expecting, but I'm here to give you your flowers."
+
+**Zach Randolph:** "Yeah, give you your flowers."
+
+**Tony Allen:** "Back, welcome to Out the Mud, brother. What it took."
+
+**4. Chandler Parsons — Chandler Parsons on the mental toll of injuries and failing expectations — "The shit I had to go through with my injuries and my own personal struggle to get back... was so difficult."** [02:42](https://www.youtube.com/watch?v=Siw0nioYBJc&t=162s)
+
+"Thank you, **TA**, I appreciate you saying that because again, the shit I had to go through with my injuries and my own personal struggle to get back and to be the player I once was was so difficult. And then you add this pressure of expectation, a big contract, being a missing piece and failing at all of those. It sucked and I just felt not attacked but just I felt like I was in a constant battle with my own home fans and my own front office, my own ownership almost blaming me for taking this contract."
+
+**5. Chandler Parsons — Chandler Parsons on being booed by Memphis home fans after injury — "I missed my first free throw and the entire home arena booed me."** [04:26](https://www.youtube.com/watch?v=Siw0nioYBJc&t=266s)
+
+"And if you guys remember, **TA**, my first game in Memphis, I just came off the meniscus and I got fouled and I go to the free throw line and I missed my first free throw and the entire home arena booed me. They booed me. So that's when and I remember after the game, the media asked me, what do you think about that? And I said, listen, if they're going to treat me like this, I'll treat every home game like a road game. And that's just when it spiraled and it was bad and again, I never was the player I was before either, so that didn't help my case. And then I'd get into interactions at restaurants or just in this town. It was just a very sour situation at that, but I just felt like I was never given a fair chance basketball-wise. I was always judged by social media or the girls courtside or me being an LA, this Hollywood player that's in Memphis out of place. That was the narrative and I hated it because I was busting my ass trying to be a great player."
 
 ---
 
@@ -425,6 +715,54 @@ _Speakers identified: Mike Greenberg, Jeff Teague, Brian Windhorst, Monica McNut
 **Marcus Spears:** "He seems to be doing that. And when you think of the great players that came before him, that's what makes it crazy. You have the Admiral. Of course, you had **Tim Duncan**. And he's doing this. This is wild."
 
 **Monica McNutt:** "And what does he have in common with those guys? The organization that he lands in. And so I think skill, focus, all of those things, but you got to give the Spurs a tip of the cap."
+
+---
+
+## Chris Paul COMMENDS how Wemby carries himself 🗣️ 'HE'S HOOPIN'!' 🍿 | The Pat McAfee Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=rQdEWavzTHE
+
+_Speakers identified: Pat McAfee, Chris Paul, D-Butt_
+
+**1. Chris Paul — Chris Paul on his son's basketball journey and the EYBL circuit — "The coolest thing about being out on the circuit, especially with the EYBL, is getting to see all these different kids."** [01:00](https://www.youtube.com/watch?v=rQdEWavzTHE&t=60s)
+
+"He's a sophomore. He sort of just going through his process. I think the coolest thing about being out on the circuit, especially with the EYBL, is getting to see all these different kids, all the different kids of guys who I played against. **Rondo**'s son, **Pierre**, is super duper nice. All these kids, it's a gang of kids that aren't former players' kids or what not, but it's cool to get a chance to be there and see their process."
+
+**2. Chris Paul — Chris Paul praises Victor Wembanyama's shooting and game evolution — "Now you just get a chance to see the evolution of his game. He goes inside-out."** [03:10](https://www.youtube.com/watch?v=rQdEWavzTHE&t=190s)
+
+"It was just fun to watch, to tell you the truth. And to know him and the situation and the moment, **Vic** is a great shooter. Last year he shot a lot of threes, a lot of threes, but now you just get a chance to see the evolution of his game. He goes inside-out, the way he plays and that's just trust. First of all, he kicked it ahead to **Steph Castle**, Steph kicked it back to him and **Vic** likes those moments."
+
+**3. Chris Paul — Chris Paul highlights Victor Wembanyama's dedication to improving his game — "He's one of those guys that if you tell him he's not that good at something, he's going to go put the work in."** [04:45](https://www.youtube.com/watch?v=rQdEWavzTHE&t=285s)
+
+"Yeah, he works at it. So the things that, he's one of those guys that if you tell him he's not that good at something, he's going to go put the work in on it and get better at it. So if that was his physicality, because obviously you come into the league, everybody talked about how light he was and people sort of pushed him here and there, but he's 7'5", he got a lot stronger. He used to play with his back to the basket a lot and he still does, but this play right here that they keep showing was so dope and all I could think about was **Greg Popovich** when I first got to San Antonio last year. And Pop would just always be on **Vic** about facing up. Facing up, facing up first, triple threat, and you see how the game is just evolved and it just comes so easy to him now."
+
+**4. Chris Paul — Chris Paul describes Victor Wembanyama's competitive fire and emotional maturity — "He don't want to carry the burden of having to show his emotions."** [06:18](https://www.youtube.com/watch?v=rQdEWavzTHE&t=378s)
+
+"Yeah, I think so. It was a cool interview that **Vic** did earlier in the season and he was talking about how he shows his emotions. Like he don't want to carry the burden of having to show his emotions. And I think he does a great job of that. He just, he's hooping, he's having fun and he's going to tell you, he's sort of going to show you. Anybody who loves this game, because you see some teams when there's an MVP ceremony, some teams go to the locker room. Some teams are not out there when that happens because they don't want to be a part of it, but **Vic**, somebody tell you, I saw the video like everybody else, he didn't look or what not, but of course he understands the moment and he's somebody that's always finding little things to push him."
+
+**5. Chris Paul — Chris Paul expresses confidence in Victor Wembanyama's long-term NBA success — "I'm honestly not worried about Vic lasting, right, playing for a long, a long time in the league."** [08:27](https://www.youtube.com/watch?v=rQdEWavzTHE&t=507s)
+
+"I'm honestly not worried about **Vic** lasting, right, playing for a long, a long time in the league because his preparation, the way he works, the way he trains, all the little details, he's that competitive. I told you, like when I got there, whether it's ping pong, whether it's chess, whether it's just shooting games after practice, and he's like a student of the game. Like he watches everything constantly and it's kind of crazy to see it all come together. Because I remember, I went to go watch him play before he came to the NBA. And he was 7'5" wing player. And he just keeps learning things throughout the years. And if you watch down the stretch of that game, the lobs that **Vic** caught when **Caruso** was guarding him, those are plays that he didn't used to do. He was just always on the perimeter. But now he realized that he can score in so many different ways."
+
+**6. Chris Paul — Chris Paul explains how teams strategize to contain Shai Gilgeous-Alexander — "They load up, they're trying to make the other guys make shots."** [10:18](https://www.youtube.com/watch?v=rQdEWavzTHE&t=618s)
+
+"I think one of the things that we talked about too, **Pat**, was just the coaching. Both teams are coaching really well. Obviously **Shai** struggled or what not to score, but they've been here. They're battle-tested. They won a championship, they lost last year to **Denver**, I think Game 1. So they'll go watch film and regroup, but **Shai** is seeing a double team every time he comes down the court. He's going to see that every single game. They load up, they're trying to make the other guys make shots, **Caruso** having 30 or something like that, but he's going to try to figure it out."
+
+**7. Chris Paul — Chris Paul details NBA defensive tactics against hot and cold shooters — "The elite teams and the really great coaches, they be like, 'No, we just not even going to let this guy get going.'"** [12:06](https://www.youtube.com/watch?v=rQdEWavzTHE&t=726s)
+
+"In the NBA we have hot guys and cold guys. So hot guys you actually don't help off of them as much. Cold guys you full body help. But out here in this game, no disrespect to a lot of these coaches in the league, but a lot of these coaches want to see how the game starts and then they let the main guy get 20-25 points, then they be like, 'Okay, we're going to get the ball out of his hands.' The elite teams and the really great coaches, as you can see, they be like, 'No, we just not even going to let this guy get going.' So when **Shai** comes down the court if you watch, look at the wall that they're building every single time down. Every single time down, their whole mindset is to not, look, they load it up. They load it up. They're just trying to make him see a wall. **Shai** has seen every coverage you could possibly see, but look at where **Vic** is right there. Look at that. That's hard to play against."
+
+**8. Chris Paul — Chris Paul explains Shai Gilgeous-Alexander's adjustments to defensive pressure — "You also got to figure out when to be just a little bit more selfish on some plays."** [14:00](https://www.youtube.com/watch?v=rQdEWavzTHE&t=840s)
+
+"You figure it out because it's usually pretty consistent throughout the season. The guys who shoot it better than others and there's guys that don't. So probably most games, depending on who's on the court, like if **Jalen McDaniels** is on the court and **Caruso**, they're definitely going to leave **Caruso** open more than **Jalen McDaniels**. So you're trying to figure that out on the fly as you go. But it's like clockwork for **Shai**. He knows he's going to see all these extra bodies when he gets into the paint and you just got to try to make the right decision. And then you also got to figure out when to be just a little bit more selfish on some plays."
+
+**9. Chris Paul — Chris Paul praises coaching that fosters freedom and meticulous preparation — "You don't come in as a rookie and make those different type plays if you're not being coached and motivated to just go play free."** [15:57](https://www.youtube.com/watch?v=rQdEWavzTHE&t=957s)
+
+"First of all, the way these two teams play. It's just the coaching that gives them the confidence to play free. Like a kid like **Dillon Harper**, you don't come in as a rookie and make those different type plays if you're not being coached and motivated to just go play free and not worry about making mistakes. Obviously, **Mark** and OKC has those guys playing like that night in and night out. But playing for San Antonio last year and getting a chance to see the preparation that goes in every single day. Like **Mike** in there with the guys at 8, 9 AM before practice going on all the ball movement and all that stuff like that. It's just, it's really dope to see it all come together."
+
+**10. Chris Paul — Chris Paul analyzes the Cavaliers-Knicks series and contrasts Eastern and Western Conference play — "I never played for an Eastern Conference team. So to now be out and watch the different games and see sort of the pace."** [18:36](https://www.youtube.com/watch?v=rQdEWavzTHE&t=1116s)
+
+"Is **OG** back? **OG**'s back? This is going to be a good series. I think the Game 1 will be interesting to see who sets the tone. And I tell you what's crazy is I played in the Western Conference my whole career. I never played for an Eastern Conference team. So to now be out and watch the different games and see sort of the pace of the Western Conference. They said that all the time like when I was in the league is that it was sort of the Eastern Conference, they just a little bit more grind the game out and stuff. You call it what you want to. I think so, it'll be a little bit slower pace. Jalen has the ball a lot of the times with the Knicks and obviously Donovan and James, James plays a little bit of a slower game for the most part. So it's going to be interesting to see how this series starts off and how who guards who, who sets the tone."
 
 ---
 
