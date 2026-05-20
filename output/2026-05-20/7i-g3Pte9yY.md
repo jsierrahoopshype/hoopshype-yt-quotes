@@ -1,0 +1,31 @@
+# Why Melo Thinks Dillon Brooks Crossed the Line with LeBron — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=7i-g3Pte9yY
+
+_Speakers identified: Kazeem Famuyide, Carmelo Anthony, Steve Nash_
+
+**1. Kazeem Famuyide — Dillon Brooks' petty attendance at LeBron's playoff game — "Would you fly all the way to their game to watch them get swept?"** [00:38](https://www.youtube.com/watch?v=7i-g3Pte9yY&t=38s)
+
+**Kazeem Famuyide:** "Would you, if there was somebody in the league you was not messing with like that, would you fly all the way to their game to watch them get swept if that if you knew it was a possibility? Is that your level of petty?"
+
+**Carmelo Anthony:** "I'm going to take the I'm going to I'm going to give it a different perspective. I'm going to give it a professional perspective."
+
+**2. Carmelo Anthony — Carmelo Anthony's professional take on Brooks' attendance — "This ain't about Bron. This is my Canadian teammates, my fellow countrymen."** [01:03](https://www.youtube.com/watch?v=7i-g3Pte9yY&t=63s)
+
+"The professional perspective, this ain't about Bron. This is my Canadian teammates, my fellow countrymen. This is, you know, I'm coming to see my guy. It just so happened he's playing against a motherfucker that I don't like. That's how I'm going to look at it."
+
+**3. Carmelo Anthony — Carmelo Anthony's personal take on Brooks' disrespect — "If you showing up to the workplace and you trying to put this show on, then you disrespected me now."** [01:23](https://www.youtube.com/watch?v=7i-g3Pte9yY&t=83s)
+
+"Now, my perspective is, fuck out of here. Because we got beef. It obviously clearly is deeper than I don't know, it's more than just on the court. If you showing up to the workplace and you trying to, you know what I mean, like put this show on, then you disrespected me now, differently. Because it ain't about basketball no more. So I have to say something to you. And I'm swept. You get so I have to approach you. I have to because now you playing on you playing with me, you playing on my name, you playing with me. Now you trolling to a whole another level."
+
+**4. Steve Nash — Steve Nash on the NBA brotherhood and player respect — "There's a brotherhood. To me, especially when it comes to the faces of the league."** [03:18](https://www.youtube.com/watch?v=7i-g3Pte9yY&t=198s)
+
+"To me, it's it's well known, there's a brotherhood. To me, and especially when it comes to the faces of the league, the guys who have come before you are the reason for, and the whole every guy in the league, I would say for the most part, they recognize, they know the guys who have elevated the game that have kept it in a place that they need to be grateful to. Because to be petty about it, they're sharing their royalties from their jersey sales with guys like me. When **Melo**'s jerseys sell, I got a cut of it. **LeBron** is the epitome of that. **Jordan** was the the guy who created all that. And so to me, like you're saying, the national team, the Canada thing, fine. Maybe we get his perspective, but I just think at the end of the day, to make it ever out to be like more about I have this identity as a villain than this is a brotherhood."
+
+**5. Carmelo Anthony — Carmelo Anthony on Dillon Brooks' villain role in the NBA — "I really think he he respect LeBron. I think he give him respect."** [04:09](https://www.youtube.com/watch?v=7i-g3Pte9yY&t=249s)
+
+**Carmelo Anthony:** "I really think he he respect **LeBron**. You get what I'm saying? I think he give him respect. But that's all where it stands. Like it's nothing. I look at you just like I look at anybody else. You just another man to me. Like I'm going to respect you, but I ain't got to go out my way to show you or give you the respect. So I think that's his approach to it. And I think this villain role that he's taken on, I love it because it's good for him, it's good for the game of basketball. We need villains in sports."
+
+**Kazeem Famuyide:** "He clearly gets them going. He had a great season this year for."
+
+**Carmelo Anthony:** "And he's been doubling down on his productivity. But let's not let the villain continue on after this because you're not the villain off the court, you're the villain on the court. So stay the villain on the court. Unless there's something else off the court that you need to be a villain for."

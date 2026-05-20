@@ -1,0 +1,25 @@
+# Quentin Richardson’s advice to Chet Holmgren: SPEAK UP! | The Pat McAfee Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=rlcGVUzGBi8
+
+_Speakers identified: Pat McAfee, Quentin Richardson, Tone_
+
+**1. Quentin Richardson — Chet Holmgren must demand to guard Victor Wembanyama — "If I'm Chet as a player, as a man, I got to stand up and say, 'Coach, I want that matchup.'"** [01:11](https://www.youtube.com/watch?v=rlcGVUzGBi8&t=71s)
+
+"What the Thunder have to do is they have to respond. Like it's been talked about a lot, if I'm **Chet** as a player, as a man, I got to stand up and say, 'Coach, I want that matchup.' Regardless of whatever is being suggested, like you saw they threw several different bodies at him: **Jalen Williams**, **Caruso**, **Lu Dort**. **Chet Holmgren** is the one that everybody wants to see, that we should see facing him, and that's to me, that's the best matchup for **Wemby**. The likeness in size and body shape and body structure."
+
+**2. Quentin Richardson — Shai Gilgeous-Alexander's poise and expected aggression tonight — "I'm impressed by his poise and not forcing anything. I do expect him to be a little more aggressive tonight."** [03:24](https://www.youtube.com/watch?v=rlcGVUzGBi8&t=204s)
+
+"I expect **SGA** to do pretty much what he did last game. He's always said that all year long and the last couple years that he really reads the game and watches and sees what he needs to do and where he gets his, where he can fit in. But I'm impressed by his poise and not forcing anything. I do expect him to be a little more aggressive tonight, trying to find more chances to go one-on-one and do his thing because they need him to score more. But I still expect him to kind of start out like just letting the game flow. If his teammates are the open guys, using those guys, and I don't know if it'll be **Caruso** or who it'll be to get the open shots this time and knock them down or not knock them down, but I think to a certain extent, that's how **SGA** is wired. He doesn't really force the issue."
+
+**3. Quentin Richardson — James Harden should foul opponent when defensively exploited — "I'm just going to hit you. I'm going to just foul you."** [05:32](https://www.youtube.com/watch?v=rlcGVUzGBi8&t=332s)
+
+"If I'm **James Harden**, I got crazy respect for **James Harden** and his game and everything he's done and what he means to the game. But in a situation like this, it's **T**, **Kobe**. Somebody start tuning you up like this, you got to give them a shot. Obviously, in this era, you can't do nothing too crazy, you might get a technical or thrown out, you don't want to do nothing like that. But when somebody is just lining you up, seeking you out every time, every time, and they score this many points in a row, at some point, I don't care, I'm just going to hit you. I'm going to just foul you and let you know that you're pissing me off and that it might go further if you continue to just to try to do anything because nothing, clearly he couldn't guard him. He couldn't guard him, and they continued to go to it and exploit it."
+
+**4. Quentin Richardson — Team and coaching failure to address defensive mismatch — "It was a failure on all different sides for the coach to change the matchup."** [05:32](https://www.youtube.com/watch?v=rlcGVUzGBi8&t=332s)
+
+"From the team and the coaching standpoint, if the coach ain't going to switch it, as a teammate, somebody got to step in and say, 'Yo, let me get him.' It was a failure on all different sides for the coach to change the matchup, a player, a teammate to step in and say, 'Somebody, we need to do something,' or for even **Harden** to say himself. You don't want to concede defeat, but at some point, we want to win the game."
+
+**5. Quentin Richardson — Twenty-point leads are no longer safe in the NBA — "In this NBA, the three-pointer is such an equalizer that 20 points is no longer this unfathomable thing to come back from."** [08:37](https://www.youtube.com/watch?v=rlcGVUzGBi8&t=517s)
+
+"In this NBA, the three-pointer is such an equalizer that 20 points is no longer like this unfathomable thing to come back from like it used to be. And so once they got it to 15 and the crowd started to get a little more into it and you saw **Brunson** start to come alive, and I was like, if he score again, like they need to double immediately. The same way people are doing **SGA**. They got to run two guys at him immediately and just get him off the ball and see what anybody else could do, but they let it get too far and too far, and then once they got down to 10, I said, 'Okay, we got a game.' And then you could see the change in Cleveland. They played timid after that. It was like they tried to get the air out of the ball and run the clock, and then it was like once it turned up, it felt like they played timid to me."
