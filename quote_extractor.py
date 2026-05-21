@@ -888,10 +888,10 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
         fragments = []
         if speaker:
             fragments.append(speaker)
-        if summary:
-            fragments.append(summary)
         if excerpt:
             fragments.append(f'"{excerpt}"')
+        if summary:
+            fragments.append(summary)
         if fragments:
             inner = " — ".join(fragments)
             header = f"**{rank}. {inner}** [{ts_label}]({ts_link})"
