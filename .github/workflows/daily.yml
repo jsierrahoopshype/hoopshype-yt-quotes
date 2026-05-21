@@ -22,7 +22,14 @@ concurrency:
 jobs:
   extract:
     runs-on: ubuntu-latest
-    timeout-minutes: 300  # 5h, well under the 6h GitHub Actions ceiling
+    # 45 min outer cap = 30 min inner SIGALRM script budget + setup
+    # (checkout / pip install) + mirror + commit/push retry + slack post.
+    # If the script's SIGALRM handler runs as expected, the job finishes
+    # well under this. If a hung Gemini socket doesn't yield to the
+    # signal handler, GitHub kills the job at 45 min instead of the
+    # default 4h, freeing the daily-extract concurrency lock for the
+    # next scheduled cron.
+    timeout-minutes: 45
     permissions:
       contents: write
     steps:
