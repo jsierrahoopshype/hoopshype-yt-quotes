@@ -269,6 +269,13 @@ RETRY_CAP = 2  # after this many cap-eligible failures, write FAILED.txt
 # and shouldn't get tracked here.
 _CAP_ELIGIBLE_FAILURES = frozenset({"failed-timeout", "failed-hallucination", "failed-other"})
 
+# Set by any worker thread the moment a SpendingCapExhausted is raised. Other
+# workers check it at entry and short-circuit so the rest of the queue
+# doesn't burn API calls hammering a known-dead bucket. Reset per-process,
+# so a single workflow run aborts on first cap detection but subsequent
+# workflow runs start fresh.
+_spending_cap_hit = threading.Event()
+
 
 def _attempts_path(day_dir: Path, video_id: str) -> Path:
     return day_dir / f"{video_id}.ATTEMPTS.txt"
@@ -596,9 +603,40 @@ def is_token_limit_error(exc: Exception) -> bool:
     return "token" in msg and ("limit" in msg or "exceed" in msg or "too" in msg)
 
 
+class SpendingCapExhausted(Exception):
+    """Raised when a 429 indicates a project spending cap / daily quota is
+    exhausted and won't recover within this run. Distinguished from regular
+    transient 429s (per-minute rate limits) by the error message: spending
+    caps surface phrases like "spending cap", "quota exceeded", or
+    "exceeded your current quota" that the underlying httpx exception
+    carries through. The script bails out of the queue on first occurrence
+    instead of burning the rest of the rotation hammering a dead bucket.
+    """
+
+
+# Substrings (uppercased) in an exception's str() that indicate a NON-RECOVERABLE
+# quota / spending-cap exhaustion. These trump _TRANSIENT_MESSAGE_PATTERNS so a
+# 429 with one of these strings raises SpendingCapExhausted immediately rather
+# than burning retries.
+_SPENDING_CAP_PATTERNS = (
+    "SPENDING CAP",
+    "EXCEEDED YOUR CURRENT QUOTA",
+    "QUOTA EXCEEDED",
+)
+
+
+def _is_spending_cap_error(exc: Exception) -> bool:
+    msg = str(exc).upper()
+    return any(p in msg for p in _SPENDING_CAP_PATTERNS)
+
+
 def _is_transient_gemini_error(exc: Exception) -> bool:
     """True for retryable errors: HTTP 429/500/503, httpx network errors,
     and any message containing one of _TRANSIENT_MESSAGE_PATTERNS.
+
+    Note: callers should check _is_spending_cap_error FIRST, since a 429
+    with a quota-exhaustion message is non-recoverable in this run even
+    though it looks transient by status code alone.
     """
     status = gemini_error_status(exc)
     if status in (429, 500, 503):
@@ -635,6 +673,9 @@ def call_gemini_with_retry(client, url: str, video_title: str = "", known_speake
         try:
             return call_gemini(client, url, video_title, known_speakers)
         except Exception as e:
+            if _is_spending_cap_error(e):
+                log(f"  [SPENDING CAP] {e}")
+                raise SpendingCapExhausted(str(e)) from e
             if not _is_transient_gemini_error(e):
                 raise
             if attempt < len(backoffs):
@@ -722,6 +763,9 @@ def split_quote(client, quote: dict) -> tuple[list, str]:
             )
             break
         except Exception as e:
+            if _is_spending_cap_error(e):
+                log(f"  [split] [SPENDING CAP] {e}")
+                raise SpendingCapExhausted(str(e)) from e
             if not _is_transient_gemini_error(e):
                 log(f"  [split] non-retryable error, keeping original: {e}")
                 return [quote], "failed"
@@ -809,6 +853,11 @@ def post_process_quotes(client, quotes: list) -> list:
                 i, q = future_to_job[fut]
                 try:
                     subs, status = fut.result()
+                except SpendingCapExhausted:
+                    # Don't bury the cap signal as a generic split failure;
+                    # let it propagate so process_video and _process_one_video
+                    # can set the global abort flag.
+                    raise
                 except Exception as e:
                     log(f"  [split] worker raised {e!r}; keeping original")
                     subs, status = [q], "failed"
@@ -1124,6 +1173,16 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
     pub_date = _publish_date(video)
     day_dir = _video_day_dir(video)
     is_one_off = bool(video.get("is_one_off"))
+
+    # If a sibling worker already hit the spending cap, short-circuit
+    # immediately without calling Gemini. The video remains un-marked
+    # on disk so the next cron treats it as fresh.
+    if _spending_cap_hit.is_set():
+        log(f"  -> {video_id} [{name}]: skipping (spending cap already aborted this run)")
+        with lock:
+            summary["aborted-spending-cap"] = summary.get("aborted-spending-cap", 0) + 1
+        return
+
     log(f"  -> {video_id} [{name}{' / one-off' if is_one_off else ''}]: {video['title'][:80]}")
 
     # Run process_video on a dedicated single-thread executor so we can
@@ -1140,6 +1199,11 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
         except FuturesTimeoutError:
             log(f"  [timeout] video {video_id} exceeded {PER_VIDEO_TIMEOUT_SECS // 60}min total, abandoning")
             status, data = "failed-timeout", None
+        except SpendingCapExhausted as e:
+            # First worker to see the cap raises the flag for siblings.
+            _spending_cap_hit.set()
+            log(f"  [SPENDING CAP] {video_id}: {e} — aborting remaining queue this run")
+            status, data = "aborted-spending-cap", None
         except Exception as e:
             log(f"  unexpected exception processing {video_id}: {e}")
             for line in traceback.format_exc().rstrip().splitlines():
@@ -1281,6 +1345,11 @@ def process_video(client, video: dict, channel_name: str, known_speakers: list |
     while True:
         try:
             raw_text, _usage = call_gemini_with_retry(client, url, expected_title, known_speakers)
+        except SpendingCapExhausted:
+            # Don't classify here — let _process_one_video set the global
+            # abort flag and bucket the status so all remaining queue
+            # items short-circuit cleanly.
+            raise
         except Exception as e:
             status = gemini_error_status(e)
             if status == 400 or is_token_limit_error(e):
@@ -1560,6 +1629,7 @@ def main() -> int:
         "failed-hallucination": 0,
         "failed-timeout": 0,
         "failed-other": 0,
+        "aborted-spending-cap": 0,
     }
     processed_items: list = []
     state_lock = threading.Lock()
@@ -1614,7 +1684,11 @@ def main() -> int:
         if run_path is not None:
             digest_dates_oneoff.append(pd)
 
-    if processed_items:
+    aborted_count = summary.get("aborted-spending-cap", 0)
+    if processed_items or aborted_count > 0:
+        # Route through the digest payload (instead of no_new_videos) so an
+        # aborted run with zero completed items still surfaces the cap
+        # banner in Slack instead of falsely reading "no new videos today."
         one_off_count = sum(1 for it in processed_items if it.get("is_one_off"))
         _queue_slack_payload({
             "kind": "digest",
@@ -1624,6 +1698,7 @@ def main() -> int:
             "digest_dates": digest_dates_rotation,
             "oneoff_digest_dates": digest_dates_oneoff,
             "one_off_count": one_off_count,
+            "aborted_count": aborted_count,
         })
     else:
         _queue_slack_payload({"kind": "no_new_videos", "date_str": today})

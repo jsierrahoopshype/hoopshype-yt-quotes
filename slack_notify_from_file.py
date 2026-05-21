@@ -54,6 +54,7 @@ def main() -> int:
             oneoff_digest_dates=payload.get("oneoff_digest_dates") or [],
             one_off_count=int(payload.get("one_off_count") or 0),
             run_slot=payload.get("run_slot"),
+            aborted_count=int(payload.get("aborted_count") or 0),
         )
         return 0
     print(f"unknown slack payload kind: {kind!r}", file=sys.stderr)

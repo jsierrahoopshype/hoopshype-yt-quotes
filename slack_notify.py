@@ -78,6 +78,7 @@ def post_digest(
     oneoff_digest_dates=None,
     one_off_count: int = 0,
     run_slot: str | None = None,
+    aborted_count: int = 0,
 ) -> bool:
     """Post a digest to Slack.
 
@@ -101,8 +102,13 @@ def post_digest(
     one_off_count is the number of items in this digest that came from the
     workflow_dispatch EXTRA_VIDEOS input. When > 0, the summary line breaks
     down the count.
+
+    aborted_count is the number of videos skipped after a spending-cap
+    abort. When > 0, the message gets a "ABORTED" banner at the top so
+    readers can tell the run was cut short. Items that DID complete
+    before the cap still render normally below the banner.
     """
-    if not items:
+    if not items and aborted_count == 0:
         return post_no_new_videos(date_str)
 
     if digest_dates is None:
@@ -126,10 +132,15 @@ def post_digest(
         )
     else:
         summary_line = f"Processed {n} video{plural}."
-    lines = [
-        f"*HoopsHype YT Quotes — {date_str}*",
-        summary_line,
-    ]
+    lines = [f"*HoopsHype YT Quotes — {date_str}*"]
+    if aborted_count > 0:
+        aborted_plural = "s" if aborted_count != 1 else ""
+        lines.append(
+            f":warning: ABORTED: Gemini spending cap hit; "
+            f"{aborted_count} video{aborted_plural} in queue were not processed. "
+            "Re-run this slot after the cap is raised."
+        )
+    lines.append(summary_line)
     digest_filename = f"digest-{run_slot}.md" if run_slot else "digest.md"
     if oneoff_digest_dates:
         # Mixed run: label both sections so readers can tell editorial
