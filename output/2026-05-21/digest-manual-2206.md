@@ -1,68 +1,98 @@
 # HoopsHype YT Quotes — 2026-05-21
 
-## Wemby & SGA's WCF Game 2 postgame press conferences 🎤 Thunder prevail over Spurs | SC with SVP — *NBA on ESPN*
+## Did Masai Ujiri Just Make a HUGE Mistake Firing Jason Kidd?? — *Road Trippin*
 
-Source: https://www.youtube.com/watch?v=3RMt9bRQ8fw
+Source: https://www.youtube.com/watch?v=vie8zbHHt-s
 
-_Speakers identified: Scott Van Pelt, Victor Wembanyama, Brian Windhorst, Shai Gilgeous-Alexander_
+_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye_
 
-**1. Brian Windhorst — Mark Daigneault's big-on-big adjustment against Victor Wembanyama — "Excellent adjustment by Daigneault, excellent game, arguably one of the best games Hartenstein's played in the Thunder uniform."** [2:51](https://www.youtube.com/watch?v=3RMt9bRQ8fw&t=171s)
+**1. Richard Jefferson — "He's a very accomplished coach. But when a new GM comes, the franchise is changing." — Jason Kidd's coaching success and team's rebuild direction** [00:11](https://www.youtube.com/watch?v=vie8zbHHt-s&t=11s)
 
-"Yeah, so the move to put **Isaiah Hartenstein**. I mean, **Isaiah Hartenstein** only played 12 minutes in the first game. And there was a case to be made that he might not play almost at all because it was hard to play the two bigs. They used mostly wings on him in the first game. And I spent the last 36 hours making the case that that wasn't a bad strategy. Well, **Mark Daigneault** knows a little bit more than me. And so he went to playing straight bigs on him and the difference was profound. **Isaiah Hartenstein** was in a full-out wrestling match with **Victor** the entire night. And so in Game 1, **Victor** gets 10 baskets in the paint and 13 free throws. Tonight, three baskets in the paint, two free throws. That's a massive difference. That's the effect of big on big, the effect of the malleability of the Thunder roster. And yeah, the guard play is going to be big, but if they can cut down **Victor**'s just sheer ability to dominate in the paint, it balances the game out. Excellent adjustment by Daigneault, excellent game, arguably one of the best games Hartenstein's played in the Thunder uniform."
+"I don't have any information. I would say this is that, if we take personal sides out of it and just knowing, I think, they've had success, they've been to the finals. He's a very accomplished coach. But when a new GM comes, you have a rookie that's the Rookie of the Year, that's 19 years old, the franchise is changing in a direction of a three to five-year rebuild. And so, when you have a coach like **Jason Kidd** who is trying to become a championship-level coach and I think has proven that he has the ability given the right team and the right situation, I think it makes sense when GMs come in and they want to start over."
 
-**2. Brian Windhorst — Alex Caruso's invaluable impact on the Thunder's playoff run — "Caruso is worth his weight in platinum right now."** [5:19](https://www.youtube.com/watch?v=3RMt9bRQ8fw&t=319s)
+**2. Richard Jefferson — "J-Kidd is a guy that would have a lot of different interests. The Knicks inquired." — Jason Kidd's mutual parting and strong market interest** [00:11](https://www.youtube.com/watch?v=vie8zbHHt-s&t=11s)
 
-"17 points, plus 18, Scott. Plus 18 for **Alex Caruso**. Sometimes plus-minus can be misleading. When you watch how he affects the game with so much intelligence. This guy's going to be a great head coach someday because he does so many smart things. He is able to impact a game in so many different ways. But in these first two games, his shooting. Look, if he didn't make any shots, he would be incredibly valuable because of what he does defensively. With the guards' injuries piling up now, and with how much the Thunder need to be smart against **Victor Wembanyama**, it's mental warfare as much as it is physical. Caruso is worth his weight in platinum right now."
+"I think it's a mutually parting ways. It's mutually parting, if that's what's being reported. So that basically means it's like, hey, we're going to be losing for the next few years and doing this. And **J-Kidd** is a guy that would have a lot of different interests. The **Knicks** inquired about **Jason Kidd**. They inquired about **Jason Kidd** last year before hiring **Mike Brown**. Obviously, **Dallas** didn't let them talk to **J-Kidd**, but I think there would be tons of interest in the market for him, and rightfully so. So, I look at that as like, hey, we're going to go a different direction. And then you got a new GM that's probably going to want his guy. So, **J-Kidd**'s a great coach, but it's like, hey, we want to start new, we want to do this, and this is how we want to go about it."
 
-**3. Shai Gilgeous-Alexander — Shai Gilgeous-Alexander on adapting to Spurs' unique defense — "We just got a little bit more comfortable with their type of defense. Obviously, it's very unique."** [7:35](https://www.youtube.com/watch?v=3RMt9bRQ8fw&t=455s)
+**3. Channing Frye — "There's a lot of teams that took younger coaches, said, hey, we need to relate to these young guys." — Masai Ujiri's preference for young, developing coaches and team building.** [02:14](https://www.youtube.com/watch?v=vie8zbHHt-s&t=134s)
 
-"Honestly speaking, I think we just did a better job of attacking them. In the first game, I still feel like we got really good looks, they just didn't go down. But yeah, we I guess just got a little bit more comfortable with their type of defense. Obviously, it's very unique and different from literally every other defense in the league, so it takes some getting used to. But we're still going to have to keep getting better throughout this series if we want a chance to win the series. They're a really good team, really good defensive team, really good. They check all the boxes. So we're going to have to continue to get better. Tonight wasn't good enough to win the series and we know that. So we'll take the W, but we got to keep getting better."
+"**Jason Kidd** is a very, very good coach. I think if I'm **Masai**, like **Rich** said, I got to have my own player. I got to bring in my team. I got to bring in my type of guys. As we've seen in Toronto, **Masai**'s guys don't necessarily look like **Jason Kidd**'s guys. Also, I'd say, why would I not start with a younger coach who's going to develop? Look at what Boston did with their coach, starting with a younger coach and say, hey, we're going to develop here. Utah starting to build something, Charlotte starting to build something, OKC starting to build something. There's a lot of teams that took younger coaches, said, hey, we need to relate to these young guys, we want to develop, build for the future."
 
-**4. Brian Windhorst — Shai Gilgeous-Alexander's return to MVP form in Game 2 — "Great A MVP performance tonight combined with the defense on Wembanyama. This is why the series is 1-1."** [4:10](https://www.youtube.com/watch?v=3RMt9bRQ8fw&t=250s)
+**4. Channing Frye — "Dallas has a lot of stuff they need to figure out. What's happening with their team?" — Jason Kidd's winning ambition and Dallas Mavericks' current team dilemma.** [02:14](https://www.youtube.com/watch?v=vie8zbHHt-s&t=134s)
 
-"Yeah, this is the best game he's had in several weeks. I mean, the Lakers really sold out trying to stop him. There was definitely the Spurs game plan in Game 1. And especially when **Jalen Williams** went out, they just needed him to be himself and that was what we got tonight. 50% shooting game. Over the last five games, Scott, he'd been in the low 40s. This is a guy who shot 55% in the regular season. Got back to the line, got back to his mid-range, was able to shake free of those double teams, hunted getting to his spots, back to that 30-point number. Great A MVP performance tonight combined with the defense on **Wembanyama**. This is why the series is 1-1."
+"Are you that guy? Are you going to want to do a little bit more old school like a **Mike Brown**, like a **Steve Kerr**, like a **J.J. Redick**? And so he probably was like, yeah, I'd like an opportunity to try to win and try to compete. And if you don't want to do that, that's not in the two, three-year game plan, then I could go somewhere else and make an impact. So, I think that's what happened. And I think **Dallas** has a lot of stuff they need to figure out. What's happening with their team? They are in that weird in-between space of trying to win and trying to figure out what's best for **Cooper Flagg**."
 
-**5. Victor Wembanyama — Victor Wembanyama on frustration and needing more effort — "I would say it's spending so much energy on catching back up to the score and then let it go away."** [2:01](https://www.youtube.com/watch?v=3RMt9bRQ8fw&t=121s)
+**5. Richard Jefferson — "Masai is the guy that built the Denver Western Conference Championship team. Masai is the guy that built the Toronto Championship team." — Masai Ujiri is a top-tier GM who built championship teams** [03:55](https://www.youtube.com/watch?v=vie8zbHHt-s&t=235s)
 
-**Reporter:** "Victor, what would you say is the most frustrating thing about tonight's loss?"
+**Allie Clifton:** "Speaking of the coaching world, other news that's..."
 
-**Victor Wembanyama:** "I would say it's spending so much energy on catching back up to the score and then let it go away."
+**Richard Jefferson:** "Yeah. I was going to say, this guy goes, who is this **Masai** guy that's firing Hall of Famers? **Masai** is the guy that built the Denver Western Conference Championship team. **Masai** is the guy that built the Toronto Championship team, and then **Kawhi** ultimately left that kind of sent him in a tough spot. But yeah, he built the Toronto Championship team and then the Denver Eastern Conference or Western Conference finals with all of those guys. So, **Masai** in this industry, he drafted **OG Anunoby**, **Pascal Siakam**, he's kind of that guy. He's one of them guys in this industry. Top five in the last probably in the last 15 years, he's a top five guy out there. He's up there with **Presti** and **Bob Myers** and those guys."
 
-**Reporter:** "When you say it's straight effort, is it that simple or are there some tactical, strategic kind of adjustments you can make?"
+**Allie Clifton:** "Great perspective there, Rich."
 
-**Victor Wembanyama:** "When I mean it's straight effort is the tactics we all know it by heart, but we have to it doesn't mean it's easy and we have to work through it."
+**6. Channing Frye — "You don't have the caliber of Kyrie if he's healthy. He gives you a very good chance of being a great team with his skillset." — Kyrie Irving won't stay in Dallas for a rebuild** [04:53](https://www.youtube.com/watch?v=vie8zbHHt-s&t=293s)
+
+**Allie Clifton:** "Airbunny's 23, trade **Kyrie** to **Minnesota**. Let's multitask here as we finish out the show and take some questions around this breaking news because we're also going to go into the **Jamal Mosley** with the **New Orleans Pelicans**. What about **Kyrie** in **Minnesota**? Because I did see someone up there, if **Kyrie** was a **Jason Kidd** guy or enjoyed obviously playing under and for **J-Kidd**, that relationship there, do you see **Kyrie** staying in **Dallas**?"
+
+**Channing Frye:** "No."
+
+**Allie Clifton:** "No?"
+
+**Channing Frye:** "Unless something is, you don't have the caliber of **Kyrie** if he's healthy. He gives you a very good chance of being a great team with his skillset. He's not going to just sit and say, yeah, I'm just going to wallow away here as **Cooper Flag** and be just a vet. He's not **Kyle Lowry**, at the end of his career, to be that vet. He still, I think he still has a year or two as one of the man, the man on his team, right? There are a lot of opportunities for **Kyrie** to go somewhere and just be like, yep, we needed a two guard that can..."
+
+**7. Channing Frye — "This ain't the trade machine, bro. We talk basketball. We talk real basketball. We not doing the trade." — Channing Frye dismisses hypothetical Kyrie Irving trade scenarios** [06:04](https://www.youtube.com/watch?v=vie8zbHHt-s&t=364s)
+
+**Allie Clifton:** "**Kyrie** to **Detroit** from It's Buckets NBA, you heard it here first."
+
+**Channing Frye:** "For who?"
+
+**Allie Clifton:** "**Kyrie** to **Detroit**."
+
+**Channing Frye:** "For who? 16 penguins, motherfucker? Like what are we doing? Throwing names out. This ain't the trade machine, bro. We talk basketball. We talk real basketball. We not doing the trade. We're not doing the trade machine. Now around the trade deadline in their scenarios, we will talk about that. But we not or or..."
+
+**Allie Clifton:** "It's simply just because of their head coach being..."
 
 ---
 
-## 'COME ON MAN!' - Iman Shumpert’s shocked how Kenny Atkinson defended James Harden’s defense | Get Up — *NBA on ESPN*
+## Jalen & Josh React to Viral Moments of the Week — *Roommates Show*
 
-Source: https://www.youtube.com/watch?v=ExxYwhiGiOk
+Source: https://www.youtube.com/watch?v=T-ouVU568U0
 
-_Speakers identified: Monica McNutt, Brian Windhorst, Kendrick Perkins, Iman Shumpert, Jay Williams_
+_Speakers identified: Matt Hillman, Josh Hart, Jalen Brunson_
 
-**1. Kenny Atkinson — "Without you, we're knocked out in the first round." — Kenny Atkinson defending James Harden's performance** [00:30](https://www.youtube.com/watch?v=ExxYwhiGiOk&t=30s)
+**1. Matt Hillman — "Game is still going on. Can't pull a Josh." — Josh Hart explains why he didn't bring his daughter courtside.** [00:45](https://www.youtube.com/watch?v=T-ouVU568U0&t=45s)
 
-"Without you, we're knocked out in the first round. That's first. My my personal opinion. So, let's just let's just stop that. We're in a great position. You've you've played great. And, you know, sometimes micro experiences get exaggerated. So, keep being yourself."
+**Matt Hillman:** "You were looking back at her but also trying not to look too unfocused and also look at the game. Were you like, damn, let me not, I don't want to say let me not be like Josh, but when Josh was, you were like, let me not."
 
-**2. Iman Shumpert — "But in the playoffs, when we see you, oh, you limping? Oh yeah, all bets off." — Iman Shumpert on playoff intensity and targeting weak players** [01:09](https://www.youtube.com/watch?v=ExxYwhiGiOk&t=69s)
+**Josh Hart:** "Let me just stay focused and let me just look at her real quick and then back. Still stay focused, yeah."
 
-"First off, when I got drafted to New York, **KA** was my guard coach coming in under **D'Antoni**. So, **KA** always had this way to him that you're like, he's a player. He answered that like a player, like, that's my teammate and you all are going to back off. But **KA**, come on man. It just there's certain moments in the playoffs that it's like, oh yeah, it can be minuscule if we're talking about the regular season. But in the playoffs, when we see you, oh, you limping? Oh yeah, all bets off, we're going to run this every time. He can't move. Take him out. Take him out. But that's what the playoffs is designed to do."
+**Matt Hillman:** "So you didn't want to bring her onto your lap?"
 
-**3. Kendrick Perkins — "He's got to sell James on this. He's got to make James you were talking about teammate." — Kendrick Perkins on Kenny Atkinson's strategic defense of James Harden** [02:08](https://www.youtube.com/watch?v=ExxYwhiGiOk&t=128s)
+**Josh Hart:** "No, no, no. Game is still going on. Can't pull a Josh. I can't tell Josh what to do and then do it."
 
-"Remember, he started off with without you. He wasn't talking to us. He's talking to **James**. He's got to sell **James** on this. He's got to make **James** you were talking about teammate. He took on that role. That's good coaching. He he he owed him a lot after the other night, which wasn't."
+**Matt Hillman:** "Fair enough. Right, Josh?"
 
-**4. Brian Windhorst — "Offensively, we died out there. And all the highlights are of Brunson as they should be." — Brian Windhorst on Cavs' offensive struggles and protecting James Harden** [02:32](https://www.youtube.com/watch?v=ExxYwhiGiOk&t=152s)
+**2. Josh Hart — "Knicks beat Sixers, and then they're playing with their kids on the bench." — Jalen Brunson and Josh Hart debate courtside family interactions.** [00:45](https://www.youtube.com/watch?v=T-ouVU568U0&t=45s)
 
-"I would say the best way he can help him isn't just defending him in the media. He could get a game plan tonight to protect him a little bit, how they're going to handle that when **Brunson** attacks him. The one thing **Kenny Atkinson** said that I absolutely did agree with is he said, you guys can talk about the defense all you want. Offensively, we died out there. And all the highlights are of **Brunson** as they should be. **Brunson** was awesome. But the reason that the **Knicks** were catching up was because the **Cavs** stopped scoring on the other end."
+**Jalen Brunson:** "At that point we were probably up 35 with four minutes left. I'm like, hey brother, grab me if you want a kid."
 
-**5. Kendrick Perkins — "Donovan Mitchell has to go at Jalen Brunson. That dynamic has to change." — Kendrick Perkins on Donovan Mitchell's passivity in Game 1** [05:02](https://www.youtube.com/watch?v=ExxYwhiGiOk&t=302s)
+**Josh Hart:** "Yeah, but I'm just saying, what type of person am I to tell your Josh, probably shouldn't do that, and then go ahead and do that."
 
-"I'm talking about something that **Shump** just said about about **Brunson**. **Brunson** has been the victim of targeting as well, okay? But you can't have **Donovan Mitchell** walking up the right side of the court to the point where we all started asking each other, is he injured? Is he hurt? He is so inactive after a 29-point performance and but last scored with eight and a half minutes left. So no, no, no. **Donovan Mitchell** has to go at **Jalen Brunson**. That dynamic has to change."
+**Jalen Brunson:** "I think it depends on the situations."
 
-**6. Brian Windhorst — "They need him to stay on the court to help share the load because Donovan Mitchell does wear down." — Brian Windhorst on James Harden's importance for offensive load sharing** [05:30](https://www.youtube.com/watch?v=ExxYwhiGiOk&t=330s)
+**Josh Hart:** "Yeah, but I didn't."
 
-"That's one of the reasons why **Harden** is so important. People say take him off the court. They need him to stay on the court to help share the load because **Donovan Mitchell** does wear down. This has happened repeatedly in his career. He does wear down in fourth quarters. **Harden** is a floor raiser for them. They need **Harden** out there to carry the load offensively to ease it on Donovan."
+**Jalen Brunson:** "Now it's like, Josh, we're up 13 with two minutes left. And then you go, little touch and go. You know what I mean?"
+
+**Josh Hart:** "But then if I do that, if I do that, then the memes come out, oh, **Knicks** beat **Sixers**, and then they're playing with their kids on the bench. I don't even want that. Because there's going to be someone to do something like that."
+
+**Matt Hillman:** "Outside noise."
+
+**Josh Hart:** "Yeah, you're right. I just don't even give them an opportunity. That's my thing."
+
+**3. Jalen Brunson — "JR, that's your fault. You were wrong because you knew what they were about to do when you got out there." — Jalen Brunson blames JR Smith for being in the crowd** [03:32](https://www.youtube.com/watch?v=T-ouVU568U0&t=212s)
+
+"No, **JR Smith**, I'll say this, he had no business being in that street. He played in New York. He knows how New York fans are. And then he went out there knowing it was about to get rowdy and then he got mad at them. So that was his fault. I said it wholeheartedly. **JR**, that's your fault. You were wrong because you knew what they were about to do when you got out there. But that being said, it'll be lit to go out there because now you already know what it's going to be. Now it's like, you go out there, you just got to rage with them. So, that'd be good vibes."
 
 ---
 
@@ -241,102 +271,6 @@ _Speakers identified: Kendrick Perkins, Channing Frye, Richard Jefferson, Allie 
 **Channing Frye:** "Put the money in the bag."
 
 **Kendrick Perkins:** "I've never seen a person get more verbal agreements before they have to go out there and actually produce and get the job done than **James Harden**. A verbal agreement. So when people start to ask **Kenny Atkinson**, hey, can you bench **James**? I can't. We got to see a lot of it go over a lot of people's head because don't act like we all don't know that a lot of it come from the top. A coach only got so much that he can really, a lot of it come from the top. Hey, he better be on the floor."
-
----
-
-## Jalen & Josh React to Viral Moments of the Week — *Roommates Show*
-
-Source: https://www.youtube.com/watch?v=T-ouVU568U0
-
-_Speakers identified: Matt Hillman, Josh Hart, Jalen Brunson_
-
-**1. Matt Hillman — "Game is still going on. Can't pull a Josh." — Josh Hart explains why he didn't bring his daughter courtside.** [00:45](https://www.youtube.com/watch?v=T-ouVU568U0&t=45s)
-
-**Matt Hillman:** "You were looking back at her but also trying not to look too unfocused and also look at the game. Were you like, damn, let me not, I don't want to say let me not be like Josh, but when Josh was, you were like, let me not."
-
-**Josh Hart:** "Let me just stay focused and let me just look at her real quick and then back. Still stay focused, yeah."
-
-**Matt Hillman:** "So you didn't want to bring her onto your lap?"
-
-**Josh Hart:** "No, no, no. Game is still going on. Can't pull a Josh. I can't tell Josh what to do and then do it."
-
-**Matt Hillman:** "Fair enough. Right, Josh?"
-
-**2. Josh Hart — "Knicks beat Sixers, and then they're playing with their kids on the bench." — Jalen Brunson and Josh Hart debate courtside family interactions.** [00:45](https://www.youtube.com/watch?v=T-ouVU568U0&t=45s)
-
-**Jalen Brunson:** "At that point we were probably up 35 with four minutes left. I'm like, hey brother, grab me if you want a kid."
-
-**Josh Hart:** "Yeah, but I'm just saying, what type of person am I to tell your Josh, probably shouldn't do that, and then go ahead and do that."
-
-**Jalen Brunson:** "I think it depends on the situations."
-
-**Josh Hart:** "Yeah, but I didn't."
-
-**Jalen Brunson:** "Now it's like, Josh, we're up 13 with two minutes left. And then you go, little touch and go. You know what I mean?"
-
-**Josh Hart:** "But then if I do that, if I do that, then the memes come out, oh, **Knicks** beat **Sixers**, and then they're playing with their kids on the bench. I don't even want that. Because there's going to be someone to do something like that."
-
-**Matt Hillman:** "Outside noise."
-
-**Josh Hart:** "Yeah, you're right. I just don't even give them an opportunity. That's my thing."
-
-**3. Jalen Brunson — "JR, that's your fault. You were wrong because you knew what they were about to do when you got out there." — Jalen Brunson blames JR Smith for being in the crowd** [03:32](https://www.youtube.com/watch?v=T-ouVU568U0&t=212s)
-
-"No, **JR Smith**, I'll say this, he had no business being in that street. He played in New York. He knows how New York fans are. And then he went out there knowing it was about to get rowdy and then he got mad at them. So that was his fault. I said it wholeheartedly. **JR**, that's your fault. You were wrong because you knew what they were about to do when you got out there. But that being said, it'll be lit to go out there because now you already know what it's going to be. Now it's like, you go out there, you just got to rage with them. So, that'd be good vibes."
-
----
-
-## Did Masai Ujiri Just Make a HUGE Mistake Firing Jason Kidd?? — *Road Trippin*
-
-Source: https://www.youtube.com/watch?v=vie8zbHHt-s
-
-_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye_
-
-**1. Richard Jefferson — "He's a very accomplished coach. But when a new GM comes, the franchise is changing." — Jason Kidd's coaching success and team's rebuild direction** [00:11](https://www.youtube.com/watch?v=vie8zbHHt-s&t=11s)
-
-"I don't have any information. I would say this is that, if we take personal sides out of it and just knowing, I think, they've had success, they've been to the finals. He's a very accomplished coach. But when a new GM comes, you have a rookie that's the Rookie of the Year, that's 19 years old, the franchise is changing in a direction of a three to five-year rebuild. And so, when you have a coach like **Jason Kidd** who is trying to become a championship-level coach and I think has proven that he has the ability given the right team and the right situation, I think it makes sense when GMs come in and they want to start over."
-
-**2. Richard Jefferson — "J-Kidd is a guy that would have a lot of different interests. The Knicks inquired." — Jason Kidd's mutual parting and strong market interest** [00:11](https://www.youtube.com/watch?v=vie8zbHHt-s&t=11s)
-
-"I think it's a mutually parting ways. It's mutually parting, if that's what's being reported. So that basically means it's like, hey, we're going to be losing for the next few years and doing this. And **J-Kidd** is a guy that would have a lot of different interests. The **Knicks** inquired about **Jason Kidd**. They inquired about **Jason Kidd** last year before hiring **Mike Brown**. Obviously, **Dallas** didn't let them talk to **J-Kidd**, but I think there would be tons of interest in the market for him, and rightfully so. So, I look at that as like, hey, we're going to go a different direction. And then you got a new GM that's probably going to want his guy. So, **J-Kidd**'s a great coach, but it's like, hey, we want to start new, we want to do this, and this is how we want to go about it."
-
-**3. Channing Frye — "There's a lot of teams that took younger coaches, said, hey, we need to relate to these young guys." — Masai Ujiri's preference for young, developing coaches and team building.** [02:14](https://www.youtube.com/watch?v=vie8zbHHt-s&t=134s)
-
-"**Jason Kidd** is a very, very good coach. I think if I'm **Masai**, like **Rich** said, I got to have my own player. I got to bring in my team. I got to bring in my type of guys. As we've seen in Toronto, **Masai**'s guys don't necessarily look like **Jason Kidd**'s guys. Also, I'd say, why would I not start with a younger coach who's going to develop? Look at what Boston did with their coach, starting with a younger coach and say, hey, we're going to develop here. Utah starting to build something, Charlotte starting to build something, OKC starting to build something. There's a lot of teams that took younger coaches, said, hey, we need to relate to these young guys, we want to develop, build for the future."
-
-**4. Channing Frye — "Dallas has a lot of stuff they need to figure out. What's happening with their team?" — Jason Kidd's winning ambition and Dallas Mavericks' current team dilemma.** [02:14](https://www.youtube.com/watch?v=vie8zbHHt-s&t=134s)
-
-"Are you that guy? Are you going to want to do a little bit more old school like a **Mike Brown**, like a **Steve Kerr**, like a **J.J. Redick**? And so he probably was like, yeah, I'd like an opportunity to try to win and try to compete. And if you don't want to do that, that's not in the two, three-year game plan, then I could go somewhere else and make an impact. So, I think that's what happened. And I think **Dallas** has a lot of stuff they need to figure out. What's happening with their team? They are in that weird in-between space of trying to win and trying to figure out what's best for **Cooper Flagg**."
-
-**5. Richard Jefferson — "Masai is the guy that built the Denver Western Conference Championship team. Masai is the guy that built the Toronto Championship team." — Masai Ujiri is a top-tier GM who built championship teams** [03:55](https://www.youtube.com/watch?v=vie8zbHHt-s&t=235s)
-
-**Allie Clifton:** "Speaking of the coaching world, other news that's..."
-
-**Richard Jefferson:** "Yeah. I was going to say, this guy goes, who is this **Masai** guy that's firing Hall of Famers? **Masai** is the guy that built the Denver Western Conference Championship team. **Masai** is the guy that built the Toronto Championship team, and then **Kawhi** ultimately left that kind of sent him in a tough spot. But yeah, he built the Toronto Championship team and then the Denver Eastern Conference or Western Conference finals with all of those guys. So, **Masai** in this industry, he drafted **OG Anunoby**, **Pascal Siakam**, he's kind of that guy. He's one of them guys in this industry. Top five in the last probably in the last 15 years, he's a top five guy out there. He's up there with **Presti** and **Bob Myers** and those guys."
-
-**Allie Clifton:** "Great perspective there, Rich."
-
-**6. Channing Frye — "You don't have the caliber of Kyrie if he's healthy. He gives you a very good chance of being a great team with his skillset." — Kyrie Irving won't stay in Dallas for a rebuild** [04:53](https://www.youtube.com/watch?v=vie8zbHHt-s&t=293s)
-
-**Allie Clifton:** "Airbunny's 23, trade **Kyrie** to **Minnesota**. Let's multitask here as we finish out the show and take some questions around this breaking news because we're also going to go into the **Jamal Mosley** with the **New Orleans Pelicans**. What about **Kyrie** in **Minnesota**? Because I did see someone up there, if **Kyrie** was a **Jason Kidd** guy or enjoyed obviously playing under and for **J-Kidd**, that relationship there, do you see **Kyrie** staying in **Dallas**?"
-
-**Channing Frye:** "No."
-
-**Allie Clifton:** "No?"
-
-**Channing Frye:** "Unless something is, you don't have the caliber of **Kyrie** if he's healthy. He gives you a very good chance of being a great team with his skillset. He's not going to just sit and say, yeah, I'm just going to wallow away here as **Cooper Flag** and be just a vet. He's not **Kyle Lowry**, at the end of his career, to be that vet. He still, I think he still has a year or two as one of the man, the man on his team, right? There are a lot of opportunities for **Kyrie** to go somewhere and just be like, yep, we needed a two guard that can..."
-
-**7. Channing Frye — "This ain't the trade machine, bro. We talk basketball. We talk real basketball. We not doing the trade." — Channing Frye dismisses hypothetical Kyrie Irving trade scenarios** [06:04](https://www.youtube.com/watch?v=vie8zbHHt-s&t=364s)
-
-**Allie Clifton:** "**Kyrie** to **Detroit** from It's Buckets NBA, you heard it here first."
-
-**Channing Frye:** "For who?"
-
-**Allie Clifton:** "**Kyrie** to **Detroit**."
-
-**Channing Frye:** "For who? 16 penguins, motherfucker? Like what are we doing? Throwing names out. This ain't the trade machine, bro. We talk basketball. We talk real basketball. We not doing the trade. We're not doing the trade machine. Now around the trade deadline in their scenarios, we will talk about that. But we not or or..."
-
-**Allie Clifton:** "It's simply just because of their head coach being..."
 
 ---
 
