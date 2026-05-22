@@ -1,0 +1,13 @@
+# Josh Hart scores playoff CAREER-HIGH 26 PTS as Knicks take 2-0 series lead in ECF 🚨 | NBA on ESPN — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=ydrPtxAhooM
+
+_Speakers identified: Wally Szczerbiak, Mike Breen, Lisa Salters_
+
+**1. Wally Szczerbiak — "great defense leads to easy offense opportunities and the Cavs just don't get back on the raise of the shot." — Cavs' poor transition defense leads to easy Knicks offense** [00:54](https://www.youtube.com/watch?v=ydrPtxAhooM&t=54s)
+
+"Well, and if you're the **Cavs**, the formula stays the same as it was in those first three quarters as **Jalen Brunson** continues his hot streak and then we have a steal. Well, in this league and we all know this. Offense are great defense leads to easy offense opportunities and the **Cavs** just don't get back on the raise of the shot."
+
+**2. Mike Breen — "Heroics from Josh Hart, a career game, and they take a 2-0 lead in this best of seven series." — Knicks extend playoff win streak with Josh Hart's career game** [06:39](https://www.youtube.com/watch?v=ydrPtxAhooM&t=399s)
+
+"They've got two tough games coming up on the road in **Cleveland**. **Cavs** will let it end. Nine consecutive playoff wins for the **Knicks** as they add to their franchise record of consecutive playoff wins. Heroics from **Josh Hart**, a career game, and they take a 2-0 lead in this best of seven series."
