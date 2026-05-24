@@ -1,0 +1,190 @@
+{
+  "video_title": "The BAHA CRASHED OUT on Jalen Duren not being WORTH the 240 MILLION DOLLAR max contract",
+  "speakers_seen": [
+    "Theo Pinson",
+    "Raymond Felton",
+    "Charlie Villanueva"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Theo Pinson",
+      "timestamp": "00:06",
+      "summary_phrase": "Detroit Pistons messed up by drafting non-shooters",
+      "names_mentioned": [
+        "Ron Holland",
+        "Ausar Thompson"
+      ],
+      "excerpt": "I think the Detroit Pistons have messed up in the aspect. They knew they had a problem.",
+      "quote": "I think the Detroit Pistons have messed up in the aspect. They knew they had a problem. You got guys, Ron Holland and Ausar Thompson who can't shoot at all."
+    },
+    {
+      "rank": 2,
+      "speaker": "Theo Pinson",
+      "timestamp": "00:37",
+      "summary_phrase": "Pistons need another star player, not just backups",
+      "names_mentioned": [
+        "Jengis",
+        "Devin Booker",
+        "Lauri Markkanen",
+        "Zach LaVine"
+      ],
+      "excerpt": "They got to get another guy. They don't have another guy.",
+      "quote": "They got to get another guy. They don't have another guy. Jengis is a very good backup, but he is a backup point guard. The fact that you had to use Jengis as your second guy. No, for sure, but the fact that you had to put him in that state in that moment that that that's tough. They need to go get another guy. Devin Booker, Lauri Markkanen, like they need a guy. Even Zach LaVine is better than what they had."
+    },
+    {
+      "rank": 3,
+      "speaker": "Raymond Felton",
+      "speakers": [
+        "Raymond Felton",
+        "Theo Pinson",
+        "Charlie Villanueva"
+      ],
+      "timestamp": "02:46",
+      "summary_phrase": "Jalen Duren deserves a max contract despite playoff struggles",
+      "names_mentioned": [
+        "Jalen Duren",
+        "DeAndre Ayton",
+        "Wendell Carter",
+        "Jared Allen",
+        "Austin Reaves",
+        "James Harden"
+      ],
+      "excerpt": "He is 22 years old. All-Star, double-double kind of guy.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Raymond Felton",
+          "text": "But why not? He is 22 years old."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "Not getting the max, bro. I'm the GM and you see it. When you mean double-double?"
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "I mean, he struggled in the playoffs."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "Bro, that's a big ass dip. That's a huge dip. From going to 20 and 10, then going from 10 to 10 and 9, 10 and 8."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "Here's the thing too, it's like when you look at guys like that, guys like and obviously Gobert is a different type of player, but they're defensive-minded, they lack offensive touch and skill. It's hard to teach those things, it's hard to get better at those things. It's hard to teach a guy to catch the ball. He struggles catching the ball, he struggles with touch around the basket. So I'm not saying he can't work on it because obviously he's 22 and he's young, but it's just one of those things where it's like what is his ceiling? How much can he improve offensively to be a threat? And I just don't know how much he can."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "You know what's crazy? DeAndre Ayton played better than him."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "Don't say that."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "Look at the numbers. DeAndre Ayton played better than Jalen Duren."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "He did in the playoffs. And that's not saying much."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "DeAndre Ayton even gave you a 19 and I think he had a 19 and something game."
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "It was a little inconsistent, Theo, because if you go through the numbers, it's like 6 and 5, then 2 and 6, but then there was 19 and 10."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "2 and 6?"
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "Yeah. Then there's 18 and 17, then there's 7 and 16, there's 10 and 12."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "Jalen Duren didn't give you one good game."
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "No, he gave you one good game."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "What, what? Okay, he gave us one."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "He gave you 15 and 15 and 12."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "We just named two games that he had better than him."
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "I think the performance is similar to be honest. Well, here, here are the two Jalen Duren performances that stick out: 15 and 15, and 15 and 11. And then he had 11 and 12, 8 and 10."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "What series is that?"
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "It's both. I put all their playoff performances. So, you know, they both showed glimpses, but I mean, for a max, I'm not giving him that."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "I mean, man, Duren is a fucking."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "So the fact that we're even saying it's close."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "That's not good. And we have to go there and be like, all right, we can give you five years, 240."
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "Is this his first time in the playoffs?"
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "Second. Second. Second time. Last year he performed a standard because he pretty much hit his averages. We looked at that last show. He was like 11 and 10."
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "So now he was more of a focal point. He struggled a little bit."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "And he also he was going up against two big men who defensively can, you know, negate him. The will, where are they going? Are they they are right now as the team they currently have right now?"
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "So we're saying he struggled against Wendell Carter and Jarrett Allen. Where's Wendell Carter and Jarrett Allen going anytime soon?"
+        },
+        {
+          "speaker": "Charlie Villanueva",
+          "text": "Did you mean Evan Mobley and Jared or did you mean Wendell Carter?"
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "No, we're talking about all their bigs. They're bigs. Period. Yeah, I mean it's true. But like I said, he is 22 years old, he can get better. I'm just I'm just curious of what his ceiling is just because of what type of player he is. He's not he's not a mobile, like he's more traditional big. He's more like an old school big."
+        },
+        {
+          "speaker": "Raymond Felton",
+          "text": "He's still going to get the max, guys. Yeah. Like that. I don't understand. He's going to have to give him the max. There's guys that there's guys that's gotten the max and he's better than they are. He's an All-Star. Like that's what it is. I honestly agree with what you're saying. I'm going to bet on that. But he's going to get a. You want to put a bet? That he doesn't? I bet you he does not get the max. What's the max? What's the max? I think he got to get the full max. Which is? He's going to get $200 million. No, he's going to get 240. He might, fam. So, okay, so it's worth approximately 5 years, $240 million."
+        },
+        {
+          "speaker": "Theo Pinson",
+          "text": "Ain't no motherfucking way you giving this man five years, 240. I'll bet you 5 years, 175 or 5 years. Can you afford to lose him? He's getting it. No, you can't. What other big man is there out there? So you're going to tell me another team won't give him the max? I don't think. I think he'll get closer. But he'll get the same amount of money. He's 22 years old. It's going to be the same money. He is 22 years old. Right. If you're the GM, you're giving him the
