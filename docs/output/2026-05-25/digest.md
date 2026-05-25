@@ -1,5 +1,89 @@
 # HoopsHype YT Quotes — 2026-05-25
 
+## Knicks IMPRESSIVE Streak Continues, All-NBA Teams SNUBS + Spurs & OKC tied up: Best Finals EVER?! — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=Jzi4ov5VZ94
+
+_Speakers identified: Paul Pierce, Wosny Lambre, Danny Green, Stephen A. Smith_
+
+**1. Paul Pierce — "This was like for me a must-win. This was a must-win for San Antonio." — San Antonio Spurs needed a must-win game to overcome adversity, led by Victor Wembanyama.** [02:23](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=143s)
+
+"This was like for me a must-win. This was a must-win for **San Antonio**. They needed this because in order to get to the championship or win a championship, I feel like you got to go through some type of adversity and this was it. Being down in the series and if you lose this game, I don't care who **Oklahoma City** throws out there, you're not going to come back from a 3-1 lead. It was big for **Victor Wembanyama** to kind of set the tone early as you saw. He took 17 shots in the first half, his most in the playoffs, his most points in a half in the playoffs and he really set the tone for them."
+
+**2. Paul Pierce — "I'm a little concerned about OKC with the injuries though." — Oklahoma City Thunder's injury issues could be detrimental to their playoff run.** [03:10](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=190s)
+
+"I'm a little concerned about **OKC** with the injuries though. I always say, you got to be healthy at this time of the year. Not having **AJ Mitchell**, not, of course, we know **Jalen Williams** is dealing with his injury issues and if they're not going to be able to come back and be full throttle against the **Spurs**, it could be over."
+
+**3. Wosny Lambre — "The Spurs did do something different than what they did the first three games." — San Antonio Spurs' defensive adjustments on Shai Gilgeous-Alexander caught the Thunder off guard.** [03:30](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=210s)
+
+"It's interesting when we talk about adjustments all the time. I think the **Spurs** did do something different than what they did the first three games. They basically decided they're not going to send a crazy amount of help at **Shai Gilgeous-Alexander** and just allow him to play on a one-on-one. I feel like the **Thunder** weren't really ready for that for whatever reason. I feel like the role players, they had a hard time adjusting to having way less space and time to get their shots off than the first three games because the help was so shaded towards Shai that they had more freedom to operate."
+
+**4. Paul Pierce — "Their point of attack on defense is like at the half-court." — Spurs' aggressive half-court defense on Shai Gilgeous-Alexander led to turnovers and limited OKC's shooters.** [04:46](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=286s)
+
+"Their point of attack on defense is like at the half-court. They're picking him up like way out there so he really got to work. He had two careless turnovers because **Shai Gilgeous-Alexander** was picking him up and just was just keeping their hands on him. That can wear on you all game. You're like you constantly got to throw somebody off you and then while you're doing all this, the dribble goes off your leg. It's like, man, I really took notice to that. Like you said, they didn't help as much so they were getting back to the shooters. They didn't have the space that they needed."
+
+**5. Paul Pierce — "If Shai Gilgeous-Alexander don't get 30, they don't got a chance." — Oklahoma City Thunder's shorthanded roster struggles when Shai Gilgeous-Alexander doesn't score 30 points.** [07:25](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=445s)
+
+"It's tough because tonight, or, you know, we didn't see **Caruso**. **Caruso** struggled. Oh, we're talking about who's their second leading scorer? **Caruso**? Yeah. Struggled. Didn't even get. He couldn't even get to the basket. **Jalen Williams**, the center, struggled. All of those guys that were making key plays in Game 3, like tonight, like I said, it just felt like the shots were a little bit rushed. They were a little bit more uncomfortable by San Antonio. If **Shai Gilgeous-Alexander** don't get 30, they don't got a chance. Especially with no **Jalen Williams** and no **Mitchell**. He really has to assert himself a little bit more."
+
+**6. Paul Pierce — "They got better in the playoffs. To think that Atlanta was their biggest challenge thus far in the first round." — The Knicks have significantly improved in the playoffs, dominating opponents, a testament to Mike Brown's coaching.** [11:24](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=684s)
+
+"When you can't come up with anything to put your finger on in this series, you go to the analytics. They've been thoroughly dominated. It's funny because when I'm looking at the **Knicks**, they got better in the playoffs. To think that **Atlanta** was their biggest challenge thus far in the first round up until now, it just shows how far that they've come. Dominating **Philly**. Was it **Philly**? They dominated **Philly** and now they're dominating **Cleveland**. They've dominated the East and you got to take your hats off to what **Mike Brown** has done. This is what they brought him over here for. They're like, '**Thibs** couldn't get us over the hump.' I said this in the last episode, **Mike Brown**, you're here to get us over the hump. And barring anything catastrophic happen to the world, the **Knicks** are going to be in the Finals."
+
+**7. Wosny Lambre — "They built this thing brick by brick getting Brunson, trading for OG, trading for Bridges, trading for Towns." — Knicks' management, Leon Rose and William Wesley, built a winning team brick by brick, leading to sustained success.** [12:43](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=763s)
+
+"Everybody felt like they had a disappointing regular season, which I generally agree with. There were just moments in the regular season where it just looked like they were all over the place and rudderless. But at the same time, there were moments and we talked about it up here on the show, they rattle off like an 8-9 game winning streak. You're like, 'Oh shit, this is it!' They're playing consistent defense. The ball is moving. They're not playing Thibs ball where it's just **Brunson** pounding the ball three million times a game and just a really stagnant, station-to-station, lack of fluidity type of thing. But it never was consistent throughout the regular season. I do want to give a shout out to **Leon Rose** and **William Wesley** and the **Knicks** management because they built this thing brick by brick getting **Brunson**, trading for **OG Anunoby**, trading for **Mikal Bridges**, trading for **Karl-Anthony Towns**. They put this thing together literally brick by brick and now they're one game away from their first Finals appearance in 27 years. They've shown improvement and this is the most sustained success the **Knicks** have had in 30 years plus."
+
+**8. Paul Pierce — "Karl-Anthony Towns is the one that I feel like unlocked the offense with his playmaking ability." — Karl-Anthony Towns' playmaking ability has unlocked a new dimension in the Knicks' offense during the playoffs.** [15:52](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=952s)
+
+"**Karl-Anthony Towns** is the one that I feel like unlocked the offense with his playmaking ability. Because before you watch **Karl-Anthony Towns**, he put his head down and he just straight to the basket. He only going to get there or run somebody over trying to get there. But for the simple fact now he's keeping his head up, they opened up the offense, he's finding guys and it looks like since the playoffs, this is a whole another dimension of the offense that the **Knicks** are giving that we didn't see in the regular season or even flashes of it."
+
+**9. Wosny Lambre — "The most consistent complaint about the Knicks all year is like how is it possible you guys can't find a way to integrate Karl-Anthony Towns." — The Knicks' consistent offense in the playoffs, with Karl-Anthony Towns at the center, is a stark contrast to their regular season.** [16:21](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=981s)
+
+"The most consistent complaint about the **Knicks** all year is like how is it possible you guys can't find a way to integrate **Karl-Anthony Towns**, their highest paid player, 55 million a year, into this offense. In the postseason, it's been the opposite. He's been at the center of everything they do. Last year, what was happening is whenever **Brunson** would sit and **Karl-Anthony Towns** was out there, he'd become the focal point and he would do his thing and he had a pretty damn good playoffs last year. But this year, he's doing it when **Brunson**'s on the court too and they're working off of each other. Defenses can't key in on one thing on the **Knicks**. They have multiple ways to attack you. They have multiple ways to try to win."
+
+**10. Paul Pierce — "They've been through adversity over the years. They've knocked at the door last year." — The Knicks have shown consistent progression, overcoming adversity, and are now poised for a deep playoff run.** [21:53](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=1313s)
+
+"You like their progression since they brought in **Brunson**. They went, I think, his first year, second round, second round. You got to build. They've built it. Conference Finals last year, now back in the Conference Finals and this is the progression that you see most teams take before they get over the hump. So they've been through adversity over the years. They've knocked at the door last year. Now they're going to walk through that door and you never know when these type of opportunities are going to come, especially for the **Knicks**, having been to the Finals since I was a rookie in the league in '99."
+
+**11. Wosny Lambre — "He heard the criticism like, 'The Knicks can't win because their owner is a meddler.'" — James Dolan's early meddling and response to public criticism** [23:35](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=1415s)
+
+"I'll say this about **James Dolan**. In the beginning of his, when he took over from his dad, which is basically right after the **Sprewell** years, the **Sprewell**, **Allan Houston**, **Charlie Ward**, **Chris Childs**, **Larry Johnson**, **Kurt Thomas**, **Marcus Camby**, those teams. What he was accused of was he was meddling too much. He was coming down and being like, 'No, we need to trade a bunch of draft picks for this old washed up star, a guy with a name.' He was doing this. Even these billionaires, they like to pretend that they live above it, but they're listening to the radio, local radio, they're watching ESPN. They're seeing the criticism. They're reading the New York Post and the Daily News. He heard the criticism like, 'The Knicks can't win because their owner is a meddler.' So he said, 'I'm going to go out and get the best basketball person anybody's ever heard of and put him in charge of my team.'"
+
+**12. Wosny Lambre — "Never mind that he never GM'd before. I understand the logic. But he gave the reins to the wrong person." — James Dolan's misguided Phil Jackson general manager hire** [23:35](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=1415s)
+
+"They went out and got **Phil Jackson**. The problem was they had to beg this guy and the only way he took it, they offered him an ungodly amount of money where it's like, 'I can't say no to this.' To his credit, he was like, 'I'm going to put a basketball, like 11 championships. Who has a better basketball resume than that?' Never mind that he never GM'd before. I understand the logic. But he gave the reins to the wrong person."
+
+**13. Wosny Lambre — "He's gotten out of Leon Rose's way, let them be patient and I'll be damned if this isn't paying dividends." — Leon Rose and Worldwide Wes's successful tenure under Dolan** [23:35](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=1415s)
+
+"Because **Bob Myers**, who was a former agent, had all that success in Golden State, I think **Dolan**'s thinking was, 'I need to get an agent in here to run our thing.' That's where **Leon Rose** and **Worldwide Wes** come in. Just like he got out of **Phil Jackson**'s way, which **Phil Jackson** messed it up with all the freedom he had. But he's gotten out of **Leon Rose**'s way, let them be patient and I'll be damned if this isn't paying dividends. Here we are. So shouts to **James Dolan**. I don't think I've ever said that in my life. Shouts to **James Dolan** for this hire and not having his tendency to have too many cooks in the kitchen. They're just letting the **Leon Rose** guys."
+
+**14. Paul Pierce — "I thought he was in the MVP conversation. And when you're in the MVP conversation, you should be a First Team." — Jaylen Brown has a valid argument for being upset about his All-NBA snub, given his MVP-level performance.** [29:50](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=1790s)
+
+"I would be upset. I thought he was in the MVP conversation. And when you're in the MVP conversation, you should be a First Team. But the guys that made it are also well deserved. I think if I had to take one person off, maybe **Luka Doncic**. I know that's saying a lot because **Luka Doncic** did lead the league in scoring, but he missed a lot of games. He missed some games, but he had more to work with too. Think about it, he had **LeBron** all year. You got **Reeves**, you know, most of the year. **Jalen Brunson**, he did the most with the least out of all these guys that's on the list and maybe **Cade Cunningham**. **Jalen Brunson** didn't have a second All-Star. A lot of these guys did. So I would have probably even removed **Luka Doncic** for **Jalen Brunson**, but I'm not mad that **Luka Doncic** is on there because he did have a spectacular year. But he has an argument, man. I literally had Jalen Brown fourth in the race for MVP. So I don't see why."
+
+**15. Wosny Lambre — "LeBron James didn't qualify, huh? First time in 21 years. Damn. 21 straight All-NBA selections?" — LeBron James did not qualify for All-NBA for the first time in 21 years, marking a significant career milestone.** [31:30](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=1890s)
+
+"**LeBron James** didn't qualify, huh? First time in 21 years. Damn. 21 straight All-NBA selections? Jesus Christ. That's the only, yeah. So and he didn't qualify. So like all these guys, especially the young guys, the Durens, the Johnsons, Chet, Maxey, these guys had breakout years in their careers like literally like the best years they've ever had as younger guys in this league. So I'm happy to see them be rewarded and recognized for the hard work that they've put in and actually putting it on the floor and getting it done."
+
+**16. Paul Pierce — "The physicality goes up. You just watch what they do to Wembanyama every time down court." — Paul Pierce on increased playoff urgency and physicality** [35:54](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=2154s)
+
+"There's a huge difference. For one, you're playing for your season. It's a different type of urgency. The physicality goes up. You watch these games. If you're watching OKC, the physicality is through the roof. You're getting away with a lot more pushing, grabbing. You just watch what they do to **Wembanyama** every time down court."
+
+**17. Paul Pierce — "Mentally, because the playoffs is like evs and flows. It's just a wave of emotions." — Paul Pierce details emotional and logistical playoff challenges** [35:54](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=2154s)
+
+"Mentally, because the playoffs is like evs and flows. One day you're on an emotional high, you lose a game, you're on an emotional low, you don't want to talk to nobody, you can't sleep. It's just a wave of emotions. The look of it, the feeling of it is different because you know so much is at stake. You get to go through the scouting. You see just so much being fed to you with the scouting, with everything. You don't get the chance to sleep in your own bed. You're sleeping in hotels. Your food, your routine is off when you're on the road. It's a lot more different in that aspect."
+
+**18. Paul Pierce — "Once playoffs started, my phone cut off. I don't need no distractions." — Paul Pierce explains his playoff concentration and focus strategy** [35:54](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=2154s)
+
+"What I used to do, once playoffs started, my phone cut off. I don't need no distractions. I don't need extra tickets no more. I got these are the people who been here and these are the ones that get to go to the game. It's just a level of concentration and focus that you get yourself zoned into when you're in the playoffs, especially when you're on a good team and you have an opportunity to go far in the playoffs."
+
+**19. Paul Pierce — "I might pay for some Beef Stew and Draymond Green. Maybe we get Musa and Jalen Duren." — Paul Pierce would pay to see Draymond Green fight Beef Stew or Musa and Jalen Duren.** [34:59](https://www.youtube.com/watch?v=Jzi4ov5VZ94&t=2099s)
+
+"What current NBA players? Oh man, I might pay for some **Beef Stew** and **Draymond Green**. Maybe we get **Musa** and **Jalen Duren**. That would be phenomenal. **Rudy Gobert** and **Draymond Green**? We already seen that. I don't want to see that again. I don't want to see that again. We saw that already. I don't want to see that no more. We saw that already. No, no, I don't want to see that no more. So I like this question. We could get out of here on this."
+
+---
+
 ## Wemby, SGA, Chet & more Thunder vs. Spurs WCF Game 4 press conferences 🎤 | NBA on ESPN — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=t_FhM6gJOuw
