@@ -1,0 +1,51 @@
+# ‘The job’s not done yet!’ - Danny Green on Knicks’ mindset heading into Game 4 vs. Cavs | NBA Today — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=qnikAl8yJNc
+
+_Speakers identified: Brian Windhorst, Malika Andrews, Danny Green, Iman Shumpert, Josh Hart, Karl-Anthony Towns, Victor Wembanyama, Shams Charania_
+
+**1. Josh Hart — "This series isn't over. If we start thinking of that now, then we start overlooking them." — Josh Hart on Knicks' focus for closeout Game 4** [00:44](https://www.youtube.com/watch?v=qnikAl8yJNc&t=44s)
+
+"I don't really feel like we're that close. Because this series isn't over. If we're blessed enough to move on, then I can answer that question, but if we start thinking of that now, then we start overlooking them and they're a team that can get hot, that can play well and turn this into a long series. So, don't really got time to think of that until you're fortunate enough to be in that position."
+
+**2. Danny Green — "Taking it one game at a time, not satisfied, job's not done." — Knicks' focused "job's not done" mentality in the playoffs** [01:27](https://www.youtube.com/watch?v=qnikAl8yJNc&t=87s)
+
+**Malika Andrews:** "I don't know **Brian**, as we were walking out the other day, it certainly feels like the Knicks, they're doing everything they can to temper expectations. They're proud of what they've done, but at the same time, they feel like they haven't done anything yet. **Danny**, you've been in this position four times. You've gone to the NBA Finals four different times. Take us inside what the Knicks are feeling in this moment."
+
+**Danny Green:** "I got to give a lot of credit to the coaching staff and **Mike Brown**. Keeping them in that mind space. I know **KAT** had an interview after quarter one of Game 3. He said, 'I'm more pissed off that they got 27 points than we have 39.' And that's the mindset you have to have. **Josh Hart**, living in the moment and not thinking about what's ahead. It's like, 'we got to close this series.' When we close this series, then I can think more about it. With them being that focused, it's like that **Kobe** mentality back in the days, when locked in. **Pop** had us locked in. We didn't think about the stage or what was happening or finals. Taking it one game at a time, not satisfied, job's not done. That's how they're approaching the game, that's how they got to stay focused and locked in."
+
+**3. Iman Shumpert — "I also want the Knicks or whoever comes out of this battle to be prepared. You don't want them to just be at home chilling." — Iman Shumpert wants Knicks to face adversity for finals prep** [02:19](https://www.youtube.com/watch?v=qnikAl8yJNc&t=139s)
+
+"I like that mindset. I like where they're at. When you're going into a closeout game, usually you want to just get things out the way. But when I look at this, I'm just like, 'Can we get a game? Can we get a little competition going? Can we go back and forth? Can I enjoy New York and Cleveland for a little bit?' Because I also want the Knicks or whoever comes out of this battle to be prepared. You don't want them to just be at home chilling and haven't really had any adversity in the Eastern Conference Finals. I just look at what they're doing over there in the West and I say for the best matchup for basketball, I just want them to all be, well chiseled."
+
+**4. Danny Green — "I expect more. I really do. I have been on their case, but it's because they have a good ball club." — Danny Green expects more from the Cavaliers' performance** [03:16](https://www.youtube.com/watch?v=qnikAl8yJNc&t=196s)
+
+"I've been a guy that's been on the wrong side of a bad record and it meant nothing. So I understand they can come together. I understand what they can do with their locker room. I just, I expect more. I really do. I have been on their case, but it's because they have a good ball club. They just haven't performed up to standard."
+
+**5. Victor Wembanyama — "We just responded, but it was nothing amazing, it wasn't magic. We just did what we needed to do." — Victor Wembanyama on Spurs' response to playoff deficit** [06:21](https://www.youtube.com/watch?v=qnikAl8yJNc&t=381s)
+
+"We didn't do nothing unexpected, but the truth is that we had never been in this kind of situation before. It was our first deficit in the playoff series. And we just responded, but it was nothing amazing, it wasn't magic. We just did what we needed to do and the series is far from over."
+
+**6. Brian Windhorst — "I just didn't think he had the same force and burst. Four dunks last night. It's not all about the dunks, but it's about what they sort of represent about his energy level." — Brian Windhorst on Wembanyama's energy and Spurs' playoff resilience** [06:40](https://www.youtube.com/watch?v=qnikAl8yJNc&t=400s)
+
+"They played with force and desperation. If they'd gone down 3-1, I don't know guys. The Thunder are really good to beat them three in a row. I almost thought this was a quasi-elimination game. I wasn't sure what we were going to get from **Wemby**. We're still learning about him, he's still learning about himself. I thought he looked a little worn down in Game 3. He had six dunks in Game 1, amazing, right? And the overtime, I know, helped that. Game 2, one dunk. Game 3, one dunk. I just didn't think he had the same force and burst. Four dunks last night. It's not all about the dunks, but it's about what they represent about his energy level. And I will say this, you can say that they're young and that they're inexperienced and they may make mistakes. They have repeatedly answered the call this year in these playoffs when they faced adversity. It happens in all three rounds and it leads me to believe that they will be able to do it again if they face it again."
+
+**7. Danny Green — "If he doesn't play like the best player on the floor night in, night out, they don't have a chance." — Danny Green emphasizes Wembanyama's critical role for Spurs** [07:26](https://www.youtube.com/watch?v=qnikAl8yJNc&t=446s)
+
+"I was with you **Brian**. I was a little concerned about his fatigue because it starts and stops with him. If he doesn't play like the best player on the floor night in, night out, they don't have a chance. And you've seen in Game 3, I think he had 12 points through most of the game. He kicked it up in the fourth quarter, but if he doesn't start with that and enforce that his power on the game, it's going to be tough for them to survive. They're going to need that, especially on the road in Game 5 at OKC. And those other guys, he empowers and feeds into those other guys to play at a high level, especially defensively. **Castle**, **Harper**, they're going to need some bench production, of course, but it starts with **Wemby**."
+
+**8. Iman Shumpert — "He was aggressive early on and saying, 'Give me the ball,' yelling into their ears to say, 'Hey, give me the ball, trust me, I'm going to get us going.'" — Iman Shumpert on Wembanyama's assertive playmaking and leadership** [07:54](https://www.youtube.com/watch?v=qnikAl8yJNc&t=474s)
+
+"I don't think that he's tired. I think it's just one of them things that he doesn't really know where to assert himself. You remember he had that quote where it was interesting, he said, 'I need to find a way to make my teammates better and I need to do that.' And I think we took it as he's going to be looking for them more, but I think it was just action-based. He understands that, hey, I need to be in the right position. I need to sprint to screens. He was sprinting to screens. He was sprinting the floor. He was aggressive early on and saying, 'Give me the ball,' yelling into their ears to say, 'Hey, give me the ball, trust me, I'm going to get us going.' And I think that assertiveness is what won them the game."
+
+**9. Brian Windhorst — "This game was won at the other end of the court defensively. No Jalen Williams and no AJ Mitchell really narrows the Thunder's offensive production margin for error." — Brian Windhorst on Spurs' defense and Thunder's injury impact** [09:04](https://www.youtube.com/watch?v=qnikAl8yJNc&t=544s)
+
+**Brian Windhorst:** "One of the most important stats in this game is **Alex Caruso**, who was shooting 60% on threes. He only took one shot. It wasn't that he had a bad game, he had a non-existent game. And that is the byproduct of not doubling **Shay** so hard on the perimeter and staying attached to people. And I'm going to tell you something, Malika, the Spurs didn't play a perfect game. They only shot 38%. They only shot 27% from three. This game was won at the other end of the court defensively. No **Jalen Williams** and no **AJ Mitchell** really narrows the Thunder's offensive production margin for error. And we saw it all the way through that whole game."
+
+**Malika Andrews:** "And it certainly puts even more on **Shay** Gilgeous-Alexander's shoulders if he is having to take those ball handling responsibilities."
+
+**10. Shams Charania — "Both of their statuses are very much up in the air for Game 5 on Tuesday night. Both dealing with soft tissue injuries." — Shams Charania updates Jalen Williams and AJ Mitchell injury status** [10:09](https://www.youtube.com/watch?v=qnikAl8yJNc&t=609s)
+
+**Malika Andrews:** "Shams, what more can you tell us about the status here of both **Jalen Williams** and **AJ Mitchell** as we look towards Game 5 in Oklahoma City?"
+
+**Shams Charania:** "**Malika**, the Thunder are still evaluating both **Jalen Williams** and **AJ Mitchell** on a day-to-day basis. **JayDub**, aka **Jalen Williams**, we know he suffered a second injury to that same left hamstring in just under one month. I am told that he is making some progress in his on-court workouts, he's starting to do more and more. **AJ Mitchell** on the other hand, he's been dealing with right calf tightness throughout the playoffs and then he was diagnosed over the weekend with a right calf strain. Both of their statuses are very much up in the air for Game 5 on Tuesday night. Both dealing with soft tissue injuries. We know the Oklahoma City Thunder is an organization always look at the long-term approach and when you think about these soft tissue injuries of hamstring as well as a calf, these typically are not just day-by-day injuries."
