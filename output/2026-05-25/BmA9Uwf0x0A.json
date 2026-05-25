@@ -1,0 +1,61 @@
+{
+  "video_title": "Did the voters get All-NBA teams correct? First Take debates",
+  "speakers_seen": [
+    "Molly Qerim Rose",
+    "Brian Windhorst",
+    "Stephen A. Smith",
+    "Chris Russo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Windhorst",
+      "timestamp": "00:30",
+      "summary_phrase": "NBA granted waivers for Luka Doncic and Cade Cunningham for First Team",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Cade Cunningham",
+        "Jaylen Brown"
+      ],
+      "excerpt": "The NBA gave a waiver to Luka Doncic and Cade Cunningham so that they were allowed to be included.",
+      "quote": "I don't really think there was much controversial decisions in this particular group of All-NBA. There were six candidates for the five spots on the first team. Let's just be honest, there were six good candidates. Frankly, if there's any complaint, you could say that the NBA gave a waiver to Luka Doncic and Cade Cunningham so that they, even though they didn't play 65 games, they were allowed to be included. I don't have a problem with that. I put them both on First Team. But, if something was wronged, it was that Jaylen Brown did play 65 games and the other guys didn't. It came down to Cade Cunningham versus Jaylen Brown for the fifth spot. Cade Cunningham got 60 first team votes, Jaylen Brown got 44. That's close, but it's not razor thin."
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Russo",
+      "speakers": [
+        "Chris Russo",
+        "Brian Windhorst"
+      ],
+      "timestamp": "03:32",
+      "summary_phrase": "Chris Russo questions the legitimacy of the All-NBA Third Team",
+      "names_mentioned": [
+        "Jalen Duren",
+        "Jamal Murray",
+        "Jalen Johnson",
+        "Chet Holmgren",
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "Those are, those five are the top 15 players in the league? Those five?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Chris Russo",
+          "text": "That Third Team stinks. Can you put the Third Team up again please? That team is, Duren, only they won 60 games, but really? We're going to put him on the Third Team? Jamal Murray, did we see him against Minnesota when he was awful? Jalen Johnson of the Hawks? Holmgren? Karl-Anthony Towns? How is he not in the team?"
+        },
+        {
+          "speaker": "Brian Windhorst",
+          "text": "These guys all had spectacular years, Dog."
+        },
+        {
+          "speaker": "Chris Russo",
+          "text": "Oh, come on. Those are, those five are the top 15 players in the league? Those five? If I'm doing the top 15 players, those five deserve to be there?"
+        },
+        {
+          "speaker": "Brian Windhorst",
+          "text": "I will say, your point is fair here because there have been a number of players who were invalidated because they didn't play 65 games. So, you're going to argue that the Third Team is a little watered down because of it? I would agree with you. They're not 15, they're not the top 15 players. But none of these guys egregiously is on this team. And actually, none of the votes weren't close. Chet Holmgren was well ahead of anybody else."
+        }
+      ]
+    }
+  ]
+}
