@@ -1,0 +1,185 @@
+# HoopsHype YT Quotes — 2026-05-26
+
+## Spurs vs. Thunder WCF Game 5 preview 🍿 Who has the edge? | NBA Today — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=0uIpQ6C7xJg
+
+_Speakers identified: Malika Andrews, Shams Charania, Brian Windhorst, Danny Green, Tim Legler, Keldon Johnson, Tim McMahon, Michael C. Wright_
+
+**1. Shams Charania — "This is a sensitive, tricky, reoccurring hamstring issue that Jalen Williams has been dealing with." — Jalen Williams' recurring hamstring strain is a sensitive, tricky issue** [00:09](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=9s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=9s
+
+"Malika, the Oklahoma City Thunder are continuing to evaluate **Jalen Williams** on a day-by-day basis, but the reality of the situation is the Thunder have now listed **Jalen Williams** as questionable with not just hamstring soreness but a hamstring strain. That's the second strain to the same hamstring in just under a one-month span. And so these injuries are typically measured in weeks and not really just days, particularly on a re-aggravation. So this is a sensitive, tricky, reoccurring hamstring issue that **Jalen Williams** has been dealing with. He did do some more movement warm-ups before Game 4, and I am told he's progressing, doing a little bit more basketball activity, but we'll see how that factors in tonight and tomorrow."
+
+**2. Brian Windhorst — "If you want to win multiple championships and you're going to be a great player, this is a type of time where you deliver a big-time game." — Shai Gilgeous-Alexander must deliver a big-time performance in Game 5** [01:19](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=79s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=79s
+
+"Look, I can answer this question two ways. I can break down how maybe they could have **Cason Wallace** be a little bit more involved. **Cason Wallace** has had games in the regular season where he's had more than 10 assists. I could break down where they could maybe put the ball in **Alex Caruso**'s hands a little bit to take away some of the pressure from Shai. But let's be honest. This is Game 5 of a 2-2 playoff series. Shai is an MVP finals MVP, two-time MVP. They need **Shai Gilgeous-Alexander** to be absolutely great tonight. And it's not going to be easy. It's not going to be a matter of him just forcing it and putting up shots because you know that the **Spurs** have really been working on double-teaming him and trying to force the ball out of his hands. The bottom line, if you want to win multiple championships and you're going to be a great player, you're going to be a first-ballot Hall of Famer, this is a type of time where you deliver a big-time game. It's got to be Shai tonight."
+
+**3. Tim Legler — "As great as Shai is, this might just be way too much to overcome." — Shai faces immense challenge without teammates against Spurs defense** [02:37](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=157s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=157s
+
+"I think in order to win a championship, you got to be lucky, you have to have a good matchup, you got to be talented, and you got to be healthy. You got to have all four of those things. And as great as **Shai** is, and I know he has a cape somewhere in him, this might just be way too much to overcome. And the way **San Antonio** is defending him, just with **Castle** or **Fox** and **Wemby** waiting in the back and challenging other guys to do something that are left with two less people on their bench. As great as he is, he's going to have to be like **Magic** without **Kareem** in that Finals in Boston a long time ago, like that magnificent to get the Spurs by himself. That's a lot."
+
+**4. Tim McMahon — "They cannot let these Spurs punch them in the face right after the opening tip." — Jalen Williams' status and OKC's need for physical response** [04:37](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=277s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=277s
+
+**Malika Andrews:** "Tim, I'm going to start with you. We know that there's no AJ Mitchell here. We were chatting with **Shams** earlier and he said that **Jalen Williams** is questionable for this game. As we march closer to tip-off, what do we know?"
+
+**Tim McMahon:** "Howdy **Malika**. **Jalen Williams** has been questionable for the last couple games, was ruled out 45 minutes before tip-off. They are now calling it injury management with a hamstring strain and not soreness. But what we know is, with or without **Jalen Williams**, they cannot let these Spurs punch them in the face right after the opening tip. And that was the description that **SGA** gave. They punched us in the face early. They were able to respond in Game 3, not in Game 4. And when you're talking about the Spurs overwhelming OKC with physicality, that really starts with **Stephon Castle** on **Shai Gilgeous-Alexander**. Shai has to be able to be the aggressor in that matchup, which absolutely was not the case in Game 4."
+
+**5. Tim McMahon — "A seven-and-a-half-foot alien has a little bit to do with that." — Chet Holmgren's offensive struggles against Victor Wembanyama in series** [04:37](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=277s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=277s
+
+"And then they've got to figure out a way to get **Chet Holmgren** going. He has been a non-factor offensively in this series. A seven-and-a-half-foot alien has a little bit to do with that. **Chet** was 37 of 38 in the restricted area in the first two series, 11 of 21 so far in the restricted area in this series. **Victor Wembanyama** is going to be on the floor. They've got to figure out a way to get some sort of offensive production from **Chet Holmgren** under those circumstances."
+
+**6. Michael C. Wright — "De'Aaron understands how much he means to this team. In the two games that he missed, the San Antonio Spurs were committing an average of 22 turnovers per game." — De'Aaron Fox's injury status and impact on Spurs' turnovers** [06:09](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=369s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=369s
+
+**Malika Andrews:** "On the Spurs side of all of this, **Michael**, someone not on the injury report for this Game 5, **De'Aaron Fox**, even though we saw him miss Game 1, miss Game 2 of this series. Is he still dealing with those sort of knick-knack injuries? How's he feeling?"
+
+**Michael C. Wright:** "**Malika**, the kid is actually playing on a leg and a half basically. He missed games one and two. And the funny thing is he said, 'I still feel the same way I felt when I came into this series.' If you felt that way, you felt not well enough to play because he didn't play in games one and two. But De'Aaron understands how much he means to this team. In the two games that he missed, the **San Antonio Spurs** were committing an average of 22 turnovers per game. They were giving up 27.5 points off those turnovers. Then when he comes back for games three and four, the turnovers dropped to 14 and the points dropped to 16. So that's 11 points, and that's a big difference when you're talking about a hotly contested series like this one with two evenly matched teams."
+
+**7. Michael C. Wright — "My instincts got me there, but the ankle wouldn't let me jump up to go get it." — De'Aaron Fox's Game 4 performance despite ankle injury** [06:09](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=369s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=369s
+
+"The funny thing is after Game 4, he actually had a game-high 10 rebounds. And he said, 'I could hardly, I don't even know how many of those rebounds I actually jumped for.' He said there was one point in the game where associate head coach **Sean Sweeney** was imploring him to use his instincts to get to a rebound. He said, 'My instincts got me there, but the ankle wouldn't let me jump up to go get it.' So, he's a very important part and he's playing hurt, but he's fighting his way through it."
+
+**8. Danny Green — "He has to be more active, he has to be more aggressive, and he has to look for his shot." — Chet Holmgren must be active, aggressive, and help Shai Gilgeous-Alexander** [08:40](https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=520s)
+https://www.youtube.com/watch?v=0uIpQ6C7xJg&t=520s
+
+"He's an All-NBA guy. There's no excuse. This is playoff time; you cannot let your production go down that much. He just has to be active. I talked about **Wemby**. He is very much similar to a **Wemby**. He's not the same character or stature as **Wemby**, but he's 7-foot, 7-foot-2, can space the floor, knock down threes, move the ball, see when your guy goes to double, space the floor, give your team an opportunity, get to the offensive glass. You have to be active. These are the small things that he can make adjustments to. Stay in the dunker, work in the dunker area. These are the minutes you also have to take advantage. **Wemby**'s off the floor. You have **Cornet**. When you see **Shai** going to the basket, follow behind him, get yourself in position, make these finishes at the rim, dunk the ball. These are the small things he can do to get himself going. Obviously, knocking down a three or two would help, but he has to be more active, he has to be more aggressive, and he has to look for his shot and help **Shai Gilgeous-Alexander** because a lot is on **Shai Gilgeous-Alexander** and his playmaking. **Chet** has to be the guy."
+
+---
+
+## Mad Dog WON’T bet against the Knicks in the Finals 🚫 | The Rich Eisen Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=TqXialyMbhc
+
+_Speakers identified: Suzy Shuster, Chris Russo_
+
+**1. Chris Russo — "Their offense right now looks phenomenal with everybody making contributions." — Chris Russo praises Knicks' current offense and coaching staff** [00:30](https://www.youtube.com/watch?v=TqXialyMbhc&t=30s)
+https://www.youtube.com/watch?v=TqXialyMbhc&t=30s
+
+"I understand the euphoria that a Knicks fan is dealing with right now. 27 years before they were in the Final, killing everybody left and right, down 2-1 to Atlanta, they blew them out three straight games. Obviously, Philadelphia, making shots, the offense, the Knicks have never at times always struggled offensively. Their offense right now looks phenomenal with everybody making contributions and clearing the bench. I was not for firing Thibodeau. Let's give **Mike Brown** his bouquet. He's done a great job with moving around this offense and getting contributions from everybody besides **Jalen Brunson**, who did bail them out after Game 1."
+
+**2. Chris Russo — "Number one, the Eastern Conference is terrible. Cleveland stinks. Philadelphia won their Game 7 in Boston, no Embiid." — Chris Russo criticizes the weak quality of the Eastern Conference** [01:17](https://www.youtube.com/watch?v=TqXialyMbhc&t=77s)
+https://www.youtube.com/watch?v=TqXialyMbhc&t=77s
+
+"Number one, the Eastern Conference is terrible. Cleveland stinks. Philadelphia won their Game 7 in Boston, no Embiid, 44-45 wins, not a big team. And Atlanta is not a good basketball team. So, the Celtics were not whole all year without Tatum. So I will throw a little cold water on it."
+
+---
+
+## Knicks EMBARRASS Cavs! + Wemby Face Of The League?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=MFho_nNtQWQ
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, DeMarcus Cousins_
+
+**1. DeMarcus Cousins — "It's been a long time coming. We know this is a historic fanbase. They have incredibly crazy fans, super passionate fans." — DeMarcus Cousins praises current Knicks team as one of the best in 30 years** [06:10](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=370s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=370s
+
+"Obviously you have to say yes, but first off, shout out to the Knicks. It's been a long time coming. We know this is a historic fanbase. They have incredibly crazy fans, super passionate fans, so shout out to them and happy for them for reaching this milestone since '99, like you said, but I would have to agree and say this is one of the better Knicks teams. I mean, I can't think in my recent years of a team that I could consider better as far as talent on paper, but when it also comes to what they achieved this season, this is by far one of the better Knicks teams. They've shown it all year as far as being a consistent team. They had their shortcomings early on in the season, a lot of people were down on them, but kept their head above water, stayed consistent, stayed mellow throughout the season and now they're at a great point in the season as far as being a finals team. So I think they did everything the correct way. I do appreciate allowing the team to build their chemistry, build their camaraderie."
+
+**2. Chandler Parsons — "You don't usually see an 11-game win streak in the playoffs and all their wins besides one have been by double digits." — Chandler Parsons praises Knicks' current rolling performance and bench production** [07:50](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=470s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=470s
+
+"As much fun as it is to go back and forth with Knicks fans and how passionate and crazy they are, you got to give them the respect. This team is rolling. You don't usually see an 11-game win streak in the playoffs and all their wins besides one have been by double digits. This team is absolutely rolling. They're healthy besides **OG** being banged up a little bit in the previous series. They are healthy. They're getting a lot more production from their bench than they have in recent years. **Jalen Brunson** has just been phenomenal. He's been unconscious from three, so they're getting production from everywhere. They're dominating the offensive glass and they're just killing it on rebounding and **Mitchell Robinson**, what he's doing off the bench. This team is rolling. They are on an absolute heater right now. It's the best case scenario because the other two teams on the other side are just beating each other up and looking like they're going Game 7, so the Knicks were able to get that rest and get fully healthy and get prepared for either team that they see."
+
+**3. Lou Williams — "they play some of the most impressive basketball that we've seen a New York Knicks play" — New York Knicks overcome past doubts to play impressive playoff basketball** [09:55](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=595s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=595s
+
+"We keep talking about the Western Conference like they're untouchable. You have to give credit where it's due. This New York Knicks team, they're 8-0 in their last eight playoff games, 11-0 before that. If you look around at what they've been able to accomplish, let's think about the conversation we were having about this team and their journey. At one point, fans were calling for **Mike Brown** to be fired. At one point, we were trying to figure out whether **KAT** was happy or not. We started having trade talks from there. We started talking about chemistry, we started talking about fit, them not playing their best brand of basketball. In the postseason, everybody figures it out and they're all on the same page and they play some of the most impressive basketball that we've seen a New York Knicks play in almost 27, 28 years of basketball."
+
+**4. Lou Williams — "The Knicks are playing lights out basketball and they're getting a lot of good stuff from a lot of different places." — New York Knicks playing lights out, confident basketball for a championship** [09:55](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=595s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=595s
+
+"Now you have an opportunity to go out and win a championship and we keep talking about the Spurs and the Thunder like they're untouchable. The Knicks are playing lights out basketball and they're getting a lot of good stuff from a lot of different places and playing with the confidence of any other team that you can think of that can put themselves in this position."
+
+**5. Chandler Parsons — "the Knicks have proven that they can play and beat anybody in the Eastern Conference." — Knicks' Eastern Conference foundation and ability to reach the Finals** [12:25](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=745s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=745s
+
+**Michelle Beadle:** "Call me crazy, but no matter what happens from here on out, they're good now. The reset button has been hit, they should be allowed to marinate."
+
+**Chandler Parsons:** "I think they have the foundation, right? I think they've proven, especially in the Eastern Conference, that they can be the best team and they can go to the finals for multiple years to come. We know the Celtics are always going to be hanging around. The Hawks got better. The Pistons aren't going anywhere. But the Knicks have proven that they can play and beat anybody in the Eastern Conference."
+
+**6. Chandler Parsons — "This team is very, very good. They are very talented. They've always had that." — Knicks' playoff dominance, core success, and deep talented roster** [12:25](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=745s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=745s
+
+"Now we always talk about how good the West is and how good those two teams are that are still playing over there and they're always going to have to go through them. But we're talking about a team that just dominated the playoffs in the Eastern Conference, cakewalked their way to the NBA finals. In what world would they break this team up or this core up when they've shown that they've had a bunch of success and they add guys like **Jose Alvarado** and **Jordan Clarkson** and **Landry Shamet** and **Miles McBride**. Now they have a legit bench too where they're getting production from everywhere. They have great bigs. They have athletic, versatile wings that can do multiple things defensively. This team is very, very good. They are very talented. They've always had that. They just haven't been the most consistent team like the Pistons were throughout the regular season."
+
+**7. Chandler Parsons — "The Knicks are in a really, really good place. We always say the NBA is better when the Knicks are better." — Knicks' current hot streak, future stability, and positive NBA impact** [12:25](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=745s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=745s
+
+"That means nothing now because they are on an absolute heater. They're playing just as good as either of those other two teams on the other side and they are going to get proper rest and proper scouting and film for the next four to six days till the finals even starts no matter who they play. So I think they fully should keep this team together. **Mike Brown**, I think, has solidified his job what he's done with this team. The Knicks are in a really, really good place. We always say the NBA is better when the Knicks are better. It's true. Think about how much excitement right now, how much fans. I'm in Cabo right now and there's Knicks fans everywhere here."
+
+**8. DeMarcus Cousins — "I didn't see much of a fight or an effort outside of that 20-plus point lead Game 1." — DeMarcus Cousins believes Cavaliers quit after Game 1 lead** [15:20](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=920s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=920s
+
+**Michelle Beadle:** "Let me ask you this because you can make the argument that after being up 22 in Game 1, Cleveland quit. Or you can make give them the benefit of the doubt and say, no, they didn't quit until last night. Where along this journey would you say this team absolutely gave up?"
+
+**DeMarcus Cousins:** "I would say I didn't see much of a fight or an effort outside of that 20-plus point lead Game 1. After that, it seemed like it was a team that wasn't really interested in competing or trying to advance to a finals. I'm on the outside looking in, but the force, the fight wasn't really there throughout the rest of the series. It kind of looked like fluff until towards the end and they could just kind of, the term I like to use is tuck your tail. It seemed like they tucked their tail after the first half usually, but just didn't seem like a group that really, really wanted it. It's a lot of things you could kind of dissect as far as what you think went wrong with Cleveland, but I'll keep it pretty short and brief. It just didn't seem like a group that was there to advance."
+
+**9. Lou Williams — "I think they lost something with no Schroder. Once you see no Schroder in a game like that, that's not going to give you physicality, not going to give you that toughness that they needed." — Lou Williams criticizes Cavaliers' lack of physicality and fight** [16:32](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=992s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=992s
+
+"I think they lost something with no **Schroder**. Once you see no **Schroder** in a game like that, that's not going to give you physicality, not going to give you that toughness that they needed. I felt like they lost a lot right there in one of their best role players. Other than that, nobody else competed. I'll say it. I think last night, they had to make a decision whether they wanted to get back on that plane or not and do this again. I think they made the decision, we cool. We outgunned them and we're going to stay right here in our building and we're going to lose it like this. I didn't see a lot of competitive fight last night. Last night you let a team go out and get almost 40 points in the first quarter. That should tell you everything you need to know about where they were competitively and them trying to give themselves another opportunity to compete in this series. I didn't see it last night."
+
+**10. Lou Williams — "I got to go out there, look you in your eyes and say, are you willing to compete?" — Lou Williams prioritizes 'vibe' and competition over analytics.** [19:16](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1156s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1156s
+
+"I've been consistent in how I feel about basketball. You got numbers guys and you got vibe guys. I'm a vibe guy. I'm a vibe check guy. I got to go out there, look you in your eyes and say, are you willing to compete? I don't care about numbers, I don't care about what the numbers say works best for us. At some point, you got to throw that in the trash can and you just got to compete and play basketball. So on paper, whatever analytical numbers they were looking for to say that they won a game, it didn't win a game. It didn't win a game, coach. So I don't want to hear this if I'm a fan. I don't want to hear it if I'm in the front office and I damn sure don't want to hear it if I'm in uniform."
+
+**11. Lou Williams — "This messaging is just bad. I got to call a spade a spade." — Lou Williams criticizes analytics-focused messaging despite Kenny Atkinson's impact.** [19:16](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1156s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1156s
+
+"Is that a nice way of trying to ease over the pain of being down 0-3 at that time? Whatever the message was that he was trying to get across, optically this just sounded bad, it looked bad. It sets the standard for your team. I've said it publicly, I love **Kenny Atkinson** to death. This is one of my favorite people that I've ever worked with in the business. He's responsible for getting me back on my feet in my career after I tore my ACL. He worked side by side every day of the week. But this messaging is just bad. I got to call a spade a spade. The messaging was bad. So you allow a lot of analytical guys into the game and think that's the way to win a championship and this proved that it's not. It's a great asset to have to combine it with the things that you need to do physically on the floor to win a basketball game, but it shouldn't be your end all be all. I didn't love this message."
+
+**12. Chandler Parsons — "Analytically, that means nothing. I want to see those analytical stats. It's just a soft message to me." — Chandler Parsons dismisses analytics defending sweep, questions James Harden's defense.** [20:59](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1259s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1259s
+
+"It's almost like saying the sweep wasn't as bad as it looked because analytically we were right in it. That means nothing when you get outworked and outplayed and out-rebounded and turn the ball over way more and give up 50 points in transition. Analytically, that means nothing. I want to see those analytical stats. It's just a soft message to me. It's like, well, analytically we hung in there even though we got punked for 48 minutes for four straight games. It means nothing. This guy also said that **James Harden** is one of their best perimeter defenders, which is like, I don't know how you can watch the film. I don't care analytically what it says. **Jalen Brunson**, end of game there in Game 1, you just can't say that kind of stuff when it's not true. Analytically, I get it."
+
+**13. Chandler Parsons — "The Cavaliers, I think, can hold their head high at least getting to the Eastern Conference finals." — Cavaliers' season not a failure despite sour ending, Parsons argues.** [20:59](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1259s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1259s
+
+"He said the season was not a failure. It ended sour, but at the end of the day, they did make a trade. They did go to the Eastern Conference finals. They did get further than they ever had with this group. To say it's a failure, I think is a stretch. The way it ended sucks. It's like the **Pistons** season. That was a shitty ending to a great season. The **Cavaliers**, I think, can hold their head high at least getting to the Eastern Conference finals and having their core come back and hopefully run it back. But they still say things every single year about this team. They always leave us wanting more."
+
+**14. DeMarcus Cousins — "To make a splash like that mid-season and then end your season with a conference finals loss, I wouldn't necessarily say that's a failure." — DeMarcus Cousins views Cavaliers' season as a success despite sweep** [24:28](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1468s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1468s
+
+"I don't think it's a failure at all. I think they achieved more than they did the previous season. So when you look at it in that way, that's progress. That's progress. But as far as the analytics go, that's my that's my whole issue with it. Analytics can't determine fight. Analytics can't determine heart. Analytics can't determine leadership and that's all three things that this Cleveland team was missing in this series. So to throw out all these analytical stats is kind of it's kind of smoke and mirrors, it's pointless. So I don't agree with that part. I think it's absolute bullshit to be honest. But as far as their overall season, I would say it was a success. They made a big splash when they decided to trade for **James Harden** and trade away a young asset in **Garland**. He was the first time All-Star as well, if I believe. To make a splash like that mid-season and then end your season with a conference finals loss, I wouldn't necessarily say that's a failure. So in that, looking at it through that lens, they had a successful season."
+
+**15. Lou Williams — "Everybody got to calm down. When things go bad, everybody like, fire this guy, get rid of this guy." — Don't overreact to a sweep; respect the team's journey and process.** [27:23](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s
+
+"But again, it's not your reality. San Antonio is down 0-2 right now. We're not asking for **Mitch Johnson**'s job. It's a process. You got to go through something. Everybody's expectation is to win a championship, **Beadle**. Everybody. The team that beat them, we tried to fire **Mike Brown** this year. Everybody got to calm down. When things go bad, everybody like, fire this guy, get rid of this guy, trade this person. Sometimes we got to respect the journey and go through something. Nobody wants to go through anything anymore to get to a level of success where you can be proud. We want all this minute-made ready success. It doesn't work like that. They ran into a team that's better and I still feel pretty confident in the core of what I have going on. Am I better than some of these teams? Yes, but I'm not better than the **New York Knicks**. Let me figure that part out. You don't just clear the team out. You don't fire the coach and then expect to get right back to where you were. You're one block away from the level that you want to be. So do you need to make adjustments? Sure, but do you just go out and be emotional because you got embarrassed? That's not the best way to do it either."
+
+**16. Lou Williams — "It's about culture, it's about your players being hurt, saying that you're practicing too much." — Coaching changes, team culture, and player injuries are factors.** [27:23](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s
+
+"**Tibs** at this point last year, **Tibs**, made it to the conference finals, didn't get out of the conference finals, out of a gig. This is what happens. I think **Kenny Atkinson** is going to get the job. It's not just one caveat to this, **Beadle**. It's about culture, it's about your players being hurt, saying that you're practicing too much. It's about all of those things, not just losing. And the culture sucks. So whose fault is that? Whose fault is it if the culture sucks? They are a top two team in the East and a top four team in the NBA right now and we're just shitting on them. We're going to fire their coach. Really?"
+
+**17. Lou Williams — "none of us gave them a shot in hell to do anything. We never took it seriously." — Media's low expectations for the Cleveland Cavaliers this season.** [27:23](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s
+
+"So let me ask you this. How many would you actually give a real shot that the **Cleveland Cavaliers** were going to beat? Because even though analytically, they are what they were, none of us gave them a shot in hell to do anything. We never took it seriously up until today. We still didn't take it seriously. They got absolutely embarrassed. All of us had **Detroit** and all of us had the **Celtics**. Come on, we're going to call us better than us. But after that, guys, none of us believed in Cleveland for a reason because of last season. We're still not calling for jobs. I feel like the personnel changed. I'm just telling you, it's going to happen. I don't want it to happen. I like **Kenny Atkinson**."
+
+**18. Lou Williams — "This is a team that has continued to improve with each season. They made a huge splash." — Cleveland Cavaliers' season was a success; continued improvement is key.** [27:23](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1643s
+
+"I would have to disagree with **Beadle**. I think that's a bit extreme to jump to a conclusion like that. They had a great season. Regardless of how it ended, they had a great season. They had a better season than the previous season. That's all you can really ask for when it comes to sports. Now, if they did worse than the previous season, then that's something you have to take into consideration. If they go out the same way and the results are worse than last year, yeah, we need to come back to the drawing table. We need to figure some things out. But this team did exactly what they wanted to do, which was get better. Did they get the ultimate prize? No, it's always one winner and a bunch of losers. But at the end of the day, this is a team that has continued to improve with each season. They made a huge splash when they decided to trade for **Donovan Mitchell**. The team got better. They made it to the conference finals. Now, next year, things might be up in the air because now it's almost a make-or-break type season. If we made it to the conference finals this year, next year we're expecting to be in the Finals or a Finals winner. Now you can come to the table and start considering things. But as of right now, I think they did everything they were supposed to do. They didn't have the greatest results, but at the end of the day, they got better and that's all an organization can ask for, especially if you don't win a championship."
+
+**19. DeMarcus Cousins — "This team did exactly what they wanted to do, which was get better. Did they get the ultimate prize? No." — DeMarcus Cousins believes Cavaliers' season was a success due to improvement** [33:14](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1994s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=1994s
+
+"This team did exactly what they wanted to do, which was get better. Did they get the ultimate prize? No. It's always one winner and it's a bunch of losers. But at the end of the day, this is a team that has continued to improve with each season. They made a huge splash when they decided to trade for James. The team got better. They made it to the conference finals. Now, next year, things might be up in the air because now it's it's almost a make or break type season. If we made it to the finals conference finals this year, next year we're expecting to be in the finals or a finals winner. Now you can come to the table and start considering things. But as of right now, I think they did everything they were supposed to do. They didn't have the greatest results, but at the end of the day, they got better and that's all an organization can ask for. Especially if you don't win a championship."
+
+**20. Lou Williams — "They look like a completely different team when Wemby comes out and plays like he's one of the best players." — San Antonio's offensive adjustments empower Victor Wembanyama as primary option** [46:35](https://www.youtube.com/watch?v=MFho_nNtQWQ&t=2795s)
+https://www.youtube.com/watch?v=MFho_nNtQWQ&t=2795s
+
+"We're watching a chess match. I thought the adjustments that San Antonio made, both offensively and defensively, got them to the point where they can beat OKC like this. They look like a completely different team when **Wemby** comes out and plays like he's one of the best players on the floor. He's not deferring to anybody. He's just being aggressive and putting as much pressure as you can on that OKC defense that's so successful in playing the passing lanes, playing the second and third options. Instead, they said, we're going to get the ball to the big fella and that's going to be the first option and you all are going to have to find a way to stop it. So I like the fact that he had over 15 attempts in the first half to get this thing kickstarted."
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
