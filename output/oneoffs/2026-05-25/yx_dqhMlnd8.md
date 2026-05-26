@@ -1,0 +1,13 @@
+# Knicks & Lakers stopping NBA from NFL TV model — *Nate Duncan*
+
+Source: https://www.youtube.com/watch?v=yx_dqhMlnd8
+
+_Speakers identified: Andrew Marchand, Nate Duncan_
+
+**1. Nate Duncan — "How are they going to get these big market teams on board?" — Knicks, Lakers' high cable revenue complicates NBA national package** [00:00](https://www.youtube.com/watch?v=yx_dqhMlnd8&t=0s)
+
+"The **Knicks**, **James Dolan** has not exactly been the most supportive partner of **Adam Silver** of late as well. The **Knicks**, you've got the **Lakers** as two teams that are getting paid a ton. In fact, back in the '70s, it was **Jack Kent Cooke** who owned the **Lakers** at the time that prevented basketball from going to a football style national package. So if they were to go to that, are you just, all right, **Lakers** are not included in that? Or are they going to compensate those teams in some way for devaluing their cable subscriptions? How are they going to get these big market teams on board?"
+
+**2. Andrew Marchand — "I don't see why I shouldn't still be paid more." — Compensating big market teams crucial for NBA national TV deal** [00:00](https://www.youtube.com/watch?v=yx_dqhMlnd8&t=0s)
+
+"Yeah, I would say it's number two, you're going to have to compensate them in some manner. I've been focused more on baseball with this because a bigger deal even on baseball because the RSNs are bigger there. And you have the same issue that the **Dodgers**, the **Yankees** make a lot more money and their regional sports network deals still very much work. But most clubs are having the issues that the NBA teams are having. For them, they have a labor agreement coming up due and there's probably going to be a lockout. And maybe there's some concessions with revenue sharing. NBA, could you make carve outs for bigger teams or some kind of, you can be creative. But I don't see how, and I don't think it's right personally. I get it. These are they're part of a whole league. But if I own the **Lakers**, they're worth more than the **Toronto Raptors** games. I don't see why I shouldn't still be paid more. I get it. The NFL works, but the NFL again has scarcity and it just has a format that just works when all the teams are bundled together. There's many more games as we've discussed with the NBA. And I don't think you just say, hey, let's put all the games in a bucket and everyone just takes the same amount of money out. That doesn't seem right if I'm the **LA Lakers** or the **New York Knicks** or some of the teams that are **Boston Celtics** who have more cachet and get better bigger numbers."

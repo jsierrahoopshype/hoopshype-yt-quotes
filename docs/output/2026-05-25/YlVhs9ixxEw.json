@@ -1,0 +1,87 @@
+{
+  "video_title": "[Victor Wembanyama] set the tone!' 🗣️ The Inside Guys react to Spurs' Game 4 win | NBA Tip-Off",
+  "speakers_seen": [
+    "Ernie Johnson",
+    "Shaquille O'Neal",
+    "Charles Barkley",
+    "Kenny Smith"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Barkley",
+      "timestamp": "02:27",
+      "summary_phrase": "Charles Barkley criticizes Spurs' previous defense and OKC's over-reliance on Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Jalen Williams",
+        "Ajay Mitchell"
+      ],
+      "excerpt": "I have no idea what the Spurs are doing defensively. I said that was so stupid what they were doing.",
+      "quote": "I have no idea what the Spurs are doing defensively. I said that was so stupid what they were doing. I said, why are you doubling SGA at half court, giving these guys practice shoot-around jump shots? They switched it up last night because they're really missing Jalen now and they're missing Jaylin Mitchell. Because when you go back and look, if you actually study this OKC team, there are only three guys in that team who can get their own shot. The rest of the guys get all their, they eat off of SGA's plate."
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Smith",
+      "timestamp": "03:25",
+      "summary_phrase": "Kenny Smith explains Victor Wembanyama's role as a defensive anchor for San Antonio",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "They allowed Wembanyama to stay in the anchor spot. So once he was in the anchor spot, they became perimeter.",
+      "quote": "I thought San Antonio had a great one-on-one defense. They allowed Wembanyama to stay in the anchor spot. So once he was in the anchor spot, they became perimeter, contested perimeter shots. Whereas before, I thought they floated Wembanyama out to the perimeter a little bit more in Game 3. In Game 4, he didn't float as much. He became the anchor and he became the deterrent. Everyone talks about him blocking shots or altering. We also talk about him being the deterrent and not even taking shots."
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Smith",
+      "speakers": [
+        "Kenny Smith",
+        "Charles Barkley"
+      ],
+      "timestamp": "05:47",
+      "summary_phrase": "Kenny Smith and Charles Barkley debate San Antonio's defensive strategy against Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "You're either going to allow Shai to go crazy and play one-on-one, or you're going to double him and make other guys beat you.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Kenny Smith",
+          "text": "I don't think San Antonio made a bad, you said it was poor. It's only poor because they made shots. So you come into the series and go, we're either going to allow Shai to go crazy and play one-on-one, or you're going to double him and make other guys beat you. He elected to make other guys beat you. What makes you a great coach is, okay, you showed that you can do that. Now we're going to make the second adjustment."
+        },
+        {
+          "speaker": "Charles Barkley",
+          "text": "Yeah, but you had to make a decision either way. You had to make a decision. You make a decision after the thing started. Shai had not played great in the playoffs. They won Game 1. Why did he stick?"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "speaker": "Ernie Johnson",
+      "speakers": [
+        "Ernie Johnson",
+        "Charles Barkley"
+      ],
+      "timestamp": "07:03",
+      "summary_phrase": "Ernie Johnson and Charles Barkley discuss the injury status of Jalen Williams and Ajay Mitchell for OKC",
+      "names_mentioned": [
+        "Tim MacMahon",
+        "Jalen Williams",
+        "Ajay Mitchell"
+      ],
+      "excerpt": "Jalen Williams is again questionable for Game 5, but the injury designation has been changed from left hamstring soreness to strain.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Ernie Johnson",
+          "text": "Tim MacMahon, who joined us the other night, says Jalen Williams is again questionable for Game 5, but the injury designation has been changed from left hamstring soreness to strain. Ajay Mitchell (soleus) is out again."
+        },
+        {
+          "speaker": "Charles Barkley",
+          "text": "Man, they need both of those guys. Ajay is out again. That's going to be interesting tomorrow night."
+        }
+      ]
+    }
+  ]
+}
