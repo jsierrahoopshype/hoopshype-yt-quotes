@@ -947,6 +947,11 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
         else:
             header = f"**{rank}.** [{ts_label}]({ts_link})"
         lines.append(header)
+        # Plain-text URL directly below the header (additive): same VIDEO_ID
+        # and timestamp the markdown link uses, but visible/copy-pasteable.
+        # Applies to both single-speaker and multi-speaker (text_blocks)
+        # render paths — the body block follows after this URL line.
+        lines.append(ts_link)
         lines.append("")
         names = q.get("names_mentioned") or []
         blocks = q.get("text_blocks") or []
