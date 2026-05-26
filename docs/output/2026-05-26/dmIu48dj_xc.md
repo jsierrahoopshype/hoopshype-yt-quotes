@@ -1,44 +1,4 @@
-# HoopsHype YT Quotes — 2026-05-26
-
-## Bobby Marks' Offseason Guide for the Cleveland Cavaliers | NBA on ESPN — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=UTzKSUYYJSM
-
-_Speakers identified: Bobby Marks_
-
-**1. Bobby Marks — "losing Game 1 totally deflated this team, basically quit in most of Game 3, Game 4." — Cleveland's playoff exit highlights mental toughness issues and offseason questions** [00:45](https://www.youtube.com/watch?v=UTzKSUYYJSM&t=45s)
-
-"You never want to say one game cost you a series, but **New York** certainly is the better team in all this. But losing Game 1 totally deflated this team, basically quit in most of Game 3, Game 4. At least Game 4, I think basically knocked the wind out of you as far as what **New York** was able to do, and Cleveland gets sent home and certainly goes into an offseason of many questions here. They go past one round further than they did last year. They lose in this hard fashion last year against **Indiana**. The biggest thing for me going into the regular season and then certainly the playoffs, how tough was this group? How mentally tough was this group? You get through **Toronto** in seven games, you get through **Detroit** in seven games, especially after you had lost Game 6 at home, and you go on the road in **Detroit** and you blow their doors off and you're thinking, 'Wait a minute. This could be the team this year to get out of the Eastern Conference,' and then you're up 20 in the first game and then you want to blowing that and we all know the history from there. So, a team that enters the offseason with a lot of questions."
-
-**2. Bobby Marks — "is it better off with James Harden on our roster moving for next year or James Harden off our roster" — 76ers' James Harden contract decision and immediate roster implications** [06:54](https://www.youtube.com/watch?v=UTzKSUYYJSM&t=414s)
-
-"They will enter the offseason as a second apron team again. So what does that mean? You've got to figure out, is it better off with **James Harden** on our roster moving for next year or **James Harden** off our roster and really, having **Dennis Schroder** start, having a sign a guy to the vet minimum here, you get about $30 million in financial savings here, or are you going to do a new deal with Harden? You would think when you make the trade with Harden, he basically had to waive his de facto one-year bird restriction, and he waived a trade bonus which was north of two, that there was somewhat of an agreement in place that there was going to be a new deal in place. He's got a $42 million player option. My guess would be that he opts out of that number and a new deal is done."
-
-**3. Bobby Marks — "That basically gets you under the second apron. That gives you the flexibility now to aggregate contracts" — New James Harden deal's financial benefits and trade flexibility** [06:54](https://www.youtube.com/watch?v=UTzKSUYYJSM&t=414s)
-
-"What does a new deal look like? I wrote two years, $56 million, $28 million. That means basically you get $14 million of savings this year. That basically gets you under the second apron. That gives you the flexibility now to aggregate contracts in a trade if you want to go out and get **Giannis**, possibly. That gives you that flexibility there to work within those boundaries. So you have to make a decision if you're in the front office, is **Harden** or basically playing the minimum wagon and having **Schroder** start along **Donovan Mitchell**, and then what does that mean for **Donovan Mitchell**?"
-
-**4. Bobby Marks — "Donovan Mitchell is eligible to sign a four-year, $272 million contract." — Donovan Mitchell is eligible for a massive extension, raising future salary concerns** [10:51](https://www.youtube.com/watch?v=UTzKSUYYJSM&t=651s)
-
-"**Donovan Mitchell**, who is an interesting case study as far as who is extension eligible. **Donovan Mitchell** is eligible to sign a four-year, $272 million contract. Basically, the player option is replaced with the new contract. The $61 million salary replaces the $50 million player option. He would earn $75 million at the age of 34 in 2030-31. Be careful. I'm not saying **Donovan Mitchell** is worthy of an extension, he is. Be careful when you're paying players $75 million at 34 years old. Just be careful. If he waits to the 2027 offseason, he's then eligible to sign a five-year, $352 million. These numbers are ridiculous here. He would have to basically play out the season. That is going to be an interesting one. Do you basically just write the guy a blank check? Keep your fingers crossed, hopefully in three years from now, still intact."
-
-**5. Bobby Marks — "This team goes into the offseason with a lot, a lot of questions as far as what direction they go." — Cleveland faces many offseason questions, including coaching, extensions, and consistency** [12:02](https://www.youtube.com/watch?v=UTzKSUYYJSM&t=722s)
-
-"**Keon Ellis**, **Dean Wade**, **Max Strus**, and **Craig Porter Jr.** are also extension eligible. Wade is interesting just because he started a bunch of games. But you're a second apron team, you have bird rights on him, you can bring him back, but how much more are you going to want to pay? Team needs: lineup consistency, 41 different starting lineups during the regular season, your draft assets. You have the 29th pick in the draft that you can move the night of the draft. You can also move one first in '31 or '32. You only have one second available. You've got a bunch owed in the future: '27, '28, '29, and '32 is frozen as we talked about it. So, in a nutshell, that is your Cleveland Cavaliers. It's almost like, would you rather have lost in Game 7 in a close game or get blown out in three games here? I want to get to a conference finals, but not. It's such a weird feeling as far as where they were and now where they are right now. The agony of defeat and the celebration of winning on the road here, and now this team goes into the offseason with a lot, a lot of questions as far as what the direction they go."
-
----
-
-## KNICKS SWEEP THE CAVS 🧹 New York advances to their first NBA Finals in 27 YEARS 🔥 | NBA on ESPN — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=UkNsyQXtlYA
-
-**1. "for the first time in 27 years, the New York Knicks are going to the NBA Finals." — New York Knicks reach NBA Finals after 27 years** [6:29](https://www.youtube.com/watch?v=UkNsyQXtlYA&t=389s)
-
-"Let's go Knicks! It's over. Believe it, Knicks fans, for the first time in 27 years, the **New York Knicks** are going to the NBA Finals. The dream season continues and hopes of ending a decades-long championship drought are very much alive."
-
----
-
-## SGA has NO CHOICE but to go 'NUCLEAR' in Game 5 - Chiney | Get Up — *NBA on ESPN*
+# SGA has NO CHOICE but to go 'NUCLEAR' in Game 5 - Chiney | Get Up — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=dmIu48dj_xc
 
@@ -87,7 +47,3 @@ _Speakers identified: James Harden, Greeny, Jay Williams, Chiney Ogwumike, Brian
 **11. Alan Hahn — "We didn't have the best players in the league on our team. We had the best team." — Knicks' team-first approach echoes past champions, avoids star-chasing** [14:24](https://www.youtube.com/watch?v=dmIu48dj_xc&t=864s)
 
 "I watched them again every single game very, very closely and watching what they've done over this 11-game stretch. It reminds me of the Matrix. When **Neo** finally started seeing the ones and the zeros. That's what it looks like. They're just making passes like it's all connected all at one time. But it came together. It's team basketball, which is what's celebrated in this town more than ever because the teams that did win championships, think about it. **Bill Bradley** said this about those teams back then: 'We didn't have the best players in the league on our team. We had the best team.' The Knicks for years chased stars, always trying to get **LeBron James**, always trying to get **Kevin Durant**. Give me the biggest name I can get, put him on the stage. Instead, they built this team with a second-round pick that nobody really knew much about and **Jalen Brunson**. They built it that way, became a team, but it took time to get there. That's the most important part. I think that's what's as admirable about this team as anything. The Matrix came out in 1999, the last time the Knicks were in the finals."
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
