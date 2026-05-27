@@ -947,11 +947,6 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
         else:
             header = f"**{rank}.** [{ts_label}]({ts_link})"
         lines.append(header)
-        # Plain-text URL directly below the header (additive): same VIDEO_ID
-        # and timestamp the markdown link uses, but visible/copy-pasteable.
-        # Applies to both single-speaker and multi-speaker (text_blocks)
-        # render paths — the body block follows after this URL line.
-        lines.append(ts_link)
         lines.append("")
         names = q.get("names_mentioned") or []
         blocks = q.get("text_blocks") or []
@@ -969,7 +964,20 @@ def to_markdown(url: str, channel_name: str, data: dict) -> str:
         else:
             body = q.get("quote", "")
             bolded = _bold_names(body, names)
-            lines.append(f"\"{bolded}\"")
+            # Prefix the single-speaker body with the speaker name (when
+            # we have one) — Speaker: "text". Mirrors the multi-speaker
+            # **Speaker:** "..." convention. Speaker is the same value
+            # already shown in the bolded header; intentional repeat.
+            if speaker:
+                lines.append(f"{speaker}: \"{bolded}\"")
+            else:
+                lines.append(f"\"{bolded}\"")
+        # Plain-text URL as the LAST line of the quote block (after the
+        # body, separated by a blank line). Same VIDEO_ID + timestamp the
+        # header's markdown link uses — visible and copy-pasteable.
+        # Applies uniformly to single- and multi-speaker render paths.
+        lines.append("")
+        lines.append(ts_link)
         lines.append("")
     return "\n".join(lines)
 
