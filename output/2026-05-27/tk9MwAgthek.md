@@ -1,0 +1,47 @@
+# How Jalen Brunson is proving everyone wrong 😤 + Knicks' NBA Finals preview | NBA Today — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=tk9MwAgthek
+
+_Speakers identified: Jalen Brunson, Narrator, Becky Hammon, Monica McNutt, Danny Green, Chiney Ogwumike_
+
+**1. Becky Hammon — "If your best player is small, you're not winning. John Stockton, Allen Iverson, Steve Nash, you could go down the list." — Becky Hammon's take on small players not winning championships** [1:47](https://www.youtube.com/watch?v=tk9MwAgthek&t=107s)
+
+Becky Hammon: "At the end of the day, they don't have a dude. You got to have a dude, you got to have a 1A dude. And they're missing that at the end of the day, if we're just getting down to brass tacks. If your best player is small, you're not winning. **John Stockton**, **Allen Iverson**, **Steve Nash**, you could go down the list. I speak from experience and I never, **Allen Iverson** got MVP and he lost in the Finals and I think the two best teams are probably in the West. But I'm up for being proven wrong. I said what I said. He proves me wrong, he proves me wrong."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=107s
+
+**2. Danny Green — "He doesn't need a mismatch because he can do this against anybody that's playing him one-on-one." — Danny Green breaks down Jalen Brunson's offensive prowess** [3:17](https://www.youtube.com/watch?v=tk9MwAgthek&t=197s)
+
+Danny Green: "But don't get it twisted. This guy is the most, he has the ball in his hands more than anybody. Why? Because he's so good with the ball in his hands. High IQ, low turnover assist ratio, most on-ball screens, most drives, first in floaters, and in isolations eighth in isolations because he's the only guy on this team that can do this. So when it comes down to it, when they need a basket, like in game one, when they're down 22, he's going to get the mismatch. He doesn't need a mismatch because he can do this against anybody that's playing him one-on-one. Right now, he gets **Donovan Mitchell**, lulls him to sleep a little bit, thinks he's going to go right, gets a crossover, gets to that left hand, sees that **Mikal Bridges** in that corner, knowing **Max Strus** is not going to help because **Mikal Bridges** is shooting a high clip right now. And that well-rounded team is helping him be more efficient in one day. Gets that left hand, nicely, easy drive, high off the glass."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=197s
+
+**3. Chiney Ogwumike — "It's not just when he has the ball in his hands, it's also the off-ball." — Chiney Ogwumike highlights Jalen Brunson's off-ball screening and movement** [4:15](https://www.youtube.com/watch?v=tk9MwAgthek&t=255s)
+
+Chiney Ogwumike: "And the reason why he can be a 1A, a top dog on a championship team, the hottest team in basketball, the New York Knicks, is because it's not just when he has the ball in his hands, it's also the off-ball. Look at these numbers right here. He's doubling the amount of times he's screening. As a screener on off-ball screens, he's now figured out a different version of offense. You got to thank **Karl-Anthony Towns** a little bit for being a facilitator here. You see him with the ball. All right, he's going to slip the screen first and foremost, and then he's going to create some motion that makes his defender a little bit late. And this is how he gets so many good looks, finishes in the paint. Not just because he's **Big Body Brunson**, it's because he's actually setting screens off of the ball. Here's a back screen to allow a backdoor cut. **KAT**, you see him doing his thing, playing quarterback. He's made 29 two-point jumpers, and that is third in the NBA in the postseason because of his actions not just with the ball, but without the ball."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=255s
+
+**4. "If he is the guy that leads this team to an NBA championship, many are ready to call him the greatest New York Knick of all time." — Jalen Brunson's potential to become the greatest New York Knick** [5:14](https://www.youtube.com/watch?v=tk9MwAgthek&t=314s)
+
+"And certainly when you talk to Knicks fans, when you talk to other Knicks players even that have had some incredible runs with Knicks, there is a sense that if he is the guy that leads this team to an NBA championship, many are ready to call him the greatest New York Knick of all time. But not there yet. They're still four wins away."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=314s
+
+**5. Danny Green — "Victor Wembanyama was struggling with Isaiah Hartenstein and Chet Holmgren, he is going to struggle even more" — Victor Wembanyama's struggles against specific big men** [08:09](https://www.youtube.com/watch?v=tk9MwAgthek&t=489s)
+
+Danny Green: "Earlier in the playoffs, I would have said the Spurs because I've seen how they match up with them throughout the season. And right now the Spurs are showing us the regular season does not matter because OKC, even with guys being down, they are beating up on the Spurs right now. But how **Victor Wembanyama** was struggling with how he's struggling right now with **Isaiah Hartenstein** and **Chet Holmgren**, he is going to struggle even more with **Mitchell Robinson** and **Karl-Anthony Towns**. Like that big, big lineup gives him trouble. So if I was them, I would say San Antonio."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=489s
+
+**6. Danny Green — "This team is looking unbeatable. They're looking really good." — Knicks' current form and playoff advantage over fatigued West teams** [08:09](https://www.youtube.com/watch?v=tk9MwAgthek&t=489s)
+
+Danny Green: "But with the way OKC is and how they're banged up and down bodies and the way that New York is playing basketball, I don't think it matters. I got Knicks in six whoever comes out of the West. The way they're playing, they're playing on a string defensively, offensively, sharing the ball, moving it. It's unbelievable. You got **Landry Shamet** going 11 for 12 from three. **Deuce McBride** knocking down shots. **Jalen Brunson** isolating down the stretch. This team is looking unbeatable. They're looking really good. And with those two teams going to be fatigued after a six, possibly seven game series. We've seen what **Cleveland** looked like. They were fatigued. It's hard to turn around and jump right into another final series against a team that's playing like that that's fully rested as well and playing their best basketball. That's an uphill battle. I think the Knicks are going to bring it home this year."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=489s
+
+**7. Chiney Ogwumike — "All the circumstances for them to win a championship are sort of unfolding in real time." — Chiney Ogwumike declares the New York Knicks a team of destiny** [9:37](https://www.youtube.com/watch?v=tk9MwAgthek&t=577s)
+
+Chiney Ogwumike: "**Victor Wembanyama** is a player of destiny, but it feels like the New York Knicks are a team of destiny. All the circumstances for them to win a championship are sort of unfolding in real time. You are literally the hottest team in basketball. You're holding teams to the least amount of points. You're scoring the most. You have the largest win differential. Your team is clicking on all cylinders. And you've got the King of New York in **Jalen Brunson**, right? I had trust issues with the Knicks coming into the playoffs. I don't have them anymore. I have confidence now based off of the circumstance that they're going to be rested, looking at this banged up Western Conference and be like, we can do this now."
+
+https://www.youtube.com/watch?v=tk9MwAgthek&t=577s
