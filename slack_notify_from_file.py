@@ -55,6 +55,7 @@ def main() -> int:
             one_off_count=int(payload.get("one_off_count") or 0),
             run_slot=payload.get("run_slot"),
             aborted_count=int(payload.get("aborted_count") or 0),
+            deferred_count=int(payload.get("deferred_count") or 0),
         )
         return 0
     print(f"unknown slack payload kind: {kind!r}", file=sys.stderr)

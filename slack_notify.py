@@ -79,6 +79,7 @@ def post_digest(
     one_off_count: int = 0,
     run_slot: str | None = None,
     aborted_count: int = 0,
+    deferred_count: int = 0,
 ) -> bool:
     """Post a digest to Slack.
 
@@ -107,8 +108,13 @@ def post_digest(
     abort. When > 0, the message gets a "ABORTED" banner at the top so
     readers can tell the run was cut short. Items that DID complete
     before the cap still render normally below the banner.
+
+    deferred_count is the number of videos that hit a terminal Gemini
+    503/500 after retries and were deferred to the next run. When > 0,
+    a separate "deferred" banner explains these aren't real failures —
+    they'll retry automatically on the next cron.
     """
-    if not items and aborted_count == 0:
+    if not items and aborted_count == 0 and deferred_count == 0:
         return post_no_new_videos(date_str)
 
     if digest_dates is None:
@@ -139,6 +145,12 @@ def post_digest(
             f":warning: ABORTED: Gemini spending cap hit; "
             f"{aborted_count} video{aborted_plural} in queue were not processed. "
             "Re-run this slot after the cap is raised."
+        )
+    if deferred_count > 0:
+        deferred_plural = "s" if deferred_count != 1 else ""
+        lines.append(
+            f":hourglass_flowing_sand: {deferred_count} video{deferred_plural} "
+            "deferred due to Gemini high-demand (503/500); will retry next run."
         )
     lines.append(summary_line)
     digest_filename = f"digest-{run_slot}.md" if run_slot else "digest.md"

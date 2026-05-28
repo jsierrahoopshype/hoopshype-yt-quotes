@@ -630,6 +630,30 @@ def _is_spending_cap_error(exc: Exception) -> bool:
     return any(p in msg for p in _SPENDING_CAP_PATTERNS)
 
 
+class TransientServerOverload(Exception):
+    """Raised when a Gemini 503 UNAVAILABLE / 500 INTERNAL survives the full
+    5-attempt in-call retry budget. The video itself is fine — Gemini's
+    servers were just temporarily overloaded — so the caller should treat
+    it as "deferred to next run" rather than marking it failed and
+    eventually writing FAILED.txt. Distinct from regular failed-other so
+    these don't count against the per-video retry cap.
+    """
+
+
+def _is_deferred_transient_error(exc: Exception) -> bool:
+    """True for terminal 503 UNAVAILABLE / 500 INTERNAL errors that survived
+    all retries. Other transient classes (httpx ReadError, ConnectionReset,
+    READ TIMED OUT, etc.) still get the existing failed-other treatment —
+    only Gemini server-overload signals get the deferred treatment per
+    Jorge's spec.
+    """
+    status = gemini_error_status(exc)
+    if status in (500, 503):
+        return True
+    msg = str(exc).upper()
+    return "UNAVAILABLE" in msg or "500 INTERNAL" in msg
+
+
 def _is_transient_gemini_error(exc: Exception) -> bool:
     """True for retryable errors: HTTP 429/500/503, httpx network errors,
     and any message containing one of _TRANSIENT_MESSAGE_PATTERNS.
@@ -683,6 +707,13 @@ def call_gemini_with_retry(client, url: str, video_title: str = "", known_speake
                 time.sleep(sleep_s)
             else:
                 log(f"  [main] giving up after 5 attempts: {e}")
+                # Terminal 503/500 -> defer the video (no marker written;
+                # retried fresh next run). Other terminal transients
+                # (httpx ReadError, etc.) keep the existing failed-other
+                # path so genuine flakiness still counts toward the cap.
+                if _is_deferred_transient_error(e):
+                    log(f"  [DEFERRED] Gemini server overload after retries; will retry next run")
+                    raise TransientServerOverload(str(e)) from e
                 raise
 
 
@@ -1217,6 +1248,13 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
             _spending_cap_hit.set()
             log(f"  [SPENDING CAP] {video_id}: {e} — aborting remaining queue this run")
             status, data = "aborted-spending-cap", None
+        except TransientServerOverload as e:
+            # Gemini server overload survived all retries. The video is
+            # fine; only the API was busy. Bucket as deferred-transient
+            # so no .ATTEMPTS.txt / .FAILED.txt marker gets written and
+            # the video re-queues fresh on the next cron.
+            log(f"  [DEFERRED] {video_id}: Gemini server overload after retries ({e}) — will retry next run")
+            status, data = "deferred-transient", None
         except Exception as e:
             log(f"  unexpected exception processing {video_id}: {e}")
             for line in traceback.format_exc().rstrip().splitlines():
@@ -1358,6 +1396,11 @@ def process_video(client, video: dict, channel_name: str, known_speakers: list |
     while True:
         try:
             raw_text, _usage = call_gemini_with_retry(client, url, expected_title, known_speakers)
+        except TransientServerOverload:
+            # Don't classify here — let _process_one_video bucket as
+            # deferred-transient so no .ATTEMPTS / .FAILED.txt marker
+            # gets written and the video re-queues fresh next run.
+            raise
         except SpendingCapExhausted:
             # Don't classify here — let _process_one_video set the global
             # abort flag and bucket the status so all remaining queue
@@ -1643,6 +1686,7 @@ def main() -> int:
         "failed-timeout": 0,
         "failed-other": 0,
         "aborted-spending-cap": 0,
+        "deferred-transient": 0,
     }
     processed_items: list = []
     state_lock = threading.Lock()
@@ -1698,10 +1742,11 @@ def main() -> int:
             digest_dates_oneoff.append(pd)
 
     aborted_count = summary.get("aborted-spending-cap", 0)
-    if processed_items or aborted_count > 0:
+    deferred_count = summary.get("deferred-transient", 0)
+    if processed_items or aborted_count > 0 or deferred_count > 0:
         # Route through the digest payload (instead of no_new_videos) so an
-        # aborted run with zero completed items still surfaces the cap
-        # banner in Slack instead of falsely reading "no new videos today."
+        # aborted-or-deferred run with zero completed items still surfaces
+        # the banner in Slack instead of falsely reading "no new videos."
         one_off_count = sum(1 for it in processed_items if it.get("is_one_off"))
         _queue_slack_payload({
             "kind": "digest",
@@ -1712,6 +1757,7 @@ def main() -> int:
             "oneoff_digest_dates": digest_dates_oneoff,
             "one_off_count": one_off_count,
             "aborted_count": aborted_count,
+            "deferred_count": deferred_count,
         })
     else:
         _queue_slack_payload({"kind": "no_new_videos", "date_str": today})
