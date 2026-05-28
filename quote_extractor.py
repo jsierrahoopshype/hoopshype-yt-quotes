@@ -276,6 +276,15 @@ _CAP_ELIGIBLE_FAILURES = frozenset({"failed-timeout", "failed-hallucination", "f
 # workflow runs start fresh.
 _spending_cap_hit = threading.Event()
 
+# Set by any worker thread the moment a TransientServerOverload bubbles up.
+# Mirrors _spending_cap_hit's fast-fail pattern but for terminal 503/500
+# server-overload signals. The first video burns its full 5-attempt retry
+# budget (~3 min); sibling workers then short-circuit on entry and mark
+# themselves deferred-transient without calling Gemini at all. Process-local
+# only — overloads recover, so the next cron starts fresh with the flag
+# cleared and the deferred videos get a real attempt.
+_transient_overload_hit = threading.Event()
+
 
 def _attempts_path(day_dir: Path, video_id: str) -> Path:
     return day_dir / f"{video_id}.ATTEMPTS.txt"
@@ -1227,6 +1236,17 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
             summary["aborted-spending-cap"] = summary.get("aborted-spending-cap", 0) + 1
         return
 
+    # Same short-circuit for terminal transient overload: once one video
+    # has eaten its full 5-attempt budget against a 503/500, the rest of
+    # the queue would burn the same time + API charges for the same
+    # nothing. Mark as deferred-transient with zero Gemini calls; the
+    # video stays un-marked on disk and gets a real attempt next run.
+    if _transient_overload_hit.is_set():
+        log(f"  -> {video_id} [{name}]: skipping (Gemini overload already deferred this run)")
+        with lock:
+            summary["deferred-transient"] = summary.get("deferred-transient", 0) + 1
+        return
+
     log(f"  -> {video_id} [{name}{' / one-off' if is_one_off else ''}]: {video['title'][:80]}")
 
     # Run process_video on a dedicated single-thread executor so we can
@@ -1252,8 +1272,12 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
             # Gemini server overload survived all retries. The video is
             # fine; only the API was busy. Bucket as deferred-transient
             # so no .ATTEMPTS.txt / .FAILED.txt marker gets written and
-            # the video re-queues fresh on the next cron.
-            log(f"  [DEFERRED] {video_id}: Gemini server overload after retries ({e}) — will retry next run")
+            # the video re-queues fresh on the next cron. Also raise the
+            # process-wide flag so sibling workers short-circuit at entry
+            # instead of each burning their own 5-attempt budget against
+            # the same dead bucket.
+            _transient_overload_hit.set()
+            log(f"  [DEFERRED] {video_id}: Gemini server overload after retries ({e}) — aborting remaining queue this run")
             status, data = "deferred-transient", None
         except Exception as e:
             log(f"  unexpected exception processing {video_id}: {e}")
