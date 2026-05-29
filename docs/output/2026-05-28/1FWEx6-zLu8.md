@@ -1,0 +1,23 @@
+# Scalabrine - OKC & SGA are BEST at Bending the NBA Rules — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=1FWEx6-zLu8
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, Brian Scalabrine_
+
+**1. Brian Scalabrine — "it was clear from the first minute that Victor Wembanyama was fatigued across the board." — Victor Wembanyama's fatigue in the series against Oklahoma City** [00:26](https://www.youtube.com/watch?v=1FWEx6-zLu8&t=26s)
+
+Brian Scalabrine: "To me, it was clear from the first minute that **Victor Wembanyama** was fatigued across the board. He just did not have the same pop that he had throughout. Sometimes you can shake out of that. Remember, he has never even been through a full season. He has never made a playoff run, and now he is in this absolute hand-to-hand combat with Oklahoma City. If you are asking me whether I think he is going to be fine today, I do not know that. I know that players with playoff experience and that have gone through it before, they can typically bounce back after a bad game, but this is a totally new animal we never dealt with before. The guy is 7'4". I give him a lot of credit, man. He plays hard even if he does not have it. It is like he has not figured out that way, and I think Giannis Antetokounmpo might be a little bit like this as well. How do I dominate a game? How am I effective by not just going all out every single time?"
+
+https://www.youtube.com/watch?v=1FWEx6-zLu8&t=26s
+
+**2. Brian Scalabrine — "I think they are the best I have ever seen at playing the game and bending the rules." — Shai Gilgeous-Alexander and the NBA's foul-drawing rules** [01:44](https://www.youtube.com/watch?v=1FWEx6-zLu8&t=104s)
+
+Brian Scalabrine: "I have no slander for **Shai Gilgeous-Alexander**. The rules of the NBA state that if you are getting downhill and a guy dislodges you from your line, which I do not love that rule, I wish they would abolish that rule, the letter of the law, it is a foul. I do not mind that. I think both teams do that. I think players are starting to pick up on it. He has mastered it, no problem. They make it seem like he is not good and the only reason why he is good is because of that. I think they are the best I have ever seen at playing the game and bending the rules. I just was hoping that the officials at this level, which are supposed to be the best, would not go for all these shenanigans and they are. I have no problem with **Shai Gilgeous-Alexander**'s game getting downhill, getting fouled, maybe getting bumped. Everyone does that. I am going to get slightly hit and I am going to fall down and that is going to be a foul. That should not even be a part of our game."
+
+https://www.youtube.com/watch?v=1FWEx6-zLu8&t=104s
+
+**3. Brian Scalabrine — "he was bad two minutes into the game. This is not residual fatigue. He did not have it." — Victor Wembanyama not addressing the media after Game 5** [05:49](https://www.youtube.com/watch?v=1FWEx6-zLu8&t=349s)
+
+Brian Scalabrine: "I look at it one of two ways. Actually three ways. One, if he prioritizes his recovery after that, he was bad two minutes into the game. This is not residual fatigue. He did not have it. And anybody that sees **Victor Wembanyama** live, when you watch him and he is running like we are running uphill and we are doing those 100-yard sprints, and he looks like that at the beginning of the game, the Spurs are in trouble. So if he prioritizes that, the other thing is I thought it would have been a good opportunity for a guy of his stature to call out the officials, and I think that would have helped him in Game 6. Just take the $50,000 fine or whatever the fine is. You do not have to be dismissive about it. You do not have to name call. You just have to say stuff like what we are saying right now. I see my man Stefan Castle going through war out there and I see Shai Gilgeous-Alexander get hit and falls down and I see the officials going for that."
+
+https://www.youtube.com/watch?v=1FWEx6-zLu8&t=349s
