@@ -1,0 +1,31 @@
+# RJ REVEALS What Teams REALLY Do to Superstars in the Playoffs — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=1nxu3s1E1nU
+
+_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye, Kendrick Perkins_
+
+**1. Richard Jefferson — "If you notice, the next guy over completely leaves his man and chucks Wembanyama in the chest" — The Spurs' physical defensive strategy against Victor Wembanyama** [00:14](https://www.youtube.com/watch?v=1nxu3s1E1nU&t=14s)
+
+**Channing Frye:** "They are playing old school 2000s basketball where if you get past half court, they are like, nope, you have to walk us down to your spot. Wembanyama does not have that weight on him yet, that strength on him yet. Even when they run that high screen and roll and **Hartenstein** steps off his body, if you notice, the next guy over completely leaves his man and chucks Wembanyama in the chest to keep standing him up."
+
+**Richard Jefferson:** "He has to learn and the Spurs have to learn they have to be patient. They want to run and get downhill, but at times you have to play that half court basketball and get your big fella the ball in a place where he can be successful and not just look at, oh well, **Hartenstein** is not down there, let me go four and four."
+
+https://www.youtube.com/watch?v=1nxu3s1E1nU&t=14s
+
+**2. Richard Jefferson — "We were beating the crap out of Steph. We were beating the crap out of him." — The Pistons' physical defensive plan to stop Michael Jordan** [02:40](https://www.youtube.com/watch?v=1nxu3s1E1nU&t=160s)
+
+Richard Jefferson: "We were beating the crap out of Steph. We were beating the crap out of him. Cutting through the lane, that was part of the reason why he threw his mouthpiece because we were beating the crap out of Steph. That is the only thing that you can do. Steph knows it. This is part of the reason why Steph is one of my, he knows that the only thing that we can do to stop him is beat him up. That is also why Steph got stronger. That is also why the way they play defense was to try and keep Steph out because that is our job. Steph is also 6'3" and we were beating the shit out of him and this dude still went out and did it. He is going against bigger. Wembanyama, he is getting the crap beat out of him. That is what it takes. **Kobe Bryant** gets the crap beat out of him. Look at what they were doing to **Pau Gasol**. **Shaquille O'Neal** would get the crap beat out of him."
+
+https://www.youtube.com/watch?v=1nxu3s1E1nU&t=160s
+
+**3. Kendrick Perkins — "Trying to make a championship run, you have to do a lot of little things." — The importance of recovery and extra work for championship teams** [05:12](https://www.youtube.com/watch?v=1nxu3s1E1nU&t=312s)
+
+Kendrick Perkins: "Trying to make a championship run, you have to do a lot of little things. Are you going to go that extra mile as far as, hey, you know what, I am at home, we got 24-hour access to the facility, I am going to go back at night and get in the cold tub for an hour, or I am going to call my trainer and get more treatment, or I am going to wear my compression tights on the plane to make sure my legs there. Instead of leaving a day before the game, we are going to leave if the Spurs win on Game 6, we are going to be out the night of Game 6 and head straight to Oklahoma. When OKC take off, we are taking off as well. Recovery matters, especially for Wembanyama because he does not have a reliable number two option right now. They depend on him to go out there and get 30 or 40 points to beat this Oklahoma City team. **Jalen Williams** is not healthy, Fox is not healthy, **Stephon Castle** has the assignment of guarding **Shai Gilgeous-Alexander**, so you cannot ask too much of him. **Mitchell** is not healthy."
+
+https://www.youtube.com/watch?v=1nxu3s1E1nU&t=312s
+
+**4. Richard Jefferson — "If you make a mistake on Steph, his teammates succeed because of their motion offense." — The defensive impact of Stephen Curry versus Victor Wembanyama** [08:12](https://www.youtube.com/watch?v=1nxu3s1E1nU&t=492s)
+
+Richard Jefferson: "If you make a mistake on Steph, his teammates succeed because of their motion offense. So like if you make a mistake on Steph, three guys run to him, he might not get the shot, but they got two guys open behind him. So that is where it is just it is unguardable. With Wembanyama, you can make a mistake and yes, he gets the dunk, he does it, but it is not as debilitating. That is a great word. Yeah."
+
+https://www.youtube.com/watch?v=1nxu3s1E1nU&t=492s

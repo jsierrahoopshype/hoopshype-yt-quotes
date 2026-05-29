@@ -1,0 +1,65 @@
+{
+  "video_title": "VLOG 09: I BROUGHT THE BROOKLYN NETS ROOKIES TO THE LAKE OF THE OZARKS!",
+  "speakers_seen": [
+    "Michael Porter Jr.",
+    "Jalen Wilson",
+    "Noah Clowney",
+    "Drake Powell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Michael Porter Jr.",
+      "speakers": [
+        "Michael Porter Jr.",
+        "Jalen Wilson"
+      ],
+      "timestamp": "02:55",
+      "summary_phrase": "Michael Porter Jr. on Drake Powell's dual talent in basketball and music",
+      "names_mentioned": [
+        "Drake Powell"
+      ],
+      "excerpt": "He had rapping and he had basketball. He chose rapping. So he was the one.",
+      "text_blocks": [
+        {
+          "speaker": "Michael Porter Jr.",
+          "text": "He had rapping and he had basketball. He chose rapping. So he was the one."
+        },
+        {
+          "speaker": "Jalen Wilson",
+          "text": "Did you enjoy the Ozarks?"
+        },
+        {
+          "speaker": "Michael Porter Jr.",
+          "text": "I love the Ozarks. They were great."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "speaker": "Noah Clowney",
+      "speakers": [
+        "Noah Clowney",
+        "Jalen Wilson"
+      ],
+      "timestamp": "03:51",
+      "summary_phrase": "Noah Clowney and Jalen Wilson on the loss of a phone",
+      "names_mentioned": [],
+      "excerpt": "I must lost a friend to that phone. But we're back better than ever.",
+      "text_blocks": [
+        {
+          "speaker": "Noah Clowney",
+          "text": "We don't put anything in the cloud. That's all of me and right there. I never dropped it once. Nick doesn't have any of it."
+        },
+        {
+          "speaker": "Jalen Wilson",
+          "text": "I'm not good to you. I'm not good to you, so talk to me like that."
+        },
+        {
+          "speaker": "Noah Clowney",
+          "text": "I don't care. It's not going to work."
+        }
+      ]
+    }
+  ]
+}

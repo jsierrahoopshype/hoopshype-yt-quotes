@@ -1,0 +1,46 @@
+{
+  "video_title": "Boogie, Chandler & Georges Give Their Spurs-Thunder Game 7 Predictions",
+  "speakers_seen": ["Michelle Beadle", "DeMarcus Cousins", "Chandler Parsons", "Georges Niang"],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "DeMarcus Cousins",
+      "speakers": ["DeMarcus Cousins", "Chandler Parsons"],
+      "timestamp": "00:16",
+      "summary_phrase": "Victor Wembanyama must play aggressively for the Spurs to win",
+      "names_mentioned": ["Victor Wembanyama", "Shai Gilgeous-Alexander", "Alex Caruso", "Isaiah Joe"],
+      "excerpt": "his best games is when he starts the game aggressive",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "DeMarcus Cousins",
+          "text": "Hopefully a super aggressive Victor Wembanyama. I think his best games is when he starts the game aggressive. He usually gets into a flow of things and is just playing in the motion of the team, which is not necessarily a bad thing. But when you think of Game 7, when you think about his patterns as far as what his best games have been throughout the series, it is usually the ones where he starts the most aggressive. If the Spurs want a chance, I think we got to have the most aggressive version of Wembanyama. As far as Oklahoma City, I think they just come out and play their game. Obviously Shai Gilgeous-Alexander needs to have a big game. They are going to need the supporting cast, the rest of the guys, the Alex Carusos and the Isaiah Joes of the world. I expect a big-time performance, but as far as the Spurs and Wembanyama, he has to come out aggressive."
+        },
+        {
+          "speaker": "Chandler Parsons",
+          "text": "Those numbers do not lie. 34 in wins and 22 in losses. Like when he sets the tone, like Boogie said, what did he have, 22 in the first half last night? Like that just opens up the floodgates. It makes their offense so much harder to guard when he comes out and he is aggressive and he can get out in transition and he gets downhill and he gets to the basket. He is just so much better. So again, I fully expect that in Game 7. I can't wait. Obviously it is going to be an insane game, but those numbers right there are crazy. That should tell the Spurs and Miss Johnson everything that they need to know. Like we got to get him going early. Obviously keep him out of foul trouble, but when he goes like that, the Spurs are exponentially better."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "speaker": "Chandler Parsons",
+      "timestamp": "01:54",
+      "summary_phrase": "Playing in Oklahoma City is a difficult environment for opponents",
+      "names_mentioned": ["Victor Wembanyama", "Chet Holmgren", "DeMarcus Cousins", "DeMar DeRozan"],
+      "excerpt": "It is tough playing down there in Oklahoma City",
+      "quote": "It is tough playing down there in Oklahoma City. So he is going to need to be phenomenal and let the others follow with that, because it is already tough enough to beat the Oklahoma City Thunder, but then to beat them at home is a whole different project. I was watching the game last night and I was like, this is something DeMarcus Cousins would have appreciated when he blocked Chet Holmgren and pushed him. I was like, that is a DeMar DeRozan move right there. And then I walked off. I was like, I can't wait till tomorrow. I am going to bring this up.",
+      "text_blocks": []
+    },
+    {
+      "rank": 3,
+      "speaker": "DeMarcus Cousins",
+      "timestamp": "05:22",
+      "summary_phrase": "Home court advantage will decide the outcome of Game 7",
+      "names_mentioned": ["Victor Wembanyama"],
+      "excerpt": "whenever they are at home they are able to dominate",
+      "quote": "I am more with Chandler. I am kind of going with the home team here as far as where the game is located. That seems to be the pattern in this series as well. Whenever they are at home they are able to dominate. So I am going to go with Oklahoma City for Game 7. I do think this will go down to the wire. This is a make-or-break game. I am expecting a huge performance from Victor Wembanyama. I am expecting a huge performance from the supporting cast of Wembanyama as well, and I also think Shai Gilgeous-Alexander is going to seal the deal. So I got Oklahoma City in 7.",
+      "text_blocks": []
+    }
+  ]
+}
