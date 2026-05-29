@@ -80,6 +80,7 @@ def post_digest(
     run_slot: str | None = None,
     aborted_count: int = 0,
     deferred_count: int = 0,
+    deferred_videos: list | None = None,
 ) -> bool:
     """Post a digest to Slack.
 
@@ -152,6 +153,23 @@ def post_digest(
             f":hourglass_flowing_sand: {deferred_count} video{deferred_plural} "
             "deferred due to Gemini high-demand (503/500); will retry next run."
         )
+        # List the deferred videos with clickable URLs so the user can
+        # re-submit manually or eyeball which content was missed. Skip
+        # silently if the payload doesn't include the list (backward
+        # compat with older script versions).
+        if deferred_videos:
+            lines.append("Deferred videos:")
+            for dv in deferred_videos:
+                vid = (dv.get("video_id") or "").strip()
+                if not vid:
+                    continue
+                title = (dv.get("title") or vid).strip()
+                channel = (dv.get("channel") or "").strip()
+                url = f"https://www.youtube.com/watch?v={vid}"
+                if channel:
+                    lines.append(f"• {title} ({channel}): {url}")
+                else:
+                    lines.append(f"• {title}: {url}")
     lines.append(summary_line)
     digest_filename = f"digest-{run_slot}.md" if run_slot else "digest.md"
     if oneoff_digest_dates:

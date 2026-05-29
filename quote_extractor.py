@@ -285,6 +285,16 @@ _spending_cap_hit = threading.Event()
 # cleared and the deferred videos get a real attempt.
 _transient_overload_hit = threading.Event()
 
+# Populated by _process_one_video each time a video lands in the
+# deferred-transient bucket (whether via the in-call exception handler or
+# the entry short-circuit). One dict per deferred video: {video_id, title,
+# channel}. Slack reads this and renders the videos as a clickable list
+# so users can re-submit them manually if needed. Module-level + appended
+# under the existing summary lock, mirroring _transient_overload_hit's
+# process-local lifetime: each workflow run is a fresh interpreter, so
+# the list starts empty without explicit reset.
+_deferred_items: list = []
+
 
 def _attempts_path(day_dir: Path, video_id: str) -> Path:
     return day_dir / f"{video_id}.ATTEMPTS.txt"
@@ -1220,12 +1230,22 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
     Output files are routed by the video's publish date, not the run date,
     so a 4-day-old video processed today still lands under its own day's
     folder and digest.
+
+    Deferred videos (both paths) get appended to the module-level
+    _deferred_items list under the same summary lock, so Slack can render
+    a clickable list of which videos didn't process this run.
     """
     name = channel.get("name", "?")
     video_id = video["video_id"]
     pub_date = _publish_date(video)
     day_dir = _video_day_dir(video)
     is_one_off = bool(video.get("is_one_off"))
+
+    deferred_record = {
+        "video_id": video_id,
+        "title": video.get("title") or video_id,
+        "channel": name,
+    }
 
     # If a sibling worker already hit the spending cap, short-circuit
     # immediately without calling Gemini. The video remains un-marked
@@ -1245,6 +1265,7 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
         log(f"  -> {video_id} [{name}]: skipping (Gemini overload already deferred this run)")
         with lock:
             summary["deferred-transient"] = summary.get("deferred-transient", 0) + 1
+            _deferred_items.append(deferred_record)
         return
 
     log(f"  -> {video_id} [{name}{' / one-off' if is_one_off else ''}]: {video['title'][:80]}")
@@ -1326,6 +1347,8 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
                 "date": pub_date,
                 "is_one_off": is_one_off,
             })
+        elif status == "deferred-transient":
+            _deferred_items.append(deferred_record)
 
 
 # --------------------------------------------------------------------------- #
@@ -1782,6 +1805,7 @@ def main() -> int:
             "one_off_count": one_off_count,
             "aborted_count": aborted_count,
             "deferred_count": deferred_count,
+            "deferred_videos": list(_deferred_items),
         })
     else:
         _queue_slack_payload({"kind": "no_new_videos", "date_str": today})
