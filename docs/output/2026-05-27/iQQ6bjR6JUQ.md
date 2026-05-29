@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-05-27
-
-## Is Jalen Brunson the GREATEST Knick Ever? Coach of the Year Debate & Cleveland Offseason — *No Fouls Given*
+# Is Jalen Brunson the GREATEST Knick Ever? Coach of the Year Debate & Cleveland Offseason — *No Fouls Given*
 
 Source: https://www.youtube.com/watch?v=iQQ6bjR6JUQ
 
@@ -97,7 +95,3 @@ https://www.youtube.com/watch?v=iQQ6bjR6JUQ&t=792s
 Paul Pierce: "Caruso out here looking like 2007 **Robert Horry**. It's crazy. No, is that 2007? Yeah, yeah, right? When he was in San Antonio, when he was playing with Detroit in the finals."
 
 https://www.youtube.com/watch?v=iQQ6bjR6JUQ&t=864s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

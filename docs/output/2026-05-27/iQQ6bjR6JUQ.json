@@ -1,0 +1,180 @@
+{
+  "video_title": "Is Jalen Brunson the GREATEST Knick Ever? Coach of the Year Debate & Cleveland Offseason",
+  "speakers_seen": [
+    "Danny Green",
+    "Wosny Lambre",
+    "Paul Pierce"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Danny Green",
+      "timestamp": "00:00",
+      "summary_phrase": "Danny Green on the defensive challenge of guarding James Harden",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "If you pick James Harden up at half court and he gets a screen, he's at his mercy.",
+      "quote": "If you pick James Harden up at half court and he gets a screen, now the bigs have to guard him above the three-point line or at the three-point line. He's at his mercy."
+    },
+    {
+      "rank": 2,
+      "speaker": "Wosny Lambre",
+      "timestamp": "00:08",
+      "summary_phrase": "Wosny Lambre on the cycle of playoff losses for Eastern Conference teams",
+      "names_mentioned": [],
+      "excerpt": "The Heat lost to Boston in 22, made it in 23. Boston lost to the Heat in 23.",
+      "quote": "The Heat lost to Boston in 22, made it in 23. Boston lost to the Heat in 23, made it in 24. Indiana lost to Boston in 24, made it in 25. The Knicks lost to Indiana in 25, made it in 26."
+    },
+    {
+      "rank": 3,
+      "speaker": "Paul Pierce",
+      "timestamp": "00:29",
+      "summary_phrase": "Paul Pierce on Jalen Brunson's status as the greatest Knicks player",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "Willis Reed is the greatest Knick now.",
+      "quote": "Willis Reed is the greatest Knick now."
+    },
+    {
+      "rank": 4,
+      "speaker": "Wosny Lambre",
+      "speakers": [
+        "Wosny Lambre",
+        "Paul Pierce"
+      ],
+      "timestamp": "00:34",
+      "summary_phrase": "Wosny Lambre and Paul Pierce on the Spurs' playoff performance",
+      "names_mentioned": [],
+      "excerpt": "This is the first time the Spurs, this game five specifically in the playoffs, showed their age.",
+      "text_blocks": [
+        {
+          "speaker": "Wosny Lambre",
+          "text": "To me, Danny, this is the first time the Spurs, this game five specifically in the playoffs, showed their age as a group."
+        },
+        {
+          "speaker": "Paul Pierce",
+          "text": "You signed the players back. You got to the Eastern Conference Finals. Now this is not overreact. You got there. People forget they had a one-day turnaround after two."
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "speaker": "Danny Green",
+      "timestamp": "03:32",
+      "summary_phrase": "Danny Green on the Spurs' rebounding and playing without fouling",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "They got out-rebounded. Chet came to play finally. Isaiah Hartenstein 15 rebounds, that's clutch.",
+      "quote": "They got out-rebounded. Chet came to play finally. Isaiah Hartenstein 15 rebounds, that's clutch. And those other guys hooped. The Spurs are supposed to be one of the best teams in the business at playing without fouling."
+    },
+    {
+      "rank": 6,
+      "speaker": "Paul Pierce",
+      "timestamp": "04:15",
+      "summary_phrase": "Paul Pierce on the Spurs' officiating complaints",
+      "names_mentioned": [],
+      "excerpt": "How have the Spurs been a part of it? Game four they got a great whistle.",
+      "quote": "How have the Spurs been a part of it? Game four they got a great whistle. Game one they got a great whistle. Like they've gotten. Look, man, I understand, Paul, that we watch this stuff in super slow-mo, and there's been all of this chatter about OKC and the calls that they get, but it's hard for me to be like, the Spurs are losing this series because the refs have not been favorable enough to them."
+    },
+    {
+      "rank": 7,
+      "speaker": "Paul Pierce",
+      "timestamp": "04:42",
+      "summary_phrase": "Paul Pierce on the necessity of playing through bad officiating",
+      "names_mentioned": [],
+      "excerpt": "Don't expect no calls. Don't just drilled that in our head.",
+      "quote": "Don't expect no calls. Don't just drilled that in our head. Because if you don't expect it, when you get it, it's a bonus. So you got to play through all that. You can't get frustrated with the fouls. You know what it is. You know what it is."
+    },
+    {
+      "rank": 8,
+      "speaker": "Wosny Lambre",
+      "timestamp": "06:08",
+      "summary_phrase": "Wosny Lambre on the Spurs' guards playing beyond their years",
+      "names_mentioned": [
+        "Stephon Castle",
+        "Harrison Barnes"
+      ],
+      "excerpt": "Castle and Harrison Barnes, they played beyond their years leading up to this.",
+      "quote": "When you talk about the guards, Castle and Harrison Barnes, they played beyond their years leading up to this, but like, the way they're just spraying the ball all around, the turnovers were just killer between both of them."
+    },
+    {
+      "rank": 9,
+      "speaker": "Wosny Lambre",
+      "timestamp": "06:25",
+      "summary_phrase": "Wosny Lambre on the drawbacks of an aggressive defensive strategy",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "You're doing this super aggressive pressing up on Shai Gilgeous-Alexander 94 feet.",
+      "quote": "You're doing this super aggressive pressing up on Shai Gilgeous-Alexander 94 feet. Yeah, you know what? You're going to wear him down. He's not making shots. He's out of rhythm. Cool. Sometimes you're fouling this guy 50 feet from the basket and sending him to the free throw line."
+    },
+    {
+      "rank": 10,
+      "speaker": "Danny Green",
+      "timestamp": "07:40",
+      "summary_phrase": "Danny Green on the defensive strategy against Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "James Harden"
+      ],
+      "excerpt": "You can't let Shai Gilgeous-Alexander get eight free throws. Again, I don't understand this.",
+      "quote": "You can't let Shai Gilgeous-Alexander get eight free throws. Again, I don't understand this, maybe because I haven't been on a little outdated, but like, when we played, certain guys, yeah, we could pick up full court, but once we got to the half court line, our pickup points, we don't need to guard him. We put James Harden up at half court and he gets a screen and now the bigs got to guard him above three-point line or at three-point line, he's at his mercy."
+    },
+    {
+      "rank": 11,
+      "speaker": "Wosny Lambre",
+      "timestamp": "12:15",
+      "summary_phrase": "Wosny Lambre on the Spurs' offensive struggles and lack of flow",
+      "names_mentioned": [
+        "De'Aaron Fox",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Their offense isn't generating as clean a looks as often as OKC is right now.",
+      "quote": "Their offense isn't generating as clean a looks as often as OKC is right now. And you know, some of it is on the guards, quite frankly. They're young guys and De'Aaron Fox is not a spring chicken. Some of it is on him, but some of it is on Victor Wembanyama as well in terms of he's not getting deep position."
+    },
+    {
+      "rank": 12,
+      "speaker": "Paul Pierce",
+      "timestamp": "10:22",
+      "summary_phrase": "Paul Pierce on the importance of seizing momentum in playoff games",
+      "names_mentioned": [],
+      "excerpt": "Good teams always find ways to get back in the game.",
+      "quote": "Good teams always find ways to get back in the game. When you have that moment, you have to take advantage of it. The third quarter, they had that moment."
+    },
+    {
+      "rank": 13,
+      "speaker": "Paul Pierce",
+      "timestamp": "11:06",
+      "summary_phrase": "Paul Pierce on the Spurs' failure to secure offensive rebounds",
+      "names_mentioned": [],
+      "excerpt": "The one thing they didn't do, they didn't get the offensive rebounds. They turned it over.",
+      "quote": "The one thing they didn't do, they didn't get the offensive rebounds. They turned it over. Every time they had that moment, they had that so if I'm San Antonio, I'm going back and I'm going to say, look guys, this was our moment right here."
+    },
+    {
+      "rank": 14,
+      "speaker": "Wosny Lambre",
+      "timestamp": "13:12",
+      "summary_phrase": "Wosny Lambre on the importance of Jalen Brunson and AJ Mitchell",
+      "names_mentioned": [
+        "Jalen Brunson",
+        "AJ Mitchell"
+      ],
+      "excerpt": "The fact that Jalen Brunson and AJ Mitchell, their second best player, AJ Mitchell who's a merge.",
+      "quote": "The fact that Jalen Brunson and AJ Mitchell, their second best player, AJ Mitchell who's a merge is like probably their third most important ball handler. Both of these guys are out and they could win a playoff game this comfortably."
+    },
+    {
+      "rank": 15,
+      "speaker": "Paul Pierce",
+      "timestamp": "14:24",
+      "summary_phrase": "Paul Pierce on the Spurs' defensive identity and roster construction",
+      "names_mentioned": [
+        "Robert Horry"
+      ],
+      "excerpt": "Caruso out here looking like 2007 Robert Horry.",
+      "quote": "Caruso out here looking like 2007 Robert Horry. It's crazy. No, is that 2007? Yeah, yeah, right? When he was in San Antonio, when he was playing with Detroit in the finals."
+    }
+  ]
+}
