@@ -1,0 +1,57 @@
+{
+  "video_title": "Giannis picks Knicks to win NBA Finals & says Boston and Philly have best fans",
+  "speakers_seen": [
+    "Giannis Antetokounmpo",
+    "Marlon"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Giannis Antetokounmpo",
+      "speakers": [
+        "Giannis Antetokounmpo",
+        "Marlon"
+      ],
+      "timestamp": "01:35",
+      "summary_phrase": "Giannis predicts the Knicks will win the NBA Finals",
+      "names_mentioned": [],
+      "excerpt": "I think Knicks, but I think Spurs will win on Sunday to go to the finals.",
+      "text_blocks": [
+        {
+          "speaker": "Marlon",
+          "text": "I think Knicks, but I think Spurs will win on Sunday to go to the finals, you know?"
+        },
+        {
+          "speaker": "Giannis Antetokounmpo",
+          "text": "I think that I feel like Knicks will win the whole thing. Because basketball, there is momentum. One like living in a row, they can keep going on that, right? And you know the city just rallies behind them."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "speaker": "Giannis Antetokounmpo",
+      "speakers": [
+        "Giannis Antetokounmpo",
+        "Marlon"
+      ],
+      "timestamp": "02:20",
+      "summary_phrase": "Giannis identifies Boston and Philadelphia as having the best fans",
+      "names_mentioned": [],
+      "excerpt": "I feel like the best arena was Boston, Philly. Yeah, they go crazy.",
+      "text_blocks": [
+        {
+          "speaker": "Giannis Antetokounmpo",
+          "text": "I feel like the best arena was Boston, Philly. Yeah, they go crazy. Philly, Boston, and then they have passionate fans."
+        },
+        {
+          "speaker": "Marlon",
+          "text": "Is that like a regular game or like more like playoff? Regular game?"
+        },
+        {
+          "speaker": "Giannis Antetokounmpo",
+          "text": "Playoff, playoff they go crazy. Everybody go crazy in playoff. But regular game, Boston, passionate, Philadelphia 76ers, they have passionate fans. That's my team, they are in the arena."
+        }
+      ]
+    }
+  ]
+}

@@ -40,6 +40,38 @@ _Speakers identified: Udonis Haslem, DWade, Bob_
 
 ---
 
+## 5ème Quart-Temps #6 (ft T. PARKER & YOUSSOUPHA & TRASHTALK) 🏀 — *Unibet France*
+
+Source: https://www.youtube.com/watch?v=5gf9F4FWgb4
+
+_Speakers identified: Bastien, Alex, Tony Parker, Youssoupha_
+
+**1. Tony Parker — "Le meilleur joueur contre qui j'ai joué est Kobe Bryant" — Tony Parker names Kobe Bryant as the toughest opponent he faced** [33:31](https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2011s)
+
+Tony Parker: "J'ai joué contre **Kobe** dans son prime, j'ai joué contre LeBron dans son prime, et pour moi le meilleur joueur contre qui j'ai joué est **Kobe Bryant**."
+
+https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2011s
+
+**2. Alex — "Les Knicks n'ont pas besoin de gagner des matchs pour être une des plus grandes franchises NBA" — New York Knicks status as a premier NBA franchise** [38:21](https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2301s)
+
+Alex: "Les Knicks n'ont pas besoin de gagner des matchs pour être une des plus grandes franchises NBA. La hype est permanente."
+
+https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2301s
+
+**3. Youssoupha — "Les Américains sont surcotés dans tous les domaines" — Youssoupha argues American sports and culture are overrated** [40:23](https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2423s)
+
+Youssoupha: "Les Américains sont surcotés dans tous les domaines, en terme de rap, de sport, de culture. Ça commence à me saouler."
+
+https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2423s
+
+**4. Tony Parker — "Il a tout pour le devenir" — Tony Parker's perspective on Victor Wembanyama's potential** [42:23](https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2543s)
+
+Tony Parker: "En tout cas, il a tout pour le devenir. Après, s'il reste en bonne santé et qu'il enchaîne les titres, il a tout pour."
+
+https://www.youtube.com/watch?v=5gf9F4FWgb4&t=2543s
+
+---
+
 ## Carmelo Anthony on Wemby's Takeover, Knicks Finals Chances & Kiyan's Tough Freshman Year — *ALL THE SMOKE*
 
 Source: https://www.youtube.com/watch?v=FBPI5LEdxd8
@@ -151,6 +183,102 @@ _Speakers identified: Chris Mannix_
 **2. Chris Mannix — Zion Williamson's healthy season and future with Pelicans — "The plan is to hold on to Zion, to keep him in New Orleans."** [02:26](https://www.youtube.com/watch?v=GKxI_WN3hww&t=146s)
 
 "The big question moving forward in New Orleans now is will **Zion Williamson** be part of this next iteration of Pelicans teams? From what I was told during this interview process with coaches, the plan is to hold on to Zion, to keep him in New Orleans. He's got two full years left on his contract. And maybe one of the silver linings in a disappointing 25-26 season was Zion was relatively healthy. He played 62 games, averaged right around 21 points per game, shot a good percentage from the floor. That's the second highest most number of games that Zion has played in his career. So getting him back, getting him healthy is a great sign for the Pelicans. And as of right now, the plan is to hold on to Zion and continue to build him out as a coach."
+
+---
+
+## Mark Cuban Explains The Business of Owning an NBA Team — *Front Office Sports*
+
+Source: https://www.youtube.com/watch?v=LurMedA3mdw
+
+_Speakers identified: Mark Cuban, Dan Roberts_
+
+**1. Mark Cuban — "if the NBA went from 48 minutes to 40 minutes, it would change it 180 degrees for the better" — Mark Cuban suggests shortening NBA games from 48 to 40 minutes** [00:00](https://www.youtube.com/watch?v=LurMedA3mdw&t=0s)
+
+"I really think if the **NBA** went from 48 minutes to 40 minutes, it would change it 180 degrees for the better."
+
+**2. Mark Cuban — "One of the beautiful things about NIL for professional sports is guys know how to manage the money" — Mark Cuban explains how NIL improves financial literacy for college athletes entering pro sports** [04:13](https://www.youtube.com/watch?v=LurMedA3mdw&t=253s)
+
+"One of the beautiful things about NIL for professional sports is guys know how to manage the money by the time they get out of college. Football, you're four years and basketball, you're one or two years, and more guys are staying four years, which is even better. Because I can't tell you how many stories I had about players who came to the **Mavericks** who didn't know what a checking account was, let alone had one. Didn't understand how credit cards worked. Had no concept of money and you literally, I remember, no, don't spend that money. You're making $850,000, you can't buy your mom a $5 million house. And so NIL really made them far more aware of the economics. That's the good side. The bad side is there's a lot of shady people who understand that these are kids that don't understand money, maybe from families who are in the same situation and take advantage of them, take enormous percentages. And so, but generally, NIL is great for professional sports. I think it's great for the players and it forces them to be smarter about money earlier."
+
+**3. Mark Cuban — "That's why you've seen such a surge from European players and global players in basketball" — Mark Cuban discusses the surge of European players in basketball due to their maturity** [06:20](https://www.youtube.com/watch?v=LurMedA3mdw&t=380s)
+
+"That's why you've seen such a surge from European players and global players in basketball. Because they're pros, right? They're playing against grown men, they are grown men. And so bringing them in, they they have better basketball IQs or better football IQs, better lacrosse IQs, whatever it may be. And you also have to have a coaching staff that understands how to deal with men as opposed to 18-year-old kids away from mom for the first time. I mean, I remember when I went to Indiana University, in my freshman year, I had a roommate for a little bit who was a football player. 6'5", 275 from Traverse City, Michigan."
+
+**4. Mark Cuban — "for the WNBA even with their new CBA, like I was talking to the athletic director of an important women's team" — Mark Cuban compares top WNBA salaries to NIL deals, influencing college stays** [07:50](https://www.youtube.com/watch?v=LurMedA3mdw&t=470s)
+
+"And in some cases they're getting paid more than some of the pros are. And for the **WNBA** even with their new CBA, like I was talking to the athletic director of an important women's team, and I was like, how much are the top women getting paid? The very, very best, million and a half. Which is I think the top salary in the **WNBA** is 1.4. And that tells you a lot. That tells you why kids particularly on the women's side are going to stay four years. But guys, you would declare for the draft, most people wouldn't get drafted, even though your agent lied to you and say this team liked you in the first round. And but now they can stay and make a million or more dollars and have it guaranteed. And if they get that fifth year of eligibility, they can go to a school that they just think is fun and pays them the most or whatever is the best playing situation and that's far better set of circumstances than going to professional sports."
+
+**5. Mark Cuban — "to own a team now the best way to maximize value is the real estate" — Mark Cuban explains selling the Mavericks due to the shift towards real estate and business over passion** [09:33](https://www.youtube.com/watch?v=LurMedA3mdw&t=573s)
+
+**Dan Roberts:** "I thought it was really interesting that earlier when you talked about why you sold, you said, look, to own a team now the best way to maximize value is the real estate. You have to have like whether it's a shopping plaza, you look at the battery and Atlanta, hotels, I mean I'm from Boston, I always think of Patriot place, which was years and years ago before this became a trend, but it's a giant mall and there's bowling and restaurants and bars."
+
+**Mark Cuban:** "Yeah, we had a Plaza at the American Airlines Center and it did okay, but that's not the business I wanted to be in. You know, the best part about only the **Mavs** was I could go out in the court and shoot before a game and when there was a buzzer beater, I could run on the court and not get arrested. You know, but the emotional connection of it is intense. You know, the anxiety levels, the mental health levels are intense. And so, you know, it it just it was draining and I just thought like, okay, it's time."
+
+**6. Mark Cuban — "I didn't want to have to worry about private equity coming in and the conversations in the board of governors" — Mark Cuban explains how private equity shifted NBA ownership focus from fans to valuations** [10:20](https://www.youtube.com/watch?v=LurMedA3mdw&t=620s)
+
+"I didn't want to have to worry about building whatever. I didn't want to have to worry about private equity coming in and the conversations in the board of governors move from, okay, how do we make it better for fans? Not that they don't care about fans, but just the conversation in the board of governors means was all about valuations. I mean, when I bought the **Mavs**, I paid $285 million, 10 years later the the **NBA** could not sell the **Charlotte** or the **New Orleans** team to anybody. You know, it had to take over the **New Orleans** team and the valuations 10 years later was still 280 some whatever million dollars. And I didn't care about the valuation. We went through the great financial crisis and everything sucked. People didn't have money."
+
+**7. Mark Cuban — "I remember when I came in and I was the young guy and all the old school owners just hated my ass." — Mark Cuban's early clashes with old-school NBA owners** [12:36](https://www.youtube.com/watch?v=LurMedA3mdw&t=756s)
+
+"I remember when I came in and I was the young guy and all the old school owners just hated my ass. Hated. There was one guy, the guy who owned the Pistons, I think it was. And I had gotten fined already a couple times. I hadn't even owned the team six months. And he stood up in a board meeting. No, I stood up at the board meeting and he was, 'Shut your motherfucking ass up until you have done something in this league.' And then I started to respond to him and I called him by the wrong name and **David Stern** had to step in. But that was, it was just a different vibe."
+
+**8. Mark Cuban — "Now it's PE guys. And it's run much more like a business than it is as a passion." — Mark Cuban explains why he sold Mavericks due to ownership changes** [12:36](https://www.youtube.com/watch?v=LurMedA3mdw&t=756s)
+
+"And then as those guys got out, then people came in and they were more like me, right? They loved the game, they played some, even if they just liked it, right? They played some. And they were more vocal, more connected to the players. And now it's PE guys. And it's run much more like a business than it is as a passion. And that doesn't apply to everybody. There's certainly exceptions, but it just changed completely. And I sold it at the end of 23, but I literally had written an email to **Adam Silver** in October of 22 saying this is what I'm going to do and gave him these exact reasons."
+
+**9. Mark Cuban — "We had Luka. You know, and the team I put together went to the finals" — Mark Cuban reflects on player transience and the difficulty of winning championships** [14:12](https://www.youtube.com/watch?v=LurMedA3mdw&t=852s)
+
+"We had Luka. You know, and the team I put together went to the finals. We were in decent shape. Maybe not perfect, but decent shape. And so it it really had nothing because you know team, you know, players come and go. It's just the reality. Father time is undefeated. It's always good to get another ring, but it's not so easy. It takes more luck than anything else."
+
+**10. Mark Cuban — "you realize that this is just a loan and they're getting the team for free." — Mark Cuban explains NBA expansion fees are a 60-year loan.** [15:24](https://www.youtube.com/watch?v=LurMedA3mdw&t=924s)
+
+**Dan Roberts:** "One question I have is does this league need two more teams?"
+
+**Mark Cuban:** "There's plenty of talent for it. That's not the problem, right? I remember when **Charlotte** came into the league and I remember having a conversation with some owners that I won't name and I was like, you realize that this is just a loan and they're getting the team for free. And they were like, no **Mark**, we're getting $300 million, right? That's a little because there were 29 teams, so that's a little bit more than 10 million each. I'm like, no, but we went from 1/29th of all the money to 1/30th of the money. And that delta is what they're using to recapture everything they put up."
+
+**11. Mark Cuban — "It's a way for them to get money out sooner. And it's the same with NBA Europe." — Mark Cuban discusses NBA expansion, private equity, and monetization strategies.** [15:24](https://www.youtube.com/watch?v=LurMedA3mdw&t=924s)
+
+"And the same applies now. And with the TV deal being a lot bigger, the numbers have to be a lot bigger. And it's still just a loan, but it's a 60-year loan and it's a way in a world where the teams have so heavily geared towards private equity, again, not all teams. It's a way for them to get money out sooner. And it's the same with **NBA Europe**, right? It's just a way to monetize. And that's what those that's the gearing towards it. And I feel bad for **Adam** because it's a much harder job."
+
+**12. Dan Roberts — "what does it mean to have a team maybe in Vegas? It's a transient city. All tourists." — Dan Roberts questions Vegas's past perception as a transient sports city** [16:34](https://www.youtube.com/watch?v=LurMedA3mdw&t=994s)
+
+"I want to ask you about NBA Europe, but first, what does it mean to have a team maybe in Vegas? It's funny because I feel like only 10, 15 years ago, never mind just leagues like the **NFL** wanting nothing to do with Vegas. But also the take was, it's a transient city. All tourists. Can't have a fan base there."
+
+**13. Mark Cuban — "Once the NHL did so well. To own a team there, you have a huge home court advantage." — Mark Cuban on Vegas's viability for multiple professional sports teams** [16:34](https://www.youtube.com/watch?v=LurMedA3mdw&t=994s)
+
+"Exactly, that's what we would hear. All tourists. Then hockey comes in and changes all that. Totally. Now you have **NFL** and maybe eventually you get **MLB** there, but if you have the NBA, you will have **MLB** there. Symbolically though, is it surprising you? No, not at all. Once the **NHL** did so well. To own a team there, you have a huge home court advantage. At the same time, it'll be interesting to see how it all plays out because T-Mobile probably isn't the end all be all arena for a team. That's a lot more money to spend on an arena. Vegas is decent size and you'll get commitment from sponsors and you'll get ticket sales from the casinos. But you don't know if it can support that many teams. On the flip side, like I'm from Pittsburgh, you got the **Pirates**, the **Steelers** and the **Penguins** and there's no problem supporting three teams."
+
+**14. Mark Cuban — "It's the prop bets that are the problem. That creates a lot of perverse incentives." — Mark Cuban on prop bets creating perverse incentives for leagues** [17:52](https://www.youtube.com/watch?v=LurMedA3mdw&t=1072s)
+
+"I think sports betting is not the problem, whether it's or traditional sports betting. It's the prop bets that are the problem. I don't think we fully considered all the permutations of betting that would be created and the simplicity of betting online. Because when the original conversations, you could discuss online poker and it was dead. It had gone like this and then they outlawed it for the most part. And then it was still going to a sports book. Going to the sports book, there's some limitations, right? But then when it went all online and the daily fantasy sports kind of boosted it up, then it was like, okay, but daily fantasy sports isn't necessarily a problem. Betting on wins and losses, end of quarter scores isn't a problem. But now when you're betting does a guy pick his nose at the free throw line with under six minutes up by more than 12, that creates a lot of perverse incentives. And I think that's created a problem. And I think that's one of the reasons the **NBA** and other leagues doing deals with the prediction markets simply because they want not it's not because so much about their money or the data fees, it's more because they want to limit the types of predictions or bets."
+
+**15. Mark Cuban — "for players it's even harder. And when I saw it was truly just starting to kick in" — Mark Cuban highlights the failure to protect players from social media abuse related to sports betting** [19:28](https://www.youtube.com/watch?v=LurMedA3mdw&t=1168s)
+
+"Oh, it's ridiculous. And that's I mean for players it's even harder. And when I saw it was truly just starting to kick in where, you know, guys will be or women whoever were in the audience, you ruined my motherfucking parlay, you son of a bitch, may you burn in. And you'd hear this stuff. And there'd be little kids right there and it'd be like, no, no, that's you know, and I would get mad and it was just like there's certainly a downside and the players feel it the worst. And we have not done a good job of protecting players as much as we should. Particularly on social media. Like I I always tried to take the position that if you went after my guys on social media or somewhere else, I'm going after you. Even if it means me getting fined. And you just don't see that anymore."
+
+**16. Mark Cuban — "Fans know it's not always going to go your way. Fans know there's going to be seasons that you thought were going to be good" — Mark Cuban emphasizes the critical importance of owners communicating directly and honestly with fans** [20:41](https://www.youtube.com/watch?v=LurMedA3mdw&t=1241s)
+
+"Fans know it's not always going to go your way. Fans know there's going to be seasons that you thought were going to be good that turn out bad and vice versa. But if you're sharing in the misery as an owner and you're telling them you're going to do what you're going to do, right? And how you see it? That's beautiful for fans. I mean, that is the way every owner should communicate with fans. There is no business without your fans. And I said it from day one when I bought the **Mavs**, I don't own the team. I'm just a steward of the team, the fans own the team. If they don't show up, we're done. If they're not fans, we're done. If they don't want to watch, we're done."
+
+**17. Mark Cuban — "the current reported price tags on those franchises seem to him like science fiction" — Mark Cuban questions the high price tags for NBA Europe franchises, fearing fan backlash** [22:36](https://www.youtube.com/watch?v=LurMedA3mdw&t=1356s)
+
+**Dan Roberts:** "We had **Misko Raznatovic** sitting here. He also mentioned **NBA Europe** and he said that the current reported price tags on those franchises seemed to him like science fiction."
+
+**Mark Cuban:** "Yeah, the half a billion to a billion dollars. Yeah, I I had a meeting with one of the bankers involved and that's what they were saying and and I was like, okay, so let me get this straight. I can buy a team in a smaller league, win that country's league and work my way up. Or I can pay $500 to a billion dollars and then take over a marketplace that probably hates me going in. Because they're so tied to their team if I come in and as **NBA Europe**, that fan base, particularly if I'm using an incumbent team that's big time, right? And it's run differently, you risk just being shunned. And I'm like, I ain't stepping into that hornet's nest. I'd rather be the hero that comes in with the team that everybody underestimates like the **Mavs** when I bought them, build it up, work my way up, relegate somebody else and be a billion dollar team then. And you know that that would be beautiful, but I ain't giving you a billion dollars so people can just give me shit the whole time."
+
+**18. Mark Cuban — "as committed as fans are to their teams in Europe and the clubs that they've grown up with" — Mark Cuban contrasts European fan loyalty to teams with US fan loyalty to players, warning NBA Europe of arrogance** [24:30](https://www.youtube.com/watch?v=LurMedA3mdw&t=1470s)
+
+"as committed as fans are to their teams in Europe and the clubs that they've grown up with. They're still more loyal to a team where here fans have evolved to be more loyal to a player, right? I grew up a **Pittsburgh** fan of everything. If I wasn't my dad would disown me. Even when the **Steelers** always sucked, SOS, same old **Steelers**. We are the **Steelers**, right? My buddies were up watching the **Penguins** late last. I just went to a meeting and somebody from **Pittsburgh**. Yeah, I was up late watching the **Penguins** lose to the **Flyers**. That's **Pittsburgh**. And that reflects that's just like Europe, **Chicago**, **Pittsburgh**. You know, that's the way they look at teams and walking into that set of circumstances thinking just because you're the NBA, I think that arrogance will backfire."
+
+**19. Mark Cuban — "Every professional sports, any league that makes their money from TV quote-unquote, understands that linear TV is dying" — Mark Cuban argues that subscription retention, not ratings, is the key metric for sports media revenue** [26:47](https://www.youtube.com/watch?v=LurMedA3mdw&t=1607s)
+
+**Dan Roberts:** "Now not everything has the sticking power of **NFL** and getting one **NFL** game."
+
+**Mark Cuban:** "Even the **NFL**, right, I mean, they have got to every professional sports, any league that makes their money from TV quote-unquote, right? whether streaming or linear, understands that linear TV is dying and it's becoming completely dependent on sports. You know, and so when you have 60, 70% of whatever it is of your revenue coming from basically one industry, we would give you shit on Shark Tank. And so that has to be a concern and everybody looks to that and says, well, you know, we can hopefully get a real TV deal/streaming deal and generate revenue there or we can sell subscriptions. But I can tell you, when you look at the individual team subscriptions, local subscriptions for NBA teams, they ain't all that, you know. And so there's still a lot of risk associated with what's going on. Dying but not dead yet as I like to say. I mean we're living through the transition period. You know that whole thing when streaming started 30 years ago and we said that, you know, this is what was going to happen just took a little longer than we expected. But it's still completely dependent other than maybe **Amazon** on subscriptions."
+
+**20. Mark Cuban — "You've got Netflix going to event driven sports and that works for them, but their numbers aren't going through the roof" — Mark Cuban discusses how streaming services prioritize subscribers and event-driven sports over traditional ratings** [28:01](https://www.youtube.com/watch?v=LurMedA3mdw&t=1681s)
+
+"You've got **Netflix** going to event driven sports and that works for them, but their numbers aren't going through the roof. You know, have they reached a ceiling where you can do event driven or a couple games or Christmas day, I don't know. And but the idea of like, oh the ratings are up, the ratings are down, meaningless numbers. I mean, that helps advertising sales on on the margin, but it's all about subscription revenue because that is what pays the bills. When **Netflix** reports their earnings, they talk about ad revenue, but how many subscribers do you have locally or globally? When **NBC Peacock** reports, how many subscribers do you have? **Disney**, how many subscribers do you have? They don't look at the average ratings anymore at all."
 
 ---
 
