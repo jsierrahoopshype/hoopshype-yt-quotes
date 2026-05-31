@@ -1,0 +1,53 @@
+{
+  "video_title": "Inside My Biggest Moments Yet | AJ Dybantsa",
+  "speakers_seen": [
+    "AJ Dybantsa",
+    "Marvin Hicks",
+    "Jordan Troester"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "00:36",
+      "summary_phrase": "AJ Dybantsa officially declares for the 2026 NBA Draft",
+      "names_mentioned": [],
+      "excerpt": "Today I'm officially declaring for the 2026 NBA Draft.",
+      "quote": "Let me just say this before, the news is already out there. Today I'm officially declaring for the 2026 NBA Draft."
+    },
+    {
+      "rank": 2,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "02:44",
+      "summary_phrase": "AJ Dybantsa explains why he chose to partner with Nike",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "We've seen the greats suit up in Nike and I want to be one of the next greats.",
+      "quote": "Everything, the culture, what they've done for their athletes, the marketing, just like we've seen the greats suit up in Nike and I want to be one of the next greats, so it's kind of an easy decision for me."
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Troester",
+      "speakers": [
+        "Jordan Troester",
+        "AJ Dybantsa"
+      ],
+      "timestamp": "05:54",
+      "summary_phrase": "Jordan Troester discusses AJ Dybantsa's weight fluctuation during training",
+      "names_mentioned": [],
+      "excerpt": "There's always going to be some fluctuation, but as long as the trend is in the right direction.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Jordan Troester",
+          "text": "Last week you were 212, 213. This week you're like 214, 215. Next week 216, 217, like there's always going to be some fluctuation, but as long as the trend is in the right direction."
+        },
+        {
+          "speaker": "AJ Dybantsa",
+          "text": "Yeah, that's good."
+        }
+      ]
+    }
+  ]
+}

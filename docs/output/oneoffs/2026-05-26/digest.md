@@ -177,6 +177,228 @@ https://www.youtube.com/watch?v=Iu2Nqo9DvXo&t=2153s
 
 ---
 
+## Los Angeles Clippers Part 2: 2026 Mock Offseason | Third Apron Podcast — *Yossi Gozlan*
+
+Source: https://www.youtube.com/watch?v=_pNlDDUPCOk
+
+_Speakers identified: Yossi Gozlan, Law Murray_
+
+**1. Law Murray — "The Clippers have a handful of them, ranging from guys who are young and were in the rotation." — Clippers' extraordinary amount of team options creates uncertainty** [05:32](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=332s)
+
+Law Murray: "It's a lot. I think the thing you got to start at is all those team options. There's an extraordinary amount. There are teams, I'm sure you've seen these cap sheets, there are teams that don't have any team options, I'm sure. The Clippers have a handful of them, ranging from guys who are young and were in the rotation at the end of the year, to guys who are veterans on various levels of the rotation. Brook ended the year as a starter. Nico was a backup for the majority of the season. Bogey pretty much had a redshirt year, or whatever the senior equivalent of a redshirt year is. I can understand re-upping certain guys, but you got to make sure that you have a plan, a deal in place to justify that. I'm not sure that exists for a lot of these dudes."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=332s
+
+**2. Law Murray — "There are people who follow the Clippers who forget Brad is even on the team." — Bradley Beal's uncertain future with the Clippers** [07:48](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=468s)
+
+Law Murray: "Beal is one of the most interesting cases here. He was brought in to start. He obviously did not make it past the first week of November. There are people who follow the Clippers who forget **Brad** is even on the team. This is, like, they were really excited to get him. And I thought what was interesting in November when it was announced that he was undergoing season-ending surgery is that they said he was going to be on the team next year. We have zero reason to believe anything that is said in November, February, really, any of the 12 months on the calendar about whether or not a player is going to be there. But the Clippers being so forthcoming with that indicates one of two things: either they really want him on the team, or they really want someone to believe that he will be on the team as means in entertaining a transaction."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=468s
+
+**3. Law Murray — "Jordan Miller stuck with the program and got somewhat rewarded this year for it." — Jordan Miller's loyalty and contract journey with the Clippers** [11:05](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=665s)
+
+Law Murray: "**Jordan Miller** is in a pretty sensitive spot because, for one, he's already 26. He already has gone through the wringer with the **Clippers**. He's been loyal to them, arguably more than the **Clippers** have been loyal to **Miller**. **Miller** was cut last year so that they would have the salary flexibility to complete the offseason moves that they wanted to complete, and they told **Jordan**, 'Hey, we'll have a spot for you, it's a two-way contract,' after he got promoted the previous season off of a two-way. And **Jordan Miller** stuck with the program and got somewhat rewarded this year for it because not only did he get promoted again off of a two-way, but he was better and was able to sustain his rotation spot."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=665s
+
+**4. Law Murray — "He's an incredibly efficient player and an incredibly good dude to have on your team." — Jordan Miller's on-court value and future contract decision** [11:05](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=665s)
+
+Law Murray: "I think it would be beneficial for the **Clippers** if they were to just keep him on this low number, but **Jordan Miller** has also earned more than that. This is a guy who doesn't shoot enough threes. He's not a guy who comfortably gets himself into, and the **Clippers** are littered with players like that. His ability to get to the free throw line is a little overstated. He gets there, but it's very situational. He's not exactly a shot creator per se. That said, he's an incredibly efficient player and an incredibly good dude to have on your team. And the **Clippers** might decide, 'What would benefit **Jordan** would be to decline that and to rework something where he doesn't have to have this contract situation hanging over his head for a fourth NBA season.'"
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=665s
+
+**5. Law Murray — "Cam has not established himself as a good enough shooter, and he's not really a shot creator." — Cam Christie's struggles as a young rotation player for the Clippers** [14:50](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=890s)
+
+Law Murray: "While we're talking about **Miller** and **Sanders** and the fact that those dudes got to progress into rotation players for a 42-win team, we also have to talk about how **Cam Christie** got opportunities before those dudes to be a rotation player, and it didn't go well. Cam is by far the youngest player on the team. He's only going to be 21 years old at the end of July, but he has struggled with pretty much every aspect of the game. Sub-40% from the field, sub-25% from three, which you would have thought, just completely removing what you think of **Max**, because that's what happens all the time. NBA players who are relatives of another NBA player, whether it's a son or a brother in this case, they're like, 'Oh, you're like...' Cam has not established himself as a good enough shooter, and he's not really a shot creator. I think his development in the G kind of has spoken to maybe a little bit more shot creation juice, but his pro opportunities haven't been at that level, and to be honest with you, he just hasn't shot it well."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=890s
+
+**6. Law Murray — "Five years ago, the 36th pick was Miles McBride. Deuce is literally one of the best reserves." — Clippers' 36th pick value impacts Cam Christie's roster spot** [14:50](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=890s)
+
+Law Murray: "The biggest issue that **Cam** has is the **Clippers** have two second-round picks. One of those is 36th overall. We've seen teams look at those picks in the 30s, especially in a draft that people are looking forward to, and those guys wind up being some. Last year's 36th pick was a **Douthy Hero**. That dude got a roster spot, and he wasn't even healthy. That dude got a roster spot from the **Lakers**. **Andre Jackson Jr.** was a 36th pick a few years ago, and he hasn't progressed. Obviously, he was in one of the worst developmental programs the league has, but still, that dude was a roster player. Five years ago, the 36th pick was **Miles McBride**. **Deuce** is literally one of the best reserves on a team that is a favorite to be in the Eastern Conference Finals right now. That wasn't the case immediately, but it was the case eventually, and he lasted longer than the first-round pick of his class, **Quentin Grimes**, who's been traded I don't know how many times. So that is the concern. I think I would not anticipate **Cam** being on the team next year. I'm not reporting it. I'm just doing some very informed analysis here for the aggregators out there."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=890s
+
+**7. Law Murray — "From a production standpoint, Ben can be really good. He dominated second units from a scoring standpoint." — Ben Mathurin's positive offensive production and volume for Clippers** [22:44](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s)
+
+Law Murray: "**Ben** is a very complicated situation. I can see this dragging out, honestly. From a production standpoint, **Ben** can be really good. He dominated second units from a scoring standpoint. He gets to the line at a high rate because the ball was in his hands, because the **Clippers** had this incredible dearth of ball handling. I thought **Ben** did pretty well in that role, being that he was a mid-season trade acquisition. I thought he did pretty well from a volume standpoint."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s
+
+**8. Law Murray — "Ben shot horribly from three. You never want to see a guy who was safely average three-point shooter come to your team and be a 21% three-point shooter." — Benedict Mathurin's concerning three-point shooting and efficiency struggles** [22:44](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s)
+
+Law Murray: "From an efficiency and process standpoint, you are troubled because against teams that were determined to keep **Benedict Mathurin** off the free throw line, **Ben**edict struggled mightily. In terms of how he processes things, that was a bit of a challenge. **Ben** shot horribly from three. You never want to see a guy who was safely average three-point shooter come to your team and be a 21% three-point shooter. We just talked about **Cam Christie** and having two years of tape where he was not even at 25%. **Ben** was at 20.7% from three. So it's like, are you really that bad of a shooter? I don't think so, but that leads to your other concern, which is a lot more pressing: Is he healthy?"
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s
+
+**9. Law Murray — "Benedict Mathurin physically should be a really good defender, and it's year four, and he hasn't been reliable." — Benedict Mathurin's toe injury and defensive reliability concerns** [22:44](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s)
+
+Law Murray: "What are your concerns with **Benedict Mathurin**'s toe situation? You had to deal with that with **Darius Garland**. Darius had surgery. How healthy is **Ben** going into this offseason? Do you think that him resolving his toe issue will get his shot together? And then nothing to say about the defense. **Benedict Mathurin** physically should be a really good defender, and it's year four, and he hasn't been reliable on that end of the floor. He is beaten a bit more than he should, and that's nothing to say for the off-ball instincts and everything."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s
+
+**10. Law Murray — "He gives you shot creation opportunities that you are not going to replace. That's why I believe ultimately he will be here." — Ben Mathurin's potential fit and future with the Clippers** [22:44](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s)
+
+Law Murray: "If the **Clippers** believe that he can resolve all those questions and be a part of their program, he makes a lot of sense for him to be there. He could start, he could be a backup. He gives you shot creation opportunities that you are not going to replace. That's why I believe ultimately he will be here. The level of commitment in terms of years and salary and when this gets resolved, that is completely up in the air for me."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1364s
+
+**11. Law Murray — "The biggest thing with John is the production was not necessarily. I feel like the Clippers were a little disappointed with the rebounding." — John Collins's rebounding struggles and unique offensive game** [27:35](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1655s)
+
+Law Murray: "The biggest thing with **John** is the production was not necessarily. I feel like the Clippers were a little disappointed with the rebounding. Again, I think they like **John**. I think they like what kind of teammate he is and the energy that he brings to a team. But that's a lot of money, and I think you got to really just determine what are you getting back? This is a team that needs to be a better rebounding team, and then you're looking at the big who wound up playing, I believe, more minutes per game than any other big on the team, especially after the Zubac trade, and you're going like, why does our starting power forward average 5.3 rebounds per game? That's troubling. What do you do with him defensively? There's not a lot of guys you can replace him with, but **John**'s already one of the most unique players in the league, a guy who can finish inside and outside. I think he's an elite play finisher."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=1655s
+
+**12. Law Murray — "I don't think the Clippers should be interested in taking back those current Warriors or in Andrew Wiggins' case." — Clippers should avoid Warriors and Heat trade deals** [33:35](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=2015s)
+
+Law Murray: "No. To be blunt, no. I know why the Warriors and the Heat would want to do those deals. Again, we're talking about two play-in tournament teams that they've been mid for years. Obviously, we saw the Heat actually get **Norman Powell** last year, and that worked out really well, but you had people victory-lapping crazy before the All-Star break, and you didn't hear as much after the All-Star break about that deal. Now the Heat are in an interesting situation with Norm, but unlike the Clippers, who had a year to discuss a year of Norm's contract, and they decided to sell high and see what **John Collins** was like for a year, the Heat don't have that privilege. They just have an expiring contract with Norm and some conflicting roster spots. And then same thing with Golden State. Even though Golden State gets discussed like a dynasty, they are very much not at this current rate where they're at. This is a team that has been mid in the West for years. 2022 was the exception, not the rule. So we could see why that would benefit them, but I don't think the Clippers should be interested in taking back those current Warriors or in **Andrew Wiggins**' case, a Warriors champion as well."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=2015s
+
+**13. Law Murray — "The best case is the Clippers just keeping Kawhi and making it work because Kawhi is clearly the best of those players." — Timberwolves trade offers best players, but keeping Kawhi is ideal** [33:35](https://www.youtube.com/watch?v=_pNlDDUPCOk&t=2015s)
+
+Law Murray: "The Timberwolves one is probably the best of those. It actually makes pretty good sense for Minnesota because to get another guy like, I'm sure Minnesota would love to pair **McDaniels**, who works out with **Kawhi**, with **Anthony Edwards**, that allows them to look at next season and say, 'We can probably take another leap here.' Whereas the Clippers would get the better players of all of those guys who you're saying could come back to the Clippers. It's not the best draft capital, but also it's the best players. And guys who are probably a little bit closer in terms of their deals are going to be up soon enough where you can move on from them. **Randle** has a 2027 player option. Even though **Rudy Gobert** is old, **Rudy Gobert** is in incredible shape, and you know what you're getting out of **Rudy Gobert**. Rudy is a walking top-10 defense by himself. And he has another 2027 player option. So it's like, worst-case scenario, you have these dudes for two years making what they're making. Best-case scenario, you get decent players who you'll be raising your floor defensively, and then offensively, you have some things to figure out. I think **Tyronn Lue** is a lot better at figuring things out offensively with available talent. I've seen this dude win 42 games with a starting lineup of **Amir Coffey** and **Marcus Morris**, **Reggie Jackson**, **Nicolas Batum**. So you can figure it out. The best case is the Clippers just keeping **Kawhi** and making it work because **Kawhi** is clearly the best of those players, and I don't think that draft capital is worth trading him for the dudes you'd be coming back. The floor of those dudes are in the basement. That's a problem too."
+
+https://www.youtube.com/watch?v=_pNlDDUPCOk&t=2015s
+
+---
+
+## The NBA's $10 Billion Question: What Happens With the Lakers — *Business Decision with Mike Vorkunov*
+
+Source: https://www.youtube.com/watch?v=bbJHfpXlgdc
+
+_Speakers identified: Mike Vorkunov, Yaron Weitzman_
+
+**1. Mike Vorkunov — "Ownership groups that own teams across multiple leagues. You may know about it most recently in Los Angeles." — Mark Walter's multi-league ownership trend in professional sports** [00:28](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=28s)
+
+Mike Vorkunov: "Ownership groups that own teams across multiple leagues. You may know about it most recently in Los Angeles, where **Mark Walter** bought the **Los Angeles Lakers** just last year. **Mark Walter**, you may know him as the owner of the **Los Angeles Dodgers**. And if you know him as the owner of the **Los Angeles Dodgers**, you're going to be pretty familiar with what he's doing on the side that now owns the Lakers too."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=28s
+
+**2. Mike Vorkunov — "He owned about 27%, him and Todd Boehly, the co-owner of the Chelsea Football Club, owned together." — Mark Walter's Lakers acquisition, $10 billion valuation, and sports team portfolio** [01:50](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=110s)
+
+**Yaron Weitzman:** "So, the short version is **Mark Walter** has bought the Lakers, right? Became the majority shareholder of the Lakers, which also clarify, for people who aren't familiar. This idea, I think most people heard that $10 billion number when the Lakers were sold."
+
+**Mike Vorkunov:** "Ten billion valuation."
+
+**Yaron Weitzman:** "I was going to say, assume the Lakers sold for $10 billion. That is incorrect. It was a valuation of ten, and he already owned, was it 27? He was in the 20s already, right?"
+
+**Mike Vorkunov:** "He owned about 27%, him and **Todd Boehly**, the co-owner of the Chelsea Football Club, owned together and they had a right of first refusal to buy the Lakers. And they exercised it last year at a $10 billion valuation. I think he bought the team for, like net cash spent, cash, I'm using all air quotes because all these things are not actual cash, but somewhere around that $5 to $6 billion range. **Todd Boehly** got in there too. And he already owned the Dodgers, which he bought at a mammoth $2 billion price in 2012 as part of the Guggenheim Group. He owns the Los Angeles Sparks too. And so now he's got this troika of teams."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=110s
+
+**3. Yaron Weitzman — "wealthy people who see sports teams as a really smart investment vehicle." — Josh Harris's sports ownership investment strategy for maximizing team assets** [01:50](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=110s)
+
+Yaron Weitzman: "Troika. And it's similar to the **Josh Harris**, Harris Blitzer Sports playbook in the idea of these wealthy people who see sports teams as a really smart investment vehicle. Not for the sports, but they own it because they think that there are these assets that are not maximizing their potential, and therefore if we come in, inject our cash, build them out. Yeah, we want to win, but also we can turn these into juggernauts."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=110s
+
+**4. Yaron Weitzman — "what's going to happen to the Lakers now that you have this super billionaire, super successful in sports billionaire" — Mark Walter's Lakers ownership sparks NBA's $10 billion question** [03:45](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=225s)
+
+Yaron Weitzman: "We're seeing the Dodgers. We're seeing the Dodgers. I'll kind of give away the ending, we'll go back, talking around the story about what the Lakers could look like, given everything that **Mark Walter** is doing. This is, by the way, the NBA's $10 billion question. This is what a lot of people around the league are thinking right now: what's going to happen to the Lakers now that you have this super billionaire, super successful in sports billionaire that owns the team? We'll fill in the why it makes a difference. I'm talking to someone from baseball, I said, what's the model, what does this look like? And the person said, it's the Dodgers. The Lakers look like the Dodgers. That's what it looks like."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=225s
+
+**5. Yaron Weitzman — "Major League Baseball seems like it's going to be instituting a salary cap for the first time in league history" — Dodgers' dominance prompts MLB to consider first-ever salary cap** [03:45](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=225s)
+
+Yaron Weitzman: "The best way to summarize the Dodgers, I think, is a team going for baseball's first three-peat in 26 years, I believe, since the late 90s Yankees. That team has become so much a juggernaut that Major League Baseball seems like it's going to be instituting a salary cap for the first time in league history, basically just to stop the Dodgers and maybe **Steve Cohen** too, but that's a separate conversation. That's what the Dodgers have become: this juggernaut. It's like a cliché, but that's the word you use for them. The idea being, can the Lakers be that too?"
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=225s
+
+**6. Yaron Weitzman — "Jeanie threatened to sue me for using that word to describe her ownership approach." — Jeanie Buss's Lakers were cheap, lowballing coaches and staff.** [04:55](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=295s)
+
+Yaron Weitzman: "Under the previous ownership group, starting with the **Buss family**, really even **Jerry Buss**, but more so under **Jeanie**, the Lakers were cheap. And I'll use that word even though **Jeanie** threatened to sue me for using that word to describe her ownership approach. I can write that they lowballed **Tyronn Lue** and they threatened to sue me, but when **ESPN** publishes a story outlining the many ways where they lowballed assistant coaches, I guess that's not defamation. But neither here nor there. The Lakers had the smallest — these are like the facts, right? — whether it's lowballing coaches, tiny analytics department, medical staff, no, I mean, we'll get to no assistant GMs, but not even like no executives."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=295s
+
+**7. Yaron Weitzman — "When Lakers General Manager Rob Pelinka is on a plane, I don't know who else to call." — Lakers' front office lacks depth beyond General Manager Rob Pelinka.** [04:55](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=295s)
+
+Yaron Weitzman: "When I was reporting the book, I thought one of the great ways — that's a great description someone on another team gave me — is like when **Lakers General Manager Rob Pelinka** is on a plane, I don't know who else to call. I don't know who the number two is. I don't know who else to call, which is not the case for other teams."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=295s
+
+**8. Mike Vorkunov — "The Lakers are completely different. They have a small scouting department, they have a small analytics department." — Lakers' small front office and limited spending beyond players** [06:13](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=373s)
+
+Mike Vorkunov: "**Rob Pelinka** runs basketball ops. Joe and **Jesse Buss**, two Buss brothers, were the assistant GMs until November when they got unceremoniously thrown out of the organization. And it is a pretty small mom and pop organization beyond that. They have some smart people there, but there's not a lot of them, which differs, I think. You take the Knicks, who are in New York on another coast, they're probably their closest analog. The Knicks have a massive front office, one of the biggest in the league. They pay really well, recognizing that they're in New York, you have to pay to spend and compete there. The Lakers are completely different. They have a small scouting department, they have a small analytics department, they have a small strategy department. And they spend on players, but they don't spend everywhere else. And I think that's the interesting part."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=373s
+
+**9. Mike Vorkunov — "Andrew Friedman, him and Farhan Zaidi, are now kind of overseeing the Dodgers-ification of the Lakers." — Dodgers' successful model and its influence on the Lakers' front office** [06:13](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=373s)
+
+Mike Vorkunov: "As you said, if the Dodgers are the model for what the Lakers are doing, the Dodgers are known to me, I think, the most intricately run, most interesting sports organization. Yes, the success is there. But what they do as an organization to me is really fascinating. They are immensely successful. They have a top-down model from the MLB side all the way down through their minor leagues. They hired **Andrew Friedman**, who was the president of the Tampa Bay Rays for a number of years, took them to a lot of success that a team like in that market shouldn't be able to do. And what he has left there has withstood the test of time too. And they plucked him from Tampa Bay, made him their president and hired a bunch of really smart executives beyond that. I think really were successful in player development, their analytics, all the stuff that you need to do in baseball. And now **Andrew Friedman**, him and **Farhan Zaidi**, who was a disciple of **Billy Beane** and the Oakland A's and was the GM of the San Francisco Giants, I think he worked in LA too for a period of time, are now kind of overseeing the Dodgers-ification of the Lakers too."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=373s
+
+**10. Yaron Weitzman — "Baseball's built for analytics and it's a static game. Basketball is very much not that." — Baseball's static analytics versus basketball's dynamic, non-numerical nature.** [08:10](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s)
+
+Yaron Weitzman: "I also do want to hit because you asked me a question at the beginning and we went down this path, but the idea of can this baseball approach work in the NBA, right? And I think that's you and I, we talked offline about this, how there are people around the NBA who sort of have this, I'll call it, this hater version, like, yeah, but baseball's different than basketball, right? You know, baseball's built for analytics and it's a static game. And I mean, I think you could probably be a good GM without watching a baseball game if you just use all the numbers, you could probably build a good team if you know what you're doing. Exactly, right? Exactly. That's exactly that. Basketball is very much not that, which is one of my favorite things about the sport."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s
+
+**11. Yaron Weitzman — "NBA has always trailed other sports and specifically baseball in its approach to critical thinking." — NBA's analytical lag and Dodgers executives' true organizational skill.** [08:10](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s)
+
+Yaron Weitzman: "And I talked to other, I've you've talked to people about this, I have too, and I do think that people who are saying the NBA has always trailed other sports and specifically baseball in its approach to critical thinking, right? In many ways. That's sort of what **Daryl Morey**, why he was able to become famous because he found these voids that he was able to fill. **Sam Presti** too. And I think people who think that the skill of these Dodgers executives is the ability to identify which metrics should be used for player valuation is missing the point of what those guys are good with, right? So **Andrew Friedman** is not going to come in and say, you know what we should be looking at, three-point percentage, teams that shoot threes win finals, and that's what we need to do. It's not that, right? That's not the skill set. And that's not me making this up, reporting this story, talking to people."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s
+
+**12. Yaron Weitzman — "executive and front office grad school... made him a better GM since after he left." — Alex Anthopoulos's 'grad school' experience with Dodgers' organizational building.** [08:10](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s)
+
+Yaron Weitzman: "I talked to **Alex Anthopoulos**, who's the GM of the Atlanta Braves. Really interesting, basically, he left the Blue Jays after winning executive of the year, couldn't come to a contract, and instead of going to another team, chose to respect that **Andrew Friedman**, these guys have, basically decided to go to the Dodgers as an assistant GM, I don't remember his official title is, right? But as an assistant GM, I think he might have used the phrase grad school for to me, like when I was talking to him, just to basically go to not baseball grad school, right? Not that, but executive and front office grad school. And that's a distinction. And he said it made him a better GM since after he left. And I remember asking him, what are some examples? And I think the quote was along the lines of these weren't two wise men sitting there, the two wise men being **Andrew Friedman** and **Farhan Zaidi**, saying, you know what the key to winning baseball games is, strong pitching staff, right? That wasn't that. It was about how to build out an organization, how to critically analyze data, and how to ask the right questions and all that kind of stuff."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s
+
+**13. Yaron Weitzman — "where you need to be really good is strategy and cap management and finding the loopholes." — Dodgers' approach for Lakers: identify strategy, cap management, loopholes.** [08:10](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s)
+
+Yaron Weitzman: "And I think anyone who thinks that's what the Dodgers guy is going to bring to the Lakers organization, right? So the point if they decide that, having looked across the NBA, we realize that where you need to be really good is strategy and cap management and finding the loopholes, then they're going to find that, and then they're going to go out and get the guys who are best at that, right? That's what they're going to do. And I think that's going to be the difference here."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=490s
+
+**14. Mike Vorkunov — "They hired Rohan Ramadas, who is their new assistant GM of some combination of cap, analytics, and strategy." — Lakers' new assistant GM hires and candidate rejections** [10:41](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s)
+
+Mike Vorkunov: "What's really worked in baseball may not really work in basketball, right? I know that's an obvious thing to say, but these are two different sports. I'm curious how they go about doing this and how into the weeds they get. If you look at what they just did recently, they hired one assistant GM from the New Orleans Pelicans. They hired literally someone who was working for an aerospace company. They hired **Rohan Ramadas**, who is their new assistant GM of some combination of cap, analytics, and strategy. They still have one more assistant GM to hire who runs scouting. I'm curious what they do. I think they've struck out on a number of candidates. You reported **Steve Senior**, Minnesota Timberwolves assistant GM, had turned them down. I'd heard that before they hired Ramadas that someone else had turned them down for that position too."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s
+
+**15. Mike Vorkunov — "The Lakers have been a small organization in that the power was very densely accumulated." — Lakers' power structure, Rob Pelinka's future, and G-League move** [10:41](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s)
+
+Mike Vorkunov: "Part of that is questions about how long **Rob Pelinka** might stay in the job. Obviously, new ownership group, new decisions, decision-makers, maybe they'll want. Although with the Dodgers, **Ned Colletti**, who was the GM there, he stayed for a number of years. They didn't just come in and clean house. So we'll see what they do on the Lakers side. The Lakers have been a small organization in that the power was very densely accumulated. It was **Jeanie Buss**, **Linda Rambis**, **Kurt Rambis**, the former long-time assistant coach and Lakers player from the 1980s, and **Rob Pelinka** were kind of the brain trust there. That was it. **Nick Mazzella** has been seen as a key of their scouting operation, running the South Bay Lakers. Lakers G-League team, by the way, is going to be in Coachella next year, which is awesome. I really hope they make everyone dress for those games like they're going to actual Coachella."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s
+
+**16. Yaron Weitzman — "Moving the G-League team is a big move that they made pretty quickly under Lon Rosen." — Lakers' G-League team move to Coachella under Lon Rosen** [10:41](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s)
+
+Yaron Weitzman: "I find that so telling that moving the G-League team is a big move, but that's a big move that they made pretty quickly under the new team business operation president **Lon Rosen**. We're leaving money on the table with this G-League team in our facility. Let's move them, let's get them out of here, and let's make some more money. That happened pretty quickly and kind of surprising people around the league, I believe."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s
+
+**17. Mike Vorkunov — "What will be left of the old Lakers? And does it matter if anything remains?" — Future of the old Lakers and new business hires** [10:41](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s)
+
+Mike Vorkunov: "I think they're going to work with **Irving Azoff**, the former Eagles manager, who runs the property in Coachella. They brought in a number of Dodgers people on the business side too. So this is all across the organization. The question to me is, what will be left of the old Lakers? And does it matter if anything remains?"
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=641s
+
+**18. Yaron Weitzman — "Jeanie, who's officially somehow held onto that governor title despite owning only 20% of the team." — Jeanie Buss's unique governor status and Rob Pelinka's pre-sale extension.** [13:49](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=829s)
+
+**Yaron Weitzman:** "I'm actually not, I'm just going to let it ride. But anyway, then **Rob Pelinka** got an extension before the sale went through, which many people think was sort of making sure **Jeanie** making sure her guy was taken care of before the sale comes through. If you look at the old Lakers, it's **Rob Pelinka**, it's the **Rambis**, as I like to call them, and it's **Jeanie**, who's officially somehow held onto that governor title despite owning only 20% of the team. Kudos to her, the one owner who figured out actually had to pull that off without losing that, six months later and without the, remember that agreement we had that I'd still be governor, we're going back on that."
+
+**Mike Vorkunov:** "**Cuban** and Celtics **Grossbeck** style, right? That's why you got it on paper. **Grossbeck** didn't have the 15% necessary to be governor. **Bill Chism**, I would guess, probably has as much of a share of the team as **Jeanie Buss** does and the **Bus family**. She remains the governor for I think five years, right? Is how long that term is before I would assume at some point **Mark Walter** does want to take over."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=829s
+
+**19. Mike Vorkunov — "It's almost in conflict, right? That way of doing things and having those people in charge is in conflict with building a larger organization." — Lakers' organizational conflict and Rob Pelinka's trusted inner circle.** [13:49](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=829s)
+
+Mike Vorkunov: "But I assume that the question is how while **Jeanie**'s in charge, does that mean that **Rob** will be in charge? Does that mean that **Kurt Rambis** will have some say? Does that mean that **Linda Rambis** will have some say? All those are very important characters. And it's almost in conflict, right? That way of doing things and having those people in charge is in conflict with building a larger organization. The people that **Rob Pelinka** listens to, and I think they're smart people in the Lakers organization, like **Phil Chang** does analytics for them, **Marshall Raider** does strategy for them, **Nick Mazzella** said scouting for them. But you're going to add more people it seems like, and that's not going to stop. If you add more people and you build out this organization and you hire one assistant GM, another assistant GM is coming, who does **Rob Pelinka** listen to? Who does he trust? Trust is different. Listen is separate, right? Who does he trust?"
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=829s
+
+**20. Yaron Weitzman — "Rob Pelinka is a master survivor. This offseason is going to be huge for him and them in terms of like, can he prove that he can build a team around Luka?" — Rob Pelinka's survival skills and the Lakers' fading "old ways."** [13:49](https://www.youtube.com/watch?v=bbJHfpXlgdc&t=829s)
+
+Yaron Weitzman: "**Rob Pelinka** is a master survivor, right? I kind of joke that he's going to start sounding like a Sloan Sports conference panel now, every press conference he does, because he thinks or works in some baseball lingo, like, 'Oh, I thought this signing was a home run,' just like **Shohei Ohtani** hit last night. He kind of knows how to survive. The question is, how much longer does he want to do it also, right? If he's sort of got this, I want to call it a balloon payment, you can call it a golden parachute, whenever this last contract extension was. This offseason is going to be huge for him and them in terms of like, can he prove that he can build a team around **Luka**? If it doesn't go well, he's probably in trouble. If it goes well, he can maybe hang around. But I do think the Lakers old ways, like they're on the last legs here of the, I know it's we're talking about a group of foursome, two of which are women, but it's still like the version of a bunch of old men sitting in a cigar room making deals, that's what the Lakers ownership and management structure was, and that seems that's going to be long gone."
+
+https://www.youtube.com/watch?v=bbJHfpXlgdc&t=829s
+
+---
+
 ## Kenny Smith, NBA Champ tells untold MJ stories, Inside the NBA secrets and life lessons| The Pivot — *The Pivot Podcast*
 
 Source: https://www.youtube.com/watch?v=esQfMkjWJ38
@@ -512,6 +734,40 @@ _Speakers identified: Mike, Dave_
 **5. Mike — "You need a legitimate two-way wing, someone who can guard the opposing team's best perimeter player." — Cavs need a true two-way wing to contend in the East** [14:30](https://www.youtube.com/watch?v=rfA5Fp262aY&t=870s)
 
 "Look, the Cavaliers have good pieces in **Donovan Mitchell**, **Darius Garland**, and **Evan Mobley**, but they lack the crucial ingredient for contending in the modern NBA: a true two-way wing. You need a legitimate two-way wing, someone who can guard the opposing team's best perimeter player, hit open threes consistently, and create their own shot when needed. Without that, you're always going to be vulnerable in the playoffs. Every contender in the East has one, or even two, of those guys. Until the Cavs address that fundamental roster flaw, they're going to keep running into the same brick wall."
+
+---
+
+## Are the Trail Blazers Leaving Portland? — *Yahoo! Sports*
+
+Source: https://www.youtube.com/watch?v=uXxuHUW2sZo
+
+_Speakers identified: Brian Berger, Host 1, Host 2_
+
+**1. Brian Berger — "He's running this kind of like he runs the Carolina Hurricanes, his NHL team." — Tom Dundon's aggressive cost-cutting measures with the Trail Blazers staff** [00:30](https://www.youtube.com/watch?v=uXxuHUW2sZo&t=30s)
+
+Brian Berger: "He's been a bull in a china shop so far. He's come in and just cut costs. He didn't allow t-shirts. I look at teams like the Knicks and the Spurs and you see all the former players sitting courtside and how the teams have embraced the former players. He got rid of a lot of the people that had connections to the former players last week when they laid off 70 people. He's cutting hotel costs. He's running this kind of like he runs the Carolina Hurricanes, his NHL team. You can't run an NHL team like you run an NBA team. I think there's still changes to come. Obviously we're probably going to have a different coach than **Tiago Splitter**. He's already talked about paying that coach as one of the lowest-paid coaches in the NBA. You might have a new GM, and you might have a team president."
+
+https://www.youtube.com/watch?v=uXxuHUW2sZo&t=30s
+
+**2. Brian Berger — "It's just more expensive to run an NBA team." — Why running an NBA team is more expensive than an NHL team** [01:46](https://www.youtube.com/watch?v=uXxuHUW2sZo&t=106s)
+
+**Brian Berger:** "It's just more expensive to run an NBA team. There have always been more luxuries with an NBA team. You're staying at the nicer hotels, you're riding the private planes, you're taking the nice buses. It's just different than how you run an NHL team. Not that many people knew who **Tom Dundon** was before he became the governor of the Portland Trail Blazers. When you're an NHL owner, you're much more behind the scenes. When you're an NBA or an NFL or even a Major League Baseball owner, you're much more in the headlines, you're scrutinized, you're looked at under the microscope."
+
+**Host 1:** "That being said, Dundon's Carolina Hurricanes could be headed to the Stanley Cup Final. We're in a world where **Bill Foley**, the owner of the Vegas Golden Knights, has submitted a bid to become the owner of the NBA team in Las Vegas. Why can't you run an NBA team the same way you run an NHL team?"
+
+https://www.youtube.com/watch?v=uXxuHUW2sZo&t=106s
+
+**3. Brian Berger — "I think he's going to do everything in his power to move them." — Tom Dundon's potential plans to relocate the Trail Blazers** [02:46](https://www.youtube.com/watch?v=uXxuHUW2sZo&t=166s)
+
+Brian Berger: "I think he's going to do everything in his power to move them. It breaks my heart to say that because I used to work for the Trail Blazers. I live in Portland. But this seems to be Sonics 2.0. I think he's going to say all the right things and at the end of the day, he's going to come with a pretty cutthroat deal for the state and the city. And when they don't make that deal, I think he's going to use that as his excuse to move the team. The way it works with at least NBA Board of Governors is when you sit around that table, other owners are not going to stop you from doing what you want to do like relocating, because if they want to do something in the future, they don't want you to vote against them."
+
+https://www.youtube.com/watch?v=uXxuHUW2sZo&t=166s
+
+**4. Brian Berger — "I think in Seattle, the Kraken owner Samantha Holloway is the leader in the clubhouse there." — Potential relocation markets for the Trail Blazers in Seattle and Las Vegas** [03:54](https://www.youtube.com/watch?v=uXxuHUW2sZo&t=234s)
+
+Brian Berger: "I think in Seattle, the Kraken owner **Samantha Holloway** is the leader in the clubhouse there. I would be really surprised. They already have the arena, they have the practice facility. When they built all of that in Seattle for the Kraken, they did it with an NBA team in mind. So I would be really surprised if she's not the one who winds up with the team. In Las Vegas, **Bill Foley**, same thing. You could play in the same place, T-Mobile Arena, where the Golden Knights play. He's got some things, but those are totally separate from the Blazers relocating potentially. I hope it doesn't happen, but I think **Tom Dundon** is going to try and get the best deal that he can get, and if it's not in Oregon, he's going to look elsewhere."
+
+https://www.youtube.com/watch?v=uXxuHUW2sZo&t=234s
 
 ---
 
