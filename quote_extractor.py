@@ -10,6 +10,7 @@ Usage (from repo root):
 """
 
 import json
+import math
 import os
 import re
 import signal
@@ -49,16 +50,13 @@ Hard rules — these are limits, not targets:
   GOOD (one short contiguous span): "I think the Knicks have a real shot this year because Brunson is just on another level. Look at what he did in Game 5 — 41 points, the closing stretch, the way he got to the rim. That's the kind of run no one was projecting from him this season."
 - MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject AND contiguous within that subject.
 
-How many quotes to return (scale to the video's length and substance — do NOT pad):
+How many quotes to return — scale to the video's length and density of editorial content. The rule is "only extract quotes that are genuinely editorial-worthy" — do NOT pad with weak quotes to hit a target. But also do NOT skip over rich passages. Long videos almost always have more substance than a handful of quotes captures.
 
-- Under 5 min:       0 to 2 quotes. If nothing is editorially worth pulling, return an empty array.
-- 5 to 15 min:       3 to 6 quotes.
-- 15 to 30 min:      6 to 10 quotes.
-- 30 to 60 min:      9 to 15 quotes.
-- 60 to 90 min:      12 to 18 quotes.
-- 90+ min:           15 to 20 quotes.
+- Under 30 min: extract whatever genuinely deserves to be quoted. No minimum. An empty array is acceptable if the video has nothing worth pulling.
+- 30 to 60 min: AIM FOR DENSER COVERAGE. If the content is editorially rich, find at least one quote roughly every 5-7 minutes. A 45-minute interview with a returning All-Star where you return only 3-4 quotes is almost certainly under-extraction — you skipped real material. Push back against the temptation to be terse.
+- 60+ min (this video may be sent to you in 60-minute chunks): apply the same per-chunk density expectation. Each 60-minute chunk of rich editorial content should yield 8-15+ quotes, not 3-5.
 
-Cap at 20 in all cases. An empty array is acceptable if the video has nothing worth quoting. Better to return 5 strong quotes than 12 mediocre ones.
+Hard cap: 20 quotes per request (or per chunk for chunked videos). Better to return 5 strong quotes than 12 mediocre ones — but a 60-minute interview between two NBA stars with only 5 quotes is the wrong end of that trade-off, not the right one.
 
 Editorial rules:
 
@@ -80,6 +78,7 @@ Editorial rules:
   After: "If he leaves LA, Cleveland. I think it's full circle, going home again, joining a team that, as we saw last night, once again, obviously Donovan Mitchell going off..."
 - Preserve the speaker's meaning. Do not exaggerate their tone. Do not fabricate.
 - Skip play-by-play recap, sponsor reads, intros, outros, generic opinions, and recycled talking points unless phrased forcefully.
+- LANGUAGE: If the video's primary spoken language is NOT English, translate everything in your JSON output to English: the cleaned quote text, the summary_phrase, the excerpt, every text_blocks "text" field, and the speaker / speakers names (transliterate to standard English-language reporting spellings). The whole output must read as if the video were originally in English. ALSO populate, for each quote where translation occurred, a "verbatim_original_language" field containing the cleaned quote body in the ORIGINAL language exactly as spoken (with the same filler-cleanup applied as the English version). For English-source videos, omit "verbatim_original_language" or leave it as an empty string. The "quote", "text_blocks.text", "summary_phrase", and "excerpt" fields ALWAYS contain English regardless of source language.
 - HALLUCINATION GUARD: Begin your JSON with a "video_title" field that ECHOES BACK EXACTLY the YouTube title supplied above (the line starting with "YouTube title:"). Preserve case, punctuation, and emoji. This is a sanity check — if the content of your analysis doesn't match the title we provided, the response will be rejected and the video will be retried.
 
 Return ONLY valid JSON, no surrounding text or markdown fences:
@@ -96,10 +95,11 @@ Return ONLY valid JSON, no surrounding text or markdown fences:
       "summary_phrase": "5-12 word specific headline naming a player, team, or story",
       "names_mentioned": ["LeBron James", "Mikal Bridges"],
       "excerpt": "up to 18 words pulled verbatim from the quote body; empty string if no clean pull-quote",
-      "quote": "cleaned quote text (leave empty when using text_blocks)",
+      "quote": "cleaned quote text in ENGLISH (leave empty when using text_blocks)",
+      "verbatim_original_language": "cleaned quote text in the SOURCE language; omit or empty for English-source videos",
       "text_blocks": [
-        {"speaker": "X", "text": "X's contribution"},
-        {"speaker": "Y", "text": "Y's contribution"}
+        {"speaker": "X", "text": "X's contribution in ENGLISH"},
+        {"speaker": "Y", "text": "Y's contribution in ENGLISH"}
       ]
     }
   ]
@@ -157,6 +157,13 @@ SCRIPT_TIMEOUT_SECS = 30 * 60         # 30 min — hard wall-clock budget for th
 SLACK_PAYLOAD_FILENAME = ".slack_payload.json"
 RECENT_DAYS = 14                      # videos older than this are skipped
 
+# Long-video chunking: when a video exceeds CHUNK_DURATION_SECS we run Gemini
+# once per 60-min chunk (passing start_offset / end_offset through Part's
+# video_metadata) and merge the quote lists. Videos longer than
+# CHUNK_DURATION_SECS * MAX_CHUNKS get the existing too-long treatment.
+CHUNK_DURATION_SECS = 60 * 60         # 60 min per chunk
+MAX_CHUNKS = 4                        # cap chunking at 4h total video length
+
 # Substrings (uppercased) in an exception's str() that count as transient
 # network/server errors and should be retried with the standard backoff.
 _TRANSIENT_MESSAGE_PATTERNS = (
@@ -195,6 +202,46 @@ def timestamp_to_seconds(ts: str) -> int:
     if len(nums) == 2:
         return nums[0] * 60 + nums[1]
     return nums[0] if nums else 0
+
+
+def _seconds_to_timestamp(secs: int) -> str:
+    """Inverse of timestamp_to_seconds. Returns MM:SS for <1h, H:MM:SS for >=1h.
+    Used by the chunked-video path to translate chunk-relative timestamps that
+    Gemini returns into absolute timestamps for the whole video.
+    """
+    if secs is None or secs < 0:
+        secs = 0
+    hours = secs // 3600
+    mins = (secs % 3600) // 60
+    s = secs % 60
+    if hours > 0:
+        return f"{hours}:{mins:02d}:{s:02d}"
+    return f"{mins:02d}:{s:02d}"
+
+
+def _compute_chunks(duration_secs: int) -> list | None:
+    """Return a list of (start_offset_secs, end_offset_secs) tuples covering
+    the video's duration in CHUNK_DURATION_SECS-long slices. Returns None
+    when the video exceeds MAX_CHUNKS * CHUNK_DURATION_SECS (the caller
+    should mark it too-long).
+
+    Short videos (<= CHUNK_DURATION_SECS) get [(None, None)] — a single
+    pass with no video_metadata, identical to the existing whole-video
+    behaviour. Videos with unknown duration (<= 0) also get [(None, None)]
+    since chunking would be guesswork.
+    """
+    if duration_secs is None or duration_secs <= 0:
+        return [(None, None)]
+    if duration_secs <= CHUNK_DURATION_SECS:
+        return [(None, None)]
+    if duration_secs > CHUNK_DURATION_SECS * MAX_CHUNKS:
+        return None
+    n_chunks = math.ceil(duration_secs / CHUNK_DURATION_SECS)
+    return [
+        (i * CHUNK_DURATION_SECS,
+         min((i + 1) * CHUNK_DURATION_SECS, duration_secs))
+        for i in range(n_chunks)
+    ]
 
 
 def video_id_from_url(url: str) -> str:
@@ -572,7 +619,14 @@ def hydrate_video_metadata(video_ids: list, api_key: str) -> dict:
 # Gemini
 # --------------------------------------------------------------------------- #
 
-def call_gemini(client, url: str, video_title: str = "", known_speakers: list | None = None) -> tuple[str, object]:
+def call_gemini(
+    client,
+    url: str,
+    video_title: str = "",
+    known_speakers: list | None = None,
+    start_offset_secs: int | None = None,
+    end_offset_secs: int | None = None,
+) -> tuple[str, object]:
     """Send the video to Gemini and return (raw_text, usage_metadata).
 
     The actual YouTube title is prepended to the prompt so Gemini can echo
@@ -582,6 +636,12 @@ def call_gemini(client, url: str, video_title: str = "", known_speakers: list | 
     When the channel has a configured known_speakers list, a hint line is
     prepended to anchor recurring-host name spellings so Gemini doesn't
     substitute similar-sounding names (e.g. Allie Clifton -> Allie LaForce).
+
+    When start_offset_secs / end_offset_secs are provided, a VideoMetadata
+    object is attached to the video Part so Gemini only analyzes that slice
+    of the video (used by the long-video chunking path). Timestamps Gemini
+    returns are relative to start_offset_secs; the caller adds the offset
+    back to get absolute timestamps.
     """
     parts = [f"YouTube title: {video_title}"]
     if known_speakers:
@@ -592,13 +652,33 @@ def call_gemini(client, url: str, video_title: str = "", known_speakers: list | 
             "spellings. Do NOT substitute similar-sounding names (e.g., "
             "Allie LaForce, Allison Williams)."
         )
+    if start_offset_secs is not None and end_offset_secs is not None:
+        parts.append(
+            f"CHUNK CONTEXT: this is one slice of a longer video, covering seconds "
+            f"{start_offset_secs} through {end_offset_secs} (relative to the original). "
+            f"Return timestamps relative to the slice (start at 0:00 = the slice's "
+            f"first second). The pipeline will translate them to absolute timestamps."
+        )
     prefixed_prompt = "\n\n".join(parts) + "\n\n" + PROMPT
+    video_part = types.Part.from_uri(file_uri=url, mime_type="video/mp4")
+    if start_offset_secs is not None or end_offset_secs is not None:
+        start_str = f"{start_offset_secs or 0}s"
+        end_str = f"{end_offset_secs}s" if end_offset_secs is not None else None
+        try:
+            video_part.video_metadata = types.VideoMetadata(
+                start_offset=start_str,
+                end_offset=end_str,
+            )
+        except (AttributeError, TypeError):
+            # If the SDK version doesn't expose VideoMetadata yet, fall back
+            # to whole-video analysis. The post-merge timestamp adjustment
+            # would then be wrong, but at least we don't crash. Log loudly
+            # so this surfaces in the run output.
+            log(f"  [chunk] WARN: types.VideoMetadata unavailable in this SDK; "
+                f"falling back to whole-video for offsets ({start_str}, {end_str})")
     response = client.models.generate_content(
         model=MODEL,
-        contents=[
-            types.Part.from_uri(file_uri=url, mime_type="video/mp4"),
-            prefixed_prompt,
-        ],
+        contents=[video_part, prefixed_prompt],
         config=types.GenerateContentConfig(
             response_mime_type="application/json",
             temperature=0.3,
@@ -703,7 +783,14 @@ def _is_transient_gemini_error(exc: Exception) -> bool:
     return False
 
 
-def call_gemini_with_retry(client, url: str, video_title: str = "", known_speakers: list | None = None) -> tuple[str, object]:
+def call_gemini_with_retry(
+    client,
+    url: str,
+    video_title: str = "",
+    known_speakers: list | None = None,
+    start_offset_secs: int | None = None,
+    end_offset_secs: int | None = None,
+) -> tuple[str, object]:
     """Wrap call_gemini with the same 5s/15s/45s/120s/300s retry policy as the splitter.
 
     Retries on 429, 500, 503, or messages containing UNAVAILABLE /
@@ -714,7 +801,9 @@ def call_gemini_with_retry(client, url: str, video_title: str = "", known_speake
     backoffs = [5, 15, 45, 120, 300]
     for attempt, sleep_s in enumerate(backoffs, start=1):
         try:
-            return call_gemini(client, url, video_title, known_speakers)
+            return call_gemini(client, url, video_title, known_speakers,
+                               start_offset_secs=start_offset_secs,
+                               end_offset_secs=end_offset_secs)
         except Exception as e:
             if _is_spending_cap_error(e):
                 log(f"  [SPENDING CAP] {e}")
@@ -1430,72 +1519,132 @@ def process_video(client, video: dict, channel_name: str, known_speakers: list |
     day_dir = _video_day_dir(video)
     day_dir.mkdir(parents=True, exist_ok=True)
 
-    attempts_parse = 0
-    last_raw = ""
-
     expected_title = video.get("title") or ""
     known_speakers = list(known_speakers or [])
+    duration_secs = int(video.get("duration") or 0)
+    meta_log = (
+        f"  [meta] {video_id} publish={pub_date} title={expected_title!r} "
+        f"duration={duration_secs}s"
+    )
     if known_speakers:
-        log(f"  [meta] {video_id} publish={pub_date} title={expected_title!r} known_hosts={known_speakers}")
-    else:
-        log(f"  [meta] {video_id} publish={pub_date} title={expected_title!r}")
+        meta_log += f" known_hosts={known_speakers}"
+    log(meta_log)
 
-    while True:
-        try:
-            raw_text, _usage = call_gemini_with_retry(client, url, expected_title, known_speakers)
-        except TransientServerOverload:
-            # Don't classify here — let _process_one_video bucket as
-            # deferred-transient so no .ATTEMPTS / .FAILED.txt marker
-            # gets written and the video re-queues fresh next run.
-            raise
-        except SpendingCapExhausted:
-            # Don't classify here — let _process_one_video set the global
-            # abort flag and bucket the status so all remaining queue
-            # items short-circuit cleanly.
-            raise
-        except Exception as e:
-            status = gemini_error_status(e)
-            if status == 400 or is_token_limit_error(e):
-                log(f"  token-limit / 400 on {video_id}: {e}")
-                (day_dir / f"{video_id}.SKIPPED-too-long").write_text("", encoding="utf-8")
-                return "too-long", None
-            # failed-other no longer writes FAILED.txt here — _process_one_video
-            # increments the attempt counter and writes FAILED.txt only after
-            # the retry cap is hit. This lets transient errors retry on the
-            # next cron without a permanent marker after one bad outcome.
-            log(f"  unexpected Gemini error on {video_id}: {e}")
-            return "failed-other", None
+    # Plan the chunking. >MAX_CHUNKS*CHUNK_DURATION_SECS gets the existing
+    # too-long treatment; <=CHUNK_DURATION_SECS or unknown gets a single
+    # whole-video pass with no video_metadata (identical to pre-chunking
+    # behaviour); anything in between becomes 2-4 chunks.
+    chunks = _compute_chunks(duration_secs)
+    if chunks is None:
+        log(f"  too-long on {video_id}: duration {duration_secs}s exceeds "
+            f"{MAX_CHUNKS * CHUNK_DURATION_SECS}s ({MAX_CHUNKS}h) chunking cap")
+        (day_dir / f"{video_id}.SKIPPED-too-long").write_text("", encoding="utf-8")
+        return "too-long", None
 
-        last_raw = raw_text
-        try:
-            data = json.loads(raw_text)
-        except json.JSONDecodeError as e:
-            attempts_parse += 1
-            log(f"  malformed JSON (attempt {attempts_parse}): {e}")
-            if attempts_parse >= 2:
-                (day_dir / f"{video_id}.FAILED.txt").write_text(
-                    last_raw or str(e), encoding="utf-8"
+    n_chunks = len(chunks)
+    chunk_results: list[dict] = []
+
+    for i, (start_off, end_off) in enumerate(chunks):
+        chunk_label = f"chunk {i + 1}/{n_chunks}"
+        if start_off is not None:
+            log(f"  [{chunk_label}] processing {video_id} from {start_off}s to {end_off}s")
+
+        # Per-chunk loop: JSON parse retry sits here, the Gemini API retry
+        # is inside call_gemini_with_retry. TransientServerOverload and
+        # SpendingCapExhausted propagate past the chunk loop so the whole
+        # video bails — siblings + the rest of the queue handle them.
+        attempts_parse = 0
+        chunk_data = None
+        while True:
+            try:
+                raw_text, _usage = call_gemini_with_retry(
+                    client, url, expected_title, known_speakers,
+                    start_offset_secs=start_off, end_offset_secs=end_off,
                 )
-                return "failed-json", None
-            continue
+            except (TransientServerOverload, SpendingCapExhausted):
+                raise
+            except Exception as e:
+                status_code = gemini_error_status(e)
+                if status_code == 400 or is_token_limit_error(e):
+                    # If a single chunk somehow still trips the token limit
+                    # (shouldn't with 60-min slices, but be safe), skip the
+                    # chunk rather than killing the whole video.
+                    log(f"  [{chunk_label}] token-limit / 400 on {video_id}: {e}; skipping chunk")
+                else:
+                    log(f"  [{chunk_label}] unexpected Gemini error on {video_id}: {e}; skipping chunk")
+                break
 
-        # Hallucination guard: confirm Gemini analyzed the video we sent by
-        # checking that its echoed video_title overlaps the actual YouTube
-        # title we provided. Skip writing any output on mismatch so the
-        # video can be retried next cron.
-        echoed_title = (data.get("video_title") or "").strip()
-        overlap = _title_word_overlap(expected_title, echoed_title)
-        if overlap <= HALLUCINATION_OVERLAP_THRESHOLD:
-            log(
-                f"  [hallucination] video {video_id} title mismatch "
-                f"(overlap {overlap:.0%}): expected {expected_title!r}, "
-                f"got {echoed_title!r}"
-            )
-            return "failed-hallucination", None
+            try:
+                data = json.loads(raw_text)
+            except json.JSONDecodeError as e:
+                attempts_parse += 1
+                log(f"  [{chunk_label}] malformed JSON (attempt {attempts_parse}): {e}")
+                if attempts_parse >= 2:
+                    log(f"  [{chunk_label}] persistent JSON failure; skipping chunk")
+                    break
+                continue
 
-        data["quotes"] = post_process_quotes(client, data.get("quotes") or [])
-        write_outputs(video, channel_name, data, raw_text)
-        return "ok", data
+            # Per-chunk hallucination guard. A mismatch on one chunk skips
+            # only that chunk; other chunks still get their shot.
+            echoed_title = (data.get("video_title") or "").strip()
+            overlap = _title_word_overlap(expected_title, echoed_title)
+            if overlap <= HALLUCINATION_OVERLAP_THRESHOLD:
+                log(
+                    f"  [{chunk_label}] [hallucination] title mismatch "
+                    f"(overlap {overlap:.0%}): expected {expected_title!r}, "
+                    f"got {echoed_title!r}; skipping chunk"
+                )
+                break
+
+            # Translate chunk-relative timestamps to absolute. For the
+            # first chunk start_off is 0 (or None for unchunked); the
+            # shift is a no-op there.
+            chunk_offset = start_off or 0
+            if chunk_offset > 0:
+                for q in (data.get("quotes") or []):
+                    rel_secs = timestamp_to_seconds(q.get("timestamp") or "0:00")
+                    q["timestamp"] = _seconds_to_timestamp(chunk_offset + rel_secs)
+
+            chunk_data = data
+            break
+
+        if chunk_data is not None:
+            chunk_results.append(chunk_data)
+
+    # All chunks failed -> failed-other. _process_one_video records the
+    # attempt and writes FAILED.txt only after the retry cap is hit.
+    if not chunk_results:
+        log(f"  all {n_chunks} chunk(s) failed for {video_id}")
+        return "failed-other", None
+
+    # Merge chunks into a single data dict. video_title comes from the
+    # first successful chunk (which already passed the hallucination
+    # guard); speakers_seen unions across chunks preserving order.
+    merged: dict = {
+        "video_title": (chunk_results[0].get("video_title") or expected_title).strip(),
+        "speakers_seen": [],
+        "quotes": [],
+    }
+    seen_speakers: set = set()
+    for d in chunk_results:
+        for s in (d.get("speakers_seen") or []):
+            if s and s not in seen_speakers:
+                seen_speakers.add(s)
+                merged["speakers_seen"].append(s)
+        merged["quotes"].extend(d.get("quotes") or [])
+
+    # Post-process: split, dedupe, cap at MAX_QUOTES_AFTER_SPLIT=20
+    # (across all chunks combined).
+    merged["quotes"] = post_process_quotes(client, merged["quotes"])
+
+    if n_chunks > 1:
+        log(f"  merged {n_chunks} chunks for {video_id}: "
+            f"{len(chunk_results)} succeeded, "
+            f"{len(merged['quotes'])} quotes after post-processing")
+
+    archived_json = json.dumps(merged, ensure_ascii=False)
+    write_outputs(video, channel_name, merged, archived_json)
+    return "ok", merged
 
 
 def _install_script_timeout() -> None:
