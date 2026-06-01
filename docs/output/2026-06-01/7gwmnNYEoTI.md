@@ -1,0 +1,35 @@
+# DAVID 🆚 GOLIATH ⚔️ Perk on why the NBA Finals will be an ABSOLUTE SPECTACLE 🍿 | The Pat McAfee Show — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=7gwmnNYEoTI
+
+_Speakers identified: Pat McAfee, Kendrick Perkins, Ty Schmit, AJ Hawk_
+
+**1. Kendrick Perkins — "I expect another seven-game series. We're talking about two great teams that are playing at a high level." — Perkins predicts a seven-game series between the Knicks and Spurs** [01:08](https://www.youtube.com/watch?v=7gwmnNYEoTI&t=68s)
+
+Kendrick Perkins: "I expect another seven-game series. We're talking about two great teams that are playing at a high level. One team is super physical, and they don't give a damn who is standing in front of them, and that's the San Antonio Spurs. This is not the old Greg Popovich, Tim Duncan, David Robinson type Spurs where they just kick your ass quietly. These San Antonio Spurs, they kick your ass and they're loud about it. They're going to let you know, they're going to talk noise, they're going to rub their feet all over your carpet in your arena, order DoorDash on your credit card, and it's cool. This is what they're on, and I respect it."
+
+https://www.youtube.com/watch?v=7gwmnNYEoTI&t=68s
+
+**2. Kendrick Perkins — "The Knicks are playing the best basketball, offensively and defensively, in the entire NBA, led by Jalen Brunson." — Perkins praises the Knicks' offensive and defensive play** [02:04](https://www.youtube.com/watch?v=7gwmnNYEoTI&t=124s)
+
+Kendrick Perkins: "The Knicks are playing the best basketball, offensively and defensively, in the entire NBA, led by **Jalen Brunson**. This is David and Goliath, right? This is 7'5" Wembanyama going against 6'1", 6'2" **Jalen Brunson**. I couldn't ask for anything better. I'm expecting 15 to 20 million viewers on these NBA Finals. I think these NBA Finals are going to set a record, an all-time record for viewership."
+
+https://www.youtube.com/watch?v=7gwmnNYEoTI&t=124s
+
+**3. Kendrick Perkins — "I got to go with Jalen Brunson. We're talking about OG Anunoby, who is one of the better two-way players." — Perkins ranks the Knicks' supporting cast over the Spurs'** [03:15](https://www.youtube.com/watch?v=7gwmnNYEoTI&t=195s)
+
+Kendrick Perkins: "I got to go with **Jalen Brunson**. We're talking about **OG Anunoby**, who is one of the better two-way players in the game. **Karl-Anthony Towns** is one of the most skilled bigs to ever play the game. He's playing some outstanding basketball on both ends of the floor. **Mikal Bridges**, talk about Finals experience, he's been on this stage before with the Phoenix Suns. When you just look at the veterans that they have on their squad, they're just clicking at the right time, along with **Mike Brown**, who is a two-time champion as an assistant coach. I'm not taking nothing away from Miss Johnson. I call him an evil genius."
+
+https://www.youtube.com/watch?v=7gwmnNYEoTI&t=195s
+
+**4. Kendrick Perkins — "I believe it should be over. I believe when you're going into the off-season, the Oklahoma City Thunder are eye candy." — Perkins argues the Thunder's championship window is closing** [08:34](https://www.youtube.com/watch?v=7gwmnNYEoTI&t=514s)
+
+Kendrick Perkins: "I believe it should be over. I believe when you're going into the off-season, the Oklahoma City Thunder are eye candy. They have a lot of attractive pieces that a lot of teams want, whether that's draft capital or two-way players. They have a lot of guys on their bench, **Aaron Wiggins**, **Cason Wallace**, all of these guys are starters on any other team. It's hard to come across two-way players. Now, they have some big decisions to make. Obviously, you have **Luke Dort**, he's got a team option. **Isaiah Hartenstein**, team option. And then the biggest decision for Sam Presti is, what are you going to do with **Chet Holmgren** after he folded like clean sheets in these conference finals?"
+
+https://www.youtube.com/watch?v=7gwmnNYEoTI&t=514s
+
+**5. Kendrick Perkins — "At no point throughout the course of these playoffs did Chet swing. I was over the fact after game two." — Perkins criticizes Chet Holmgren's lack of aggression in playoffs** [10:15](https://www.youtube.com/watch?v=7gwmnNYEoTI&t=615s)
+
+Kendrick Perkins: "At no point throughout the course of these playoffs did Chet swing. I was over the fact after game two that he wasn't going to try to guard Wembanyama. Okay, kudos to Isaiah Hartenstein and Jalen Williams. But then when the Spurs started disrespecting him by putting smaller guards on him offensively, and he couldn't take advantage of that. And then defensively, it wasn't just Wembanyama every now and then that was either putting him on a poster or taking him to the basket when he did guard him. It was the smaller guards that was tomato-chesting him and putting him in the basket. And I'm saying to myself, I'm like, damn, Chet, you're a first-time All-Star, third-team All-NBA, and you go out on your home court and you have two field goal attempts in the second half?"
+
+https://www.youtube.com/watch?v=7gwmnNYEoTI&t=615s
