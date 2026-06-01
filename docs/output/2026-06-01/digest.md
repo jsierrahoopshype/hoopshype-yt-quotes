@@ -1,0 +1,243 @@
+# HoopsHype YT Quotes — 2026-06-01
+
+## Why Knicks-Spurs Could Be An EPIC NBA Finals — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=4O63HZrY5LA
+
+_Speakers identified: Brian Windhorst, Tim Bontemps, Tim MacMahon_
+
+**1. Tim Bontemps — "The Spurs beat the Thunder in the NBA Cup, and then what happened? They lost to the Knicks." — Spurs' NBA Cup loss to the Knicks** [00:14](https://www.youtube.com/watch?v=4O63HZrY5LA&t=14s)
+
+**Brian Windhorst:** "Shout out to the NBA Cup, because the NBA Cup, whatever you want to call it, whatever negative you want to say about it, predicted the NBA Finals."
+
+**Tim Bontemps:** "That's right."
+
+**Tim MacMahon:** "Well, the Spurs beat the Thunder in the NBA Cup, and then what happened? They lost to the Knicks."
+
+**Brian Windhorst:** "That's what I'm saying."
+
+**Tim Bontemps:** "Indeed."
+
+**Brian Windhorst:** "I'm saying the NBA Cup."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=14s
+
+**2. Tim Bontemps — "They did not put a ribbon up in those rafters at MSG for this very reason." — Knicks' strategy of waiting for the real thing** [00:27](https://www.youtube.com/watch?v=4O63HZrY5LA&t=27s)
+
+Tim Bontemps: "They did not put a ribbon up in those rafters at MSG for this very reason. They wanted to wait for the real thing. We will see if the Spurs."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=27s
+
+**3. Tim Bontemps — "Victor Wembanyama, who is as much of a phenomenon as there is in the sports landscape." — Victor Wembanyama's status as a sports phenomenon** [00:55](https://www.youtube.com/watch?v=4O63HZrY5LA&t=55s)
+
+Tim Bontemps: "The Knicks in the Finals was going to be high interest, but especially against **Victor Wembanyama**, who is as much of a phenomenon as there is in the sports landscape, and as there has been in the sports landscape for a while."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=55s
+
+**4. Tim MacMahon — "Jeff Passan texted me, he said, 'Yeah, he's Ohtani.' And he is Ohtani." — Comparing Victor Wembanyama to Shohei Ohtani** [01:08](https://www.youtube.com/watch?v=4O63HZrY5LA&t=68s)
+
+Tim MacMahon: "**Jeff Passan** texted me, he said, 'Yeah, he's Ohtani.' And he is Ohtani, in terms of just the absolute game-breaking nature of his presence on the court. In Victor's case, Ohtani is doing just completely crazy stuff that we've never seen anybody do before, and playing the game in a way we've never seen anybody do before, and Victor is doing the same thing."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=68s
+
+**5. Tim Bontemps — "The Knicks are playing, statistically, they are playing historically dominant basketball right now." — Knicks' historically dominant statistical performance** [03:11](https://www.youtube.com/watch?v=4O63HZrY5LA&t=191s)
+
+Tim Bontemps: "The Knicks are playing, statistically, they are playing historically dominant basketball right now. And then we've never seen anything like **Victor Wembanyama**. So this should be a ton of fun. Wembanyama will become polarizing pretty soon. I'll tell you that. I will predict that."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=191s
+
+**6. Tim MacMahon — "The guy desperately wants to be great and he has all the talent and all the desire." — Victor Wembanyama's drive to be great** [04:55](https://www.youtube.com/watch?v=4O63HZrY5LA&t=295s)
+
+Tim MacMahon: "The guy desperately wants to be great and he has all the talent and all the desire and competitiveness. There are a very few people you can look at and say they could be the greatest ever to do it, and **Victor Wembanyama** has the ability to end all the arguments."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=295s
+
+**7. Tim MacMahon — "It's worth remembering that Jalen Brunson's possession in first overtime in Game 1." — Jalen Brunson's costly turnover in Game 1** [08:14](https://www.youtube.com/watch?v=4O63HZrY5LA&t=494s)
+
+Tim MacMahon: "It's worth remembering that **Jalen Brunson**'s possession in first overtime in Game 1. You talk about it all the time, Brian, when you kick away a game in a series like this, it's very hard to get it back. If he just holds the ball and they have a shot clock violation, I think there's an extremely high probability that the Thunder win that game."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=494s
+
+**8. Tim MacMahon — "Dort, along with Shai, the two guys who were here from the teardown all the way on up." — Lu Dort's future with the Thunder** [10:12](https://www.youtube.com/watch?v=4O63HZrY5LA&t=612s)
+
+Tim MacMahon: "Dort, along with Shai, the two guys who were here from the teardown all the way on up. They've got decisions to make this summer. Dort's team option is certainly one of those. Shai gave me the quote where he said he'll have zero input, I'm going to let Sam Presti, the best GM in the world, do his job. It was a great quote."
+
+https://www.youtube.com/watch?v=4O63HZrY5LA&t=612s
+
+---
+
+## Victor Wembanyama plays with a VENOM like Kobe & MJ 🐍 - JWill's comparison for Wemby | Get Up — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=DM7qDkYf_Uk
+
+_Speakers identified: Mike Greenberg, Tim MacMahon, Jay Williams, Vincent Goodwill, Kendrick Perkins_
+
+**1. Tim MacMahon — "He wants to be the best player ever to walk the face of the earth." — Victor Wembanyama's potential to become the greatest player ever** [01:17](https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=77s)
+
+Tim MacMahon: "**Victor Wembanyama** has a very clear goal in mind. I am talking big picture here. He wants to be the best player ever to walk the face of the earth, and he has that possibility within his reach. This means so much to him because he is so determined to achieve every ounce of his immense potential. We have never seen this kind of talent, that size, that athletic, that skilled, and this competitive. He has a chance here to stake his claim with no argument possible that he is the best player in the league now and to pour the foundation for the long-term case that he is the best player the league has ever seen."
+
+https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=77s
+
+**2. Jay Williams — "Probably the most polarizing figure we have had since Steph Curry or LeBron James before that." — Why Wembanyama is the most polarizing figure since Curry and James** [02:04](https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=124s)
+
+**Jay Williams:** "You do not have to win a championship to be the best player in the league and for the league to be yours. Both things can be true. For **Victor Wembanyama** right now, at this stage of his career, to be all-NBA first team, to be in the NBA Finals, to be as dominant and as polarizing as he has been in the game of basketball, probably the most polarizing figure we have had since **Steph Curry** or **LeBron James** before that, it is okay to say that he is the face of the league."
+
+**Mike Greenberg:** "I agree completely with that. I have zero issue if anyone did with the emotion that he had."
+
+https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=124s
+
+**3. Mike Greenberg — "Victor Wembanyama is the biggest star in the NBA, nationally and globally." — Why Wembanyama is the unanimous choice for any NBA general manager** [04:03](https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=243s)
+
+Mike Greenberg: "**Victor Wembanyama** is the NBA right now. There is zero question. If you gave every general manager in the NBA the option to start a team with any one player, they would take every one of them. It would be unanimous. They would all take **Victor Wembanyama**. **Victor Wembanyama** is the biggest star in the NBA, nationally and globally. He is also the best player. The idea that he is not the best player is steadfastly ridiculous."
+
+https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=243s
+
+**4. Vincent Goodwill — "You have to say, what are we doing about this guy?" — How Wembanyama's success forces teams to rethink their roster construction** [05:25](https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=325s)
+
+Vincent Goodwill: "Team building is going to change drastically this off-season. Without the Spurs playoff run, without the confirmation that **Victor Wembanyama** can carry a team to the NBA Finals, you were not sure exactly how you were going to go about building. But now you know. Oklahoma City has to maybe recalibrate themselves this summer. Whatever team building mechanisms you are using, you have to say, what are we doing about this guy? Not that we can stop him, but what ways can we try to neutralize him?"
+
+https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=325s
+
+**5. Mike Greenberg — "The Knicks didn't just get through the East, they obliterated the East." — The Knicks' dominant postseason performance and championship worthiness** [06:44](https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=404s)
+
+Mike Greenberg: "The Knicks did not just get through the East, they obliterated the East. They ran through it like a wrecking ball, won 11 consecutive playoff games, and they have a plus-minus 75 points better than any team in NBA history. So let us start with that. What they did to the East this year demonstrates they are very worthy of playing for a championship."
+
+https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=404s
+
+**6. Kendrick Perkins — "You can't win a championship with Tyrese Maxey being your franchise guy." — Why Tyrese Maxey is not a franchise cornerstone for Philadelphia** [09:08](https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=548s)
+
+Kendrick Perkins: "We should tell **Bob Myers** and the Philadelphia 76ers to go ahead and trade **Tyrese Maxey** right now. We should go ahead and tell them, you cannot win a championship with **Tyrese Maxey** being your franchise guy. He is under 6-3. **Tyrese Maxey** is not a franchise guy. So do not bank on winning a championship with him because he cannot be your 1A. Matter of fact, do not draft **Darius A. Cuff Jr.**, who was one of the best college basketball players in college this season, because you are banking on a 6-2 guy with a whole lot of skills, but do not draft him as your franchise guy because you cannot win with a small guard in the league."
+
+https://www.youtube.com/watch?v=DM7qDkYf_Uk&t=548s
+
+---
+
+## NBA Finals Set! Spurs Top OKC in HISTORIC WCF, Will Face Knicks in '99 Rematch | Odds & Predictions — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=tEc8-PgvbnY
+
+_Speakers identified: Paul Pierce, Wosny Lambre, Danny Green_
+
+**1. Paul Pierce — "If they are relatively healthy over the next four or five years, they will be having multiple trips." — Paul Pierce on the Spurs' young roster and their potential for future success** [00:30](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=30s)
+
+Paul Pierce: "They looked at OKC's roster, and they looked them in the eye and they said, we have been playing against each other through AAU. What are we going to be afraid of? A lot of them, they played them in the circuit young. **Shai Gilgeous-Alexander** and the Thunder, they played them in the circuit. My biggest takeaway is they made it to the finals already. If they are relatively healthy over the next four or five years, they will be having multiple trips to the finals."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=30s
+
+**2. Wosny Lambre — "Dylan Harper is just like ice water in his veins, off the dribble, pull-up, cash." — Wosny Lambre praises Dylan Harper and Victor Wembanyama's shot-making** [00:45](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=45s)
+
+Wosny Lambre: "**Dylan Harper** is just like ice water in his veins, off the dribble, pull-up, cash. I am like, this is nuts. **Victor Wembanyama** has dribble pull-up three, like they just made shot after shot like the shot-making, man, in a big spot on the road."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=45s
+
+**3. Paul Pierce — "The Thunder just could not overcome the injuries." — Paul Pierce on how injuries impacted the Thunder in Game 7** [02:49](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=169s)
+
+Paul Pierce: "The Thunder just could not overcome the injuries. Think about it, they took this great Spurs young team to seven. And you did not have your second leading scorer, All-Star, and you did not have another guy in **AJ Mitchell** who was coming into his own this season. And like, it is just tough to overcome. I always say you have to be good and healthy and lucky, and they were unlucky with the injuries."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=169s
+
+**4. Danny Green — "I think the biggest thing I am looking at with San Antonio is how much they have grown." — Danny Green on the growth of the Spurs throughout the season** [04:00](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=240s)
+
+Danny Green: "I think the biggest thing I am looking at with San Antonio is how much they have grown over the season and throughout the series. They are for real. I rooted for them, I hoped for them, but I did not believe what they make us believe now. They are very capable. We knew they were capable, but those young guys, again, it is hard to believe that they are ready for that moment or to be there until you see it."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=240s
+
+**5. Wosny Lambre — "Their young guys just made big shot after big shot after big shot." — Wosny Lambre on the Spurs' young players stepping up in the fourth quarter** [05:33](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=333s)
+
+Wosny Lambre: "The fourth quarter, it is a three-point game going into the fourth, and their young guys just made big shot after big shot after big shot. **Kelvin Johnson** was 0-for-3 in coming into the fourth quarter. He makes an above the break three, which he has been missing all series long. Then he makes a corner three. Dylan Harper is just like ice water in his veins, off the dribble, pull-up, cash. I am like, this is nuts."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=333s
+
+**6. Paul Pierce — "I believe that OKC is better than the Spurs still at their best healthy." — Paul Pierce argues that a healthy Thunder team is better than the Spurs** [09:06](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=546s)
+
+Paul Pierce: "I believe that OKC is better than the Spurs still at their best healthy. In that moment, I think in the moment, at their best healthy, having him, I think they would win."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=546s
+
+**7. Wosny Lambre — "The idea that this kid was supposed to come in and just be your second leading offensive threat." — Wosny Lambre on the pressure of being a second-leading scorer as a rookie** [10:14](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=614s)
+
+Wosny Lambre: "The idea that this kid was supposed to come in and just be your second leading offensive threat on a Western Conference finals against a team like San Antonio, when you got **Chet Holmgren**, who has already been signed to a max extension, he is your second max player. He is supposed to be your second best player at the very worst. So that means when Jalen Brunson comes down, we need **Chet Holmgren** to do something."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=614s
+
+**8. Danny Green — "Chet needs to go watch Jalen Brunson tapes or somebody, whoever it is." — Danny Green on Chet Holmgren's need to be more aggressive** [11:38](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=698s)
+
+Danny Green: "Chet needs to go watch **Jalen Brunson** tapes or somebody, whoever it is. I do not care. You are number two. Your number two is down, you are number three. So that means you are number two now. You have to go in. You cannot be passing up shots. One, two, two shots for the whole game? That is for a role player. That is something that I would get away with doing. You know what I am saying? Not a guy that is supposed to be your second leading offensive threat."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=698s
+
+**9. Chet Holmgren — "I learned the most about myself, and I make the amount of increases I have in my career" — Chet Holmgren reflects on personal growth following his playoff failure** [12:38](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=758s)
+
+Chet Holmgren: "It was a failure. I failed at my goal. I did not achieve what I wanted to achieve. But in my experiences, I learned the most about myself, and I make the amount of increases I have in my career when I fail at my goal and do not get what I want. And I look at this no different."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=758s
+
+**10. Danny Green — "He is more so empowering Chet and also telling the front office, we do not need to make moves." — Danny Green analyzes Chet Holmgren's leadership and Oklahoma City roster stability** [12:38](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=758s)
+
+Danny Green: "He is a power. I think he is saying he is not going to talk to GM, but his leadership, but also I think he is letting them know there is talks of maybe move because of that contract. Maybe if you get **Giannis**, we move Chet. They are like, no. He is like, we are good where we are. We need him. We just need him to be himself. I think he is more so empowering Chet and also telling the front office, we do not need to make moves. We need to keep the group we have together. That is what I got from it."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=758s
+
+**11. Paul Pierce — "They got everything that they need is in that locker room. It is in the room." — Paul Pierce argues Oklahoma City should maintain their current roster** [12:38](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=758s)
+
+Paul Pierce: "If I am OKC, I am not panicking. No, I am not panicking, but they have a lot of wiggle to do a lot of things. That is what I am saying. And I do not think it is like, I think Chet should be still part of what you do. I think you definitely do want to invest maybe in another ball handler type of guy. They got, they don't need anything. They got **AJ Mitchell** for cheap, two years. They got everything that they need is in that locker room. It is in the room."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=758s
+
+**12. Danny Green — "Can you renegotiate Isaiah Hartenstein for a cheaper extension? Or, I mean, he played well." — Danny Green on the importance of team options and financial flexibility** [15:52](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=952s)
+
+Danny Green: "Can you renegotiate **Isaiah Hartenstein** for a cheaper extension? Or, I mean, he played well. I think he deserves what he is getting. But **Lou Dort** is getting paid. Like those two guys have team options. What do you do with that? You know, you can figure out a way to keep you under cap but also use that money wiser and, you know, it is hard for me to figure out who is the core outside of Chet, Shai, and Jalen Dub."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=952s
+
+**13. Paul Pierce — "Chet Holmgren needs to be in that damn core, bro." — Paul Pierce on the Spurs' core and future roster decisions** [16:18](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=978s)
+
+Paul Pierce: "**Chet Holmgren** needs to be in that damn core, bro. I like moving forward as their payroll goes up, you know, and then they have draft picks. They are going to have to cut some, you know, some guys go. Like the Wiggins is, the J-Will's, like, you know, eventually some of these guys are going to is going to be tough. The guys that they can't play in the in the playoffs. I mean, I think Isaiah Joe was great for them during the regular season, but like, playoffs is like, I thought he could have played in the like, he could knock down shots for you. But if you feel you can't play him, well, McCain kind of knocked his minutes away."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=978s
+
+**14. Paul Pierce — "I feel like OKC is going to have a similar off-season to what you guys had." — Paul Pierce on the Spurs' potential for a championship run** [17:06](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1026s)
+
+Paul Pierce: "I feel like OKC is going to have a similar off-season to what you guys had. Even in that game seven, that bullseye is like, we know who we got to go out and kill. And we are going to learn, we are going to dedicate our off-season and our next season to beating that team, to beating that team."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1026s
+
+**15. Paul Pierce — "The Spurs are going to be better by doing nothing because of the development of their young guys." — Paul Pierce on the Spurs' development and future prospects** [18:32](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1112s)
+
+Paul Pierce: "The Spurs are going to be better by doing nothing because of the development of their young guys. Because you got to understand, they are going to get better. Like some guys are who they are, but like, Castle is going to be better. Vassell is going to be better. Harper, I mean, jeez. But, Wembanyama is going to get stronger by the second, by the day. Yeah, and it is incredible because throughout this journey for them, it was just like, we watched the Spurs develop right throughout the year."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1112s
+
+**16. Paul Pierce — "I have never seen this. This is what I am trying to tell you, I never seen this." — Paul Pierce on the Spurs' surprising playoff run** [20:31](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1231s)
+
+Paul Pierce: "And then now they are in the finals and it is just like that it is just I am still mind-boggling to me. I I have never seen this. This is what I am trying to tell you, I never seen this with this type of unit, with this type of age. I mean, they got to be the youngest team in age average in the league, right? They have to be the youngest team in the league. They have to be."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1231s
+
+**17. Danny Green — "So game one, it was the youngest starting lineup in playoff history when Harper was out and Dylan Harper started." — Danny Green on the Spurs' historic young starting lineup** [20:53](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1253s)
+
+Danny Green: "So game one, it was the youngest starting lineup in playoff history when Harper was out and **Dylan Harper** started. So the average age was 22 years. So when Harper started, remember he had 27, 6, 7, and 5 steals, something crazy like that."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1253s
+
+**18. Wosny Lambre — "To start the year, bro, I was like, this might be the dark, they could be the dark horse." — Wosny Lambre on his initial doubts about the Spurs** [21:05](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1265s)
+
+Wosny Lambre: "To start the year, bro, I was like, this might be the dark, they could be the dark horse coming out the West. I think they could go to Western Conference finals, is what I said. People like, oh, you crazy, you know, you buy. And then they beat OKC a couple times, like, oh, they actually got some. And then that's when it started really for people. That started clicking, and then they like, number two, and then they went the whole month of March without losing. It is like, they actually could contend."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1265s
+
+**19. Danny Green — "I still again, thought they would be a different playoff team than regular season." — Danny Green on the Spurs' potential to win the Western Conference** [21:25](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1285s)
+
+Danny Green: "I still again, thought they would be a different playoff team than regular season. I am like, it is going to be different once they play OKC in the playoffs. Yeah. And I was like, they could they are capable, but I always went with experience and championship DNA. Yeah. But they proved me wrong. I am happy they did. You know what I saw, you know what I think and this is deep, I am thinking like, you know, yeah, everybody said they are young, they should be afraid of the moment, but they looked at OKC's roster and they looked them in the eye and they like, man, we have been playing against each other through AAU."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1285s
+
+**20. Paul Pierce — "My first year, I you know, Lakers and all them, then I you know, I had a Shaq poster." — Paul Pierce on his first-year experience and the importance of championship DNA** [22:36](https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1356s)
+
+Paul Pierce: "My first year, I you know, Lakers and all them, then I you know, I had a **Shaq** poster in my locker. Like, imagine I go to the championship, I am going to be in awe. You know what I am saying? No, that that is that is an amazing point. And just the journeys of the two teams and, you know, you think about the Knicks and how up and down their season was and, you know, how for the most part, a lot of people were kind of disappointed or felt let down by the regular season that the Knicks have."
+
+https://www.youtube.com/watch?v=tEc8-PgvbnY&t=1356s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
