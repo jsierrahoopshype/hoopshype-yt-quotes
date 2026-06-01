@@ -1,0 +1,66 @@
+{
+  "video_title": "Where do the Thunder Go From Here? | ALL NBA PODCAST",
+  "speakers_seen": ["Adam Mares", "Mark Stein"],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Stein",
+      "speakers": ["Adam Mares", "Mark Stein"],
+      "timestamp": "01:38",
+      "summary_phrase": "The Knicks' long-awaited return to the NBA Finals",
+      "names_mentioned": [],
+      "excerpt": "the Knicks, as we all know, have not won it all since 1973",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Adam Mares",
+          "text": "Could the league have asked for anything better than a seven-game series and that game seven coming down to big shot-making, down to the wire, bad blood, rivalries? I have to imagine people around the league are buzzing after that game seven."
+        },
+        {
+          "speaker": "Mark Stein",
+          "text": "Games two through six, I don't think are going to be remembered too fondly, but game one and game seven, these two teams that everyone has been looking forward to. The Knicks, as we all know, have not won it all since 1973, before you were born, according to my sources."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Stein",
+      "timestamp": "03:54",
+      "summary_phrase": "Victor Wembanyama's unprecedented size and skill set",
+      "names_mentioned": ["Victor Wembanyama"],
+      "excerpt": "we've just never seen a player this big do the stuff he does",
+      "quote": "He is the ultimate curiosity because we've just never seen a player this big do the stuff he does. What do they list him now at 7'5? I'm convinced he's 7'7. We joke on the SiriusXM NBA radio show that I co-host with Zach Harper that we are going to sneak into Spurs media day somehow with a tape measure and settle this once and for all.",
+      "text_blocks": []
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Stein",
+      "timestamp": "10:44",
+      "summary_phrase": "The decline of home-court advantage in the NBA",
+      "names_mentioned": [],
+      "excerpt": "home-court advantage in the NBA has never meant less",
+      "quote": "The five worst seasons in NBA history in terms of composite winning percentage for home teams, it's all been since the bubble. This season, home teams won at a rate of 554, so it was up from last season's 544. 544 last season was the worst composite home winning percentage that we've ever seen in the NBA. Home-court advantage in the NBA has never meant less than it's been in the last five years.",
+      "text_blocks": []
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Stein",
+      "timestamp": "17:08",
+      "summary_phrase": "The Thunder's potential roster changes after playoff exit",
+      "names_mentioned": ["Giannis Antetokounmpo"],
+      "excerpt": "OKC was going to face a roster crunch this summer whether they won it all again or not",
+      "quote": "OKC was going to face a roster crunch this summer whether they won it all again or not. The reason this is such a shock is because they started 24-1. When they were 24-1 going into the NBA Cup semis, everybody, and I'll put my hand up I was right there at the front of the line, this team is going to win 75 games or 74 or 73, and nobody can touch them. It just felt like the season was over before it started, and then San Antonio beat them three times in such a short span.",
+      "text_blocks": []
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Stein",
+      "timestamp": "23:48",
+      "summary_phrase": "The difficulty of trading Trey Murphy III",
+      "names_mentioned": ["Trey Murphy III"],
+      "excerpt": "it would be expensive to try to convince New Orleans to trade Trey Murphy",
+      "quote": "Everybody wants Trey Murphy. Now, again, if the Thunder always have the assets to make a trade happen. It would be expensive to try to convince New Orleans to trade Trey Murphy, but the Thunder can do expensive. In that scenario, my question is how willing actually are the Pelicans going to be to trade Trey Murphy because his contract is so team-friendly for what he does. I would have to imagine they're going to be reluctant to do it unless they can get a Desmond Bane kind of package for him.",
+      "text_blocks": []
+    }
+  ]
+}

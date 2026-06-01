@@ -1,0 +1,53 @@
+{
+  "video_title": "VLOG 09: I BROUGHT THE BROOKLYN NETS ROOKIES TO THE LAKE OF THE OZARKS!",
+  "speakers_seen": [
+    "Coby White",
+    "Drake Powell",
+    "Blair",
+    "3GORR"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coby White",
+      "speakers": [
+        "Coby White",
+        "Blair",
+        "3GORR"
+      ],
+      "timestamp": "03:51",
+      "summary_phrase": "Coby White and Blair debate the loss of a phone",
+      "names_mentioned": [
+        "Blair"
+      ],
+      "excerpt": "We don't put anything in the cloud. That's all of me and Blair right there.",
+      "text_blocks": [
+        {
+          "speaker": "Coby White",
+          "text": "We don't put anything in the cloud. That's all of me and Blair right there. Blair never dropped it once. Blair doesn't have any of it."
+        },
+        {
+          "speaker": "Blair",
+          "text": "I'm not good to you. So talk to me like that."
+        },
+        {
+          "speaker": "Coby White",
+          "text": "I don't care. It's not going to work."
+        },
+        {
+          "speaker": "3GORR",
+          "text": "Shut up. I got off it. It's not going to turn on either way. It's been down there too long."
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "speaker": "3GORR",
+      "timestamp": "04:22",
+      "summary_phrase": "3GORR discusses the consequences of his phone falling in water",
+      "names_mentioned": [],
+      "excerpt": "I must lost a friend to that phone, but we're back better than ever.",
+      "quote": "Let's be honest. I was spending whatever money tonight. This is the show me state, meaning you got to show me. When he comes to my state and I tell him that he's fine when his phone drops in the water, because we got the best divers in the world to get it, you're fine. You got to understand, man, that's what happened. I messed up his phone, it went in the water, we got it out in 20 minutes. I must lost a friend to that phone, but we're back better than ever."
+    }
+  ]
+}
