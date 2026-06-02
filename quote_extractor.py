@@ -41,7 +41,7 @@ PROMPT = """You are watching an NBA YouTube show. Extract the editorially strong
 
 Hard rules — these are limits, not targets:
 
-- LENGTH: Each quote MUST be between 60 and 220 words after cleanup. Quotes over 220 words must be split into separate ranked quotes or shortened. Do not exceed 220 words under any circumstance.
+- LENGTH: Use whatever length captures the speaker's complete thought. Some quotes are 30 words (a single punchy line); others reach 250 words (a full argument built across a minute of speech). DO NOT force quotes toward a target word count, and DO NOT trim a coherent multi-sentence argument just to keep it short. The selection bar is "is this quote editorially compelling?" — not "is this quote the right length?". Hard upper bound: 280 words per quote (anything longer gets split into sub-quotes downstream).
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - ONE TOPIC PER QUOTE: A single quote covers a single subject — one player, one team, one story, one argument. If the speaker pivots to a new player, team, story, or argument, that is a new quote with its own rank and timestamp. Do not merge two topics into one quote even when they are spoken back-to-back.
 - CONTIGUOUS QUOTES ONLY: Each quote must be a single uninterrupted span of speech from one speaker (or, for dialogue, from two speakers exchanging contiguously). Do NOT join non-adjacent passages. Do NOT skip middle content and rejoin opening and closing fragments. Do NOT condense a long monologue by cutting the middle. If a passage is too long to quote in full, return a shorter contiguous excerpt of it (start at point X, end at point Y, both inside the same continuous speech segment) — never fabricate continuity by stitching separated text together. For multi-speaker quotes (text_blocks), each speaker's contribution within their block must also be contiguous — do not stitch a speaker's earlier and later statements into one block. Example —
@@ -50,13 +50,17 @@ Hard rules — these are limits, not targets:
   GOOD (one short contiguous span): "I think the Knicks have a real shot this year because Brunson is just on another level. Look at what he did in Game 5 — 41 points, the closing stretch, the way he got to the rim. That's the kind of run no one was projecting from him this season."
 - MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject AND contiguous within that subject.
 
-How many quotes to return — scale to the video's length and density of editorial content. The rule is "only extract quotes that are genuinely editorial-worthy" — do NOT pad with weak quotes to hit a target. But also do NOT skip over rich passages. Long videos almost always have more substance than a handful of quotes captures.
+How many quotes to return — TARGET DENSITY, not a ceiling. THE MOST COMMON FAILURE MODE IS UNDER-EXTRACTION: missing strong quotes by being too selective. Lean toward inclusion whenever content is editorially worthwhile.
 
-- Under 30 min: extract whatever genuinely deserves to be quoted. No minimum. An empty array is acceptable if the video has nothing worth pulling.
-- 30 to 60 min: AIM FOR DENSER COVERAGE. If the content is editorially rich, find at least one quote roughly every 5-7 minutes. A 45-minute interview with a returning All-Star where you return only 3-4 quotes is almost certainly under-extraction — you skipped real material. Push back against the temptation to be terse.
-- 60+ min (this video may be sent to you in 60-minute chunks): apply the same per-chunk density expectation. Each 60-minute chunk of rich editorial content should yield 8-15+ quotes, not 3-5.
+For genuinely substantive content, aim for roughly one quote per 3-4 minutes of substantive discussion:
 
-Hard cap: 20 quotes per request (or per chunk for chunked videos). Better to return 5 strong quotes than 12 mediocre ones — but a 60-minute interview between two NBA stars with only 5 quotes is the wrong end of that trade-off, not the right one.
+- Under 30 min: 5-10 quotes is normal for an editorial segment; punchy shows with rapid-fire takes can yield 10+. Returning 1-2 from a 20-minute editorial segment is almost certainly under-extraction.
+- 30 to 60 min: a typical NBA podcast in this range should yield 10-20 quotes. A 45-minute interview with a returning All-Star producing only 3-4 quotes is severe under-extraction — you skipped real material.
+- 60+ min (this video may be sent to you in 60-minute chunks): apply the SAME per-chunk density. Each 60-minute chunk of rich content should yield 10-20 quotes. A 90-minute video processed as 2 chunks produces roughly 20-30 quotes total.
+
+Hard cap: 20 quotes per request (or per chunk for chunked videos). Empty array is acceptable ONLY for thin / non-editorial content (pure sponsor reads, recap-only highlights, intros). For substantive editorial content, single-digit quote counts on a 30+ minute video are almost always wrong.
+
+The "no padding" rule stays — do NOT extract weak filler to hit a target. But the bar to clear is "is this editorially compelling?" not "is this quote among the top 5 in the video?". When in doubt about a substantive take, INCLUDE IT.
 
 Editorial rules:
 
@@ -110,7 +114,7 @@ SPLIT_PROMPT = """You are editing a single quote from an NBA YouTube show that i
 
 Hard rules:
 
-- Each sub-quote MUST be between 60 and 220 words after cleanup. Do not exceed 220 words under any circumstance.
+- Each sub-quote should match the natural shape of its content. A single punchy line is fine; so is a 200-word argument. Don't force any target length. Hard upper bound: 280 words per sub-quote (anything longer will be split again).
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - Each sub-quote covers a single subject — one player, one team, one story, one argument.
 - CONTIGUOUS ONLY: Each sub-quote must be a single uninterrupted span of speech from the original. Do not stitch the opening and closing sentences of the original together while skipping middle content. If the substantive content for a subject is itself non-contiguous in the original, pick the strongest single contiguous span and drop the rest rather than fabricating continuity.
@@ -142,6 +146,11 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
 ]"""
 
 MAX_QUOTES_AFTER_SPLIT = 20
+# Quotes over this length get split into sub-quotes. Raised from 220 to 280
+# to preserve longer editorial arguments — 150-200 word quotes are normal
+# for podcasts where a host builds a multi-sentence case, and forcing them
+# through the splitter was breaking up coherent thoughts.
+MAX_QUOTE_WORDS_BEFORE_SPLIT = 280
 
 # Footer link appended to every published digest.md. Uses HTML so it opens
 # in a new tab in both GitHub blob and GitHub Pages renderers, matching the
@@ -847,7 +856,7 @@ def _canonical_quote_text(quote: dict) -> str:
 
 
 def _needs_split(quote: dict) -> bool:
-    return _word_count(_canonical_quote_text(quote)) > 220
+    return _word_count(_canonical_quote_text(quote)) > MAX_QUOTE_WORDS_BEFORE_SPLIT
 
 
 def split_quote(client, quote: dict) -> tuple[list, str]:
