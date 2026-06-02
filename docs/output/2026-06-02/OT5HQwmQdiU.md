@@ -1,0 +1,69 @@
+# KNICKS BACK IN NBA FINALS! 🤯 Jalen & Josh React to New York's Historic ECF Win — *Roommates Show*
+
+Source: https://www.youtube.com/watch?v=OT5HQwmQdiU
+
+_Speakers identified: Jalen Brunson, Josh Hart, Matt Hillman_
+
+**1. Jalen Brunson — "I think we need to manage it better than what we did last time and not have the start that we did." — Jalen Brunson on managing the break before the NBA Finals** [01:14](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=74s)
+
+Jalen Brunson: "I think we need to manage it better than what we did last time and not have the start that we did. In order to not have the start we did in Game 1 of the last series, I think the last two days have been productive. We need to keep moving forward and make sure we're not wasting any days leading up to Game 1. Stay mentally focused and physically in tune, trying to do a lot without doing too much. Just keep your win, keep up your game shape. You can't really imitate game shape or game speed things in practice, they're much different, but we've got to find a way to make sure we're doing a lot."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=74s
+
+**2. Josh Hart — "Everyone's being very unselfish. They don't really care who gets the praise, who gets the shots." — Josh Hart on the team's selfless, win-focused mentality** [05:22](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=322s)
+
+Josh Hart: "Everything is just clicking. Everyone's being very unselfish. They don't really care who gets the praise, who gets the shots, who gets the touches. It's strictly about wins, and I think everyone is focused on that and doing whatever we can to help the team, putting the team's success over the success of us as individuals. It's a combination of everything that we worked for throughout the year, the habits that we've been trying to build every day, every game. Everything is pointing to the habits that we spent so long to build and prepare."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=322s
+
+**3. Jalen Brunson — "I don't think that game was the end-all be-all, because there's still a lot of basketball to be played." — Jalen Brunson on moving past the Game 1 loss to Cleveland** [07:01](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=421s)
+
+Jalen Brunson: "I don't think that game was the end-all be-all, because there's still a lot of basketball to be played. Having a 22-point lead and then losing, and then finding a way to win that game, was obviously insane to say the least. You have to have a certain type of mental edge to move on from that. Someone has to be able to step up and say we can bounce back from this. As a team, last year I failed to do that, but we were in the conference finals and we weren't able to get over that hump because of how we lost Game 1."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=421s
+
+**4. Josh Hart — "I think that second game was the biggest game. If you have a letdown in that second game, that's where that doubt really starts to show." — Josh Hart on the importance of Game 2 in a playoff series** [09:15](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=555s)
+
+Josh Hart: "I think that second game was the biggest game. If you have a letdown in that second game, that's where that doubt really starts to show. Because you get a big lead, you probably should have won, and it's also a reason why you can't give away games in the playoffs. It's tough to overcome. But then you have that, and then you have another loss in Game 2. Now that doubt is starting to seep in a little bit more. So I think if you have the ability to have someone come and steady the ship, whether that's coach, player, or whatever, and you go out there and win that second game, I think it's a different story."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=555s
+
+**5. Josh Hart — "There's a lot of things that analytics don't show or don't take into account." — Josh Hart on the limitations of basketball analytics** [10:42](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=642s)
+
+Josh Hart: "There's a lot of things that analytics don't show or don't take into account. I always thought analytics were for geeky, unathletic white guys that wanted to be a part of the league but just couldn't make it playing basketball, so they decided to put math into the equation. That's always how I felt about analytics. There's a lot of things that analytics don't show or don't take into account while they're trying to mathematically win a basketball game."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=642s
+
+**6. Josh Hart — "Not every person is the same, not every game is the same. That person might get tired in those four minutes." — Josh Hart on why basketball games can't be reduced to math** [12:22](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=742s)
+
+Josh Hart: "I don't think you can place effort, intensity of certain things. People sit there and say, 'Oh, you can play this person at these four minutes because they get tired.' It's like, not every person is the same, not every game is the same. That person might get tired in those four minutes one game, and then another game, he's good for six minutes. There's stuff like that where you can't really analytically put into a mathematical equation and come out with the best-case scenario. It's like they're saying 50/50 ball. Not every loose ball is a 50/50 ball. If me and you are next to each other and a ball rolls across my foot, that's more like an 80% chance that I get it and a 20% chance you get it because it just rolls right to me. It's not a 50/50 ball, but analytically, it's a 50/50 ball, but it's not."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=742s
+
+**7. Josh Hart — "I think Boston takes analytics very seriously in terms of wanting to get up as many shots." — Josh Hart on Boston's analytical approach to shot volume** [13:55](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=835s)
+
+Josh Hart: "I think **Boston** takes analytics very seriously in terms of wanting to get up as many shots. And I think they do a good job of like two-for-ones or three-for-twos. They look at the game that way, and I think that helps, and I think that's something that can aid or help you, but I don't think that should be your whole outlook. I'm sure there's other teams, I just don't know other teams' philosophies offhand, of how analytically driven some teams are. Obviously, Cleveland is probably pretty analytically driven."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=835s
+
+**8. Jalen Brunson — "You can't measure the heart. He had heart that game." — Jalen Brunson on Josh Hart's heart and performance** [15:08](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=908s)
+
+**Jalen Brunson:** "What from not playing the fourth quarter to being five-for-11 from three, analytics told you not to play **Josh** in the fourth."
+
+**Matt Hillman:** "Analytics told you not to play **Josh** in the fourth."
+
+**Jalen Brunson:** "But hey, you can't measure the heart. That's what you said. You can't measure the heart. He had heart that game."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=908s
+
+**9. Josh Hart — "The first half is the main thing, because it's like, if I can go up, punch them in the mouth." — Josh Hart on the importance of a strong start in playoff games** [22:35](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=1355s)
+
+Josh Hart: "The first half is the main thing, because it's like, if I can go up, punch them in the mouth, go up 10 in that first quarter, and then weather the storm, because they're most likely going to go on a run, and go into half up eight plus, 10, whatever, now it's only 24 minutes. Now that that doubt is real. So now every time, you guys miss like an open shot, it's a little deflating. Every time, you know, Land hits a step-back three, that's more deflating. There's a loss of, you know, mix-up in communication, Jalen gets a layup off a screen, it's deflating."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=1355s
+
+**10. Josh Hart — "He kills teams in transition in terms of how he runs, his finishing at the rim in transition." — Josh Hart on Mikal Bridges' two-way impact** [27:10](https://www.youtube.com/watch?v=OT5HQwmQdiU&t=1630s)
+
+Josh Hart: "He kills teams in transition in terms of how he runs, his finishing at the rim in transition. So it's like he's able to take the challenge of guarding a, a, he guarded **Tyrese**, he guarded **James**, so he's having that energy defensively. And then he's outrunning everybody offensively in transition. He's able to get easy buckets and now he's like Land, like he's in rhythm and now you give him the ball, you know, he's able to get into the paint, get his shot, get other guys shots. So, you know, I don't think there's any surprise of why, you know, those guys are playing extremely well, even OG, because they play both sides of the ball."
+
+https://www.youtube.com/watch?v=OT5HQwmQdiU&t=1630s
