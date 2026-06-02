@@ -1,0 +1,65 @@
+# Knicks' REST 🆚 Spurs' MOMENTUM 👉 What's the BIGGER ADVANTAGE in the NBA Finals?! 🧐 | Get Up — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=8sQQsWEyiOc
+
+_Speakers identified: Alan Hahn, Brian Windhorst, Jay Williams, Mike Greenberg_
+
+**1. Alan Hahn — "This series is setting up to be one of the all-time greats." — Knicks and Spurs have played competitive games since Wembanyama joined the NBA** [00:06](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=6s)
+
+Alan Hahn: "This series is going to be epic. People don't understand, yes it's an East and West team, they don't play each other a lot, but over the last three seasons since **Wembanyama** has gotten into the league, they have had some great games against each other. Something crazy happens in all of them. Neither team has won on the other team's home floor either. So, this series is setting up to be one of the all-time greats."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=6s
+
+**2. Brian Windhorst — "They really believe that the Knicks have some advantages in the series." — Scouts and coaches believe the Knicks have advantages against the Spurs** [00:35](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=35s)
+
+Brian Windhorst: "The more and more people I talk to around the league, scouts and other coaches, they are really surprised that the Spurs are favored by as much as they are. They get with **Wembanyama** and how tough the West playoffs were, but they really believe that the Knicks have some advantages in the series and that this thing could absolutely go New York's way."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=35s
+
+**3. Jay Williams — "Josh Hart may be the most important Knicks player. He gets to determine whether Wemby gets to be Wemby." — Josh Hart is the most important player for the Knicks against Wembanyama** [01:07](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=67s)
+
+Jay Williams: "**Josh Hart** may be the most important Knicks player. He gets to determine whether **Wemby** gets to be **Wemby**. Think about how **Wemby** guarded **Alex Caruso**, hugging the paint, now allowing **SGA** to get into that territory inside the paint. Well, **Josh Hart**, he proved that he can knock down shots in that game against Cleveland multiple times. And his ability to knock down shots from the outside will open up the paint for other guys to get to the rack to score for easy lay-ins and knock down threes at a high clip."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=67s
+
+**4. Brian Windhorst — "The expectation is that he is going to try to play." — Mitchell Robinson expected to play in Game 1 with a brace** [01:54](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=114s)
+
+Brian Windhorst: "The expectation is that he is going to try to play. Today is media day here in San Antonio and **Mitchell Robinson** and the Knicks will, if he will, have to show their hand when they have to explain the nature around this injury and what they expect from him. I will point out, **Mitchell Robinson** is averaging 14 minutes a game in these playoffs. He is a role player. Obviously with **Wembanyama** out there, you want all of your centers available, but I think that the Knicks believe that they are going to be able to get some production out of him even if he is limited on that hand."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=114s
+
+**5. Jay Williams — "I'm going to wear him down possession over possession. This is a cumulative effect." — The Knicks' defensive strategy against Wembanyama must be cumulative wear and tear** [02:48](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=168s)
+
+Jay Williams: "I'm going to wear him down possession over possession. This is a cumulative effect. This isn't going to be won in Game 1, Game 2, Game 3, Game 4. It's going to be won in Game 5, Game 6, and Game 7. And I think if anything, you understand the amount of games that **Wemby** has played, getting to a Game 7. And think about how emotionally spent he was. Now look, everybody knows that **Wemby** will be ready for Game 1. But if you're the Knicks, you have four games in 23 calendar days. This is a marathon. This is not a sprint. The more actions you keep him involved in, the more possessions where you make them fast possessions, the more you make him rotate defensively, that's how you beat **Wemby** over time, over time."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=168s
+
+**6. Brian Windhorst — "The Knicks have played four fewer playoff games than the Spurs." — The Knicks' rest advantage could be significant in the NBA Finals** [05:02](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=302s)
+
+Brian Windhorst: "The Knicks have played four fewer playoff games than the Spurs. I'm not saying that's going to be the difference in the series, but it is going to matter at some point. And there's a very powerful statistic that I can't ignore because it takes into account so much history. We have seen in the history of the NBA playoffs 24 times where a team coming off a sweep plays a team coming off seven games. And it's 20 to 4. 20 and 4. That is what the record is for the team coming off the sweep. Now, you can slap a whole bunch of asterisks on that because of the East versus West differential, but that is going to be meaningful. That extra rest will matter. Maybe not tomorrow, but at some point in this series."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=302s
+
+**7. Brian Windhorst — "He only played 15 minutes all season against the Spurs." — Mitchell Robinson's limited role against Wembanyama** [07:09](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=429s)
+
+Brian Windhorst: "Obviously it's a significant injury, but he is expected to try to play. He will, he is scheduled at least to speak to the media today at media day here. I will point out, **Mitchell Robinson** only played 15 minutes all season against the Spurs. He only played in one of the three games. He's only averaging 14 minutes in the playoffs. That said, against Victor **Wembanyama**, so to speak, you need all hands and so they definitely are going to want to get some production from him."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=429s
+
+**8. Brian Windhorst — "He's the most skilled player the game has ever seen, I believe." — Wembanyama is the most skilled player in NBA history** [08:58](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=538s)
+
+Brian Windhorst: "He's the most skilled player the game has ever seen, I believe. Now, he obviously has to back that up with incredible success and he's off to an amazing start. I also think he's very charismatic and he is also got leadership ability. He wants things to matter. He wants to put emotion into the game. He plays a style of basketball that is pleasing for both old school, he does go inside and play old traditional basketball, and new school, he's not afraid to shoot threes. He's not afraid to talk trash. He's not afraid to show emotion. He's not afraid to challenge his peers to say you should be doing this and not that. He really is the whole package. The one thing is, he is not American. And so we have never had an American, a non-American face of the NBA that has that kind of power and so that will be a big test if he wins. Can you be that type of global icon in America when you're not American?"
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=538s
+
+**9. Jay Williams — "He doesn't say anything, he just wants to run a hole through your chest each and every possession." — Wembanyama's unique impact on the game of basketball** [10:18](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=618s)
+
+Jay Williams: "This is a global sport. And one of the things I've learned throughout my 45 years here on this earth is that when you start having a nickname that's like one name, like Prince, the magnitude of it is different. It's the alien. It's Area 51. It's all these short little things that you can use to describe something the game of basketball has never seen. Not only is it his size, his athleticism, his dexterity, his ball handling, but it's also the things that he says. It's like think about this generation and the way they kind of go about doing things and it's like he doesn't say anything, he just wants to run a hole through your chest each and every possession. And to me, I don't think you have to be American anymore to be the face of a league that is a global brand."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=618s
+
+**10. Alan Hahn — "He's going to take the torch from LeBron James and Steph Curry." — Wembanyama's potential as the face of the NBA** [11:19](https://www.youtube.com/watch?v=8sQQsWEyiOc&t=679s)
+
+Alan Hahn: "We have musicians who aren't American who are very popular in this country. We have actors who are not American who are iconic in this country. There's no reason why he can't be. He's everything, all the guys described, that I don't have to repeat it. He's box office. All-Star game, what did he do? He challenged star players to play. He shows emotion, which we don't get enough of that with a lot of players, especially in the NBA. It's way too cool for school. He's changing that. And then of course, he's box office. He's much, must watch. He doesn't have to win a championship right now. He will eventually. But right now, he's going to take the torch from **LeBron James** and **Steph Curry** and he's going to carry the NBA into the next generation."
+
+https://www.youtube.com/watch?v=8sQQsWEyiOc&t=679s

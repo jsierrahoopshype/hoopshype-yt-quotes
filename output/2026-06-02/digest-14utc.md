@@ -1,5 +1,51 @@
 # HoopsHype YT Quotes — 2026-06-02
 
+## Stephen A. & Cam'ron CALL PERK OUT for double-dutching his NBA Finals take 🍿 | First Take — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=_4487rbDXEM
+
+_Speakers identified: Molly Qerim, Stephen A. Smith, Kendrick Perkins_
+
+**1. Stephen A. Smith — "It's going to be on Jalen Brunson to do more." — Jalen Brunson needs to perform for the Knicks to win** [00:43](https://www.youtube.com/watch?v=_4487rbDXEM&t=43s)
+
+Stephen A. Smith: "It's going to be on **Jalen Brunson** to do more. I know **Victor Wembanyama** does everything. We are talking about the reigning Defensive Player of the Year. He has things that he does that do not show up in the stat sheet. It does not show up in the stat sheet when people come into the paint, think about it, and say, 'I am not going to shoot this shot' and pass it around."
+
+https://www.youtube.com/watch?v=_4487rbDXEM&t=43s
+
+**2. Stephen A. Smith — "When you have guards that they can throw at him, it's a castle." — Jalen Brunson's size disadvantage against the Spurs' defensive depth** [02:09](https://www.youtube.com/watch?v=_4487rbDXEM&t=129s)
+
+Stephen A. Smith: "When you have guards that they can throw at him, it's a castle. It's a vassal. It's a **Dylan Harper**. It's a Shamet. You have a bunch of dudes that you can throw at him, a bunch of bodies, not to mention **De'Anthony Melton** as well. You have a bunch of dudes that you can throw at him. He is going to have to be as effective as ever before. It is not just about scoring the ball, it is about getting guys in foul trouble, it is about getting to the free throw line, and more importantly, it is about feeding off of **Carl-Anthony Towns** and making sure that you get yours but you also facilitate as well."
+
+https://www.youtube.com/watch?v=_4487rbDXEM&t=129s
+
+**3. Kendrick Perkins — "Do y'all realize that we're witnessing one of the greatest offensive teams in NBA history in the postseason?" — Knicks are one of the greatest offensive teams in history** [03:57](https://www.youtube.com/watch?v=_4487rbDXEM&t=237s)
+
+Kendrick Perkins: "Do y'all realize that we're witnessing one of the greatest offensive teams in NBA history in the postseason? That's the Knicks. They have an offensive rating of 123. The second team that was close to them was the Oklahoma City Thunder with 117. They are shooting 51% from the field and 40% from the three. And the most impressive thing about the Knicks is that they have different styles offensively."
+
+https://www.youtube.com/watch?v=_4487rbDXEM&t=237s
+
+**4. Stephen A. Smith — "When you pull Wembanyama away from the basket, then San Antonio is essentially playing four guards." — Spurs play four guards when Wembanyama is pulled from the basket** [05:43](https://www.youtube.com/watch?v=_4487rbDXEM&t=343s)
+
+Stephen A. Smith: "When you pull Wembanyama away from the basket, then San Antonio is essentially playing four guards with Wembanyama. They are not paying attention to there is really no power forward on San Antonio. If you want to call **Harrison Barnes** a power forward, no disrespect to him, then you can. But you are playing four guards and when we see Wembanyama get pulled away from the basket, it is hard and few for San Antonio to get rebounds. I watch Harrison shoot over Shamet and Vassell last series and I am sitting there saying, 'Harrison, you have to realize this.' **OG Anunoby**, he is a wild card. This is a machine. This is a legit 6-9 machine."
+
+https://www.youtube.com/watch?v=_4487rbDXEM&t=343s
+
+**5. Stephen A. Smith — "You picked about 17 teams. You picked the Thunder, now you with the Knicks." — Stephen A. Smith calls out Kendrick Perkins for changing his pick** [07:06](https://www.youtube.com/watch?v=_4487rbDXEM&t=426s)
+
+**Stephen A. Smith:** "Do you realize this is the team he's picked to win? No, no. He picked about 17 teams. He picked the Thunder, now he with the Knicks. I mean, hell, I mean he all over the place. He all over the place. That's why that's why that's why he getting on here this time. He was supposed to be on the top of the show. He got the lead. He got the lead on purpose. That's what Perk doing right now. Perk spent the last hour and a half trying to figure out who's going to pick to win the NBA Finals. That's what he did, ladies and gentlemen. He is just fluid. He is just fluid. That's what he's doing, right? We understand, Perk. We had the hour and a half. How you let him get away with that, Cam?"
+
+**Kendrick Perkins:** "I can't let him get away with that. I can't let him get away with that. He's all over the place right now. I mean, damn. Next week, it might be the Spurs. It might be the Spurs, you know what I'm saying? He might reincarnate and say, 'Yo, he going to win it all even though he home.' We don't know what the hell Perk going to do next. I don't understand it. It's just me."
+
+https://www.youtube.com/watch?v=_4487rbDXEM&t=426s
+
+**6. Stephen A. Smith — "When you consider the depth that the San Antonio Spurs have, that is not to be underestimated." — Spurs' depth and youth make them a difficult opponent** [08:08](https://www.youtube.com/watch?v=_4487rbDXEM&t=488s)
+
+Stephen A. Smith: "When you consider the depth that the San Antonio Spurs have, that is not to be underestimated. **Fox**, **Castle**, **Harper**, the **Vassell** rather, Shamet, **Johnson** coming off the bench. I mean, they got weapons all over the place. And what we saw in Game 7, this was a Game 7 on the road. And you know what we saw that we didn't talk enough about with San Antonio? They were making shots when it counted."
+
+https://www.youtube.com/watch?v=_4487rbDXEM&t=488s
+
+---
+
 ## Knicks' REST 🆚 Spurs' MOMENTUM 👉 What's the BIGGER ADVANTAGE in the NBA Finals?! 🧐 | Get Up — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=8sQQsWEyiOc
@@ -68,90 +114,6 @@ https://www.youtube.com/watch?v=8sQQsWEyiOc&t=679s
 
 ---
 
-## Boogie & Lou HEATED DEBATE On Small Guards & Jalen Brunson — *Run It Back*
-
-Source: https://www.youtube.com/watch?v=BSgPj5FvWII
-
-_Speakers identified: Michelle Beadle, DeMarcus Cousins, Chandler Parsons, Lou Williams_
-
-**1. Chandler Parsons — "There is no man on the planet that can guard this guy one-on-one." — Knicks must use collective defensive effort to contain Victor Wembanyama** [00:15](https://www.youtube.com/watch?v=BSgPj5FvWII&t=15s)
-
-Chandler Parsons: "Every team that faces him is going to throw a bunch of different looks at him. I would not be surprised if they start **OG Anunoby** or **Mikal Bridges** on him and force him to push out and then maybe throw double teams at him, or they could go big on him and put **Mitchell Robinson**. They have a lot of options. They could go **Josh Hart**. They have a versatile lineup where all these wings can defend. Either way, there is no man on the planet that can guard this guy one-on-one. It is going to be a collective effort. They are going to have to do something unique and they are going to have to be extremely physical, but he is so used to that by now. Everyone is going to try and do that. My guess would be **OG Anunoby** or **Josh Hart** would be the obvious choice, but he is going to see so many different looks. **Mitchell Robinson** is going to see time on him."
-
-https://www.youtube.com/watch?v=BSgPj5FvWII&t=15s
-
-**2. DeMarcus Cousins — "It is not going to be a one-person job. He is going to see different looks." — Defending Victor Wembanyama requires a physical, team-based defensive approach** [00:56](https://www.youtube.com/watch?v=BSgPj5FvWII&t=56s)
-
-**DeMarcus Cousins:** "It is not going to be a one-person job. He is going to see different looks. Obviously, he is going to see physicality. I think teams feel like if they are going to have an opportunity to beat them, they are going to have to put some physicality in this basketball game. I think **OG Anunoby** starts on him, crawls up in him. He is built to take on that job."
-
-**Chandler Parsons:** "I think he is built for the team-up."
-
-**DeMarcus Cousins:** "I think he is built for the team-up. I think **OG Anunoby** or **Josh Hart** will guard him. I think **OG Anunoby** is one of those guys that has the stature. You know what, forget it."
-
-https://www.youtube.com/watch?v=BSgPj5FvWII&t=56s
-
-**3. Lou Williams — "What is the separation from Stephen Curry and everybody else?" — Debating if small guards like Jalen Brunson can lead title teams** [05:00](https://www.youtube.com/watch?v=BSgPj5FvWII&t=300s)
-
-**Lou Williams:** "We are moving the goalposts because **Stephen Curry** is a small guard. Everybody is like, well, he is a shooter, he is this and that. All of the small guards are scoring guards. What is the separation from **Stephen Curry** and everybody else? What is the separation?"
-
-**Chandler Parsons:** "The unanimous MVP."
-
-**Lou Williams:** "He is still a small guard that was the best player on a championship team. But that is the separation from everybody else. Is he a small guard? It has only been two in the history of the game."
-
-**Chandler Parsons:** "You are not answering my question."
-
-**Lou Williams:** "He is a small guard. First of all, he is not the small guard that they are directly talking about. They were talking about guys under 6'2". **Stephen Curry**, **Steve Nash**, **Chris Paul**, Iverson. The point was like **Steve Nash**, **Chris Paul**, Iverson. The point was a difference. Come on, Boogie. We are moving the goalposts. This is a goalpost move."
-
-https://www.youtube.com/watch?v=BSgPj5FvWII&t=300s
-
----
-
-## Stephen A. & Cam'ron CALL PERK OUT for double-dutching his NBA Finals take 🍿 | First Take — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=_4487rbDXEM
-
-_Speakers identified: Molly Qerim, Stephen A. Smith, Kendrick Perkins_
-
-**1. Stephen A. Smith — "It's going to be on Jalen Brunson to do more." — Jalen Brunson needs to perform for the Knicks to win** [00:43](https://www.youtube.com/watch?v=_4487rbDXEM&t=43s)
-
-Stephen A. Smith: "It's going to be on **Jalen Brunson** to do more. I know **Victor Wembanyama** does everything. We are talking about the reigning Defensive Player of the Year. He has things that he does that do not show up in the stat sheet. It does not show up in the stat sheet when people come into the paint, think about it, and say, 'I am not going to shoot this shot' and pass it around."
-
-https://www.youtube.com/watch?v=_4487rbDXEM&t=43s
-
-**2. Stephen A. Smith — "When you have guards that they can throw at him, it's a castle." — Jalen Brunson's size disadvantage against the Spurs' defensive depth** [02:09](https://www.youtube.com/watch?v=_4487rbDXEM&t=129s)
-
-Stephen A. Smith: "When you have guards that they can throw at him, it's a castle. It's a vassal. It's a **Dylan Harper**. It's a Shamet. You have a bunch of dudes that you can throw at him, a bunch of bodies, not to mention **De'Anthony Melton** as well. You have a bunch of dudes that you can throw at him. He is going to have to be as effective as ever before. It is not just about scoring the ball, it is about getting guys in foul trouble, it is about getting to the free throw line, and more importantly, it is about feeding off of **Carl-Anthony Towns** and making sure that you get yours but you also facilitate as well."
-
-https://www.youtube.com/watch?v=_4487rbDXEM&t=129s
-
-**3. Kendrick Perkins — "Do y'all realize that we're witnessing one of the greatest offensive teams in NBA history in the postseason?" — Knicks are one of the greatest offensive teams in history** [03:57](https://www.youtube.com/watch?v=_4487rbDXEM&t=237s)
-
-Kendrick Perkins: "Do y'all realize that we're witnessing one of the greatest offensive teams in NBA history in the postseason? That's the Knicks. They have an offensive rating of 123. The second team that was close to them was the Oklahoma City Thunder with 117. They are shooting 51% from the field and 40% from the three. And the most impressive thing about the Knicks is that they have different styles offensively."
-
-https://www.youtube.com/watch?v=_4487rbDXEM&t=237s
-
-**4. Stephen A. Smith — "When you pull Wembanyama away from the basket, then San Antonio is essentially playing four guards." — Spurs play four guards when Wembanyama is pulled from the basket** [05:43](https://www.youtube.com/watch?v=_4487rbDXEM&t=343s)
-
-Stephen A. Smith: "When you pull Wembanyama away from the basket, then San Antonio is essentially playing four guards with Wembanyama. They are not paying attention to there is really no power forward on San Antonio. If you want to call **Harrison Barnes** a power forward, no disrespect to him, then you can. But you are playing four guards and when we see Wembanyama get pulled away from the basket, it is hard and few for San Antonio to get rebounds. I watch Harrison shoot over Shamet and Vassell last series and I am sitting there saying, 'Harrison, you have to realize this.' **OG Anunoby**, he is a wild card. This is a machine. This is a legit 6-9 machine."
-
-https://www.youtube.com/watch?v=_4487rbDXEM&t=343s
-
-**5. Stephen A. Smith — "You picked about 17 teams. You picked the Thunder, now you with the Knicks." — Stephen A. Smith calls out Kendrick Perkins for changing his pick** [07:06](https://www.youtube.com/watch?v=_4487rbDXEM&t=426s)
-
-**Stephen A. Smith:** "Do you realize this is the team he's picked to win? No, no. He picked about 17 teams. He picked the Thunder, now he with the Knicks. I mean, hell, I mean he all over the place. He all over the place. That's why that's why that's why he getting on here this time. He was supposed to be on the top of the show. He got the lead. He got the lead on purpose. That's what Perk doing right now. Perk spent the last hour and a half trying to figure out who's going to pick to win the NBA Finals. That's what he did, ladies and gentlemen. He is just fluid. He is just fluid. That's what he's doing, right? We understand, Perk. We had the hour and a half. How you let him get away with that, Cam?"
-
-**Kendrick Perkins:** "I can't let him get away with that. I can't let him get away with that. He's all over the place right now. I mean, damn. Next week, it might be the Spurs. It might be the Spurs, you know what I'm saying? He might reincarnate and say, 'Yo, he going to win it all even though he home.' We don't know what the hell Perk going to do next. I don't understand it. It's just me."
-
-https://www.youtube.com/watch?v=_4487rbDXEM&t=426s
-
-**6. Stephen A. Smith — "When you consider the depth that the San Antonio Spurs have, that is not to be underestimated." — Spurs' depth and youth make them a difficult opponent** [08:08](https://www.youtube.com/watch?v=_4487rbDXEM&t=488s)
-
-Stephen A. Smith: "When you consider the depth that the San Antonio Spurs have, that is not to be underestimated. **Fox**, **Castle**, **Harper**, the **Vassell** rather, Shamet, **Johnson** coming off the bench. I mean, they got weapons all over the place. And what we saw in Game 7, this was a Game 7 on the road. And you know what we saw that we didn't talk enough about with San Antonio? They were making shots when it counted."
-
-https://www.youtube.com/watch?v=_4487rbDXEM&t=488s
-
----
-
 ## The BAHA's Final Preview 👀, OKC has lost their MINDS? Kawhi Leonard situation just got MESSY & more — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=i-Dq_UMgFd4
@@ -205,56 +167,6 @@ https://www.youtube.com/watch?v=i-Dq_UMgFd4&t=7212s
 Charlie Villanueva: "The **Kawhi Leonard** situation just got messy, and it is not going to get better. You cannot build a championship contender around a guy who is consistently unavailable when the lights are brightest. It puts too much pressure on the rest of the roster to overperform for eighty-two games."
 
 https://www.youtube.com/watch?v=i-Dq_UMgFd4&t=7365s
-
----
-
-## Bobby Marks' OKC Thunder Offseason Guide ⚡️ Who is DESTINED to be traded?! | NBA on ESPN — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=kBVb4PdAjvU
-
-_Speakers identified: Bobby Marks_
-
-**1. Bobby Marks — "I think OKC is in a unique situation just based on where we are with the rules" — OKC Thunder's unique position under the new CBA rules** [01:23](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=83s)
-
-Bobby Marks: "I think the Thunder are probably the most anticipated team to keep an eye on this offseason. I think certainly when you look at other teams, of course the Lakers, I think OKC is in a unique situation just based on where we are with the rules of the CBA. People want to know, are they going to be another casualty of the second apron? What is going to happen with their roster?"
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=83s
-
-**2. Bobby Marks — "12, 17, and 37. The pick 12 is from the Clippers from the Paul George trade" — OKC Thunder's draft capital and roster flexibility** [02:14](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=134s)
-
-Bobby Marks: "64 and 18, another 61 season. Three picks: 12, 17, and 37. The pick 12 is from the Clippers from the **Paul George** trade. They and Atlanta are the only two playoff teams that have a lottery pick. The 17th pick is from Philadelphia as part of the **Al Horford** trade."
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=134s
-
-**3. Bobby Marks — "You are $40 million above the second apron. This is going to be the talking point" — OKC Thunder's financial outlook and second apron status** [03:46](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=226s)
-
-Bobby Marks: "You are $40 million above the second apron. This is going to be the talking point to summer. You are at 261, that includes your 15 players, it includes your two draft picks. You are $40 million above the second apron. Your projected payroll, this does not include your first round picks, you are at 213 and then add another close to 250. So your payroll is the highest in probably projected to be in league history here."
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=226s
-
-**4. Bobby Marks — "We've been limited in what tools we can use with where we are right now around" — Brad Stevens on Boston's limited trade tools** [06:12](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=372s)
-
-Bobby Marks: "I pulled a quote from **Brad Stevens** and it said, we've been limited in what tools we can use with where we are right now around the second apron. The tools that he mentioned basically is the inability to send out cash in a trade, use at least 6.1 of the non-tax mid-level exception, the inability to take back more salary in a trade, the inability to aggregate contracts in a trade."
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=372s
-
-**5. Bobby Marks — "You cannot trade a $50 million player for a $58 million because you are taking back more salary" — Why OKC cannot easily trade for high-salary players** [10:39](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=639s)
-
-Bobby Marks: "When you aggregate contracts, you cannot have your post-transaction salary over the second apron. You cannot trade a $50 million player for a $58 million because you are taking back more salary. And even if you wanted to say, we're going to decline Lu Dort and Kenrich Williams and that's $25 million, you are still a first and second apron team. I don't see a scenario where you're not going to be a second apron team."
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=639s
-
-**6. Bobby Marks — "I will bet anybody a dinner or a donation to your charity that Isaiah Hartenstein" — The likelihood of Isaiah Hartenstein remaining with OKC** [13:40](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=820s)
-
-Bobby Marks: "I love when people say, well, they're just going to decline **Isaiah Hartenstein** and he's going to become a free agent. I will bet anybody a dinner or a donation to your charity that **Isaiah Hartenstein** will be a free agent and playing elsewhere next year. If his option is declined, that means they have an agreement in place that he will be back on probably a longer contract and at less money."
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=820s
-
-**7. Bobby Marks — "Extension candidate to watch, of course, is Cason Wallace. Oklahoma City has been aggressive with extension talks" — Cason Wallace as an extension candidate** [15:10](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=910s)
-
-Bobby Marks: "Extension candidate to watch, of course, is **Cason Wallace**. Oklahoma City has been aggressive with extension talks on all-NBA defender. I am not going to put comps out and put numbers out because that just pisses people off, but I would expect them to be aggressive when it comes to Wallace extension."
-
-https://www.youtube.com/watch?v=kBVb4PdAjvU&t=910s
 
 ---
 
@@ -322,55 +234,41 @@ https://www.youtube.com/watch?v=rLaUC_dKAsQ&t=343s
 
 ---
 
-## LeBron James Answers Your Burning Questions | MIND THE GAME — *Mind the Game*
+## Boogie & Lou HEATED DEBATE On Small Guards & Jalen Brunson — *Run It Back*
 
-Source: https://www.youtube.com/watch?v=vQRKPFI88PI
+Source: https://www.youtube.com/watch?v=BSgPj5FvWII
 
-_Speakers identified: LeBron James, Steve Nash_
+_Speakers identified: Michelle Beadle, DeMarcus Cousins, Chandler Parsons, Lou Williams_
 
-**1. LeBron James — "He's definitely going to go down as one of the best point guards that has ever played." — LeBron James on Chris Paul's legacy as a point guard** [00:34](https://www.youtube.com/watch?v=vQRKPFI88PI&t=34s)
+**1. Chandler Parsons — "There is no man on the planet that can guard this guy one-on-one." — Knicks must use collective defensive effort to contain Victor Wembanyama** [00:15](https://www.youtube.com/watch?v=BSgPj5FvWII&t=15s)
 
-**Steve Nash:** "We are late on this, but we haven't talked about **Chris Paul** retiring."
+Chandler Parsons: "Every team that faces him is going to throw a bunch of different looks at him. I would not be surprised if they start **OG Anunoby** or **Mikal Bridges** on him and force him to push out and then maybe throw double teams at him, or they could go big on him and put **Mitchell Robinson**. They have a lot of options. They could go **Josh Hart**. They have a versatile lineup where all these wings can defend. Either way, there is no man on the planet that can guard this guy one-on-one. It is going to be a collective effort. They are going to have to do something unique and they are going to have to be extremely physical, but he is so used to that by now. Everyone is going to try and do that. My guess would be **OG Anunoby** or **Josh Hart** would be the obvious choice, but he is going to see so many different looks. **Mitchell Robinson** is going to see time on him."
 
-**LeBron James:** "We are late and apologies. He's definitely going to go down as one of the best point guards that has ever played this game. He's going to go down as one of the most fierce competitors that has ever played this game."
+https://www.youtube.com/watch?v=BSgPj5FvWII&t=15s
 
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=34s
+**2. DeMarcus Cousins — "It is not going to be a one-person job. He is going to see different looks." — Defending Victor Wembanyama requires a physical, team-based defensive approach** [00:56](https://www.youtube.com/watch?v=BSgPj5FvWII&t=56s)
 
-**2. LeBron James — "It was the first time I officially met him. He was the best point guard in North Carolina." — LeBron James on his first encounter with Chris Paul** [01:40](https://www.youtube.com/watch?v=vQRKPFI88PI&t=100s)
+**DeMarcus Cousins:** "It is not going to be a one-person job. He is going to see different looks. Obviously, he is going to see physicality. I think teams feel like if they are going to have an opportunity to beat them, they are going to have to put some physicality in this basketball game. I think **OG Anunoby** starts on him, crawls up in him. He is built to take on that job."
 
-LeBron James: "In the eighth grade, I was in Orlando, Florida at the Worldwide of Sports. There was an AAU national tournament there and my AAU ball club was there. In the final four, it was our team, Southern Cal All-Stars, and I believe it was **Chris Paul**'s team. I could be wrong about their name, but it was **Chris Paul**'s team. Fast forward to my senior year in high school, we were playing in Greensboro, North Carolina during HBCU weekend. There was a tournament down there, and our high school, St. Vincent-St. Mary, goes down there. We were playing a team out of North Carolina, and after the game, **Chris Paul** comes into the locker room and that's the first time I officially met him. He was the best point guard in North Carolina at the time."
+**Chandler Parsons:** "I think he is built for the team-up."
 
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=100s
+**DeMarcus Cousins:** "I think he is built for the team-up. I think **OG Anunoby** or **Josh Hart** will guard him. I think **OG Anunoby** is one of those guys that has the stature. You know what, forget it."
 
-**3. LeBron James — "I recognized what they were going to and pre-switched, so I had Sabonis and I could take the matchup." — LeBron James on his defensive stop against Victor Oladipo** [08:24](https://www.youtube.com/watch?v=vQRKPFI88PI&t=504s)
+https://www.youtube.com/watch?v=BSgPj5FvWII&t=56s
 
-LeBron James: "They were going to go high screen and roll with **Victor Oladipo**. I recognized what they were going to and pre-switched, so I had **Domantas Sabonis** and I could take the matchup and take away their advantage in pick and roll. Now **Victor Oladipo** isolates you. He actually gets you, but that's why I took the switch and then I even get you and close the speed."
+**3. Lou Williams — "What is the separation from Stephen Curry and everybody else?" — Debating if small guards like Jalen Brunson can lead title teams** [05:00](https://www.youtube.com/watch?v=BSgPj5FvWII&t=300s)
 
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=504s
+**Lou Williams:** "We are moving the goalposts because **Stephen Curry** is a small guard. Everybody is like, well, he is a shooter, he is this and that. All of the small guards are scoring guards. What is the separation from **Stephen Curry** and everybody else? What is the separation?"
 
-**4. LeBron James — "A lot of times I am manipulating the defense by either driving towards the defender, knowing I'm going to get someone to step up." — LeBron James on manipulating defenses during games** [13:22](https://www.youtube.com/watch?v=vQRKPFI88PI&t=802s)
+**Chandler Parsons:** "The unanimous MVP."
 
-LeBron James: "A lot of times I am manipulating the defense by either driving towards the defender, knowing I'm going to get someone to step up towards me or eyes are going to be on me, knowing I'm going to get my guy a shot or if I'm running a pick and roll, and I have a great roller, then I know the bottom guy on the defense is going to attract in and I can get my guy on the weak side a shot. It's just about knowing the coverages the defense is in, but also knowing the magnet that you have."
+**Lou Williams:** "He is still a small guard that was the best player on a championship team. But that is the separation from everybody else. Is he a small guard? It has only been two in the history of the game."
 
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=802s
+**Chandler Parsons:** "You are not answering my question."
 
-**5. LeBron James — "I worked out for 12 plus teams. I went to almost the half the league." — LeBron James on his high school workout routine** [15:22](https://www.youtube.com/watch?v=vQRKPFI88PI&t=922s)
+**Lou Williams:** "He is a small guard. First of all, he is not the small guard that they are directly talking about. They were talking about guys under 6'2". **Stephen Curry**, **Steve Nash**, **Chris Paul**, Iverson. The point was like **Steve Nash**, **Chris Paul**, Iverson. The point was a difference. Come on, Boogie. We are moving the goalposts. This is a goalpost move."
 
-LeBron James: "I worked out for 12 plus teams. I went to almost the half the league of like all over the country, still in school, graduating and all that stuff. I always had a growth mindset. I got to improve, I got to get better. So for me, I always was like, I just want to get there and then prove that I can keep going. That was the biggest thing for me."
-
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=922s
-
-**6. LeBron James — "When you're a leader and guys look for your leadership, guys run through a wall for you." — LeBron James on the responsibilities of being a leader** [21:28](https://www.youtube.com/watch?v=vQRKPFI88PI&t=1288s)
-
-LeBron James: "When you're a leader and guys look for your leadership, guys run through a wall for you. The least thing you could do is be accountable, hold yourself accountable, and take accountability when you mess up or you're not feeling like you've done your job. And even more, when you think you could have done more, and maybe you couldn't have, but you still feel that responsibility. So this thing is just the responsibility of being a leader."
-
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=1288s
-
-**7. LeBron James — "I still think Cooper Flagg has the biggest upside. I think Kon Knueppel is my rookie of the year." — LeBron James on the rookie class impact** [28:40](https://www.youtube.com/watch?v=vQRKPFI88PI&t=1720s)
-
-LeBron James: "I still think **Cooper Flagg** has the biggest upside. I think **Kon Knueppel** is my rookie of the year, and I think if **Dylan Harper** wasn't on such a good team, he could be rookie of the year and I think he's an eight to ten plus time all star."
-
-https://www.youtube.com/watch?v=vQRKPFI88PI&t=1720s
+https://www.youtube.com/watch?v=BSgPj5FvWII&t=300s
 
 ---
 
@@ -409,6 +307,56 @@ https://www.youtube.com/watch?v=xQz0TO_Rw1s&t=190s
 Lou Williams: "I don't think it's pressure on him to keep his job. I think it's pressure on him to bring it home."
 
 https://www.youtube.com/watch?v=xQz0TO_Rw1s&t=242s
+
+---
+
+## Bobby Marks' OKC Thunder Offseason Guide ⚡️ Who is DESTINED to be traded?! | NBA on ESPN — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=kBVb4PdAjvU
+
+_Speakers identified: Bobby Marks_
+
+**1. Bobby Marks — "I think OKC is in a unique situation just based on where we are with the rules" — OKC Thunder's unique position under the new CBA rules** [01:23](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=83s)
+
+Bobby Marks: "I think the Thunder are probably the most anticipated team to keep an eye on this offseason. I think certainly when you look at other teams, of course the Lakers, I think OKC is in a unique situation just based on where we are with the rules of the CBA. People want to know, are they going to be another casualty of the second apron? What is going to happen with their roster?"
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=83s
+
+**2. Bobby Marks — "12, 17, and 37. The pick 12 is from the Clippers from the Paul George trade" — OKC Thunder's draft capital and roster flexibility** [02:14](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=134s)
+
+Bobby Marks: "64 and 18, another 61 season. Three picks: 12, 17, and 37. The pick 12 is from the Clippers from the **Paul George** trade. They and Atlanta are the only two playoff teams that have a lottery pick. The 17th pick is from Philadelphia as part of the **Al Horford** trade."
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=134s
+
+**3. Bobby Marks — "You are $40 million above the second apron. This is going to be the talking point" — OKC Thunder's financial outlook and second apron status** [03:46](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=226s)
+
+Bobby Marks: "You are $40 million above the second apron. This is going to be the talking point to summer. You are at 261, that includes your 15 players, it includes your two draft picks. You are $40 million above the second apron. Your projected payroll, this does not include your first round picks, you are at 213 and then add another close to 250. So your payroll is the highest in probably projected to be in league history here."
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=226s
+
+**4. Bobby Marks — "We've been limited in what tools we can use with where we are right now around" — Brad Stevens on Boston's limited trade tools** [06:12](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=372s)
+
+Bobby Marks: "I pulled a quote from **Brad Stevens** and it said, we've been limited in what tools we can use with where we are right now around the second apron. The tools that he mentioned basically is the inability to send out cash in a trade, use at least 6.1 of the non-tax mid-level exception, the inability to take back more salary in a trade, the inability to aggregate contracts in a trade."
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=372s
+
+**5. Bobby Marks — "You cannot trade a $50 million player for a $58 million because you are taking back more salary" — Why OKC cannot easily trade for high-salary players** [10:39](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=639s)
+
+Bobby Marks: "When you aggregate contracts, you cannot have your post-transaction salary over the second apron. You cannot trade a $50 million player for a $58 million because you are taking back more salary. And even if you wanted to say, we're going to decline Lu Dort and Kenrich Williams and that's $25 million, you are still a first and second apron team. I don't see a scenario where you're not going to be a second apron team."
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=639s
+
+**6. Bobby Marks — "I will bet anybody a dinner or a donation to your charity that Isaiah Hartenstein" — The likelihood of Isaiah Hartenstein remaining with OKC** [13:40](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=820s)
+
+Bobby Marks: "I love when people say, well, they're just going to decline **Isaiah Hartenstein** and he's going to become a free agent. I will bet anybody a dinner or a donation to your charity that **Isaiah Hartenstein** will be a free agent and playing elsewhere next year. If his option is declined, that means they have an agreement in place that he will be back on probably a longer contract and at less money."
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=820s
+
+**7. Bobby Marks — "Extension candidate to watch, of course, is Cason Wallace. Oklahoma City has been aggressive with extension talks" — Cason Wallace as an extension candidate** [15:10](https://www.youtube.com/watch?v=kBVb4PdAjvU&t=910s)
+
+Bobby Marks: "Extension candidate to watch, of course, is **Cason Wallace**. Oklahoma City has been aggressive with extension talks on all-NBA defender. I am not going to put comps out and put numbers out because that just pisses people off, but I would expect them to be aggressive when it comes to Wallace extension."
+
+https://www.youtube.com/watch?v=kBVb4PdAjvU&t=910s
 
 ---
 
