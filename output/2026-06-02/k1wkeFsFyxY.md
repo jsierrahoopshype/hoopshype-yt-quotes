@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-02
-
-## Baha's NBA FINALS Preview, Kawhi Leonard situation is getting MESSY and more — *To The Baha*
+# Baha's NBA FINALS Preview, Kawhi Leonard situation is getting MESSY and more — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=k1wkeFsFyxY
 
@@ -71,7 +69,3 @@ https://www.youtube.com/watch?v=k1wkeFsFyxY&t=7512s
 Raymond Felton: "Coaching is about making the right adjustment when the game is on the line. You can have the best players, but if you are not putting them in positions to succeed, you are going to lose. It is about who makes the better adjustment in game four or five."
 
 https://www.youtube.com/watch?v=k1wkeFsFyxY&t=7710s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
