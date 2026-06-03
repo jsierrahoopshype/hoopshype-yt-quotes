@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-02
-
-## NBA Finals Begin Tonight! + What Would Title Mean For Wemby? — *Run It Back*
+# NBA Finals Begin Tonight! + What Would Title Mean For Wemby? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=ZGILKsIWKok
 
@@ -33,7 +31,3 @@ https://www.youtube.com/watch?v=ZGILKsIWKok&t=740s
 **Chandler Parsons:** "If he wins a championship in his first three years, he is the greatest prospect ever. It validates everything we thought about his ceiling. You are talking about a guy who changes the entire landscape of the league immediately."
 
 https://www.youtube.com/watch?v=ZGILKsIWKok&t=3600s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
