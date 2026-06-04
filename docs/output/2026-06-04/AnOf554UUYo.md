@@ -1,0 +1,119 @@
+# Knicks react to first NBA Finals win in 27 YEARS after Game 1 victory vs. the Spurs 🙌 | NBA on ESPN — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=AnOf554UUYo
+
+_Speakers identified: Mike Budenholzer, Jalen Brunson, Mitchell Robinson_
+
+**1. Mike Budenholzer — "In the first half, they kicked our mind in transition. They got out the way we calculated." — Mike Budenholzer on the Spurs' transition offense in Game 1** [00:21](https://www.youtube.com/watch?v=AnOf554UUYo&t=21s)
+
+Mike Budenholzer: "In the first half, they kicked our mind in transition. They got out the way we calculated. They had 24 fast break points in the first half. In the second half, they had nine fast break points, so we did a better job of getting back. We got to get back, we got to load. We cannot buddy run because they have quick athletic players and then you got **Wemby** coming and he can shoot the three or get to the rim."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=21s
+
+**2. Mike Budenholzer — "Our ability to crash and more importantly turn the offensive rebounds into second chance points was huge." — Mike Budenholzer on the importance of offensive rebounding and second-chance points** [01:02](https://www.youtube.com/watch?v=AnOf554UUYo&t=62s)
+
+Mike Budenholzer: "Our ability to crash and more importantly turn the offensive rebounds into second chance points was huge. Getting 23 second chance points compared to their 14 was big, especially with the amount of free throws that they had compared to ours. We had to find other ways to score. We did a nice job taking care of the basketball in the second half. First half we had eight turnovers, second half obviously one turnover, so we had an opportunity to score more."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=62s
+
+**3. Mike Budenholzer — "We got to keep getting to Champagnie. Champagnie had five threes in the first half." — Mike Budenholzer on defensive adjustments against Champagnie** [01:33](https://www.youtube.com/watch?v=AnOf554UUYo&t=93s)
+
+Mike Budenholzer: "We got to keep getting to **Champagnie**. **Champagnie** had five threes in the first half and we did a better job of closing out to him and trying to get him off the three-point line."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=93s
+
+**4. Mike Budenholzer — "Landry Shamet was huge off the bench with his 13 points. Not only that, defensively he was huge." — Mike Budenholzer on the impact of Landry Shamet and OG Anunoby** [01:47](https://www.youtube.com/watch?v=AnOf554UUYo&t=107s)
+
+Mike Budenholzer: "**Landry Shamet** was huge off the bench with his 13 points. Not only that, defensively he was huge for us. **OG** got it going in the second half. **OG** was huge for us in the second half. He hit some big threes."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=107s
+
+**5. Mike Budenholzer — "Josh Hart's line being one for five from the field, the guy had 15 rebounds and four steals." — Mike Budenholzer on Josh Hart's defensive contributions** [02:04](https://www.youtube.com/watch?v=AnOf554UUYo&t=124s)
+
+Mike Budenholzer: "You look at **Josh Hart**'s line being one for five from the field, the guy had 15 rebounds and four steals and he made some unbelievable defensive plays and he helped us tremendously in transition. So, heck of a job by Josh."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=124s
+
+**6. Mike Budenholzer — "Jalen, he was the MVP in the second half. He did what MVP candidates are supposed to do." — Mike Budenholzer on Jalen Brunson's second-half performance** [02:24](https://www.youtube.com/watch?v=AnOf554UUYo&t=144s)
+
+Mike Budenholzer: "Jalen, he was the MVP in the second half. He was huge for us. He did what MVP candidates are supposed to do. He carried us home. We put the ball in his hands and he got it done for us down the stretch."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=144s
+
+**7. Jalen Brunson — "We got a little too emotional in the first half, a little caught up in the game." — Jalen Brunson on the team's emotional start to Game 1** [13:34](https://www.youtube.com/watch?v=AnOf554UUYo&t=814s)
+
+Jalen Brunson: "We got a little too emotional in the first half, a little caught up in the game one of the finals and everything going on. So we were talking to each other and trying to settle each other in, focus on the things we need to focus on and we did a good job of that."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=814s
+
+**8. Jalen Brunson — "My job is my job and it remains the same, be ready for whatever situation or moment." — Jalen Brunson on his role and mindset during the playoffs** [14:11](https://www.youtube.com/watch?v=AnOf554UUYo&t=851s)
+
+Jalen Brunson: "My job is my job and it remains the same, be ready for whatever situation or moment you're asked to step into. That's the only thing I think about. Not thinking about how it started, anything in the past, I'm thinking about Game 2 against San Antonio."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=851s
+
+**9. Jalen Brunson — "He just has a knack for doing things like that in crucial times as well." — Jalen Brunson on Josh Hart's impact beyond scoring** [16:31](https://www.youtube.com/watch?v=AnOf554UUYo&t=991s)
+
+Jalen Brunson: "That's just who he is. He's always been that way. I can't explain it. He just has a knack for doing things like that in crucial times as well. So it's a credit to who he is as a player."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=991s
+
+**10. Jalen Brunson — "I think we're a pretty together group, be able to trust each other and still just continue to fight." — Jalen Brunson on the team's resilience and trust** [17:05](https://www.youtube.com/watch?v=AnOf554UUYo&t=1025s)
+
+Jalen Brunson: "I think we're a pretty together group, be able to trust each other and still just continue to fight each other's back and just know that we got to keep chipping away, chipping away. It's a credit to the mentality we have as a team."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1025s
+
+**11. Mitchell Robinson — "Just my teammates finding me and just being aggressive, being ready to shoot, shooting with confidence." — Mitchell Robinson on his fourth-quarter performance** [18:17](https://www.youtube.com/watch?v=AnOf554UUYo&t=1097s)
+
+Mitchell Robinson: "Just my teammates finding me and just being aggressive, being ready to shoot, shooting with confidence and yeah."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1097s
+
+**12. Jalen Brunson — "I think it starts with my confidence and comes to my work ethic." — Jalen Brunson on his confidence and work ethic** [19:35](https://www.youtube.com/watch?v=AnOf554UUYo&t=1175s)
+
+Jalen Brunson: "I think it starts with my confidence and comes to my work ethic. But I think most importantly, knowing we're on the road and knowing my teammates have my back, I think that's the biggest thing in an environment like this. They trust to have me, they trust to have them. It's got us to this point."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1175s
+
+**13. Jalen Brunson — "It was more of just an instinct, just being able to kind of read how the defender's body was shifting." — Jalen Brunson on his game-winning shot against David Vassell** [23:06](https://www.youtube.com/watch?v=AnOf554UUYo&t=1386s)
+
+Jalen Brunson: "It was more of just an instinct, just being able to kind of read how the defender's body was shifting and just yeah, just reading the play. I wasn't trying to predetermine what I was going to do. It was just something I read and I just went with it."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1386s
+
+**14. Mitchell Robinson — "This team has unity, it has camaraderie and it was special, something I thought we showed the world." — Mitchell Robinson on team unity and growth** [23:38](https://www.youtube.com/watch?v=AnOf554UUYo&t=1418s)
+
+Mitchell Robinson: "This team has unity, it has camaraderie and it was special, something I thought we showed the world last year. It got us far in the playoffs last year and just growing off of that from last year, having another year of each other, even more familiarity. Last year was a lot of change with me coming to the team, **Kale** and just obviously so many moving parts. So I think it was something that has been building and it's been more trust has been built over time and it's something that has worked tremendously well for us."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1418s
+
+**15. Mitchell Robinson — "Just try to make it difficult. He's an amazing player, he's a one of a kind player." — Mitchell Robinson on the defensive approach against Victor Wembanyama** [24:22](https://www.youtube.com/watch?v=AnOf554UUYo&t=1462s)
+
+Mitchell Robinson: "Just try to make it difficult. He's an amazing player, he's a one of a kind player in the league has ever seen and he just tried to make it as difficult as possible."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1462s
+
+**16. Mitchell Robinson — "It's something that's in the city. You feel that energy in the city, the grit, the grind." — Mitchell Robinson on the team's resilience when trailing** [24:50](https://www.youtube.com/watch?v=AnOf554UUYo&t=1490s)
+
+Mitchell Robinson: "It's something that's in the city. You feel that energy in the city, the grit, the grind, the hard work you got to put in to make it in the city. I think we reflect all our fans and their lifestyles and what it takes to make it in New York City when we step on that court with the Knicks jersey."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1490s
+
+**17. Mitchell Robinson — "We got to execute our game plan at all times regardless of what the situation is." — Mitchell Robinson on the team's disciplined defense** [25:44](https://www.youtube.com/watch?v=AnOf554UUYo&t=1544s)
+
+Mitchell Robinson: "We we got to execute our game plan at all times regardless of what the situation is and being disciplined in our approach. I thought that today we did a good job of having a disciplined approach on defense. Offense, you know, we didn't shoot the best, but I said it on on the court, you know, the difference between this game, game one here and game one against Cleveland was our offense didn't show up and our defense didn't show up and at one time we just had to make a miraculous run to get back in the game. But today our offense didn't show up till late and our defense was there from the beginning and that's what saved us."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1544s
+
+**18. Mitchell Robinson — "You just trust your work and you trust your decision making and I always say about being an aggressive." — Mitchell Robinson on Jalen Brunson's impact** [26:52](https://www.youtube.com/watch?v=AnOf554UUYo&t=1612s)
+
+Mitchell Robinson: "You just trust your work and you trust your decision making and I always say about being an aggressive and playmaking. It may not be for the shot, but to get someone else the shot or make get the hockey assist going. So for me, I I when I go out there, I just try to be aggressive in playmaking and early in the game, I just you never know what's actually the defense is going to give you, you don't know what's going to unfold, but I just wanted to be aggressive, especially early in the game, game one in the NBA Finals and trying to bring that energy for our team."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1612s
+
+**19. Mitchell Robinson — "When we all saw him limp off, obviously it was all worried, not only because he's Jalen Brunson." — Mitchell Robinson on Jalen Brunson's injury and return** [28:38](https://www.youtube.com/watch?v=AnOf554UUYo&t=1718s)
+
+Mitchell Robinson: "When we all saw him limp off, obviously it was all worried, not only because he's **Jalen Brunson**, but more because he's our brother and we're a family in our locker room and you know, we want to just worried about his health. But when we were on the court and I saw him walking back out to the to the to the bench, it was a relief feeling just to know he's safe. That's really at the end of the day all we care about is his safety."
+
+https://www.youtube.com/watch?v=AnOf554UUYo&t=1718s
