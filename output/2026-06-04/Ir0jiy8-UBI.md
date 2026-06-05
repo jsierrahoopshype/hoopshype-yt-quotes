@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-04
-
-## Is Tonight A MUST-WIN For Spurs? + Will Wemby Bounce Back? — *Run It Back*
+# Is Tonight A MUST-WIN For Spurs? + Will Wemby Bounce Back? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=Ir0jiy8-UBI
 
@@ -31,7 +29,3 @@ https://www.youtube.com/watch?v=Ir0jiy8-UBI&t=380s
 **Chandler Parsons:** "It is not a must-win for the playoffs, but it is a must-win for their confidence. They need to feel what it is like to close out a game."
 
 https://www.youtube.com/watch?v=Ir0jiy8-UBI&t=550s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
