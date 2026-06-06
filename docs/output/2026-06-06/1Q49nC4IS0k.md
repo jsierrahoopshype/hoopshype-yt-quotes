@@ -1,0 +1,47 @@
+# SAN ANTONI-OH-NO 😳 Can the Spurs overcome a 0-2 deficit in the Finals? | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=1Q49nC4IS0k
+
+_Speakers identified: Tyler, Darren, Quentin Richardson_
+
+**1. Darren — "That's the most frustrating thing, to throw it away after putting in all this work." — Victor Wembanyama on the frustration of losing a close game** [04:56](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=296s)
+
+Darren: "That's the most frustrating thing, to throw it away after putting in all this work. And what did I think? Urgency at this point is like body reacts quicker than mind. I threw that one away. I missed up. We didn't play great as a team. We needed to win that game. This game was ours. At this point it's done. Am I going to regret it? Yes, of course. Am I going to use that to fuel me and to fuel us next game? Absolutely."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=296s
+
+**2. Jalen Brunson — "It's a credit to the character our team has. Not being able to fold in situations like that." — Jalen Brunson on the Knicks' collective composure in crunch time** [05:29](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=329s)
+
+Jalen Brunson: "We had to do a good job of staying composed in those situations. It's a credit to the character our team has. Not being able to fold in situations like that is key to winning games like this. At this stage of the season, things aren't going to be pretty. It's going to be ugly, it's going to be grinded out. It's as simple as that. No matter what the situation is, we're going to have each other's back."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=329s
+
+**3. Quentin Richardson — "They were going to go two-for-one and leave themselves with the last shot." — Quentin Richardson on the Spurs' poor final offensive execution** [06:45](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=405s)
+
+Quentin Richardson: "The first shot was basically they were going to go two-for-one and leave themselves with the last shot. It was very similar to the last play they drew up. Both of them were jump shots where they were both makeable shots and shots we've seen Wembanyama make. That one was a lot tougher than the second one that he shot. For me, I would have rather to see him just going downhill trying to get to the basket, trying to get in that paint and either score or draw a foul or do both. And on the pass where he threw it to **Steph Castle**, that was just unfortunate. At one second, **Steph Castle** was looking back at him, Wembanyama thought he was keeping eye contact, he turned away, threw the ball. Just a bad mistake at a really, really bad time and it cost them."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=405s
+
+**4. Darren — "You can probably make the case that he's probably been the best player in this series." — Darren Collison on Karl-Anthony Towns' dominant performance in the series** [10:48](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=648s)
+
+Darren: "This six-time All-Star is tired of hearing all the Wembanyama talk by the way. And you can probably make the case that he's probably been the best player in this series as well. But it's how he's going about it too, is his aggression offensively and defensively. Offensively, he's not really settling for threes like we've seen him in the past. He's been having success going to the paint, getting fouled himself, and he's staying out of foul trouble defensively. And like I said defensively, he's playing phenomenal against Wembanyama, staying in front of the ball. I mean, **Karl-Anthony Towns** is taking this personal and he's showing it."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=648s
+
+**5. Quentin Richardson — "He's basically set the tone in the first two games for the Knicks." — Quentin Richardson on Karl-Anthony Towns setting the tone for the Knicks** [11:27](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=687s)
+
+Quentin Richardson: "He's basically set the tone in the first two games for the Knicks. Set them up to start off and get out to great starts and then he sprinkled it in there when they needed it. But like Darren said, he's been a physical presence with his body on Wembanyama defensively. But this is where I feel like he's been most impactful, catching the ball on the outside and bringing Wembanyama away from the basket. But also being faster and being able to take these big guys off the dribble and create for himself and others, creating fouls, getting to the basket, being aggressive. And then like I said, he sets the tone and he sets it up for Brunson to be able to take his time and find his way through the game. So for me, I'm with Darren, if there was an MVP so far, it would be **Karl-Anthony Towns**."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=687s
+
+**6. Darren — "Wembanyama has to be a little bit more aggressive in the first half." — Darren Collison on how the Spurs can get Wembanyama involved earlier** [12:26](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=746s)
+
+Darren: "Wembanyama has to be a little bit more aggressive in the first half. He's trying to find his way in the offense and trying to figure out when to be aggressive. But if I'm Mitchell and the Spurs, you got to run some cross-screen actions to free him open because **Mitchell Robinson** and **Karl-Anthony Towns** are doing a great job defensively being physical with him. So you need to free him up. And then why not go to a pick-and-roll with Wembanyama having the ball in his hands? We've seen him in the past in the season, him handling the ball in the pick-and-roll, and maybe that can free him up if **Karl-Anthony Towns** is guarding him. But they got to do a better job of freeing him open and Wembanyama has to do a better job of being aggressive as he did in the second half."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=746s
+
+**7. Darren — "The Spurs are going to be just fine. They're a young group and sometimes they don't know any better." — Darren Collison on the Spurs' ability to respond on the road** [14:15](https://www.youtube.com/watch?v=1Q49nC4IS0k&t=855s)
+
+Darren: "The Spurs are going to be just fine. They're a young group and sometimes they don't know any better, right? So they may go out there and they may surprise a lot of people and strike first. You know the Knicks have the most wins in these playoffs. You know who has the second most wins on the road? The San Antonio Spurs. And we've seen them win on the road in a Game 7 in a hostile environment against the defending champs against OKC. So look, the Spurs are going to be fine. I think it's just their starting point of the game. The first five, 10 minutes, they have to set the tone, neutralize the crowd, and I think Wembanyama and the Spurs may be successful."
+
+https://www.youtube.com/watch?v=1Q49nC4IS0k&t=855s

@@ -1,0 +1,53 @@
+# Tim Legler - Even If LeBron Wins Another Title He Won't Pass MJ! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=r_eROV-E5oI
+
+_Speakers identified: Michelle Beadle, Lou Williams, Chandler Parsons, DeMarcus Cousins, Tim Legler_
+
+**1. Tim Legler — "There's no doubt it's a valid talking point because we saw it right there." — Victor Wembanyama's fatigue was a valid talking point in Game 1** [01:25](https://www.youtube.com/watch?v=r_eROV-E5oI&t=85s)
+
+Tim Legler: "There's no doubt it's a valid talking point because we saw it right there. There are times sometimes even we can see things that maybe the cameras aren't going to catch. He was winded and gassed. There were times that he was really having a hard time catching his wind. So there is some of that was there, but for me, when I look at it from the Spurs point of view, they did not get him to the spots that he likes to catch the basketball as often as he was in previous rounds."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=85s
+
+**2. Tim Legler — "That's one of the best defensive games I've seen any big man play against Victor Wembanyama this year." — The Knicks' physical defense on Victor Wembanyama was impressive** [02:45](https://www.youtube.com/watch?v=r_eROV-E5oI&t=165s)
+
+Tim Legler: "They were physical with him. That's one of the best defensive games I've seen any big man play against **Victor Wembanyama** this year. What **Karl-Anthony Towns** did to him in this game, but I thought the initiation of their offense wasn't as good as it needs to be. **Mitch Robinson** said it after the game, we were saying it during the broadcast. He's got to get the basketball more at that elbow extended area where one dribble he can be at the rim from a face-up position."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=165s
+
+**3. Tim Legler — "I don't know that there's a guy right now in the NBA that's more certain of himself." — Jalen Brunson's unique playstyle makes him an elite closer** [05:12](https://www.youtube.com/watch?v=r_eROV-E5oI&t=312s)
+
+Tim Legler: "He's not a guy that's relying on blowing by you and trying to get to the rim and beat a shot blocker to the spot at the rim. He's not a guy that's going to have to take really difficult pull-up deep jumpers all over the floor. He plays a grounded game that relies on footwork, strength, balance, IQ, and touch. That's it. Those are the five things. I don't know that there's a guy right now in the NBA that's more certain of himself in these situations than **Jalen Brunson**."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=312s
+
+**4. Tim Legler — "Dylan Harper to me is not somebody you consider a rookie anymore. He's passed that point." — The decision to play De'Aaron Fox over Dylan Harper in crunch time** [06:57](https://www.youtube.com/watch?v=r_eROV-E5oI&t=417s)
+
+Tim Legler: "I do think it hurt them and I think that's something that **Mitch Robinson** is going to go back and look at. **Dylan Harper** to me is not somebody you consider a rookie anymore. He's passed that point and a lot of that has happened. He had a great year, but most of it has really happened right here in the postseason. The moments that he has had, his ability to play against elite defenses, get to his spots, really overwhelm you physically because that's what he does."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=417s
+
+**5. Tim Legler — "Victor Wembanyama has established himself going into next season as clearly the frontrunner to get an MVP." — Victor Wembanyama is the clear frontrunner for next year's MVP** [08:42](https://www.youtube.com/watch?v=r_eROV-E5oI&t=522s)
+
+Tim Legler: "No matter how this plays out, whether they win this series or they don't win this series, I think **Victor Wembanyama** has established himself going into next season as clearly the frontrunner to get an MVP. And if he gets one that young, watch out."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=522s
+
+**6. Tim Legler — "I think De'Andre Hunter is the guy." — The Wizards should draft De'Andre Hunter with the first pick** [09:51](https://www.youtube.com/watch?v=r_eROV-E5oI&t=591s)
+
+Tim Legler: "I think **De'Andre Hunter** is the guy. There's a lot of talent at the top of this draft and there's a lot of guys I think even going down to the middle of the first round that are going to be guys that are future All-Stars in this league potentially. But right now, I think the surest bet is **De'Andre Hunter**. I just think he's got the size, he's got the athletic ability, he's got the toughness, he's got a seriousness about his demeanor that I love. He's all business."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=591s
+
+**7. Tim Legler — "I remember after the series Michael Jordan said, 'This is the next team in the Eastern Conference.'" — Reflecting on the 1997 Bulls and the intensity of that team** [11:25](https://www.youtube.com/watch?v=r_eROV-E5oI&t=685s)
+
+Tim Legler: "I remember after the series **Michael Jordan** said, 'This is the next team in the Eastern Conference. Watch out for the Bulls.' The only problem is our front office I don't know was paying attention because we traded everybody over the next two years. I don't know exactly what I was thinking. Think about the front line that we had at the same time. You're talking Chris Webber, Juwan Howard, George Muresan, Rasheed Wallace, and Ben Wallace. On the same damn team! We had all of those guys."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=685s
+
+**8. Tim Legler — "LeBron James is cemented as the second greatest player of all time." — LeBron James remains the second greatest player of all time** [13:48](https://www.youtube.com/watch?v=r_eROV-E5oI&t=828s)
+
+Tim Legler: "**LeBron James** is cemented as the second greatest player of all time and there's not really anything you can do to change that. To me, that's the guy that's truly worthy of the debate. And this is a subjective conversation, man. Everybody's got their own criteria. And I'm going to be the first to admit, my entire career was the 90s, 1990 to 2000. And that dude won six rings during that time, so I'm a little bit biased because I was seeing it up close and personal on a nightly basis."
+
+https://www.youtube.com/watch?v=r_eROV-E5oI&t=828s
