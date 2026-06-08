@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-07
-
-## Knicks Take Commanding Series LEAD + Wemby Biggest Finals Mistake EVER?!? — *Run It Back*
+# Knicks Take Commanding Series LEAD + Wemby Biggest Finals Mistake EVER?!? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=b38JRkAOarM
 
@@ -25,7 +23,3 @@ https://www.youtube.com/watch?v=b38JRkAOarM&t=340s
 Michelle Beadle: "The most impressive thing about this Knicks run is the sheer grit. They are missing half their roster and still finding ways to win these gritty games. It speaks volumes about the culture they have built under this coaching staff."
 
 https://www.youtube.com/watch?v=b38JRkAOarM&t=500s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
