@@ -145,7 +145,7 @@ Return ONLY valid JSON, no surrounding text or markdown fences. The output is a 
   }
 ]"""
 
-MAX_QUOTES_AFTER_SPLIT = 20
+MAX_QUOTES_AFTER_SPLIT = 30
 # Quotes over this length get split into sub-quotes. Raised from 220 to 280
 # to preserve longer editorial arguments — 150-200 word quotes are normal
 # for podcasts where a host builds a multi-sentence case, and forcing them
