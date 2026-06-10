@@ -1,0 +1,81 @@
+# Will Knicks Target Wemby? + Which Team Under More PRESSURE? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=Nrx4UgIEGII
+
+_Speakers identified: Michelle Beadle, DeMarcus Cousins, Chandler Parsons, Lou Williams_
+
+**1. DeMarcus Cousins — "the pressure is on them to try to close out this series." — Knicks face more pressure to close out the Spurs series** [01:02](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=62s)
+
+**DeMarcus Cousins:** "New York is up in the series. Obviously they had the momentum early on in this series. Things have kind of changed as of lately with the Spurs being able to pick up the win with the last game, so momentum has shifted a bit. But with the Knicks being up, the pressure is on them to try to close out this series."
+
+**Chandler Parsons:** "I completely agree. I think the Spurs feel as if they could have won games one and two. They capitalized and they figured out how to get the job done in game three. And now if they happen to win game four, yes they did exactly what New York did, just won two road games. But now you're going back on your home court after smoking the first two, there, all the momentum will shift to San Antonio if they get this win."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=62s
+
+**2. Lou Williams — "whoever wins this game wins it all, be." — Winning Game 4 is pivotal for both the Spurs and Knicks** [02:34](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=154s)
+
+**Lou Williams:** "When you're the New York Knicks, you put yourself in a position to be up 2-0 on the road and to come home and have an opportunity to win a game, win two games and put yourself in a great position to win this championship, it's yours to lose. When you go up 2-0, it's yours to lose, especially with the next two games on your home court. They've already smoked one, and in game three, you don't want to give San Antonio the opportunity to take this thing 2-2 and swing the momentum back to their home court."
+
+**Chandler Parsons:** "I think this game is pivotal for both teams. I think whoever wins this game, wins it all, be."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=154s
+
+**3. Chandler Parsons — "he's consistently shown us greatness ever since he's been in this league." — Wemby's performance exceeds expectations for a 22-year-old player** [07:18](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=438s)
+
+Chandler Parsons: "He's consistently shown us greatness ever since he's been in this league and he's showing us things that we've never seen before from a dude that size. And so when you have that kind of production and that kind of impact on both sides of the ball and then you're doing it even better at a higher clip in the playoffs, the expectations are going to be there. The sky is the limit for this dude. So when he leaves us wanting more, we're a little confused. Is he tired? Is it too physical? Is it **Victor Wembanyama**? There's always going to be some storyline why he isn't averaging 35 and 15 or efficient because he's that talented and that good and he's a huge part of why the Spurs are in the finals as such a young team."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=438s
+
+**4. DeMarcus Cousins — "it's unfair that we don't allow him to kind of go through his process." — Wemby's development is a process that requires patience** [08:49](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=529s)
+
+DeMarcus Cousins: "I don't think the expectations are too much for him, just based off his talent and everything he brings to the game. But I do think it's unfair that we don't allow him to kind of go through his process. Obviously our judgment is pretty early for a pretty raw talent, a guy that's still figuring this league out, figuring out his game, figuring out how to be a professional, all of these things, figuring out how to better his body. This is all a process for a young kid. So on that aspect of it, I do think it's unfair. But when you just look at everything he brings to the game, you can't expect anything less than high expectations just based off his talent, everything he brings, his approach, his maturity."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=529s
+
+**5. Chandler Parsons — "it's on Jalen Brunson. Jalen Brunson has the ball in his hand, the usage rate is going through." — Knicks offense should be more balanced than just Brunson-centric** [19:30](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1170s)
+
+Chandler Parsons: "It's on **Jalen Brunson**. **Jalen Brunson** has the ball in his hand, the usage rate is going through **Jalen Brunson**, especially in the fourth quarter. That's not their best offense. Their best offense is the first three quarters where they play through **Karl-Anthony Towns**, allow him to playmake, allow him to attack. I've never seen a guy challenge and try and go past Victor Wembanyama as easy as I've seen **Karl-Anthony Towns** do in the first three quarters of these first three games. Why would they go away from that? So yes, **Jalen Brunson** is their closer, he's fantastic, I think he's their best player. He's got to have the responsibility and the onus to be like, okay, you know what, we still have to get **Karl-Anthony Towns** going. We still can play through him."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1170s
+
+**6. DeMarcus Cousins — "you got to get the ball moving side to side and not just so much pounding the basketball." — Knicks need better ball movement to improve Brunson's efficiency** [20:43](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1243s)
+
+DeMarcus Cousins: "If he's went out and decided, hey look, I know these teams are going to play me physical, I'm going to hit first, I'm okay with that. But we're not going to make a case like they just out here beating him up and he falling on the ground and he's and he's doing it. No, you got to get the ball moving side to side and not just so much pounding the basketball, playing one-on-one and hoping just to make shots. Like right now they're living and dying with him making or missing shots. He hasn't been his most efficient. It showed its head in game three. You want somebody that's going to get easy shots, that's not going to be so contested. Everything that he's shooting right now is contested at the rim and in these clips you're seeing boxes and elbows, you're seeing a defense collapse on him. Like this ball should move side to side and if and if you yes just is is is stagnant offense. I wouldn't say it's bad because it's got them this far, but it's stagnant."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1243s
+
+**7. Chandler Parsons — "they are fortunate that OG has been great. Josh Hart has been great." — Knicks' success relies on contributions beyond Brunson and Towns** [22:19](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1339s)
+
+Chandler Parsons: "They are fortunate that OG has been great. **Josh Hart** has been great. The ten that **Jordan Clarkson** put in in game two, that is huge for this Knicks team because it makes them more difficult to guard. It's not just **Jalen Brunson** and Towns. Here we go again where the defense can set, like those highlights we just saw, and then he's forced to kind of get in a little crevice and take a step back or draw a foul. Like that's not it's not fluid consistent free offense where guys are going to enjoy playing in that. Everyone wants to touch the ball, everyone wants to make the extra pass, everyone wants to cut and move and it makes the offense unpredictable to defend. This is very just slow and stagnant like Lou said and it's making the Spurs defense just be able to settle in and have a much easier way with them defensively. So the fact that he's only averaging 27 on 27 shots and they're up 2-1, honestly is a miracle to me."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1339s
+
+**8. DeMarcus Cousins — "when Josh Hart did the play he did on Cornette, nobody was upset." — Josh Hart's physical play is acceptable in playoff basketball** [24:40](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1480s)
+
+DeMarcus Cousins: "When **Josh Hart** did the play he did on Cornette, nobody was upset. No Knicks fans were upset, nobody called it dirty, they thought that was acceptable. So now when Victor Wembanyama protects himself in the same fashion that Hart protected himself, it's a whole another conversation. My question is who? Who on the Knicks is going to do it? Who on the Knicks is going to do it?"
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=1480s
+
+**9. DeMarcus Cousins — "it being one superstar, only winning one championship, when you think about the dynasties." — OKC's roster structure resembles successful championship teams** [39:12](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2352s)
+
+DeMarcus Cousins: "It being one superstar, only winning one championship, when you think about the dynasties, you think about that Warriors group, it was multiple Hall of Famers on those teams. So when you think about it like that and you look at, you know, OKC, I mean, yeah, OKC, that Denver team, Bucks team, one superstar, one Hall of Fame talent with a great supporting cast. But yeah, it makes sense."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2352s
+
+**10. Chandler Parsons — "in the next three to five years, the Oklahoma City Thunder win a championship." — OKC Thunder are poised to win a championship soon** [39:37](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2377s)
+
+Chandler Parsons: "In the next three to five years, the Oklahoma City Thunder win a championship. So maybe right now, yes, they have one and and SGA is back-to-back MVPs, but **Jalen Williams** is an all-NBA type talent. Chet just got third team all-NBA. It's not just a one-man show, this is the deepest team in the NBA and they will win another championship. So I think they're completely different than the Bucks and the Nuggets. I think they are on the verge of becoming a dynasty as well as the San Antonio Spurs. They are that good, that talented."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2377s
+
+**11. DeMarcus Cousins — "it bothers me that this report even got out. This isn't something that should be a topic." — Karl-Anthony Towns' future with the Knicks remains uncertain** [40:35](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2435s)
+
+DeMarcus Cousins: "It bothers me that this report even got out. This isn't something that should be a topic of conversation right now. Um, even if you do feel this way in house, this is something that should have been handled or talked, talked about after the season was over. But for something like this even come out at this time of the season, this is unacceptable. So that's all I really got to say."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2435s
+
+**12. Chandler Parsons — "if they do win a championship and they let this guy go, they are so dumb." — Trading Towns would be a mistake for the Knicks** [40:52](https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2452s)
+
+Chandler Parsons: "I don't even like talking about this is just bad timing. You're talking about this. They're in the midst of winning a championship and if they do win a championship and they let this guy go, they are so dumb. So I disagree. I don't care, second apron, third apron, fourth apron, you pay this man. You have a championship level team, you just proved that and he's a critical part. When he's great, the Knicks are great. This would be a huge mistake if this is even true, but it doesn't feel right."
+
+https://www.youtube.com/watch?v=Nrx4UgIEGII&t=2452s
