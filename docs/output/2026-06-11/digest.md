@@ -1,5 +1,243 @@
 # HoopsHype YT Quotes — 2026-06-11
 
+## Wemby, Dylan Harper & Mitch Johnson reflect on Spurs dropping Game 4 to Knicks | 2026 NBA Finals — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=7_kZy5S2wKc
+
+_Speakers identified: Mitch Johnson, Dylan Harper, Victor Wembanyama_
+
+**1. Mitch Johnson — "We got away from what got us the 76 points in the first half." — Mitch Johnson on the Spurs' offensive struggles in Game 4** [00:15](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=15s)
+
+Mitch Johnson: "We got away from what got us the 76 points in the first half, just in terms of putting pressure on the rim, rolling after screens, running, continuing to find the paint, whether for ourselves or for a teammate. We got on our heels, missed some shots, and then you don't get as many free throws and high-percentage looks when you play on your heels like that."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=15s
+
+**2. Mitch Johnson — "We got away from playing the brand of basketball that got us the lead." — Mitch Johnson on when the Spurs lost momentum in Game 4** [01:21](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=81s)
+
+Mitch Johnson: "There were times where again, I felt part of that third quarter and then some part probably early mid in the fourth quarter again, where we got away from playing the brand of basketball that got us the lead. You saw the at times aggressiveness and the just conviction that we played with early on dissipate a little bit, and they made some shots and that's where you felt the momentum a little bit. We just needed a few more tough-minded plays to finish the job."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=81s
+
+**3. Mitch Johnson — "That's a game where you sit there and you say you had the type of first half you had." — Mitch Johnson on the pain of losing a game the Spurs played well in** [02:38](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=158s)
+
+Mitch Johnson: "That's a game where you sit there and you say you had the type of first half you had, and you shot the ball decent, you played a pretty clean game, and then just didn't finish the job and stopped putting the energy in the right spots that got you that lead. Now, we got to go home in two days and approach it the same way. We got one game that we got to win, and we got to be more consistent and more tough-mindedness and finish the job and finish stronger at the end."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=158s
+
+**4. Mitch Johnson — "I think he grabbed Victor or hooked him or something, but there was something there that was approximate foul." — Mitch Johnson on the controversial foul call on Victor Wembanyama** [03:36](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=216s)
+
+Mitch Johnson: "I think he grabbed Victor or hooked him or something, but there was something there that was approximate foul, and if it wasn't, it felt like Victor at least had a clean block, so that's why we challenged it."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=216s
+
+**5. Mitch Johnson — "Tell them to feel the emotion tonight because they're competitive." — Mitch Johnson on how the Spurs will refocus for Game 5** [05:15](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=315s)
+
+Mitch Johnson: "Tell them to feel the emotion tonight because they're competitive, and that's unhumanly possible to not, and tomorrow take all the emotion out. They better be ready to play in two days and win."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=315s
+
+**6. Mitch Johnson — "We need to continue to put pressure on the rim and touch the paint and crash." — Mitch Johnson on the Spurs' offensive philosophy** [06:35](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=395s)
+
+Mitch Johnson: "We need to continue to put pressure on the rim and touch the paint and crash, because you don't always make even the best three-point looks. We missed some really good shots in the second half, and so you have to continue to be tough-minded enough to play the brand of basketball regardless of the outcome or what the score is."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=395s
+
+**7. Dylan Harper — "We just lost about 20 minutes ago, and it hasn't really hit me, but I mean, probably shock." — Dylan Harper on the Spurs' mindset after the Game 4 loss** [07:25](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=445s)
+
+Dylan Harper: "We just lost about 20 minutes ago, and it hasn't really hit me, but I mean, probably shock. But I mean, a whole lot more basketball to be played. I'm never going to, after this is over, go take a shower, wash it off and go get ready for Game 5. Most important game, just got to focus on the next 48 minutes."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=445s
+
+**8. Dylan Harper — "Got to realize that the most important thing is the next game." — Dylan Harper on the Spurs' mentality heading into Game 5** [08:47](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=527s)
+
+Dylan Harper: "Got to realize that the most important thing is the next game. I think, you know, backs against the wall, you advance to the call every time, so I mean this is no different for us. I mean, it's not, it's not no time to complain, not no time to point fingers. It's time for us to step up and it's time for us to, if we believe, we are who we think we are, then it's going to show."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=527s
+
+**9. Dylan Harper — "If we going to lose, I mean, we're not going out like that." — Dylan Harper on the Spurs' response to the loss** [10:00](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=600s)
+
+Dylan Harper: "I feel like as a group, you know, we don't really get into the mental thing, but I mean for me, I, it's going to, a whole new fire I feel like is ignited in me in a sense of just gave that game away and I, and then if we going to lose, I mean, we're not, we're not going out like that. We going to, we going to, we going to keep swinging."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=600s
+
+**10. Dylan Harper — "We went away from everything we were doing." — Dylan Harper on the Spurs' offensive approach in the second half** [11:32](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=692s)
+
+Dylan Harper: "We went away from everything we were doing. I think in the first half a lot of shots went in and a lot of, a lot of tough shots went in, but really that was because we was playing the right way and I think we got away from that in second half because of the lead. But we just can't take our foot off the gas, I mean. It's one thing for me to sit up here and say, but it's another thing for us to go out there and do it."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=692s
+
+**11. Victor Wembanyama — "I fell on the floor, I couldn't really see. I don't know. I just saw a block." — Victor Wembanyama on the final play of Game 4** [12:13](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=733s)
+
+Victor Wembanyama: "I fell on the floor, I couldn't really see. I don't know. I just saw a block."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=733s
+
+**12. Victor Wembanyama — "I think it's going to go one of two ways. One of two ways." — Victor Wembanyama on his mindset after the loss** [13:17](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=797s)
+
+Victor Wembanyama: "I think it's going to go one of two ways. One of two ways, and a bad one and a good one, and I know the bad one would be giving up, the good one would be getting stronger through this, getting more together, and I know this is what we're going to do."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=797s
+
+**13. Victor Wembanyama — "It feels like we missing, we worked too hard and give up our leads." — Victor Wembanyama on the Spurs' emotional state after Game 4** [13:45](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=825s)
+
+Victor Wembanyama: "It was painful. Of course, it feels like we missing, we worked too hard and give up our leads, you know, just it's simple as that. It's just it just hurts."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=825s
+
+**14. Victor Wembanyama — "I think there's no mode of employment. I don't know if it's got to be digested." — Victor Wembanyama on how to process the Game 4 loss** [14:47](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=887s)
+
+Victor Wembanyama: "I think there's no mode of employment. I don't know if it's got to be digested, I think it's got to be feel the pain, the disgust, and I think that it's not something that's learned in fact. Either we have what it takes, or we don't."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=887s
+
+**15. Victor Wembanyama — "Stop moving the ball, stop executing." — Victor Wembanyama on the Spurs' second-half offensive struggles** [15:44](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=944s)
+
+Victor Wembanyama: "Stop moving the ball, stop executing."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=944s
+
+**16. Victor Wembanyama — "Of course I'm going to be more, I mean I'm going to be more careful." — Victor Wembanyama on the potential suspension for the flagrant foul** [16:14](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=974s)
+
+Victor Wembanyama: "Of course I'm going to be more, I mean I'm going to be more careful, but it's not going to change much."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=974s
+
+**17. Victor Wembanyama — "Holding each other accountable, communicating, not pointing fingers." — Victor Wembanyama on the Spurs' path forward in the series** [16:33](https://www.youtube.com/watch?v=7_kZy5S2wKc&t=993s)
+
+Victor Wembanyama: "Holding each other accountable, communicating, not pointing fingers. And after that, we either got it or we don't. But, you know, we've proven that we can surpass these difficulties, and even though we haven't been there before, I'm convinced we're built this way, and we're going to use the better of this and it's going to tighten us up."
+
+https://www.youtube.com/watch?v=7_kZy5S2wKc&t=993s
+
+---
+
+## OG Anunoby, KAT & New York Knicks react to EPIC Game 4 comeback vs. Spurs | 2026 NBA Finals — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=KIzJOBwTi7s
+
+_Speakers identified: Mike Brown, OG Anunoby, Karl-Anthony Towns_
+
+**1. Mike Brown — "we threw him in the game and he gave us four to five great minutes" — Mike Brown praises Jeremy Sochan's impact in limited minutes** [00:08](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=8s)
+
+Mike Brown: "You take a guy like **Jeremy Sochan** and we threw him in the game and he gave us four to five great minutes. I don't even know when the last time Jeremy really even played longer than 30 seconds. It's just a heck of a job keeping himself ready."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=8s
+
+**2. Mike Brown — "as big, as strong, as athletic as he is, he's got to be a monster" — Mike Brown challenged Karl-Anthony Towns to dominate the offensive glass** [00:52](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=52s)
+
+Mike Brown: "I told **Karl-Anthony Towns**, as big, as strong, as athletic as he is, he's got to be a monster on the offensive glass tonight."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=52s
+
+**3. Mike Brown — "I don't know if there's a play bigger than any other play in the history of Knicks basketball" — Mike Brown calls Karl-Anthony Towns' offensive rebound the biggest play in Knicks history** [01:06](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=66s)
+
+Mike Brown: "I don't know if there's a play bigger than any other play in the history of Knicks basketball. That was a huge offensive rebound. Huge offensive rebound. He took on the challenge and he went and won the game for us doing exactly what I called him out for doing."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=66s
+
+**4. Mike Brown — "Jalen Brunson is an MVP candidate. I say the same thing about Jalen every game." — Mike Brown calls Jalen Brunson an MVP candidate** [01:44](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=104s)
+
+Mike Brown: "**Jalen Brunson** is an MVP candidate. I say the same thing about Jalen every game. He does what an MVP is supposed to do and he did it again tonight."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=104s
+
+**5. Mike Brown — "Jose Alvarado was unbelievable tonight. He changed the game." — Mike Brown praises Jose Alvarado's defensive impact and clutch play** [02:20](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=140s)
+
+Mike Brown: "**Jose Alvarado** was unbelievable tonight. He changed the game. His speed, his ability to touch the paint. Again, you give San Antonio a lot of credit. They're trying to throw a lot of different things at us defensively, kind of match up man, slash zone. And if you don't close out to Jose as hard as he works on his shot, he's going to make you pay."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=140s
+
+**6. Mike Brown — "I told the guys we could play better. Right now we're letting the ball get to the paint." — Mike Brown explains the halftime message to the team** [03:40](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=220s)
+
+Mike Brown: "I told the guys we could play better. Right now we're letting the ball get to the paint, and we got to do a better job of keeping the ball out the paint. We got to play faster. So, we're not going to be able to call any plays. We just have to get into our actions right away, keep trying to touch the paint, keep trying to move the ball, keep trying to keep the floor spaced."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=220s
+
+**7. Mike Brown — "you got to have a little luck in life. You got to have a little luck in sports." — Mike Brown on the role of luck in sports and life** [04:47](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=287s)
+
+Mike Brown: "You got to have a little luck in life. You got to have a little luck in sports. But you can also go make your own luck, too. So you got to have some natural luck, and then you got to have some luck where you're going to make your own luck."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=287s
+
+**8. OG Anunoby — "Feels cool. I mean, everyone's pretty excited. I'm excited too. We're all excited." — OG Anunoby reacts to hitting the game-winning shot** [13:20](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=800s)
+
+OG Anunoby: "Feels cool. I mean, everyone's pretty excited. I'm excited too. We're all excited. We're enjoying it right now, but we're just focused on the next game now."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=800s
+
+**9. OG Anunoby — "He just told me I need to get on the glass, you know, offensive glass especially." — OG Anunoby on Mike Brown's halftime challenge** [14:04](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=844s)
+
+OG Anunoby: "He just told me I need to get on the glass, you know, offensive glass especially. Just use my ability, my size, strength, athleticism to make an impact on the glass, and it happened at the end."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=844s
+
+**10. OG Anunoby — "We're a resilient group. We've been through a lot. We've came back plenty of times." — OG Anunoby on the team's resilience and staying focused** [14:43](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=883s)
+
+OG Anunoby: "We're a resilient group. We've been through a lot. We've came back plenty of times when we're down, so just staying with it, weathering the storm, not being too down or angry or getting mad or frustrated, just staying with it."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=883s
+
+**11. OG Anunoby — "I inbound the ball to Jalen. He got a pretty good look and I just went and crash." — OG Anunoby describes the game-winning tip-in** [16:28](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=988s)
+
+OG Anunoby: "I inbound the ball to Jalen. He got a pretty good look and I just went and crash. Try to get a tip dunk or something. The ball went over my head so I couldn't really dunk it, so I just try to tip it in softly and it went in."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=988s
+
+**12. Karl-Anthony Towns — "Shout out to our fans, man. They stuck with us." — Karl-Anthony Towns credits the fans for their support** [26:13](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1573s)
+
+Karl-Anthony Towns: "Shout out to our fans, man. They stuck with us. It was an ugly, ugly game. We didn't bring it in the first half, but they stuck with us. They stayed in them seats and they kept cheering for us and they kept finding ways to give us energy."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1573s
+
+**13. Karl-Anthony Towns — "Every time I talk to him, I said, you know, I already know what OG and Jalen is going to do." — Karl-Anthony Towns on his fourth-quarter performance** [26:45](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1605s)
+
+Karl-Anthony Towns: "Every time I talk to him, I said, you know, I already know what OG and Jalen is going to do in the fourth quarter. They did exactly what I thought he would do. It gave us a chance to win, and that's all you could ask for from the best two-way player in the NBA."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1605s
+
+**14. Karl-Anthony Towns — "I've always talked about the unity and connectivity of this team." — Karl-Anthony Towns on the team's unity and resilience** [29:00](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1740s)
+
+Karl-Anthony Towns: "I've always talked about the unity and connectivity of this team. Went in there, people spoke up. Jose, you know, just saying we just got to, regardless of how the result of the game comes out, we can't not at least work on our standards and be who we are."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1740s
+
+**15. Karl-Anthony Towns — "Experience teaches you a lot, and I think experience today let us know that we cannot let go." — Karl-Anthony Towns on the importance of experience** [29:32](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1772s)
+
+Karl-Anthony Towns: "Experience teaches you a lot, and I think experience today let us know that we cannot let go of the rope. We always have a chance if we go out there and take it to another level and give ourselves a chance."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1772s
+
+**16. Karl-Anthony Towns — "I've seen people leave before the game was over in MSG, watching our MSG network before." — Karl-Anthony Towns on the emotional impact of the win** [30:46](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1846s)
+
+Karl-Anthony Towns: "I've seen people leave before the game was over in MSG, watching our MSG network before. I think for me, you could see my reaction. The emotion kind of spilled out of that moment. It was tears of joy, you know, just, you know, wasn't boo-hoo and anything, but just tears of joy because like I said, all you could do is ask for a chance."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1846s
+
+**17. Karl-Anthony Towns — "I just wanted one break in life. I just wanted one thing to go my way one time." — Karl-Anthony Towns on his personal motivation** [31:17](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1877s)
+
+Karl-Anthony Towns: "I just wanted one break in life. I just wanted one thing to go my way one time. And I got one. I got one at that last play with OG making the shot and us getting the stop. I just wanted one break in life, just one thing to go my way one time."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1877s
+
+**18. Karl-Anthony Towns — "I felt the abundance of joy at one time from everyone at one time." — Karl-Anthony Towns on the team's collective joy** [32:13](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1933s)
+
+Karl-Anthony Towns: "I felt the abundance of joy at one time from everyone at one time. The collective joy that came out of everybody for that one moment to hear the buzzer going off and not to see the ball going in the basket. I think we all felt something, like that emotion that was special. It's something that, you know, MSG hasn't had that kind of moment in a long time."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=1933s
+
+**19. Karl-Anthony Towns — "You know when you talk about somebody who not only lives up to the moment, but plays with his emotion." — Karl-Anthony Towns on OG Anunoby's special qualities** [33:55](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=2035s)
+
+Karl-Anthony Towns: "You know when you talk about somebody who not only lives up to the moment, but plays with his emotion and utilizes that to his advantage, that's a rare quality. A lot of times you play with emotion, but it gets the better of them. And for OG, that emotion is what drives him and makes him take it to another level."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=2035s
+
+**20. Karl-Anthony Towns — "I got to see firsthand when D-Lo acts, couldn't even shoot, and I now know he really can shoot." — Karl-Anthony Towns on OG Anunoby's shooting ability** [34:06](https://www.youtube.com/watch?v=KIzJOBwTi7s&t=2046s)
+
+Karl-Anthony Towns: "It's a special player. His tenacity, his defensive ability, and his offensive ability that I got to see firsthand when D-Lo acts, couldn't even shoot, and I now know he really can shoot. It's special. He has so much to his basketball game that people don't give credit to."
+
+https://www.youtube.com/watch?v=KIzJOBwTi7s&t=2046s
+
+---
+
 ## Draymond Green & The Inside Guys' FINAL THOUGHTS before Finals Game 4 🚨| NBA Tip-Off — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=QXj3OB4IVKg
@@ -101,6 +339,52 @@ https://www.youtube.com/watch?v=QXj3OB4IVKg&t=837s
 Charles Barkley: "He has to adjust because Castle ain't no normal dude. Jalen is so strong for a little dude. Man this Castle dude is a grown ass man. So those that's why his numbers aren't good. Jalen's not shooting the ball well but it's because of Castle."
 
 https://www.youtube.com/watch?v=QXj3OB4IVKg&t=873s
+
+---
+
+## Jalen Brunson put the Knicks on his back & Wemby was NONEXISTENT! 🔊 - Perk on Game 4 | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=vp1F0lo2Yc8
+
+_Speakers identified: Nicole Briscoe, Kendrick Perkins, Michael Wilbon_
+
+**1. Kendrick Perkins — "It was a beautiful performance by OG Anunoby and Big Body Brunson." — Kendrick Perkins praises Jalen Brunson and OG Anunoby's performance** [02:49](https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=169s)
+
+**Nicole Briscoe:** "Think about what the Knicks did, first half to second half. How did they do it?"
+
+**Kendrick Perkins:** "I am going to give you a word for this performance. It was beautiful. It was a beautiful performance by **OG Anunoby** and Big Body Brunson."
+
+https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=169s
+
+**2. Kendrick Perkins — "I got to tip my hat to Big Body Brunson because it was a lot of people." — Kendrick Perkins defends Jalen Brunson against critics** [03:07](https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=187s)
+
+Kendrick Perkins: "I got to tip my hat to Big Body Brunson because it was a lot of people out there criticizing him after Game 3, saying that he was dribbling the oxygen out of the ball, saying that he needed to pass the ball. But what he did was, he put this team on his back in the second half, didn't make no excuses, and he went out in great fashion and got the dub."
+
+https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=187s
+
+**3. Kendrick Perkins — "They just kept shooting threes. Are y'all not going to put pressure on the basket?" — Kendrick Perkins critiques Spurs' shot selection and Victor Wembanyama** [04:24](https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=264s)
+
+Kendrick Perkins: "The first thing was that they just kept shooting threes. And I kept saying to myself, are y'all not going to put pressure on the basket? Are y'all not going to attack the rim? And especially **Victor Wembanyama**, he started settling in late. We saw **De'Aaron Fox**, he kept settling. **Stefan Castle**, and I'm saying the Knicks had no answer for them for as when they had put their head down and got to the paint."
+
+https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=264s
+
+**4. Michael Wilbon — "The Spurs had hit like 73% of their threes. And I remember turning to somebody, Stephen A." — Michael Wilbon criticizes Spurs' reliance on three-point shooting** [07:05](https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=425s)
+
+Michael Wilbon: "I am going to start at a point looking up at the scoreboard when the Spurs had hit like 73% of their threes. And I remember turning to somebody, might have been **Stephen A. Smith**, saying this is not sustainable. But the question is, how long do they sustain it and will there be enough time to come back?"
+
+https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=425s
+
+**5. Michael Wilbon — "Just keep playing, son. Just keep playing." — Michael Wilbon recalls John Thompson's coaching advice** [08:21](https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=501s)
+
+Michael Wilbon: "Reminds me of a phrase I used to hear from the great late **John Thompson**. When his team was down, he would tell, whether it was from **Patrick Ewing** to Dikembe to Alonzo to **Allen Iverson**, just keep playing, son. Just keep playing. And I thought of it because that's what Anunoby and Brunson did. They just kept playing."
+
+https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=501s
+
+**6. Michael Wilbon — "This tonight is the biggest choke job I've seen at a championship level." — Michael Wilbon calls Spurs' loss the biggest choke job** [09:18](https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=558s)
+
+Michael Wilbon: "I am trying to be careful here because I am talking about the Spurs who I have so much respect for the people who lorded over this organization, who defined the organization, **Gregg Popovich** and **Tim Duncan** and **David Robinson**. This tonight is the biggest choke job I've seen at a championship level in any sport at any time."
+
+https://www.youtube.com/watch?v=vp1F0lo2Yc8&t=558s
 
 ---
 
