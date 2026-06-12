@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-11
-
-## Can Spurs Come Back And Win Series?!? + Isiah Thomas Joins! — *Run It Back*
+# Can Spurs Come Back And Win Series?!? + Isiah Thomas Joins! — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=UqzCaHlOZtg
 
@@ -35,7 +33,3 @@ https://www.youtube.com/watch?v=UqzCaHlOZtg&t=3600s
 Isiah Thomas: "You need guys who have been through the fire to settle the team down. It is not just about talent; it is about knowing how to manage the momentum shifts that happen in these high-stakes games."
 
 https://www.youtube.com/watch?v=UqzCaHlOZtg&t=3612s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
