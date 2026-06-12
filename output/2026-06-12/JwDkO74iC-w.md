@@ -1,0 +1,103 @@
+# Biggest Comeback In Finals HISTORY! OG's Game-Winner & Finals MVP Race Heats Up — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=JwDkO74iC-w
+
+_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye, Kendrick Perkins_
+
+**1. Channing Frye — "I'm a competitive human being. I went to Cabo to play golf with my guy Doug Sanders." — Channing Frye on his current golf habits and competitive nature** [02:27](https://www.youtube.com/watch?v=JwDkO74iC-w&t=147s)
+
+Channing Frye: "I'm a competitive human being. A buddy told me we were playing, so I went to Cabo to play golf with my guy **Doug Sanders**. When I went out there, an old guy told me golf is the most present game that you will ever play. For me, who has severe ADHD at all times, it allows me to just focus on that one shot. It is the greatest thing ever, and I'm starting to get a little better. The fact that I'm starting to get a little better makes me want to get a lot better."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=147s
+
+**2. Richard Jefferson — "My reaction was all of America's reaction, all of the basketball community's reaction. What the hell just happened?" — Richard Jefferson on the Spurs' historic collapse against the Knicks** [06:55](https://www.youtube.com/watch?v=JwDkO74iC-w&t=415s)
+
+**Allie Clifton:** "Were you feeling it as it was happening?"
+
+**Richard Jefferson:** "My reaction was all of America's reaction, all of the basketball community's reaction. What the hell just happened? You've seen teams go down by 30, go down by 25, cut it to 10, maybe cut it to seven. You've seen that. We call it the old dangy-dangy. You dangle the carrot, you almost had it, you almost had it, but you didn't. So we call it the old dangy-dangy."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=415s
+
+**3. Channing Frye — "When you are known as a team that gives up leads, you can't just be up 30." — Channing Frye on the Knicks' resilience and lack of squashing the Spurs** [10:08](https://www.youtube.com/watch?v=JwDkO74iC-w&t=608s)
+
+Channing Frye: "You know what the Knicks are saying, and Richard knows this: when you are known as a team that gives up leads, you can't just be up 30. You got to be up 50. Because 30, they're like, 'Dog, we can win. Keep playing.' They're going to give us the lead back. Keep playing. That's the problem. You have not squashed the roach. They have not squashed the roach once. When they were up 22, the Knicks go, 'Keep playing, they're going to give it back to us.' There is endless hope for the Knicks that they can always win. That is a horrible, horrible feeling when you're up and you're like, 'Man, they should be putting in their bench and quitting.' They're like, 'Nope, here we go.'"
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=608s
+
+**4. Richard Jefferson — "If your team is down 3-1, you're probably not going to like my analysis." — Richard Jefferson on the reality of the Spurs' 3-1 deficit** [12:37](https://www.youtube.com/watch?v=JwDkO74iC-w&t=757s)
+
+Richard Jefferson: "My job is to give analysis. If your team is down 3-1, you're probably not going to like my analysis, because that's the reality of the situation. Do I dislike the Spurs? I love the Spurs. You hear us talk about them. If you're down 3-1 after a 28-point lead, my job is probably not going to be that much fun for the Spurs fans to hear, if we're just being factual."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=757s
+
+**5. Richard Jefferson — "The most boneheaded play in the history of the NBA Finals is what, Channing?" — Richard Jefferson on the most boneheaded play in NBA Finals history** [13:43](https://www.youtube.com/watch?v=JwDkO74iC-w&t=823s)
+
+Richard Jefferson: "The most boneheaded play in the history of the NBA Finals is what, Channing? I'm going to go with **Draymond Green**. The most boneheaded play in the history of the NBA Finals is that one. That stopped a team from having the greatest championship in the history of the game of basketball."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=823s
+
+**6. Richard Jefferson — "The Knicks don't have a lot of shot creators outside of Brunson." — Richard Jefferson on the importance of Jose Alvarado's role** [19:28](https://www.youtube.com/watch?v=JwDkO74iC-w&t=1168s)
+
+Richard Jefferson: "The Knicks don't have a lot of shot creators outside of Brunson. Putting the ball in the half-court in **Carl-Anthony Towns**' hands is a shot creation person because you can move. But Wembanyama cuts away all of the back-door cuts, all of the back-screens. Wembanyama cleans that up, so that's not effective. They have a bunch of big guards on Brunson. Josh Hart can kind of handle it. You don't want Wembanyama, you don't want any of their other wings handling it with the type of pressure that San Antonio can. So **Jose Alvarado** has been key. What does Jose do? He puts another ball-handler on the floor. Jose had never played as many minutes as he did last game because they needed it."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=1168s
+
+**7. Richard Jefferson — "There's only one answer. It is OG Anunoby and it's not even close." — Richard Jefferson on why Jalen Brunson is the only choice for Finals MVP** [21:21](https://www.youtube.com/watch?v=JwDkO74iC-w&t=1281s)
+
+Richard Jefferson: "There's only one answer. It is **OG Anunoby** and it's not even close. It has to be the answer. Don't do that. Don't do that. You're not even talking about his defensive presence. You're not talking about when they need a bucket, does he settle for a jumper? He has made almost every single big play for the Knicks in every single game that they played, both defensively and offensively. I mean, it's not even close."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=1281s
+
+**8. Richard Jefferson — "Derrick White is one of the fastest guys in the NBA." — Richard Jefferson on the tactical brilliance of Jalen Brunson** [24:30](https://www.youtube.com/watch?v=JwDkO74iC-w&t=1470s)
+
+Richard Jefferson: "**Derrick White** is one of the fastest guys in the NBA. In his mind, there is never a thought to him to think, 'Oh, he's not going to catch me.' He's not going to catch me. Also, think about momentum. He's not thinking, 'Oh, he's going to catch him' at any point. He's saying, 'Hey, there's 12 seconds left.'"
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=1470s
+
+**9. Richard Jefferson — "Carl-Anthony Towns was the least efficient guy on their team in the first three games." — Richard Jefferson on the defensive impact of Carl-Anthony Towns** [27:06](https://www.youtube.com/watch?v=JwDkO74iC-w&t=1626s)
+
+Richard Jefferson: "His defensive plays, a stop, because that's kind of like what we talk about OG. Defensively what he had done, the rebounding which he had done, the scoring and playmaking. If you looked at, like, **Jalen Brunson** was the least efficient guy on their team in the first three games. So like, if you're just playing the the game, **Jalen Brunson**, but then who had probably performed at the most that at the highest level after the first two games, Cat?"
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=1626s
+
+**10. Richard Jefferson — "It takes both of your feet and both of the ball have to be acrossed." — Richard Jefferson on the nuance of the backcourt rule** [28:32](https://www.youtube.com/watch?v=JwDkO74iC-w&t=1712s)
+
+Richard Jefferson: "It takes both of your feet and both of the ball have to be acrossed. So he does a good job. He's a point guard, New York point guard, they're savvy. So he sees he's in trouble, that's why he kept the ball behind him. It gives him a chance to get out of trouble. So now everyone's like, 'Is that a backcourt?' Mike Brown calls timeout. Now, when we call a timeout, you're gone for for one minute. Mike Brown calls a timeout. You're gone for one minute. When you come back, we have one opportunity. We can now address **Derrick White** not dribbling it out, or we can explain this play that is the most crucial play. Thank you. So all of you, all of the people that are talking about that, you don't understand. So let me let me break it down."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=1712s
+
+**11. Kendrick Perkins — "We have a responsibility as media to be fair all across the board." — media responsibility to be fair to teams like the Spurs** [2:03:58](https://www.youtube.com/watch?v=JwDkO74iC-w&t=7438s)
+
+Kendrick Perkins: "We have a responsibility as media to be fair all across the board. If someone is not living up to expectations, or you see something that happened, obviously like the Spurs collapse, we can't sit up here and call them the dumbest team ever in history of sports. That is not okay. Because I was part of a team that actually did that to another team in 2008, which was the Lakers. We were down 24 on the road and went and got that game. And so, no one would ever fix their mouth to call **Kobe Bryant** dumb or **Phil Jackson** dumb. And they broke that record. But what I'm saying is, yeah, and what I'm saying is that, bro, this is the biggest stage. Just like San Antonio went on a run, the New York Knicks went on a run. And my thing is, my thing is this, we could be fair, we could say that, hey man, some adjustments needed to be made, they needed to stop shooting so many three-point shots. I get all that. But it's a fine line that you cross."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=7438s
+
+**12. Kendrick Perkins — "The fact that they're here, I think people take that shit for granted." — San Antonio Spurs reaching the NBA Finals is an achievement** [2:05:09](https://www.youtube.com/watch?v=JwDkO74iC-w&t=7509s)
+
+Kendrick Perkins: "The fact that they're here, I think people take that shit for granted. Y'all know this, how hard is it to fucking just get to the NBA Finals? How hard is it just to get to the promised land? And when you have one of the youngest teams to get there, right, you have to have a certain voice level in that locker room that's unmatched. Your voice has to be heard in order to let make young guys buy into their roles."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=7509s
+
+**13. Channing Frye — "You can be critical of decisions for a game, we cannot make rash headlines." — media should not make rash headlines calling to fire coaches** [2:07:00](https://www.youtube.com/watch?v=JwDkO74iC-w&t=7620s)
+
+Channing Frye: "You can be critical of decisions for a game, we cannot make rash in the media, we cannot make rash headlines. Oh, fire **Miss Johnson**. Stop it. During the NBA Finals, could we have done better? Could we have done things differently? For sure. Even when you win, if you look at film, you go, damn, we could have been better. That is the part about being on this stage. The, oh, get rid of **De'Aaron Fox**. For who? For who? Who are you going to go get? Who are you going to go get that's better? Stop it. Okay, go get **Miss Johnson**. For who? Who are you going to go get to take the NBA Finals? Who? Okay, tell me who. Because obviously, guess what, there's only two coaches in the NBA Finals. This is what I got to tell people. Oh, hey, get rid of Chet. Get rid of Chet for who? For who? He had a bad series. He's going to approach the game. You know the kid. When you know the person, when you know the kid, if they are committed to being better at basketball and understand their mistakes, watch film, they're only going to get better. You know who you trade? You trade the guy that is complacent. You trade the coach that is complacent."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=7620s
+
+**14. Kendrick Perkins — "My Finals MVP, if I had a fucking vote, would go to Jalen Brunson." — Jalen Brunson deserves to be the Finals MVP** [2:12:04](https://www.youtube.com/watch?v=JwDkO74iC-w&t=7924s)
+
+Kendrick Perkins: "My Finals MVP, if I had a fucking vote, would go to **Jalen Brunson**. The guy is averaging 10 points in the four quarters, shooting 48% from the fucking field. And what people didn't realize or don't bring up enough is that he kept them relevant. He kept them relevant throughout the course of that game. In the second quarter, when Mike Brown was soul searching because he was going deep into his bench to try to find some type of spark, some type of dog, **Jalen Brunson** in that second quarter kept them relevant by having 19 points in the second. **Jalen Brunson** was the true leader in that second half, because you couldn't pick on him defensively. Every the two times that they tried to go at him in the four quarter, he forced turnovers."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=7924s
+
+**15. Richard Jefferson — "His field goal percentage has increased every single game." — Jalen Brunson's field goal percentage has increased every game** [2:19:24](https://www.youtube.com/watch?v=JwDkO74iC-w&t=8364s)
+
+Richard Jefferson: "His field goal percentage has increased every single game. The first two games, it was low. In game four, I feel like he started to, no, game three, he started to get it going. Last game, he was even better. So from that, that's the reason why I'm picking Brunson. Not that he's figuring it out, but them having **Jose Alvarado** on the floor relieving some pressure and them having to play four on four because they're face guarding Brunson. That's why things also like we talk about open up for OG, opening up for Mikal, the gravity that Brunson is forcing the the Spurs to extend to him, including on that last play. So, I just think Brunson is the initiator and he's that's why I'm going with him."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=8364s
+
+**16. Kendrick Perkins — "The one person that they hadn't had an answer for, I'm talking about the Knicks, is Dylan Harper." — Jalen Brunson is the key player for the Knicks** [2:21:24](https://www.youtube.com/watch?v=JwDkO74iC-w&t=8484s)
+
+Kendrick Perkins: "The one person that they hadn't had an answer for, I'm talking about the Knicks, is **Dylan Harper**. Every single every single time he's gotten two feet in the paint, it's been a bucket. Every time he hasn't got two feet in the paint, it has it it's been a bucket. That game game three, what I remember, OG Anunoby on them one-on-one defensively, he drive baseline, hit him with a little, OG hits the ground, nice nice little jump in the first half. **Dylan Harper** go get he go he go cut up. He go cut up in game five."
+
+https://www.youtube.com/watch?v=JwDkO74iC-w&t=8484s
