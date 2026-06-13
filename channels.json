@@ -12,7 +12,8 @@
       "channel_id": "UCVSSpcmZD2PwPBqb8yKQKBA",
       "bypass_filters": false,
       "active": true,
-      "known_speakers": []
+      "known_speakers": [],
+      "require_speakers": ["Brian Windhorst", "Tim MacMahon", "Tim Bontemps", "Shams Charania"]
     },
     {
       "name": "Mind the Game",
@@ -97,6 +98,34 @@
       "bypass_filters": true,
       "active": true,
       "known_speakers": ["Michael Porter Jr."]
+    },
+    {
+      "name": "The Richard Show",
+      "channel_id": "UCA95kYjGqDgRziNA7sJZBag",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Richard Jefferson"]
+    },
+    {
+      "name": "Game Recognize Game",
+      "channel_id": "UCe4l0wTSq_Tvva_bBTMkiXQ",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Breanna Stewart", "Myles Turner"]
+    },
+    {
+      "name": "The Jon Krawczynski Show",
+      "channel_id": "UCU-lnpYCrS_VoOykonK5L7Q",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Jon Krawczynski"]
+    },
+    {
+      "name": "The Old Man and The Three",
+      "channel_id": "UCbPY1Efha9VPRBYW2x1M16A",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Cam Johnson", "Tommy Alter"]
     }
   ],
   "min_duration_minutes": 5,
