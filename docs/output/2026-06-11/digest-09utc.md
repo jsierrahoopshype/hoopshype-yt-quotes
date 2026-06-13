@@ -1,216 +1,100 @@
 # HoopsHype YT Quotes — 2026-06-11
 
-## GREATEST COMEBACK EVER!! Game 4 REACTION: Knicks’ Epic Comeback To Beat Spurs — *NBA on ESPN*
+## Breaking Down How the KNICKS CAME BACK Against the Spurs in Game 4 | NBA FINALS — *The Old Man and The Three*
 
-Source: https://www.youtube.com/watch?v=2oQqq7-_wDc
+Source: https://www.youtube.com/watch?v=sikNzZEfAwU
 
-_Speakers identified: Brian Windhorst, Tim Bontemps, Ben McMahon_
+_Speakers identified: Cam Johnson, Tommy Alter_
 
-**1. Brian Windhorst — "they've conditioned their crowd to never give up" — Knicks' playoff comeback success and conditioning the home crowd** [03:31](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=211s)
+**1. Cam Johnson — "The game was meant for an OG legacy game." — The game was meant for an OG Anunoby legacy performance** [00:00](https://www.youtube.com/watch?v=sikNzZEfAwU&t=0s)
 
-Brian Windhorst: "This is the fifth Knicks comeback in the playoffs of over 20 points in the last two years. They've conditioned their crowd to never give up."
+Cam Johnson: "The ball hit his last two fingers. He just swatted at it. The game was meant for an **OG** legacy game."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=211s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=0s
 
-**2. Ben McMahon — "they are the ultimate NBA cockroaches. You can't just step on them. You got to squish them." — Knicks' resilience and ability to overcome deficits** [05:07](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=307s)
+**2. Cam Johnson — "Everything is always easier said than done. Everything is always very, very clear in hindsight." — Everything is easier said than done and clear in hindsight** [00:10](https://www.youtube.com/watch?v=sikNzZEfAwU&t=10s)
 
-Ben McMahon: "The Knicks are the ultimate NBA cockroaches. You can't just step on them. You got to squish them and then you got to flush them. They do not die."
+Cam Johnson: "I will repeat this as long as we record this pod and as long as we record any other pods: Everything is always easier said than done. Everything is always very, very clear in hindsight."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=307s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=10s
 
-**3. Tim Bontemps — "Mike Brown, with all due respect, is all over the place. He played 12 men in the first 14 minutes." — Mike Brown's questionable rotation decisions in Game 4** [06:24](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=384s)
+**3. Cam Johnson — "You have to go through over 100 games of basketball in a year of life to even have a chance." — Players need over 100 games in a year to handle the pressure** [00:28](https://www.youtube.com/watch?v=sikNzZEfAwU&t=28s)
 
-Tim Bontemps: "**Mike Brown**, with all due respect, is all over the place. He played 12 men in the first 14 minutes, playing **Jeremy Sochan**, playing Aris Hukporti."
+Cam Johnson: "You have to go through over 100 games of basketball in a year of life to even have a chance to be doing what you are doing now."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=384s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=28s
 
-**4. Ben McMahon — "the youngest guy on the court was the guy who needed the ball and he didn't get it." — Dylan Harper's lack of involvement in the second half** [08:50](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=530s)
+**4. Cam Johnson — "Everything that could go wrong for them in the second half went wrong." — The Spurs' second-half collapse was due to a fine line** [02:28](https://www.youtube.com/watch?v=sikNzZEfAwU&t=148s)
 
-Ben McMahon: "The only guy who had any sort of juice going at all in the second half was **Dylan Harper**, and he vanished into the woodwork. Frankly, the youngest guy on the court was the guy who needed the ball and he didn't get it."
+Cam Johnson: "30 points in the second half for **San Antonio**. Two halves. Everything that could go wrong for them in the second half went wrong. They did not shoot the ball well. They did not defend quite as well. A lot of people are going to say they were relaxed, which in a sense they did, but it was honestly too big of a lead where they just got a little bit tight, trying not to be tight, relaxed but trying. There is a fine line there."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=530s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=148s
 
-**5. Tim Bontemps — "Mitch Johnson was inexcusable with his usage of Victor Wembanyama in this game." — Mitch Johnson's poor usage of Victor Wembanyama** [09:39](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=579s)
+**5. Cam Johnson — "Basketball is a game of percentages. No matter how the runs in a game go." — The Spurs' shooting percentages were not the only factor in the loss** [04:16](https://www.youtube.com/watch?v=sikNzZEfAwU&t=256s)
 
-Tim Bontemps: "**Mitch Johnson** was inexcusable with his usage of **Victor Wembanyama** in this game. The Spurs were on tilt in this game, even though they were winning."
+Cam Johnson: "They shot 40% from three throughout the entire game. 17 of 43. If you smooth out the makes over the course of the 43 shots so that they are not front-loaded, 14 of them in the first half, it seems like their approach to the game would be different. In a sense, it did seem like they fell in love with it. Basketball is a game of percentages. No matter how the runs in a game go, when you look at the final box score, the **Spurs** shot 42% from the field and 40% from three, and the **Knicks** shot 46% from the field and 47% from three."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=579s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=256s
 
-**6. Tim Bontemps — "he plays 23 minutes in the second half and he was completely on empty the entire fourth quarter." — Victor Wembanyama's fatigue and lack of impact in the fourth quarter** [10:41](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=641s)
+**6. Cam Johnson — "If they stop playing aggressive, if they were to just hold the ball and sit on it." — The Spurs' aggressive play style was a double-edged sword** [06:40](https://www.youtube.com/watch?v=sikNzZEfAwU&t=400s)
 
-Tim Bontemps: "He plays 23 minutes in the second half and he was completely on empty the entire fourth quarter, and so he was often times standing there on the perimeter watching straight line drives to the rim for layups and kickouts for threes."
+Cam Johnson: "If they stop playing aggressive, if they were to just hold the ball and sit on it for 24 seconds and not do anything and turn it over or take a late clock because they are trying to milk the clock to milk their lead, then the sports media headlines would be saying, oh, the **Spurs** were playing not to lose and they were playing scared. You have to always stay aggressive no matter what. You have to."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=641s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=400s
 
-**7. Brian Windhorst — "you kind of see Victor's fatigue sometimes when you start seeing him lose his balance." — Victor Wembanyama's physical struggles and balance issues** [11:06](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=666s)
+**7. Cam Johnson — "Work the shot clocks, get points in the paint." — The Spurs should have focused on clock management and paint scoring** [09:34](https://www.youtube.com/watch?v=sikNzZEfAwU&t=574s)
 
-Brian Windhorst: "You kind of see Victor's fatigue sometimes when you start seeing him lose his balance. His strength has been to keep his balance because he's so tall. He's losing his balance, he's sort of flopping all over the place out there."
+Cam Johnson: "If I were to say anything, I would say work the shot clocks, get points in the paint, and yeah, you are not going to keep up the crazy scoring pace. It is almost like they tried to keep up that crazy scoring pace for too long."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=666s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=574s
 
-**8. Brian Windhorst — "how do we feel about Alvarado not getting a flagrant for basically grabbing his leg and cutting him out?" — Officiating inconsistency regarding Jose Alvarado and Victor Wembanyama** [12:18](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=738s)
+**8. Cam Johnson — "I do not want to sound like a hater by any means. OG played a phenomenal game." — OG Anunoby's defensive play was a matter of luck** [12:09](https://www.youtube.com/watch?v=sikNzZEfAwU&t=729s)
 
-Brian Windhorst: "How do we feel about Alvarado not getting a flagrant for basically grabbing his leg and cutting him out, and then Victor getting a flagrant later on for like an accidental elbow?"
+Cam Johnson: "I do not want to sound like a hater by any means. **OG** played a phenomenal game and **OG** is a phenomenal player, but it is luck. It is not something you practice. He has the general skill and body awareness to know where the ball is and where the hoop is, but he kind of just swatted at the ball and hoped for the best."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=738s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=729s
 
-**9. Brian Windhorst — "there's a streak of immaturity in Victor. For all of his attributes, he's got a streak of immaturity." — Victor Wembanyama's recurring immaturity and need for growth** [12:56](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=776s)
+**9. Cam Johnson — "He is a defensive menace. He is causing them problems on the defensive side of the ball." — Jalen Brunson is a defensive menace** [13:53](https://www.youtube.com/watch?v=sikNzZEfAwU&t=833s)
 
-Brian Windhorst: "There's a streak of immaturity in Victor. For all of his attributes, he's got a streak of immaturity, and he showed it with that whole act out there."
+Cam Johnson: "It is not just offensively. He is a defensive menace. He is causing them problems on the defensive side of the ball. So he is doing it on offense and defense."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=776s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=833s
 
-**10. Tim Bontemps — "part of the reason Jalen Brunson pounds the ball too much is there are not a lot of secondary ball-handlers." — Knicks' lack of secondary ball-handlers and reliance on Brunson** [15:02](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=902s)
+**10. Cam Johnson — "Jalen Brunson's role in these finals is to always create, always be able to make something." — Jalen Brunson's role is to create and make big shots** [15:32](https://www.youtube.com/watch?v=sikNzZEfAwU&t=932s)
 
-Tim Bontemps: "Part of the reason **Jalen Brunson** pounds the ball too much is there are not a lot of secondary ball-handlers on the team. If you have **Landry Shamet** out there, or **Deuce McBride** out there, or a bunch of these different guys, none of them are really good ball-handlers to sort of take over the offense. By having **Jose Alvarado** as a short roll option, they kept running these small small screens at the top of the court."
+Cam Johnson: "He is not supposed to be a highly efficient player in these finals. It is not his role. Let that be for the **OG**s and the **Mikal**s. Let them be the high-efficiency players. **Jalen Brunson**'s role in these finals is to always create, always be able to make something out of nothing, and to make big shots when they count down the stretch."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=902s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=932s
 
-**11. Brian Windhorst — "OG Anunoby, if we had to vote right now, would have my vote for MVP of the Finals." — OG Anunoby's case for Finals MVP** [16:11](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=971s)
+**11. Cam Johnson — "He made a split-second decision. He made the decision in full stride." — Players make split-second decisions under pressure** [19:15](https://www.youtube.com/watch?v=sikNzZEfAwU&t=1155s)
 
-Brian Windhorst: "**OG Anunoby**, if we had to vote right now, would have my vote for MVP of the Finals."
+Cam Johnson: "He made a split-second decision. He made the decision in full stride that the decision was to lay it up or to continue along around the circle and get fouled one second later and have to shoot two free throws. In his mind, he is either going to make this layup or have to shoot two free throws one or two seconds later."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=971s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=1155s
 
-**12. Brian Windhorst — "one of the things that we have seen in the series is how much healthier his hamstring is." — OG Anunoby's improved physical health during the playoffs** [16:30](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=990s)
+**12. Cam Johnson — "Most NBA teams down 30 can come back. It is just a matter of time." — Most NBA teams can come back from a 30-point deficit** [28:28](https://www.youtube.com/watch?v=sikNzZEfAwU&t=1708s)
 
-Brian Windhorst: "One of the things that we have seen in the series is how much healthier his hamstring is than it was when he came back in the conference finals."
+Cam Johnson: "Most NBA teams down 30 can come back. It is just a matter of time. Are you going to give them 100 minutes of basketball or 20 minutes of basketball? Eventually, things are going to go your way and as an NBA team, these two teams are both very good teams. It is not like the Spurs are 30 points better than the Knicks. It is just not."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=990s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=1708s
 
-**13. Brian Windhorst — "Brunson goes to the basket and there's a goddamn car accident at the basket." — The chaotic sequence leading to the Knicks' final possession** [18:13](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1093s)
+**13. Cam Johnson — "The fact that they were able to erase a 30-point deficit in 20 minutes is the deal." — The ability to erase a 30-point deficit is the big story** [29:01](https://www.youtube.com/watch?v=sikNzZEfAwU&t=1741s)
 
-Brian Windhorst: "Brunson goes to the basket and there's a goddamn car accident at the basket. Brunson's on the floor, Anunoby's on the floor. There's a ball bounces and there's another collision to get the ball."
+Cam Johnson: "The fact that they were able to erase a 30-point deficit in 20 minutes rather than 40 minutes of basketball is the big deal here."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1093s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=1741s
 
-**14. Tim Bontemps — "it looked like De'Aaron Fox was way ahead of the field and had a wide open layup." — De'Aaron Fox's poor decision-making on the final layup** [18:32](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1112s)
+**14. Cam Johnson — "Basketball is just random. Things happen that coaches cannot control, that players cannot control." — Basketball is random and coaches cannot control everything** [31:12](https://www.youtube.com/watch?v=sikNzZEfAwU&t=1872s)
 
-Tim Bontemps: "It looked like **De'Aaron Fox** was way ahead of the field and had a wide open layup. So he went into to take the wide open layup, and OG, who was way behind the play, literally dead sprinted, got back in the play and got there to block the shot somehow."
+Cam Johnson: "Basketball is just random. Things happen that coaches cannot control, that players cannot control. You behave the way you do, you use your intelligence and your physical abilities and your skill to the best you can, and then hope for the best result. It does not always go your way sometimes, it does, sometimes it does not."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1112s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=1872s
 
-**15. Tim Bontemps — "De'Aaron Fox decides to grab him for a take foul when Jose Alvarado is going backwards." — De'Aaron Fox's questionable decision to commit a take foul** [20:20](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1220s)
+**15. Cam Johnson — "I think the Knicks' coaches are doing a really good job managing the series." — The Knicks' coaching staff is managing the series well** [33:29](https://www.youtube.com/watch?v=sikNzZEfAwU&t=2009s)
 
-Tim Bontemps: "**De'Aaron Fox** decides to grab him for a take foul when **Jose Alvarado** is going backwards away from the basket and nothing good is happening."
+Cam Johnson: "I think the **Knicks**' coaches are doing a really good job managing the series. I think the **Knicks** have shown a lot of mental resolve and togetherness that is enough to take you over the top in an entire playoff run and especially in the finals."
 
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1220s
-
-**16. Brian Windhorst — "I'm not even sure that he knew he hadn't gone over the yet." — De'Aaron Fox's lack of awareness during the final possession** [20:38](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1238s)
-
-Brian Windhorst: "I'm not even sure that he knew he hadn't gone over the yet. He was almost a triple team because he almost thought he had the half court guarding him and the two guys."
-
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1238s
-
-**17. Brian Windhorst — "Dylan Harper was eight of 12 shooting in this game and never showed any fear." — Dylan Harper's impressive shooting performance in Game 4** [27:59](https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1679s)
-
-Brian Windhorst: "**Dylan Harper** was eight of 12 shooting in this game and never showed any fear, and in the last 10 minutes never got a shot."
-
-https://www.youtube.com/watch?v=2oQqq7-_wDc&t=1679s
-
----
-
-## Evaluating OG Anunoby's tip-in game-winner 🔥 'HE'S BUILT FOR THESE MOMENTS!' - Chiney Ogwumike | SC — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=rTRFQZd5Uzs
-
-_Speakers identified: Chiney Ogwumike, Aminah, OG Anunoby, Mike Brown, Josh Hart, Victor Wembanyama, Stephen A. Smith, Michael Wilson_
-
-**1. OG Anunoby — "It feels cool. Everyone's pretty excited. I'm excited too. We're all excited." — OG Anunoby on his game-winning tip-in against the Spurs** [05:01](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=301s)
-
-OG Anunoby: "It feels cool. Everyone's pretty excited. I'm excited too. We're all excited. We're enjoying it right now, but we're just focused on the next game now."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=301s
-
-**2. Mike Brown — "That has to be the most iconic shot in the history of New York basketball." — Mike Brown calls Anunoby's tip-in the most iconic shot in Knicks history** [05:15](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=315s)
-
-Mike Brown: "It's unbelievable. The tip, how he had to control it and tip it in from, I mean, like I said, that has to be the most iconic shot in the history of New York basketball. I'm not you guys, you guys know better than me, but it was just unbelievable."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=315s
-
-**3. Josh Hart — "I got a special shout-out for OG, man, because he saved me from a lifetime of regret." — Josh Hart credits OG Anunoby for saving him from regret** [05:38](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=338s)
-
-Josh Hart: "I got a special shout-out for **OG**, man, because he saved me from a lifetime of regret. So yeah, man, shout-out to him."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=338s
-
-**4. Victor Wembanyama — "We clearly weren't the most hungry in the second half." — Victor Wembanyama on the Spurs' fourth-quarter collapse** [05:53](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=353s)
-
-Victor Wembanyama: "I think it began before the third quarter. I can't really explain it right now. I don't know. I think it's just execution, greediness of some sort. We clearly weren't the most hungry in the second half."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=353s
-
-**5. Stephen A. Smith — "I literally prayed. I was that scared to watch the last play." — Stephen A. Smith on his reaction to the Knicks' comeback** [08:32](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=512s)
-
-Stephen A. Smith: "I was watching and blinking, and I was keeping my head down, and I was just saying, 'Good Lord, please don't do this to me.' We come back this far, and then they missed a shot, but **Anunoby** put it back in. I literally prayed. I was that scared to watch the last play, but they ended up holding on, coming back from a 29-point deficit."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=512s
-
-**6. Michael Wilson — "This tonight is the biggest choke job I've seen at a championship level in any sport." — Michael Wilson calls the Spurs' loss the biggest choke job in sports history** [09:13](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=553s)
-
-Michael Wilson: "I'm trying to be careful here because I'm talking about the Spurs, who I have so much respect for the people who lorded over this organization, who defined the organization: **Greg Popovich**, **Tim Duncan**, and **David Robinson**. This tonight is the biggest choke job I've seen at a championship level in any sport at any time."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=553s
-
-**7. Chiney Ogwumike — "The Knicks showed what we've seen from them all season long: resilience." — Chiney Ogwumike and Aminah discuss the Knicks' resilience** [09:55](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=595s)
-
-**Aminah:** "The Knicks showed what we've seen from them all season long: resilience. Down 29 and still getting it done. How did the Knicks flip the script in Game 4?"
-
-**Chiney Ogwumike:** "They were able to pull off a miracle in Madison Square Garden because they don't care what anybody thinks. They go out there and they play their style, starting with, of course, OG Anunoby."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=595s
-
-**8. Chiney Ogwumike — "He's the type of guy that just feels like he's built for these moments." — Chiney Ogwumike on OG Anunoby's professional poise** [11:35](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=695s)
-
-Chiney Ogwumike: "This man has been rock steady the entire NBA Finals, and he's the type of guy that just feels like he's built for these moments. He's built for the grit, he's built for the grind. **OG Anunoby**, I know everyone wants to talk about the tip-in. Can we talk about the three? That was a living, you're living right three that touched every aspect of the rim before it went down."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=695s
-
-**9. Chiney Ogwumike — "This one is a mental backbreaker." — Chiney Ogwumike on the Spurs' mental collapse** [12:43](https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=763s)
-
-Chiney Ogwumike: "This one is a mental backbreaker. It's a mental backbreaker to be up 29 and then to choose to settle time and time again for threes, to have Victor Wembanyama on the floor for the entire second half knowing that he's tired. This is a squad that is young, and it's tough to watch because their experienced guy that they brought in, De'Aaron Fox, made a tough mistake as well."
-
-https://www.youtube.com/watch?v=rTRFQZd5Uzs&t=763s
-
----
-
-## OG ascending to SUPERSTARDOM 🤩 Anunoby is the Knicks' NBA Finals Game 4 HERO 👏 | SC with SVP — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=xPlTTYruQVs
-
-_Speakers identified: Scott Van Pelt, Tim Legler_
-
-**1. Tim Legler — "I thought that stretch for the Knicks kept them alive." — Spurs' third quarter offensive mentality kept the Knicks alive** [06:08](https://www.youtube.com/watch?v=xPlTTYruQVs&t=368s)
-
-**Tim Legler:** "For me it all began with the Spurs' mentality offensively at the start of the third quarter. When you're that hot, everybody on the roster has a heat check to start the second half. The problem is that well dried up, and I thought that stretch for the Knicks kept them alive."
-
-**Scott Van Pelt:** "Still, you're talking about walking that whole thing down. I don't think anybody in this building thought they could walk the whole thing down."
-
-https://www.youtube.com/watch?v=xPlTTYruQVs&t=368s
-
-**2. Tim Legler — "Jalen Brunson got loose for the first time in the series. He was closer than people think." — Jalen Brunson's shooting performance and confidence in his spots** [07:30](https://www.youtube.com/watch?v=xPlTTYruQVs&t=450s)
-
-**Tim Legler:** "**Jalen Brunson** got loose for the first time in the series. He said the other day he was closer than people think. The shooting percentages hadn't been there, but he said, 'I'm getting to my spots, it's a matter of time.' That time was tonight."
-
-**Scott Van Pelt:** "And the San Antonio Spurs at the same time I thought got a little unsure of themselves offensively."
-
-https://www.youtube.com/watch?v=xPlTTYruQVs&t=450s
-
-**3. Tim Legler — "I'm suggesting that Anunoby is entering true superstar status for the force and the weight of him." — OG Anunoby is entering true superstar status for the Knicks** [09:28](https://www.youtube.com/watch?v=xPlTTYruQVs&t=568s)
-
-**Tim Legler:** "I'm suggesting that Anunoby is entering true superstar status for the force and the weight of him on both ends of the floor and what he forces you to deal with on both ends of the floor and a fearlessness in moments this big."
-
-**Scott Van Pelt:** "Am I overstating it? Am I just freaking out because he had 33 tonight?"
-
-https://www.youtube.com/watch?v=xPlTTYruQVs&t=568s
-
-**4. Tim Legler — "This is an all-league caliber defensive player. Tonight the offense for me with Karl-Anthony Towns getting those two fouls." — OG Anunoby's all-league caliber defensive impact for the Knicks** [09:58](https://www.youtube.com/watch?v=xPlTTYruQVs&t=598s)
-
-**Tim Legler:** "This is an all-league caliber defensive player. Tonight the offense for me with **Karl-Anthony Towns** getting those two fouls in the first minute of the game, **OG Anunoby** was the one guy that decided to take some responsibility for the offense."
-
-**Scott Van Pelt:** "Even though it was a 25 point game, it could have been 40 without the way he played."
-
-https://www.youtube.com/watch?v=xPlTTYruQVs&t=598s
+https://www.youtube.com/watch?v=sikNzZEfAwU&t=2009s
 
 ---
 

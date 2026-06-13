@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-11
-
-## Breaking Down How the KNICKS CAME BACK Against the Spurs in Game 4 | NBA FINALS — *The Old Man and The Three*
+# Breaking Down How the KNICKS CAME BACK Against the Spurs in Game 4 | NBA FINALS — *The Old Man and The Three*
 
 Source: https://www.youtube.com/watch?v=sikNzZEfAwU
 
@@ -95,7 +93,3 @@ https://www.youtube.com/watch?v=sikNzZEfAwU&t=1872s
 Cam Johnson: "I think the **Knicks**' coaches are doing a really good job managing the series. I think the **Knicks** have shown a lot of mental resolve and togetherness that is enough to take you over the top in an entire playoff run and especially in the finals."
 
 https://www.youtube.com/watch?v=sikNzZEfAwU&t=2009s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
