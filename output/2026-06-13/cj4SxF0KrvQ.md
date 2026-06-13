@@ -1,0 +1,37 @@
+# Bobby Portis on Being Included in Giannis Trade Rumors & Working Out with Damian Lillard! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=cj4SxF0KrvQ
+
+_Speakers identified: Bobby Portis, Michelle Beadle, Chandler Parsons, Lou Williams_
+
+**1. Bobby Portis — "Working out with a top 75 guy like him, being able to get some gems, being able to get some different drills I can take back was great." — Bobby Portis on his offseason training with Damian Lillard** [00:16](https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=16s)
+
+Bobby Portis: "It was fun to go out there for the last 10 days, work out in the altitude in Utah, work out with **Damian Lillard**. Obviously, Damian is one of my good friends in the league. We always text and he always gives me great advice, and just not about basketball. Sometimes you get on a team with guys and y'all are just teammates and y'all are just around. Damian is actually one of my real friends in real life, so just being able to spend time with him, being able to be around somebody that I look up to that can give me that drive, that extra motivation, you feel me? Because I'm still trying to grow, I'm still trying to get better, I'm still trying to get money in my craft as well. So working out with a top 75 guy like him, being able to get some gems, being able to get some different drills I can take back was great."
+
+https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=16s
+
+**2. Bobby Portis — "It's hard not to see it because I'm on social media. I'm not going to act like I don't be on social media." — Bobby Portis on trade rumors involving him and the Bucks** [01:20](https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=80s)
+
+**Michelle Beadle:** "The **Giannis** things are never going to go away. Trade talks, NBA Central yesterday had a story about how it looks like maybe Milwaukee is going to try to include you in any sort of trade. How does that... do you even pay attention? And if you do hear about it, does it make you feel a certain type of way?"
+
+**Bobby Portis:** "It's hard not to see it because I'm on social media. I'm not going to act like I don't be on social media. Some people be capping like, 'No, I don't see it.' Like, I don't get on social media. That's cap. We all on social media. We all get on Instagram, we all get on Twitter, X. I mean X, they call it X now, but I still call it Twitter. We all get on there, we all see it, but it don't bother me. I think if I was a second, third, fourth, fifth year guy trying to figure out my niche in the league, trying to figure out my role in the league, then I'd be like, 'Oh my God,' I'd be asking my mom or asking my agent, 'What's going on?' When you're a young player in the league, you kind of read and believe everything. But I'm going on my 12th year. I'm at peace, and I'm just trying to get better at my craft every day. I've been in the lab just grinding, getting the body right for whatever situation I'm thrown in, and I'm going to be ready."
+
+https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=80s
+
+**3. Bobby Portis — "My grandma told me years ago, man, you can't really control anything but your work ethic and your attitude." — Bobby Portis on trade rumors regarding Giannis and Miami** [02:37](https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=157s)
+
+**Michelle Beadle:** "There's also better weather in some places. Miami has apparently entered the villa in possible spots for **Giannis** to want to go to. A, it doesn't sound like that would suck, but have you talked to him about that? Like, is that something that we're thinking about?"
+
+**Bobby Portis:** "Obviously, I talk to the bro every week, every other week. We always check in. That's like my real friend, too. It's kind of good to have real friends in the league. Like I said, man, sometimes you just get on a team with guys and y'all are just teammates. Y'all might not never talk again, y'all might not communicate, y'all might not check on each other. Indeed, my real friend. So obviously, it's been going around the league and rumors been spreading since I got on the Bucks. I started with the Bucks in the pandemic 2020. I've been hearing about **Giannis** rumors and trades for six years. So, I don't know what's going to happen, what's going to partake and take place, but I think the best thing we can do is just wake up every day, keep grinding, keep working, and whatever God has for you is for you. That's my grandma told me years ago, man, you can't really control anything but your work ethic and your attitude. I don't know what's going to happen. I'm just working out every day and just staying ready. That's the name of the game in the league."
+
+https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=157s
+
+**4. Bobby Portis — "When it come to Kyrie Irving, he going to embarrass you. When it come to Wemby, it's like you're helpless." — Bobby Portis on the difficulty of guarding Kyrie Irving** [04:35](https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=275s)
+
+**Michelle Beadle:** "Kyrie versus **Wemby**. What do we got?"
+
+**Bobby Portis:** "I think those two different types of monsters. I think both on both ends is an extreme. So, I mean, I don't know. If I had the opportunity to pick one, I think I would avoid both."
+
+**Chandler Parsons:** "Kyrie don't embarrass you. Kyrie going to 20-20 dribble, dribble, step back, filet. He got the whole thing. He going to embarrass you. When it come to **Wemby**, it's like you're helpless. What else can I do?"
+
+https://www.youtube.com/watch?v=cj4SxF0KrvQ&t=275s
