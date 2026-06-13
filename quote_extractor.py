@@ -462,7 +462,11 @@ def _scan_day_dir_for_artifact(day_dir: Path, video_id: str, markers_only: bool)
                 return md
         except OSError:
             pass
-    for marker_name in (f"{video_id}.SKIPPED-too-long", f"{video_id}.FAILED.txt"):
+    for marker_name in (
+        f"{video_id}.SKIPPED-too-long",
+        f"{video_id}.SKIPPED-reporter-gate",
+        f"{video_id}.FAILED.txt",
+    ):
         marker = day_dir / marker_name
         if marker.is_file():
             return marker
@@ -817,7 +821,7 @@ def call_gemini_with_retry(
                                end_offset_secs=end_offset_secs)
         except Exception as e:
             if _is_spending_cap_error(e):
-                log(f"  [SPENDING CAP] {e}")
+                log(f"  [main] [SPENDING CAP] {e}")
                 raise SpendingCapExhausted(str(e)) from e
             if not _is_transient_gemini_error(e):
                 raise
@@ -1377,7 +1381,10 @@ def _process_one_video(client, channel, video, lock, summary, processed_items) -
     # in the background until the runner reaps it.
     inner_pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"vid-{video_id}")
     known_speakers = channel.get("known_speakers") or []
-    future = inner_pool.submit(process_video, client, video, name, known_speakers)
+    require_speakers = channel.get("require_speakers") or []
+    future = inner_pool.submit(
+        process_video, client, video, name, known_speakers, require_speakers
+    )
     try:
         try:
             status, data = future.result(timeout=PER_VIDEO_TIMEOUT_SECS)
@@ -1516,13 +1523,69 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     return ""
 
 
-def process_video(client, video: dict, channel_name: str, known_speakers: list | None = None) -> tuple[str, dict | None]:
+def _reporter_gate_check(merged: dict, require_speakers: list) -> str | None:
+    """Returns None when at least one required reporter is present in the
+    Gemini output; returns a comma-joined display of the required list
+    when the video should be discarded as not-on-topic for this gate.
+
+    The gate matches loosely: case-insensitive substring against any
+    speakers_seen entry, any quote.speaker, any text_blocks[].speaker, or
+    any names_mentioned entry. For two-token required names a last-name
+    fallback kicks in when the surname is distinctive enough (>=7 chars)
+    that a substring hit is unlikely to be a false positive.
+    """
+    if not require_speakers:
+        return None
+    gathered: set[str] = set()
+
+    def _add(name):
+        if not name:
+            return
+        n = str(name).strip()
+        if n:
+            gathered.add(n.lower())
+
+    for s in (merged.get("speakers_seen") or []):
+        _add(s)
+    for q in (merged.get("quotes") or []):
+        _add(q.get("speaker"))
+        for blk in (q.get("text_blocks") or []):
+            _add(blk.get("speaker"))
+        for n in (q.get("names_mentioned") or []):
+            _add(n)
+
+    DISTINCTIVE_SURNAME_MIN = 7
+    for required in require_speakers:
+        required_lower = required.lower().strip()
+        if not required_lower:
+            continue
+        if any(required_lower in g for g in gathered):
+            return None
+        parts = required.split()
+        if len(parts) >= 2:
+            last = parts[-1].lower()
+            if len(last) >= DISTINCTIVE_SURNAME_MIN and any(last in g for g in gathered):
+                return None
+    return ", ".join(require_speakers)
+
+
+def process_video(
+    client,
+    video: dict,
+    channel_name: str,
+    known_speakers: list | None = None,
+    require_speakers: list | None = None,
+) -> tuple[str, dict | None]:
     """Run Gemini against one video, write outputs.
 
     Returns (status, data) where data is the parsed Gemini response on success
     and None otherwise. known_speakers (optional) primes the prompt with
     the channel's recurring-host names so Gemini doesn't substitute
-    similar-sounding ones.
+    similar-sounding ones. require_speakers (optional) enforces a
+    post-Gemini reporter-gate: if none of the listed names appear in the
+    output, the video is discarded with a SKIPPED-reporter-gate marker
+    and the run returns status "skipped-reporter-gate" without writing
+    md/json artifacts.
     """
     url = video["url"]
     video_id = video["video_id"]
@@ -1652,6 +1715,21 @@ def process_video(client, video: dict, channel_name: str, known_speakers: list |
         log(f"  merged {n_chunks} chunks for {video_id}: "
             f"{len(chunk_results)} succeeded, "
             f"{len(merged['quotes'])} quotes after post-processing")
+
+    # Reporter-gate: channels like NBA on ESPN post a mix of insider
+    # reporting + analyst desk talk. We only want segments where one of
+    # the configured reporters appears. Check AFTER post-processing so
+    # the lookup sees the final, deduped speaker/name set. On miss,
+    # drop the video with a SKIPPED-reporter-gate marker so the next
+    # cron doesn't re-queue it.
+    require_speakers = list(require_speakers or [])
+    if require_speakers:
+        miss = _reporter_gate_check(merged, require_speakers)
+        if miss is not None:
+            log(f"  [reporter-gate] {video_id}: required reporter(s) not present "
+                f"({miss}); skipping")
+            (day_dir / f"{video_id}.SKIPPED-reporter-gate").write_text("", encoding="utf-8")
+            return "skipped-reporter-gate", None
 
     archived_json = json.dumps(merged, ensure_ascii=False)
     write_outputs(video, channel_name, merged, archived_json)
@@ -1894,6 +1972,7 @@ def main() -> int:
         "failed-other": 0,
         "aborted-spending-cap": 0,
         "deferred-transient": 0,
+        "skipped-reporter-gate": 0,
     }
     processed_items: list = []
     state_lock = threading.Lock()
