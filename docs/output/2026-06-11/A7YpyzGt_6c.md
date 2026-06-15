@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-11
-
-## Tracy Morgan Joins To Discuss New York's First Championship In 53 Years — *Road Trippin*
+# Tracy Morgan Joins To Discuss New York's First Championship In 53 Years — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=A7YpyzGt_6c
 
@@ -43,7 +41,3 @@ https://www.youtube.com/watch?v=A7YpyzGt_6c&t=3600s
 Kendrick Perkins: "OG got Wemby with the hesi. That's the kind of play that changes the momentum of a game. You see the way he attacked the rim, it's not just about the scoring, it's about the confidence he brings to the Knicks' offense."
 
 https://www.youtube.com/watch?v=A7YpyzGt_6c&t=3786s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
