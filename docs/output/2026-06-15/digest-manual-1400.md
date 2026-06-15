@@ -1,47 +1,5 @@
 # HoopsHype YT Quotes — 2026-06-15
 
-## Knicks WIN! Exposing Wemby, Brunson SHUTS DOWN his Haters & Is Fox a Scapegoat?! — *No Fouls Given*
-
-Source: https://www.youtube.com/watch?v=CRoC0n1u49Y
-
-_Speakers identified: Paul Pierce, Danny Green, Wosny Lambre_
-
-**1. Wosny Lambre — "It felt like they didn't have a process, Paul. Because they asked to talk to Jalen Brunson and got denied." — The Knicks lacked a clear process for hiring a head coach** [1:02:34](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3754s)
-
-**Wosny Lambre:** "Remember that process of trying to sign **Mike Brown**? He was the last person they interviewed. They interviewed 20 people. People were laughing at the Knicks because it felt like they settled for **Mike Brown**. They couldn't get anybody else."
-
-**Paul Pierce:** "It felt like they didn't have a process, Paul. Because they asked to talk to **Jalen Brunson** and got denied. I think they asked to talk to **Erik Spoelstra**. They tried to steal a couple coaches."
-
-**Danny Green:** "They talked to **Quin Snyder** from Atlanta. They talked to **Billy Donovan**. It was just a bunch of guys and people were like, 'Oh, the Knicks have no plan. They're fucking idiots.'"
-
-https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3754s
-
-**2. Danny Green — "He's been fired so many times. Sacramento was wild. They turned some things around." — Mike Brown deserves credit for turning the Kings around** [1:03:31](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3811s)
-
-Danny Green: "He's been fired so many times. Sacramento was wild. I understand some other places. They were lighting the beam, they had a great season, took Golden State to seven games. They turned some things around. Sacramento also fired **Mike Malone**. They did a lot of wild firing. For him to come in there and have these guys buy in to what he had going on and turn it around, change their offense, tweak their defense to the point where teams just target Jalen Brunson and Julius Randle and make them an offensive juggernaut, he deserves all the flowers that he's getting right now. I'm happy for him. I had him as a rookie, my rookie year in Cleveland. I got a chance to see him bounce around. But a great coach, man. And you got to shout out his coaching staff too, obviously, **Rick Brunson**, **Chris Jent**, everybody that's over there. Incredible staff."
-
-https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3811s
-
-**3. Paul Pierce — "I think the difference between Thibodeau and Mike Brown was him being able to manage the personalities." — Mike Brown is a better manager of egos than Tom Thibodeau** [1:06:57](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4017s)
-
-Paul Pierce: "I think the difference between Thibodeau and **Mike Brown** was him being able to manage the personalities. Because I think sometimes Thibodeau gets stuck on his ways. It's not a bad thing because he's a great coach. He can be stubborn. **Mikal Bridges** and the heart are just going to play 45 minutes and peace. He can get stuck in his ways and he's not as flexible a coach as Brown is. Not saying that Thibodeau is not, but I feel like Brown will listen to his players a little more and it's not his way or the highway sometimes. I feel like Thibodeau came off like that. And it's not a bad thing because he's been a successful coach, but I just think just managing the personalities, I think Brown was probably better at that."
-
-https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4017s
-
-**4. Danny Green — "It's not about when you get drafted, but where you get drafted, and who is developing you." — Player development and timing are crucial for NBA success** [1:08:43](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4123s)
-
-Danny Green: "It's not about when you get drafted, but where you get drafted, and who is developing you. Some guys may not have a great career because they don't have great player development in the situation that he's in. Some guys may be way better than you expected because they had the right timing, like myself, being in San Antonio at that right time. If I stayed in Cleveland, I'm not getting 15 years in. That ain't happening. Being at the right place, learning from **Mike Brown**, **Tom Thibodeau**, being under the pop, any of the system, I might not make it, bro. Being with Spoelstra, like Spoelstra has made some other guys look great in the right time. Other places, they don't look as good. So fit is everything, not just with coaching, but players as well."
-
-https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4123s
-
-**5. Paul Pierce — "What's the point of being in New York and having such a rich franchise if you can't just call Spoelstra?" — The Knicks should have been more aggressive in pursuing Erik Spoelstra** [1:09:26](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4166s)
-
-Paul Pierce: "I was down on **Mike Brown**. I just to me the Knicks, what they should have did is like what's the point of being in New York and having such a rich franchise if you can't just call Spoelstra and be like, 'Yo, name a number and we're going to make this, we're going to figure this out.' Because you we think you're the best coach in the NBA, we think we have a championship roster, we need you here with us. Not doing that to me felt like they were half-assing it. But at the same time, like after talking to a couple of my guys in New York media, they were just I was just like, 'Look, if **Mike Brown** is allowed to coach, he's going to do a good job.' Meaning if the players embrace what he brings, they allowed **Mike Brown** the freedom and the space to become this freaking coach."
-
-https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4166s
-
----
-
 ## Did the New York Knicks WIN the NBA Championship because of their chemistry?! | Get Up — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=LIupDtpYcYA
@@ -198,51 +156,45 @@ https://www.youtube.com/watch?v=MNq8amc95N0&t=1956s
 
 ---
 
-## Willie Cauley-Stein doesn't hold back on going to rehab and turning his life around 👀 — *Out The Mud*
+## Knicks WIN! Exposing Wemby, Brunson SHUTS DOWN his Haters & Is Fox a Scapegoat?! — *No Fouls Given*
 
-Source: https://www.youtube.com/watch?v=_u_Q3qWMtFk
+Source: https://www.youtube.com/watch?v=CRoC0n1u49Y
 
-_Speakers identified: Tony Allen, Willie Cauley-Stein, Zach Randolph_
+_Speakers identified: Paul Pierce, Danny Green, Wosny Lambre_
 
-**1. Willie Cauley-Stein — "how do you get through that point and play at a high level and keep your job" — Willie Cauley-Stein on the challenges of maintaining a high-level NBA career** [00:16](https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=16s)
+**1. Wosny Lambre — "It felt like they didn't have a process, Paul. Because they asked to talk to Jalen Brunson and got denied." — The Knicks lacked a clear process for hiring a head coach** [1:02:34](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3754s)
 
-Willie Cauley-Stein: "A lot of the things I was going through or went through, I watched other people go through and stay solid and do things. So it wasn't like I couldn't necessarily knock it. It's just how do you get through that point and play at a high level and keep your job and keep going. I fell into a trap. I fell into the other side of being a very high-talented guy that couldn't cultivate it quick enough."
+**Wosny Lambre:** "Remember that process of trying to sign **Mike Brown**? He was the last person they interviewed. They interviewed 20 people. People were laughing at the Knicks because it felt like they settled for **Mike Brown**. They couldn't get anybody else."
 
-https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=16s
+**Paul Pierce:** "It felt like they didn't have a process, Paul. Because they asked to talk to **Jalen Brunson** and got denied. I think they asked to talk to **Erik Spoelstra**. They tried to steal a couple coaches."
 
-**2. Willie Cauley-Stein — "It was the first time I could not worry about anything besides just myself and getting better." — Willie Cauley-Stein on his experience with rehab and finding clarity** [00:57](https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=57s)
+**Danny Green:** "They talked to **Quin Snyder** from Atlanta. They talked to **Billy Donovan**. It was just a bunch of guys and people were like, 'Oh, the Knicks have no plan. They're fucking idiots.'"
 
-**Zach Randolph:** "So you went to rehab for the shit? That's what I'm asking."
+https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3754s
 
-**Willie Cauley-Stein:** "It was amazing. It was the first time I could not worry about anything besides just myself and getting better. I didn't have to worry about going to turn it on tonight to go play a game in front of 24,000 people that think you are all right. I got to just go in there and be Willie Cauley-Stein and not Willie Cauley-Stein the basketball player."
+**2. Danny Green — "He's been fired so many times. Sacramento was wild. They turned some things around." — Mike Brown deserves credit for turning the Kings around** [1:03:31](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3811s)
 
-https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=57s
+Danny Green: "He's been fired so many times. Sacramento was wild. I understand some other places. They were lighting the beam, they had a great season, took Golden State to seven games. They turned some things around. Sacramento also fired **Mike Malone**. They did a lot of wild firing. For him to come in there and have these guys buy in to what he had going on and turn it around, change their offense, tweak their defense to the point where teams just target Jalen Brunson and Julius Randle and make them an offensive juggernaut, he deserves all the flowers that he's getting right now. I'm happy for him. I had him as a rookie, my rookie year in Cleveland. I got a chance to see him bounce around. But a great coach, man. And you got to shout out his coaching staff too, obviously, **Rick Brunson**, **Chris Jent**, everybody that's over there. Incredible staff."
 
-**3. Willie Cauley-Stein — "It wasn't in the rooms with the therapist. It was when we was out here vulnerable by ourselves." — Willie Cauley-Stein on finding vulnerability and connection in rehab** [01:31](https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=91s)
+https://www.youtube.com/watch?v=CRoC0n1u49Y&t=3811s
 
-Willie Cauley-Stein: "It wasn't in the rooms with the therapist. It was when we was out here vulnerable by ourselves with nobody to put judgment on us. We were all in the same spot and I'm hearing this dude's story, her story, his story, and then you are helping each other every day because it's the same battle that you're facing."
+**3. Paul Pierce — "I think the difference between Thibodeau and Mike Brown was him being able to manage the personalities." — Mike Brown is a better manager of egos than Tom Thibodeau** [1:06:57](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4017s)
 
-https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=91s
+Paul Pierce: "I think the difference between Thibodeau and **Mike Brown** was him being able to manage the personalities. Because I think sometimes Thibodeau gets stuck on his ways. It's not a bad thing because he's a great coach. He can be stubborn. **Mikal Bridges** and the heart are just going to play 45 minutes and peace. He can get stuck in his ways and he's not as flexible a coach as Brown is. Not saying that Thibodeau is not, but I feel like Brown will listen to his players a little more and it's not his way or the highway sometimes. I feel like Thibodeau came off like that. And it's not a bad thing because he's been a successful coach, but I just think just managing the personalities, I think Brown was probably better at that."
 
-**4. Willie Cauley-Stein — "I feel like if I had already had money, I wouldn't have went to rehab." — Willie Cauley-Stein on why many athletes avoid seeking necessary help** [03:26](https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=206s)
+https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4017s
 
-Willie Cauley-Stein: "I feel like if I had already had money, I wouldn't have went to rehab. Because it was like I only went to rehab to try to integrate myself back into the league. I only went to rehab to try to get knowledge. That's when it hit me how I was supposed to go in there because I met some people that I could not attain my mentality to have today without going through what they were."
+**4. Danny Green — "It's not about when you get drafted, but where you get drafted, and who is developing you." — Player development and timing are crucial for NBA success** [1:08:43](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4123s)
 
-https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=206s
+Danny Green: "It's not about when you get drafted, but where you get drafted, and who is developing you. Some guys may not have a great career because they don't have great player development in the situation that he's in. Some guys may be way better than you expected because they had the right timing, like myself, being in San Antonio at that right time. If I stayed in Cleveland, I'm not getting 15 years in. That ain't happening. Being at the right place, learning from **Mike Brown**, **Tom Thibodeau**, being under the pop, any of the system, I might not make it, bro. Being with Spoelstra, like Spoelstra has made some other guys look great in the right time. Other places, they don't look as good. So fit is everything, not just with coaching, but players as well."
 
-**5. Willie Cauley-Stein — "the last the word she said to me was play hard bud" — Willie Cauley-Stein on his final conversation with his grandmother** [04:43](https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=283s)
+https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4123s
 
-Willie Cauley-Stein: "I had my last conversation with her over the phone and I never told her. She didn't know what I was going through. She didn't know I was going through the shit. But she was just like, the last the word she said to me was play hard bud. I started balling because I'm like, I can't even tell her that I might have never played ball again."
+**5. Paul Pierce — "What's the point of being in New York and having such a rich franchise if you can't just call Spoelstra?" — The Knicks should have been more aggressive in pursuing Erik Spoelstra** [1:09:26](https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4166s)
 
-https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=283s
+Paul Pierce: "I was down on **Mike Brown**. I just to me the Knicks, what they should have did is like what's the point of being in New York and having such a rich franchise if you can't just call Spoelstra and be like, 'Yo, name a number and we're going to make this, we're going to figure this out.' Because you we think you're the best coach in the NBA, we think we have a championship roster, we need you here with us. Not doing that to me felt like they were half-assing it. But at the same time, like after talking to a couple of my guys in New York media, they were just I was just like, 'Look, if **Mike Brown** is allowed to coach, he's going to do a good job.' Meaning if the players embrace what he brings, they allowed **Mike Brown** the freedom and the space to become this freaking coach."
 
-**6. Willie Cauley-Stein — "Doc Rivers chose DeAndre Jordan instead of bringing me back up." — Willie Cauley-Stein on Doc Rivers choosing DeAndre Jordan over him** [06:16](https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=376s)
-
-**Willie Cauley-Stein:** "I went to Philly after and **Doc Rivers** chose **DeAndre Jordan** instead of bringing me back up. And so that kind of the political part kind of plays a part. It's like, come on man, **DeAndre Jordan** is good, so we are going to pick him up. You had a chance to like pick me up for the playoffs and let me sit the bench but be back on integrated in this program."
-
-**Tony Allen:** "That shit not to spunk out of you."
-
-https://www.youtube.com/watch?v=_u_Q3qWMtFk&t=376s
+https://www.youtube.com/watch?v=CRoC0n1u49Y&t=4166s
 
 ---
 
