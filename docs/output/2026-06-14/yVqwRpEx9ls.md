@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-14
-
-## Knicks Win NBA Championship! + What's Next For Wemby, Spurs? — *Run It Back*
+# Knicks Win NBA Championship! + What's Next For Wemby, Spurs? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=yVqwRpEx9ls
 
@@ -35,7 +33,3 @@ https://www.youtube.com/watch?v=yVqwRpEx9ls&t=1690s
 **Chandler Parsons:** "They have to do both. They need a point guard who can manage the game and a wing defender. They cannot just rely on internal development anymore."
 
 https://www.youtube.com/watch?v=yVqwRpEx9ls&t=3600s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
