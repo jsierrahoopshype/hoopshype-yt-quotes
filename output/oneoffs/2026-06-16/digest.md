@@ -94,6 +94,64 @@ https://www.youtube.com/watch?v=VgIWu2a8u4o&t=1083s
 
 ---
 
+## Wolves draft, trades...and KAT | The Jon Krawczynski Show — *The Jon Krawczynski Show - Timberwolves Podcast*
+
+Source: https://www.youtube.com/watch?v=dAFLfw59Hus
+
+_Speakers identified: Jon Krawczynski, Jim Souhan_
+
+**1. Jon Krawczynski — "the Timberwolves really have it rolling right now in terms of the fan base, their popularity" — The Timberwolves' growing popularity and fan engagement** [00:53](https://www.youtube.com/watch?v=dAFLfw59Hus&t=53s)
+
+**Jon Krawczynski:** "I talked to some fans, John, who were leaving the Twins game saying, 'Oh man, tiny crowd. I guess it's not a big day for sports.' And then they walked up and they saw this line stretching all around Target Center for people to get in to look at a logo. The Wolves really have it rolling right now in terms of the fan base, their popularity, and it's just a blast to see."
+
+**Jim Souhan:** "Yeah, absolutely. I thought it was an unbelievable scene. There were more than 7,000 people in the arena for a uniform unveiling that most people already knew what the uniforms looked like because they had leaked online."
+
+https://www.youtube.com/watch?v=dAFLfw59Hus&t=53s
+
+**2. Jon Krawczynski — "Karl-Anthony Towns is a champion. He was an integral part of what the Knicks did" — Karl-Anthony Towns' performance and growth as a champion** [04:53](https://www.youtube.com/watch?v=dAFLfw59Hus&t=293s)
+
+**Jon Krawczynski:** "I can't believe we waited four minutes and 30 seconds to get to this topic. **Karl-Anthony Towns** is a champion."
+
+**Jim Souhan:** "He did not have a final game that was indicative of his playoff run. He got in foul trouble. One or two of the fouls might have been questionable, but that's just the way it was. But when you look at the entirety of his run, I believe his plus-minus was like 248, which is the highest in modern history, with just what he was able to do on and off. Percentage and better than **Steph Curry**, better than a lot of the legends in this game, and he was an integral part of what the Knicks did. And to see him have a chance to raise that trophy, to hug his fiancee and his dad, and think about all of the stuff that he's had to deal with, all of the nonsense and the suggestions of softness, he's overcome all of that. He matured his game, he got himself to a place where he was an incredibly important piece of one of the best playoff teams of all time."
+
+**Jon Krawczynski:** "It was also cool to see **Anthony Edwards** and him communicating with each other the way they did."
+
+https://www.youtube.com/watch?v=dAFLfw59Hus&t=293s
+
+**3. Jon Krawczynski — "the Wolves are one of the most dominant playoff teams in history, and they played brilliantly together" — The Timberwolves' potential as a dominant playoff team** [08:46](https://www.youtube.com/watch?v=dAFLfw59Hus&t=526s)
+
+**Jon Krawczynski:** "What do you take away from the way these playoffs went? I look at it and say, okay, listen, the Wolves are one of the most dominant playoff teams in history, and they played brilliantly together. They have great defense. They do so many things well, but it's not like they built a super team out of established superstars. They just played really good basketball. I almost feel like that gives the Wolves some hope."
+
+**Jim Souhan:** "I think it does, because first and foremost, the Knicks team that won this championship, all of them are 28, 29, 30 years old. They're all older guys. Josh Hart, Mikal Bridges, Karl-Anthony Towns, Jalen Brunson. They're all high 20s or early 30s. And I thought one thing that really shined through in this series against the Spurs was the Spurs played like a team that thought, 'This is easy, we'll be here again.' Some of the shot selection, some of the carelessness, some of the immaturity just in approach to the game, I think shine through for the Spurs. And then on the other side, I thought the Knicks, with all of their in their prime veterans who have all been through a whole lot of wars and ups and downs in this league, I think they played with an urgency that said, 'This may be our only chance.'"
+
+https://www.youtube.com/watch?v=dAFLfw59Hus&t=526s
+
+**4. Jon Krawczynski — "I would just be surprised if they stay at 28 and pick. Generally speaking, I don't know that they're going to draft a rookie that is going to come in and play and contribute quite a bit." — Timberwolves' draft pick strategy and trade possibilities** [16:07](https://www.youtube.com/watch?v=dAFLfw59Hus&t=967s)
+
+**Jon Krawczynski:** "What are the prospects of actually getting a player out of the draft? And could you see Tim Connelly doing something really aggressive the way he did when he went up to get **Rob Dillingham**?"
+
+**Jim Souhan:** "So when I look at this draft and I look at kind of how things are valued and what the Timberwolves need, they're sitting right now at the 28th pick. I would just be surprised if they stay at 28 and pick. Generally speaking, I don't know that they're going to draft a rookie that is going to come in and play and contribute quite a bit. And so to me, I see two options. I see trade the number 28 pick as part of a package for a veteran player, or if you get down to 28, maybe you trade down back into the second round and pick up some future assets for a team that wants to come up and get someone that they like."
+
+https://www.youtube.com/watch?v=dAFLfw59Hus&t=967s
+
+**5. Jon Krawczynski — "I don't think so anymore, Jim. There's been more and more signs coming out of Dallas that Kyrie is going to stay there." — The likelihood of a Kyrie Irving trade to Minnesota** [18:03](https://www.youtube.com/watch?v=dAFLfw59Hus&t=1083s)
+
+**Jon Krawczynski:** "Do you think **Julius Randle**, this first-round pick, maybe another future pick gets you **Kyrie Irving**?"
+
+**Jim Souhan:** "I don't think so anymore, Jim. There's been more and more signs coming out of Dallas that Kyrie is going to stay there. The Mavericks want Kyrie to play alongside Cooper Flagg, that Kyrie really enjoys being in Dallas, and that he wants to stay there. It did seem like he has found some kind of comfort and tranquility there, so that makes sense. And so, while I believe that if the Wolves were going to trade for **Kyrie Irving**, yes, like maybe it would be **Julius Randle** and a number one pick and something else to get Kyrie versus needing eight different pieces to get Giannis, I just think that that is looking more and more unlikely at this point."
+
+https://www.youtube.com/watch?v=dAFLfw59Hus&t=1083s
+
+**6. Jon Krawczynski — "the Chicago Bulls have hired Thiago Splitter to be their head coach, according to Shams Charania" — Mike Nori's head coaching prospects and the Chicago Bulls** [25:46](https://www.youtube.com/watch?v=dAFLfw59Hus&t=1546s)
+
+**Jon Krawczynski:** "So, **Mike Nori** is now finally a true head coaching candidate. We all knew this day would come. What are his prospects right now?"
+
+**Jim Souhan:** "Yeah, a little bit of breaking news just as we're recording this, Jim, that the Chicago Bulls have hired **Thiago Splitter** to be their head coach, according to Shams Charania. He's reporting that. And Splitter coached the Portland Trail Blazers last season, and **Mike Nori** is in the running for the Portland job as well. And so with Splitter out, I do think there is a really good chance for **Mike Nori** in Portland."
+
+https://www.youtube.com/watch?v=dAFLfw59Hus&t=1546s
+
+---
+
 ## NBA Insider explains why he doesn’t believe Giannis Antetokounmpo will end up on the Celtics — *NBC Sports Boston*
 
 Source: https://www.youtube.com/watch?v=sEuiMYiK8Us
@@ -221,6 +279,58 @@ https://www.youtube.com/watch?v=sEuiMYiK8Us&t=1146s
 Gary Washburn: "They need to get a more athletic wing as Brad said. They need to get more athletic. And I've asked a lot of people this, in your guys' opinion, who's the most athletic player in the Celtics? **Jordan Walsh** or Jaylen? And Jaylen is no longer the athlete he was seven, eight years ago, he's more physical."
 
 https://www.youtube.com/watch?v=sEuiMYiK8Us&t=1264s
+
+---
+
+## Pau Gasol y la llegada de la NBA a Europa: "Quiero tener un papel significativo" | MARCA — *MARCA*
+
+Source: https://www.youtube.com/watch?v=wrfZbAoS4dI
+
+_Speakers identified: Pau Gasol, Ruge, Sara Chemouli, Ruben, Xavi, Elena Tejero, Mickey Alcon, Carolina Castellet_
+
+**1. Pau Gasol — "nuestra intención y objetivo es tener una influencia y crear un impacto relevante que impacte de forma positiva" — Pau Gasol on the impact of the academy on young athletes** [17:15](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1035s)
+
+Pau Gasol: "Bueno, cuando tienes un proyecto de tanto recorrido, nuestra intención y objetivo es tener una influencia y crear un impacto relevante que impacte de forma positiva en la vida de estos participantes. A mí me llena de orgullo poder ver a chicos y chicas que han participado en cualquier edición, y sobre todo cuando son de las primeras, y aún recuerdo con cariño el impacto que tuvo en sus vidas esos días, esos momentos juntos."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1035s
+
+**2. Sara Chemouli — "es mucho más que una academia de baloncesto. Esperemos que esto sea algo que aporte valores" — Sara Chemouli on the importance of long-term relationships and values** [18:32](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1112s)
+
+Sara Chemouli: "Yo creo que hay que cuidar mucho de las relaciones a largo plazo y es mucho más que una academia de baloncesto. Esperemos que esto sea algo que aporte valores a todos los jóvenes que van a poder participar. Esos valores son el esfuerzo, el compromiso, el trabajo en equipo, y son cosas que os van a acompañar en el ámbito personal, pero también en el ámbito profesional. **Pau** es un ejemplo vivo de esto."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1112s
+
+**3. Pau Gasol — "los deportistas o personas que tenemos la suerte de tener un reconocimiento mediático o una responsabilidad pública" — Pau Gasol on the responsibility of being a professional athlete** [20:25](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1225s)
+
+Pau Gasol: "Siempre empecé a medida que iba avanzando mi carrera deportiva y veía el impacto que tenía y las interacciones que tenía con niños y niñas que empezaban a admirarme, siempre me dio un gran sentido de responsabilidad. Creo que los deportistas o personas que tenemos la suerte de tener un reconocimiento mediático o una responsabilidad pública, tenemos que entender que eso es un privilegio y que tenemos una oportunidad de tener un impacto que va mucho más allá de nosotros."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1225s
+
+**4. Ruben — "Eras consciente del impacto que tenías fuera de las canchas, de que había niñas y niños" — Ruben asks Pau Gasol about his impact on young players** [19:59](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1199s)
+
+**Ruben:** "**Pau**, tengo una curiosidad que siempre me he guardado. Cuando estabas en plena carrera, con viajes constantemente y partidos cada semana, eras consciente del impacto que tenías fuera de las canchas, de que había niñas y niños que te miraban y pensaban: de grande quiero ser como él?"
+
+**Pau Gasol:** "Bueno, sí, siempre empecé a medida que iba avanzando mi carrera deportiva y veía el impacto que tenía y las interacciones que tenía con niños y niñas que empezaban a admirarme, siempre me dio un gran sentido de responsabilidad."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1199s
+
+**5. Mickey Alcon — "parte de la clave es la familia que hemos creado alrededor de la Pau Gasol Academy" — Mickey Alcon on the importance of creating a community around the academy** [26:17](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1577s)
+
+Mickey Alcon: "Yo creo que al final parte de la clave es la familia que hemos creado alrededor de la **Pau** Gasol Academy by Santander. Es importante que un número muy alto de entrenadores que vienen cada año quieren repetir, de año tras año ya nos van diciendo: oye, contar conmigo 100% que voy a querer volver. Es un trabajo que como decíamos y como también comentaba antes **Sara**, llevamos todo el año nosotros trabajando en esto, con la gran implicación de **Laya**, de **Cristina**, del equipo de **Pau** directamente y por supuesto de nuestro capitán."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=1577s
+
+**6. Pau Gasol — "veo que va a ser una final difícil, una final dura, con dos equipos que llegan" — Pau Gasol previews the upcoming Barcelona vs. Valencia final** [41:16](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=2476s)
+
+Pau Gasol: "Bien, primero muy contento de que el Barça esté en esta final, y bueno, pues veo que va a ser una final difícil, una final dura, con dos equipos que llegan en buen, en buen momento de juego. Tanto Valencia como Barça han ganado sus respectivas semifinales 3-0, que son resultados bastante contundentes, aunque yo creo tampoco reflejan quizás, no, creo que el Juventud sobre todo pues ha competido muy bien durante toda la, toda la serie, estuvo muy cerca de ganar sobre todo el primer partido."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=2476s
+
+**7. Pau Gasol — "la situación actual yo creo que está en vías de proceso y en vías de avanzar" — Pau Gasol on the current state of European basketball and the EuroLeague** [42:45](https://www.youtube.com/watch?v=wrfZbAoS4dI&t=2565s)
+
+Pau Gasol: "La situación actual yo creo que está en vías de proceso y en vías de avanzar y espero que podamos tener pues claridad en los en las próximas semanas de cómo de cómo va a ser eh pues bueno esta relación o no digamos con con la presente Euroliga y la definición del del del comienzo del proyecto, no? Yo creo que al final todos estamos un poco pendientes de de las personas que un poco deciden la dirección y el cómo, sobre todo del cómo, del cómo empezar, porque al final es es empezar y luego tiene esto se plantea como un proyecto de largo recorrido para lo que es una mejora importante de de la gestión y el estado de nuestro deporte del baloncesto en Europa."
+
+https://www.youtube.com/watch?v=wrfZbAoS4dI&t=2565s
 
 ---
 
