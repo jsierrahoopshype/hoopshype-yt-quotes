@@ -3,7 +3,7 @@ HoopsHype YouTube quote extractor — production pipeline.
 
 Polls NBA YouTube channels via the YouTube Data API v3, filters out Shorts,
 recaps, highlights, and short videos, then sends each remaining video to
-Gemini 2.5 Flash and saves the top 12 quotes as markdown + raw JSON.
+Gemini and saves the strongest quotes as markdown + raw JSON.
 
 Usage (from repo root):
     python quote_extractor.py
@@ -43,14 +43,15 @@ NEWS VALUE: When ranking quotes for inclusion, prefer quotes that contain news (
 
 Hard rules — these are limits, not targets:
 
-- LENGTH: Use whatever length captures the speaker's complete thought. Some quotes are 30 words (a single punchy line); others reach 250 words (a full argument built across a minute of speech). DO NOT force quotes toward a target word count, and DO NOT trim a coherent multi-sentence argument just to keep it short. The selection bar is "is this quote editorially compelling?" — not "is this quote the right length?". Hard upper bound: 280 words per quote (anything longer gets split into sub-quotes downstream).
+- LENGTH: Capture the speaker's FULL thought, including the setup, the supporting reasoning, and the conclusion — not just the punchline. Err on the side of LONGER quotes. A good quote usually runs 80-200 words: enough to include why the speaker thinks what they think, not just the headline claim. Short 20-40 word quotes should be rare, reserved for genuinely punchy standalone lines. When a speaker builds an argument across several sentences, keep the whole arc together as ONE quote rather than clipping it to the strongest sentence. Hard upper bound: 280 words (longer gets split downstream). The most common length mistake is quoting too little — including the claim but dropping the reasoning that makes it editorially valuable.
 - PLAYER NAMES: Use standard NBA reporting spellings for player and team names. Examples: Mikal Bridges (not Michael), Karl-Anthony Towns or KAT (not Cat), Scottie Barnes (not Burns), Jrue Holiday, Donovan Mitchell, Mikael Pereira, Tyrese Maxey, Cade Cunningham, Jalen Brunson, Jaylen Brown, Jayson Tatum. Apply this to all player names across the league.
 - ONE TOPIC PER QUOTE (WITHIN): Each individual quote must stay on a single subject — one player, one team, one story, one argument. If a speaker pivots within their answer to a new player or team or argument, that pivot is a new quote with its own rank and timestamp. Do not merge two topics into one quote.
-- DO NOT use this rule to cap how many quotes one player appears in. A speaker discussing Anthony Edwards' shot selection in one segment AND Anthony Edwards' need for a ball-handler in a different segment is TWO substantively different quotes (one is player development, one is roster need). Extract both. The rule is about not bundling, not about quota-per-name.- CONTIGUOUS QUOTES ONLY: Each quote must be a single uninterrupted span of speech from one speaker (or, for dialogue, from two speakers exchanging contiguously). Do NOT join non-adjacent passages. Do NOT skip middle content and rejoin opening and closing fragments. Do NOT condense a long monologue by cutting the middle. If a passage is too long to quote in full, return a shorter contiguous excerpt of it (start at point X, end at point Y, both inside the same continuous speech segment) — never fabricate continuity by stitching separated text together. For multi-speaker quotes (text_blocks), each speaker's contribution within their block must also be contiguous — do not stitch a speaker's earlier and later statements into one block. Example —
+- DO NOT use this rule to cap how many quotes one player appears in. A speaker discussing Anthony Edwards' shot selection in one segment AND Anthony Edwards' need for a ball-handler in a different segment is TWO substantively different quotes (one is player development, one is roster need). Extract both. The rule is about not bundling, not about quota-per-name.
+- CONTIGUOUS QUOTES ONLY: Each quote must be a single uninterrupted span of speech from one speaker (or, for dialogue, from two speakers exchanging contiguously). Do NOT join non-adjacent passages. Do NOT skip middle content and rejoin opening and closing fragments. Do NOT condense a long monologue by cutting the middle. If a passage runs past the 280-word cap, return a contiguous excerpt of it (start at point X, end at point Y, both inside the same continuous speech segment) — never fabricate continuity by stitching separated text together. For multi-speaker quotes (text_blocks), each speaker's contribution within their block must also be contiguous — do not stitch a speaker's earlier and later statements into one block. Example —
   BAD (stitches non-adjacent passages from the same long monologue): "I think the Knicks have a real shot this year because Brunson is just on another level... and that's why I'd take them over the Cavs in a seven-game series."
   (Between those two sentences the speaker actually talked for 3 minutes about Mikal Bridges, Karl-Anthony Towns, and the coaching staff — none of which appears in the quote above.)
-  GOOD (one short contiguous span): "I think the Knicks have a real shot this year because Brunson is just on another level. Look at what he did in Game 5 — 41 points, the closing stretch, the way he got to the rim. That's the kind of run no one was projecting from him this season."
-- MONOLOGUES: When a speaker delivers a 3-5 minute monologue covering several subjects (e.g. a series recap, a coaching firing, and a contract take all in one breath, common on NBA podcasts), do NOT include the full monologue. Extract the strongest 1-2 standalone takes from it as separate quotes, each scoped to one subject AND contiguous within that subject.
+  GOOD (one contiguous span): "I think the Knicks have a real shot this year because Brunson is just on another level. Look at what he did in Game 5 — 41 points, the closing stretch, the way he got to the rim. That's the kind of run no one was projecting from him this season."
+- MONOLOGUES: When a speaker delivers a long multi-subject monologue, split it by SUBJECT (one quote per player/team/story per the ONE TOPIC rule), but within each subject keep the speaker's full treatment of that subject — the setup, reasoning, and conclusion — as one substantial quote. Do not reduce a rich two-minute take on a single subject down to one sentence. Each subject-scoped quote should be as long as the speaker's actual continuous argument on that subject, up to the 280-word cap.
 
 How many quotes to return — TARGET DENSITY, not a ceiling. THE MOST COMMON FAILURE MODE IS UNDER-EXTRACTION: missing strong quotes by being too selective. Lean toward inclusion whenever content is editorially worthwhile.
 
@@ -1707,7 +1708,7 @@ def process_video(
                 merged["speakers_seen"].append(s)
         merged["quotes"].extend(d.get("quotes") or [])
 
-    # Post-process: split, dedupe, cap at MAX_QUOTES_AFTER_SPLIT=20
+    # Post-process: split, dedupe, cap at MAX_QUOTES_AFTER_SPLIT
     # (across all chunks combined).
     merged["quotes"] = post_process_quotes(client, merged["quotes"])
 
