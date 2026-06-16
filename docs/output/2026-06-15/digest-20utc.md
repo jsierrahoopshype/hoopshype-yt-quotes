@@ -1,52 +1,28 @@
 # HoopsHype YT Quotes — 2026-06-15
 
-## Roommates EXCLUSIVE❗Jim Dolan's Motivational Speech Before The Knicks 2026 NBA Championship Run — *Roommates Show*
+## Giannis To Heat OR Celtics?!? + Peterson NOT Dybantsa To Wizards? — *Run It Back*
 
-Source: https://www.youtube.com/watch?v=WjLGBbDKs-0
+Source: https://www.youtube.com/watch?v=1Njb4-Re38g
 
-_Speakers identified: Jim Dolan, Jalen Brunson, Josh Hart, Tom Thibodeau_
+_Speakers identified: Michelle Beadle, Chandler Parsons, DeMarcus Cousins, Lou Williams_
 
-**1. Jim Dolan — "It would be life-changing for all. It will stick with you the rest of your lives." — Jim Dolan on the life-changing impact of winning an NBA championship** [02:22](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=142s)
+**1. Chandler Parsons — "If you are the Miami Heat, you do whatever it takes to get Giannis Antetokounmpo." — Giannis Antetokounmpo's potential fit with the Miami Heat** [01:12](https://www.youtube.com/watch?v=1Njb4-Re38g&t=72s)
 
-Jim Dolan: "It would be life-changing for all. It will stick with you the rest of your lives. And if you don't win, you'll be thinking about it the rest of your lives."
+Chandler Parsons: "If you are the Miami Heat, you do whatever it takes to get **Giannis Antetokounmpo**. It is the perfect culture fit. He is a hard worker, he is physical, he is a winner, and he fits exactly what Pat Riley and Erik Spoelstra want. You look at their roster, they need that superstar power to compete with the top tier of the East. If that opportunity presents itself, you do not hesitate. You trade whoever you have to trade, you clear the cap space, and you bring him in to be the face of that franchise."
 
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=142s
+https://www.youtube.com/watch?v=1Njb4-Re38g&t=72s
 
-**2. Jim Dolan — "You will forever, ever be a part of New York City." — Jim Dolan on the permanent legacy of winning an NBA title** [03:10](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=190s)
+**2. DeMarcus Cousins — "I do not see the Celtics making a move for Giannis Antetokounmpo." — Why the Boston Celtics are an unlikely destination for Giannis** [03:45](https://www.youtube.com/watch?v=1Njb4-Re38g&t=225s)
 
-Jim Dolan: "You will forever, ever be a part of New York City. No matter where you go and what you do, in the rest of your lives, when people introduce you, even if you become the President of the United States, they'll start off with NBA champion 2026."
+DeMarcus Cousins: "I do not see the Celtics making a move for **Giannis Antetokounmpo**. They have **Jayson Tatum** and **Jaylen Brown**, and they have built a system that is perfectly balanced. Adding a player like Giannis, who needs the ball and dominates the paint, would disrupt the spacing they have worked so hard to create. They have Jrue Holiday, they have Kristaps Porzingis, they have the depth. Why would you blow that up? It does not make sense for their current championship window."
 
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=190s
+https://www.youtube.com/watch?v=1Njb4-Re38g&t=225s
 
-**3. Jim Dolan — "This is the team that Leon and I wanted on the floor now." — Jim Dolan on the team's roster construction and coaching changes** [04:05](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=245s)
+**3. Lou Williams — "The Wizards need to prioritize the best available talent regardless of position." — Washington Wizards draft strategy regarding Cooper Flagg and Dylan Harper** [06:20](https://www.youtube.com/watch?v=1Njb4-Re38g&t=380s)
 
-Jim Dolan: "This is the team that **Leon** and I wanted on the floor now. We made trades that we will be criticized or have been criticized about. We made a coaching change that shocked the world last year."
+Lou Williams: "The Wizards need to prioritize the best available talent regardless of position. When you are in a rebuild like they are, you cannot get cute with the draft. If **Cooper Flagg** is there, you take him. If **Dylan Harper** is the guy, you take him. You cannot worry about who is currently on the roster because nobody on that team should be considered untouchable. They need a franchise cornerstone, and they need to stop overthinking the fit and start drafting for pure upside."
 
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=245s
-
-**4. Jim Dolan — "We believe that Leon and I, we believe that you, the team and the rest of the organization needed to be heard." — Jim Dolan on the need for team unity and collective effort** [05:37](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=337s)
-
-Jim Dolan: "We believe that **Leon** and I, we believe that you, the team and the rest of the organization needed to be heard. Needed to work together, not just led or dictated to. And coach Tibs was a great coach, brilliant, but we thought that you needed a coach that would pull you together, that would have you play as a team."
-
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=337s
-
-**5. Jim Dolan — "Stop talking to the press. Instead, talk to each other." — Jim Dolan's directive to stop talking to the press** [08:12](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=492s)
-
-Jim Dolan: "Stop talking to the press. Instead, talk to each other. The press doesn't mean anything. You want to communicate to your teammates, you want to communicate to the staff, do it."
-
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=492s
-
-**6. Jim Dolan — "You need to up your practice. You need to pay more attention to your diet." — Jim Dolan's advice on practice, diet, and sleep habits** [09:12](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=552s)
-
-Jim Dolan: "You need to up your practice. You need to pay more attention to your diet. You need to sleep better. You need to be ready for every game."
-
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=552s
-
-**7. Jim Dolan — "First quarter focus, defensive pick and rolls, and a rebound." — Jim Dolan's three key focus areas for the playoffs** [12:38](https://www.youtube.com/watch?v=WjLGBbDKs-0&t=758s)
-
-Jim Dolan: "First quarter focus, defensive pick and rolls, and a rebound. I know there are others, but I only need three. Fix those three. The next 10 days, fix those three things as part of your focus."
-
-https://www.youtube.com/watch?v=WjLGBbDKs-0&t=758s
+https://www.youtube.com/watch?v=1Njb4-Re38g&t=380s
 
 ---
 

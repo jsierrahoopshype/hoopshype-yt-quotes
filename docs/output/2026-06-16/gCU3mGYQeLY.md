@@ -1,0 +1,55 @@
+# Ben Stiller Says Directing Hollywood Is LESS Stressful Than Watching The Knicks — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=gCU3mGYQeLY
+
+_Speakers identified: Allie Clifton, Kendrick Perkins, Ben Stiller_
+
+**1. Ben Stiller — "The energy around New York, explain that to us and the world for what the Knicks have done." — Ben Stiller on the Knicks' energy and championship run** [00:55](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=55s)
+
+Ben Stiller: "The energy around New York, explain that to us and the world for what the Knicks have done for us, the energy it's brought for us winning the championship. It's a beautiful day, New York City, the sun is shining, it's June. Everywhere, I've been walking around the city this morning and literally, just total strangers on the street, I'm high-fiving, hugging, go Knicks, Knicks in five, we did it. It's literally, I feel like I'm in a movie musical or something, you know, everything is just like breaking out. I've never been, I mean, you know, years of therapy bills, all I needed was the Knicks to win to make me happy."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=55s
+
+**2. Ben Stiller — "This team is not like those other Knicks teams where they would always this team has figured out." — Ben Stiller on the Knicks' Game 4 comeback and team resilience** [03:39](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=219s)
+
+**Kendrick Perkins:** "Describe Game 4. **OG Anunoby** with the block, the epic comeback, the tip-in for the game winner. What was going through your mind? Tell us how was **Ben Stiller** feeling in Madison Square Garden in those moments?"
+
+**Ben Stiller:** "The beginning of the game, after Game 3, I think there was, it was like, okay, how do we get the vibes right for Game 4 because that had its own vibe that was so crazy in its own way. That Game 4 then became incredibly important obviously for the team. So, I think everyone was feeling like, all right, we got Game 3 out of the way, now let's go. New energy, new vibes. And that was the feeling going in. Everyone felt super excited. And then right off the bat, it started to not go well. And it was surreal too, because you were like, wait a minute, what's happening here? Okay, okay, let's adjust. We know how to adjust. It's, oh man, we're doing the same thing we've done in these other games. Why do we always get behind? But we're not going to do that again. And then we did that again, and then it got, it was getting worse and worse. And I think gradually over that first half, it was just sort of like people were just sort of like dumbfounded, didn't know really what, because it was happening really fast. And I got disheartened, I have to say, as a fan."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=219s
+
+**3. Ben Stiller — "When Wu-Tang came out, I felt for the Wu-Tang Clan there because they were, they were, but they took it on themselves." — Ben Stiller on the Knicks' resilience and the Wu-Tang Clan** [06:03](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=363s)
+
+Ben Stiller: "When Wu-Tang came out, I felt for the Wu-Tang Clan there because they were, they were, but they took it on themselves to go, okay, you know what, Knicks in five, right? Knicks in five, he said at the end. It was like, that was the lowest moment and those guys were like, okay, we're here, come on, this isn't the end of the world, let's go. We're the Knicks. And, you know, in the third quarter, we just like started to like slowly, you know, chip away, but I personally, if I'm being honest, was holding back because it was like, oh, this is such a, this is so, this lead is so big. And yes, we had the Cleveland, the first Cleveland game, and we knew we could do it, but are we really going to be able to do that again? And until we got within four, for me personally, was when I started to think, okay, okay, we're in this game."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=363s
+
+**4. Ben Stiller — "As a fan, you're totally out of control. You can't do anything about it." — Ben Stiller on the stress of directing versus watching the Knicks** [10:43](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=643s)
+
+Ben Stiller: "No question, watching a Knicks game in the fourth quarter. I mean, first of all, when you're directing, you can do it over and over again. You get it right, and you get to the good part. But what he said was, like, as a fan, you're totally out of control. You can't do anything about it. You're just watching and hoping. And for the players, they're just in the moment doing their job and doing, as he said, all the work that goes into it, so it's automatic and you're just playing the game."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=643s
+
+**5. Ben Stiller — "Jaylen Brunson, what? From Dallas, got coming off averaging 16 points, and all of a sudden he comes and saved the day." — Ben Stiller on Jaylen Brunson's impact and leadership** [13:25](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=805s)
+
+Ben Stiller: "They signed **Jaylen Brunson**, and a lot of media people went crazy. **Jaylen Brunson**, what? From Dallas, got coming off averaging 16 points, and all of a sudden he comes and saved the day. And by the way, I call him Big Body Brunson. I gave him the nickname. But so, right, so, thoughts that were going to your head to how you feel about him now, Finals MVP, NBA champion. Yeah, when we signed him, I have to admit, I didn't, I didn't know that much about him. I'm a basketball fan, I'll admit I'm, you know, I follow the Knicks closer than I follow most other teams. I enjoy NBA basketball, but I wasn't, I wasn't educated on **Jaylen Brunson**. So I was like, okay, all right. Okay, this is interesting. They must, you know, Leon Rose, by the way, I believe knows what he's doing and has showed that. So I was like, all right, if they believe in this guy, then this will be interesting, let's see what happens."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=805s
+
+**6. Ben Stiller — "To watch that develop and to watch him get us closer and closer every year, it was I started to just really love what he was about." — Ben Stiller on Jaylen Brunson's development and work ethic** [15:13](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=913s)
+
+Ben Stiller: "If you really look at him, you know, he's such a winner, his whole career. But yet the guy who every is underrated, but yet always was winning. To watch that develop and to watch him get us closer and closer every year, it was I started to just really love what he was about because I felt like, oh god, this guy is a guy who just like puts his head down and goes to work. And that's, I think, as a fan, that's all you can ask for, right? You don't want to read headlines about your best player doing crazy shit. And all that off the court stuff, it's like, or the NBA, like, of these guys are superstars, and so you never know what. And when Cat came, my first, like, I was like literally like crossing my fingers like I just hope Cat and Jaylen get along. I hope, you know, because here's a guy who's had, you know, who's like number one draft pick, like, you know, Cat is is the man coming here. He didn't seem like he didn't even, it came out of the blue, he was and all of a sudden he's in New York and he's got to work with Jaylen and all I was I was literally like watching videos of practices, like do they are they smiling at each other? Are they talking to each other?"
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=913s
+
+**7. Ben Stiller — "So, to see them figure that out together, and you hear it when you hear them talk in interviews about what the relationship that's developed between the two of them." — Ben Stiller on the chemistry between Jaylen Brunson and Karl-Anthony Towns** [17:01](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=1021s)
+
+Ben Stiller: "So, to see them figure that out together, and you hear it when you hear them talk in interviews about what the relationship that's developed between the two of them, this, you know, they've gotten to know each other, they've kind of figured it out together. And then, so, so for **Jaylen Brunson**, for me, it's just this depth of appreciation as a fan. I love how he carries himself, I love his approach, I love his sense of humor. I think all these guys have such a great sense of humor and are so relatable. And, you know, as I relate it back to growing up as a Knicks fan, you know, as an eight-year-old or 10-year-old in 1975, I remember those guys, you know, the personalities of those guys, of Phil Jackson and, you know, Willis Reed and Clyde. They all had like specific personalities and, and you related to them. And I feel like now, at this point of my life, I'm relating to these guys, you know, you know, as a guy who's much older than, but like the same way as a kid, I related to those Knicks in the in the 70s."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=1021s
+
+**8. Ben Stiller — "I cannot fucking record and enjoy the game." — Ben Stiller on the challenge of filming and watching games** [19:39](https://www.youtube.com/watch?v=gCU3mGYQeLY&t=1179s)
+
+Ben Stiller: "I cannot fucking record and enjoy the game. And I was just amazed because you had some of the best footage out of anybody I've ever seen recording the game and trying to enjoy it. Well, thank you. Two things I would say to that. One, it's where I'm allowed to sit. I have a great, so like that's the main thing. Anybody with a camera there is going to have a great viewpoint. Second, editing. There's a lot of, there's a lot of shots that are like, whoa, you know, and they're like shots of my crotch or whatever, you know, it's like you don't want that. So, because I get caught up in the game, and, right, and, so I literally just pick, pick the good ones to put out there in the world."
+
+https://www.youtube.com/watch?v=gCU3mGYQeLY&t=1179s

@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-15
-
-## Giannis To Heat OR Celtics?!? + Peterson NOT Dybantsa To Wizards? — *Run It Back*
+# Giannis To Heat OR Celtics?!? + Peterson NOT Dybantsa To Wizards? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=1Njb4-Re38g
 
@@ -23,7 +21,3 @@ https://www.youtube.com/watch?v=1Njb4-Re38g&t=225s
 Lou Williams: "The Wizards need to prioritize the best available talent regardless of position. When you are in a rebuild like they are, you cannot get cute with the draft. If **Cooper Flagg** is there, you take him. If **Dylan Harper** is the guy, you take him. You cannot worry about who is currently on the roster because nobody on that team should be considered untouchable. They need a franchise cornerstone, and they need to stop overthinking the fit and start drafting for pure upside."
 
 https://www.youtube.com/watch?v=1Njb4-Re38g&t=380s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
