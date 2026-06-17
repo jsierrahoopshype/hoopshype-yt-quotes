@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-16
-
-## LeBron Returning To Lakers? + Iman Shumpert Joins! — *Run It Back*
+# LeBron Returning To Lakers? + Iman Shumpert Joins! — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=OTCyr75hwqQ
 
@@ -31,7 +29,3 @@ https://www.youtube.com/watch?v=OTCyr75hwqQ&t=500s
 **Lou Williams:** "Absolutely. When you are in a market like Los Angeles, there is no patience for rebuilding. They have to win now, and if they don't, the coaching staff and the front office are going to be under the microscope."
 
 https://www.youtube.com/watch?v=OTCyr75hwqQ&t=730s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
