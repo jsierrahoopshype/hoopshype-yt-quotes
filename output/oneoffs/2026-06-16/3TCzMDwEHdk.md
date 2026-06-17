@@ -1,0 +1,65 @@
+# Mikal Bridges On The Dan Patrick Show Full Interview | 6/16/26 — *Dan Patrick Show*
+
+Source: https://www.youtube.com/watch?v=3TCzMDwEHdk
+
+_Speakers identified: Dan Patrick, Mikal Bridges_
+
+**1. Mikal Bridges — "just take it one possession at a time and that's what we did" — Mike Brown's advice to the Knicks during the Finals** [00:33](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=33s)
+
+**Dan Patrick:** "Let me go back to Game 4 when you're down 29. What's **Mike Brown** say to you guys?"
+
+**Mikal Bridges:** "Just one possession at a time. That's pretty much it and just keep chopping at it. You can't get it back on one possession. So just take it one possession at a time and that's what we did."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=33s
+
+**2. Mikal Bridges — "they're a really good young team and they're just going to keep fighting to the end" — Mikal Bridges on the Spurs' fatigue in the Finals** [00:52](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=52s)
+
+**Dan Patrick:** "I was talking to **Tim Legler** about this last hour. I said, you know, the Spurs are a young team, but they seemed really tired at the end of all of those games. Why is that? Younger guys should be in great shape, but it felt like you guys had a different gear."
+
+**Mikal Bridges:** "I guess you saw that. I didn't see that. I couldn't tell if they were tired or not. They're a really good young team and maybe coming off that Game 7 against OKC. But personally, I didn't think they were tired, but they're a really good young team and they're just going to keep fighting to the end."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=52s
+
+**3. Mikal Bridges — "skill and footwork and like elite shot making" — Mikal Bridges on Jalen Brunson's playing style** [01:31](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=91s)
+
+**Dan Patrick:** "If somebody had never seen **Jalen Brunson** play, how would you describe his style?"
+
+**Mikal Bridges:** "Skill, skill and footwork and like elite shot making. So that's my three right there."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=91s
+
+**4. Mikal Bridges — "he started as a freshman on a championship team" — Mikal Bridges on Jalen Brunson's early career at Villanova** [02:35](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=155s)
+
+**Dan Patrick:** "**Jay Wright** joined us yesterday and coach said that you guys made fun of Jalen when he was the preseason NIT MVP as a freshman and you guys were making fun of him that he was trying too hard to be the MVP when according to coach, you guys felt like anybody could have been the MVP."
+
+**Mikal Bridges:** "I don't know. I wasn't really tripping. I was young at that time too. I was just trying to make sure I didn't mess up on that court. I was really worried about that. But he started as a freshman on a championship team. With **Jay Wright** as a coach, that's not easy to do. Just him going out there, fighting every single day in the summer sessions, and then coming to our first preseason, you could see the skill and the toughness he had right away."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=155s
+
+**5. Mikal Bridges — "it was one of the toughest years of my life" — Mikal Bridges on redshirting his freshman year at Villanova** [03:07](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=187s)
+
+**Dan Patrick:** "He talked about you came in as a skinny kid and you'd go one-on-one with **Josh Hart** all the time and that first year or that redshirt seemed to really change life for you. What did you learn when you have to sit and watch everybody play?"
+
+**Mikal Bridges:** "It was tough. It was one of the toughest years of my life, going on playing basketball every single year and then you finally get to college and now you're told you have to sit out a whole year when you're completely healthy. So that was tough because you want to play and be out there and the excitement from going to Division I and you've got your family and friends. But halfway through is where it started to click for me. I felt myself getting stronger, I felt myself getting better where I was just like, okay, this is the best thing for me."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=187s
+
+**6. Mikal Bridges — "it seemed like him coming over here was getting outside his comfort zone a little bit" — Mikal Bridges on James Dolan's speech to the Knicks** [05:06](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=306s)
+
+**Dan Patrick:** "Take me back when **James Dolan** addressed the team prior to the playoffs. Like he gave you guys his speech?"
+
+**Mikal Bridges:** "It was great because you get kind of, you know, it seemed like him coming over here was getting outside his comfort zone a little bit. I think he pretty sure he let **Leon Rose** get our coaches and let them kind of talk to the team. That's he kind of let like the players and the coaches and the GM over there. And obviously he'll say his words when he sees us. But I think he got out of his comfort zone for the packs pretty much that whole year because even in the preseason he had a speech. He talked to us, we was at dinner as a whole team. It was really cool to see. And I appreciate him so much for that."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=306s
+
+**7. Mikal Bridges — "they say I lock people up on defense" — Mikal Bridges on his nickname 'The Warden'** [06:46](https://www.youtube.com/watch?v=3TCzMDwEHdk&t=406s)
+
+**Dan Patrick:** "So when did you get a nickname the Warden? Is that true?"
+
+**Mikal Bridges:** "Yeah, when I was in Phoenix, fans used to call me that. That was funny. I always like the Warden, it's just hilarious. I don't think I got nicknames that, I mean, I don't call myself no nickname or anything, but that was pretty cool just like."
+
+**Dan Patrick:** "Wait, but why are you the Warden?"
+
+**Mikal Bridges:** "Because they say I lock people up on defense."
+
+https://www.youtube.com/watch?v=3TCzMDwEHdk&t=406s
