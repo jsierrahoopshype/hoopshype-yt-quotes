@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-17
-
-## “Your Ass Never Was An Athlete Then” — Perk Responds To Vince Goodwill — *Road Trippin*
+# “Your Ass Never Was An Athlete Then” — Perk Responds To Vince Goodwill — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=2vf4qDJNyOw
 
@@ -33,7 +31,3 @@ https://www.youtube.com/watch?v=2vf4qDJNyOw&t=256s
 Kendrick Perkins: "He got mad at me because he heard me on the show say, hey man, this is going to be **Victor Wembanyama**'s biggest test before the finals started, defensively. And he was like, Perk, what you mean? I said what I said. It's going to be his biggest test of his career defensively. And what did **Karl-Anthony Towns** do in Game 1 and Game 2? Cooked his ass. They had to hide him. What did **Jalen Brunson** do in Game 4? Picked on him, put him in action 21 times. No, not you, not you, you, you bring your big ass up here and let me go to work on you."
 
 https://www.youtube.com/watch?v=2vf4qDJNyOw&t=406s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
