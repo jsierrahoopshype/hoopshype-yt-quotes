@@ -1,0 +1,55 @@
+# The No. 1 Pick Who Made ONLY $40K + Why Kelsey Plum Is The Best Guard In The Game — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=aC-PG5Uik1o
+
+_Speakers identified: Allie Clifton, Jordan Robinson, Ryan Ruocco, Lindsey Harding, Kelsey Plum_
+
+**1. Ryan Ruocco — "we have just seen a completely different level of offensive rhythm for the Indiana Fever" — Indiana Fever's offensive improvement due to pick-and-roll usage** [01:35](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=95s)
+
+Ryan Ruocco: "I was watching the Fever early on this season, and I think we could all tell things were just a little clunky with their offense. You look at Caitlin, Aliyah, and Kelsey, beyond anything else, and you are saying, well, obviously they should be a great offensive team. Even if I don't think they've really perfected what they need at the four for their roster and for their offense, regardless, those three players are enough. You should have a lot of flow offensively. To me, it just didn't feel like they were running enough pick-and-roll with **Caitlin Clark** and **Aliyah Boston**. And over the last few games, granted, some of these games not against the best opponents, but over the last few games, we have just seen a completely different level of offensive rhythm for the Indiana Fever. And I always think **Sophie Cunningham** and the opportunity she gets is a bellwether for whether or not their team is in flow and in rhythm offensively."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=95s
+
+**2. Ryan Ruocco — "Kelsey Plum has to be at the top of the list right now. She is having right now one of the greatest seasons ever by a guard" — Kelsey Plum's MVP-caliber season for the Las Vegas Aces** [05:18](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=318s)
+
+Ryan Ruocco: "I'll be surprised if **A'ja Wilson** isn't the front-runner for MVP come the end of the season as she's once again having an MVP season for a team that has the best record or tied for the best record in the WNBA. But if we were expanding the conversation, **Kelsey Plum** has to be at the top of the list right now. She is having right now one of the greatest seasons ever by a guard in this league's history. She missed a little bit of time, but she's averaging 25 points per game on over 50% from the floor, over 40% from three. Throw in the assists as well. I mean, she's been absurd. This is an LA team that is probably just a little short talent-wise when it comes to true contenders if you look at the totality of the roster. But if you think about just what Kelsey is doing, she is performing about as well and about as efficiently as any guard we have ever seen in this league's history."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=318s
+
+**3. Ryan Ruocco — "Juju can come out, Hannah Hidalgo, Madison Booker, Mikaylah Williams, all of these players could be number one picks" — Houston Comets' potential as an expansion team** [08:52](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=532s)
+
+Ryan Ruocco: "Not only do they have this infrastructure that already exists organizationally with the Rockets and whoever may come over from Connecticut, but also the fan base that's there. Historically, what they've done, the fact that their dynasty really set the table for this league and kind of looms over all great teams in this league. But also, expansion teams, they don't get in the lottery in year one. We saw with Toronto, we saw with Portland, we saw with Golden State, they pick outside the lottery. Because this is relocation, they're going to have the Connecticut Sun pick. And the Sun are dreadful this year, partly by design. That is going to lay the foundation for the Houston Comets with all the fanfare in their return to have a top pick in what is going to be a historic draft class. Juju can come out, **Hannah Hidalgo**, **Madison Booker**, **Mikaylah Williams**, amongst others, all of these players could be number one picks if they weren't in the same draft class. Booker and Juju, I think, historic number one picks. So, think about the Houston Comets kind of reigniting the fire of that franchise and doing so with a **Juju Watkins**, right, or a **Madison Booker**, or a **Hannah Hidalgo**. I mean, that is prime talent."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=532s
+
+**4. Lindsey Harding — "I was in number one pick making $40,000. That's insane. $40,000 number one pick" — Lindsey Harding on the financial growth of the WNBA** [17:33](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=1053s)
+
+Lindsey Harding: "Money. Like, I was in number one pick making $40,000. That's insane. $40,000 number one pick, right? That's why we went to Europe and made a whole bunch more in Europe. That's why we went over there. But you have this dream, it's something that you've always wanted to do, and here's your check, you know? You get endorsements here and there, but it's like here's your nice little check. So, it's like really for the love and really growing it. And I remember some of the I remember **Nancy Lieberman** telling me this. She was like, you're a pioneer. And I remember thinking, I'm 21, 22, what are you talking about? I'm in the W now. And she's like, trust me, like you're a pioneer in this. Because I looked at her as like a pioneer, and they're like, I am? But you are. I'll never forget her telling me this. And now seeing where the league is now and seeing what a second-round draft pick can make, right, and seeing all of these things, I'm so happy. Like, I am I am so happy that these women fought for this. I mean, it it took everybody to do it, but I'm so happy that they fought for this because it's definitely deserved. It's been deserved for a while."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=1053s
+
+**5. Lindsey Harding — "I do believe that there needs to be something in it. It may not be able to be as big" — Lindsey Harding on the need for a WNBA developmental league** [25:22](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=1522s)
+
+Lindsey Harding: "I do believe that there needs to be something in it. It may not be able to be as big, every team has a a team, maybe a five teams are playing or something. But when the season's going, there's no there's no time to play basketball. Like, you can do as many individual workouts as you want, but it nothing nothing substitute actually playing five-on-five basketball. Actually making those decisions, being in that kind of basketball shape. So, yes, that's definitely an advantage the NBA has because, especially when you have a a G-League team so close, you could just, hey, you're in town, play these two games, come right back with us. So, if there's a way that they can figure that out, again, I don't think it's going to be a 14 teams, 15 teams as, you know, as things kind of continue to expand, but maybe there's five teams, maybe there's a few teams where it's like a consistent like just playing within a a season. Because just sitting, you're not you're not really getting better, you know? And then you also only have a few coaches compared to the NBA. Like, there's not a lot. There's not like, you know, I'm sure one coach probably has five players. Four or five players like that's a the you know, so that's a lot to try to like fully develop someone, especially if they're your like two, three years away, if that makes sense."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=1522s
+
+**6. Kelsey Plum — "He does not move with an ego. If you are a video person and have a great idea, let's hear it." — Kelsey Plum on JJ Redick's coaching style and lack of ego** [1:00:43](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=3643s)
+
+Kelsey Plum: "For who he is, what he has done as a player, the position he is in, he does not move with an ego. I say that within our staff, within our organization. If you are a video person and have a great idea, let's hear it. Let's do it. He makes everyone feel welcome and feel comfortable. He is super supportive. I had an opportunity to coach Summer League. I had never done it. I had been an assistant coach for eight seasons, something I wanted to do. He gave me that opportunity, behind Becky Hammon, and I was the second woman to ever do it. And he is like, 'You have been a head coach, go do it.' When he gives you a task, he trusts that you are going to do it and he supports you."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=3643s
+
+**7. Kelsey Plum — "If he messes up or wishes he made a different decision, he will say it." — Kelsey Plum on JJ Redick's accountability and intelligence** [1:01:28](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=3688s)
+
+Kelsey Plum: "Why I say the no ego, if he messes up or wishes he made a different decision, he will say it. There is no trying to hide it. It is, 'My bad, I am going to do better.' And you know what? He is amazing. He does. Very smart individual, super intelligent, understands the game. And I think the biggest thing is he is a people person, good with people, managing people. That is huge in this space. You can be a great coach, but there is a lot of different personalities. He is really good at that and he gets a lot of respect because he is **JJ Redick** and he has done it on the floor."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=3688s
+
+**8. Kelsey Plum — "I really dislike where, okay, say there is the interest ramp here. People will start getting in this long line." — Kelsey Plum on the frustrations of driving in traffic** [1:04:43](https://www.youtube.com/watch?v=aC-PG5Uik1o&t=3883s)
+
+**Allie Clifton:** "Do you have any driving quirks? Anything that drives you nuts about driving on the road?"
+
+**Kelsey Plum:** "I really dislike where, okay, say there is the interest ramp here. After a while, people will start getting in this long line into the interest ramp. Then there is people on the other side that will try to zoom up and try to squeeze in. I don't care. You want to get in front of me? Who cares? It is the people that are in front of me that are trying so hard to not let people in, that they are going and stopping so hard, and it is making me do it. And it is like, this is how you get fender benders."
+
+https://www.youtube.com/watch?v=aC-PG5Uik1o&t=3883s
