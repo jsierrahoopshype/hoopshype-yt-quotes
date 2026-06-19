@@ -1,48 +1,98 @@
 # HoopsHype YT Quotes — 2026-06-18
 
-## Will The Knicks Parade Be The BIGGEST In New York History? — *Road Trippin*
+## Carmelo Anthony Reacts to Knicks Championship, Brunson, Parade Energy, Mikal & OG Viral Videos — *7PM in Brooklyn*
 
-Source: https://www.youtube.com/watch?v=kQHWCxNpkB8
+Source: https://www.youtube.com/watch?v=M6Y9q5Hg2ac
 
-_Speakers identified: Allie Clifton, Channing Frye, Kendrick Perkins_
+_Speakers identified: Kazeem Famuyide, Monica McNutt, Carmelo Anthony_
 
-**1. Kendrick Perkins — "my favorite moment was me jumping off the float and going into the actual crowd" — Kendrick Perkins recalls jumping into the crowd during a championship parade** [00:14](https://www.youtube.com/watch?v=kQHWCxNpkB8&t=14s)
+**1. Carmelo Anthony — "That game four, you don't know what to say. You trying to process it." — Carmelo Anthony on the Knicks' Game 4 performance against the Spurs** [01:10](https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=70s)
 
-Kendrick Perkins: "My favorite moment was me jumping off the float and going into the actual crowd and being able to be with the people. People had been sitting out there for hours before. Coolers were out there and I don't know if you're familiar with the culture in Boston, but when I was playing, Heineken was the go-to beer out there. People go drink Heinekens, so I was just walking through, turning up Heinekens with the fans, had me a cigar. It was the best moment."
+**Carmelo Anthony:** "That game four, you don't know what to say. You trying to process it. I'm trying to calm down because my hands were over there sweating and I'm just getting excited for the moment. I'm like, damn, son. I need this energy right here, all this moment."
 
-https://www.youtube.com/watch?v=kQHWCxNpkB8&t=14s
+**Monica McNutt:** "To see people not leave, I'm talking about not leave, down 20, down 30, like not leave, and then after the game, not leave. You will never see that energy like that."
 
-**2. Kendrick Perkins — "somehow, some way, the Larry O'Brien trophy was lost and it ended up on the truck" — Kendrick Perkins and Channing Frye discuss the lost Larry O'Brien trophy** [01:32](https://www.youtube.com/watch?v=kQHWCxNpkB8&t=92s)
+https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=70s
 
-**Kendrick Perkins:** "Somehow, some way, the **Larry O'Brien** trophy was lost and it ended up on the truck of Channing and Richard. One of the Cavs personnel was running down the street and literally was like, 'Guys!' and they handed the trophy to the fans. A fan had it."
+**2. Carmelo Anthony — "Put the pedal to the metal, also take their first punch. If you take their first punch." — Carmelo Anthony's advice to Jalen Brunson for Game 5** [01:59](https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=119s)
 
-**Channing Frye:** "It wasn't lost. Somebody was like, 'Hey, you guys need this,' and we were like, 'Yeah, we do.'"
+**Carmelo Anthony:** "Game five, put the pedal to the metal, also take their first punch. If you take their first punch, it's your time. You're going to take over. You're going to feel it. You're going to feel them exhale."
 
-https://www.youtube.com/watch?v=kQHWCxNpkB8&t=92s
+**Monica McNutt:** "If you're watching, you can see it. And that game four just took a lot out of the Spurs."
 
-**3. Channing Frye — "it was on the bus, of course, Kawhi, Drake was on that one" — Channing Frye explains how the championship trophy moved between team buses** [02:37](https://www.youtube.com/watch?v=kQHWCxNpkB8&t=157s)
+https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=119s
 
-Channing Frye: "It definitely stayed in a safe place. It was on the same bus. Of course, Kawhi, **Drake** was on that one. It stayed on that one. Kawhi had the Finals MVP with him, so it stayed on that one. I think they passed it to other buses along the way, but it started on that and I think it ended with that bus, but I think it ended up moving."
+**3. Monica McNutt — "There have been 13 times where the team in the conference finals knocks off the defending champion." — Monica McNutt on the rarity of knocking off the defending champion** [07:15](https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=435s)
 
-https://www.youtube.com/watch?v=kQHWCxNpkB8&t=157s
+**Monica McNutt:** "There have been 13 times where the team in the conference finals knocks off the defending champion. Only once has the team that knocked off the defending champion also won the finals. So their championship was in the Western Conference finals."
 
-**4. Channing Frye — "Marco Belinelli was the MVP of our parade in Toronto" — Channing Frye reflects on Marco Belinelli's MVP performance in Toronto** [03:24](https://www.youtube.com/watch?v=kQHWCxNpkB8&t=204s)
+**Carmelo Anthony:** "I'm not saying that they didn't celebrate that as the finals."
 
-Channing Frye: "**Marco Belinelli** was the MVP of our parade in Toronto. It's hot out there, so you've got to somewhat try to pace yourself a little bit. If they're going to tell you it's two hours, expect another hour or two more depending on where you're at. New York is probably going to take three or four hours. You've got to pace yourself because being in the sun and drinking that much champagne, we couldn't put Marco on the mic."
+https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=435s
 
-https://www.youtube.com/watch?v=kQHWCxNpkB8&t=204s
+**4. Carmelo Anthony — "He relied too much on guys on his team." — Carmelo Anthony on Jalen Brunson's reliance on teammates** [09:07](https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=547s)
 
-**5. Channing Frye — "I know the difference between crowds, and Ohio is very different from New York" — Channing Frye notes cultural differences in parade crowd behavior** [04:38](https://www.youtube.com/watch?v=kQHWCxNpkB8&t=278s)
+**Carmelo Anthony:** "I also think that he relied too much on guys on his team. And when I say that, hit me up when I say that, because the dominance that he portrayed in the OKC series, as far as in the paint, touching the paint, paint touches, nobody can do that. The games that he did that against the Knicks, it was the same thing, in the paint, going hard, going to work. But I also think that because he trusted his teammates so much, he put so much trust into his teammates that it took away from him being dominant in the paint."
 
-Channing Frye: "I know the difference between crowds, and Ohio is very different from New York. I was just in Canada, which is very different from Boston. I went to a concert, and when the concert was over, everybody walked out accordingly. I'm like, what is going on? Y'all just leave when you're told? This is nice. I can walk out of this building in a nice fashion. That would never happen in New York or LA. People take their time and do what they want to do, so you've got to be careful with certain crowds."
+**Monica McNutt:** "You wanted to see them do well. You wanted to give them the confidence to do well, which you're supposed to do. But there was times where you got, you have to be selfish and demand the ball in the paint."
 
-https://www.youtube.com/watch?v=kQHWCxNpkB8&t=278s
+https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=547s
 
-**6. Channing Frye — "I'm going six for this one" — Channing Frye predicts the size of a potential Knicks championship parade** [05:25](https://www.youtube.com/watch?v=kQHWCxNpkB8&t=325s)
+**5. Carmelo Anthony — "Darren Fox as a young veteran, somebody who's been around this game for a while." — Carmelo Anthony on Darren Fox's development as a young veteran** [14:26](https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=866s)
 
-Channing Frye: "I'm going six for this one. I mean, all of New York City, the boroughs from Brooklyn, I think there's 8.5 million. We looked it up the other day. So I'm saying five or six million, but there's 8 million I think in the boroughs of New York. That would mean they would all have to be there. 90% of them. I think 80-85%, I'm thinking like five or six million."
+**Carmelo Anthony:** "**Darren Fox** as a young veteran, somebody who's been around this game for a while, should understand the pace of the game, understand the momentum of the game, which is why he's there. He's there to control the game, make big shots. He's a closer, too."
 
-https://www.youtube.com/watch?v=kQHWCxNpkB8&t=325s
+**Monica McNutt:** "First of all, he's the clutch."
+
+https://www.youtube.com/watch?v=M6Y9q5Hg2ac&t=866s
+
+---
+
+## “He Should NEVER Pay For Anything Again” — French Montana On Brunson’s Greatness — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=CsvFIVtqqr0
+
+_Speakers identified: Kendrick Perkins, Richard Jefferson, Channing Frye, French Montana_
+
+**1. Kendrick Perkins — "the outside world is still not respecting the greatness, the individual greatness that we just witnessed out of Jalen Brunson" — Kendrick Perkins on Jalen Brunson's playoff performance and legacy** [00:00](https://www.youtube.com/watch?v=CsvFIVtqqr0&t=0s)
+
+**Kendrick Perkins:** "To me, it feels like, not us, but the outside world is still not respecting the greatness, the individual greatness that we just witnessed out of **Jalen Brunson** on the big stage and throughout these playoffs. How do you two guys feel about Brunson and where he ranks all-time as a Knick? How do you feel about him period overall as a player and y'all valuing his greatness?"
+
+**French Montana:** "I just think Brunson should never pay for nothing else in New York again for the rest of his life. So, is that mean he's a top-five Knick, top-two, top-three? He needs a statue."
+
+**Richard Jefferson:** "He needs a statue. Okay, so he's putting a statue up there."
+
+**French Montana:** "Yeah, he's definitely top-three greatest Knick ever."
+
+https://www.youtube.com/watch?v=CsvFIVtqqr0&t=0s
+
+**2. Kendrick Perkins — "Brunson is kind of there with a little more killer instinct and dog in him" — Comparing Jalen Brunson's impact to Chris Paul's peak** [00:48](https://www.youtube.com/watch?v=CsvFIVtqqr0&t=48s)
+
+**Kendrick Perkins:** "You got to look at Brunson is so underappreciated because of his size. You don't get them guards like that no more. They just don't make them. If you remember how **Chris Paul** was when he was at his apex, right? Brunson is kind of there with a little more killer instinct and dog in him. He's crafty. He know how to use the body. He's a stud. He can get you any basket anywhere in the game. He's just a dog, period."
+
+**French Montana:** "He's comfortable around his team. He set the tone. He won chips in college. He built the culture over here."
+
+https://www.youtube.com/watch?v=CsvFIVtqqr0&t=48s
+
+**3. Richard Jefferson — "he may not be an all-10 top Knick. That's fine. That's a big stat" — Evaluating Jalen Brunson's all-time ranking among Knicks players** [01:40](https://www.youtube.com/watch?v=CsvFIVtqqr0&t=100s)
+
+**Richard Jefferson:** "What do y'all think about **Jalen Brunson**? What does he rank now that he's a champion all-time amongst bigs or Knicks? What do you have him as all-time Knick? Is he up in the top 10?"
+
+**Kendrick Perkins:** "He may not be an all-10 top Knick. That's fine. That's a big stat, okay. But that's a big stat. He in that top 15 ever. He right after the great. That's a big stat. But let me tell you something about this, now the people can finally take **Jalen Brunson** serious. He's not just a big man to shoot three-pointers. Y'all see all year the boy go off the ball, off the dribble, he's going to the cup and he's making it happen."
+
+https://www.youtube.com/watch?v=CsvFIVtqqr0&t=100s
+
+**4. Kendrick Perkins — "I want to thank Tom Thibodeau for building the culture, right? Even though we got Mike Brown" — Crediting Tom Thibodeau for building the Knicks' culture** [02:42](https://www.youtube.com/watch?v=CsvFIVtqqr0&t=162s)
+
+Kendrick Perkins: "I want to thank **Tom Thibodeau** for building the culture, right? Even though we got **Mike Brown**, but I just want to thank **Tom Thibodeau** for setting the culture in place, getting us back in that, you know what I'm saying, with that grit and that grind. **Mike Brown** came and took over, brought us to the top."
+
+https://www.youtube.com/watch?v=CsvFIVtqqr0&t=162s
+
+**5. Kendrick Perkins — "when you came off that bench, you was going to get quality minutes" — Kendrick Perkins on his role as a bench player** [04:06](https://www.youtube.com/watch?v=CsvFIVtqqr0&t=246s)
+
+Kendrick Perkins: "When you came off that bench, you was going to get quality minutes. I don't give a fuck if it was 8, 12 minutes. You was going to get 12 quality minutes. You might get 6, 7 quality points. You going to get your free throws. You going to get 5 hard fouls. You going to go out and be the dog. That's what you get. Every night, they going to go play and he going to get do what it do."
+
+https://www.youtube.com/watch?v=CsvFIVtqqr0&t=246s
 
 ---
 
