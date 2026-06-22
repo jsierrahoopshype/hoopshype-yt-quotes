@@ -1,0 +1,41 @@
+# Draymond Green Talks Knicks Championship Run & Brunson Apology | Brock & Alex — *97.1 The Fan LA*
+
+Source: https://www.youtube.com/watch?v=a-QXJeoyKQg
+
+_Speakers identified: Brock Vereen, Alex Curry, Draymond Green_
+
+**1. Draymond Green — "I've been very lucky and fortunate to win four championships. However, that means ten times I didn't." — Draymond Green on the emotional toll of not winning an NBA championship** [00:49](https://www.youtube.com/watch?v=a-QXJeoyKQg&t=49s)
+
+Draymond Green: "After I just finished my 14th season, I've been very lucky and fortunate to win four championships. However, that means ten times I didn't. So I've experienced not winning a championship much more than I have. And in saying that, I think I'm lucky from the standpoint of I was blessed to win a championship in year three. And so the stress that guys carry throughout the playoffs, or the emotions that they may have in not being in it, I don't necessarily have that as much because I'm not chasing the idea of being a champion. I get it and I actually feel for guys, but I'm just blessed and lucky. So I can watch and appreciate the guys who are doing it for the first time. That's amazing."
+
+https://www.youtube.com/watch?v=a-QXJeoyKQg&t=49s
+
+**2. Draymond Green — "They've struck like this lightning in a bottle. You know when it happens." — Draymond Green on the New York Knicks' championship potential** [02:11](https://www.youtube.com/watch?v=a-QXJeoyKQg&t=131s)
+
+Draymond Green: "They had the Atlanta series where they struggled for a couple games, and then they figured it out. And then they started rolling. Completely rolling from that point on. And after a while, I would say their second round series versus Philly, you knew Philly couldn't do anything. Then you saw them play the Cavs and it was like, man, they've struck like this lightning in a bottle. You know when it happens and you can just see it, like something's brewing with them that's different. And yeah, they found it."
+
+https://www.youtube.com/watch?v=a-QXJeoyKQg&t=131s
+
+**3. Draymond Green — "The competitive fire burning inside of you, you use the doubt as fuel." — Draymond Green on the competitive fire of doubted athletes** [03:00](https://www.youtube.com/watch?v=a-QXJeoyKQg&t=180s)
+
+Draymond Green: "The reality is we all get mad when people doubt us, and then we win and we're like, yeah, you shouldn't have doubted me. But the reality is you never won before they should doubt us. As an athlete, the competitive fire burning inside of you, you use the doubt as fuel. But the reality is if you're the crazy one if you think you shouldn't be doubted, you haven't done it. And I was the crazy one before as well, like, no, don't doubt me. What's wrong with you? But it's nothing like proving them wrong."
+
+https://www.youtube.com/watch?v=a-QXJeoyKQg&t=180s
+
+**4. Draymond Green — "There's definitely a shift in roster construction. It's athletic guys, it's a lot of size." — Draymond Green on the shift in NBA roster construction** [04:00](https://www.youtube.com/watch?v=a-QXJeoyKQg&t=240s)
+
+Draymond Green: "There's definitely a shift in roster construction. Even before them winning it, you can see the shift. It's athletic guys, it's a lot of size. It's everyone being able to make a play, not just one or two guys being able to make a play. What will always be important is having a roster makeup to where you can put out multiple different types of lineups, because different series are going to call for different lineups. And if you're not capable of putting a certain lineup at a certain time, that's going to cost you the series and that's going to stop your run."
+
+https://www.youtube.com/watch?v=a-QXJeoyKQg&t=240s
+
+**5. Draymond Green — "To me, 1A is like no matter what team you go to, you're going to be the best player." — Draymond Green on Jalen Brunson and the '1A' player label** [05:15](https://www.youtube.com/watch?v=a-QXJeoyKQg&t=315s)
+
+Draymond Green: "**Jalen Brunson** plays for the New York Knicks. They're always going to be a highly spoken about team. And people will say, oh man, this guy's a 1A. And for me personally, I think there's like four or five 1As in the entire NBA. 1A to me is like no matter what team you go to, you're going to be the best player on that team. There's not a lot of guys in the NBA that's going to be the best player everywhere they go. So I was like, I don't know that he's 1A right now. He's going to prove that he's a 1A. Great, you just went and proved that."
+
+https://www.youtube.com/watch?v=a-QXJeoyKQg&t=315s
+
+**6. Draymond Green — "I think they're going to need a more likely star like LeBron, like a Steph." — Draymond Green on the need for star power in championship teams** [06:01](https://www.youtube.com/watch?v=a-QXJeoyKQg&t=361s)
+
+Draymond Green: "When I said what I said, which is like, yo, I think they're going to need a more likely star like LeBron, like a Steph in order to ultimately win a championship. Hey, it was started three years ago. I was right then. To Jalen Brunson's credit, he's worked his butt off and he's become that. And they've built a team around him to allow him to become that. And so I wanted to say to his face, yo, I said you weren't this. To me, you've now proved that you're that."
+
+https://www.youtube.com/watch?v=a-QXJeoyKQg&t=361s
