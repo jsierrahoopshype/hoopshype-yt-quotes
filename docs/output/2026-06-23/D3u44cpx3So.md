@@ -1,0 +1,61 @@
+# Giannis Trade is Just the Beginning!! WILD Trades & Draft Predictions — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=D3u44cpx3So
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, Zach Harper_
+
+**1. Zach Harper — "It's going to be chaos today. It's already going to be a lot of trades." — Expect significant roster movement and draft trades across the league** [00:11](https://www.youtube.com/watch?v=D3u44cpx3So&t=11s)
+
+Zach Harper: "It's going to be chaos today. It's already going to be a lot of trades. I don't know if they're going to be significant trades. I think you're going to get a lot of teams moving up or down in the draft. People are talking about New Orleans trying to trade into the first round, Oklahoma City may package their two first-round picks and try to move up because they already, I guess, their roster isn't good enough already, you know, we got to add more to it. But yeah, we're going to have so much movement. The Clippers might move down or move out. There's just a lot that could happen."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=11s
+
+**2. Zach Harper — "I would just go with the 6'9 guy. I think he's safer." — Comparing AJ Dybantsa and Darren Peterson as fits for Trae Young** [00:46](https://www.youtube.com/watch?v=D3u44cpx3So&t=46s)
+
+**Lou Williams:** "In your opinion, who do you see tonight at that number one spot that they can pair up along with **Trae Young** that makes the most sense to you?"
+
+**Zach Harper:** "I get the argument for **Darren Peterson**. He's awesome, and I don't even worry about the stuff that happened in Kansas with the cramps and not finishing games. To me, that's college stuff. You come into the NBA, you set a culture, it's going to be a lot different, hopefully. But with **AJ Dybantsa**, as good as Peterson is, AJ is 6'9, he's athletic, he can play defense, he can shoot a little bit, you can teach him how to shoot better. He can do all these things within the half-court, within the full-court, both ends of the floor. I would just go with the 6'9 guy. I think he's safer. Maybe Peterson has a higher ceiling, but I just think **AJ Dybantsa** fits a lot more of what they want to do."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=46s
+
+**3. Zach Harper — "I still think they're so young, you probably need a year to get everybody on the same page." — Wizards need time to develop their young core into contenders** [03:44](https://www.youtube.com/watch?v=D3u44cpx3So&t=224s)
+
+Zach Harper: "I still think they're so young, you probably need a year to get everybody on the same page. But you love the core, right? Bilal Coulibaly is good, **Kyshawn George** good, **Bub Carrington** can really play. **Alex Sarr** took great leaps last year from year one to year two. They've got **Trae Young**, they've got so much good young talent, but I don't know that we can judge things on what the Spurs have recently done, what the Thunder did before that. Young talent in this league doesn't necessarily produce wins. It's great they have veterans in place now, but **AJ Dybantsa** is 19 years old. I don't know that you can expect them to know how to win at this stage."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=224s
+
+**4. Zach Harper — "If you're expecting a Tim Duncan-esque player, you will be disappointed." — Why prospect comparisons to legends are often misleading** [05:08](https://www.youtube.com/watch?v=D3u44cpx3So&t=308s)
+
+Zach Harper: "I don't know that you're going to get crazier than **Cam Boozer**, **Tim Duncan**. Like **Tim Duncan**, that's one of the, I mean, not that Kobe's not, but like **Tim Duncan** was like, we already knew, oh, this dude's a guy coming into the league who's an adult who will be All-NBA right away, be a contender right away. **Cam Boozer** is nice, he's also like two, three inches shorter than Timmy was, he's not as polished. Like he's really good, but I, if you're expecting a **Tim Duncan**-esque player, you will be disappointed. Same with **Darren Peterson** and **Kobe Bryant**. Like I've been making my own ridiculous comparison to **Darius A. Cuff**, not saying he will be **Damian Lillard**, but he is a **Damian Lillard** type of guard that attacks in a similar way, shoots the hell out of the ball. So I'm even trying to make the problem worse by giving those extra comparisons to A. Cuff."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=308s
+
+**5. Zach Harper — "It's probably Peterson, right? I just think if he's going to be healthy and everything you hear about him." — Darren Peterson has the highest ceiling in the 2026 draft** [06:52](https://www.youtube.com/watch?v=D3u44cpx3So&t=412s)
+
+Zach Harper: "It's probably Peterson, right? I just think if he's going to be healthy and everything you hear about him. I've heard a lot of people who scouted him, scouted **AJ Dybantsa** in high school, and every time I'm like, yeah, I think AJ is the guy, they're like, I don't know, Darren gave it to him in high school. Every time he was matched up with these guys, he was the best player on the floor. I do think that matters. I wouldn't say **Caleb Wilson** has the best potential, the highest potential, but what I loved was early on the season, he went out there and had big games against these guys."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=412s
+
+**6. Zach Harper — "If you go out and get another guard, now you have even more flexibility with this guard class." — Thunder roster depth makes adding another guard a strategic move** [08:10](https://www.youtube.com/watch?v=D3u44cpx3So&t=490s)
+
+Zach Harper: "**Caleb Wilson** maybe, if you added another just super athletic defensive guy that you can kind of teach how to flesh out that offensive game, he might be one of those guys. **Keaton Wagler** is someone people are very high on, **Michael Brown Jr.** is someone people are very high on. There's a bunch of guards. I don't know that they need guards necessarily, but remember that second apron is here and it is loud for them and so they're going to have to make some cuts. They already sent **Aaron Wiggins** out, talks about **Lou Dort** not being around next season because of this. If you go out and get another guard, now you have even more flexibility with this guard class. You're putting these guys next to **Shai Gilgeous-Alexander**, how easy was their job going to be?"
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=490s
+
+**7. Zach Harper — "He's probably the best shooter in the class." — Christian Anderson is the best shooter in the draft class** [09:20](https://www.youtube.com/watch?v=D3u44cpx3So&t=560s)
+
+Zach Harper: "I'm big on **Christian Anderson**. He's only like 6'1, 6'2, but he can shoot the hell out of the ball. He's probably the best shooter in the class. He's going to need to playmake at the NBA level. He's not quite a point guard, but I think he has that in him. He doesn't have to be someone who's like **John Stockton** or **Chris Paul** out there with setting guys up, but his shooting ability alone, he can pull from like 30 with ease and knock it down. He's just someone that right away at the NBA level, you know he has an incredible skill set that he can utilize."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=560s
+
+**8. Zach Harper — "I don't think it's going to work, but a lot of teams are trying to steal someone away." — Challenges of acquiring restricted free agents like Jaylen Durren and Walker Kessler** [10:47](https://www.youtube.com/watch?v=D3u44cpx3So&t=647s)
+
+Zach Harper: "I don't think it's going to work, but a lot of teams are trying to steal someone away. So whether that's **Walker Kessler**, whether that's **Jaylen Durren**, which obviously restricted free agency. I hate restricted free agency because I don't like how it limits the player. Obviously restricted is in the name. But with restricted free agency, I don't know that you can offer enough money, tie up your cap space, and get **Jaylen Durren** away from the Pistons. I think they're going to match whatever. I think the Jazz are pretty much going to match whatever with **Walker Kessler**. So trying to get those guys away, I just don't believe that's going to happen."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=647s
+
+**9. Zach Harper — "I think he's going to resign with the Lakers, but you hear some rumors about, oh yeah." — Austin Reaves likely to re-sign with the Lakers** [11:25](https://www.youtube.com/watch?v=D3u44cpx3So&t=685s)
+
+Zach Harper: "I think other teams are trying to do this with **Austin Reaves**, who's not a restricted free agent. I think he's going to resign with the Lakers, but you hear some rumors about, oh yeah, this team's going to throw a max at him, this team's going to throw a max at him and try to take him away from that. I don't know, like I mean, you guys would know this better than I would. I don't know about tying up so much of your cap space in having **Luka Doncic** and **Austin Reaves** just from the defensive aspect of it and what you can do in terms of building out your roster. Like that's going to be tricky in this era of the salary cap. But then at the same time, all right, there's 60 points right there and about 15 assists a game that we locked up with our backcourt. You find defensive role players, you find shooters around them, maybe it'll work out."
+
+https://www.youtube.com/watch?v=D3u44cpx3So&t=685s

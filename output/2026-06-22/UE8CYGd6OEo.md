@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-22
-
-## Giannis Traded To Heat! What's Next For Jaylen Brown?? — *Run It Back*
+# Giannis Traded To Heat! What's Next For Jaylen Brown?? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=UE8CYGd6OEo
 
@@ -33,7 +31,3 @@ https://www.youtube.com/watch?v=UE8CYGd6OEo&t=3600s
 Michelle Beadle: "If the Celtics do not win it all, the conversation around **Jaylen Brown** changes completely. We have seen this dynamic with him and **Jayson Tatum** for years now. At some point, if the results are not there, front offices start looking at whether these two can actually coexist as the primary options on a title team. It is not a knock on his talent, but it is a reality of the business."
 
 https://www.youtube.com/watch?v=UE8CYGd6OEo&t=3625s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
