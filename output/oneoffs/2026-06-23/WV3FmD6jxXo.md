@@ -1,0 +1,53 @@
+# ‘They will be a TOP 4 TEAM’ 😳 Richard Jefferson on Giannis to the Miami Heat | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=WV3FmD6jxXo
+
+_Speakers identified: Nicole Briscoe, Richard Jefferson, Kevin Negandhi, Jamal Collier_
+
+**1. Richard Jefferson — "Milwaukee did a very good job. They were very, very patient with this process." — Milwaukee Bucks' patient approach to trading Giannis Antetokounmpo** [00:11](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=11s)
+
+Richard Jefferson: "I think Milwaukee did a very good job. They were very, very patient with this process. They understand that there are moments in order to put a player like that on the market. I was not surprised that right after the draft lottery, and they knew what every team was going to have as far as a pick, that's when his name, they were like, okay, we're now taking offers. Because there were teams that could have offered him a first-round pick, but you didn't know if it was going to be two, if it was going to be 12, if it was going to be eight. You didn't know. So, for them to wait, let's see what everybody's going to get in the draft lottery, where your picks are going to be, and I think they did a very good job."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=11s
+
+**2. Richard Jefferson — "You have to now build an elite team around Giannis and you've given away a ton of assets." — Miami Heat must build an elite team around Giannis Antetokounmpo** [01:10](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=70s)
+
+Richard Jefferson: "On the Miami side, I feel like they've given up so much. They did get a lot, but now just because you have a talented player, you have to structure the team. You have to now build an elite team around Giannis and you've given away a ton of assets. Are they going to be elite next year? I think that they are a top four team in my opinion going into next year, if everyone is healthy, if they can do it, but they still have a lot of room that they have to fill out on the Miami side."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=70s
+
+**3. Richard Jefferson — "You have to make sure that you have the elite guard play, especially around Giannis." — Miami Heat need elite guard play to support Giannis Antetokounmpo** [01:42](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=102s)
+
+Richard Jefferson: "To me, you have to make sure that you have the elite guard play, especially around Giannis. You have to have the shooting. Obviously, being able to maintain pieces of your talented roster is key. Giannis fills in so many gaps. When we're talking about rebounding, points, assist, he does every single thing. So he can fill in those gaps. But if you go back and look at his Milwaukee championship year and the teams that they have, I don't think currently right now that Miami has the same caliber of a team that Milwaukee did when they won a championship, but they're closer than Milwaukee was currently right now. And so I think that's a good move for Giannis to be in a place Miami, the Heat culture everyone talks about it, but I still believe that they have room to grow."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=102s
+
+**4. Richard Jefferson — "When you're rebuilding, you're looking at a more of a five, six-year stretch." — Milwaukee Bucks' long-term rebuilding strategy after trading Giannis Antetokounmpo** [03:41](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=221s)
+
+Richard Jefferson: "I would build out. I think you got enough talent. Again, **Tyler Herro** is an All-Star player. So they have talent. They're not most likely going to be in that bottom pick. They're not going to be in that space now where they're getting the fifth pick, the seventh pick. That's kind of the danger. Do you go with getting an All-Star player or do you go and get a top 10 draft pick? They decided to go get the young All-Star who's from Wisconsin, from the area. So they're building, so they're jumping their timetable a little bit further. I'm okay with that from the Milwaukee side. But even if you look at Cleveland, how many years did it take them to get back to that elite level? They were able to get **Donovan Mitchell**, they were able to get **Evan Mobley** from a high draft pick. So there were things that they did over multiple years that put them back in the conference finals, potential finals. I would look at, when you're rebuilding, you're looking at a more of a five, six-year stretch."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=221s
+
+**5. Richard Jefferson — "Hopefully he's feeling relieved in my opinion. You have to understand that this is part of the business." — Jaylen Brown should feel relieved to be mentioned in trade talks** [04:55](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=295s)
+
+Richard Jefferson: "Hopefully he's feeling relieved in my opinion. You have to understand that this is part of the business. If Giannis comes up, there's going to be a lot of All-Star players that are going to be sweating. He was not the only one. And really it is a compliment if you are a player of **Jaylen Brown**'s stature and they're talking about a two-time MVP. Could you be a little bit frustrated? But understand that your name was mentioned, not **Jason Tatum**. And let me be clear about this, **Jason Tatum** had an elite year, but he's still coming off an Achilles. You most likely in this present form were the most valuable player that they could offer for Giannis."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=295s
+
+**6. Richard Jefferson — "If you allow the narratives and the conversations to dictate your emotions, this league can be draining." — Jaylen Brown should use trade rumors as motivation for the future** [08:20](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=500s)
+
+Richard Jefferson: "Over the course of **Jaylen Brown**'s career, there's been conversations. Can they play together? Is he a number one? There's been conversations about you. If you allow the narratives and the conversations to dictate your emotions, this league can be a very, very draining place. I agree, he should have emotions about it, but if a person was really talking to him and really had his ear, they would tell him that this is not an insult. Boston wasn't out shopping you. They were not out shopping you to the highest bidder because they wanted to move you. **Giannis Antetokounmpo**, the two-time MVP, came up and they were looking at what should we do? And there were calls made. Those are the things that you have to look at that this is still a business. He is on his way to being a Hall of Famer and those are the things he can easily continue building his resume. He has an elite team that he can win a championship with coming up this next year. That's what you have to focus on. It is not as much as an insult because you can leave Boston, you can be upset, but understand where you might go might not be better than where you are in Boston and Boston is an elite franchise."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=500s
+
+**7. Jamal Collier — "That draft timing was important for the Bucks because they get the number 13 pick." — Giannis Antetokounmpo's contract extension and the Milwaukee Bucks' trade timing** [11:13](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=673s)
+
+Jamal Collier: "It will look some of its own self-imposed deadline, right? When Jimmy has on the owner said it last month that either Giannis had to sort of signal that he was going to sign an extension this off-season or they were going to move him before the draft. And that draft timing was important for the Bucks because they get the number 13 pick. They got two lottery picks now in this loaded draft and they just get a chance. They favored offers that really helped them reset their franchise here going forward. They traded a lot of stuff to try to contend over the years to try to with Giannis in the **Jrue Holiday** deal, they're still paying off to get **Damian Lillard** a few years ago. And now finally they got to recoup a lot of those draft assets in this deal five and seven years out when Giannis will be 36 and 38 years old. And they are hoping those draft picks turn into some really valuable stuff for them going forward."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=673s
+
+**8. Jamal Collier — "The Bucks kept getting further and further away from that after 2021." — Milwaukee Bucks' struggle to build a championship contender around Giannis Antetokounmpo** [13:00](https://www.youtube.com/watch?v=WV3FmD6jxXo&t=780s)
+
+Jamal Collier: "Both sides wanted to figure out a way to work this out. I mean, it had several people in the Bucks organization just flat out say the fact you do not trade guys like this, period, in the league and especially when you're in Milwaukee. Giannis has professed, you know, even throughout sort of the ups and downs of the season in the past two years, losing in the playoffs, how much he loves the city and loves Milwaukee. But he was also very, very steadfast in the fact that he wanted to win a second championship after that 2021 title. And the reality is that the Bucks kept getting further and further away from that after 2021. They've only had one playoff win in the past five years. They lost in the first round for three straight years before missing the playoffs last season and really just a miserable year for all parties involved. Giannis was hurt, the team really never got out of the gates. And the Bucks did all they could to try to avoid getting to this point, making a big swing for **Damian Lillard** a few years ago, even last year kind of tossing that Hail Mary to sign **Miles Turner** by waving and stretching Dame some we've never seen an NBA team do. They feel like they had sort of exhausted every option, turned over every rock in looking cranny to try to figure out how to make this team a contender."
+
+https://www.youtube.com/watch?v=WV3FmD6jxXo&t=780s

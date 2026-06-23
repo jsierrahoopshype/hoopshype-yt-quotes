@@ -1,40 +1,34 @@
 # HoopsHype YT Quotes — 2026-06-23
 
-## The Warriors' Draft Plan Is Becoming Clear — Marc Spears — *95.7 The Game*
+## Kyrie Irving talks not attending Cavs 2016 reunion & shows love to Mavs new coach — *Chaz NBA*
 
-Source: https://www.youtube.com/watch?v=4Cr7k38Uw5M
+Source: https://www.youtube.com/watch?v=W0gmT3hkeDE
 
-_Speakers identified: Willard, Dibs, Marc Spears_
+_Speakers identified: Kyrie Irving_
 
-**1. Marc Spears — "I really like Bub Carrington from Arizona. Very interesting shooting guard. I think he's going to be a steal." — Marc Spears on the Warriors' potential draft target Bub Carrington** [01:01](https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=61s)
+**1. Kyrie Irving — "Shout out to the new addition, man. Shout out to Coach May, Dusty May, man. Shout him out." — Kyrie Irving praises new Mavericks head coach Jason Kidd** [00:13](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=13s)
 
-Marc Spears: "I really like **Bub Carrington** from Arizona. Very interesting shooting guard. I think he's going to be a steal. Anybody who saw Arizona play in the tournament in San Jose got to see him up close, including **Steve Kerr**. I talked to Bub today. He said during his recent workout at Chase Center, he had the ability to pick Horford's brain, pick Draymond's brain. He was really excited about that. He said after the workout, he had the ability to pick Horford's brain, pick Draymond's brain. He also said he had spent some great time with **Steve Kerr**, obviously a fellow Arizona guy. So, he's somebody that can be taken, but I think he'll be sitting there at 11."
+Kyrie Irving: "Shout out to the new addition, man. Shout out to Coach May, Dusty May, man. Shout him out. Make sure y'all flood his messages, man. Flood his DMs, man. Tell him congrats. Welcome to Dallas, man. We got our GM set, we got our head coach set. Hey, we straight, y'all."
 
-https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=61s
+https://www.youtube.com/watch?v=W0gmT3hkeDE&t=13s
 
-**2. Marc Spears — "I also talked to the Michigan kid, Tarris Reed Jr. Very, very charismatic guy, very fun to talk to." — Marc Spears on the Warriors' interest in Michigan's Tarris Reed Jr.** [03:13](https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=193s)
+**2. Kyrie Irving — "Me and my teammates who won a championship together in 2016, we are straight, y'all." — Kyrie Irving reflects on 2016 championship team connection** [00:58](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=58s)
 
-Marc Spears: "I also talked to the Michigan kid, **Tarris Reed Jr.** Very, very charismatic guy, very fun to talk to. He was very excited about his trip to Golden State. He said it's a prestigious organization. He talked highly about Steph and Dray. He said Warriors always come up among topics of the friends. It was kind of surreal to be there. He said the people in the organization were super humble, genuine, made him feel like home, and very, very authentic. He said he felt athletic when I play in the game and I feel confident that it will translate over to the NBA."
+Kyrie Irving: "Me and my teammates who won a championship together in 2016, we are straight, y'all. It's all love. When I get back to the States, I'm going to pop in with them, going to chop it up, and we going to have a great time. All right, we going to leave it at that."
 
-https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=193s
+https://www.youtube.com/watch?v=W0gmT3hkeDE&t=58s
 
-**3. Marc Spears — "I think something gets done. Boston doesn't play games." — Marc Spears on the likelihood of Giannis Antetokounmpo being traded** [05:36](https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=336s)
+**3. Kyrie Irving — "The immaturity behind using media to spin narratives, it's psychotic, bro." — Kyrie Irving criticizes media narratives and maturity** [01:16](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=76s)
 
-Marc Spears: "I think something gets done. Boston doesn't play games. Miami plays with their food a little bit, but Boston doesn't. I just don't think Miami has the same package that Boston can present. I also don't think Jaylen Brown ends up playing in Milwaukee. I just can't envision that. The Clippers, I heard wanted to keep the pick. We're very excited about their fifth pick and feel like they could get a really, really good young player that could go alongside Garland."
+Kyrie Irving: "The immaturity behind using media to spin narratives, it's psychotic, bro. Psychotic. You got to understand, I've been in this media storm for about 10, 11 years. And it's okay. It's not meant to be understood. That's how people make money, too, right? Fair criticism is cool. Harsh criticism, hey man, by all means, y'all got it. But when you start coming at who people are as people and you don't know who they are, and you start assuming and you start going based off of who people are from others, it never works out."
 
-https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=336s
+https://www.youtube.com/watch?v=W0gmT3hkeDE&t=76s
 
-**4. Marc Spears — "I also heard right now that there's rising expectation that the Clippers will keep the pick." — Marc Spears on the Clippers' potential draft interest in Michael Brown Jr.** [06:31](https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=391s)
+**4. Kyrie Irving — "As a leader out here, I'm cool taking accountability and admitting to my wrongs and mistakes." — Kyrie Irving on taking accountability as an NBA leader** [02:05](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=125s)
 
-Marc Spears: "I also heard right now that there's rising expectation that the Clippers will keep the pick and take **Michael Brown Jr.** from Louisville. That's a little hot scoop I'm hearing for you guys right there that obviously there's an expected four with the Banza who I think will go to Washington, too. The kid from Kansas second, third. I kind of feel like **Cam Whitmore** will go third and Camera Bush will go fourth, but I keep hearing that **Michael Brown Jr.** is the hot name right now with the Clippers."
+Kyrie Irving: "As a leader out here, I'm cool taking accountability and admitting to my wrongs and mistakes. It's part of being mature and growing up. But you just don't let people play around with you. Don't let people play around with you. Don't let people copy off you either, man. Don't let people just tell you that you're not that, that you're really not one of God's people."
 
-https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=391s
-
-**5. Marc Spears — "The Pelicans are trying to trade Trey Murphy. I texted him the other day." — Marc Spears on the Pelicans' potential trade of Trey Murphy III** [08:26](https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=506s)
-
-Marc Spears: "I don't know about the Kawhi one, but I do know this: the Pelicans are trying to trade Trey Murphy. I texted him the other day. He was kind of laughing about all these rumors. He's in France right now. But I do think the right, I think the thing is this: it probably will depend on who's sitting there at 11 when that pick comes up. And there's probably a certain amount of players that **Joe Dumars** and **Troy Weaver** have on their list that could be attractive to their franchise. If the Warriors can get Trey Murphy, I'm all for trading that pick for Trey Murphy."
-
-https://www.youtube.com/watch?v=4Cr7k38Uw5M&t=506s
+https://www.youtube.com/watch?v=W0gmT3hkeDE&t=125s
 
 ---
 
@@ -75,114 +69,6 @@ https://www.youtube.com/watch?v=6F5CAgtvo3o&t=36s
 "Another trade that you would have seen went down today, Giannis to the Heat. He also told the Bucks that he would sign a long-term contract if he was traded to the Minnesota Timberwolves because he likes the idea of being paired up with **Anthony Edwards**."
 
 https://www.youtube.com/watch?v=6F5CAgtvo3o&t=46s
-
----
-
-## Trade Reaction 👀 Wolves trade Randle to Nets, Claxton headed to Bulls | NBA on ESPN — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=CD92gJu_Duc
-
-_Speakers identified: Bobby Marks_
-
-**1. Bobby Marks — "Minnesota makes a trade, they send Julius Randle to Brooklyn, Nic Claxton goes to Chicago." — Minnesota Timberwolves trade Julius Randle to the Brooklyn Nets** [00:34](https://www.youtube.com/watch?v=CD92gJu_Duc&t=34s)
-
-Bobby Marks: "Minnesota makes a trade, they send **Julius Randle** to Brooklyn, **Nic Claxton** goes to Chicago. The 28th pick goes to the Nets and Minnesota gets the 33rd pick in the draft. This trade cannot be done because Chicago is taking back Claxton into cap space, so this will not be done until July 6th."
-
-https://www.youtube.com/watch?v=CD92gJu_Duc&t=34s
-
-**2. Bobby Marks — "Minnesota basically hit the wall as far as with this roster here." — Timberwolves' roster flexibility and cap situation after the trade** [02:02](https://www.youtube.com/watch?v=CD92gJu_Duc&t=122s)
-
-Bobby Marks: "Minnesota basically hit the wall as far as with this roster here. They lose in the second round to San Antonio. They were going to sign **Io**, that was your priority. You would have been over the luxury tax, over the first apron, and you basically would have been playing the minimum game to try to fill out your depth. Now you have the flexibility to sign **Io**."
-
-https://www.youtube.com/watch?v=CD92gJu_Duc&t=122s
-
-**3. Bobby Marks — "You got to remember you got to spend 90% of the salary cap by the first day." — Chicago Bulls' need for a center and cap space usage** [05:26](https://www.youtube.com/watch?v=CD92gJu_Duc&t=326s)
-
-Bobby Marks: "You got to remember you got to spend 90% of the salary cap by the first day of the regular season. They are roughly 14-15 million dollars below that threshold. They still have money to go out and burn. You fill a need, which is a center. In a 24-hour window, your frontcourt can look like **Caleb Wilson**, **Matas Buzelis**, and **Nic Claxton**."
-
-https://www.youtube.com/watch?v=CD92gJu_Duc&t=326s
-
-**4. Bobby Marks — "Brooklyn is going to be interesting. They can certainly go the cap space game first." — Brooklyn Nets' potential cap space and trade options** [08:00](https://www.youtube.com/watch?v=CD92gJu_Duc&t=480s)
-
-Bobby Marks: "Brooklyn is going to be interesting. They can certainly go the cap space game first and use 30-35 million dollars in cap space. And then act as an over-the-cap team and do the Claxton for Randle trade. You need a little bit more to send out in a deal to be able to do that. But that is certainly an option."
-
-https://www.youtube.com/watch?v=CD92gJu_Duc&t=480s
-
----
-
-## Bobby Marks on the Bucks trading Giannis to the Heat and what’s next for Miami 🍿 | SportsCenter — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=KKWzDSbtrLo
-
-_Speakers identified: Nicole Briscoe, Bobby Marks, Ryan Clark_
-
-**1. Bobby Marks — "I think we've got clarity for Milwaukee. I think this was long overdue." — Bucks gain roster clarity and future assets in Giannis trade** [00:10](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=10s)
-
-Bobby Marks: "I think clarity, I think that was the other word when I talked with NBA teams tonight. We've got clarity. I think we've got clarity for Milwaukee. I think this was long overdue. I thought this could potentially happen at the trade deadline and I think there's some clarity with Miami as far as the direction that the Heat are going to go. Looking back on where the Bucks were in February and where they are right now, they did really well for themselves. This was not the package that was offered back in February."
-
-https://www.youtube.com/watch?v=KKWzDSbtrLo&t=10s
-
-**2. Bobby Marks — "This is a team that had only Giannis on their roster." — Bucks' roster transformation after trading Giannis Antetokounmpo** [00:40](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=40s)
-
-Bobby Marks: "This is a team that had only Giannis on their roster. He was the only player that was drafted in the first round on their roster. Now they have the 13th pick, they've got the 10th pick also, they've got two future picks, they've got some nice young players to build around and I think it gives both teams a sense of direction as far as where they're going to go with this offseason here."
-
-https://www.youtube.com/watch?v=KKWzDSbtrLo&t=40s
-
-**3. Bobby Marks — "February deals in season are really hard, especially when you're doing four-for-one deals." — Comparing the February trade offer to the current deal** [01:04](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=64s)
-
-Bobby Marks: "February deals in season are really hard, especially when you're doing four-for-one deals and when you're including a player like **Khalil Ware**, which certainly is someone that Miami did not want to trade back in February. When you look at the ability to trade future draft picks, Miami was restricted in February and even the ability to trade their own, which is the 13th pick in a draft, you don't want to just move off that there. So when you look at the pieces that are here, this is a bigger version of what could have been offered back in February."
-
-https://www.youtube.com/watch?v=KKWzDSbtrLo&t=64s
-
-**4. Bobby Marks — "It potentially could cost you Norman Powell, your All-Star from last year, who is an unrestricted free agent." — Miami's roster challenges and salary cap constraints after trade** [01:51](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=111s)
-
-Bobby Marks: "Getting **Bobby Portis** back in the deal certainly helps your front court here, but it potentially could cost you **Norman Powell**, your All-Star from last year, who is an unrestricted free agent. Remember, we deal with these apron rules. Miami now becomes hard capped at the first apron. They're limited as far as what they can go out and offer **Norman Powell** in a deal. When you look at their back court, their back court is a little bit depleted here. They need a little bit more front court help and they've got about five roster spots to go out and fill to try to compete with Boston and New York and teams like that. So there's work to do for **Pat Riley** despite getting Giannis in this trade."
-
-https://www.youtube.com/watch?v=KKWzDSbtrLo&t=111s
-
-**5. Bobby Marks — "It gives them a clean slate. It gives them a clean slate when now you add another lottery pick." — Milwaukee's long-term outlook and roster building strategy** [02:53](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=173s)
-
-Bobby Marks: "It gives them a clean slate. It gives them a clean slate when now you add another lottery pick to tomorrow night's draft and you get three young players and a win now. I call it they basically checked the three boxes when it comes to the superstar package with Giannis: a win now player in **Tyler Herro**, young players on controllable contract, and draft equity. Certainly the 13th pick, two future picks, a swap here. And I think when you look at it from Boston's perspective, yes, Jaylen Brown is a top 10 player in the NBA, but what else is coming with you?"
-
-https://www.youtube.com/watch?v=KKWzDSbtrLo&t=173s
-
-**6. Bobby Marks — "The positive is that Jaylen Brown still has three years left on his contract." — Jaylen Brown's contract leverage and Boston's roster situation** [03:50](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=230s)
-
-Bobby Marks: "The positive is that **Jaylen Brown** still has three years left on his contract, making roughly $185 million. If **Jaylen Brown** was going into the last year of his contract, I think basically all the leverage would have been lost here. Now there's some relationship repairing that needs to happen. As Shams said earlier, yes, 2022, he was certainly talked about with **Kevin Durant**. Now four years later with Giannis. I think the difference now is that **Jaylen Brown** is a top 10 player in the NBA and he was basically being swapped for a top five player here. So I think the biggest thing is trying to repair this relationship and if it can't be fixed, then you're probably looking at trade suitors out there."
-
-https://www.youtube.com/watch?v=KKWzDSbtrLo&t=230s
-
----
-
-## Kyrie Irving talks not attending Cavs 2016 reunion & shows love to Mavs new coach — *Chaz NBA*
-
-Source: https://www.youtube.com/watch?v=W0gmT3hkeDE
-
-_Speakers identified: Kyrie Irving_
-
-**1. Kyrie Irving — "Shout out to the new addition, man. Shout out to Coach May, Dusty May, man. Shout him out." — Kyrie Irving praises new Mavericks head coach Jason Kidd** [00:13](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=13s)
-
-Kyrie Irving: "Shout out to the new addition, man. Shout out to Coach May, Dusty May, man. Shout him out. Make sure y'all flood his messages, man. Flood his DMs, man. Tell him congrats. Welcome to Dallas, man. We got our GM set, we got our head coach set. Hey, we straight, y'all."
-
-https://www.youtube.com/watch?v=W0gmT3hkeDE&t=13s
-
-**2. Kyrie Irving — "Me and my teammates who won a championship together in 2016, we are straight, y'all." — Kyrie Irving reflects on 2016 championship team connection** [00:58](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=58s)
-
-Kyrie Irving: "Me and my teammates who won a championship together in 2016, we are straight, y'all. It's all love. When I get back to the States, I'm going to pop in with them, going to chop it up, and we going to have a great time. All right, we going to leave it at that."
-
-https://www.youtube.com/watch?v=W0gmT3hkeDE&t=58s
-
-**3. Kyrie Irving — "The immaturity behind using media to spin narratives, it's psychotic, bro." — Kyrie Irving criticizes media narratives and maturity** [01:16](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=76s)
-
-Kyrie Irving: "The immaturity behind using media to spin narratives, it's psychotic, bro. Psychotic. You got to understand, I've been in this media storm for about 10, 11 years. And it's okay. It's not meant to be understood. That's how people make money, too, right? Fair criticism is cool. Harsh criticism, hey man, by all means, y'all got it. But when you start coming at who people are as people and you don't know who they are, and you start assuming and you start going based off of who people are from others, it never works out."
-
-https://www.youtube.com/watch?v=W0gmT3hkeDE&t=76s
-
-**4. Kyrie Irving — "As a leader out here, I'm cool taking accountability and admitting to my wrongs and mistakes." — Kyrie Irving on taking accountability as an NBA leader** [02:05](https://www.youtube.com/watch?v=W0gmT3hkeDE&t=125s)
-
-Kyrie Irving: "As a leader out here, I'm cool taking accountability and admitting to my wrongs and mistakes. It's part of being mature and growing up. But you just don't let people play around with you. Don't let people play around with you. Don't let people copy off you either, man. Don't let people just tell you that you're not that, that you're really not one of God's people."
-
-https://www.youtube.com/watch?v=W0gmT3hkeDE&t=125s
 
 ---
 
@@ -239,6 +125,50 @@ https://www.youtube.com/watch?v=WV3FmD6jxXo&t=673s
 Jamal Collier: "Both sides wanted to figure out a way to work this out. I mean, it had several people in the Bucks organization just flat out say the fact you do not trade guys like this, period, in the league and especially when you're in Milwaukee. Giannis has professed, you know, even throughout sort of the ups and downs of the season in the past two years, losing in the playoffs, how much he loves the city and loves Milwaukee. But he was also very, very steadfast in the fact that he wanted to win a second championship after that 2021 title. And the reality is that the Bucks kept getting further and further away from that after 2021. They've only had one playoff win in the past five years. They lost in the first round for three straight years before missing the playoffs last season and really just a miserable year for all parties involved. Giannis was hurt, the team really never got out of the gates. And the Bucks did all they could to try to avoid getting to this point, making a big swing for **Damian Lillard** a few years ago, even last year kind of tossing that Hail Mary to sign **Miles Turner** by waving and stretching Dame some we've never seen an NBA team do. They feel like they had sort of exhausted every option, turned over every rock in looking cranny to try to figure out how to make this team a contender."
 
 https://www.youtube.com/watch?v=WV3FmD6jxXo&t=780s
+
+---
+
+## Bobby Marks on the Bucks trading Giannis to the Heat and what’s next for Miami 🍿 | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=KKWzDSbtrLo
+
+_Speakers identified: Nicole Briscoe, Bobby Marks, Ryan Clark_
+
+**1. Bobby Marks — "I think we've got clarity for Milwaukee. I think this was long overdue." — Bucks gain roster clarity and future assets in Giannis trade** [00:10](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=10s)
+
+Bobby Marks: "I think clarity, I think that was the other word when I talked with NBA teams tonight. We've got clarity. I think we've got clarity for Milwaukee. I think this was long overdue. I thought this could potentially happen at the trade deadline and I think there's some clarity with Miami as far as the direction that the Heat are going to go. Looking back on where the Bucks were in February and where they are right now, they did really well for themselves. This was not the package that was offered back in February."
+
+https://www.youtube.com/watch?v=KKWzDSbtrLo&t=10s
+
+**2. Bobby Marks — "This is a team that had only Giannis on their roster." — Bucks' roster transformation after trading Giannis Antetokounmpo** [00:40](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=40s)
+
+Bobby Marks: "This is a team that had only Giannis on their roster. He was the only player that was drafted in the first round on their roster. Now they have the 13th pick, they've got the 10th pick also, they've got two future picks, they've got some nice young players to build around and I think it gives both teams a sense of direction as far as where they're going to go with this offseason here."
+
+https://www.youtube.com/watch?v=KKWzDSbtrLo&t=40s
+
+**3. Bobby Marks — "February deals in season are really hard, especially when you're doing four-for-one deals." — Comparing the February trade offer to the current deal** [01:04](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=64s)
+
+Bobby Marks: "February deals in season are really hard, especially when you're doing four-for-one deals and when you're including a player like **Khalil Ware**, which certainly is someone that Miami did not want to trade back in February. When you look at the ability to trade future draft picks, Miami was restricted in February and even the ability to trade their own, which is the 13th pick in a draft, you don't want to just move off that there. So when you look at the pieces that are here, this is a bigger version of what could have been offered back in February."
+
+https://www.youtube.com/watch?v=KKWzDSbtrLo&t=64s
+
+**4. Bobby Marks — "It potentially could cost you Norman Powell, your All-Star from last year, who is an unrestricted free agent." — Miami's roster challenges and salary cap constraints after trade** [01:51](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=111s)
+
+Bobby Marks: "Getting **Bobby Portis** back in the deal certainly helps your front court here, but it potentially could cost you **Norman Powell**, your All-Star from last year, who is an unrestricted free agent. Remember, we deal with these apron rules. Miami now becomes hard capped at the first apron. They're limited as far as what they can go out and offer **Norman Powell** in a deal. When you look at their back court, their back court is a little bit depleted here. They need a little bit more front court help and they've got about five roster spots to go out and fill to try to compete with Boston and New York and teams like that. So there's work to do for **Pat Riley** despite getting Giannis in this trade."
+
+https://www.youtube.com/watch?v=KKWzDSbtrLo&t=111s
+
+**5. Bobby Marks — "It gives them a clean slate. It gives them a clean slate when now you add another lottery pick." — Milwaukee's long-term outlook and roster building strategy** [02:53](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=173s)
+
+Bobby Marks: "It gives them a clean slate. It gives them a clean slate when now you add another lottery pick to tomorrow night's draft and you get three young players and a win now. I call it they basically checked the three boxes when it comes to the superstar package with Giannis: a win now player in **Tyler Herro**, young players on controllable contract, and draft equity. Certainly the 13th pick, two future picks, a swap here. And I think when you look at it from Boston's perspective, yes, Jaylen Brown is a top 10 player in the NBA, but what else is coming with you?"
+
+https://www.youtube.com/watch?v=KKWzDSbtrLo&t=173s
+
+**6. Bobby Marks — "The positive is that Jaylen Brown still has three years left on his contract." — Jaylen Brown's contract leverage and Boston's roster situation** [03:50](https://www.youtube.com/watch?v=KKWzDSbtrLo&t=230s)
+
+Bobby Marks: "The positive is that **Jaylen Brown** still has three years left on his contract, making roughly $185 million. If **Jaylen Brown** was going into the last year of his contract, I think basically all the leverage would have been lost here. Now there's some relationship repairing that needs to happen. As Shams said earlier, yes, 2022, he was certainly talked about with **Kevin Durant**. Now four years later with Giannis. I think the difference now is that **Jaylen Brown** is a top 10 player in the NBA and he was basically being swapped for a top five player here. So I think the biggest thing is trying to repair this relationship and if it can't be fixed, then you're probably looking at trade suitors out there."
+
+https://www.youtube.com/watch?v=KKWzDSbtrLo&t=230s
 
 ---
 
