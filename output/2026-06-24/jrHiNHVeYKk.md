@@ -1,0 +1,29 @@
+# Cam Boozer for ROTY! Lou & Chandler on Grizzlies WINNING Round 1 of NBA Draft — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=jrHiNHVeYKk
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams_
+
+**1. Lou Williams — "I have a few ideas where I would go with Rookie of the Year." — Lou Williams picks his top Rookie of the Year candidates** [00:06](https://www.youtube.com/watch?v=jrHiNHVeYKk&t=6s)
+
+Lou Williams: "I have a few ideas where I would go with Rookie of the Year. I am going to start in Sacramento, **Darius Aicuff Jr.** He is going to have a ton of opportunities to put the ball in the basket and make some impact. If he can get them in a position where it is a positive thing going on in Sacramento and he is a big part of it, I think he puts himself at the head of that class. Also, **Caleb Wilson**, him going to a team with a bunch of other young guys, they are going to give him the basketball, he is going to be featured. He is going to get an opportunity to be Rookie of the Year. And I am also going to go **Cam Boozer**. I think **Cam Boozer** is primed to be the Rookie of the Year in Memphis based on him being highlighted and having the ball in his hands as well."
+
+https://www.youtube.com/watch?v=jrHiNHVeYKk&t=6s
+
+**2. Chandler Parsons — "I think Cam Boozer is the favorite. I think he is the most NBA-ready player." — Chandler Parsons names Cam Boozer as his Rookie of the Year favorite** [00:06](https://www.youtube.com/watch?v=jrHiNHVeYKk&t=6s)
+
+Chandler Parsons: "Honestly, I have two guys on the list and it is two of the three that Lou said. I have **Cam Boozer** and I have **Darius Aicuff**. I think both those guys are going to get a media opportunity. **AJ** is phenomenal, **Peterson** is phenomenal, but they have a lot more talent around them. They are going to be on I think better teams. Their stats are not going to be as good, but I think **Cam Boozer** is the favorite. I think he is the most NBA-ready player and a rookie right now to step in and to help that franchise, and it is something that Memphis could look forward to and kind of build around. He is that good and he is that ready."
+
+https://www.youtube.com/watch?v=jrHiNHVeYKk&t=6s
+
+**3. Chandler Parsons — "I think they did an unbelievable job getting Cam Boozer, who could be the best player." — Chandler Parsons evaluates the Memphis Grizzlies' 2026 NBA Draft performance** [02:17](https://www.youtube.com/watch?v=jrHiNHVeYKk&t=137s)
+
+Chandler Parsons: "I have two again. I have the Memphis Grizzlies. I think they did an unbelievable job getting **Cam Boozer**, who could be the best player in the draft, and getting the kid Lopez, who my boy is representing. Unbelievable player out of Mexico who has played professionally in Australia. I think he is a little bit raw, but he is going to help them right away. And they somehow managed to get five second-round picks. So I love what Memphis did. And then of course, OKC. Are they going to resign **Hartenstein**? We don't know what he is worth, and they just get the best center in the NBA, **Mara**, falls to them at 12, and they get this sniper, Sturtz, from Iowa, which are going to be two impact players right away. It just feels right that those two guys just fall right to OKC. They fit the culture, and it is exactly what they need. They added size and more shooting."
+
+https://www.youtube.com/watch?v=jrHiNHVeYKk&t=137s
+
+**4. Lou Williams — "You lose Triple J in a trade and you go out and you get a guy." — Lou Williams explains why the Memphis Grizzlies are the biggest draft winners** [03:22](https://www.youtube.com/watch?v=jrHiNHVeYKk&t=202s)
+
+Lou Williams: "I have Memphis. I think they were great. They went out and got the guys that they needed to get them over the hump. You lose **Triple J** in a trade and you go out and you get a guy in the same position that is talented, that can play, and he is going to give you a great opportunity. And also, OKC again, a team that looked around, realized where they need to strengthen up, realized in places that they need to go get players. They went out and got a 7-3 guy because a 7-4 guy beat them. So they had to go out and get somebody who is going to be able to match up and give them some depth at that position to be able to compete against them for years to come. For them to go out and get a guy that is talented in this draft, that did a great job at Michigan at protecting the rim, that was a great pickup."
+
+https://www.youtube.com/watch?v=jrHiNHVeYKk&t=202s

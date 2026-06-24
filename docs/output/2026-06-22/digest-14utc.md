@@ -1,38 +1,48 @@
 # HoopsHype YT Quotes — 2026-06-22
 
-## Giannis Traded To Heat! What's Next For Jaylen Brown?? — *Run It Back*
+## Larenz Tate Reveals How He Got the Role of O-Dog in Menace II Society & Why Love Jones Still Matters — *Cousins with Vince Carter & Tracy McGrady*
 
-Source: https://www.youtube.com/watch?v=UE8CYGd6OEo
+Source: https://www.youtube.com/watch?v=6rhbrMDJ3X4
 
-_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, DeMarcus Cousins_
+_Speakers identified: Vince Carter, Tracy McGrady, Larenz Tate_
 
-**1. Chandler Parsons — "If Giannis Antetokounmpo goes to Miami, that is the most terrifying defensive frontcourt in the NBA." — Impact of Giannis Antetokounmpo joining the Miami Heat roster** [00:15](https://www.youtube.com/watch?v=UE8CYGd6OEo&t=15s)
+**1. Larenz Tate — "When I got the audition I was 16. I filmed the movie I was 17." — Larenz Tate on landing the role of O-Dog in Menace II Society** [00:38](https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=38s)
 
-Chandler Parsons: "If **Giannis Antetokounmpo** goes to Miami, that is the most terrifying defensive frontcourt in the NBA. You have **Bam Adebayo**, you have **Jimmy Butler**, and now you add the best transition player in the league. The Heat culture is built for a guy like Giannis. He wants to win, he wants to work, and he wants to be coached hard. Erik Spoelstra is the best coach in the league to manage that ego and that talent. It changes the entire landscape of the Eastern Conference immediately."
+**Larenz Tate:** "It probably would be my first movie, which was Menace II Society. Everything up until then I was on TV. With network television, you have sponsorships, you have to fit a mold, you have to be in a box, and there's things that you can and cannot do. By the time I got to do this movie, I was 16 when I got the audition. I filmed the movie, I was 17."
 
-https://www.youtube.com/watch?v=UE8CYGd6OEo&t=15s
+**Vince Carter:** "How old were you?"
 
-**2. Lou Williams — "If the Celtics decide they need to pivot, Jaylen Brown is the most valuable asset available." — Jaylen Brown's future trade availability following potential roster shifts** [02:45](https://www.youtube.com/watch?v=UE8CYGd6OEo&t=165s)
+**Larenz Tate:** "When I got the audition I was 16. I filmed the movie I was 17."
 
-**Lou Williams:** "If the Celtics decide they need to pivot, **Jaylen Brown** is the most valuable asset available. We talk about him being the second option, but in any other system, he is the primary guy. If Boston feels like they have hit their ceiling with this duo, they have to consider moving him."
+https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=38s
 
-**DeMarcus Cousins:** "I disagree. You do not break up a championship core. **Jaylen Brown** and **Jayson Tatum** have proven they can win together. You do not trade a guy like that unless he explicitly asks out. It is a massive risk to move him for anything less than a top-five player."
+**2. Larenz Tate — "The character of O-Dog did not reflect how I looked. I was looking like a Disney kid." — Larenz Tate on how he shaped the character of O-Dog** [03:14](https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=194s)
 
-https://www.youtube.com/watch?v=UE8CYGd6OEo&t=165s
+Larenz Tate: "When I read the size of the script, the character of O-Dog did not reflect how I looked. The description was like he was a short muscular or tall muscular guy, very dark complexion, long ponytail, fresh out of jail, tattoos everywhere. I was looking like a Disney kid, man. I was fresh, I had a fresh haircut, I had the fresh fade, I didn't have no beard. I was like, this does not me. I said, I have to go in there and change their minds. I had been around people that you didn't expect that can go from zero to 100 and just flip on you. And that was one of the things that I knew I had to do. I had to be able to shake the room up for them to take me seriously."
 
-**3. Chandler Parsons — "If you put Giannis Antetokounmpo on the Miami Heat, that is a championship-caliber team immediately." — Impact of Giannis Antetokounmpo joining the Miami Heat roster** [1:00:00](https://www.youtube.com/watch?v=UE8CYGd6OEo&t=3600s)
+https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=194s
 
-**Chandler Parsons:** "If you put **Giannis Antetokounmpo** on the Miami Heat, that is a championship-caliber team immediately. You are talking about the best defensive frontcourt in the NBA with him and **Bam Adebayo**. It changes the entire landscape of the Eastern Conference."
+**3. Larenz Tate — "The time that they wanted me to be on the show was going to be for a different role." — Larenz Tate on why he turned down a role in Power** [08:23](https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=503s)
 
-**DeMarcus Cousins:** "It is a nightmare scenario for everyone else. You cannot guard that. You have the physicality of Bam and the sheer dominance of Giannis. It is not just about the defense; it is about the spacing and the versatility they would have on both ends of the floor."
+**Larenz Tate:** "The time that they wanted me to be on the show was going to be for a different role, a different character completely different. It was going to be for the character **Terry Silver**, I think his name. He was a lawyer. But I was at the time I was producing a movie up in Toronto with my brother and Lamar, and I was in every scene of this movie. And being a producer I had to be there and I couldn't get back down to New York at the time that they needed me in that window."
 
-https://www.youtube.com/watch?v=UE8CYGd6OEo&t=3600s
+**Vince Carter:** "He was a lawyer."
 
-**4. Michelle Beadle — "If the Celtics do not win it all, the conversation around Jaylen Brown changes completely." — Jaylen Brown's future status with the Boston Celtics** [1:00:25](https://www.youtube.com/watch?v=UE8CYGd6OEo&t=3625s)
+https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=503s
 
-Michelle Beadle: "If the Celtics do not win it all, the conversation around **Jaylen Brown** changes completely. We have seen this dynamic with him and **Jayson Tatum** for years now. At some point, if the results are not there, front offices start looking at whether these two can actually coexist as the primary options on a title team. It is not a knock on his talent, but it is a reality of the business."
+**4. Larenz Tate — "I told I would do it, just like I did with Don Cheadle on his show House of Lies." — Larenz Tate on his guest appearance on House of Lies** [10:09](https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=609s)
 
-https://www.youtube.com/watch?v=UE8CYGd6OEo&t=3625s
+Larenz Tate: "I gave them my word and I told I would do it, just like I did with **Don Cheadle** on his show House of Lies. He says, man, I want you to play my brother. I said, cool. Why are you talking to **Don Cheadle** without us? That's my interpretation of the the the people who get get get What's the problem? I'm like, because I don't need y'all in between us to talk business and what we need to do, because I understand it's for a bigger bigger bigger calls."
+
+https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=609s
+
+**5. Larenz Tate — "What actor would be good for you to play your brother? And I was like, my brother." — Larenz Tate on casting his brother for a role** [11:41](https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=701s)
+
+**Larenz Tate:** "She was like, who would make a What actor would be good for you to play your brother? And I was like, my brother. And she was like, wait a minute. **Lamar**, your producing partner? I said, he's a actor if you want to get him. I said, but **Lamar**, she was like, **Lamar**. Because we were going to go cast somebody else and I was like, bro, if I have something to do with it, understand what this is, y'all. I love all you actors out there. But if I have something to do with it and I can have somebody play my brother, I'm going to always go with my brother first if I can."
+
+**Vince Carter:** "**Lamar**, yeah."
+
+https://www.youtube.com/watch?v=6rhbrMDJ3X4&t=701s
 
 ---
 

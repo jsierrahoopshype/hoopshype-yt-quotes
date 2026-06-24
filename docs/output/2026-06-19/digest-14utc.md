@@ -1,232 +1,82 @@
 # HoopsHype YT Quotes — 2026-06-19
 
-## Is Trading Their Draft Pick A Bad Idea For Warriors? — *NBA on ESPN*
+## Dwyane Wade & Udonis Haslem Answer Everything Fans Want to Know — *Dwyane Wade*
 
-Source: https://www.youtube.com/watch?v=oZ5N5IUqCgU
+Source: https://www.youtube.com/watch?v=7MMtPnoR7Co
 
-_Speakers identified: Brian Windhorst, Tim Bontemps_
+_Speakers identified: Udonis Haslem, Bob, Dwyane Wade_
 
-**1. Brian Windhorst — "if they're going to opt out of a lottery pick here, it's got to be for a player" — Warriors considering trading their 11th pick for an immediate contributor** [00:04](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=4s)
+**1. Udonis Haslem — "Don't ever let nobody cheat you or take what you deserve." — Udonis Haslem on the best life advice from his father** [01:03](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=63s)
 
-**Brian Windhorst:** "Before we go, I want to circle back around to some of the stuff that **Anthony Slater** wrote about with the Warriors. One thing that he questioned was what would happen with the number 11 pick in the draft that the Warriors own. Remember, **Stephen Curry** is resigned, multi-year contract to remain with the Warriors. Steph Curry has indicated this will not be his last year; in fact, he would like to do a contract extension. **Jimmy Butler** is going to miss the bulk of the year, hopefully he's back after the All-Star break, but he's a player in his mid-30s coming off an ACL. So, if they're going to opt out of a lottery pick here, it's got to be for a player who can help them immediately and not for just this season, not a rental. A guy who will be a core player for the next couple of years. The player that Slater floats is **Trey Murphy** from the Pelicans."
+Udonis Haslem: "I cannot really say it was about basketball, but it was about life, and I applied it to sports. Don't ever let nobody cheat you or take what you deserve. I got that from my pops. I remember I was catching a bus to go see my mom, and I went to pay for a bus ticket, so my pops gave me the money to pay for the bus ticket. I went and paid for the bus ticket and my change was short. It was only two dollars, but I did not feel like getting back in the long line for two dollars. I got back to that car and I was two dollars short, my daddy went off. Don't you ever let nobody cheat you for what you deserve, what you work for, what you earn. Get your ass back in line and go get your two dollars."
 
-**Tim Bontemps:** "Warriors have had interest in him for a while."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=63s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=4s
+**2. Dwyane Wade — "I am a right-hand basketball player. Work on your left hand." — Dwyane Wade on the importance of developing a left hand** [02:08](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=128s)
 
-**2. Brian Windhorst — "the Pelicans, after really never wanting to listen on Trey Murphy, are listening to Trey Murphy" — Pelicans listening to trade offers for Trey Murphy** [01:15](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=75s)
+Dwyane Wade: "I am going to give you two answers. As a basketball player, the best advice I got is something that is really simple, and I tell this to my sons all the time. I am a right-hand basketball player. Work on your left hand. Make your left hand just as good as your right hand. My dad always told me that. He did not want me to be a player that you had to push one direction or I had to finish one direction. He wanted me to be versatile, that I could do anything on the floor and feel comfortable on either side of the floor. If you see me play, especially early in my career, I can turn and get in that paint and I go with that left. It is like **Kyrie Irving**. When you watch Kyrie get down to certain areas, that left is just as good as that right."
 
-Brian Windhorst: "A number of teams have. I think it was **Marc Stein** who reported first, and if it wasn't him, I apologize, I'm not trying to disregard anything, who said that the Pelicans, after really never wanting to listen on **Trey Murphy**, are listening to **Trey Murphy**, but their standard is very high, as it should be."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=128s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=75s
+**3. Dwyane Wade — "You better always stand up for yourself and do not never let nobody punk you." — Dwyane Wade on standing your ground against physical play** [02:45](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=165s)
 
-**3. Tim Bontemps — "it's going to be at least probably two first round picks and the number 11 pick" — Warriors have valuable assets to trade for immediate help** [01:33](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=93s)
+Dwyane Wade: "The other one was, do not let anyone punk you. When you are playing this game of basketball, and if you are going to be a good basketball player, you are going to have people who will try to punk you because they are bigger than you, because they are older than you, because they feel like they are tougher than you. You better always stand up for yourself and do not never let nobody punk you. And so, if you seen the way I played the game of basketball, you were not going to punk me. You can talk, you can do whatever. I never let nobody punk me or take me out of my game."
 
-Tim Bontemps: "It's going to be at least probably two first round picks and the number 11 pick is a pretty good one to start with."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=165s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=93s
+**4. Udonis Haslem — "I do not make my kids finish their food anymore." — Udonis Haslem on the outdated 'finish your food' culture** [04:35](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=275s)
 
-**4. Brian Windhorst — "you have to send something out for him as well, in addition to potentially that" — Trey Murphy's contract status impacts trade feasibility** [02:04](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=124s)
+Udonis Haslem: "We grew up in a society where if you did not have much money, you were taught to always finish your food. Your parents always made you finish your food regardless of what the hell was going on. I used to sit at the table, my grits get cold and my mama make me cut them like cake. I had to finish that shit. I do not make my kids finish their food anymore. If you full, push that shit to the side or throw it away. I do not make my kids finish their food anymore. So the finish your food culture, those days of finishing your food, I do not agree with that. Eat until you full and throw that shit away and you will get some more later."
 
-Brian Windhorst: "You have to send something out for him as well, in addition to potentially that. **Trey Murphy** makes what, 28 million dollars or something like that? You have to send something out for him as well."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=275s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=124s
+**5. Udonis Haslem — "I start with fruit and I only eat twice a day." — Udonis Haslem's simple two-meal-a-day nutrition plan** [05:11](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=311s)
 
-**5. Tim Bontemps — "he'd be a great fit for the Warriors. He's a 6'8, pretty athletic, volume three-point shooter" — Trey Murphy would be an ideal fit for the Warriors** [02:10](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=130s)
+Udonis Haslem: "I start with fruit and I only eat twice a day. I do not eat no red meat, I do not eat pork, I do not eat beef. So whatever my meal today will be, I start with fruit in the morning and throughout the day it will be something. My first meal will probably be protein heavy, chicken or something like that with a card, a pasta or rice. And then the night, you know, I will figure it out. But for the most part, I only eat twice a day with a fruit to start my day in the morning and I might have a shake. So those are my days, it is fruit, shake, and two meals."
 
-Tim Bontemps: "He'd be a great fit for the Warriors. He's a 6'8, pretty athletic, volume three-point shooter who's just entering his prime. He'll be 26 next season, so you're getting a help-now guy as you're trying to be competitive during Steph's twilight, however long that may be. Obviously, Steph still playing at an incredibly high level, but then also a bridge to the post-Steph future potentially."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=311s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=130s
+**6. Dwyane Wade — "I start my day with collagen and magnesium." — Dwyane Wade on his morning supplement routine for longevity** [05:45](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=345s)
 
-**6. Brian Windhorst — "you're trying to replicate a Klay Thompson pairing there" — Warriors trying to replicate the Klay Thompson archetype** [02:43](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=163s)
+Dwyane Wade: "I start my day with what I call my daily supplements. I start with my protein shake, and in my protein shake, that is where I get all the things that I need. We are getting older now, and so I am looking at things like my joints, my bone joints, my liver. I am looking at how can I supplement these things in my body because I am sure I am not getting anything. I am looking at healthy aging. I have all these products that is put inside my protein shake, creatine, daily greens. I start my morning with collagen and magnesium. Magnesium is one of the greatest things for your mind. I start with testosterone support, I am getting older. I take my pills in the morning."
 
-Brian Windhorst: "With **Trey Murphy**, what you're trying to replicate there, and maybe I should just have **Jackson** cut this out, you're trying to replicate a **Klay Thompson** pairing there is what you're trying to do. I don't think he's the defender **Klay Thompson** is."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=345s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=163s
+**7. Udonis Haslem — "I watch old games with my kids just because my kids did not have a chance." — Udonis Haslem on why he prefers watching games over highlights** [07:47](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=467s)
 
-**7. Tim Bontemps — "Trey Murphy is a really nice player, don't try to turn him into a Hall of Fame player" — Trey Murphy is a good player, not a Hall of Famer** [02:59](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=179s)
+Udonis Haslem: "None. I am a bad example of that, Killer. I am a bad example of watching my highlights. I do not watch any of my highlights. I went back and watched games with my kids just because my kids did not have a chance to see me play when I was at my peak. So I went back and watched old games with my kids. Like I went back and watched the game with my son the other day and we were just going back to old playoff games and I fucked around and put the game on where I got kicked out the Indiana game. I was like, oh, not that one, son, let us go watch another one."
 
-Tim Bontemps: "He's not. Let's just relax. They're not trying to do that. They're trying to get a good player. Just stop. **Trey Murphy** is a really nice player, don't try to turn him into a Hall of Fame player."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=467s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=179s
+**8. Udonis Haslem — "When Shaq tried to fight Dwyane Wade butt-ass naked and I had to break that shit up." — Udonis Haslem on the time Shaquille O'Neal tried to fight Dwyane Wade** [09:22](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=562s)
 
-**8. Tim Bontemps — "Trey Murphy is a really good player who has yet to be an All-Star" — Trey Murphy's profile as a high-volume shooter** [03:13](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=193s)
+Udonis Haslem: "When Shaq tried to fight **Dwyane Wade** butt-ass naked and I had to break that shit up. I am like, hold on, big fella, what we doing? Like what we doing? Like we butt-ass naked, like you going to fight right now? Like come on, big fella, like don't make me have to break this one up. As a captain, I get it, I am the captain, but I do not want this job, not today. Not today. Not today. I do not want to be captain no more."
 
-Tim Bontemps: "**Trey Murphy** is a really good player who has yet to be an All-Star in his first five years, but he is a big wing who's a high-volume three-point shooter."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=562s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=193s
+**9. Dwyane Wade — "Eddie Jones had Jerome Beasley's linen suit hung up in the middle of the locker room." — Dwyane Wade on the time Eddie Jones hung Jerome Beasley's clothes** [10:23](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=623s)
 
-**9. Tim Bontemps — "they're not a championship contender. Like you can't keep being a play-in team" — Warriors are not currently a championship contender** [03:42](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=222s)
+Dwyane Wade: "I am going to go with a time where **Eddie Jones** had **Jerome Beasley**'s linen suit hung up in the middle of the locker room when we walked in. Jerome wore like one outfit, he did not care. He was wearing that every game and **Eddie Jones** used to be over his head. And we walked in after the game and his clothes was hanging up in the rafters in the locker room. Like they was just hanging in there. It was rest in peace."
 
-Tim Bontemps: "Also, Steph's no longer in his prime, as great as he still is. The Warriors have come to the realization that, quite frankly, they're not a championship contender. Like you can't keep being a play-in team and then not get out of the play-in, look yourself in the mirror and say, 'Ah, we're a piece away.' No, they want to be a competitive team in Steph's twilight. There's honor in being competitive. That's where they are."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=623s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=222s
+**10. Udonis Haslem — "For me, it is when I had the Lisfranc injury." — Udonis Haslem on his Lisfranc injury and the end of his prime** [11:25](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=685s)
 
-**10. Tim Bontemps — "I'm not really sure trading multiple first-round picks for Trey Murphy is a smart move" — Trading multiple first-round picks for Trey Murphy is questionable** [04:11](https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=251s)
+Udonis Haslem: "For me, it is when I had the Lisfranc injury. When I tore my third, fourth, and fifth metatarsal. First of all, first and foremost, I came back at the end of that season and I played in the playoffs and we lost to Dallas that year. Then I came back and played the next year, but in all honesty, I was not the same player for probably two years after that. And the conversation is as a basketball player, when we can come back and play, or when we can come back and get to the level that we were at before we got hurt. It took me a year and a half to get back to the level I was at before I got hurt."
 
-Tim Bontemps: "I'm not really sure trading multiple first-round picks for **Trey Murphy** is a smart move for a team in Golden State's situation either. Number 11 pick's a pretty good pick. You're getting a young guy that in theory you can have be a player you're building around going forward. It's the same reason why, for as great as Giannis is, I thought them giving up their draft for him was a debatable move given the situation that their whole roster is at. I'm not saying they got to try to just tank with Steph, but I'd probably be trying to be a little less aggressive than that ultimately."
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=685s
 
-https://www.youtube.com/watch?v=oZ5N5IUqCgU&t=251s
+**11. Dwyane Wade — "I would say, very similar to Udonis, it was my third knee surgery. It was in 2012." — Dwyane Wade on his 2012 knee surgery and loss of explosion** [12:27](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=747s)
 
----
+Dwyane Wade: "I would say, very similar to Udonis, it was my third knee surgery. It was in 2012. So after we beat OKC in the finals in 2012, that summer I got my third knee surgery. And after that, I do not feel like I never got back my explosion. Maybe I came back a little too quick. We went to the finals and I got knee surgery and I was there for training camp the next year. Maybe I came back a little too quick for my third knee surgery and I did not get myself really a full time to really heal. And I never got back that when I was driving to the bucket, I can see that I could not take off like I used to."
 
-## LeBron to Warriors if Lakers Resign Austin Reaves?!? — *Run It Back*
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=747s
 
-Source: https://www.youtube.com/watch?v=4ezz7bXuURk
+**12. Udonis Haslem — "The NBA is like new shiny toy syndrome. They get a new shiny toy." — Udonis Haslem on the reality of being replaced by younger players** [13:37](https://www.youtube.com/watch?v=7MMtPnoR7Co&t=817s)
 
-_Speakers identified: Lou Williams, DeMarcus Cousins, Chandler Parsons, Sam Amick_
+Udonis Haslem: "Because it took me so long to get back to the level I was at before I got hurt, I just felt like I was never seen the same or given the same opportunities. I think this game passes you by, man. You get great players coming into these organizations and you fuck around and you hurt for a year and a half, two years and you are not your best version, there is another young motherfucker coming in and can play and those opportunities got to go to other people. So you know, the NBA is like new shiny toy syndrome. They get a new shiny toy but they forget about that old toy fast."
 
-**1. Sam Amick — "it feels like a little bit of leverage play for me that Trae wants to make sure" — Trae Young's leverage in potential trade discussions with the Wizards** [00:16](https://www.youtube.com/watch?v=4ezz7bXuURk&t=16s)
-
-Sam Amick: "It feels like a little bit of leverage play for me that Trae wants to make sure the Wizards take care of him. When he went that direction, it felt like there was already a handshake deal in place, especially when it seemed like he was healthy enough to play and then he wasn't playing. It added fuel to the fire where you guys know this stuff happens all the time. We need to drop some games this year, get the number one pick, but here is what we got for you on the back end. So I am a little bit surprised that there is as much noise around Trae as there is."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=16s
-
-**2. Sam Amick — "Darryn is trying to push his way to either Washington or Memphis" — Darryn Peterson's push for a move to Washington or Memphis** [01:58](https://www.youtube.com/watch?v=4ezz7bXuURk&t=118s)
-
-Sam Amick: "The optics in Utah have been tricky because you have the Ace thing last year, you have the **Darryn Peterson** thing this year, and in free agency you have **Walker Kessler** being frustrated. So there is that narrative of players, do they want to be in Utah? Now with Darryn, he is trying to push his way to either Washington or Memphis. It didn't work for Ace, and that is the Jazz's counter. We have literally seen this movie a year ago and guess what, Ace is an important part of our program and that bluff was called."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=118s
-
-**3. Sam Amick — "I got DeBonza first. I am going to go with Peterson and say they do the Bailey thing" — Predictions for the top three picks in the upcoming NBA draft** [03:03](https://www.youtube.com/watch?v=4ezz7bXuURk&t=183s)
-
-Sam Amick: "I got DeBonza first. I am going to go with Peterson and say they do the Bailey thing and just push right through it. And Memphis has been tied to Boozer for a long time. The one thing as a subplot that I did love, and I don't know if I am reading the room the right way, but when it comes to the Jazz, you had a funny couple days of news where it was like, Peterson doesn't want to work out, that makes the Jazz look bad. Then I wrote the **Walker Kessler** thing, he is frustrated. Then the story you mentioned, Chandler, what I loved about it in terms of the chessboard and the way the media comes into play is the Jazz immediately getting it out there that they are seriously considering **Cam Boozer**."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=183s
-
-**4. Sam Amick — "I think if Austin gets paid in the kind of way that keeps him in town" — Likelihood of LeBron James and Austin Reaves returning to the Lakers** [05:14](https://www.youtube.com/watch?v=4ezz7bXuURk&t=314s)
-
-Sam Amick: "I think if Austin gets paid in the kind of way that keeps him in town, then there is not enough money for LeBron to feel respected and then I could see him going up the coast and maybe doing the Warriors thing. I feel like there is just not enough money to make all those guys happy with the Lakers. All of their guys are signaling, I will stay if you don't disrespect me with the number. That is basically what the shared messaging is. If Austin gets paid in the kind of way that keeps him in town, then there is not enough money for LeBron to feel respected."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=314s
-
-**5. Sam Amick — "The only two teams I have heard and I will pick one of them is New Orleans" — Ja Morant's potential future with the Pelicans or Kings** [07:14](https://www.youtube.com/watch?v=4ezz7bXuURk&t=434s)
-
-Sam Amick: "The only two teams I have heard and I will pick one of them is New Orleans and Sacramento. I will probably push it the New Orleans way."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=434s
-
-**6. Sam Amick — "Steve Ballmer who as we know runs that whole kingdom is still acting like he doesn't want" — Steve Ballmer's reluctance to trade Kawhi Leonard** [07:33](https://www.youtube.com/watch?v=4ezz7bXuURk&t=453s)
-
-Sam Amick: "Clippers. It doesn't make a lot of sense contractually, but **Steve Ballmer** who as we know runs that whole kingdom is still acting like he doesn't want to give Kawhi up."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=453s
-
-**7. Sam Amick — "I think they are going to continue swinging and missing on big names" — Julius Randle's future with the Timberwolves** [07:51](https://www.youtube.com/watch?v=4ezz7bXuURk&t=471s)
-
-Sam Amick: "I don't personally think the Timberwolves have a pathway to, I hate to say it, I think they are going to continue swinging and missing on big names. So I think Julius stays put."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=471s
-
-**8. Sam Amick — "He should go back to Denver to try to write that wrong" — Michael Porter Jr.'s future with the Nuggets** [08:08](https://www.youtube.com/watch?v=4ezz7bXuURk&t=488s)
-
-Sam Amick: "He should go back to Denver to try to write that wrong. They, MPJ, he had a hell of a year."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=488s
-
-**9. Sam Amick — "Detroit is going to be loud. I think they know they got to make a move" — The Pistons' need to make aggressive roster moves** [08:42](https://www.youtube.com/watch?v=4ezz7bXuURk&t=522s)
-
-Sam Amick: "Detroit is going to be loud. I think they know they got to make a move because they have been tied to **Austin Reaves**, they have been tied to a bunch of different guys. They just know that they need some more juice on that roster. So let's do MPJ to Detroit."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=522s
-
-**10. Sam Amick — "I am keeping him there. It is not the name does not match the game anymore" — Anthony Davis's future with the Lakers** [09:12](https://www.youtube.com/watch?v=4ezz7bXuURk&t=552s)
-
-Sam Amick: "I am keeping him there. It is not the name does not match the game anymore in terms of the market and if you tie it to the contract. I don't think the market for AD, given who he is and what he is accomplished, I don't see teams giving up too much for him at this point. So I think he has got to make it work in DC."
-
-https://www.youtube.com/watch?v=4ezz7bXuURk&t=552s
-
----
-
-## Perk Thinks Jaylen Brown Is TALKING Himself Out Of Boston — *Road Trippin*
-
-Source: https://www.youtube.com/watch?v=5vMh4kTYTEI
-
-_Speakers identified: Allie Clifton, Kendrick Perkins, Channing Frye_
-
-**1. Channing Frye — "I want to see him go somewhere where he can build his own team." — Giannis Antetokounmpo needs a new team to build his own legacy** [00:42](https://www.youtube.com/watch?v=5vMh4kTYTEI&t=42s)
-
-**Allie Clifton:** "Where do you think the best fit for Giannis would be?"
-
-**Channing Frye:** "I want to see him go somewhere where he can build his own team. He does not need to go to a team that is already good and that is ready to win. I think he should try to team up with **Anthony Edwards** or **Devin Booker** if he could. Miami is another option, but I think it is better for him to find and build his own team."
-
-https://www.youtube.com/watch?v=5vMh4kTYTEI&t=42s
-
-**2. Kendrick Perkins — "What people do not realize is he has leverage because no team is going to want a Kawhi Leonard type deal." — Giannis Antetokounmpo has leverage to force his way to a new team** [02:13](https://www.youtube.com/watch?v=5vMh4kTYTEI&t=133s)
-
-Kendrick Perkins: "Giannis is a guy that absolutely moves the goalposts. People are saying Milwaukee does not have to move Giannis where he wants to go, but the hell if they do not. What people do not realize is he has leverage because no team is going to want a **Kawhi Leonard** type deal. No team is going to want him for a short-term rental. They want a buy-in cost. They are not guaranteed to win a championship, and if you trade all those pieces away for him and everything is gone after a year, what the hell?"
-
-https://www.youtube.com/watch?v=5vMh4kTYTEI&t=133s
-
-**3. Kendrick Perkins — "He needs to go to the Celtics with Jayson Tatum." — Giannis Antetokounmpo should join the Celtics to play with Jayson Tatum** [04:10](https://www.youtube.com/watch?v=5vMh4kTYTEI&t=250s)
-
-Kendrick Perkins: "To me, Boston, and I am not being a homer, he needs to go to the Celtics with **Jayson Tatum**. I am to the point now, and they would never say it publicly, this is my own personal opinion. I did not get this from no inside source with the Celtics, but I just feel like at this point, Jaylen Brown is somewhat talking himself right up out of that organization with his live stream."
-
-https://www.youtube.com/watch?v=5vMh4kTYTEI&t=250s
-
-**4. Kendrick Perkins — "When you have a dominant player like Giannis, Joe Mazzulla is going to be forced to change some things." — Adding Giannis Antetokounmpo forces Joe Mazzulla to change his system** [05:55](https://www.youtube.com/watch?v=5vMh4kTYTEI&t=355s)
-
-Kendrick Perkins: "When you have a dominant player like Giannis, **Joe Mazzulla** is going to be forced to change some things. And they do not need to add more pieces. **Derrick White**, **Payton Pritchard**, **Jayson Tatum**, that is enough right there to put them right back in the thick of things and saying, okay, we can look the Knicks out of eye because the Knicks should be favored out of respect."
-
-https://www.youtube.com/watch?v=5vMh4kTYTEI&t=355s
-
-**5. Kendrick Perkins — "Tatum is the perfect poster child." — Jayson Tatum is the perfect poster child for the Celtics** [06:36](https://www.youtube.com/watch?v=5vMh4kTYTEI&t=396s)
-
-Kendrick Perkins: "You are not getting rid of Tatum. Tatum is the perfect poster child. He is not causing no distractions. He has got the fresh fade all the time. He has got the whole look. He is living good, pops is in the building, mom is there, and on top of that, he has the game."
-
-https://www.youtube.com/watch?v=5vMh4kTYTEI&t=396s
-
----
-
-## 100th Episode ⭐ Knicks MASSIVE Parade Recap, Luka's Offseason Demands & Michael Robinson's Future — *No Fouls Given*
-
-Source: https://www.youtube.com/watch?v=POiuRkpnqTM
-
-_Speakers identified: Wosny Lambre, Danny Green, Paul Pierce_
-
-**1. Wosny Lambre — "It's not only the first championship in 53 years, it's the first parade ever." — Knicks' championship parade was a historic and emotional event** [02:30](https://www.youtube.com/watch?v=POiuRkpnqTM&t=150s)
-
-Wosny Lambre: "It's not only the first championship in 53 years, it's the first parade ever. They didn't have a parade back in 73 or 70. I'm not going to lie, it was pretty crazy. The turnout was nuts. It's honestly kind of emotional to be there as a lifelong New Yorker and see that many people, different walks of life, people with their kids, older, younger, and everybody just in the most incredible mood. I moved out of New York nine years ago, but I can't say that I've ever been in New York with this feeling and this energy of happiness, joy, love."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=150s
-
-**2. Wosny Lambre — "They made it as hard as possible for actual fans and people to be close to the actual parade route." — NYPD's parade route planning limited fan access to the celebration** [03:45](https://www.youtube.com/watch?v=POiuRkpnqTM&t=225s)
-
-Wosny Lambre: "The NYPD, they came out with a goal, which was to make our jobs as easy as possible and to make it as hard as possible for actual fans and people to be close to the actual parade route. If you watched it on TV, there were certain pockets where they just couldn't contain people, so you see those masses of people, but all along the parade route, you just see crowds that are five, six deep, when it could have easily been 15 people deep. They were just like, we're just going to keep this under total control, make our lives simple and easy, make the people that came here to celebrate their lives hard."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=225s
-
-**3. Wosny Lambre — "Everybody who represented kind of the essence of New York I felt was there." — Knicks parade featured a wide array of iconic New York figures** [09:16](https://www.youtube.com/watch?v=POiuRkpnqTM&t=556s)
-
-Wosny Lambre: "I saw all the iconic rappers, entertainers, former players, everybody who represented kind of the essence of New York I felt was there, and I thought that was dope. You see **Ma$e**, and then you see **French Montana**, or you see the guys who represent **Max B** and shit. **Max B**, yeah, yeah, it was that was dope. Obviously, you know you had **Chris Rock** and Spike was on the float and all them cats, but the essence of New York was definitely felt in this parade."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=556s
-
-**4. Wosny Lambre — "Luka has communicated with the Lakers that his first and foremost desire is an A-list center." — Luka Doncic's desire for an elite center in Los Angeles** [29:10](https://www.youtube.com/watch?v=POiuRkpnqTM&t=1750s)
-
-**Wosny Lambre:** "ESPN's Dave McMenamin is reporting that Luka has communicated with the Lakers that his first and foremost desire is an A-list center. According to McMenamin's report, the Lakers have been hyping up this offseason to Doncic for a while now. Luka wants a championship team like yesterday."
-
-**Danny Green:** "Luka wants a championship team like yesterday. A source close to Doncic told McMenamin, ever since the trade, they've always told us summer of 26 will show you. So we're excited that the summer of 26 is here. The Lakers have allegedly done their due diligence on Jalen Duren, who is a free agent this summer."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=1750s
-
-**5. Wosny Lambre — "Jackson Hayes is signing his Slovenian citizenship papers and Luka just pulled the strings to turn him into a Slovenian national." — Jackson Hayes' Slovenian citizenship and its impact on the Lakers** [33:43](https://www.youtube.com/watch?v=POiuRkpnqTM&t=2023s)
-
-Wosny Lambre: "I saw something crazy the other day where **Jackson Hayes** is signing his Slovenian citizenship papers and Luka just pulled the strings to turn him into a Slovenian national so that he can play on the Slovenian national team. This is the type of guy Luka loves to play with, a rim-running, lob-threat, rim-protector. You need that. That cleans up everything he does defensively and offensively, it makes it easier for him to keep him out. You got to play honest defensively."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=2023s
-
-**6. Wosny Lambre — "They don't have the cheap, homegrown, solid 20-something minute rotation guys that you put around the stars." — Lakers' need for non-expensive developmental players to build depth** [34:46](https://www.youtube.com/watch?v=POiuRkpnqTM&t=2086s)
-
-Wosny Lambre: "I think the problem for the Lakers is that they don't have the **Alex Caruso**s. They don't have the cheap, homegrown, solid 20-something minute rotation guys that you put around the stars and help you win big playoff games and able to spell your stars in the regular season so that you're not getting cooked minutes-wise with the grind. I think that's what is really missing. It's going to be hard for them to put together an eight-man rotation of all solid guys if all of them are people they have to either trade for or sign for big money in free agency."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=2086s
-
-**7. Wosny Lambre — "There were some rumblings about Mitchell Robinson becoming available, right?" — Mitchell Robinson's potential availability and Knicks' roster needs** [40:48](https://www.youtube.com/watch?v=POiuRkpnqTM&t=2448s)
-
-Wosny Lambre: "There were some rumblings about **Mitchell Robinson** becoming available, right? Because the Knicks aren't going to the second apron, and he said that, right? Didn't Dolan say, I'll write the check, whatever the biggest check is that I am not going to the second apron. So that means you ain't writing whatever check. Your check has a cap on it. So he's going to lose him and probably Hartenstein."
-
-https://www.youtube.com/watch?v=POiuRkpnqTM&t=2448s
+https://www.youtube.com/watch?v=7MMtPnoR7Co&t=817s
 
 ---
 
