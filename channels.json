@@ -126,6 +126,34 @@
       "bypass_filters": false,
       "active": true,
       "known_speakers": ["Cam Johnson", "Tommy Alter"]
+    },
+    {
+      "name": "Thanalysis Show",
+      "channel_id": "UCUqIXubCV7gcDJ-QZrdYRbw",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Thanasis Antetokounmpo"]
+    },
+    {
+      "name": "Ayo Dosunmu",
+      "channel_id": "UCnD-vTb2QeSMsXdE360Ec1A",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Ayo Dosunmu"]
+    },
+    {
+      "name": "Dwyane Wade",
+      "channel_id": "UCrlL3lECKmzkcYK8S6cW2Eg",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Dwyane Wade"]
+    },
+    {
+      "name": "Cousins with Vince Carter & Tracy McGrady",
+      "channel_id": "UCI5av_J_zb7S90XrucOfH0w",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Vince Carter", "Tracy McGrady"]
     }
   ],
   "min_duration_minutes": 5,
