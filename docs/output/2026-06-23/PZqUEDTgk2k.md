@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-23
-
-## NBA Draft Reactions! + Ant Next Superstar To Be Traded?!? — *Run It Back*
+# NBA Draft Reactions! + Ant Next Superstar To Be Traded?!? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=PZqUEDTgk2k
 
@@ -33,7 +31,3 @@ https://www.youtube.com/watch?v=PZqUEDTgk2k&t=1690s
 **Lou Williams:** "I agree. When you have a talent like Ant, you have to maximize that window. If the front office fails to provide him with a legitimate supporting cast because of those salary cap restrictions, you are just wasting his prime. Players today do not wait around for organizations to figure it out."
 
 https://www.youtube.com/watch?v=PZqUEDTgk2k&t=3600s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
