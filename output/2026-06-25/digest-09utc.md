@@ -1,0 +1,59 @@
+# HoopsHype YT Quotes — 2026-06-25
+
+## UPDATES on Jaylen Brown, LaMelo Ball offers + Who WON the NBA Draft? | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=SmwDKvEkank
+
+_Speakers identified: Shams Charania, Bobby Marks, Amon-Ra St. Brown, Malika Andrews, Jay Bilas, Brian Windhorst_
+
+**1. Shams Charania — "the Charlotte Hornets are seriously engaged on multiple fronts with interested suitors in LaMelo Ball" — Charlotte Hornets are actively engaged in LaMelo Ball trade discussions** [00:11](https://www.youtube.com/watch?v=SmwDKvEkank&t=11s)
+
+Shams Charania: "**LaMelo Ball** of the Charlotte Hornets, his name is picking up steam around the league. I am told the Charlotte Hornets are seriously engaged on multiple fronts with interested suitors in **LaMelo Ball**. There have been multiple teams that have made aggressive offers this past week. My understanding is **LaMelo Ball** has wanted to be in Charlotte, but the offers are continuing to come in. If the price is met, we could see potential movement here with **LaMelo Ball** in the coming days."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=11s
+
+**2. Shams Charania — "the Boston Celtics are actively in conversations with interested teams in Jaylen Brown" — Boston Celtics are actively exploring trade options for Jaylen Brown** [01:04](https://www.youtube.com/watch?v=SmwDKvEkank&t=64s)
+
+Shams Charania: "**Jaylen Brown** was offered for **Giannis Antetokounmpo**, and that is not the end for him in trade rumors. The Boston Celtics are actively in conversations with interested teams in **Jaylen Brown**. The sense that I get around the league is that the Celtics are having these discussions with a level of purpose. It does not mean that a trade is guaranteed because **Jaylen Brown** has three years guaranteed left on his deal on a supermax contract. Finding the right suitor that meets the right price could take some time, but there could be urgency that develops on either side because clearly it could rub **Jaylen Brown** the wrong way."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=64s
+
+**3. Bobby Marks — "I really like what Minnesota was able to do at pick number 33" — Minnesota Timberwolves add depth with Isaiah Evans draft selection** [03:02](https://www.youtube.com/watch?v=SmwDKvEkank&t=182s)
+
+Bobby Marks: "**Isaiah Evans** to Minnesota at number 33. Here is a player that sat through last night during the first round in the green room and did not get selected. Stings, but you have to move forward. I think where we are going to Minnesota at pick number 33 for a Timberwolves roster that certainly needs some depth with the guard position here. Although he goes into the second round, I think he can get some rotational minutes here. So I really like what Minnesota was able to do at pick number 33."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=182s
+
+**4. Bobby Marks — "I thought Memphis did really well" — Memphis Grizzlies improved roster through draft and trade acquisitions** [03:56](https://www.youtube.com/watch?v=SmwDKvEkank&t=236s)
+
+Bobby Marks: "I thought Memphis did really well. When you look at **Cameron Boozer**, and I thought there was three number one picks in this year's draft when you look at Boozer, Peterson, and the Bonza here. And then they go out and trade for **Karim Lopez**, who played in New Zealand last year, played in Spain before that. And then they go out and get **Richie Saunders** in the second round, a player that had hurt his knee at BYU and had a first-round grade prior to that injury. I really like what Memphis was able to do, a team that certainly has gotten a lot younger, and now we wait to see what happens with them this offseason when it comes to **Ja Morant**."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=236s
+
+**5. Bobby Marks — "it doesn't impact their financial flexibility" — Austin Reaves' new contract does not impact Lakers' cap flexibility** [05:25](https://www.youtube.com/watch?v=SmwDKvEkank&t=325s)
+
+Bobby Marks: "It doesn't impact their financial flexibility here. **Austin Reaves** had a $21 million free agent hold, that basically stays against their books here, and they don't have to sign him until the rest of their roster is filled out. So we could pencil them in at $50 million in cap space. And I think of course the big decision is going to be with **LeBron James**. If he returns, what is his salary going to be? And that is going to play a big role as far as how they are going to fill out, how they are going to go out and get a center, how they are going to get some more shooting here."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=325s
+
+**6. Shams Charania — "the Pistons will trade big man Isaiah Stewart to the Grizzlies for three future second-round picks" — Detroit Pistons trade Isaiah Stewart to Memphis Grizzlies** [06:10](https://www.youtube.com/watch?v=SmwDKvEkank&t=370s)
+
+Shams Charania: "Sources tell ESPN the Pistons will trade big man **Isaiah Stewart** to the Grizzlies for three future second-round picks. The trade allows Detroit to clear Stewart's salary, get some assets, while Memphis gets a 25-year-old in Beef Stew, one of the best sixth men in the league last season."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=370s
+
+**7. Brian Windhorst — "they really, really wanted Darius A. K. Jr." — Sacramento Kings successfully targeted Darius A. K. Jr. in draft** [08:20](https://www.youtube.com/watch?v=SmwDKvEkank&t=500s)
+
+Brian Windhorst: "They really, really wanted **Darius A. K. Jr.**, and there were two teams in front of them that put a draft to them in the point guard spot. He fell to them, they didn't have to trade up, they got their guy, they are thrilled about building around him. And then they traded in to the back of the first round to get **Alex Karaban** to add another piece. They may move on from **Domantas Sabonis**, we will see, but they have Max Christie, we know, and now they have Karaban put in as the big man position."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=500s
+
+**8. Amon-Ra St. Brown — "I really am intrigued with him as a draft pick" — Amon-Ra St. Brown praises draft pick's potential and fit** [09:11](https://www.youtube.com/watch?v=SmwDKvEkank&t=551s)
+
+Amon-Ra St. Brown: "I really am intrigued with him as a draft pick, especially with him going as low as he did. Not to say he went low like he didn't deserve higher, but he was mocked higher. I want to highlight that true big man stuff because in a world full of you have to please this guy with shots, you have to please that guy with plays, he is not one of those guys. And I think that those guys complement a guard so well. So for Atlanta to make that move and to grab him, it excites me. When you pair him with a **CJ McCollum**, a guy that can make the bounce pass, that pocket pass, and he can stay within that free throw line area, take a dribble, make a pivot, do a spin, guys like that are valuable in this league."
+
+https://www.youtube.com/watch?v=SmwDKvEkank&t=551s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
