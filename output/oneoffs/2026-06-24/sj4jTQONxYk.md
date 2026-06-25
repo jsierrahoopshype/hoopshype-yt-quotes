@@ -1,0 +1,79 @@
+# Barack Obama’s White House Pickup Game That Ended in Stitches — *ALL THE SMOKE*
+
+Source: https://www.youtube.com/watch?v=sj4jTQONxYk
+
+_Speakers identified: Matt Barnes, Stephen Jackson, Barack Obama_
+
+**1. Barack Obama — "We especially had a tradition on election days you had to play, so 2016, we played on election day." — Barack Obama on playing pickup basketball during his presidency** [01:14](https://www.youtube.com/watch?v=sj4jTQONxYk&t=74s)
+
+**Barack Obama:** "We played all through the presidency. We would have pickup games. We especially had a tradition on election days you had to play, so 2016, we played on election day at Fort McNair, and I was on fire. One of those days. I was raining down threes and I had like these spin moves. And after I was done, I said, this is the devil telling me to keep on playing and then the next week I'm going to pop my Achilles. Ten years ago was the last time I ran a full-court game."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=74s
+
+**2. Barack Obama — "I still remember like Avery and I think Boucher, it was probably actually you, Alex, because it was Thanksgiving weekend." — Barack Obama on the injury that required stitches during his presidency** [01:53](https://www.youtube.com/watch?v=sj4jTQONxYk&t=113s)
+
+**Matt Barnes:** "We saw you the day after you got hit in the mouth and had the stitches."
+
+**Barack Obama:** "Yeah, so this is proof by the way that they didn't take me easy. I still remember like **Avery** and I think **Boucher**, it was probably actually you, **Alex**, because it was Thanksgiving weekend. And y'all looking down and I'm like, blood coming and I had to speak that weekend and you can still see like this butterfly, yeah, the caterpillar right on my lip."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=113s
+
+**3. Barack Obama — "A group of churches hired me in Chicago. They said, we'll come out here, there's a bunch of neighborhoods." — Barack Obama on his early community organizing work in Chicago** [03:24](https://www.youtube.com/watch?v=sj4jTQONxYk&t=204s)
+
+Barack Obama: "I was in New York, I was 25, and I wanted to figure out how I could be part of building up communities and trying to at the grassroots, make things better for folks. Couldn't really figure out how to do it. A group of churches hired me in Chicago. They said, we'll come out here, there's a bunch of neighborhoods that have been hit with steel plant closings, folks losing their jobs, there was a lot of racial turnover. So they said, we'll pay you $13,000 a year and car expenses. So I bought a used car, janky car, put all my stuff in the backseat, and I drive from New York. And you come out the skyway here, and back then this park had a four-lane highway right down the middle of it. Right over here, right where that fence is. And so this is the place where I first came to Chicago, was right through here. And these are the neighborhoods where I worked. **Michelle** and **Craig**, y'all met **Michelle**'s brother, they grew up in a little bungalow that they didn't even own, their aunt owned, about two miles from here. I taught here, our daughters were born here, our wedding reception was about a mile away. So this really was the place that became not just my home, but it's where I learned how to do the work that I ended up doing."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=204s
+
+**4. Barack Obama — "I grew up without a dad in the house. Didn't really know my father. Met him once when I was 10." — Barack Obama on how basketball helped him cope with his upbringing** [06:37](https://www.youtube.com/watch?v=sj4jTQONxYk&t=397s)
+
+Barack Obama: "I grew up without a dad in the house. Didn't really know my father. Met him once when I was 10. He separated from my mother when I was two, so I didn't remember him. Met him for about a month. My grandparents were terrific, my grandfather loved me. Had a stepfather who was a good man and treated me right and really was blessed to have him in my life for a while. But I didn't have like the clear male role model to say, all right, this is how it's supposed to be done. And basketball, especially, see, because I was in Hawaii at the time, and now there's a pretty good black population because folks from the military go over there. And they look around and they say, well, this is nice. I ain't going back to cold weather. But at the time, there weren't that many. And basketball was a place where I knew, okay, I can belong here, and I can meet, hang out with other boys, and compete, and learn how to work as a team, and everything's equal, everything's based on, can you play, you can't play, right? And that's kind of it. And so it felt to me like a safe harbor to grow up. And at that time also, I think a lot of my role models were on TV. There weren't a lot of grown men that looked like me walking around. And so I'm looking at **Walt Frazier**, and I'm looking at **Dr. J**, and I'm seeing, all right, that's how they operate, that's how they carry themselves on the court and off the court."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=397s
+
+**5. Barack Obama — "My first basketball hero was Clyde. He had this book, I remember when I was 10, I got this book." — Barack Obama on his admiration for Jalen Brunson** [14:30](https://www.youtube.com/watch?v=sj4jTQONxYk&t=870s)
+
+Barack Obama: "We all have long-suffering Knicks fan friends. And I told you, my first basketball hero was **Clyde**. He had this book, I remember when I was 10, I got this book, I think it was called like Rock Steady. And it was like, Walt **Clyde Frazier**'s guide to being cool or something like that. And it had him all up super fly, had the, you know, the hat, the fur coat, and a Playboy belt he was real proud of. I ended up meeting him one time and couldn't be more cool, gracious, but shy. You could tell he was from the Midwest somewhere and he'd gone to New York. And this became kind of his thing, but that wasn't really who he was. Anyway, that was the first team I remember rooting for was the 70s Knicks that won in 73. And I think back, I'll be 65 this year. It's been a long time. So, point is, happy for the Knicks. Happy for those Knicks fans. It was one of those teams that came together in a way that you don't always see. I think one of the Elijah one Houston teams was a little bit like that, one of the Spurs teams. There are times where sometimes during the regular season, it doesn't seem like they're going to click and then somehow everything fits. So, great team. **Jalen Brunson**, incredible. It's the toughness and endurance and mental fortitude of that guy. You just felt like, I'm just going to keep coming, and I'm not doubting myself, and I'm not going to let my team doubt myself."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=870s
+
+**6. Barack Obama — "for you to be able to take the physical impact at that size, year in, year out" — Praising the toughness and heart of NBA guards** [18:51](https://www.youtube.com/watch?v=sj4jTQONxYk&t=1131s)
+
+Barack Obama: "I forgot how big the two of you were until we were shooting yesterday. And we was two guards. And shooting three two and three. And that's what I'm saying. I mean, for you to be able to take the physical impact at that size, at that size, year in, year out, and not back down, it is a testimony to commitment, but also to heart. So, not afraid."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=1131s
+
+**7. Barack Obama — "I love this young San Antonio team. Those guards, Castle, Harper, I love those two." — Impressions of the young San Antonio Spurs roster** [18:51](https://www.youtube.com/watch?v=sj4jTQONxYk&t=1131s)
+
+Barack Obama: "I love this young San Antonio team. With **Chris Paul**, it would have made sense. Those guards, **Stephon Castle**, **Devin Vassell**, I love those two. Tough. And **Devin Vassell** almost won the game for them. I mean the way he was playing."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=1131s
+
+**8. Barack Obama — "I don't remember somebody that that big moving like that." — Victor Wembanyama's development and defensive challenges** [18:51](https://www.youtube.com/watch?v=sj4jTQONxYk&t=1131s)
+
+Barack Obama: "I think **Victor Wembanyama** will end up being as good as we are projected. I watched him at the All-Star game. I was sitting there, first time I'd seen him live, and I don't remember somebody that that big moving like that. He's got to figure out what his go-to move is. He's got to put on some weight, he's got to work on his conditioning. Because he kept, you could tell he got tired, partly because it just looks to me like playing defense today is so much harder because you have to close out everything. So, it used to be, you're **Victor Wembanyama**, you just plant yourself in the paint, and you're a rim protector. But I'm watching him on defense now, the way they're using him, he is like in the paint and then he's trying to close out a three-pointer."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=1131s
+
+**9. Barack Obama — "I was in a deep deficit with my wife. A lot of making up to do." — Barack Obama on the transition from the presidency to private life** [23:43](https://www.youtube.com/watch?v=sj4jTQONxYk&t=1423s)
+
+Barack Obama: "A couple of things right at you the presidency was over. Number one is, I was in a deep deficit with my wife. A lot of making up to do. Time, travel, fun trips, hanging out, family, which was a blessing, right? And because there were certain pressures on **Michelle** that even I didn't fully appreciate, being the first African American first lady, and the double standards, and how people had perceived her, and she did such an outstanding job and was beloved, but it took a put some strain on her, took a toll. So catching up with her was really important. I didn't miss, and I have not missed all the fuss of the presidency. You walk in the room, folks all standing up, and having to wear a tie every day. I don't miss that. And a lot of the ceremony and the attention. I wasn't somebody who came in looking like I just needed a lot of attention. Not partly because I'd gotten a lot, even during the campaigns. And what I did miss was the work, and I miss the camaraderie of doing hard stuff with a group of people."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=1423s
+
+**10. Barack Obama — "How do I train and help the next generation of leaders? The next Barack or Michelle's." — Barack Obama on his focus on training the next generation of leaders** [26:47](https://www.youtube.com/watch?v=sj4jTQONxYk&t=1607s)
+
+Barack Obama: "How do I train and help the next generation of leaders? The next **Barack** or **Michelle**'s, who are everywhere. **Michelle**'s mom always used to, she'd be asked about what do you do to make **Michelle** so fantastic and **Craig** and **Des Robinson** who was one of my favorite people ever. I loved my mother-in-law deeply. She just laughed and she's all like, you know what, there are a million **Michelle**s and **Craig**s and **Des Robinson**s. But they might just not have had the right break, the right exposure. And she's absolutely right about that. And so the **Michelle** and I talked, and we said, you know, the one thing we can do well, even though we're getting kind of old, we can still inspire young people. And if we can find ways to lift up, support, inspire, try to spotlight on the next generation of talent, get them together so they don't feel isolated, they feel like they've got a team behind them, that would be worth doing. And so that's how I've been spending a lot of my time. And the analogy I use is it's like moving from player to coach. You're never going to get exactly the same highs as you do when you're on the court, right? There's a different feeling of that competition and you're taking the shot, but there's a different kind of satisfaction when you feel like, you know what, I'm working with this person and they are growing and fulfilling their potential and you're helping that along."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=1607s
+
+**11. Barack Obama — "You have to screen out the noise. And in order for you to understand what's in front of you." — Barack Obama on the importance of screening out noise in politics** [28:56](https://www.youtube.com/watch?v=sj4jTQONxYk&t=1736s)
+
+Barack Obama: "You have to screen out the noise. And in order for you to understand what's in front of you and deal with it well. My old presidency, I never watched cable TV. Never watched cable news. Never, you know, read I didn't have social media. I'd have, now, there were people on my staff whose job it was to monitor what folks are saying because you also want to have input when you're getting constructive criticism or when the American people are all like, look, we're upset about something. You need to get that that feedback loop. And the flip side of that is you also then don't get puffed up when things are going good. Reading your too high, too low, just stay consistent. And this is some of the most important advice I tell young people. It's like, if you are constantly worrying about what other people think, somebody can have a bad day and cuss you out and suddenly that control your happiness, it's controlling your performance, it's controlling your thought processes. So I screen that stuff out pretty early on and I ain't worrying about it. Another way of putting it is, no reason to dignify that kind of stuff. It's not even."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=1736s
+
+**12. Barack Obama — "I didn't have a lot of living role models. I had people who I respected deeply." — Barack Obama on his lack of living role models in politics** [33:49](https://www.youtube.com/watch?v=sj4jTQONxYk&t=2029s)
+
+Barack Obama: "I didn't have a lot of living role models. I had people who I respected deeply, people like **John Lewis**, the the the great civil rights leader and member of Congress, **Vernon Jordan** was a fixture in Washington and I got to know him here in Chicago, **Jesse Jackson** obviously had laid a path for a lot of us. But I'll be honest with you, I was so beneath the pecking order for a lot of these folks that they didn't really and and and I wasn't I didn't come up through family or a political network. So I just kind of I you know, I'm this kid from Hawaii, grassroots with one getting a regular haircut, had one suit, holes in my shoes, walking the streets. So I didn't have somebody who was like, all right, I'm going to bring you along. There was the the the African American president of the Illinois Senate, an old school guy who was a lot older than me, he was almost like my grandfather's age, almost, who became the president, the first black president of the Illinois Senate when I was in the Senate. And he kind of took me under his wing in the sense that he said, you know what, you've got talent, so you don't I'm not going to try to strong-arm you to play the game the way I played it, because he came up, you know, in the old Democratic, you know, patronage and deal-making and and I was like, you know, that that's not how I roll."
+
+https://www.youtube.com/watch?v=sj4jTQONxYk&t=2029s
