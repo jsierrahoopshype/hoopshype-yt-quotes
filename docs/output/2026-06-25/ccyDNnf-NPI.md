@@ -1,0 +1,107 @@
+# Cynthia Cooper Mailed a VHS Tape to Make the WNBA + Now She’s Rebuilding the Comets — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=ccyDNnf-NPI
+
+_Speakers identified: Allie Clifton, Jordan Robinson, Cynthia Cooper, Ryan Ruocco_
+
+**1. Cynthia Cooper — "I put together a whole packet to send over to Rene Brown in the WNBA office." — Cynthia Cooper's unconventional path to the WNBA** [07:18](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=438s)
+
+Cynthia Cooper: "I didn't think they were going to choose me. I thought I was going to have to try out. I'm in Italy, but I really want to play in the WNBA. I hear it's going to be an incredible league. I really want to play. So, I put together a stat sheet, intro letter, video, VHS back in the day, don't judge me, but I put together a whole packet to send over to **Rene Brown** in the office in the WNBA office. I did it by myself. I got all of the stats, everything I needed because back then everything was paper. So, I got everything, I put it all in a box. When I was about to send it to her, I called the head of the package to let them know that the package was coming and I really wanted to play in America, I really wanted to play in the WNBA."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=438s
+
+**2. Cynthia Cooper — "Cynthia Cooper from Parma? Oh, we've been looking for you. What do we send the contract?" — Cynthia Cooper's recruitment to the WNBA** [07:54](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=474s)
+
+Cynthia Cooper: "Here goes **Rene Brown** and she goes, '**Cynthia Cooper** from Parma? Oh, we've been looking for you. What do we send the contract? You're our top eight.' I said, 'What?' On the phone, I said, 'Well, thank you very much. Well, you can send the...' But off the phone, I was like, 'Yes!' And so, I knew that I would have an opportunity to showcase my talent in the WNBA."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=474s
+
+**3. Cynthia Cooper — "Have the confidence that you had when you played in college. That's what they drafted." — Advice for players entering the WNBA draft** [10:36](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=636s)
+
+Cynthia Cooper: "I definitely would say live in the moment and that's whatever moment you're in. But I also would say have the confidence that you had when you played in college. That's what they drafted. They drafted that player. They know you have the potential to be better and you're going to get better, you're going to get stronger, you're going to adapt your body and your game to the league. They already know that. What they don't want is for me to draft one player and then you try to be a different player once you get here. No, be the player that you are and then from there, grow. And then lastly, I would say, continue to get better. Never arrive. Continue to get better. So, if your head and shoulders above the rest, the only way you can stay that way, the late great **Kobe Bryant** will tell you, is to work. Work twice, three times, four times as hard as everyone else and they'll never catch you."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=636s
+
+**4. Cynthia Cooper — "You can't not expect and want a team to be a contender." — Expectations for the Houston Comets' roster** [17:00](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=1020s)
+
+Cynthia Cooper: "You can't not expect and want a team to be a contender. It's harder because you don't have the expansion draft, so you're not getting the type of talent and the experience that you need in that first year. You have what you have. But there are some players, and Nisa Morrow, she has done a fantastic job. She is a walking double-double. She can play, you know, different positions. And so there are a lot of players that are on the team right now that I think can make a huge impact, but I think we'll get more because the city of Houston is a destination. People want to play in Houston."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=1020s
+
+**5. Cynthia Cooper — "There's so many things left undone. We haven't retired Sheryl Swoopes and Tina Thompson's jersey." — Honoring the legacy of the Houston Comets** [18:26](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=1106s)
+
+Cynthia Cooper: "It's going to be amazing because there's so many things left undone. That part. Yeah, it's just so many things like we haven't we haven't retired **Sheryl Swoopes** and **Tina Thompson**'s jersey, although they're in the Naismith Memorial Hall of Fame. You know, we haven't had a reunion. I talked to **Amaya Valdemoro** who's going into the Women's Basketball Hall of Fame and she talked about, 'Coop, make don't forget me when we do our reunion when the Comets come back.' And I said, 'Amaya, of course, we're going to bring we're going to bring as many people as possible that were responsible for those four championships back to the city of Houston because I think that's going to be important with, like I said, bridging that gap and re-engagement, a second marriage to the WNBA for the Houston Comets."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=1106s
+
+**6. Cynthia Cooper — "I'm merging onto the freeway, you're in the lane that merges onto the freeway. Stop playing with me." — Cynthia Cooper's driving quirk involving aggressive truck drivers** [1:01:14](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=3674s)
+
+**Cynthia Cooper:** "I was getting on the freeway, had to get on the freeway. That's what the lane is for. And there's this huge truck, you know in Texas, everybody has a truck, and he's speeding just to get over and get off. Man, dude, I'm merging onto the freeway, you're in the lane that merges onto the freeway. Stop playing with me. You see me trying to get over. So, you know what? I'm merging onto the freeway, you're in the lane that merges onto the freeway. Stop playing with me."
+
+**Allie Clifton:** "You know what my favorite thing is? Every time people drive behind you, your license plate really says greatness."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=3674s
+
+**7. Jordan Robinson — "It's like they're not sure. And they go really slow and they don't get all the way over." — Jordan Robinson on drivers who merge slowly into traffic** [1:03:06](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=3786s)
+
+**Jordan Robinson:** "Just you know when it's like a shopping center on your left-hand side and someone is merging into that middle lane, but they go really it's like they're not sure. And they go really slow and they don't get all the way over into the lane. So you're right behind them and now you have to move over to the other lane because half of their car is sticking out."
+
+**Cynthia Cooper:** "And then they blow their horn."
+
+**Jordan Robinson:** "Yes, because you have to get over. After their car is sticking out because they're like, oh, is this the turn? Is this where I turn? Yes, get over. Make a decision. Get all the way over."
+
+**Cynthia Cooper:** "Even if it's the wrong decision, just make one. Because now you are affecting everyone behind you and you're only thinking about yourself."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=3786s
+
+**8. Allie Clifton — "Do not honk your horn at me to go. I'm not ready to go. I don't want to go." — Allie Clifton on road rage at red lights** [1:04:13](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=3853s)
+
+**Allie Clifton:** "If I'm sitting at a stoplight at the front of the stoplight, and that shit hasn't turned green yet, do not honk your horn at me to go. I'm not ready to go. I don't want to go."
+
+**Cynthia Cooper:** "I blow my horn. Oh, I'm doing that now. I am the problem. I am not the solution. No, listen, I did. I did apologize right after because listen, you guys, I was at a park and I just finished doing my run, jog. I was tired, I was going to my car and there were three guys standing like right next to behind my car. And they looked at my license plate and they looked at me and they looked at my license plate and they looked at me and they said, greatness. They said, greatness. I said, every single day and got in the car."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=3853s
+
+**9. Ryan Ruocco — "I will just be 35 minutes into a drive before I realized I haven't changed whatever music." — Ryan Ruocco on his habit of forgetting to change music** [1:07:53](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4073s)
+
+Ryan Ruocco: "I will just be 35 minutes into a drive before I realized I haven't changed whatever music I was listening to with my daughter in the car. Like that has become a very regular thing. So like I will be eight tracks into K-pop Demon Hunters before I remember that she's no longer in the car and they're all alone. Clearly I do."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4073s
+
+**10. Ryan Ruocco — "I'm a right lane until I'm passing someone. Like that's it. And then if I'm passing, which I do." — Ryan Ruocco on his driving lane preferences** [1:08:41](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4121s)
+
+Ryan Ruocco: "I'm a right lane until I'm passing someone. Like that's it. And then if I'm passing, which I do, then I'll move over and then I get back right. I also feel like there's some kind of psychological thing with cops too, that you're less likely to get pulled over in the right lane than the left."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4121s
+
+**11. Ryan Ruocco — "You and I clearly are thoughtful about this, right? My problem is I feel like there's a lot of people." — Ryan Ruocco on the rules of the road** [1:09:36](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4176s)
+
+Ryan Ruocco: "You and I clearly are thoughtful about this, right? My problem is I feel like there's a lot of people who are just out there, you know, they just have a car and it's like there are rules to this engagement and we should follow them. Like it's like there are rules to this engagement and we should follow them."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4176s
+
+**12. Ryan Ruocco — "I saw how emotional Rebecca was all day, and you know, Coop, I'm sure you have these moments too." — Ryan Ruocco on the emotional impact of calling WNBA games** [1:11:08](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4268s)
+
+Ryan Ruocco: "I saw how emotional Rebecca was all day, and you know, Coop, I'm sure you have these moments too where you see where this league is now and knowing the role you've played in it. And of course that's always with you in some way, I'm sure, but then I'm sure there's other moments where it really hits and it's highlighted and amplified. And I just saw the way Rebecca was in the lobby as we were going to get breakfast that morning and she was running into her teammates and she ran into **Sue Wicks** and she ran into **Kim Hampton** and she ran into T Spoon and **Vickie Johnson** was there as well and and just seeing the way that that group still is so connected."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4268s
+
+**13. Jordan Robinson — "Nneka getting a double U-bet. Just something that feels like a rare gem when you hear it." — Jordan Robinson and Ryan Ruocco on Nneka Ogwumike's clutch play** [1:13:32](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4412s)
+
+**Jordan Robinson:** "And then, you know, when you talk about the ending of that game and Nneka getting a double U-bet. Just something that feels like a rare gem when you hear it coming from you, Ryan. How do you decide when a shot is worthy of the W-bet? And just like you said, that felt so special for Nneka specifically to hit that shot."
+
+**Ryan Ruocco:** "Well, you know it's funny, so that's only the second time I've ever broken it out. It's totally inspired by **Mike Breen** with his double bang, you know? Like I like it definitely, so I've had other people kind of put it in my head in recent years like, oh, you've never done a W-bet and I've been like, oh yeah, I never have. Like okay, if there's a moment that feels right, I would. And last year, prior to Asia's game winner in Game 3 of the Finals, I had thought consciously before I was like, you know, like I I didn't decide ahead of time but I was like, if there's a game winner here and if it's Asia, given her place in the league's history, it's like maybe I could see myself breaking out a W-bet."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4412s
+
+**14. Ryan Ruocco — "I had actually lost my headset completely to go inside, you know, little like inside baseball." — Ryan Ruocco on the technical challenges of broadcasting** [1:15:18](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4518s)
+
+Ryan Ruocco: "I actually had lost my headset completely to go inside, you know, little like inside baseball, a little exes and ohs of our business. Throughout the broadcast for whatever reason, my headset kept going out. But I was still going out over the air. And you guys know like when your headset goes out, you're initially think, oh my mic must be dead. You know, so when it happened earlier in the game, I I have enough reps under my belt. I knew to just kind of like finish my call of what I was doing and then I immediately got in talk back and I was like, hey, my headset's dead. And they told me like, oh, you're still going out over the air. So I was like, all right, I know if I lose my headset, because sometimes like if I wasn't in the middle of a call and I lost my headset, I might just stop thinking I'm not on air, you know? And so anyway, it happened probably like seven or eight more times, but each time they would tell me like you're still over the air."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4518s
+
+**15. Ryan Ruocco — "I think what separates and you guys as part of the ecosystem and part of the fabric." — Ryan Ruocco on the importance of community in the WNBA** [1:16:26](https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4586s)
+
+Ryan Ruocco: "I think what separates and you guys as part of the ecosystem and part of the fabric of the league know this, what separates the WNBA community is regardless of what's going on, there really is this feeling of appreciation for everybody's role in helping build up the league, right? And I think because of that, it really feels like a community. And so you take pride and ownership in whatever role you have in helping build that community up. And so in a moment like that where you can really feel that emotion and that appreciation and that connectivity, it sticks with you. You know, that'll be a night and a call and a game that sticks with me forever. So, you know, I've gotten to call a lot of amazing moments, you know, getting to call the last 13 finals has allowed me the opportunity to to document incredible shot making and wins and losses. I think about like Nneka's game winner in Game 5 of 2016, being an MVP of this league, and then, you know, think about her having a game winning, you know, shot in Game 5 of the 2015 Finals. Maya's buzzer beater in Game 3 of 2015 Finals. This is right up there for me. Like this is definitely, you know, top three or four, if not top one for my favorite moments."
+
+https://www.youtube.com/watch?v=ccyDNnf-NPI&t=4586s

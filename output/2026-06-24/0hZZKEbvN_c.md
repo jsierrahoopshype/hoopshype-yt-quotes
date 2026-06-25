@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-24
-
-## LaMelo TRADED To Wolves!!! + Darius Acuff, John Calipari & Ryan Smith Join! — *Run It Back*
+# LaMelo TRADED To Wolves!!! + Darius Acuff, John Calipari & Ryan Smith Join! — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=0hZZKEbvN_c
 
@@ -45,7 +43,3 @@ https://www.youtube.com/watch?v=0hZZKEbvN_c&t=3600s
 Chandler Parsons: "**John Calipari** has to adjust his style because the NBA is a completely different animal. In college, he is the king, he controls everything, and he is dealing with kids. In the pros, you are dealing with grown men who have their own money and their own agendas. If he tries to run the same system he ran at Kentucky, he is going to have a very short tenure. He needs to empower his stars rather than trying to be the focal point of the organization."
 
 https://www.youtube.com/watch?v=0hZZKEbvN_c&t=3625s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
