@@ -62,47 +62,121 @@ https://www.youtube.com/watch?v=-8fWIY3JbJ8&t=857s
 
 ---
 
-## Kings PG Darius Acuff Jr on NBA Draft, BEST Scorer Calipari Has Had & Boogie's Advice for Sacramento — *Run It Back*
+## Stephen A. RESPONDS to Jaylen Brown 😳 'PATHETIC! NONSENSE! ACTING LIKE A CHILD!' | First Take — *NBA on ESPN*
 
-Source: https://www.youtube.com/watch?v=-SFTaOJiWDA
+Source: https://www.youtube.com/watch?v=TzyYl1mtS0o
 
-_Speakers identified: Michelle Beadle, John Calipari, Darius Acuff Jr., Chandler Parsons, DeMarcus Cousins_
+_Speakers identified: Jaylen Brown, Stephen A. Smith, Kendrick Perkins, Ramona Shelburne, Monica McNutt, Brian Windhorst_
 
-**1. John Calipari — "He's going to be looked after as he grows because part of this is going to be growth." — John Calipari on Darius Acuff Jr.'s growth and work ethic** [00:46](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=46s)
+**1. Jaylen Brown — "I'm so proud and it was my favorite year of the of my basketball career." — Jaylen Brown reflects on the Celtics' 2024 season** [00:00](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=0s)
 
-John Calipari: "He's working and going to be with an owner that absolutely wants him. Scotty coached his dad. He's going to be looked after as he grows because part of this is going to be growth. But I got to tell you one thing folks, he could have shut it down this year, and he did not. He could have shut it down because of his toe. It wasn't crazy crazy, but hard to run. It's hard to play with the speed you need to. It's hard to defend. The last 12 games he played that way, would not sit out a game. Had to keep him in a boot, he didn't practice so. That's who he is. He's not a load management guy. He's not. He's played."
+Jaylen Brown: "So proud of this group and the way we played. I wish we trusted that style of play a little bit more, but I know playoffs kind of shifted our rotations and what we wanted to do. But I'm so proud and it was my favorite year of the of my basketball career."
 
-https://www.youtube.com/watch?v=-SFTaOJiWDA&t=46s
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=0s
 
-**2. John Calipari — "Every player is different. As a big guy, DeMarcus was as much a four as he was a five." — John Calipari evaluates his former players' scoring abilities** [05:35](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=335s)
+**2. Jaylen Brown — "ESPN is unethical and Stephen A. Smith is the head face of that." — Jaylen Brown criticizes ESPN and Stephen A. Smith** [00:41](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=41s)
 
-John Calipari: "I've had so many good players, so many lottery picks. Most of them say I held them back. Bam had 83 in a pro game, he didn't score 83 for me. **Devin Booker** had 72 in a pro game against the Celtics. No, every player is different. As a big guy, DeMarcus was as much a four as he was a five. But when he was playing for me, he better rebound and he better block shots. I had to get Darius, because he could have scored another 10 a game. But he knows I was on him, you're passing the ball, you got to get these people involved. He got **Malik Thomas**. I sat them two down and I said, Darius, you got to get him going. He'll find spots, get him the ball. And then all of a sudden he takes off."
+Jaylen Brown: "Leader behind that was ESPN. ESPN is unethical and **Stephen A. Smith** is the head face of that. But you know, the organization, the players, they were all in agreement. They all knew what I meant by that. Our team was basically salary dumps. We lost a lot of players and for us to emerge and still be in the same position."
 
-https://www.youtube.com/watch?v=-SFTaOJiWDA&t=335s
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=41s
 
-**3. John Calipari — "In the league over the years, I think our kids have made over six billion dollars." — John Calipari on the financial success of his former players** [06:44](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=404s)
+**3. Stephen A. Smith — "I'm not going to go off. I was tempted to. But it it's it's really pathetic." — Stephen A. Smith calls Jaylen Brown's comments pathetic** [01:11](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=71s)
 
-John Calipari: "In the league over the years, I think our kids have made over six billion dollars. Six billion. No, I mean it's ridiculous. And they, it's funny when you go over it, DeMarcus's wave, they just didn't make as much as the guys are making now. Or the number would be 12 billion. I mean because you're talking him and **John Wall** and **Darius Rose** and some of these guys, **Max Deos**. But here's what I would say, this kid's on a path because he loves the game and he loves the process."
+Stephen A. Smith: "I'm not going to go off. I was tempted to. But it it's it's really pathetic. You know, and I don't think it's an accident that he went out of the country spewing that nonsense because we're all tired of hearing from him here because he's making absolutely positively no sense. You know, **Jaylen Brown** is I can't believe what he has tried to make this into. You know, now the entire ESPN network is unethical. How are we unethical? What did we do to **Jaylen Brown**?"
 
-https://www.youtube.com/watch?v=-SFTaOJiWDA&t=404s
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=71s
 
-**4. John Calipari — "He did not go home for the Christmas because he wanted to work out." — John Calipari on Darius Acuff Jr.'s dedication to improvement** [07:22](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=442s)
+**4. Stephen A. Smith — "This is about a grown ass man acting like a child." — Stephen A. Smith criticizes Jaylen Brown for his comments** [01:48](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=108s)
 
-John Calipari: "Do you know he didn't have a car? He never left his room. He did not go home for the Christmas because he wanted to work out. That was not **DeMarcus Cousins**. That was not **DeMarcus Cousins**. No way. He has the greatest mom in the world, right? She says, I'm moving to Lex. After a month, I see her packing up. Am I right, DeMarcus? Packing up. They're all leaving and I go, Miss Cuz, where you going? He says, she says, you got this, he respects you, and you're not afraid of him. I'm out. I don't need to be here. I'm good."
+Stephen A. Smith: "This is about a grown ass man acting like a child because he doesn't like the fact that he went on the airwaves and spewed to the world that going home in the first round was his favorite season. This is also while **Jayson Tatum** was on the bench for over 60 games this year due to his Achilles tear before coming back and having to sit out again. That's what all of this is about."
 
-https://www.youtube.com/watch?v=-SFTaOJiWDA&t=442s
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=108s
 
-**5. John Calipari — "He just loves the game, you know, you're doing it for cars and houses and play the game." — John Calipari on Darius Acuff Jr.'s commitment to the game** [08:15](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=495s)
+**5. Stephen A. Smith — "Kendrick Perkins is a former Boston Celtic. He obviously has relationships with a whole bunch of people." — Stephen A. Smith mentions Kendrick Perkins' connection to the Celtics** [03:29](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=209s)
 
-John Calipari: "He was either took an Uber or I didn't even know his mom and dad were in town, did I? Darius, I didn't even know they were around. And all of a sudden, here's this kid, he just loves the game, you know, you're doing it for cars and houses and play the game, that stuff comes. And he's going to, I think the culture in Sac will begin to change just surround him with people like him who love playing, love winning."
+Stephen A. Smith: "**Kendrick Perkins** is a former Boston Celtic. He obviously has relationships with a whole bunch of people in that organization presently and in the organization formerly, and he's not the only one. And all of them were saying the same thing. But Jaylen Brown wants to call out ESPN and me."
 
-https://www.youtube.com/watch?v=-SFTaOJiWDA&t=495s
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=209s
 
-**6. John Calipari — "If I take them to dinner, they make me pay." — John Calipari on the financial dynamics of his former players** [10:46](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=646s)
+**6. Stephen A. Smith — "I read an anonymous quote about him not being liked from a text that I received." — Stephen A. Smith recalls past criticism of Jaylen Brown** [05:30](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=330s)
 
-John Calipari: "If I take them to dinner, they make me pay. I said, you're making six billion dollars a year. DeMarcus. His gift comes on the first and the 15th of every month. Yeah, it's exactly right. And I let all these guys know, thank you, thank you, because you've done right by me and my family."
+Stephen A. Smith: "Y'all remember the thing that we got into a couple of years ago when I read a quote on the air of an anonymous quote about how he wasn't liked and he started wearing around state your source, state your source, state your source. That same segment, that same diatribe, I called up the quote because I wanted to read it to y'all again. I read an anonymous quote about him not being liked from a text that I received on the air."
 
-https://www.youtube.com/watch?v=-SFTaOJiWDA&t=646s
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=330s
+
+**7. Stephen A. Smith — "He goes in the Olympics when they had Tatum on the squad and Derrick White on the squad." — Stephen A. Smith defends his coverage of Jaylen Brown** [06:24](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=384s)
+
+Stephen A. Smith: "He goes in the Olympics when they had Tatum on the squad and **Derrick White** on the squad and and and and **Drew Holiday** on the squad. I called that out. You saw me call out when he got ejected from the San Antonio Spurs game. I sat down with him face-to-face in Boston, flew to Boston to interview him man-to-man face-to-face on camera and I told him, you know, this is what they're saying about you. This is what I said."
+
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=384s
+
+**8. Stephen A. Smith — "I take Jaylen at his word when he says that he's he liked this season." — Brian Windhorst agrees both sides have a point** [08:29](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=509s)
+
+Stephen A. Smith: "I take Jaylen at his word when he says that he's he liked this season because all those guys rose up. I think that's legitimate and it is credible. I believe that. And Stephen A. is right that you can't be saying those words five minutes after you blew the a 3-1 lead. Both of them are right."
+
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=509s
+
+**9. Stephen A. Smith — "I said you can't say that less than 24 hours after getting sent home in the first round." — Stephen A. Smith reiterates his point about timing** [08:52](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=532s)
+
+Stephen A. Smith: "But that's all I said. That's all I said. I said you can't say that less than 24 hours after getting sent home in the first round. You can't you can't there's nobody that's going to stomach that. I didn't say he was lying. I was just saying you can't say that."
+
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=532s
+
+**10. Kendrick Perkins — "Jaylen Brown is frustrated with the Boston Celtics." — Kendrick Perkins explains Jaylen Brown's frustration with the Celtics** [09:08](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=548s)
+
+Kendrick Perkins: "**Jaylen Brown** ain't frustrated with **Stephen A. Smith**. **Jaylen Brown** ain't frustrated with the media. **Jaylen Brown** is frustrated with the Boston Celtics. Six conference finals, Eastern Conference Finals MVP, NBA Finals MVP, and he's being dangled for a trade for **Yanis Antetokounmpo**. Stephen A. one of the first things Stephen A. said was that **Jaylen Brown** is under appreciated or feels under appreciated. He's always felt under appreciated by us. He always felt like we labeled him as the number two to **Jayson Tatum**'s number one."
+
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=548s
+
+**11. Stephen A. Smith — "Well, you're you're partially right. There's no disagreement there, but it's not complete." — Stephen A. Smith acknowledges Jaylen Brown's frustration** [10:14](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=614s)
+
+Stephen A. Smith: "Well, you're you're partially right. There's no disagreement there, but it's not complete. Because he was frustrated before now and he's been frustrated for years because he's felt under appreciated for years because the system itself hasn't rewarded him the way that it does. See, if you're sitting in Boston and you're achieving what **Jaylen Brown** has achieved and you're not getting the endorsement deals and the level of recognition and notoriety that you believe your play has absolutely positively earned, that's reason enough to be salty."
+
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=614s
+
+**12. Stephen A. Smith — "But when you turn around and you don't have to even look out of the building." — Stephen A. Smith criticizes Jaylen Brown's reaction to trade rumors** [10:48](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=648s)
+
+Stephen A. Smith: "But when you turn around and you don't have to even look out of the building to see somebody else who is getting all of that shine because **Jayson Tatum** is a walking freaking endorsement, what commercial doesn't he have? Then that really, really rubs you the wrong way, which is what adds fodder to people who have speculated about them too, not that they dislike each other or don't get along or anything like that, but that **Jaylen Brown** feels some level of animus towards the system at the very least."
+
+https://www.youtube.com/watch?v=TzyYl1mtS0o&t=648s
+
+---
+
+## 🚨 HORNETS TRADE LAMELO BALL TO THE TIMBERWOLVES 🚨 | Get Up — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=KU1zVBAULT0
+
+_Speakers identified: Brian Windhorst, Tim MacMahon, Mike Greenberg_
+
+**1. Brian Windhorst — "they are basically going all in in Minnesota to make LaMelo Ball and Anthony Edwards running mate" — Timberwolves trade for LaMelo Ball to support Anthony Edwards** [00:44](https://www.youtube.com/watch?v=KU1zVBAULT0&t=44s)
+
+Brian Windhorst: "They are basically going all in in Minnesota to make **LaMelo Ball** and **Anthony Edwards** running mate to relieve the pressure on him with all the double teams. That is the way they are going forward, **LaMelo Ball** alongside **Anthony Edwards**. Charlotte pivoting away, focusing on Conn Cunnipole."
+
+https://www.youtube.com/watch?v=KU1zVBAULT0&t=44s
+
+**2. Tim MacMahon — "this is the Charlotte Hornets saying they thought that their success last year with LaMelo Ball was fools gold" — Hornets moving on from LaMelo Ball as a franchise cornerstone** [03:13](https://www.youtube.com/watch?v=KU1zVBAULT0&t=193s)
+
+Tim MacMahon: "This is the Charlotte Hornets saying they thought that their success last year with **LaMelo Ball** was fools gold. This is them saying we do not believe in **LaMelo Ball**. Yes, they squeezed the Wolves for everything they could, but this is not a superstar return package. This is moving **LaMelo Ball** when they had an opportunity to move on with their franchise."
+
+https://www.youtube.com/watch?v=KU1zVBAULT0&t=193s
+
+**3. Tim MacMahon — "this is telling all those vultures that are circling from other front offices, go somewhere else" — Timberwolves trade sends a message to other teams' front offices** [03:34](https://www.youtube.com/watch?v=KU1zVBAULT0&t=214s)
+
+Tim MacMahon: "For the Wolves, this is a swing and this is telling all those vultures that are circling from other front offices, go somewhere else. Shoot, get away from here because this is a move that is telling **Anthony Edwards**, we are all in to win right now and obviously, Ant was involved in this, Ant was consulted in this and this is something that he wanted."
+
+https://www.youtube.com/watch?v=KU1zVBAULT0&t=214s
+
+**4. Brian Windhorst — "that will be the largest trade exception in the history of the NBA" — Hornets acquire largest trade exception in NBA history** [05:55](https://www.youtube.com/watch?v=KU1zVBAULT0&t=355s)
+
+Brian Windhorst: "That will be the largest trade exception in the history of the NBA. So not only do they get all these draft assets, they now can go shopping if they want to fit their team around **Connie Nippole**, **Brandon Miller**, **Kobe White**. Love it. Love it for Charlotte."
+
+https://www.youtube.com/watch?v=KU1zVBAULT0&t=355s
+
+**5. Tim MacMahon — "part of the reason Conn Cunnipole had such a spectacular rookie year is because LaMelo Ball was creating open looks" — LaMelo Ball's role in Conn Cunnipole's rookie success** [07:16](https://www.youtube.com/watch?v=KU1zVBAULT0&t=436s)
+
+Tim MacMahon: "Part of the reason **Conn Cunnipole** had such a spectacular rookie year is because **LaMelo Ball** was creating open looks for him. So this is great value for the Hornets. I promise you this, the Grizzlies would do backflips to get half of that in return for **Ja Morant**, but I do not know that moving off **LaMelo Ball** makes the Hornets better right now. Matter of fact, I would argue it absolutely does not."
+
+https://www.youtube.com/watch?v=KU1zVBAULT0&t=436s
 
 ---
 
@@ -228,97 +302,47 @@ https://www.youtube.com/watch?v=9bXA3r18bik&t=328s
 
 ---
 
-## 🚨 HORNETS TRADE LAMELO BALL TO THE TIMBERWOLVES 🚨 | Get Up — *NBA on ESPN*
+## Kings PG Darius Acuff Jr on NBA Draft, BEST Scorer Calipari Has Had & Boogie's Advice for Sacramento — *Run It Back*
 
-Source: https://www.youtube.com/watch?v=KU1zVBAULT0
+Source: https://www.youtube.com/watch?v=-SFTaOJiWDA
 
-_Speakers identified: Brian Windhorst, Tim MacMahon, Mike Greenberg_
+_Speakers identified: Michelle Beadle, John Calipari, Darius Acuff Jr., Chandler Parsons, DeMarcus Cousins_
 
-**1. Brian Windhorst — "they are basically going all in in Minnesota to make LaMelo Ball and Anthony Edwards running mate" — Timberwolves trade for LaMelo Ball to support Anthony Edwards** [00:44](https://www.youtube.com/watch?v=KU1zVBAULT0&t=44s)
+**1. John Calipari — "He's going to be looked after as he grows because part of this is going to be growth." — John Calipari on Darius Acuff Jr.'s growth and work ethic** [00:46](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=46s)
 
-Brian Windhorst: "They are basically going all in in Minnesota to make **LaMelo Ball** and **Anthony Edwards** running mate to relieve the pressure on him with all the double teams. That is the way they are going forward, **LaMelo Ball** alongside **Anthony Edwards**. Charlotte pivoting away, focusing on Conn Cunnipole."
+John Calipari: "He's working and going to be with an owner that absolutely wants him. Scotty coached his dad. He's going to be looked after as he grows because part of this is going to be growth. But I got to tell you one thing folks, he could have shut it down this year, and he did not. He could have shut it down because of his toe. It wasn't crazy crazy, but hard to run. It's hard to play with the speed you need to. It's hard to defend. The last 12 games he played that way, would not sit out a game. Had to keep him in a boot, he didn't practice so. That's who he is. He's not a load management guy. He's not. He's played."
 
-https://www.youtube.com/watch?v=KU1zVBAULT0&t=44s
+https://www.youtube.com/watch?v=-SFTaOJiWDA&t=46s
 
-**2. Tim MacMahon — "this is the Charlotte Hornets saying they thought that their success last year with LaMelo Ball was fools gold" — Hornets moving on from LaMelo Ball as a franchise cornerstone** [03:13](https://www.youtube.com/watch?v=KU1zVBAULT0&t=193s)
+**2. John Calipari — "Every player is different. As a big guy, DeMarcus was as much a four as he was a five." — John Calipari evaluates his former players' scoring abilities** [05:35](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=335s)
 
-Tim MacMahon: "This is the Charlotte Hornets saying they thought that their success last year with **LaMelo Ball** was fools gold. This is them saying we do not believe in **LaMelo Ball**. Yes, they squeezed the Wolves for everything they could, but this is not a superstar return package. This is moving **LaMelo Ball** when they had an opportunity to move on with their franchise."
+John Calipari: "I've had so many good players, so many lottery picks. Most of them say I held them back. Bam had 83 in a pro game, he didn't score 83 for me. **Devin Booker** had 72 in a pro game against the Celtics. No, every player is different. As a big guy, DeMarcus was as much a four as he was a five. But when he was playing for me, he better rebound and he better block shots. I had to get Darius, because he could have scored another 10 a game. But he knows I was on him, you're passing the ball, you got to get these people involved. He got **Malik Thomas**. I sat them two down and I said, Darius, you got to get him going. He'll find spots, get him the ball. And then all of a sudden he takes off."
 
-https://www.youtube.com/watch?v=KU1zVBAULT0&t=193s
+https://www.youtube.com/watch?v=-SFTaOJiWDA&t=335s
 
-**3. Tim MacMahon — "this is telling all those vultures that are circling from other front offices, go somewhere else" — Timberwolves trade sends a message to other teams' front offices** [03:34](https://www.youtube.com/watch?v=KU1zVBAULT0&t=214s)
+**3. John Calipari — "In the league over the years, I think our kids have made over six billion dollars." — John Calipari on the financial success of his former players** [06:44](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=404s)
 
-Tim MacMahon: "For the Wolves, this is a swing and this is telling all those vultures that are circling from other front offices, go somewhere else. Shoot, get away from here because this is a move that is telling **Anthony Edwards**, we are all in to win right now and obviously, Ant was involved in this, Ant was consulted in this and this is something that he wanted."
+John Calipari: "In the league over the years, I think our kids have made over six billion dollars. Six billion. No, I mean it's ridiculous. And they, it's funny when you go over it, DeMarcus's wave, they just didn't make as much as the guys are making now. Or the number would be 12 billion. I mean because you're talking him and **John Wall** and **Darius Rose** and some of these guys, **Max Deos**. But here's what I would say, this kid's on a path because he loves the game and he loves the process."
 
-https://www.youtube.com/watch?v=KU1zVBAULT0&t=214s
+https://www.youtube.com/watch?v=-SFTaOJiWDA&t=404s
 
-**4. Brian Windhorst — "that will be the largest trade exception in the history of the NBA" — Hornets acquire largest trade exception in NBA history** [05:55](https://www.youtube.com/watch?v=KU1zVBAULT0&t=355s)
+**4. John Calipari — "He did not go home for the Christmas because he wanted to work out." — John Calipari on Darius Acuff Jr.'s dedication to improvement** [07:22](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=442s)
 
-Brian Windhorst: "That will be the largest trade exception in the history of the NBA. So not only do they get all these draft assets, they now can go shopping if they want to fit their team around **Connie Nippole**, **Brandon Miller**, **Kobe White**. Love it. Love it for Charlotte."
+John Calipari: "Do you know he didn't have a car? He never left his room. He did not go home for the Christmas because he wanted to work out. That was not **DeMarcus Cousins**. That was not **DeMarcus Cousins**. No way. He has the greatest mom in the world, right? She says, I'm moving to Lex. After a month, I see her packing up. Am I right, DeMarcus? Packing up. They're all leaving and I go, Miss Cuz, where you going? He says, she says, you got this, he respects you, and you're not afraid of him. I'm out. I don't need to be here. I'm good."
 
-https://www.youtube.com/watch?v=KU1zVBAULT0&t=355s
+https://www.youtube.com/watch?v=-SFTaOJiWDA&t=442s
 
-**5. Tim MacMahon — "part of the reason Conn Cunnipole had such a spectacular rookie year is because LaMelo Ball was creating open looks" — LaMelo Ball's role in Conn Cunnipole's rookie success** [07:16](https://www.youtube.com/watch?v=KU1zVBAULT0&t=436s)
+**5. John Calipari — "He just loves the game, you know, you're doing it for cars and houses and play the game." — John Calipari on Darius Acuff Jr.'s commitment to the game** [08:15](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=495s)
 
-Tim MacMahon: "Part of the reason **Conn Cunnipole** had such a spectacular rookie year is because **LaMelo Ball** was creating open looks for him. So this is great value for the Hornets. I promise you this, the Grizzlies would do backflips to get half of that in return for **Ja Morant**, but I do not know that moving off **LaMelo Ball** makes the Hornets better right now. Matter of fact, I would argue it absolutely does not."
+John Calipari: "He was either took an Uber or I didn't even know his mom and dad were in town, did I? Darius, I didn't even know they were around. And all of a sudden, here's this kid, he just loves the game, you know, you're doing it for cars and houses and play the game, that stuff comes. And he's going to, I think the culture in Sac will begin to change just surround him with people like him who love playing, love winning."
 
-https://www.youtube.com/watch?v=KU1zVBAULT0&t=436s
+https://www.youtube.com/watch?v=-SFTaOJiWDA&t=495s
 
----
+**6. John Calipari — "If I take them to dinner, they make me pay." — John Calipari on the financial dynamics of his former players** [10:46](https://www.youtube.com/watch?v=-SFTaOJiWDA&t=646s)
 
-## UPDATES on Jaylen Brown, LaMelo Ball offers + Who WON the NBA Draft? | SportsCenter — *NBA on ESPN*
+John Calipari: "If I take them to dinner, they make me pay. I said, you're making six billion dollars a year. DeMarcus. His gift comes on the first and the 15th of every month. Yeah, it's exactly right. And I let all these guys know, thank you, thank you, because you've done right by me and my family."
 
-Source: https://www.youtube.com/watch?v=SmwDKvEkank
-
-_Speakers identified: Shams Charania, Bobby Marks, Amon-Ra St. Brown, Malika Andrews, Jay Bilas, Brian Windhorst_
-
-**1. Shams Charania — "the Charlotte Hornets are seriously engaged on multiple fronts with interested suitors in LaMelo Ball" — Charlotte Hornets are actively engaged in LaMelo Ball trade discussions** [00:11](https://www.youtube.com/watch?v=SmwDKvEkank&t=11s)
-
-Shams Charania: "**LaMelo Ball** of the Charlotte Hornets, his name is picking up steam around the league. I am told the Charlotte Hornets are seriously engaged on multiple fronts with interested suitors in **LaMelo Ball**. There have been multiple teams that have made aggressive offers this past week. My understanding is **LaMelo Ball** has wanted to be in Charlotte, but the offers are continuing to come in. If the price is met, we could see potential movement here with **LaMelo Ball** in the coming days."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=11s
-
-**2. Shams Charania — "the Boston Celtics are actively in conversations with interested teams in Jaylen Brown" — Boston Celtics are actively exploring trade options for Jaylen Brown** [01:04](https://www.youtube.com/watch?v=SmwDKvEkank&t=64s)
-
-Shams Charania: "**Jaylen Brown** was offered for **Giannis Antetokounmpo**, and that is not the end for him in trade rumors. The Boston Celtics are actively in conversations with interested teams in **Jaylen Brown**. The sense that I get around the league is that the Celtics are having these discussions with a level of purpose. It does not mean that a trade is guaranteed because **Jaylen Brown** has three years guaranteed left on his deal on a supermax contract. Finding the right suitor that meets the right price could take some time, but there could be urgency that develops on either side because clearly it could rub **Jaylen Brown** the wrong way."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=64s
-
-**3. Bobby Marks — "I really like what Minnesota was able to do at pick number 33" — Minnesota Timberwolves add depth with Isaiah Evans draft selection** [03:02](https://www.youtube.com/watch?v=SmwDKvEkank&t=182s)
-
-Bobby Marks: "**Isaiah Evans** to Minnesota at number 33. Here is a player that sat through last night during the first round in the green room and did not get selected. Stings, but you have to move forward. I think where we are going to Minnesota at pick number 33 for a Timberwolves roster that certainly needs some depth with the guard position here. Although he goes into the second round, I think he can get some rotational minutes here. So I really like what Minnesota was able to do at pick number 33."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=182s
-
-**4. Bobby Marks — "I thought Memphis did really well" — Memphis Grizzlies improved roster through draft and trade acquisitions** [03:56](https://www.youtube.com/watch?v=SmwDKvEkank&t=236s)
-
-Bobby Marks: "I thought Memphis did really well. When you look at **Cameron Boozer**, and I thought there was three number one picks in this year's draft when you look at Boozer, Peterson, and the Bonza here. And then they go out and trade for **Karim Lopez**, who played in New Zealand last year, played in Spain before that. And then they go out and get **Richie Saunders** in the second round, a player that had hurt his knee at BYU and had a first-round grade prior to that injury. I really like what Memphis was able to do, a team that certainly has gotten a lot younger, and now we wait to see what happens with them this offseason when it comes to **Ja Morant**."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=236s
-
-**5. Bobby Marks — "it doesn't impact their financial flexibility" — Austin Reaves' new contract does not impact Lakers' cap flexibility** [05:25](https://www.youtube.com/watch?v=SmwDKvEkank&t=325s)
-
-Bobby Marks: "It doesn't impact their financial flexibility here. **Austin Reaves** had a $21 million free agent hold, that basically stays against their books here, and they don't have to sign him until the rest of their roster is filled out. So we could pencil them in at $50 million in cap space. And I think of course the big decision is going to be with **LeBron James**. If he returns, what is his salary going to be? And that is going to play a big role as far as how they are going to fill out, how they are going to go out and get a center, how they are going to get some more shooting here."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=325s
-
-**6. Shams Charania — "the Pistons will trade big man Isaiah Stewart to the Grizzlies for three future second-round picks" — Detroit Pistons trade Isaiah Stewart to Memphis Grizzlies** [06:10](https://www.youtube.com/watch?v=SmwDKvEkank&t=370s)
-
-Shams Charania: "Sources tell ESPN the Pistons will trade big man **Isaiah Stewart** to the Grizzlies for three future second-round picks. The trade allows Detroit to clear Stewart's salary, get some assets, while Memphis gets a 25-year-old in Beef Stew, one of the best sixth men in the league last season."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=370s
-
-**7. Brian Windhorst — "they really, really wanted Darius A. K. Jr." — Sacramento Kings successfully targeted Darius A. K. Jr. in draft** [08:20](https://www.youtube.com/watch?v=SmwDKvEkank&t=500s)
-
-Brian Windhorst: "They really, really wanted **Darius A. K. Jr.**, and there were two teams in front of them that put a draft to them in the point guard spot. He fell to them, they didn't have to trade up, they got their guy, they are thrilled about building around him. And then they traded in to the back of the first round to get **Alex Karaban** to add another piece. They may move on from **Domantas Sabonis**, we will see, but they have Max Christie, we know, and now they have Karaban put in as the big man position."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=500s
-
-**8. Amon-Ra St. Brown — "I really am intrigued with him as a draft pick" — Amon-Ra St. Brown praises draft pick's potential and fit** [09:11](https://www.youtube.com/watch?v=SmwDKvEkank&t=551s)
-
-Amon-Ra St. Brown: "I really am intrigued with him as a draft pick, especially with him going as low as he did. Not to say he went low like he didn't deserve higher, but he was mocked higher. I want to highlight that true big man stuff because in a world full of you have to please this guy with shots, you have to please that guy with plays, he is not one of those guys. And I think that those guys complement a guard so well. So for Atlanta to make that move and to grab him, it excites me. When you pair him with a **CJ McCollum**, a guy that can make the bounce pass, that pocket pass, and he can stay within that free throw line area, take a dribble, make a pivot, do a spin, guys like that are valuable in this league."
-
-https://www.youtube.com/watch?v=SmwDKvEkank&t=551s
+https://www.youtube.com/watch?v=-SFTaOJiWDA&t=646s
 
 ---
 
@@ -381,86 +405,6 @@ https://www.youtube.com/watch?v=TyJoMKt_0Jg&t=634s
 Ryan Smith: "We love Walk. He's a big piece of what we're going."
 
 https://www.youtube.com/watch?v=TyJoMKt_0Jg&t=746s
-
----
-
-## Stephen A. RESPONDS to Jaylen Brown 😳 'PATHETIC! NONSENSE! ACTING LIKE A CHILD!' | First Take — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=TzyYl1mtS0o
-
-_Speakers identified: Jaylen Brown, Stephen A. Smith, Kendrick Perkins, Ramona Shelburne, Monica McNutt, Brian Windhorst_
-
-**1. Jaylen Brown — "I'm so proud and it was my favorite year of the of my basketball career." — Jaylen Brown reflects on the Celtics' 2024 season** [00:00](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=0s)
-
-Jaylen Brown: "So proud of this group and the way we played. I wish we trusted that style of play a little bit more, but I know playoffs kind of shifted our rotations and what we wanted to do. But I'm so proud and it was my favorite year of the of my basketball career."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=0s
-
-**2. Jaylen Brown — "ESPN is unethical and Stephen A. Smith is the head face of that." — Jaylen Brown criticizes ESPN and Stephen A. Smith** [00:41](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=41s)
-
-Jaylen Brown: "Leader behind that was ESPN. ESPN is unethical and **Stephen A. Smith** is the head face of that. But you know, the organization, the players, they were all in agreement. They all knew what I meant by that. Our team was basically salary dumps. We lost a lot of players and for us to emerge and still be in the same position."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=41s
-
-**3. Stephen A. Smith — "I'm not going to go off. I was tempted to. But it it's it's really pathetic." — Stephen A. Smith calls Jaylen Brown's comments pathetic** [01:11](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=71s)
-
-Stephen A. Smith: "I'm not going to go off. I was tempted to. But it it's it's really pathetic. You know, and I don't think it's an accident that he went out of the country spewing that nonsense because we're all tired of hearing from him here because he's making absolutely positively no sense. You know, **Jaylen Brown** is I can't believe what he has tried to make this into. You know, now the entire ESPN network is unethical. How are we unethical? What did we do to **Jaylen Brown**?"
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=71s
-
-**4. Stephen A. Smith — "This is about a grown ass man acting like a child." — Stephen A. Smith criticizes Jaylen Brown for his comments** [01:48](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=108s)
-
-Stephen A. Smith: "This is about a grown ass man acting like a child because he doesn't like the fact that he went on the airwaves and spewed to the world that going home in the first round was his favorite season. This is also while **Jayson Tatum** was on the bench for over 60 games this year due to his Achilles tear before coming back and having to sit out again. That's what all of this is about."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=108s
-
-**5. Stephen A. Smith — "Kendrick Perkins is a former Boston Celtic. He obviously has relationships with a whole bunch of people." — Stephen A. Smith mentions Kendrick Perkins' connection to the Celtics** [03:29](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=209s)
-
-Stephen A. Smith: "**Kendrick Perkins** is a former Boston Celtic. He obviously has relationships with a whole bunch of people in that organization presently and in the organization formerly, and he's not the only one. And all of them were saying the same thing. But Jaylen Brown wants to call out ESPN and me."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=209s
-
-**6. Stephen A. Smith — "I read an anonymous quote about him not being liked from a text that I received." — Stephen A. Smith recalls past criticism of Jaylen Brown** [05:30](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=330s)
-
-Stephen A. Smith: "Y'all remember the thing that we got into a couple of years ago when I read a quote on the air of an anonymous quote about how he wasn't liked and he started wearing around state your source, state your source, state your source. That same segment, that same diatribe, I called up the quote because I wanted to read it to y'all again. I read an anonymous quote about him not being liked from a text that I received on the air."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=330s
-
-**7. Stephen A. Smith — "He goes in the Olympics when they had Tatum on the squad and Derrick White on the squad." — Stephen A. Smith defends his coverage of Jaylen Brown** [06:24](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=384s)
-
-Stephen A. Smith: "He goes in the Olympics when they had Tatum on the squad and **Derrick White** on the squad and and and and **Drew Holiday** on the squad. I called that out. You saw me call out when he got ejected from the San Antonio Spurs game. I sat down with him face-to-face in Boston, flew to Boston to interview him man-to-man face-to-face on camera and I told him, you know, this is what they're saying about you. This is what I said."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=384s
-
-**8. Stephen A. Smith — "I take Jaylen at his word when he says that he's he liked this season." — Brian Windhorst agrees both sides have a point** [08:29](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=509s)
-
-Stephen A. Smith: "I take Jaylen at his word when he says that he's he liked this season because all those guys rose up. I think that's legitimate and it is credible. I believe that. And Stephen A. is right that you can't be saying those words five minutes after you blew the a 3-1 lead. Both of them are right."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=509s
-
-**9. Stephen A. Smith — "I said you can't say that less than 24 hours after getting sent home in the first round." — Stephen A. Smith reiterates his point about timing** [08:52](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=532s)
-
-Stephen A. Smith: "But that's all I said. That's all I said. I said you can't say that less than 24 hours after getting sent home in the first round. You can't you can't there's nobody that's going to stomach that. I didn't say he was lying. I was just saying you can't say that."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=532s
-
-**10. Kendrick Perkins — "Jaylen Brown is frustrated with the Boston Celtics." — Kendrick Perkins explains Jaylen Brown's frustration with the Celtics** [09:08](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=548s)
-
-Kendrick Perkins: "**Jaylen Brown** ain't frustrated with **Stephen A. Smith**. **Jaylen Brown** ain't frustrated with the media. **Jaylen Brown** is frustrated with the Boston Celtics. Six conference finals, Eastern Conference Finals MVP, NBA Finals MVP, and he's being dangled for a trade for **Yanis Antetokounmpo**. Stephen A. one of the first things Stephen A. said was that **Jaylen Brown** is under appreciated or feels under appreciated. He's always felt under appreciated by us. He always felt like we labeled him as the number two to **Jayson Tatum**'s number one."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=548s
-
-**11. Stephen A. Smith — "Well, you're you're partially right. There's no disagreement there, but it's not complete." — Stephen A. Smith acknowledges Jaylen Brown's frustration** [10:14](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=614s)
-
-Stephen A. Smith: "Well, you're you're partially right. There's no disagreement there, but it's not complete. Because he was frustrated before now and he's been frustrated for years because he's felt under appreciated for years because the system itself hasn't rewarded him the way that it does. See, if you're sitting in Boston and you're achieving what **Jaylen Brown** has achieved and you're not getting the endorsement deals and the level of recognition and notoriety that you believe your play has absolutely positively earned, that's reason enough to be salty."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=614s
-
-**12. Stephen A. Smith — "But when you turn around and you don't have to even look out of the building." — Stephen A. Smith criticizes Jaylen Brown's reaction to trade rumors** [10:48](https://www.youtube.com/watch?v=TzyYl1mtS0o&t=648s)
-
-Stephen A. Smith: "But when you turn around and you don't have to even look out of the building to see somebody else who is getting all of that shine because **Jayson Tatum** is a walking freaking endorsement, what commercial doesn't he have? Then that really, really rubs you the wrong way, which is what adds fodder to people who have speculated about them too, not that they dislike each other or don't get along or anything like that, but that **Jaylen Brown** feels some level of animus towards the system at the very least."
-
-https://www.youtube.com/watch?v=TzyYl1mtS0o&t=648s
 
 ---
 
