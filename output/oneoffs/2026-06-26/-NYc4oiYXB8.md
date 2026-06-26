@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-26
-
-## What would it take to bring LeBron James home for one last title run & would the cost be worth it? — *Cleveland Cavaliers on cleveland.com*
+# What would it take to bring LeBron James home for one last title run & would the cost be worth it? — *Cleveland Cavaliers on cleveland.com*
 
 Source: https://www.youtube.com/watch?v=-NYc4oiYXB8
 
@@ -125,33 +123,3 @@ https://www.youtube.com/watch?v=-NYc4oiYXB8&t=1505s
 Chris Fedor: "You can't give up **Jared Allen**, **Jaylen Tyson**, **Malik Thomas**, and like **Tyrese Proctor** and expect to get Jaylen Brown. No, it's not going to happen that way. If you want Jaylen Brown, it's going to have to be Evan. And yes, that's hard. And yes, that's a risk. Everybody will admit that's a risk. But think about what you're getting back. And think about the talent that you're getting back. Evan Mobley may never be as good as Jaylen Brown. In fact, we got a lot of evidence that says he won't be as good as Jaylen Brown. Evan Mobley was never going to be as good as Jaylen Brown. Probably never going to be good as Jaylen Brown. That's what you're getting back. And you're a team that just invested in James Harden. You're a team that's probably going to invest in Donovan Mitchell. You know what I'm saying? It's now. This is your championship window."
 
 https://www.youtube.com/watch?v=-NYc4oiYXB8&t=1566s
-
----
-
-## LaVar reacts to LaMelo trade to Wolves & says they need Lonzo and Gelo 😂 — *Chaz NBA*
-
-Source: https://www.youtube.com/watch?v=w6Guig5gZ-Q
-
-_Speakers identified: LaVar Ball_
-
-**1. LaVar Ball — "Minnesota Timberwolves, y'all did the coldest move in the game. You went and got that Melo." — LaVar Ball on the Minnesota Timberwolves acquiring LaMelo Ball** [00:14](https://www.youtube.com/watch?v=w6Guig5gZ-Q&t=14s)
-
-LaVar Ball: "Minnesota Timberwolves, y'all did the coldest move in the game. You went and got that Melo. Yes, but here is the thing, let me give you the recipe. You got to get the other two Ball boys. You get the other two Ball boys, it will be the most watched team ever in the NBA. Trust me when I tell you. You don't think I'm just talking? No, I'm not."
-
-https://www.youtube.com/watch?v=w6Guig5gZ-Q&t=14s
-
-**2. LaVar Ball — "Melo can't win it by himself, but I tell you, with his brothers, I guarantee y'all a championship." — LaVar Ball on the impact of reuniting the Ball brothers** [00:33](https://www.youtube.com/watch?v=w6Guig5gZ-Q&t=33s)
-
-LaVar Ball: "Melo can't win it by himself, but I tell you, with his brothers, I guarantee y'all a championship. The chemistry and the goddamn speed of the game, I never taught my boys to play by themselves, but together, you can't beat them."
-
-https://www.youtube.com/watch?v=w6Guig5gZ-Q&t=33s
-
-**3. LaVar Ball — "A-Rod, you already a superstar, so you know what to do. You will take a chance." — LaVar Ball's message to Anthony Edwards regarding team chemistry** [00:46](https://www.youtube.com/watch?v=w6Guig5gZ-Q&t=46s)
-
-LaVar Ball: "And with Ant, A-Rod, you already a superstar, so you know what to do. You will take a chance. So go get them boys. You can get Lonzo damn near for nothing, you can get Gelo damn near for nothing. Guess what? Coming off the bench, starting, team chemistry, morale in the locker room, whatever you want. Wherever them Ball boys are together, can't lose."
-
-https://www.youtube.com/watch?v=w6Guig5gZ-Q&t=46s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
