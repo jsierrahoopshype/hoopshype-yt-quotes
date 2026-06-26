@@ -1,5 +1,67 @@
 # HoopsHype YT Quotes — 2026-06-26
 
+## Shams Charania goes BEHIND-THE-SCENES between LeBron & the Lakers 👀 | Get Up — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=eHZHK7V7ark
+
+_Speakers identified: Shams Charania, Vincent Goodwill, Tim MacMahon, Mike Greenberg_
+
+**1. Shams Charania — "Minnesota has to be very active in recruiting. Tim Connelly has been described to me by GMs." — Minnesota Timberwolves' aggressive recruiting and gun-slinger mentality** [00:25](https://www.youtube.com/watch?v=eHZHK7V7ark&t=25s)
+
+Shams Charania: "Minnesota has to be very active in recruiting. **Tim Connelly**, their president of basketball operations, has been described to me by GMs around the league as a gunslinger. This trade that he made right here, giving up assets to go get **LaMelo Ball**, it harkens back to when he gave up a ton of draft capital to go get **Rudy Gobert**. That team ends up getting to back-to-back conference finals appearances with **Rudy Gobert** at the anchor of it all. So now, they are making a big swing. There is a calculated risk that comes with trading here for **LaMelo Ball**."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=25s
+
+**2. Tim MacMahon — "Almost unanimously that the Charlotte Hornets were the biggest winner. There is a lot of respect." — Charlotte Hornets' decision to trade LaMelo Ball** [01:15](https://www.youtube.com/watch?v=eHZHK7V7ark&t=75s)
+
+Tim MacMahon: "It was almost unanimously that the Charlotte Hornets were the biggest winner. There is a lot of respect for **Tim Connelly**. People call him a riverboat gambler. I had some people say I didn't like the **Rudy Gobert** deal, and that worked out great for the Timberwolves. So, with those caveats, the almost consensus opinion of the people I talked to around the league was **LaMelo Ball** had next to no value a year ago. **Jeff Peterson**, the Charlotte Hornets general manager, cleaned him up and as soon as he had value, pounced on the opportunity to move him."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=75s
+
+**3. Vincent Goodwill — "You don't make a trade like this without the consultation of Anthony Edwards." — Timberwolves' trade strategy requires Anthony Edwards' consultation** [02:13](https://www.youtube.com/watch?v=eHZHK7V7ark&t=133s)
+
+Vincent Goodwill: "You don't make a trade like this without the consultation of **Anthony Edwards**. You don't do this without letting them know these are our plans and this is where we plan to land this plane by giving you a point guard who can make your game easier and someone who you can also play with that's also creative. It staves off the inevitable is **Anthony Edwards** unhappy in Minnesota talk that we know is going to come up. It staves off the is **Anthony Edwards** doing enough throughout the course of his career to get to the NBA Finals."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=133s
+
+**4. Tim MacMahon — "They need to address the glaring hole that they have at power forward." — Timberwolves' roster limitations and power forward hole** [03:28](https://www.youtube.com/watch?v=eHZHK7V7ark&t=208s)
+
+Tim MacMahon: "They need to address the glaring hole that they have at power forward. They are very limited in terms of the wiggle room that they have from a salary cap or from a hard cap. They don't have a lot of flexibility to go out and address that power forward issue. Is it enough to get back to the conference finals? Probably not, because there are still two teams that are clearly the top tier in the Western Conference. They are not better than the Oklahoma City Thunder, they are not better than the San Antonio Spurs, neither is anybody else in the West."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=208s
+
+**5. Shams Charania — "The Celtics are actively engaged each and every day on trying to find a potential deal." — Celtics' ongoing trade talks for Jaylen Brown** [04:46](https://www.youtube.com/watch?v=eHZHK7V7ark&t=286s)
+
+Shams Charania: "The Celtics are actively engaged each and every day on trying to find a potential deal for **Jaylen Brown**. And the question around the league has become what is the asking price on **Jaylen Brown**? We know they offered him for **Giannis Antetokounmpo**. It was **Jaylen Brown** and two first-round picks. That deal did not happen. So now, where do the Celtics move from here? In some cases, the Celtics have asked teams for at least four first-round picks."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=286s
+
+**6. Tim MacMahon — "They've got to find a deal for him at this point. They've jumped out of the airplane." — Celtics' urgency to trade Jaylen Brown** [06:17](https://www.youtube.com/watch?v=eHZHK7V7ark&t=377s)
+
+Tim MacMahon: "It's done as far as they've got to find a deal for him at this point. They've jumped out of the airplane. They've got to pull the cord on the parachute and find a soft landing here. It's one thing if you're trading **Jaylen Brown** and getting **Giannis Antetokounmpo** in return. Obviously, that is a star for a bigger star type of trade. You know, when you're talking about trading **Jaylen Brown** for potentially multiple picks, you've got to figure out how to use those picks to upgrade this roster now. They have **Jayson Tatum**, a perennial All-NBA player, a proven champion in his prime. Usually when a guy like **Jaylen Brown** is getting traded, it is the start of a rebuild. That's not the case in Boston."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=377s
+
+**7. Vincent Goodwill — "You start off with a very highly list of criteria of what you want." — Celtics' trade strategy for Jaylen Brown** [07:29](https://www.youtube.com/watch?v=eHZHK7V7ark&t=449s)
+
+Vincent Goodwill: "You start off with a very highly list of criteria of what you want, and then as time goes on, as the urgency moves, then you get more realistic. I think when you look at Western Conference teams, to me, you're going to mention the Portland Trail Blazers because they have Deni Avdija. I'm thinking of the Houston Rockets. Maybe a team like New Orleans, a team that's trying to make a splash and get an impact player. You have to look at this as if it is free agency, because free agency in the NBA no longer exists in the way that you think of it. If this were **LeBron James** in his prime, we wouldn't be talking about where **LeBron James** can go for the mid-level. We'd be saying where was **LeBron James** traded to before July 1. Giannis traded, **Jaylen Brown** going to be traded. Those guys don't hit the market anymore, so you have to pay a premium to go and get them."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=449s
+
+**8. Shams Charania — "The Lakers have been pursuing parallel paths throughout this off-season." — Lakers' parallel paths in free agency** [10:48](https://www.youtube.com/watch?v=eHZHK7V7ark&t=648s)
+
+Shams Charania: "The Lakers have been pursuing parallel paths throughout this off-season. So the first one is getting **Austin Reaves** done, which obviously four years, $185 million max deal. Then it's about taking care of **LeBron James**, figuring that out, then **Rui Hachimura**. But at the same time, they've been pursuing trades that bring in salary into their space. They have almost $50 million in space. So who can they go get? And that would have an impact on what they can potentially offer **LeBron James**. My understanding is the Lakers have not made an offer to LeBron as of yesterday. So over the next five or six days, we'll learn more."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=648s
+
+**9. Tim MacMahon — "Their cap space is like a gift card that has an expiration date." — Lakers' cap space is a temporary asset** [12:42](https://www.youtube.com/watch?v=eHZHK7V7ark&t=762s)
+
+Tim MacMahon: "He sure can't take more. And look, I don't think he can get more than the mid-level anywhere else. And the Lakers have to go to LeBron respectfully and say, this is the number that we can give you, these are the other things that we believe we can get accomplished here. And this is the summer that the Lakers have to make long-term roster upgrades. You can't kick this into next summer. You have **Austin Reaves** on a cap hold until he signs that contract. Next year he's on a max deal. Their cap space is like a gift card that has an expiration date. It's not infinite. It is right now, and that is exactly why they promised **Luka Doncic** this would be the summer that they made additions that would put him in position to be able to contend long-term. LeBron obviously, great player still, not long-term."
+
+https://www.youtube.com/watch?v=eHZHK7V7ark&t=762s
+
+---
+
 ## Giannis Has 5 Years Left In His Prime, But Miami Has A Problem — *Road Trippin*
 
 Source: https://www.youtube.com/watch?v=1t3OClu0AG8
@@ -221,120 +283,6 @@ https://www.youtube.com/watch?v=4vAo3d48bdo&t=4205s
 **Cam Johnson:** "Well said. I think that's a great way to close it."
 
 https://www.youtube.com/watch?v=4vAo3d48bdo&t=4295s
-
----
-
-## Does LaMelo Deal Signal We're BACK In A Big Three Era? — *Road Trippin*
-
-Source: https://www.youtube.com/watch?v=a0gZFheQMtE
-
-_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye_
-
-**1. Channing Frye — "we're going back to the big three wave" — The Timberwolves' trade for LaMelo Ball signals a return to the Big Three era** [00:53](https://www.youtube.com/watch?v=a0gZFheQMtE&t=53s)
-
-**Channing Frye:** "This has a huge sign about the league itself. What they're saying is we're going back to the big three wave. Because you look at this year who won: it was OG, the duo, KAT, your talent, and **Jalen Brunson**. Then you go back to who won last year: **Jaylen Williams**, J-Dub, SGA, and Chet. Then let's say the Spurs would have won, they would have had Wembanyama, so and so, so and so. Now you look at what's the recipe for winning, and you're going, what do we need? So we got **Jaden McDaniels** who is taking a huge step, we have our superstar, now we need that guy who's going to make everyone else better."
-
-**Richard Jefferson:** "And to get a guy like LaMelo, who at times has been questioned about his seriousness of basketball, and you put him with them dogs, now he's not the main guy anymore. But he's with one of the top five, top ten best players in the league who is utmost competitive, and then you put him with **Jaden McDaniels**, his attitude and the culture of the Minnesota Timberwolves is going to change him for the better."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=53s
-
-**2. Channing Frye — "LaMelo is going to need growth from a maturity standpoint" — LaMelo Ball's need for growth and maturity in Minnesota** [02:48](https://www.youtube.com/watch?v=a0gZFheQMtE&t=168s)
-
-Channing Frye: "With LaMelo it's all about the level of basketball that he plays. There's no question about his talent, there's no question about his ability, he has the ability to be a superstar in this league. But the Minnesota Timberwolves have been to the conference finals twice. That's a different type of basketball in the last three years. **LaMelo Ball** has yet to be in the postseason. And so for LaMelo, this is a great opportunity, but he's going to need growth from a maturity standpoint. Mistakes don't just get washed away, film sessions are a little bit tougher when you have a high level of expectation."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=168s
-
-**3. Richard Jefferson — "even if he's not an all-nba player right now, he's an all-star player right now" — Julius Randle's value as an All-Star caliber player** [04:26](https://www.youtube.com/watch?v=a0gZFheQMtE&t=266s)
-
-Richard Jefferson: "You understand what **Julius Randle** is. Even if he's not an All-NBA player right now, he's an All-Star player right now. All-NBA is top 15, he's been that twice. All-Star is a top 25 player. I think he's riding in that range. So the Nets did get an All-Star, but it's like what else are you surrounding him with? That's the difference between having the tenth pick in the draft and having the fifth pick. A guy like **Julius Randle** is worth that swap unless you feel like you can win."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=266s
-
-**4. Channing Frye — "think about how young they get and that core to build off of" — The long-term upside of the young Timberwolves core** [05:18](https://www.youtube.com/watch?v=a0gZFheQMtE&t=318s)
-
-Channing Frye: "Think about how young they get and that core to build off of. So even if LaMelo takes a year to understand what's up, now you look at their upside. So **Jaden McDaniels** has upside, **Anthony Edwards** obviously has upside, and **LaMelo Ball** has crazy upside. You can build with those three moving forward and replace these other pieces with whatever. And to me, they've hit their plateau, which is a great plateau of the Western Conference Finals or the second round with Julius Randle. So now you go, holy crap, we can get a medium big man and LaMelo is going to make them better because of the way he plays basketball."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=318s
-
-**5. Channing Frye — "LaMelo is great with shot creation and on the ball" — The specific roles of LaMelo Ball and Anthony Edwards** [06:20](https://www.youtube.com/watch?v=a0gZFheQMtE&t=380s)
-
-Channing Frye: "**Anthony Edwards** can play off the ball. **Anthony Edwards** has the ability to play off the ball. LaMelo is great with shot creation and on the ball. I think his shot selection will probably have to improve from the standpoint of playing on a team that is trying to win a championship. People don't understand the difference in that. It is huge. And LaMelo is a super talented player, but ultimately that's where he's got to make that improvement."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=380s
-
-**6. Channing Frye — "you're comparing them to a championship group, we're comparing them to a four-time MVP" — Comparing the Giannis-Dame duo to LaMelo-Edwards** [07:44](https://www.youtube.com/watch?v=a0gZFheQMtE&t=464s)
-
-Channing Frye: "We don't have a sample size of those other two. We're comparing them to a championship group, we're comparing them to a four-time MVP. **Jamal Murray** is coming off his first All-Star game. I think he was All-NBA this year. So it's like, yeah, when it comes to just Giannis and Dame versus **Anthony Edwards** and LaMelo, you're not going to like the answer. I'm taking Giannis and Dame. I'm taking the MVPs and the championship."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=464s
-
-**7. Channing Frye — "Giannis needs a lot of things to operate well and to win" — The specific roster requirements for Giannis Antetokounmpo to win** [08:36](https://www.youtube.com/watch?v=a0gZFheQMtE&t=516s)
-
-Channing Frye: "Giannis needs a lot of things to operate well and to win. Giannis needs a floor spacing five, Giannis needs a defending guard, Giannis needs a recipe for winning. And then the recipe for Bam winning is he's the second or third best player. When you look at Anthony Edwards and LaMelo, I could say, well, **Jaden McDaniels** obviously we're not talking about him, but you could say his growth has been exponential every year. And now I could just put different types of players with them and they'll be successful. I think to me, you got to rebuild your whole team to make Bam and Giannis work, where I think you could just almost plug and play anyone to go with Anthony Edwards and LaMelo."
-
-https://www.youtube.com/watch?v=a0gZFheQMtE&t=516s
-
----
-
-## Shams Charania goes BEHIND-THE-SCENES between LeBron & the Lakers 👀 | Get Up — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=eHZHK7V7ark
-
-_Speakers identified: Shams Charania, Vincent Goodwill, Tim MacMahon, Mike Greenberg_
-
-**1. Shams Charania — "Minnesota has to be very active in recruiting. Tim Connelly has been described to me by GMs." — Minnesota Timberwolves' aggressive recruiting and gun-slinger mentality** [00:25](https://www.youtube.com/watch?v=eHZHK7V7ark&t=25s)
-
-Shams Charania: "Minnesota has to be very active in recruiting. **Tim Connelly**, their president of basketball operations, has been described to me by GMs around the league as a gunslinger. This trade that he made right here, giving up assets to go get **LaMelo Ball**, it harkens back to when he gave up a ton of draft capital to go get **Rudy Gobert**. That team ends up getting to back-to-back conference finals appearances with **Rudy Gobert** at the anchor of it all. So now, they are making a big swing. There is a calculated risk that comes with trading here for **LaMelo Ball**."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=25s
-
-**2. Tim MacMahon — "Almost unanimously that the Charlotte Hornets were the biggest winner. There is a lot of respect." — Charlotte Hornets' decision to trade LaMelo Ball** [01:15](https://www.youtube.com/watch?v=eHZHK7V7ark&t=75s)
-
-Tim MacMahon: "It was almost unanimously that the Charlotte Hornets were the biggest winner. There is a lot of respect for **Tim Connelly**. People call him a riverboat gambler. I had some people say I didn't like the **Rudy Gobert** deal, and that worked out great for the Timberwolves. So, with those caveats, the almost consensus opinion of the people I talked to around the league was **LaMelo Ball** had next to no value a year ago. **Jeff Peterson**, the Charlotte Hornets general manager, cleaned him up and as soon as he had value, pounced on the opportunity to move him."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=75s
-
-**3. Vincent Goodwill — "You don't make a trade like this without the consultation of Anthony Edwards." — Timberwolves' trade strategy requires Anthony Edwards' consultation** [02:13](https://www.youtube.com/watch?v=eHZHK7V7ark&t=133s)
-
-Vincent Goodwill: "You don't make a trade like this without the consultation of **Anthony Edwards**. You don't do this without letting them know these are our plans and this is where we plan to land this plane by giving you a point guard who can make your game easier and someone who you can also play with that's also creative. It staves off the inevitable is **Anthony Edwards** unhappy in Minnesota talk that we know is going to come up. It staves off the is **Anthony Edwards** doing enough throughout the course of his career to get to the NBA Finals."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=133s
-
-**4. Tim MacMahon — "They need to address the glaring hole that they have at power forward." — Timberwolves' roster limitations and power forward hole** [03:28](https://www.youtube.com/watch?v=eHZHK7V7ark&t=208s)
-
-Tim MacMahon: "They need to address the glaring hole that they have at power forward. They are very limited in terms of the wiggle room that they have from a salary cap or from a hard cap. They don't have a lot of flexibility to go out and address that power forward issue. Is it enough to get back to the conference finals? Probably not, because there are still two teams that are clearly the top tier in the Western Conference. They are not better than the Oklahoma City Thunder, they are not better than the San Antonio Spurs, neither is anybody else in the West."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=208s
-
-**5. Shams Charania — "The Celtics are actively engaged each and every day on trying to find a potential deal." — Celtics' ongoing trade talks for Jaylen Brown** [04:46](https://www.youtube.com/watch?v=eHZHK7V7ark&t=286s)
-
-Shams Charania: "The Celtics are actively engaged each and every day on trying to find a potential deal for **Jaylen Brown**. And the question around the league has become what is the asking price on **Jaylen Brown**? We know they offered him for **Giannis Antetokounmpo**. It was **Jaylen Brown** and two first-round picks. That deal did not happen. So now, where do the Celtics move from here? In some cases, the Celtics have asked teams for at least four first-round picks."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=286s
-
-**6. Tim MacMahon — "They've got to find a deal for him at this point. They've jumped out of the airplane." — Celtics' urgency to trade Jaylen Brown** [06:17](https://www.youtube.com/watch?v=eHZHK7V7ark&t=377s)
-
-Tim MacMahon: "It's done as far as they've got to find a deal for him at this point. They've jumped out of the airplane. They've got to pull the cord on the parachute and find a soft landing here. It's one thing if you're trading **Jaylen Brown** and getting **Giannis Antetokounmpo** in return. Obviously, that is a star for a bigger star type of trade. You know, when you're talking about trading **Jaylen Brown** for potentially multiple picks, you've got to figure out how to use those picks to upgrade this roster now. They have **Jayson Tatum**, a perennial All-NBA player, a proven champion in his prime. Usually when a guy like **Jaylen Brown** is getting traded, it is the start of a rebuild. That's not the case in Boston."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=377s
-
-**7. Vincent Goodwill — "You start off with a very highly list of criteria of what you want." — Celtics' trade strategy for Jaylen Brown** [07:29](https://www.youtube.com/watch?v=eHZHK7V7ark&t=449s)
-
-Vincent Goodwill: "You start off with a very highly list of criteria of what you want, and then as time goes on, as the urgency moves, then you get more realistic. I think when you look at Western Conference teams, to me, you're going to mention the Portland Trail Blazers because they have Deni Avdija. I'm thinking of the Houston Rockets. Maybe a team like New Orleans, a team that's trying to make a splash and get an impact player. You have to look at this as if it is free agency, because free agency in the NBA no longer exists in the way that you think of it. If this were **LeBron James** in his prime, we wouldn't be talking about where **LeBron James** can go for the mid-level. We'd be saying where was **LeBron James** traded to before July 1. Giannis traded, **Jaylen Brown** going to be traded. Those guys don't hit the market anymore, so you have to pay a premium to go and get them."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=449s
-
-**8. Shams Charania — "The Lakers have been pursuing parallel paths throughout this off-season." — Lakers' parallel paths in free agency** [10:48](https://www.youtube.com/watch?v=eHZHK7V7ark&t=648s)
-
-Shams Charania: "The Lakers have been pursuing parallel paths throughout this off-season. So the first one is getting **Austin Reaves** done, which obviously four years, $185 million max deal. Then it's about taking care of **LeBron James**, figuring that out, then **Rui Hachimura**. But at the same time, they've been pursuing trades that bring in salary into their space. They have almost $50 million in space. So who can they go get? And that would have an impact on what they can potentially offer **LeBron James**. My understanding is the Lakers have not made an offer to LeBron as of yesterday. So over the next five or six days, we'll learn more."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=648s
-
-**9. Tim MacMahon — "Their cap space is like a gift card that has an expiration date." — Lakers' cap space is a temporary asset** [12:42](https://www.youtube.com/watch?v=eHZHK7V7ark&t=762s)
-
-Tim MacMahon: "He sure can't take more. And look, I don't think he can get more than the mid-level anywhere else. And the Lakers have to go to LeBron respectfully and say, this is the number that we can give you, these are the other things that we believe we can get accomplished here. And this is the summer that the Lakers have to make long-term roster upgrades. You can't kick this into next summer. You have **Austin Reaves** on a cap hold until he signs that contract. Next year he's on a max deal. Their cap space is like a gift card that has an expiration date. It's not infinite. It is right now, and that is exactly why they promised **Luka Doncic** this would be the summer that they made additions that would put him in position to be able to contend long-term. LeBron obviously, great player still, not long-term."
-
-https://www.youtube.com/watch?v=eHZHK7V7ark&t=762s
 
 ---
 
