@@ -1,5 +1,83 @@
 # HoopsHype YT Quotes — 2026-06-27
 
+## The Growing Uncertainty Around LeBron's Future with the Lakers — *Lakers Collective*
+
+Source: https://www.youtube.com/watch?v=PnxtCaGhVi0
+
+_Speakers identified: Trevor Lane, Pete Zayas, Jovan Buha_
+
+**1. Pete Zayas — "The plan's been much more of that than the other way around." — The Lakers' off-season plan is independent of LeBron James's decision** [00:41](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=41s)
+
+**Trevor Lane:** "How much of this Lakers off-season plan is going to be determined by what the ultimate decision of **LeBron James** is? Or is it something where they should just make their plan and if LeBron fits into that, so be it, and if not, then he doesn't?"
+
+**Pete Zayas:** "The plan's been much more of that than the other way around. Just the degree to which this whole conversation about the off-season has been, oh by the way, yeah **LeBron James**. It's just crazy. It's such a different dynamic than any other time he's been a free agent. The Shams report yesterday, for example, about how they had contact early in their window but they haven't been in touch. He's gotten the no-brainer max contract, the okay who do you want on your team, we're going to keep you in the loop. I've been saying pretty consistently that I think it's a much lower percentage chance that LeBron is back this year, in part because I think that's part of what they've circled the summer of 2026 to do, is to move on from LeBron."
+
+https://www.youtube.com/watch?v=PnxtCaGhVi0&t=41s
+
+**2. Jovan Buha — "The Lakers have not been moving like a team that's prioritizing keeping LeBron." — The Lakers are not operating like a team prioritizing LeBron James** [05:17](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=317s)
+
+**Trevor Lane:** "I mean, you can correct me if I'm wrong on that, but they have not seemed to, if that was this big priority for them, I don't think they're handling this whole situation in a way that would lend itself to that."
+
+**Jovan Buha:** "The Lakers have not been moving like a team that's prioritizing keeping LeBron. I think they're exploring what can we get via restricted free agency or sign-and-trades, what's out there in restricted free agency, what's out there in the trade market in terms of teams having to get off money, and we're going to circle the block on all those things. And then if we don't find something we like, we're going to come back to you LeBron, and then we can make you a bigger offer than anywhere else. I don't know how he's going to feel about that. This has been the guy since he was 12 years old. He was the chosen one, and not being prioritized to this degree, I think it's maybe money talks and convenience talks and he wants to stay in LA, he wants to keep being a Laker, he gets the most money, and ultimately they patch it out and that is how this plays out."
+
+https://www.youtube.com/watch?v=PnxtCaGhVi0&t=317s
+
+**3. Jovan Buha — "I think that's an offensive opening offer just because if already there'd been some smoke." — The Lakers' initial offer to Austin Reaves was likely too low** [07:07](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=427s)
+
+**Trevor Lane:** "Do you think they started too low in that negotiation if that is accurate that there was 30 million?"
+
+**Pete Zayas:** "To me, the game is the game. I don't begrudge Austin for saying, oh I'm not going to take every single dollar and then hell yeah taking every single dollar that he can when he like, look, you do the best that you can, especially in this apron era where you've got a finite amount of money to build with and it's very punative if you go beyond that. He resigned so I think all's well that ends well. But yeah, I do think that there is a little bit of smoke and mirrors component of like, look at how much we love you at this other stuff."
+
+**Jovan Buha:** "I do. I mean, I think that's an offensive opening offer just because if already there'd been some smoke that Brooklyn and Detroit and Atlanta were several teams that were going to be pursuing him at the max or near max. So unless the Lakers just were trying to call the bluff there and being like, we feel like this is being leaked to drum up your market, I think if these other teams are offering him 40 to 44 AAV and you're coming in at 30, obviously you're going to go above that and they ended up going much higher than that. But I think 35, somewhere in the mid 30s would have probably been a more appropriate starting point."
+
+https://www.youtube.com/watch?v=PnxtCaGhVi0&t=427s
+
+---
+
+## Washburn: Jaylen Brown Situation is a BLEMISH on Brad Stevens Reputation — *Celtics All Access on CLNS Media*
+
+Source: https://www.youtube.com/watch?v=UN1LcIoGGxc
+
+_Speakers identified: A. Sherrod Blakely, Gary Washburn_
+
+**1. Gary Washburn — "I think this is a major blemish on Brad Stevens' resume of how this has been handled." — Gary Washburn criticizes Brad Stevens' handling of Jaylen Brown trade talks** [00:19](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=19s)
+
+Gary Washburn: "I think this is a major blemish on **Brad Stevens**' resume of how this has been handled. You don't, if you're going to go after a star player, you're going to go after a **Giannis Antetokounmpo**, you don't offer your star player and then not get him. And then you have to bring the star player back and let him know that he was literally ready to be sent off and that if your team had its choice, he wouldn't be here. So, I think this has been terribly handled by the Celtics and **Brad Stevens**."
+
+https://www.youtube.com/watch?v=UN1LcIoGGxc&t=19s
+
+**2. Gary Washburn — "Now that you've let the league know that you're willing to part with Jaylen Brown, do you really think you're going to get good return?" — Celtics' trade talks for Jaylen Brown hurt their future leverage** [01:31](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=91s)
+
+Gary Washburn: "Now that you've let the league know that you're willing to part with **Jaylen Brown**, do you really think you're going to get good return on your dollar for **Jaylen Brown**? No. Other teams know that you're trying to move him, so why would they give you an attractive package? You've got to figure out if you're the Celtics, one, do we want **Jaylen Brown** here long term? And two, do we just want to trade **Jaylen Brown** for anything to get this over with?"
+
+https://www.youtube.com/watch?v=UN1LcIoGGxc&t=91s
+
+**3. A. Sherrod Blakely — "Jaylen Brown is going to be in the Hall of Fame. Five-time All-Star, NBA Finals MVP, multiple All-NBA honors." — Jaylen Brown's Hall of Fame trajectory makes him a bad trade candidate** [05:35](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=335s)
+
+A. Sherrod Blakely: "**Jaylen Brown** is going to be in the Hall of Fame. Five-time All-Star, NBA Finals MVP, multiple All-NBA honors, before he's 30. He hasn't even hit the 30 mark yet and he's accomplished all this. He's going to be in the Hall of Fame. When you have a player with that resume who isn't what we would consider a basketball cancer to the team, which **Jaylen Brown** is not, why so aggressively trying to get rid of him?"
+
+https://www.youtube.com/watch?v=UN1LcIoGGxc&t=335s
+
+**4. A. Sherrod Blakely — "The best way to save face in all this was to just basically take him off the table." — The Celtics should have taken Jaylen Brown off the trade table** [06:16](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=376s)
+
+A. Sherrod Blakely: "To me, if you're the Celtics, the best way to save face in all this was to just basically take him off the table. To just say that we're not looking to trade him now. We had an opportunity to get a once-in-a-lifetime type player in **Giannis Antetokounmpo**, two-time MVP, all that. That didn't work out. That would be the only caliber of player that we'd seriously consider moving him for. But now, you've doubled down on making him available."
+
+https://www.youtube.com/watch?v=UN1LcIoGGxc&t=376s
+
+**5. Gary Washburn — "Listen Jaylen, we weren't trying to dangle you. Were we getting calls about you? Yes." — Brad Stevens needs to clarify the Jaylen Brown trade rumors** [09:01](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=541s)
+
+Gary Washburn: "The way Stevens can handle it with Jaylen is saying, 'Listen Jaylen, we weren't trying to dangle you. Were we getting calls about you? Yes. Did we dangle you out there? No.' So, you can make, you can frame it that way and maybe Jaylen goes, 'Okay.' But I don't understand this. I really don't. The Giannis thing, okay, but now to just go, 'Okay, well we just going to move him now.' What kind of negotiating power does that put you in? None."
+
+https://www.youtube.com/watch?v=UN1LcIoGGxc&t=541s
+
+**6. Gary Washburn — "Draymond Green, valuable player for the Golden State Warriors. It would be interesting to see if the Warriors try to move him." — Draymond Green's value to the Warriors is unique and hard to replicate** [11:49](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=709s)
+
+Gary Washburn: "**Draymond Green**, valuable player for the Golden State Warriors. It would be interesting to see if the Warriors try to move him, because what he does for Golden State might not impact or translate to other teams. I'm not saying Jaylen wouldn't translate, but what he does in Boston, when he's given to Boston, is special. Working with Jayson Tatum, being Jayson Tatum's partner, all that is unique."
+
+https://www.youtube.com/watch?v=UN1LcIoGGxc&t=709s
+
+---
+
 ## Mikal Bridges on why the Knicks should win ‘Best Team’ at the 2026 ESPYS — *ESPN*
 
 Source: https://www.youtube.com/watch?v=0mJnJlC5G_I
@@ -173,84 +251,6 @@ https://www.youtube.com/watch?v=Bnwod4baJwA&t=3600s
 Sam Quinn: "My point there is he becomes one of the more prominent guys left that they have been linked to at some point in the past. If they are getting Hachimura, I am looking like, okay, or maybe they revisit with Detroit or whatever. But that is where I look and I say it feels like Porter is probably moving."
 
 https://www.youtube.com/watch?v=Bnwod4baJwA&t=3618s
-
----
-
-## The Growing Uncertainty Around LeBron's Future with the Lakers — *Lakers Collective*
-
-Source: https://www.youtube.com/watch?v=PnxtCaGhVi0
-
-_Speakers identified: Trevor Lane, Pete Zayas, Jovan Buha_
-
-**1. Pete Zayas — "The plan's been much more of that than the other way around." — The Lakers' off-season plan is independent of LeBron James's decision** [00:41](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=41s)
-
-**Trevor Lane:** "How much of this Lakers off-season plan is going to be determined by what the ultimate decision of **LeBron James** is? Or is it something where they should just make their plan and if LeBron fits into that, so be it, and if not, then he doesn't?"
-
-**Pete Zayas:** "The plan's been much more of that than the other way around. Just the degree to which this whole conversation about the off-season has been, oh by the way, yeah **LeBron James**. It's just crazy. It's such a different dynamic than any other time he's been a free agent. The Shams report yesterday, for example, about how they had contact early in their window but they haven't been in touch. He's gotten the no-brainer max contract, the okay who do you want on your team, we're going to keep you in the loop. I've been saying pretty consistently that I think it's a much lower percentage chance that LeBron is back this year, in part because I think that's part of what they've circled the summer of 2026 to do, is to move on from LeBron."
-
-https://www.youtube.com/watch?v=PnxtCaGhVi0&t=41s
-
-**2. Jovan Buha — "The Lakers have not been moving like a team that's prioritizing keeping LeBron." — The Lakers are not operating like a team prioritizing LeBron James** [05:17](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=317s)
-
-**Trevor Lane:** "I mean, you can correct me if I'm wrong on that, but they have not seemed to, if that was this big priority for them, I don't think they're handling this whole situation in a way that would lend itself to that."
-
-**Jovan Buha:** "The Lakers have not been moving like a team that's prioritizing keeping LeBron. I think they're exploring what can we get via restricted free agency or sign-and-trades, what's out there in restricted free agency, what's out there in the trade market in terms of teams having to get off money, and we're going to circle the block on all those things. And then if we don't find something we like, we're going to come back to you LeBron, and then we can make you a bigger offer than anywhere else. I don't know how he's going to feel about that. This has been the guy since he was 12 years old. He was the chosen one, and not being prioritized to this degree, I think it's maybe money talks and convenience talks and he wants to stay in LA, he wants to keep being a Laker, he gets the most money, and ultimately they patch it out and that is how this plays out."
-
-https://www.youtube.com/watch?v=PnxtCaGhVi0&t=317s
-
-**3. Jovan Buha — "I think that's an offensive opening offer just because if already there'd been some smoke." — The Lakers' initial offer to Austin Reaves was likely too low** [07:07](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=427s)
-
-**Trevor Lane:** "Do you think they started too low in that negotiation if that is accurate that there was 30 million?"
-
-**Pete Zayas:** "To me, the game is the game. I don't begrudge Austin for saying, oh I'm not going to take every single dollar and then hell yeah taking every single dollar that he can when he like, look, you do the best that you can, especially in this apron era where you've got a finite amount of money to build with and it's very punative if you go beyond that. He resigned so I think all's well that ends well. But yeah, I do think that there is a little bit of smoke and mirrors component of like, look at how much we love you at this other stuff."
-
-**Jovan Buha:** "I do. I mean, I think that's an offensive opening offer just because if already there'd been some smoke that Brooklyn and Detroit and Atlanta were several teams that were going to be pursuing him at the max or near max. So unless the Lakers just were trying to call the bluff there and being like, we feel like this is being leaked to drum up your market, I think if these other teams are offering him 40 to 44 AAV and you're coming in at 30, obviously you're going to go above that and they ended up going much higher than that. But I think 35, somewhere in the mid 30s would have probably been a more appropriate starting point."
-
-https://www.youtube.com/watch?v=PnxtCaGhVi0&t=427s
-
----
-
-## Washburn: Jaylen Brown Situation is a BLEMISH on Brad Stevens Reputation — *Celtics All Access on CLNS Media*
-
-Source: https://www.youtube.com/watch?v=UN1LcIoGGxc
-
-_Speakers identified: A. Sherrod Blakely, Gary Washburn_
-
-**1. Gary Washburn — "I think this is a major blemish on Brad Stevens' resume of how this has been handled." — Gary Washburn criticizes Brad Stevens' handling of Jaylen Brown trade talks** [00:19](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=19s)
-
-Gary Washburn: "I think this is a major blemish on **Brad Stevens**' resume of how this has been handled. You don't, if you're going to go after a star player, you're going to go after a **Giannis Antetokounmpo**, you don't offer your star player and then not get him. And then you have to bring the star player back and let him know that he was literally ready to be sent off and that if your team had its choice, he wouldn't be here. So, I think this has been terribly handled by the Celtics and **Brad Stevens**."
-
-https://www.youtube.com/watch?v=UN1LcIoGGxc&t=19s
-
-**2. Gary Washburn — "Now that you've let the league know that you're willing to part with Jaylen Brown, do you really think you're going to get good return?" — Celtics' trade talks for Jaylen Brown hurt their future leverage** [01:31](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=91s)
-
-Gary Washburn: "Now that you've let the league know that you're willing to part with **Jaylen Brown**, do you really think you're going to get good return on your dollar for **Jaylen Brown**? No. Other teams know that you're trying to move him, so why would they give you an attractive package? You've got to figure out if you're the Celtics, one, do we want **Jaylen Brown** here long term? And two, do we just want to trade **Jaylen Brown** for anything to get this over with?"
-
-https://www.youtube.com/watch?v=UN1LcIoGGxc&t=91s
-
-**3. A. Sherrod Blakely — "Jaylen Brown is going to be in the Hall of Fame. Five-time All-Star, NBA Finals MVP, multiple All-NBA honors." — Jaylen Brown's Hall of Fame trajectory makes him a bad trade candidate** [05:35](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=335s)
-
-A. Sherrod Blakely: "**Jaylen Brown** is going to be in the Hall of Fame. Five-time All-Star, NBA Finals MVP, multiple All-NBA honors, before he's 30. He hasn't even hit the 30 mark yet and he's accomplished all this. He's going to be in the Hall of Fame. When you have a player with that resume who isn't what we would consider a basketball cancer to the team, which **Jaylen Brown** is not, why so aggressively trying to get rid of him?"
-
-https://www.youtube.com/watch?v=UN1LcIoGGxc&t=335s
-
-**4. A. Sherrod Blakely — "The best way to save face in all this was to just basically take him off the table." — The Celtics should have taken Jaylen Brown off the trade table** [06:16](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=376s)
-
-A. Sherrod Blakely: "To me, if you're the Celtics, the best way to save face in all this was to just basically take him off the table. To just say that we're not looking to trade him now. We had an opportunity to get a once-in-a-lifetime type player in **Giannis Antetokounmpo**, two-time MVP, all that. That didn't work out. That would be the only caliber of player that we'd seriously consider moving him for. But now, you've doubled down on making him available."
-
-https://www.youtube.com/watch?v=UN1LcIoGGxc&t=376s
-
-**5. Gary Washburn — "Listen Jaylen, we weren't trying to dangle you. Were we getting calls about you? Yes." — Brad Stevens needs to clarify the Jaylen Brown trade rumors** [09:01](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=541s)
-
-Gary Washburn: "The way Stevens can handle it with Jaylen is saying, 'Listen Jaylen, we weren't trying to dangle you. Were we getting calls about you? Yes. Did we dangle you out there? No.' So, you can make, you can frame it that way and maybe Jaylen goes, 'Okay.' But I don't understand this. I really don't. The Giannis thing, okay, but now to just go, 'Okay, well we just going to move him now.' What kind of negotiating power does that put you in? None."
-
-https://www.youtube.com/watch?v=UN1LcIoGGxc&t=541s
-
-**6. Gary Washburn — "Draymond Green, valuable player for the Golden State Warriors. It would be interesting to see if the Warriors try to move him." — Draymond Green's value to the Warriors is unique and hard to replicate** [11:49](https://www.youtube.com/watch?v=UN1LcIoGGxc&t=709s)
-
-Gary Washburn: "**Draymond Green**, valuable player for the Golden State Warriors. It would be interesting to see if the Warriors try to move him, because what he does for Golden State might not impact or translate to other teams. I'm not saying Jaylen wouldn't translate, but what he does in Boston, when he's given to Boston, is special. Working with Jayson Tatum, being Jayson Tatum's partner, all that is unique."
-
-https://www.youtube.com/watch?v=UN1LcIoGGxc&t=709s
 
 ---
 
@@ -441,38 +441,6 @@ https://www.youtube.com/watch?v=nZchFiDO3yA&t=7478s
 Patrick Beverley: "Without any jerseys, who gives, who scores the most points, has the most assists, the most rebounds, like, most steals, like, the most wins, but don't, I don't give a fuck about, we ain't got the game seven yet. Who you going to pick? You got to go with the obvious guy. Okay, I'm going to go with this guy right here."
 
 https://www.youtube.com/watch?v=nZchFiDO3yA&t=7511s
-
----
-
-## José Alvarado Gives Back to La Perla, Puerto Rico 🇵🇷 — *TravelWithSilent*
-
-Source: https://www.youtube.com/watch?v=oEUjjtLNHtM
-
-_Speakers identified: José Alvarado_
-
-**1. José Alvarado — "It means a lot to me, so if it was one or 100 or a million, the support is real." — José Alvarado on the emotional significance of returning to Puerto Rico** [01:20](https://www.youtube.com/watch?v=oEUjjtLNHtM&t=80s)
-
-José Alvarado: "It means a lot to me, so if it was one or 100 or a million, the support is real."
-
-https://www.youtube.com/watch?v=oEUjjtLNHtM&t=80s
-
-**2. José Alvarado — "Keep going. Just keep going, just keep going." — José Alvarado's advice to young players chasing their dreams** [01:35](https://www.youtube.com/watch?v=oEUjjtLNHtM&t=95s)
-
-José Alvarado: "Keep going. Just keep going, just keep going."
-
-https://www.youtube.com/watch?v=oEUjjtLNHtM&t=95s
-
-**3. José Alvarado — "It's a way to show them that I was just like them." — José Alvarado on connecting with the youth in Puerto Rico** [06:33](https://www.youtube.com/watch?v=oEUjjtLNHtM&t=393s)
-
-José Alvarado: "It's a way to show them that I was just like them."
-
-https://www.youtube.com/watch?v=oEUjjtLNHtM&t=393s
-
-**4. José Alvarado — "Seeing everybody come out and support me, it means a lot to me." — José Alvarado on the overwhelming support from his home community** [09:33](https://www.youtube.com/watch?v=oEUjjtLNHtM&t=573s)
-
-José Alvarado: "Seeing everybody come out and support me, it means a lot to me. If it was one or 100 or a million, I just, the support is real, you know, it's real."
-
-https://www.youtube.com/watch?v=oEUjjtLNHtM&t=573s
 
 ---
 

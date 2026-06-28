@@ -1,0 +1,31 @@
+# The Growing Uncertainty Around LeBron's Future with the Lakers — *Lakers Collective*
+
+Source: https://www.youtube.com/watch?v=PnxtCaGhVi0
+
+_Speakers identified: Trevor Lane, Pete Zayas, Jovan Buha_
+
+**1. Pete Zayas — "The plan's been much more of that than the other way around." — The Lakers' off-season plan is independent of LeBron James's decision** [00:41](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=41s)
+
+**Trevor Lane:** "How much of this Lakers off-season plan is going to be determined by what the ultimate decision of **LeBron James** is? Or is it something where they should just make their plan and if LeBron fits into that, so be it, and if not, then he doesn't?"
+
+**Pete Zayas:** "The plan's been much more of that than the other way around. Just the degree to which this whole conversation about the off-season has been, oh by the way, yeah **LeBron James**. It's just crazy. It's such a different dynamic than any other time he's been a free agent. The Shams report yesterday, for example, about how they had contact early in their window but they haven't been in touch. He's gotten the no-brainer max contract, the okay who do you want on your team, we're going to keep you in the loop. I've been saying pretty consistently that I think it's a much lower percentage chance that LeBron is back this year, in part because I think that's part of what they've circled the summer of 2026 to do, is to move on from LeBron."
+
+https://www.youtube.com/watch?v=PnxtCaGhVi0&t=41s
+
+**2. Jovan Buha — "The Lakers have not been moving like a team that's prioritizing keeping LeBron." — The Lakers are not operating like a team prioritizing LeBron James** [05:17](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=317s)
+
+**Trevor Lane:** "I mean, you can correct me if I'm wrong on that, but they have not seemed to, if that was this big priority for them, I don't think they're handling this whole situation in a way that would lend itself to that."
+
+**Jovan Buha:** "The Lakers have not been moving like a team that's prioritizing keeping LeBron. I think they're exploring what can we get via restricted free agency or sign-and-trades, what's out there in restricted free agency, what's out there in the trade market in terms of teams having to get off money, and we're going to circle the block on all those things. And then if we don't find something we like, we're going to come back to you LeBron, and then we can make you a bigger offer than anywhere else. I don't know how he's going to feel about that. This has been the guy since he was 12 years old. He was the chosen one, and not being prioritized to this degree, I think it's maybe money talks and convenience talks and he wants to stay in LA, he wants to keep being a Laker, he gets the most money, and ultimately they patch it out and that is how this plays out."
+
+https://www.youtube.com/watch?v=PnxtCaGhVi0&t=317s
+
+**3. Jovan Buha — "I think that's an offensive opening offer just because if already there'd been some smoke." — The Lakers' initial offer to Austin Reaves was likely too low** [07:07](https://www.youtube.com/watch?v=PnxtCaGhVi0&t=427s)
+
+**Trevor Lane:** "Do you think they started too low in that negotiation if that is accurate that there was 30 million?"
+
+**Pete Zayas:** "To me, the game is the game. I don't begrudge Austin for saying, oh I'm not going to take every single dollar and then hell yeah taking every single dollar that he can when he like, look, you do the best that you can, especially in this apron era where you've got a finite amount of money to build with and it's very punative if you go beyond that. He resigned so I think all's well that ends well. But yeah, I do think that there is a little bit of smoke and mirrors component of like, look at how much we love you at this other stuff."
+
+**Jovan Buha:** "I do. I mean, I think that's an offensive opening offer just because if already there'd been some smoke that Brooklyn and Detroit and Atlanta were several teams that were going to be pursuing him at the max or near max. So unless the Lakers just were trying to call the bluff there and being like, we feel like this is being leaked to drum up your market, I think if these other teams are offering him 40 to 44 AAV and you're coming in at 30, obviously you're going to go above that and they ended up going much higher than that. But I think 35, somewhere in the mid 30s would have probably been a more appropriate starting point."
+
+https://www.youtube.com/watch?v=PnxtCaGhVi0&t=427s
