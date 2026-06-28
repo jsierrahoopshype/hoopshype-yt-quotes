@@ -1,69 +1,5 @@
 # HoopsHype YT Quotes — 2026-06-28
 
-## Tyrese Haliburton and Kevin Durant react to Knicks winning Championship 😂 — *Chaz NBA*
-
-Source: https://www.youtube.com/watch?v=1MCtQaoTOjw
-
-_Speakers identified: Tyrese Haliburton, Kevin Durant_
-
-**1. Tyrese Haliburton — "Good for them." — Tyrese Haliburton reacts to the New York Knicks winning the championship** [00:08](https://www.youtube.com/watch?v=1MCtQaoTOjw&t=8s)
-
-Tyrese Haliburton: "Good for them. I talked to Jalen since, congratulated him."
-
-https://www.youtube.com/watch?v=1MCtQaoTOjw&t=8s
-
-**2. Tyrese Haliburton — "I feel like I'm operating like I'm a healthy NBA player for the first time in a long time." — Tyrese Haliburton discusses his recovery from shingles** [00:27](https://www.youtube.com/watch?v=1MCtQaoTOjw&t=27s)
-
-Tyrese Haliburton: "I look back at videos of me and I can see how swollen my face is and just I'm glad that that's beyond me, past me now. I feel great, body feels great, I'm able to do everything. I feel like I'm operating like I'm a healthy NBA player for the first time in a long time, which is exciting."
-
-https://www.youtube.com/watch?v=1MCtQaoTOjw&t=27s
-
-**3. Kevin Durant — "I would tell him to strike while the iron's hot." — Kevin Durant advises Jalen Brunson on handling New York fame** [01:21](https://www.youtube.com/watch?v=1MCtQaoTOjw&t=81s)
-
-**Kevin Durant:** "I would tell him to strike while the iron's hot. I mean this is a time that I don't think New Yorkers or the Knicks are going to get back, you know, so I think you should take advantage of this time right now. You don't know if this will come around. It's been 53 years, so I would say take on all opportunities and listen to them and see which ones you love."
-
-https://www.youtube.com/watch?v=1MCtQaoTOjw&t=81s
-
-**4. Kevin Durant — "Jalen has done such a great job of being him every single day." — Kevin Durant praises Jalen Brunson's work ethic and impact** [02:19](https://www.youtube.com/watch?v=1MCtQaoTOjw&t=139s)
-
-Kevin Durant: "I think Jalen has done such a great job of being him every single day and stepping up and his identity is just about grinding from the bottom and being somebody in New York City who made history in New York City. Right now it's an important time for him and the Knicks and I feel like he's going to take full advantage of it."
-
-https://www.youtube.com/watch?v=1MCtQaoTOjw&t=139s
-
----
-
-## 6.75range - S04E44 - Nikola Jović - Heat kultura. Put sa reprezentacijom. Na korak od Partizana? — *6.75range*
-
-Source: https://www.youtube.com/watch?v=ORWRQjWTjJU
-
-_Speakers identified: Bogdan Milenković, Luka Mihajlović, Nikola Jović_
-
-**1. Nikola Jović — "I have eight players on the roster. Nobody is a standard player, so it will be strange." — Nikola Jović on the Miami Heat's current roster depth** [01:36](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=96s)
-
-Nikola Jović: "I am looking at the current roster, and we have eight players. **Bam Adebayo**, Giannis Antetokounmpo, myself, and **Bobby Portis**. Nobody is a standard player, so it will be strange, but from the side, I understand Miami. Erik Spoelstra really chases that top-notch defense. With any team, he will be in the top 10 defenses. I saw some statistics, and he is number one. Now he has Bam, who can protect everything, and Giannis, who can protect everything, so I think he will achieve what he wanted."
-
-https://www.youtube.com/watch?v=ORWRQjWTjJU&t=96s
-
-**2. Nikola Jović — "I was in the story for a trade for Kevin Durant twice, for Kyrie Irving, for Lillard." — Nikola Jović on trade rumors and his relationship with the Heat** [02:44](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=164s)
-
-Nikola Jović: "Since I came to Miami, I was in the story for a trade for **Kevin Durant** twice, for **Kyrie Irving**, for Lillard, it was done already. Lillard publicly announced he is coming to Miami. That was like, I want Miami and that is it. For Lillard, I was in for Jovic and **Tyler Herro**. **Tyler Herro**, brother, what he survived, that nowhere exists. In the end, he did not survive. But I mean, I am in every trade, I am in every trade, and I am in every trade. I am really in every trade, so it is not easy, I mean, you play in a club and now you read every summer that you are not good enough, you need someone new, some bigger star. It is certainly not easy for him."
-
-https://www.youtube.com/watch?v=ORWRQjWTjJU&t=164s
-
-**3. Nikola Jović — "I learned a lot from all of them because the level they are at, Kyle Lowry, Jimmy Butler, Bam Adebayo, Kevin Love." — Nikola Jović on his development and learning from Heat veterans** [09:34](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=574s)
-
-Nikola Jović: "I learned a lot from all of them because the level they are at, **Kyle Lowry**, **Jimmy Butler**, **Bam Adebayo**, **Kevin Love**, and all those players, they are at a level that everyone would like to be at. And a lot can be learned from them. But I say, the most I certainly learned from those details, how to train, how to recover, how some live outside of basketball, and so on. For example, Jimmy always told me that I must find something that will fulfill me outside of basketball. Something that will motivate me outside of basketball. And so there are a lot of those little things, now I do not have exactly one that I could highlight, but I emphasize."
-
-https://www.youtube.com/watch?v=ORWRQjWTjJU&t=574s
-
-**4. Nikola Jović — "Jimmy, to me, business is currently more important than basketball, and he earns much more from basketball." — Nikola Jović on Jimmy Butler's business mindset** [17:48](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=1068s)
-
-Nikola Jović: "Jimmy, to me, business is currently more important than basketball, and he earns much more from basketball. And he really does some things because of that business side. To him, business is, I think, currently number one, and he has Bam who can protect everything, and Jimmy who can protect everything, so I think he will achieve what he wanted. And he really does some things because of that business side. To him, business is, I think, currently number one, and he has Bam who can protect everything, and Jimmy who can protect everything, so I think he will achieve what he wanted."
-
-https://www.youtube.com/watch?v=ORWRQjWTjJU&t=1068s
-
----
-
 ## Will Austin Reaves $ Doom the Lakers & What About LeBron? (with Law Murray) — *FnA Show*
 
 Source: https://www.youtube.com/watch?v=eAg0X-B6FtU
@@ -117,6 +53,38 @@ https://www.youtube.com/watch?v=eAg0X-B6FtU&t=343s
 Law Murray: "LeBron can play and I'm sure LeBron wants to come back and play, but LeBron is a proud dude and he's a calculated dude as far as understanding the landscape in the league and every little thing. He knows he's being watched. That dude will be the first to tell you about the man in the arena. And that's a long way of saying, I feel like the team LeBron plays for is going to be a team that appropriately fits the story. I don't know how he gets to any other places that that would qualify for."
 
 https://www.youtube.com/watch?v=eAg0X-B6FtU&t=393s
+
+---
+
+## 6.75range - S04E44 - Nikola Jović - Heat kultura. Put sa reprezentacijom. Na korak od Partizana? — *6.75range*
+
+Source: https://www.youtube.com/watch?v=ORWRQjWTjJU
+
+_Speakers identified: Bogdan Milenković, Luka Mihajlović, Nikola Jović_
+
+**1. Nikola Jović — "I have eight players on the roster. Nobody is a standard player, so it will be strange." — Nikola Jović on the Miami Heat's current roster depth** [01:36](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=96s)
+
+Nikola Jović: "I am looking at the current roster, and we have eight players. **Bam Adebayo**, Giannis Antetokounmpo, myself, and **Bobby Portis**. Nobody is a standard player, so it will be strange, but from the side, I understand Miami. Erik Spoelstra really chases that top-notch defense. With any team, he will be in the top 10 defenses. I saw some statistics, and he is number one. Now he has Bam, who can protect everything, and Giannis, who can protect everything, so I think he will achieve what he wanted."
+
+https://www.youtube.com/watch?v=ORWRQjWTjJU&t=96s
+
+**2. Nikola Jović — "I was in the story for a trade for Kevin Durant twice, for Kyrie Irving, for Lillard." — Nikola Jović on trade rumors and his relationship with the Heat** [02:44](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=164s)
+
+Nikola Jović: "Since I came to Miami, I was in the story for a trade for **Kevin Durant** twice, for **Kyrie Irving**, for Lillard, it was done already. Lillard publicly announced he is coming to Miami. That was like, I want Miami and that is it. For Lillard, I was in for Jovic and **Tyler Herro**. **Tyler Herro**, brother, what he survived, that nowhere exists. In the end, he did not survive. But I mean, I am in every trade, I am in every trade, and I am in every trade. I am really in every trade, so it is not easy, I mean, you play in a club and now you read every summer that you are not good enough, you need someone new, some bigger star. It is certainly not easy for him."
+
+https://www.youtube.com/watch?v=ORWRQjWTjJU&t=164s
+
+**3. Nikola Jović — "I learned a lot from all of them because the level they are at, Kyle Lowry, Jimmy Butler, Bam Adebayo, Kevin Love." — Nikola Jović on his development and learning from Heat veterans** [09:34](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=574s)
+
+Nikola Jović: "I learned a lot from all of them because the level they are at, **Kyle Lowry**, **Jimmy Butler**, **Bam Adebayo**, **Kevin Love**, and all those players, they are at a level that everyone would like to be at. And a lot can be learned from them. But I say, the most I certainly learned from those details, how to train, how to recover, how some live outside of basketball, and so on. For example, Jimmy always told me that I must find something that will fulfill me outside of basketball. Something that will motivate me outside of basketball. And so there are a lot of those little things, now I do not have exactly one that I could highlight, but I emphasize."
+
+https://www.youtube.com/watch?v=ORWRQjWTjJU&t=574s
+
+**4. Nikola Jović — "Jimmy, to me, business is currently more important than basketball, and he earns much more from basketball." — Nikola Jović on Jimmy Butler's business mindset** [17:48](https://www.youtube.com/watch?v=ORWRQjWTjJU&t=1068s)
+
+Nikola Jović: "Jimmy, to me, business is currently more important than basketball, and he earns much more from basketball. And he really does some things because of that business side. To him, business is, I think, currently number one, and he has Bam who can protect everything, and Jimmy who can protect everything, so I think he will achieve what he wanted. And he really does some things because of that business side. To him, business is, I think, currently number one, and he has Bam who can protect everything, and Jimmy who can protect everything, so I think he will achieve what he wanted."
+
+https://www.youtube.com/watch?v=ORWRQjWTjJU&t=1068s
 
 ---
 
