@@ -1,0 +1,185 @@
+# Rasheed Wallace Shares Legendary Hoop Stories: Ducking MJ 1v1, Battling Shaq & Kobe, KnicksTape Era — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=2mqRrziPnRM
+
+_Speakers identified: Carmelo Anthony, Monica McNutt, Kazeem Famuyide, Rasheed Wallace, The Kid Mero_
+
+**1. Rasheed Wallace — "Our main goal is to develop kids and try to get kids in the college." — Rasheed Wallace on his coaching philosophy at Tennessee Collegiate Academy** [02:12](https://www.youtube.com/watch?v=2mqRrziPnRM&t=132s)
+
+Rasheed Wallace: "Coaching at a high school down in Tennessee, part of the same league that **Carmelo Anthony** supports, we are in the Nike Scholastic League. I coach Tennessee Collegiate Academy. It is about a million, a million and a half outside of Memphis, 45 minutes outside of Memphis. We just get it in. Our main goal is to develop kids and try to get kids in the college. That is our whole bottom line."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=132s
+
+**2. Rasheed Wallace — "I did not know until I was sitting courtside in my first game with the Washington Bullets." — Rasheed Wallace on realizing he could play in the NBA** [03:39](https://www.youtube.com/watch?v=2mqRrziPnRM&t=219s)
+
+Rasheed Wallace: "To be honest, I did not know until I was sitting courtside in my first game with the Washington Bullets. That was actually my first NBA game I had ever been to as well. Growing up, I am a Sixers fan at heart. I love my Sixers. Growing up watching Doc, Bobby Jones, Andrew Toney, and Hersey Hawkins, of course, who did not want to be like them growing up? But I like basketball because of my older brother and this one young lady who lived across the street from me growing up. She was all city, and she was built. She actually played one-on-one with me, and played one-on-one with me and taught me how to shoot and told me, when you shoot, you have to extend your elbow, lock your elbow, goose neck. Taught me the form and everything. And it is the same thing, wanting to be like my older brother as well. So that is how I got into basketball and then just took it from there as I went to Gratz. I was just in the gym. I did not really do AAU. I am not sure if you heard of a league that we got there in Philly, it was called the Sunny Hill League. It went from middle school to high school to college to pro am. And so it was always more repping for your hood, opposing to different AAU teams and you know how it is now, you are going and you got all the all-stars from your area, but it was us repping our neighborhoods."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=219s
+
+**3. Rasheed Wallace — "My final four was Villanova, Temple, Georgetown, and Carolina." — Rasheed Wallace discusses his college recruitment final four schools** [07:28](https://www.youtube.com/watch?v=2mqRrziPnRM&t=448s)
+
+Rasheed Wallace: "My final four was Villanova, Temple, Georgetown, and Carolina. Villanova and Temple, that is because the hometown. We knew the coaches. My coach was like, look, out of respect, even if you do not even take a visit there, you have to mention them because you are up there so much. So I put them in my final four and I was actually thinking about going to both schools, but took my visit to Georgetown as well. Took a visit to Carolina. All my visits were nice, but I think, to be honest with me, it was still the deal."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=448s
+
+**4. Rasheed Wallace — "Coach Ford and Coach Smith sitting in my living room." — Dean Smith and Phil Ford surprised Rasheed Wallace at home** [07:28](https://www.youtube.com/watch?v=2mqRrziPnRM&t=448s)
+
+Rasheed Wallace: "I am coming home from school and coming home from track practice and I got my disc man on, not the Walkman, my disc man. I had my disc man on, unlocked the door. So at this time, it was just my mother and I and we lived in an apartment. The main hallway was a shotgun style. It goes straight to the back to my mom room and then on the left it was the bedroom, on the right the bathroom. And on the left it was the living room. So I am walking and I out of my peripheral, I see some bodies. So now I am kind of nervous because I am like, I know my mom not home, she should be at work. So I am like, man, do I really want to look back here and see what it is? So I gave the little movie gesture and I looked back there, looked past the wall and who is sitting in the living room? It is my mom, it is Coach Smith, and in my opinion, the greatest Carolina player to ever play for the University of Carolina, **Phil Ford**. Coach Ford and Coach Smith sitting in my living room."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=448s
+
+**5. Rasheed Wallace — "He came to watch us practice one time and he jumped in the practice a little bit." — Rasheed Wallace on Michael Jordan joining practice** [11:13](https://www.youtube.com/watch?v=2mqRrziPnRM&t=673s)
+
+Rasheed Wallace: "He came to watch us practice one time and he jumped in the practice a little bit, right? You know, Michael was out there playing cats one-on-one. He was playing Stack one-on-one, playing Donald Williams one-on-one and asked me, did I want to jump in? No. No. I got sense. No. I got sense."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=673s
+
+**6. Rasheed Wallace — "Michael was out there playing cats one-on-one. He was playing Stack one-on-one, playing Donald Williams one-on-one." — Rasheed Wallace on playing one-on-one against Michael Jordan** [12:09](https://www.youtube.com/watch?v=2mqRrziPnRM&t=729s)
+
+Rasheed Wallace: "Michael was out there playing cats one-on-one. He was playing **Stack** one-on-one, playing **Donald Williams** one-on-one and asked me, did I want to jump in? No. No. I got sense. No. I got sense. I know I had what they call a schoolyard handle. I did not care if I turned it over, if it banged off my leg, my foot and go out. School, that is schoolyard. No, my handle is not good enough to play against this dude right here. No, no, no. I am not playing him one-on-one. I am going to watch. Yeah. I know what I saw. I saw what he did against professionals. Right. You think what? Right. And I am, I am a freshman. You crazy. No, sir."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=729s
+
+**7. Rasheed Wallace — "I never really started shooting threes until like, I want to say it was my fourth year." — Rasheed Wallace on when he started shooting three-pointers** [19:15](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1155s)
+
+Rasheed Wallace: "I never really started shooting threes until like, I want to say it was my fourth year out in Portland when, at the time, the coach moved me to the three because he wanted to start big. He had Sabonis at the five and, at this time, if he was not number one, he might have been for sure in the top three, rebounding **Brian Grant**. So he was a, and so Coach wanted to start him. So I am like, all right, I get it. You know, I will sacrifice for the team and play a position that, you know, I never played before. I am like, how bad could it be?"
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1155s
+
+**8. Rasheed Wallace — "Glen Rice, he lit my ass up." — Rasheed Wallace on his rivalry with Glen Rice** [20:10](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1210s)
+
+Rasheed Wallace: "I handle myself pretty good except when we play LA. **Glen Rice**, he lit my ass up. Oh, he lit my ass up. You know, he had it all. He had the three. Give you the fake, I am putting it on the floor, left or right for the, for the pull-up or I might go to the back. Man, I never had, he had me running around in circles. I did not know nothing he was going to do. I did not know like the little tricks y'all have out there and all that. Like, all right, I am going to fake this way and then I know that big going to step up and do whatever. I ain't know nothing that shit, dog."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1210s
+
+**9. Rasheed Wallace — "That is the first time I ever had to guard somebody where I ran off three screens." — Rasheed Wallace on his first time guarding a player who ran off screens** [20:44](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1244s)
+
+Rasheed Wallace: "That is the first time I ever had to guard somebody where I ran off three screens. He got a wide open shot at the top. Man, I am not chasing this mother. I am trying to run through screens. Foul 30. I am like, yeah. Hey bro. But no, he averaged, I would have to say, that is the most I ever gave up as far as on the average. He had to average about 29 or 30 against us that season when I was playing the three. But I was like, I was, move. I was, shrimp fried rice, yo. He was cooking my ass out there."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1244s
+
+**10. Rasheed Wallace — "Everywhere I play, I tried to do some type of hand thing or whatever gesture with the three." — Rasheed Wallace on his shooting form and hand gestures** [21:35](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1295s)
+
+Rasheed Wallace: "Everywhere I play, I tried to do some type of hand thing or whatever gesture with the three. When I was with Boston, it was something like I would tuck it in, tuck it in my pocket or something like that. So when I got here, I, I shot a three and that, I think when I originally did it, I was mad. Yeah. And so I was, three to the dome. So I kept doing it every time I made a three. So boom, we in practice one day, I am out there in white playing. I get a call. I got to go into coach's office. It is the NBA. They like, um, um, G, we, we need you to stop that reference. We do not like the violence. I am like, what are you talking about? Well, you are making the gun sign and you are putting it to the head and it looks like, you know, you are blowing someone brains out. I said, no, no, no, no, no. I said, if you look closely, I said, it is three fingers. It is not a gun. Yeah. Yeah. Yeah. I said, it is three fingers. And all it is, is just the head gesture like, three to the dome, pump. Like, oh, you get it? Yeah. Yeah. Yeah. And so they were like, oh, okay. All right. So they left me alone with it. And then from there, that is all we was doing the whole season."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1295s
+
+**11. Rasheed Wallace — "One of them three shots, you got to go to the basket." — Rasheed Wallace on his shooting mechanics** [23:33](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1413s)
+
+Rasheed Wallace: "You take three shots. One of them three shots, you got to go to the basket. No matter if you make or miss the jump shot, you got to go to it. So it is the chemistry. So I think if I put myself into today's game and, and it ain't no real touching, oh yeah, I like that ass up."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1413s
+
+**12. Rasheed Wallace — "I would have to say that is the most I ever gave up as far as on the average." — Rasheed Wallace on his defensive impact** [24:57](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1497s)
+
+Rasheed Wallace: "I would have to say that is the most I ever gave up as far as on the average. He had to average about 29 or 30 against us that season when I was playing the three. But I was like, I was, move. I was, shrimp fried rice, yo. He was cooking my ass out there. And, you know, of course like, I am going to play. I ain't going to give up. Right. Right. Right. I am playing him and all that, but sheesh. Man, that is, that is the, I mean, I don't know, I know the head coach is all part of recruiting. Right. Right. I know this. But the head coach does not always go out on the recruiting trips. Hell no. No. And then for him to be sitting in my living room, and then so he was already talking with my mom and I did not know, and he came in there, I was like, okay. That is Dean Smith. Like, man, that is, you. So after they left, you know, I got on the phone, called my home, he was like, yo, yo, Coach Smith is just here. And they was like, what? Like, man, it, but it was an exciting time though. And so with me choosing North Carolina, um, I think that was the, the, that is what sealed the deal."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1497s
+
+**13. Rasheed Wallace — "Pablo Prigioni, myself, J-Kidd, K-Mart, Marcus Camby, Marcus Camby, Kurt Thomas, I am missing one." — Rasheed Wallace on the 2004 Detroit Pistons roster** [26:28](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1588s)
+
+Rasheed Wallace: "**Pablo Prigioni**, myself, **J-Kidd**, **K-Mart**, **Marcus Camby**, **Marcus Camby**, **Kurt Thomas**, I am missing one. I am, oh, and **Ronnie Brewer**. **Ronnie Brewer**. Okay. Oh wow. Yeah, yeah, yeah. Like, man, and and that so I tell everybody, you know, along with my NBA championship accolade that I have, that my championship, I have a scoring title and a six man. And they like, and they go to looking at that like, man, you said that, that, man, you ain't got no scoring title. Yes I do. Man, what year? I said 2012. I said 2012. What team? I am like, with the Knicks. And I am, you know, I am saying it with sticking my chest out with the and I was six man that year too. They like, oh man. Melo won that. **J-Kidd** on a I know. I was on that team. I helped my man get that. That is a fact. That is a fact. We always get that, that teammate. And then I got a scoring title like, that is funny. And on top of that, not only did you give that to him, you gave him the three to the dome. The celly. You are the original. The original of the three to the dome."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1588s
+
+**14. Rasheed Wallace — "I said, if you look closely, I said, it is three fingers. It is not a gun." — Rasheed Wallace on the origin of the 'three to the dome' gesture** [28:33](https://www.youtube.com/watch?v=2mqRrziPnRM&t=1713s)
+
+Rasheed Wallace: "Well, you are making the gun sign and you are putting it to the head and it looks like, you know, you are blowing someone brains out. I said, no, no, no, no, no. I said, if you look closely, I said, it is three fingers. It is not a gun. Yeah. Yeah. Yeah. I said, it is three fingers. And all it is, is just the head gesture like, three to the dome, pump. Like, oh, you get it? Yeah. Yeah. Yeah. And so they were like, oh, okay. All right. So they left me alone with it. And then from there, that is all we was doing the whole season."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=1713s
+
+**15. Rasheed Wallace — "I would have to say it was probably about four or five guys." — Rasheed Wallace discusses his toughest power forward matchups in the NBA** [33:30](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2010s)
+
+Rasheed Wallace: "Once I got rocking and rolling in the league, I would have to say it was probably about four or five guys. Had to get my sleep before I played **Chris Webber**. **Antonio McDyess** can shoot, Dyess was just as fast as I was, jumped just as high, and had just as high of an IQ. **Tim Duncan**, I wish we could have had some more collegiate battles, but I was one year ahead of him at Wake Forest. I always like going against him. **Kevin Garnett**, that was like my mirror image. I had no problem saying it. He is a better rebounder than me and I would say I am a better shooter than him. But everything else is the same, the shit talking, the energy, the being vocal out there on the floor, the defense and everything. And **Ronnie Brewer**. Like, man, that is it."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2010s
+
+**16. Rasheed Wallace — "Antonio McDyess. Uh, Dyess can shoot, Dyess was just as fast as I was, jumped just as high." — Rasheed Wallace on his rivalry with Antonio McDyess** [40:40](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2440s)
+
+Rasheed Wallace: "**Antonio McDyess**. Uh, Dyess can shoot, Dyess was just as fast as I was, jumped just as high. Um, and had just as high of an IQ. Yeah. Um, big fundamental. CD. CD. Duncan. Um, I wish we could have had some more collegiate battles, but I was one year ahead of him at Wake Forest. But, uh, we had one hell of a battle, uh, for the ACC championship my year. And I, I like that. Um, I always like going against him. Even though he was not athletic, um, per se, when you talk about the other power forwards, but again, he still had the fundamentals and everything."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2440s
+
+**17. Rasheed Wallace — "For sure, Ticket. Um, I would say for him, that was, that was like my mirror image." — Rasheed Wallace on his rivalry with Kevin Garnett** [41:10](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2470s)
+
+Rasheed Wallace: "For sure, Ticket. Um, I would say for him, that was, that was like my mirror image. Um, and I had no problem saying it. He is a better rebounder than me and I would say I am a better shooter than him. But everything else is the same, the shit talking, the energy, the, uh, being vocal out there on the floor, the defense and everything like, getting your team into it."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2470s
+
+**18. Rasheed Wallace — "And then along comes who for Dallas to add to add Dirk. Dirk. And Dirk was a great player too." — Rasheed Wallace on his rivalry with Dirk Nowitzki** [42:19](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2539s)
+
+Rasheed Wallace: "And then along comes who for Dallas to add to add Dirk. Dirk. And Dirk was a great player too. With him and as you said, it was a different facet. So now, you know, he jump shot, he got that jump shot. He not going to be down there on the block. He is not. So now you like, shit, now I got to guard here, guard him. And then the next night, now I got to sit up here and play C-Webb in the post and this. So yeah, it was, it was tough. But them them guys right there, though, man, I always love those battles right there. Like, you for sure going to get your money's worth. And the only way I am not playing is if I am really fucked up. But other than that, no, because you know, you always want to the fans. Yeah. You know what I am saying? That is the match up of the week right there."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2539s
+
+**19. Rasheed Wallace — "I was like, I want to get the belts for everybody." — Rasheed Wallace explains gifting WWE championship belts to his teammates** [43:05](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2585s)
+
+Rasheed Wallace: "I am like, man, we got to do something wild. So my cousin, I hit my cousin, Reek. I am like, yo, don't you still know the boy from WWF? Back then it was the WWF. Like, don't you know the bull from WWF? He is like, yeah, so I called him and he hooked it up and I was like, I want to get the belts for everybody. Nice. And he is like, okay, okay, okay. He is like, well, it is going to say World Wrestling Heavyweight Champion on it. I was like, I don't care. I said, it is just a symbolic reason that we are wearing it. So I got everybody nicknamed that we had on there and stuff."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2585s
+
+**20. Rasheed Wallace — "I said, I want to make a difference. And when I showed them the belt, they were like." — Rasheed Wallace surprises his teammates with championship belts on ring night** [43:05](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2585s)
+
+Rasheed Wallace: "So I didn't tell nobody. So when all the belts came, loaded them up in the car, drove to the arena. We had a game that was opening game. Ask the security, yo, help me carry these into the locker room. So we had a little side room, put them in the locker room. So **Coach Brown**, we ready to play. **Coach Brown** came out, we did the film, all this and that. And I was like, yo, I got something for y'all. I said, this is a memorable night because we were getting our rings in the ring night. I said, I was thinking of y'all. I said, I want to make a difference. I said, **Jerry**, that was our security guy now. I said, **Jerry**, could you help me get these boxes? And when I showed them the belt, they were like, oh, oh, oh. Everybody was hype, right? So, **Ben** was the one because at first for me, I wasn't going, I didn't think to wear them out. But **Ben** was like, man, we should wear these jumps out there."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2585s
+
+**21. Rasheed Wallace — "I looked at him like, damn, if Mike would have had a dominating center, it is over." — Rasheed Wallace on the 2004 Detroit Pistons' championship belts** [44:45](https://www.youtube.com/watch?v=2mqRrziPnRM&t=2685s)
+
+Rasheed Wallace: "I looked at him like, damn, if Mike would have had a dominating center, it is over. I mean, it was already over, but you know, you know, as great of players as Mike was, if he would have had a dominating center, just imagine if Bill Cartwright was dominating like 25 and 15 every night. Oh, that would be crazy. So just the, the sheer power of Shaq is why you cannot put those, those guys in the same class. Yeah, fact. Now granted, yeah, uh, Wamba Wamba was a good player. Yeah, Victor Wamba Wamba. That is my man. That is a great player. He is a great player for today. It is true. But the difference, um, of course is, is the body weight. Shaq was outweighing guys by at least 80 pounds. If you ain't, if you didn't have another, another big man that was like 7-1, 7-2, a, a big fella, yo, I am not the biggest of people. Right. Right. Right. And I had to guard this dude. And he is going to dunk the ball. He is not going to like, try to lay it up like, with your hand in there, you are not doing those side step jumpers or anything like that. He is not avoiding contact. No. And now today, they avoid contact. The whole Euro bullshit, they are avoiding contact."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=2685s
+
+**22. Rasheed Wallace — "the hardest challenge was the Pacers. They had a great team, they matched up with us evenly across the board." — Rasheed Wallace on the Pacers being the toughest challenge during the 2004 Pistons title run** [1:00:23](https://www.youtube.com/watch?v=2mqRrziPnRM&t=3623s)
+
+Rasheed Wallace: "I think with that run, the biggest, the hardest challenge was the Pacers. They had a great team, they matched up with us evenly across the board. Once I got there, I knew we could have a special team. To be honest, I didn't know we were going to win a championship. That wasn't even in my mind, but I was like, yo, we could make some noise. We could at least move up a couple notches here in the East going into the playoffs."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=3623s
+
+**23. Rasheed Wallace — "Believe it or not, as quiet as he is off the court, on the court, Ben was out there talking." — Rasheed Wallace on how Ben Wallace's vocal leadership helped the 2004 Pistons** [1:01:07](https://www.youtube.com/watch?v=2mqRrziPnRM&t=3667s)
+
+Rasheed Wallace: "Believe it or not, as quiet as he is off the court, on the court, Ben was out there talking. So now I didn't have to do all the talking. I'm like, oh, that's great. So now I got somebody else at certain plays, defensive plays, directing me. Oh, that's great. I'm like, man, that's a big help. Then everyone on the team was responsive and respecting each other. I didn't come there with no ego from Portland like, yeah, I'm used to getting 15 to 20 shots a night. I don't care if I get two shots a night, as long as we get this dub, dog. That's our main thing, getting this dub."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=3667s
+
+**24. Rasheed Wallace — "they don't mention or want to give us the props about being in the community a lot." — Rasheed Wallace on his community work in Portland and the media's lack of credit** [1:05:07](https://www.youtube.com/watch?v=2mqRrziPnRM&t=3907s)
+
+Rasheed Wallace: "I would say to be honest, us in the community, they don't mention or want to give us the props about being in the community a lot. I know during that same year they were talking so much trash about us. I had one of the monthly community awards, so did Damon. Damon helped open up, built school libraries, did a lot of things in the community over there in Northeast Portland where you have a lot more minorities living at. We would do, oh, this is what I really love. Of course, **Terrell Brandon** is from Portland too. So him and Damon would put on a softball game for the neighborhood. **Terrell Brandon** owned a barbershop, so he would get him, his homies from the barbershop, and his friends versus Damon and his friends. So I played with Damon, and every summer I was out there, we would play softball, at least three games in the community. It would be a big thing out there, free food, the drinks, the bouncy houses for the kids, all that. And it wasn't no thing like we weren't trying to do it for the media. We were just out there doing it for the community and just being there for the community."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=3907s
+
+**25. Carmelo Anthony — "the conversation started to, well it was already changing and shifting as far as like, man, we want to" — Carmelo Anthony on the shift in Portland's culture and the push to bring back Sheed** [1:06:30](https://www.youtube.com/watch?v=2mqRrziPnRM&t=3990s)
+
+Carmelo Anthony: "I think by the time I was in Portland, the conversation started to, well it was already changing and shifting as far as like, man, we want to, what about bringing these guys back? These were conversations that I used to have with the GM and the president like, yo man, why don't we bring, man we got to bring Sheed back. For me, like that's what I know Portland from being, like it's Sheed. So, got to bring Sheed back. Anyway, man, we going to work on it. We going to, we got to get all of them, we got to get all of them ready. We got to get all of them on the same page. They would come back to me, yeah we, we got probably like seven of them, we trying to get like three more. So finally, I seen in the documentary that you guys came back."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=3990s
+
+**26. Rasheed Wallace — "the way they chopped it up, that answer that I said wasn't even to that question." — Rasheed Wallace on his frustration with how the documentary portrayed his 'Fuck the city of Portland' comment** [1:07:52](https://www.youtube.com/watch?v=2mqRrziPnRM&t=4072s)
+
+Rasheed Wallace: "And then the only thing I didn't like about it in the documentary, it said at the end, and in my opinion, it made it seem like the way they chopped it up, like I still said, fuck the city of Portland and all of that. And the way that they chopped it up, that answer that I said wasn't even to that question. So, no, I still don't, to this day, I don't have no problem with the city of Portland myself. I have always had a great time out there, but it was, I would say that that part of that little docu, yeah, I ain't like how they chopped it up. They love you out there though, Sheed."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=4072s
+
+**27. Rasheed Wallace — "racism was real huge back then, especially coming from at that time the police force." — Rasheed Wallace on the prevalence of racism from the police force in Portland** [1:09:16](https://www.youtube.com/watch?v=2mqRrziPnRM&t=4156s)
+
+Rasheed Wallace: "No, racism was real huge back then, especially coming from at that time the police force. And not all, but about three people in the media, they would just, like I said, they would set us up. Okay, we just had a game. Let's say like last night, you know, for instance, say we beat Game 4, and we all down there at the one and only black club in Portland at the time, and we having some drinks. Well, the media guys would send, you know, people in there. Like, yo, let me know how many drinks he had. They would come out, hey yo, he on drink number four or drink number five, and, you know, he's doing this, doing that. All right, bet. So now when it's time to leave, you paying your tab, once you start to pay your tab, you go to the parking lot. Now you walking across the street, all right, yeah, they can get you for public intoxication because you stumble. But that ain't really nothing. But once they get you behind that wheel, and you pulling out, operating that motor vehicle, yeah, now it can turn into something different. Boom, now, not only can I get you for a DUI, but blowing in his tube, like, no. So, but they, they, man, coming home late night in the airport, they out there on that, on that little strip before you get on the highway. That's a motherfucker, dog."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=4156s
+
+**28. Rasheed Wallace — "him and Damon would put on a softball game for the neighborhood. Terrell Brandon owned a barbershop." — Rasheed Wallace on how he and Travis King used to run softball games for the community** [1:14:04](https://www.youtube.com/watch?v=2mqRrziPnRM&t=4444s)
+
+Rasheed Wallace: "Of course, **Terrell Brandon** is from Portland too. So him and Damon would put on a softball game for the neighborhood. **Terrell Brandon** owned a barbershop, so he would get him, his homies from the barbershop, and his friends versus Damon and his friends. So I played with Damon, and every summer I was out there, we would play softball, at least three games in the community. It would be a big thing out there, free food, the drinks, the bouncy houses for the kids, all that. And it wasn't no thing like we weren't trying to do it for the media. We were just out there doing it for the community and just being there for the community. And I think that's one of the things that that goes unsaid with us. We were always out there in that community doing a lot of things individually and together."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=4444s
+
+**29. Rasheed Wallace — "you got to know how to talk. You can't come, um, well, I, uh, you know, like, no, I don't know." — Rasheed Wallace on the media's bias and the importance of coaching players on handling interviews** [1:15:07](https://www.youtube.com/watch?v=2mqRrziPnRM&t=4507s)
+
+Rasheed Wallace: "With myself and then, uh, my partner that runs it with me, **Travis King**, he's an agent. So, we're definitely informing them. He's been in the game for 30 years. So, we're definitely informing them like, look, when you get up here and you talking in front of these mics, no matter if it's a video interview or, you know, magazine or whatever the case may be online, you got to know how to talk. You can't come, um, well, I, uh, you know, like, no, I don't know. So, you have to elaborate more on how you're feeling. So, and you could do it and just in the quick short term. You don't have to do a whole book about it. Trying to sum it up in a sentence. So, we give them little tidbits, uh, little media coverage on social media as well. That's the biggest thing right now. And even if it's not a kid on my team, and if it's a high school player that I know, like, yo, let me see your, your gram, dog. You know, we don't need none of that all this, and, yeah, you out there and, hey, they watching that. They looking at that. And just when you thought you got the dummy account, or you erase, you not slick."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=4507s
+
+**30. Rasheed Wallace — "Soon as the game ended, that buzzer went, and that ball went through the net" — Rasheed Wallace recounts the post-game altercation between Chris and Bosh** [1:16:47](https://www.youtube.com/watch?v=2mqRrziPnRM&t=4607s)
+
+Rasheed Wallace: "I think it was one time during an interaction, **Chris** thought **Bosh** hitting him with a shot, like a punch, as they were playing. But never went back to look at the preview or whatever. But I mean the tape, but so here it is, it's coming down to it, I got the ball in my hand. I turn, I'm on the baseline, I hit the patent turnaround for game, wow. Soon as the game ended, that buzzer went, and that ball went through the net, they start going at it, the foul. **Bosh** and **Chris**. Then, next thing, everybody, the bench is clear and it's all raw, raw. We leaving, our fans throwing shit at us and all this, right? Leaving out the arena."
+
+https://www.youtube.com/watch?v=2mqRrziPnRM&t=4607s
