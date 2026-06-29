@@ -1,0 +1,113 @@
+# Chris Duarte LO ACLARA TODO: UNICAJA,NBA, BSN y Selección Nacional RD — *MAREGA DEPORTES*
+
+Source: https://www.youtube.com/watch?v=ozXGwBfjdJ8
+
+_Speakers identified: Chris Duarte, Manuel Reyes, Marega_
+
+**1. Chris Duarte — "a mí no me gustó que muchos canales aquí deportivos del país le dieran acceso a una gente del extranjero" — Chris Duarte expresses disappointment with Dominican sports media coverage of foreign players** [01:27](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=87s)
+
+Chris Duarte: "A mí no me gustó que muchos canales aquí deportivos del país le dieran acceso a una gente del extranjero para ellos expresarse de un compatriota tuyo de esa manera, sin tú saber exactamente qué está pasando por allá. Porque tú me dices a mí, si tú vas allá, y como te dije ahorita, si tú vas allá, mira el baloncesto, mira la práctica, mira los partidos, presta atención a los entrenadores, en la forma en la que ellos corren y hacen sus cosas, presta atención a los jugadores. Entonces yo diría, ¿sabes qué? Fulano tiene conocimiento para hablar de esos temas, está bien. Pero cuando tú no tienes ningún tipo de conocimiento para hablar de esos temas, tú dejas a esas personas que vengan a mi país a expresarse de mí de esa manera, eso me duele. Y eso es algo que a mí me dolió mucho, y a mi familia también."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=87s
+
+**2. Chris Duarte — "es una bendición, he conseguido todo lo que he soñado, todo lo que he querido" — Chris Duarte reflects on his journey and early sacrifices in his basketball career** [05:57](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=357s)
+
+Chris Duarte: "Bueno, cuando yo miro hacia atrás y pienso en todo mi recorrido y en las cosas que yo he logrado en esta vida y en este deporte, es una bendición. He conseguido todo lo que he soñado, todo lo que he querido, y ha valido la pena el esfuerzo y el sacrificio, mirando hacia atrás cuando me fui de mi país a temprana edad. Como aquel mensaje que yo di aquella vez en Puerto Plata, dejando todo, todas mis cosas, un mundo, dejando un mundo atrás, un niño atrás, que es algo que ayer estaba hablando con mi hermano sobre eso. Y yo siempre hablo estas cosas con mi familia, con los míos, de que ellos conocen un niño de 16 para abajo. Luego, esa persona de los 16 a los 28, es una persona totalmente diferente, es una persona que ha evolucionado demasiado, ha vivido demasiada experiencia en la vida a tan temprana edad. Y todas esas cosas es por la cual hoy en día yo estoy orgulloso de haber realizado eso y de haber dado ese paso, porque es un paso que da miedo."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=357s
+
+**3. Chris Duarte — "yo llegaba todos los días a mi casa en eso de las 10 y me sentaba en mi computadora" — Chris Duarte recalls his early struggle to get noticed by scouts and his eventual break** [12:53](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=773s)
+
+Chris Duarte: "Yo recuerdo que yo llegaba todos los días a mi casa en eso de las 10 y me sentaba en mi computadora a escribirle a un cazatalentos que vive en Miami, y yo le suplicaba a él que por favor me diera la oportunidad, y finalmente me la dio. Fui allí a Miami, hice mi campamento, terminé siendo el mejor tirador del campamento, ahí terminé obteniendo una beca, y sí, allí duré seis meses, traté ese mundo, por una u otra razón no me gustó, me fui a mi casa y luego regresé. Ya cuando regresé a Dominicana, ahí pude como que analizar todo y comparar los mundos, Estados Unidos y Dominicana, el baloncesto allí, el baloncesto aquí, las oportunidades que me ofrece ese país, aún teniendo todas esas otras cosas que conmigo no van, yo tuve que sentarme y tomar una decisión y esa fue irme, irme con la mentalidad de que tengo que hacer lo que tenga que hacer, por lo que esto es lo que yo quiero, este es el sueño que yo quiero, y ahí me fui, ahí me fui a Estados Unidos, a Filadelfia, en Filadelfia duré dos o tres meses, luego terminé llegando a Northfield, Massachusetts, allí dos años, fui a Juco, la NCAA me negó todo porque los grados de mi escuela aquí no se pudieron trasladar allá."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=773s
+
+**4. Chris Duarte — "yo no tengo miedo de pedir ayuda, yo no tengo miedo de que tú pienses que quizás mis conocimientos" — Chris Duarte emphasizes the importance of asking for help and not letting pride get in the way** [15:02](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=902s)
+
+Chris Duarte: "Eso sí yo tengo, yo no tengo miedo de pedir ayuda, yo no tengo miedo de que tú pienses que quizás mis conocimientos no es lo suficientemente bueno para estar en un grupo. Si yo no me sé algo, yo te voy a preguntar, humildemente te voy a decir, 'Marega, ¿qué significa eso?' Y quizás tú te puedas reír de mí, a mí no me importa. Igual que si yo necesito una ayuda, yo voy a ir ahí donde ti, yo pongo mi orgullo al lado, tú sabes que hay muchas personas que eso es lo que a veces les cierra puertas, el hecho de tener miedo a que, 'ay, si la gente dice esto, o si piensa lo otro'. No, no, yo me sentaba todas las noches, 'por favor, estoy trabajando duro, por favor, dame la oportunidad', y todas las noches hasta que finalmente parece que yo lo cansé de rogarle y parece que se sintió mal conmigo y me dijo, 'coño, este, qué pena le tengo, aquí está la oportunidad'. Y cuando yo llegué allá, fue como que otras cosas, ¡guau! Una sorpresa, ¿me entiendes? Y eso, la gente no debe tener miedo a pedir ayuda o a pedir consejos, porque tú estás tratando de subir, de escalar, y tú no vas a escalar pidiéndole un consejo a un hermano tuyo que está en el barrio contigo, que nunca ha vivido esa vida que se vive en esos lados, en esas áreas, tú a quién tú le vas a preguntar o a quién tú le vas a pedir ayuda."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=902s
+
+**5. Chris Duarte — "yo llegué a Indiana siendo un lottery pick y cuando tú eres un lottery pick, ellos te sueltan" — Chris Duarte explains his transition in roles and playing style throughout his career** [29:40](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=1780s)
+
+Chris Duarte: "Obviamente yo llegué a Indiana siendo un lottery pick y cuando tú eres un lottery pick, ellos te sueltan, eras un rookie y ellos quieren que tú cojas la más experiencia posible y también te quieren evaluar, te quieren ver, cosas así. O sea, que mi primer año en mi protagonismo era sumamente diferente, era un año en la cual yo tenía esa libertad de coger el balón y empujarlo, correr en un pick and roll temprano, podía tirar en los primeros cinco segundos del partido, luego mi segundo año, perdón, ese primer año yo estaba haciendo, yo estaba jugando un baloncesto que es el que a mí me gusta jugar, es en el que yo más cómodo me siento, que yo tengo la libertad de coger el balón y hacer lo que yo quiera, crear, entrar a pintura, crear por mis compañeros, atacar el aro temprano, tirar el triple temprano, porque yo entiendo que soy un buen tirador y eso hay que usarlo, ¿por qué no? Y nada, entonces mi segundo año con Tyrese, con la llegada de él, yo entendí también que él lo hacía mucho mejor que yo en la uno y que nosotros teníamos mejor porcentaje con él corriendo la ofensiva. Entonces ahí mi rol tiene que cambiar, ahí yo tenía que transformarme en un tirador de que yo fui de coger la bola, empujarla, coger la bola, pasársela a él y correr a la esquina."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=1780s
+
+**6. Chris Duarte — "el juego va a empezar, tenemos que ganar, porque si no, para mi casa es que voy." — Chris Duarte on the pressure of playing for the national team** [1:00:00](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3600s)
+
+Chris Duarte: "Estaba ansioso. Exacto, como que el juego va a empezar, tenemos que ganar, porque si no, para mi casa es que voy. Y va a ser una temporada que va a quedar. Todo se resume en ese juego. Nos van a comer a nosotros. Este equipo que tenemos no puede perder."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3600s
+
+**7. Chris Duarte — "yo tengo una mentalidad ambiciosa. Yo decía, yo tengo que crecer mi marca." — Chris Duarte on his goal of growing his brand in the NBA** [1:01:17](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3677s)
+
+Chris Duarte: "Yo nunca he dicho esto, pero es algo que es lógico, es algo que cuando yo te lo explico, tú dices, okay, te entiendo, ahora entiendo por qué tú lo haces. Yo tengo una mentalidad ambiciosa. Yo decía, yo tengo que crecer mi marca. Yo no puedo hablar como un dominicano donde quiera que voy, la gente no me entiende. Y me pasaba. Los primeros años yo hablaba con jerga dominicana. ¿Qué es lo que, da luz, cuéntame, dime todo, qué vamos a hacer? ¿Qué es lo que tú dices, manito? Tú estás loco. Y la gente, los mismos latinos me miraban y me decían, tú no hablas español, tú hablas inglés. ¿Qué tú hablas? Y esas cosas a mí me dolían, yo decía, wow, de verdad, la gente no me entiende."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3677s
+
+**8. Chris Duarte — "yo quiero obviamente tener buenas entrevistas, poder expresarme de una mejor manera." — Chris Duarte on his commitment to the national team** [1:02:47](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3767s)
+
+Chris Duarte: "Si yo quiero, mi meta es llegar a la NBA, no, entonces yo quiero obviamente tener buenas entrevistas, poder expresarme de una mejor manera, tener un vocabulario más extendido, poder agrandar mi marca. Yo quiero que diferentes culturas me puedan entender. Yo quiero que cuando yo hable con los españoles me entiendan, cuando con los argentinos, con los colombianos, con los venezolanos, con los puertorriqueños, con con todos, yo quiero que ellos me entiendan, yo quiero tener una buena conversación y crear relación."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3767s
+
+**9. Chris Duarte — "tengo ya 10, de 10 a 12 años ya en el extranjero conviviendo con diferentes culturas." — Chris Duarte on his experience playing abroad and adapting to different cultures** [1:03:53](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3833s)
+
+Chris Duarte: "Yo tengo ya 11 años, 10, de 10 a 12 años ya en el extranjero conviviendo con diferentes culturas. Con argentinos, con venezolanos, con jamaiquinos, con con españoles, con todo, ¿sabes? Es un deporte que tú te relacionas con muchas culturas. Entonces, los acentos se me fueron pegando poco a poco. También cuando tú llegas a un lugar, tú tienes que hablar, tú tienes que tratar de hablar a su manera para que te puedan entender."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=3833s
+
+**10. Chris Duarte — "yo los atletas, las personas, yo veo mucho en cómo es ese jugador como persona." — Chris Duarte on evaluating players as people, not just athletes** [1:07:18](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4038s)
+
+Chris Duarte: "Yo los atletas, las personas, yo veo mucho en cómo es ese jugador como persona. A mí no me importa cómo es lo de jugador y por eso también tengo poca amistad y por eso mi grupo es muy pequeño. Si tú siempre me, si tú me ves, siempre es con mis hermanos, mi papá, dos o tres amiguitos que son con los que yo he crecido. Porque hay cosas que que no van conmigo, no van con mis valores. Pero esas dos personas son dos tremendas personas, dos fajadores. Andresito tengo yo desde los 16 entrenando con él aquí en la selección y he visto su trayectoria. He visto su carrera crecer desde pequeño. Jugamos juntos en en en Juco. Allí también conviví con él un montón. Igual que con Jean, con Jean he venido viéndolo desde pequeño también y de verdad que yo se lo digo a ellos y ellos lo saben que que de verdad yo me siento bien contento con ellos por lo que ellos han logrado. Andresito viene desde abajo, Andresito ha pasado la mil y una para estar en el Madrid, en uno de los mejores clubes del mundo. Y igual que Jean. Jean ha pasado la mil y una también. Jean ha estado en la alta, ha estado en la baja, vuelve y sube, vuelve y baja y ahora está en la cima de nuevo."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4038s
+
+**11. Chris Duarte — "Jean ha tenido un año que es con el año que uno que uno sueña tener." — Chris Duarte on Jean Montero's successful year and potential** [1:08:54](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4134s)
+
+Chris Duarte: "Jean ha tenido un año que es con el año que uno que uno sueña tener. MVP, mejor joven, quinteto del año, finales, campeón en la ACB, 9 años, 9 años Valencia que no ganaba. 9 años, Valencia que no ganaba. 9 años, me entiendes? Y de la manera en la que él lo hizo, porque el chamaquito dominó, dominó la liga que yo, yo hasta eso le decía, wow, Jean está duro. Jean está duro y está, está, está bien. Los dos están muy bien, Andrés también."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4134s
+
+**12. Chris Duarte — "nos hace bien tener tener cuatro así como él que te abra la cancha." — Chris Duarte on the importance of having players like Andres Feliz and Jean Montero** [1:09:32](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4172s)
+
+Chris Duarte: "No nos quieren soltar y de verdad que que nos hace bien tener tener cuatro así como él que te abra la cancha y que traiga esa presencia en la pintura, nos viene bien de verdad."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4172s
+
+**13. Chris Duarte — "yo cuando yo decido algo, yo no yo no tengo que ver con lo que tú me digas." — Chris Duarte on his decision to play for the Dominican national team** [1:10:23](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4223s)
+
+Chris Duarte: "Yo cuando yo decido algo, yo no yo no tengo que ver con lo que tú me digas. Yo te escucho, pero yo te escucho para, sabes, pensar a ver cómo tú piensas y cómo tú ves las cosas desde tu punto de vista. Y luego yo me siento yo y analizo todo lo lo lo que yo tengo y con el conocimiento mío y decido algo y ya, eso es. No me importa que tú digas, ah, eso está mal. No, no, yo me voy con eso. Y yendo a Puerto Rico allí, yo yo sabía todas las consecuencias que eso me podía traer, porque si yo voy allí y no tengo el año que yo tuve, eso me hiere a mí."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4223s
+
+**14. Chris Duarte — "mi prioridad está en casa ya, en que ya no no está en la calle, no está en los amigos." — Chris Duarte on the importance of family and personal priorities** [1:11:12](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4272s)
+
+Chris Duarte: "Mi prioridad está en casa ya, en que ya no no está en la calle, no está en los amigos, no está en las amigas, no está en el bochinche. Mi prioridad es mi casa, mis hijos, mi esposa, mi familia. Yo creo que ese es el cambio más grande que yo he tenido y el mejor cambio que yo he tenido en la vida. Porque me me ha mejorado, me me ha hecho bien ser padre a temprana edad. Me ha hecho conocer lo que es amor, amor de verdad, un amor genuino, un amor que no importa lo que pase, ese amor va a estar ahí. Pasa lo que pase en mi casa o fuera de mi casa, yo llego y están mis hijos y mi esposa ahí con los brazos abiertos. Y ese abrazo es el que me recarga, ese abrazo es el que me me revive y ese abrazo el que me me me pone a pensar de una manera diferente. Ese abrazo es el que me me saca del hoyo."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=4272s
+
+**15. Marega — "Yo estoy viendo primero una historia de vida de principio a fin, un tipo hecho a mano" — Marega on Chris Duarte's journey and professional path** [2:00:29](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7229s)
+
+Marega: "El hecho de que tú estés sentado ahí, quizás la gente ve un atleta o un ex NBA. Yo no estoy viendo eso, yo estoy viendo primero una historia de vida de principio a fin, un tipo hecho a mano, hecho en casa, que llegó al máximo nivel y que tú no tienes los aires de los que han llegado al máximo nivel. Es más, hay personas que han logrado muchísimo menos que tú y uno no tiene que ser el chance de tener esa cercanía y de expresarse como un ser humano que está tan sobre la tierra."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7229s
+
+**16. Chris Duarte — "Yo hago las cosas de corazón sin esperar nada a cambio. Y eso es algo que yo tengo" — Chris Duarte on the importance of playing with heart** [2:01:21](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7281s)
+
+Chris Duarte: "Yo hago las cosas de corazón sin esperar nada a cambio. Y eso es algo que yo tengo siempre pendiente. Yo hago las cosas de corazón sin esperar nada a cambio y las cosas te van a salir bien. Es que tú lo puedes llamar como tú quieras, yo lo llamo un Dios que todo lo ve, ¿no? Y él ve tu esfuerzo, tu sacrificio, él siente tu corazón, él sabe lo que hay en ti."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7281s
+
+**17. Chris Duarte — "Yo sí valoro la figura que yo tengo ahí. Una cosa es que uno se maneje en la entrevista" — Chris Duarte on his gratitude for his support system** [2:02:40](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7360s)
+
+Chris Duarte: "Yo sí valoro la figura que yo tengo ahí. Una cosa es que uno se maneje en la entrevista profesionalmente y que uno está acostumbrado, pero yo sé a quién yo tengo ahí y para mí fue un sueño cumplido."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7360s
+
+**18. Chris Duarte — "Yo era un muchacho que no estudiaba mucho, Marega. Yo no era un muchacho de estar metido" — Chris Duarte on his early basketball journey and self-reliance** [2:04:39](https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7479s)
+
+Chris Duarte: "Yo era un muchacho que no estudiaba mucho, Marega. Yo no era un muchacho de estar metido en los libros leyendo y cosas así. Eso lo vine a entender luego. Y eso es otra cosa que le digo a los jóvenes, la educación es muy importante, la formación es muy importante. Yo he visto jugadores que por falta de educación no logran tener o no logran alcanzar su potencial o su límite. Y yo iba a la escuela no muy preparado y eso era un nervio y qué me van a dar y qué, pero porque era eso, porque no me preparaba. Exactamente. No me preparaba, entonces obviamente que mi confianza iba a estar abajo."
+
+https://www.youtube.com/watch?v=ozXGwBfjdJ8&t=7479s

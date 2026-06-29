@@ -1,0 +1,47 @@
+# Chandler & Lou Reacts to LeBron James & Anthony Davis to Warriors Rumors!! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=UqDyDyo-2mk
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams_
+
+**1. Chandler Parsons — "It is crazy that he is still probably the hottest free agent right now at 41 years old." — LeBron James remains a highly valuable free agent at 41** [00:32](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=32s)
+
+Chandler Parsons: "I never really imagined him leaving. I think **Austin Reaves** was the first big step, the first piece to go, and they obviously handled him, giving him his much deserved deal. They still have a lot of other decisions with **Luke Kennard**, with **Rui Hachimura**. There is still another piece, a couple other pieces to go, but **LeBron James** is still extremely valuable. It is crazy that he is still probably the hottest free agent right now at 41 years old, everything he has been through at his age. But he is, and I think he does still hold the power and the chips. One thing about LeBron and his entire career, if something gets out, it is because he wants it out, and if something does not, it is because he does not want it out. He has been very good at that his entire career. His team, **Rich Paul**, **Mav Carter**, they have always been fantastic at that."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=32s
+
+**2. Lou Williams — "He understands the process, he knows it very well, his agency and his team does." — LeBron James understands the free agency process and is in control** [01:58](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=118s)
+
+Lou Williams: "I would not overreact to him not making himself available. We are talking about a guy that has dealt with free agency and trade rumors and going to different teams for over two decades now. He understands the process, he knows it very well, his agency and his team does. They have always been a group that hold their cards very close to their chest and they have always been in control of which way that it swings for **LeBron James**, whether he is going to stay in LA and go somewhere else. So him not being available immediately for the Lakers, I would not think too much in that. We have seen them do the anniversary tour, I am sure he is overseas somewhere hanging out and enjoying himself as he should be, as every other NBA player is doing right now."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=118s
+
+**3. Michelle Beadle — "I kind of feel like maybe he goes to Golden State, which is crazy visuals to me." — Potential for LeBron James to join the Golden State Warriors** [03:16](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=196s)
+
+Michelle Beadle: "The Lakers want to see what 50 million buys them if they get rid of Kennard, Rui, LeBron. The Warriors have Draymond who is willing to take a redo his deal to give more money to LeBron to bring him in. They also want to try to bring **Anthony Davis** over to Golden State. All of a sudden, what was just a pipe dream has some facts behind it, or at least what we think could be facts. I kind of feel like maybe he goes to Golden State, which is crazy visuals to me."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=196s
+
+**4. Lou Williams — "There are teams that are trying to get older and more experience and get guys in." — Kawhi Leonard trade rumors and the Clippers' need for a reset** [05:10](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=310s)
+
+Lou Williams: "LeBron has to play the field, especially if you do not get the results that you want. Out of having a player like that constantly surrounding him in the organization with pieces to win a championship, at some point, you have to figure something else out. There are two things that always happens in the league. There are teams that are trying to get older and more experience and get guys in that has had a winning reputation and what **Kawhi Leonard** brings to the table. Then there are always teams like the Clippers that have not been able to get over the hump and they want to get younger, but at the same time they want to get some star power in there that is going to give them an opportunity to reset and try to win at that pace. Right now it looks like a perfect storm."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=310s
+
+**5. Chandler Parsons — "Now there are reports that this is the only team he would sign a long-term deal." — Kawhi Leonard's potential long-term fit with the Toronto Raptors** [06:26](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=386s)
+
+Chandler Parsons: "It is interesting. I am with you, Lou. I did not think of this scenario at all. You remember, I think it was 2019, Kawhi basically says when he gets traded to Toronto, I am only playing this one year and he leads them to a championship and he bounces. Now there are reports that this is the only team he would sign a long-term deal. This is interesting, it makes sense. I think the Raptors would be obviously a perfect fit for them and like you said, they have assets that maybe the Clippers would want to get younger with. I do not think it is going to be Scottie Barnes at this age with where **Kawhi Leonard** is, but **Brandon Ingram** is a name that you hear, **RJ Barrett** is a name that you hear, Quickley is a name you hear. Those are all three up-and-coming players kind of going into their prime that you can pair with a Darius Garland here in LA and kind of reset the future and the potential for the LA Clippers."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=386s
+
+**6. Chandler Parsons — "I definitely think he is going to get moved and I think teams are going to line up." — Jaylen Brown's likely departure from the Boston Celtics** [08:55](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=535s)
+
+Chandler Parsons: "He is gone. I think everything that you have been hearing from his camp, everything that he has been feeling and saying and insinuating as far as since the seasons ended, it just feels like the writing has been on the wall. And then when you officially put an All-NBA type player like **Jaylen Brown**, who again, I do not think he is a bad guy, I do not think he is a negative guy, but he definitely is the type of player and personality that is going to be disgruntled after being offered up for a player that you feel like you are better than and you just had a better season than and you are two years younger than. I think there is definitely going to be some uncomfortable conversations there. I definitely think he is going to get moved and I think teams are going to line up at the door to try and acquire him."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=535s
+
+**7. Lou Williams — "It looks like Boston is trying to make him want to get traded." — The breakdown of the relationship between Jaylen Brown and the Celtics** [10:25](https://www.youtube.com/watch?v=UqDyDyo-2mk&t=625s)
+
+Lou Williams: "To me, it looks like Boston is trying to make him want to get traded and it looks like he is trying to make Boston trade him. At this point, it is kind of irreparable and I do not want to say that it is bad blood or anything else, but a lot of times some of these things just run its course. And it looks like Boston and **Jaylen Brown** has run its course. For whatever reason, he just has not gotten his proper due and proper respect that he is seeking out in the career that he has had and the culture that he has been able to bring to Boston and the success that they have had collectively. It just looks like there is a level of appreciation that is not mutual from the organization and from **Jaylen Brown**."
+
+https://www.youtube.com/watch?v=UqDyDyo-2mk&t=625s

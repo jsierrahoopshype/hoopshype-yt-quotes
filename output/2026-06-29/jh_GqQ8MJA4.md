@@ -1,0 +1,47 @@
+# Ja Morant & Trey Murphy TRADE Rumors + Trailblazers FRONTRUNNER for Jaylen Brown?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=jh_GqQ8MJA4
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, Lou Williams, Sam Amick_
+
+**1. Sam Amick — "you constantly hear with Ja that he remains a negative value asset" — Ja Morant remains a negative value asset in trade talks** [00:17](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=17s)
+
+Sam Amick: "Nothing fresh. I hate always talking, we talk about players like assets and that is just part of the economy of the game, but you constantly hear with Ja that he remains a negative value asset, that that is the way he is perceived. And so that means when teams are calling, and I have shared this before, like in my backyard, the Kings had, before they drafted **Darius Garland**, they had legitimate interest in Ja, but it was always with the disclaimer that they wanted draft assets attached to him to take him on, to take on that money. And they were not alone."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=17s
+
+**2. Sam Amick — "Once the relationship has some cartilage on it and some damage, then it's tough to undo that" — Ja Morant's relationship with Memphis has suffered significant damage** [01:44](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=104s)
+
+Sam Amick: "It is maybe a little bit apples to oranges considering everything Ja has accomplished, but when you talk about, it is a little bit even like the days of talking about **Kawhi Leonard** and the Spurs in the old days. Once the relationship has some cartilage on it and some damage, then it is tough to undo that. And I think with Ja in Memphis, I do think they are there. He is not there with the fans. He always reps with the market and talks about how much he loves being in that market, which that is the tough part for the Grizzlies is that Memphis is not a real popular place, other than Chandler, he loves Memphis."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=104s
+
+**3. Sam Amick — "Boston is asking for the sun and the moon" — Celtics are asking for a massive return for Jaylen Brown** [02:58](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=178s)
+
+Sam Amick: "This one is, if I had to handicap it, it just feels like somebody has got to put enough on the table to get this thing done, but Boston is asking for the sun and the moon. I keep looking at Portland and because people keep bringing Portland up when I talk to them, they wanted to go big on **Giannis Antetokounmpo** and that did not work. Even without a commitment, they were willing to try to do a Giannis trade. And when you see that kind of boldness, then you kind of go, all right, if they, it is a little bit like **Tim Connelly**, if you missed on the one guy, you are going to swing for the next guy."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=178s
+
+**4. Sam Amick — "the Pistons certainly have been messaging that he is not going anywhere" — Jalen Duren is unlikely to be moved by the Pistons** [04:54](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=294s)
+
+Sam Amick: "The gap between the two sides was pretty significant as of a few days back. I got to circle back and figure out where it is at right now. The sign and trade thing was interesting because as you guys know you only have a few options when you are restricted free agent. The Pistons certainly have been messaging that he is not going anywhere because if he goes out, and this is the other option, if he gets an offer sheet in restricted free agency, not a route he was really pursuing that they could match that, but they did not plan on losing him, do not plan on losing him. But you have to also wait and see what gets put in front of them from a sign and trade scenario standpoint before you finally answer that question. When you have stars floating around, like a **Jaylen Brown**, I mean we should tie Jalen to this situation, then you are going to want to look at that."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=294s
+
+**5. Sam Amick — "LeBron has not clarified in any way what he is willing to play for contract wise" — LeBron James' contract status with the Lakers remains uncertain** [07:00](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=420s)
+
+Sam Amick: "It is kind of weird. I looked into it yesterday and from both sides and even other teams and it was vague and ambiguous is kind of the way I would describe the state of affairs where there is no one choosing to share animosity or saying, man, we are parting ways. We are not there yet, but there is a lot of, all right, Lakers have other business that they are attending to first. They are trying to get a center. They obviously paid **Austin Reaves**. They are trying to figure out the rest of their payroll and where LeBron might fit into that. But conversations as of yesterday had not happened. We have all seen all the fun he is having with the 2016 Cavs team. He is golfing and living his best life. So it does not look like he is losing sleep over it, but it is definitely a TBD situation. LeBron has not clarified in any way what he is willing to play for contract wise."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=420s
+
+**6. Sam Amick — "it is also when you are 31 and the clock is ticking and you are ready to go" — Heat roster concerns persist despite Giannis Antetokounmpo rumors** [09:20](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=560s)
+
+Sam Amick: "The tough part for them and we will see what happens is that the chatter that **Norm Powell** was maybe heading elsewhere and he has been tied to Detroit, that is a big piece. It is fascinating to me how, and I would love to plan on talking to **Giannis Antetokounmpo** about this down the road, how he made this choice where my understanding is that yes he had concerns about the roster, but he has got this ultimate confidence in this group that he always admired. It is **Pat Riley** and **Erik Spoelstra** and **Andy Elisburg**, their longtime GM. So you have got like this respect for the culture and what they built and their track record of just finding solutions. And I get that, but it is also when you are 31 and the clock is ticking and you are ready to go contend for a title right now, like he has got to be looking at this roster going, man, what else? What are we doing? So **Andrew Wiggins** got a player option that, unless I missed it, I do not think that news is out yet. Those are two big pieces. Are Wiggins going to be back and Norm? And then from there, it just becomes, **Cam Johnson** has been tied to the Heat, other players like that, who can they get their hands on to surround the big fellow with some shooting? I mean the shooting on that roster is pretty light."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=560s
+
+**7. Sam Amick — "Trey and his people thought that they were going to be traded then" — Trey Murphy III trade rumors persist despite Pelicans' high price** [11:02](https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=662s)
+
+Sam Amick: "It is a weird one. It is just like man the one side the Trey side has, they are past the point of thinking that they were going to be traded, him and his camp. But the Pelicans just keep keeping the price tag high, keep asking for a lot on draft night. You guys saw, and I do not think this was directly tied in, but the **Joe Lacob** video with the Warriors where they were kind of bickering about the pick, **Mike Dunleavy** was sitting there and they were picking their guy, but those types of scenarios where they are talking about trades that they were maybe going to do that night. So whether it was the Warriors or Atlanta that night or a lot of other teams, Trey and his people thought that they were going to be traded then. And it seemed like he was on the move, and it definitely seems like he has made it clear to the Pelicans that he is looking to be relocated. But they are asking for a lot, teams have not met them there. And I get it, because I cannot remember a guy who is not a star attracting this much attention, at least in quite some time. Like the Warriors for example, have had the rise on him for literally almost a couple years at this point and almost had a list where it was Giannis and then Trey Murphy, like as if they were one and two."
+
+https://www.youtube.com/watch?v=jh_GqQ8MJA4&t=662s
