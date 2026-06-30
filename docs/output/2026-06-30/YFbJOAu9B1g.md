@@ -1,0 +1,89 @@
+# Jonquel Jones on Being Herself, Having Game & Liberty Secrets! — *Game Recognize Game*
+
+Source: https://www.youtube.com/watch?v=YFbJOAu9B1g
+
+_Speakers identified: Myles Turner, Breanna Stewart, Jonquel Jones_
+
+**1. Jonquel Jones — "I'm the only woman from the Bahamas to still be playing in the WNBA." — Jonquel Jones on her career journey and representing the Bahamas** [00:50](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=50s)
+
+Jonquel Jones: "It's what we work hard for. First and foremost, it's to win a championship, obviously, and we did that. But as I've been in this league now 10 seasons, looking back at all the amazing things that I've been able to accomplish and the amazing players that I've been able to do it with, I'm very happy with how things have gone for me career-wise. Even just thinking about how far I've come, being somebody from the Bahamas, I'm the only woman from the Bahamas to still be playing in the WNBA. I'm not just representing myself, I'm representing my country and all the people at home that are watching and tuning into the WNBA."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=50s
+
+**2. Jonquel Jones — "To me, it kind of makes me think about a scouting report and understanding the best ways." — Jonquel Jones on the meaning of 'game recognizes game'** [01:50](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=110s)
+
+Jonquel Jones: "To me, it kind of makes me think about a scouting report and understanding the best ways to stop somebody when you're playing against them and preparing for them with all of the respect that is necessary to be able to be successful against them. I think that's the way that we kind of give each other flowers too. We might not always go up to the next person and be like, 'Oh man, I love this and I love that about you,' but just understanding their tendencies and being fully prepared to be able to go up against them every night is what I kind of think about when we say game recognizes game."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=110s
+
+**3. Jonquel Jones — "Having that freedom as kids to be able to just be yourself and also having that community." — Jonquel Jones on the impact of growing up in the Bahamas** [03:06](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=186s)
+
+Jonquel Jones: "The Bahamas to us is everything. It's one of those places where I feel like a lot of us had it in the 90s, though, just having that freedom as kids to be able to just be yourself and also having that community around you that also raised you and helped shape you. And so I think it was like the perfect balance of having the freedom but also having a responsibility of other adults kind of checking you when you're out of place or just having that community really just bring you up as a kid. We have immense pride when we talk about the Bahamas when we represent the Bahamas because we understand that we're a very small country. Our population is what, 500,000? I think there's cities and towns in the US bigger than that."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=186s
+
+**4. Jonquel Jones — "I think the confidence for me is just kind of knowing who I am." — Jonquel Jones on finding confidence and living her truth** [05:02](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=302s)
+
+Jonquel Jones: "I think the confidence for me is just kind of knowing who I am, but it definitely wasn't always there. Coming from the Bahamas and coming from such a really religious background, I think it took me a while to really find myself. And I think that's probably one of the most beautiful things that I found when I actually looked at the WNBA and when I came into the league was just seeing people live their life and live their truth unapologetically. And it gave me the strength to really step out and step into who I am as a lesbian woman and as a member of the LGBTQ community."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=302s
+
+**5. Jonquel Jones — "I had a coach who was really big on making sure that we had the exposure." — Jonquel Jones on her early basketball development and exposure** [07:32](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=452s)
+
+Jonquel Jones: "I had a coach who was really big on making sure that we had the exposure that we needed to really understand that basketball and sports was bigger than just the island and the country that we lived on and lived in. And so he would always take us to Florida to Boynton Beach, to Miami and different stuff like that to really play against other teams. And then we started this thing where teams would come over to the Bahamas and we would one year they'll come to the Bahamas, next year we will go to the US. And I just remember the year that we went to the US just being like, 'Oh my god, like they have every high school has a basketball gym or every school has their own gym and they don't have to work out outside.'"
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=452s
+
+**6. Jonquel Jones — "I was drafted six, so they traded hella people for me." — Jonquel Jones on being drafted and her early professional career** [12:28](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=748s)
+
+Jonquel Jones: "I was drafted six, so they traded hella people for me. And I think a lot of teams like that that trade really worked out well for everybody. But I'm thinking like this team has done all of this stuff and then I'm still in there every day as people are getting cut like, 'Oh man, I hope I had a good practice today.' And I think I went up to somebody, I don't know if it was **Sakina Strickland**, I don't know if it was **Jasmine Thomas** at that time, and I'm like, 'Man, I hope I make the team,' and they're like, 'What? What are you talking about? Are you are you okay? Like of course you're making the team, you're not in the hotel, you're in the apartments, we didn't trade people for you.'"
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=748s
+
+**7. Jonquel Jones — "Coming to New York, I really thought that I knew what to expect coming to this bigger market." — Jonquel Jones on her transition to the New York Liberty** [17:19](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1039s)
+
+Jonquel Jones: "Coming to New York, I really thought that I knew what to expect coming to this bigger market. I knew there was going to be more opportunity and all of that stuff, but I really didn't expect the amount of doors to be opened the way that they have been opened here. And to me, if someone asked me or told me that I was going to the Met Gala a few years ago, I'd be like, 'That's that's never going to happen.' And so to be able to do it, do it with Stewie, Sabrina, and **Clara** as well, I think that also was an was amazing because you you know, you step into this room with all of these individuals, but you also have people that you're familiar with, that you're comfortable with, having conversations with too."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1039s
+
+**8. Jonquel Jones — "Alicia Keys and Queen Latifah. That's my two." — Jonquel Jones on her favorite celebrities at WNBA games** [19:18](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1158s)
+
+Jonquel Jones: "**Alicia Keys** and **Queen Latifah**. That's my two. I remember when I saw **Alicia Keys**, because at first I, because I'm very locked in. Like it takes like you guys on the sideline to be like, 'Oh, did you see this person? Did you see that person?' And I normally never notice these people. But once someone said **Alicia Keys** and I zoned in, like after the game we always like come together and huddle at center court, and I was like, 'Y'all need to hurry up because I got to go meet **Alicia Keys**.' Like hurry up right now. So like it was so serious. Meeting her was amazing. **Queen Latifah** too, like someone that I don't know, like we grew up, well I know for me, I grew up as like **Queen Latifah** was an actress, she wasn't really a rapper, so like later on in life I realized like her whole career started in in rap first."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1158s
+
+**9. Jonquel Jones — "I feel like SZA, SZA not on the aux enough. But Benaiza, Benaiza just likes slow music." — Jonquel Jones on her teammates' music taste** [20:25](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1225s)
+
+Jonquel Jones: "I feel like **SZA**, **SZA** not on the aux enough. But **Benaiza**, **Benaiza** just likes slow music all the time and like, you know, when you want the locker room, you need something to like to lift you up a little bit, to get you on beat to kind of get you moving. And she always want to listen to Snoop, like every day. She plays Snoop all day, every day. And I'm just like, 'Come on, B, like we need something else,' you know?"
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1225s
+
+**10. Jonquel Jones — "Stewie don't really talk that talk unless like, if a practice player is starting to get under her skin." — Jonquel Jones on trash talk in practice** [20:52](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1252s)
+
+Jonquel Jones: "**Stewie** don't really talk that talk unless like, if a practice player is starting to get under her skin, then she going to start going at them, then she going to start talking shit."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1252s
+
+**11. Jonquel Jones — "I would say Stewie is up there. I would say sneaky, I probably say Leo." — Jonquel Jones on the most competitive players on the team** [21:22](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1282s)
+
+Jonquel Jones: "I would say **Stewie** is up there. I would say sneaky, I probably say **Leo**. **Leo** is up there too. Yeah, she's pretty competitive, like you start to see it. No, I mean, me, I'm competitive too, but yeah, I am. I am. I hate losing, I do, genuinely."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1282s
+
+**12. Jonquel Jones — "We have like a shit ton of twins on our team." — Jonquel Jones on the number of twins on the Liberty roster** [22:01](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1321s)
+
+Jonquel Jones: "We have like a shit ton of twins on our team. Yeah, like **Sabrina**, **Back Allen**, who else? Is somebody else? **Pauline**, **Pauline**. Like we have a lot of twins on our team. So that was actually a pretty cool fun fact that I found out like early on during preseason."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1321s
+
+**13. Jonquel Jones — "I say passionate. I feel like, yeah, every time she talks about stuff." — Jonquel Jones on what 'passionate' means to her** [22:48](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1368s)
+
+Jonquel Jones: "I say passionate. I say passionate. I feel like, yeah, every time she talks about stuff, anytime we're doing something, she has like a certain level of passion to herself and to whatever we're trying to execute as a team. And even off the court too, I feel like once she talks about stuff, she don't really talk about things that she's not passionate about."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1368s
+
+**14. Jonquel Jones — "I want my legacy to be elevating girls' basketball and especially girls' sports in the Bahamas." — Jonquel Jones on her legacy and growing girls' sports in the Bahamas** [24:47](https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1487s)
+
+Jonquel Jones: "I want my legacy to be elevating girls' basketball and especially girls' sports in the Bahamas. Like I said, the Bahamas right now, when it comes to girls' basketball, it is not at the level that we want it to be. And I don't want it to be that I'm the only player from the Bahamas to be in the WNBA. And I don't want girls in the Bahamas to miss out on the opportunities that sports, you know, can provide. And so just giving back and trying to find ways to really, you know, continue to elevate them, expose them. And like I said, without the exposure that I had, that our coaches gave me, I wouldn't be where I am today."
+
+https://www.youtube.com/watch?v=YFbJOAu9B1g&t=1487s
