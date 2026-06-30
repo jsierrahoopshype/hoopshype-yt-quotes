@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-06-29
-
-## EMERGENCY REACTION: Memphis Trades Ja Morant To Portland — *NBA on ESPN*
+# EMERGENCY REACTION: Memphis Trades Ja Morant To Portland — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=r4Ng65nss9Q
 
@@ -45,7 +43,3 @@ https://www.youtube.com/watch?v=r4Ng65nss9Q&t=270s
 **Tim Bontemps:** "That's **Taylor Hendricks** if you, you know."
 
 https://www.youtube.com/watch?v=r4Ng65nss9Q&t=630s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
