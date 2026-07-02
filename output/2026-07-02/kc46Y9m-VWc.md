@@ -1,0 +1,111 @@
+# Did the 76ers actually LOSE the Jaylen Brown & Paul George trade to the Celtics 👀 — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=kc46Y9m-VWc
+
+_Speakers identified: Theo Pinson, Raymond Felton, Charlie Villanueva_
+
+**1. Theo Pinson — "You get Paul George back, who's a defender, who still can play, who's a scorer, who's proven." — Paul George joining the Boston Celtics is a solid move** [01:13](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=73s)
+
+**Theo Pinson:** "**Paul George** is joining the Boston Celtics. Do you like the move?"
+
+**Raymond Felton:** "Frankly, you got that long pause that you just did right now. Tell me what your thoughts are."
+
+**Theo Pinson:** "I'm trying to figure out how I want to say this. You know how I feel about **Paul George**. It's a bullshit. Let's call it what it is. That's my guy. No, it's not no bullshit. I won't say that because **Paul George** is still a great basketball player. And he's healthy, and I think when he is healthy, he can do some good things. Now, what I've let **Jaylen Brown** go, or our older **Paul George** go for **Jaylen Brown** at this point, I don't know if I would have done that. But the fact of the matter is we knew that was going to happen. We knew he was going to be moved. Cool. You get **Paul George** back, who's a defender, who still can play, who's a scorer, who's proven in the post-season and in the regular season. It's not a bad trade. It's not a bad trade."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=73s
+
+**2. Theo Pinson — "Having Paul George, it gives you more flexibility to go get somebody like a Trey Murphy." — Boston Celtics gain flexibility to sign Trey Murphy** [02:42](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=162s)
+
+Theo Pinson: "Having **Paul George**, it gives you more flexibility to go get somebody like a **Trey Murphy**. Who I think if you get **Trey Murphy** and **Paul George**, Boston is winning. Boston is winning in that in that trade. Now, on the flip side, you go to Philly, we're going to stay on Boston first. All right, so that's what I got to say for that. That's what I got to say about that."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=162s
+
+**3. Raymond Felton — "You're trading an injury-prone player for a younger Jaylen Brown who's arguably top 10, maybe top 12." — Raymond Felton questions trading for an injury-prone Paul George** [03:05](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=185s)
+
+Raymond Felton: "I don't like the trade. Obviously, you saw my reaction on the IG. I was like, what the fuck is this? You're trading an injury-prone player for a younger **Jaylen Brown** who's arguably top 10, maybe top 12 in the league. That's tough. That's real tough. But then you trade him to the same division? Like if you're going to trade him, trade him to the West or something. If you're going to trade him, trade him to the West or something."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=185s
+
+**4. Theo Pinson — "If you have these guys that are both making over 300 million dollars, it cripples your basketball team." — CBA rules cripple teams with two high-paid players** [06:30](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=390s)
+
+Theo Pinson: "The CBA has put teams in a bind where if you have these guys that are both making over 300 million dollars, it cripples your basketball team. It's tough to fucking move when you just have so much money spent on two players. If you have that, you cannot build out a roster that can compete with the Oklahoma City Thunder, with the San Antonio Spurs, with the New York Knicks. It's not possible. You saw it this year. At the end of the day, you can develop all the young core you can, but you're going to continue to have to play guys who have never been in that experience."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=390s
+
+**5. Theo Pinson — "Brad Stevens has proven to us to be a very good GM. The real question of this is." — Brad Stevens' performance as General Manager** [08:14](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=494s)
+
+Theo Pinson: "**Brad Stevens** has proven to us to be a very good GM. The real question of this is, was there not a better offer out there? If there was a better offer out there, why would **Brad Stevens** not take it?"
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=494s
+
+**6. Theo Pinson — "There's no way that came out somebody's mouth that they think Derek White had a better year." — Refuting reports that Derek White had a better season than Jaylen Brown** [09:21](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=561s)
+
+Theo Pinson: "There's no way that came out somebody's mouth that they think **Derek White** had a better year than **Jaylen Brown** last year. That doesn't even sound right. If someone said that, there's no one in the right mind that said **Derek White** had a better year than **Jaylen Brown** last year. There's zero chance."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=561s
+
+**7. Theo Pinson — "Jaylen Brown wanted to either move on or give me the keys." — Jaylen Brown wanted to be traded from the Celtics** [10:05](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=605s)
+
+Theo Pinson: "**Jaylen Brown** never came out publicly and said he wanted to leave, but let's be honest, **Jaylen Brown** wanted to either move on or give me the keys. Like this is this is known. Like come on, we all basketball players here. We've all been in situations where we may not come out and say something because professionally we know what we have to do, but we move in a certain matter to let it be known like I'm over this place or I want to be gone. So, yes, he never came out publicly and said he wanted to leave, but let's be honest, **Jaylen Brown** wanted to get out of there. He wanted to be traded. Let's be real."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=605s
+
+**8. Theo Pinson — "Boston is not done yet. If they're not done yet, great. Cool. It makes sense." — The Boston Celtics are not done making roster moves** [13:46](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=826s)
+
+Theo Pinson: "Boston is not done yet. If they're not done yet, great. Cool. It makes sense."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=826s
+
+**9. Theo Pinson — "Paul George will not be your next star. I think they was willing to pay Giannis." — Paul George is not the Boston Celtics' next star** [14:43](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=883s)
+
+Theo Pinson: "**Paul George** will not be your next star. I think they was willing to pay **Giannis**. Yes. Big money. So that the money didn't matter then. They was okay with getting that because you you trading **Jaylen Brown** for **Giannis**. It's like, okay, we still good. We got two stars. Now you bringing in a guy like **Paul George** who used to be a star, he on his way out, he's at the end of his career, but he's still serviceable. He's still can hoop. He's still can give you 20 a game. Healthy, he can still give you 20. But he's not your future. So cool. And he's a expiring contract. So you can keep a guy like him, because we all know Boston love to keep guys who can defend, who can play, who can play make, who can shoot. **Paul George** can still do all those things. But now you can got more like he's saying, more room to go land another big fish to play with **JT**, and you can keep guys like **Paul George**, **Derek White**, you know, young boy that we going to talk about in a little bit, what's his name? **Pritchard**. Shit. You just"
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=883s
+
+**10. Theo Pinson — "The Wolves have more depth than Philly does." — The Boston Celtics have more depth than the Philadelphia 76ers** [16:29](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=989s)
+
+Theo Pinson: "The Wolves have more depth than Philly does."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=989s
+
+**11. Theo Pinson — "I don't know how many basketballs there is in the game of basketball that you can play with." — Concerns about the Philadelphia 76ers' roster construction** [17:34](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1054s)
+
+Theo Pinson: "I'm going to be honest with you. I don't know how many basketballs there is in the game of basketball that you can play with. Oh wait, it's one. I don't know how they're going to play basketball. **Joel Embiid** is the biggest domino. Like if you're not able to move **Joel Embiid**, how many more years **Joel Embiid** got? Please bring that up."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1054s
+
+**12. Theo Pinson — "No one believes in Jayson Tatum right now, which is wrong, which is wrong in my opinion." — Jayson Tatum is a number one option** [20:03](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1203s)
+
+Theo Pinson: "No one believes in **Jayson Tatum** right now, which is wrong, which is wrong in my opinion. Just because they built the team around him, doesn't mean **JT** can't be a one. He's going to be a one this year and they're going to be a damn good basketball team. The culture matters. They still have the core together, and they did not make a move. They made this move to bring flexibility for the future. You have to."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1203s
+
+**13. Theo Pinson — "Even if they don't get Trey Murphy, Boston is still in better shape than the Philadelphia 76ers." — Boston Celtics are in better shape than the Philadelphia 76ers** [21:18](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1278s)
+
+Theo Pinson: "Even if they don't get Trey Murphy, Boston is still in better shape than the Philadelphia 76ers."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1278s
+
+**14. Theo Pinson — "I think both teams are still going to be competitive. At the end of the day, it's always going to do." — Boston Celtics are still a competitive team** [22:08](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1328s)
+
+Theo Pinson: "I think both teams are still going to be competitive. At the end of the day, it's always going to do. Both teams are going to be competitive. No matter what."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1328s
+
+**15. Theo Pinson — "This is huge for his legacy. This is huge for how people view him." — Jayson Tatum's legacy and public perception** [23:36](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1416s)
+
+Theo Pinson: "This is huge for his legacy. This is huge for how people view him. I think he wants this to show he can be the one. I think this is huge for his legacy and how people view him."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1416s
+
+**16. Theo Pinson — "He's going to be a one this year and they're going to be a damn good basketball team." — Jayson Tatum can be a number one option** [24:45](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1485s)
+
+Theo Pinson: "He's going to be a one this year and they're going to be a damn good basketball team."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1485s
+
+**17. Theo Pinson — "You have to be very confident you're going to get that Giannis trade done." — Brad Stevens' confidence in the Giannis trade** [25:05](https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1505s)
+
+Theo Pinson: "You have to be very confident you're going to get that Giannis trade done. I think that is the only thing that I would be like, you got to be a little bit disappointed with the trade because once the Giannis thing didn't happen, there was really no coming back from that."
+
+https://www.youtube.com/watch?v=kc46Y9m-VWc&t=1505s
