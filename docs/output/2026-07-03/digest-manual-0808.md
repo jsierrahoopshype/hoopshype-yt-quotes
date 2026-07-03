@@ -1,0 +1,61 @@
+# HoopsHype YT Quotes — 2026-07-03
+
+## “Boston Did Him WRONG!” | Carmelo Anthony Reacts to Jaylen Brown Trade to Sixers — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=ccPJbcDclMo
+
+_Speakers identified: Carmelo Anthony, The Kid Mero, Rudy Gay, Kazeem Famuyide_
+
+**1. Carmelo Anthony — "This is maybe one of the few times that I feel like I don't like it." — Carmelo Anthony on the disrespect shown to Jaylen Brown in Boston** [00:20](https://www.youtube.com/watch?v=ccPJbcDclMo&t=20s)
+
+Carmelo Anthony: "This is maybe one of the few times that I feel like I don't like it. I don't like how it went down in Boston. I don't like how it just don't feel right. The treatment of all of that. The fact that you are two years removed from a championship, Finals MVP, first team all-defense. Could have been defensive player of the year when he wasn't in it. It's almost led them boys back to the promised land by himself. Prove to everybody that he can do it. I'm not just saying it's about **Jaylen Brown**, I'm just saying about how quickly it moves on. This is two years removed from a championship."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=20s
+
+**2. The Kid Mero — "Once you make the decision that I'm willing to trade one of my franchise pillars, you have to do it." — The Kid Mero and Carmelo Anthony on the ethics of trading franchise pillars** [01:36](https://www.youtube.com/watch?v=ccPJbcDclMo&t=96s)
+
+**The Kid Mero:** "From a media standpoint, you hear that okay, they are in the **Giannis Antetokounmpo** sweepstakes. In theory, we can all understand that. Somebody like that gets on the market, you want to see what it takes to get him. Once you make the decision that I'm willing to trade one of my franchise pillars, you have to do it. Once he's out there and we know he's out there, you've embarrassed this player to a large degree. What I've done for you don't count. All right, cool, it's business, we can roll with that. But you can't dangle me out there, pull me back, and then have me sitting and waiting for days and weeks and let us speculate on why you not rocking with him."
+
+**Carmelo Anthony:** "That's the jacked up part about the game. It's the game."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=96s
+
+**3. Kazeem Famuyide — "Tatum should probably work his way back because Jaylen Brown cooking right now." — Kazeem Famuyide on Jayson Tatum's reaction to the Jaylen Brown trade rumors** [02:47](https://www.youtube.com/watch?v=ccPJbcDclMo&t=167s)
+
+Kazeem Famuyide: "I remember the episode we shot some post-game stuff, and I think it was right before **Jayson Tatum** was about to come back, and you said something along the lines of, yo, Tatum should probably work his way back because **Jaylen Brown** cooking right now. They are moving really good. The whole **Drew Hanlen** thing happens, he responds, all this type of stuff. And I never forget that because I was like, they traded Marcus Smart, they traded Robert Williams, they traded all these guys that worked well with **Jaylen Brown** to acquiesce to Tatum. And I never forget Tatum saying, I didn't come back to not be **Jayson Tatum**. And now a couple months later, **Jaylen Brown** is gone."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=167s
+
+**4. Carmelo Anthony — "I think what he's feeling, nobody is supporting him." — Carmelo Anthony on the lack of organizational support for Jaylen Brown** [03:49](https://www.youtube.com/watch?v=ccPJbcDclMo&t=229s)
+
+Carmelo Anthony: "I think what he's feeling, nobody is supporting him. You get what I'm saying? And it's like, why the fuck nobody is supporting me? Like what did I really do outside of what your opinion may be about me? What did I really do to make y'all not really support me like that? So therefore I got to take this shit into my own hands and control my shit. Because the way, if I let y'all control my shit, we already see what this is at."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=229s
+
+**5. The Kid Mero — "Jaylen Brown got three years left on his deal making big money, him and Tatum making the same money." — The Kid Mero on the financial implications of the Jaylen Brown trade** [05:21](https://www.youtube.com/watch?v=ccPJbcDclMo&t=321s)
+
+The Kid Mero: "**Paul George** got two years left on his contract and Paul is older, right? And you got two first-round picks, two seconds. I don't know if it's like protections packages or whatever we have to see it later. I wonder if they are looking at this like, **Jaylen Brown** got three years left on his deal making big money, him and Tatum making the same money. He up for an extension to make $70 million that he could that he could have signed. Maybe it was simply a financial decision that we got to cut this salary. **Paul George** got two years left and he's older and we getting picks."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=321s
+
+**6. Carmelo Anthony — "Boston kind of did him a solid. They sent him to Philadelphia with Tyrese Maxey, Joel Embiid." — Carmelo Anthony on the Celtics trading Jaylen Brown to the 76ers** [07:16](https://www.youtube.com/watch?v=ccPJbcDclMo&t=436s)
+
+Carmelo Anthony: "In my eyes, Boston kind of did him a solid. They sent him to Philadelphia with **Tyrese Maxey**, **Joel Embiid**, **V.J. Edgecombe**. You look at that the end result. We will get to how that team looks. We got to sit, you got to sit with the other side of the Sixers. Look pretty good."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=436s
+
+**7. Rudy Gay — "Jaylen Brown is one of those guys. If some bullshit, he's like, yo, that's some bullshit." — Rudy Gay on the importance of having an outspoken player like Jaylen Brown** [08:37](https://www.youtube.com/watch?v=ccPJbcDclMo&t=517s)
+
+Rudy Gay: "There's nothing, anything, sports, nothing, executive, **Jaylen Brown**, than a very talented, talent, intellectually, knows this shit, you can't spin, and he's outspoken. You know what I mean? And if you do some bullshit, they going to be like, yo, that's some bullshit. They going to call you out on it. They push back on whatever. They have a podcast, they have a show, whatever they got going on. So **Jaylen Brown** is one of those guys. If some bullshit, he's like, yo, that's some bullshit."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=517s
+
+**8. Carmelo Anthony — "You have to cater to Joel as long as Joel is there." — Carmelo Anthony on how Jaylen Brown fits into the 76ers roster** [11:15](https://www.youtube.com/watch?v=ccPJbcDclMo&t=675s)
+
+Carmelo Anthony: "I think yes, he can bring something different to Philly that it alleviates what the conversation is right now. Because you have to cater to Joel as long as Joel is there, right? So now the pendulum has swung. Now **Tyrese Maxey** lead this charge, right? So now Joel, he don't have to perform like the Joel we are accustomed to performing at that level. Now those two guys could perform at that level and Joel can be that third guy who can bring Philly and put them over the top, if that's how Joel is looking at this."
+
+https://www.youtube.com/watch?v=ccPJbcDclMo&t=675s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

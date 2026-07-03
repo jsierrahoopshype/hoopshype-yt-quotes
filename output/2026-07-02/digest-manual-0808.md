@@ -1,0 +1,165 @@
+# HoopsHype YT Quotes — 2026-07-02
+
+## Mike Brown Reveals First Impressions of Jalen & Josh 😆 | NBA Title Aftermath — *Roommates Show*
+
+Source: https://www.youtube.com/watch?v=dLB2jC6vVUQ
+
+_Speakers identified: Josh Hart, Jalen Brunson, Mike Brown, Matt Hillman_
+
+**1. Mike Brown — "if your best player doesn't allow you to coach him, you have no shot at coaching anybody" — Mike Brown on the importance of player buy-in for coaching** [05:11](https://www.youtube.com/watch?v=dLB2jC6vVUQ&t=311s)
+
+**Mike Brown:** "At the end of the day, this is a players' league. If you don't have buy-in from your players, you have no shot. These guys made my job easy. This is my personal opinion, I love **Josh Hart**. You need a guy that wears his emotions on his sleeve, and he does do that. You can ask Josh, there were a few times I went to him and I said, 'Hey, I'm going to let you do what the hell you want. You can do anything you want. Just play hard. I'm going to tell you what I'm thinking, if you don't like it, you have one opportunity right there, you curse me out or anything. I ain't going to say nothing back. But then after you curse me out, we got to end it, we got to try to work together and move forward.' He was great with it."
+
+**Mike Brown:** "And **Jalen Brunson**, I learned this, it's kind of ironic, I learned this during my time in San Antonio. Never forget, at the end of my first year there, we were meeting as a staff and Pop says, he's mumbling under his breath, he says, 'I got to thank Tim Duncan.' I said, 'Why are you saying that?' And he said, 'Mikey, if your best player doesn't allow you to coach him, you have no shot at coaching anybody else on the team.' And Tim allows me to do it. This man to my left allowed me to coach him, which allowed me to coach the rest of the team, and made my job easier."
+
+https://www.youtube.com/watch?v=dLB2jC6vVUQ&t=311s
+
+**2. Josh Hart — "I wanted someone I could work with every day" — Josh Hart explains his need for a dedicated shooting coach** [10:36](https://www.youtube.com/watch?v=dLB2jC6vVUQ&t=636s)
+
+Josh Hart: "I wanted someone I could work with every day. Because the grind of the season, especially last year, we played a lot of minutes. It's January, I just played 40 minutes yesterday. Now we go through a light walk-through type practice. I shoot then, then I go shoot later, then I got to go play 40 the next day. I was trying to do too much in such a small time span while the guy was there. I wanted someone I could work with every day, so if I play 37 minutes and I'm tired, I can at least get 10-15 minutes of form, fundamental work, and then the next day can shoot regular."
+
+https://www.youtube.com/watch?v=dLB2jC6vVUQ&t=636s
+
+**3. Mike Brown — "Josh was like, 'So you're going to hire a shooting coach?'" — Mike Brown on Josh Hart's request for a shooting coach** [09:35](https://www.youtube.com/watch?v=dLB2jC6vVUQ&t=575s)
+
+Mike Brown: "Josh was like, 'So you're going to hire a shooting coach? I need a shooting coach.' He asked me like four or five times. It worked. Shout out to **Peter Pat**, it worked. I told him, 'Yeah, I have a couple of guys in mind. It's going to be a little bit of a process, but we'll definitely get that done.' I'm not going to call out any names, Josh, so you won't ever know this, but I actually talked to somebody in the organization, part of the team, and I told them about that conversation about you wanting a shooting coach. And they said, 'Well, he already has one.' I said, 'I didn't know that.' And they said, 'Don't worry about it, he probably didn't tell you, and he's asking you as much as he is because he wants to save the money from paying his own shooting coach.'"
+
+https://www.youtube.com/watch?v=dLB2jC6vVUQ&t=575s
+
+---
+
+## Ty Young: They Told Me to "Just Play Basketball" & How the W Finally Caught Up — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=wt0fDe3hO0Y
+
+_Speakers identified: Allie Clifton, Jordan Robinson, Ty Young, Channing Frye, Ryan Ruocco_
+
+**1. Ty Young — "the way I would speak to some of my teammates, I couldn't speak to players like that" — Ty Young on the challenges of transitioning from player to coach** [06:55](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=415s)
+
+Ty Young: "The way I would speak to some of my teammates, I couldn't speak to players like that as a coach, which gave me another perspective. When you're coaching, you have to understand the players and not everyone reacts to it. Some you have to speak a little softer, some they need you to be a little more stern. Even with being an analyst, I think sometimes of what I'm going to say, so it's not crazy."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=415s
+
+**2. Ty Young — "it's definitely way more stressful than being a coach and a player" — Ty Young compares the stress of coaching to being an analyst** [07:34](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=454s)
+
+Ty Young: "It's way more relaxed than I thought. Sometimes I can get in my head and overthink, where this isn't like that. It's definitely way more stressful than being a coach and a player."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=454s
+
+**3. Ty Young — "I did think that the Aces were going to surprise the Liberty without having Asia" — Ty Young on the Liberty's performance in the Commissioner's Cup** [11:25](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=685s)
+
+Ty Young: "I did think that the Aces were going to surprise the Liberty without having Asia, because it is a thing where your star is out and then other stuff up. So I kind of thought that they would be the underdog and take it, but New York was rolling and it was good to see for them just when they was playing the in and out game."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=685s
+
+**4. Ty Young — "when your star is out, it's like you're moving it more because now everyone else has to step up" — Ty Young explains how a team moves the ball without their star player** [13:30](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=810s)
+
+Ty Young: "When your star is out, it's like you're moving it more because now everyone else has to step up. And I think that was a vital piece for them with how they was moving the ball, because they wasn't just looking to throw it into Asia when sometimes you get caught up in when you have those star players that need those touches."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=810s
+
+**5. Ty Young — "they just kept their composure throughout the whole game" — Ty Young on the composure of Stewart and Sabally** [14:44](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=884s)
+
+Ty Young: "They just kept their composure throughout the whole game, and that's what speaks to **Breanna Stewart** and **Satou Sabally**. Especially with Stewart's experience, just keeping that composure, being the leader for that team, keeping them at bay. And like you said, with Sabally stepping up, being able to hit those clutch threes, she had some airballs where it was like, and then she'd come down and hit a dagger and it's like, damn, she had it on skates."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=884s
+
+**6. Ty Young — "these are experienced teams, and you know, even with Dallas, they're so young and they've been playing well" — Ty Young on the importance of experience for WNBA teams** [16:17](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=977s)
+
+Ty Young: "These are experienced teams, and you know, even with Dallas, they're so young and they've been playing well, but when you have experience, it helps you in those moments when you go on those losing streaks, like the Liberty was, and being able to come back and pick it up and step it up for those big games. So I feel like experience does help."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=977s
+
+**7. Ty Young — "her work ethic, she always had an amazing work ethic" — Ty Young on Asia Durr's work ethic as a rookie** [18:40](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1120s)
+
+Ty Young: "Her work ethic, she always had an amazing work ethic. And with her coming in, our coach then was **Bill Laimbeer** and he's like, rigging her rookie of the year, we're giving her the ball, she has to score the ball. So it was demanded early on with her coming in, and he was ready for her, you know, to be a leader of the team. But it's tough, you know, being a rookie your first season, and she was so not like into it, not wanting to be that one that had to be vocal and speak."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1120s
+
+**8. Ty Young — "he was so straightforward, you're not guessing with him" — Ty Young on Bill Laimbeer's coaching style** [20:58](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1258s)
+
+Ty Young: "He was so straightforward, you're not guessing with him. And he talked so much trash, he always talked trash to me. One time we was in practice and we were doing like some drill layups and I like missed the layup. He's like, oh fuck, if you don't want to be here, just leave. I'm like, Bill, if I don't want to be here, I wouldn't be here. We would go back and forth like, and it didn't mean anything. It's just like, you are really crazy."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1258s
+
+**9. Ty Young — "I never wanted to be like a raw-raw yelling coach, but I've always been like straightforward" — Ty Young on her coaching philosophy** [23:35](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1415s)
+
+Ty Young: "I never wanted to be like a raw-raw yelling coach, but I've always been like straightforward. And when players did things wrong, I wasn't a yelling coach, I would just pull them to the side and talk to them. And I would watch my players to understand their personalities so I would know how to approach them and how to get them going. There were some players that we had that I could, you know, yell at and get on, and there were some players that needed you to speak a little softer with them."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1415s
+
+**10. Ty Young — "being able to play multiple positions because you have some players that, you know, you got a small guard" — Ty Young on the benefits of being a versatile player** [27:21](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1641s)
+
+Ty Young: "Being able to play multiple positions because you have some players that, you know, you got a small guard, so they can only play point guard. Or you have some players that can only shoot, so they can only play the two. But being at my size, 6'2, being able to handle the ball, being able to score, being able to defend, it kept me in the league for 12 years because I was so versatile. Whatever was asked of me, because I was a scorer, you know, initially, and then I had to become a defender, but I was willing to do it because I wanted to play."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=1641s
+
+**11. Ryan Ruocco — "Barclays Center has become this thing where I think people identified and know it" — Ryan Ruocco on the unique atmosphere of the Barclays Center** [50:06](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3006s)
+
+Ryan Ruocco: "Barclays Center has become this thing where I think people identified and know it. And I just think as a viewer, it's a sneaky underrated thing, like where you you want there's certain places, certain buildings where you're drawn in. And Barkley Center has become this thing where I think people identified and know it, and I just think as a viewer, it's a sneaky underrated thing."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3006s
+
+**12. Ryan Ruocco — "when people talk about the attendance story of the W, I think one of the things they forget" — Ryan Ruocco on the growth of WNBA attendance** [51:16](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3076s)
+
+Ryan Ruocco: "When people talk about the attendance story of the W, I think one of the things they forget is that in the late 90s when it started, it was up here. And then it dipped, and now it's climbed back up to a place even higher than it had ever been. And so, what's interesting to me, Ally, is like the thing that actually hits me the most about that game in the Commissioner's Cup Championship is the atmosphere."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3076s
+
+**13. Ryan Ruocco — "that crowd can end up performing like a star to an audience" — Ryan Ruocco on the impact of a loud crowd on a broadcast** [52:03](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3123s)
+
+Ryan Ruocco: "That crowd can end up performing like a star to an audience. And I think a great example of that is the Garden. If you looked at the Garden during the NBA playoffs, and really over the last couple of years as the Knicks have come back to life, I think people, whether it's subconscious or conscious, that gets pulled into the atmosphere you're seeing and looks at it as a star. Like, I want to see what it's like at the Garden tonight."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3123s
+
+**14. Ryan Ruocco — "there's nothing that makes it pop like a deep Sabrina three" — Ryan Ruocco on the importance of the crowd in WNBA games** [53:35](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3215s)
+
+Ryan Ruocco: "There's nothing that makes it pop like a deep Sabrina three. Like that is when, if we were to take the decibel meter out for that, that's what it'd be up there. It would be up there."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3215s
+
+**15. Ryan Ruocco — "I'm wondering if they're going to look at themselves and say, we have a championship team." — Ryan Ruocco's assessment of the Los Angeles Sparks' current roster** [1:00:00](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3600s)
+
+Ryan Ruocco: "**Rae Burrell**, I'm excited about her and her future. **Cameron Brink** just felt like she was starting to find it before she got hurt. The **Ariel Atkins** thing, I don't know what's happened with Ariel who's obviously had a great career. She has not played well this year in LA and giving up **Kia Nurse** for her is something I wonder if LA will come to regret down the road. I'm wondering if they're going to look at themselves and say, we have a championship team, because **Kelsey** is going to be out for a while. They're eight and ten anyway as it is. If they're being honest with themselves, I don't think they're looking at this season and saying, we have a championship team."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3600s
+
+**16. Ryan Ruocco — "The field is wide open. We have a valuable draft pick we can dangle." — Ryan Ruocco on the Sparks' potential trade deadline strategy** [1:00:53](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3653s)
+
+Ryan Ruocco: "Maybe they don't care because maybe they're like, we like the players we have. We'll try and add in free agency next year to these pieces and we'll still end up with a decent draft pick anyway and just add to them. Or maybe they're like, the field is wide open. We have a valuable draft pick we can dangle and try and add a very significant piece to compete with everyone else."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3653s
+
+**17. Ryan Ruocco — "It's pretty clear at this point they're short. The Kelsey injury kind of puts a stamp on that." — Ryan Ruocco on the Sparks' roster limitations after injuries** [1:01:03](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3663s)
+
+Ryan Ruocco: "It's pretty clear at this point they're short. The **Kelsey** injury kind of puts a stamp on that and I wonder how that will affect the way they navigate the rest of the season, especially because some of the pieces that could potentially be interesting and could get them back a lot are players that they probably wouldn't want to trade for other reasons, relationship reasons if nothing else. I'm curious how they'll handle the rest of the year because I think if they're being honest with themselves, that's not a championship team as currently constructed."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3663s
+
+**18. Ryan Ruocco — "That was my first time in Ball Arena. I had not called a game there yet." — Ryan Ruocco on the atmosphere at the Golden State Valkyries** [1:02:01](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3721s)
+
+Ryan Ruocco: "That was my first time in Ball Arena. I had not called a game there yet. It was awesome. It was fantastic. I caught up with a good friend earlier that day, we played nine holes of golf in the morning before going to the game. My buddy Mike who lives out there, shout out Mike, I grew up with him, he lives out there now, so whenever I'm out there I try and see him."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3721s
+
+**19. Ryan Ruocco — "That was an inconceivable notion four or five years ago." — Ryan Ruocco on the WNBA's shift toward selling out arenas** [1:03:24](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3804s)
+
+Ryan Ruocco: "That was an inconceivable notion four or five years ago. The Aces were the first team we saw to sell out all their season tickets. Now we have a team selling out every single game and we have multiple teams now doing this or almost doing this. The atmosphere is incredible and what Natalie Nakase has done with that team is great."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3804s
+
+**20. Ryan Ruocco — "They bungled their pick this year with that Flau'jae trade, but somehow still have survived." — Ryan Ruocco on the Valkyries' roster management and draft picks** [1:03:46](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3826s)
+
+Ryan Ruocco: "What's crazy to me is they're an expansion team who is sitting in the top three in the standings and they haven't used their draft picks. They bungled their pick this year with that **Flau'jae** trade, but somehow still have survived without it like hurting them in any way. I still don't think there's any real justification for trading the eighth pick for the sixteenth and a future second and then cutting the player you took at sixteen. It doesn't make sense."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3826s
+
+**21. Ryan Ruocco — "Gabby Williams is not a top-tier star. She's a very good player. She's a one-time All-Star." — Ryan Ruocco on the Valkyries' roster depth and Gabby Williams** [1:04:36](https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3876s)
+
+Ryan Ruocco: "Without any top-tier stars. **Gabby Williams** is not a top-tier star. She's a very good player. She's a one-time All-Star, and yet that's not shading Gabby, that's just telling you how good she is there and that team is collectively. That they don't have some five-time all-W player and yet here they are, third in the standings, and they look formidable. I think they're going to be a hard team to beat in a three-game series, no matter who they play, because they're on a string defensively."
+
+https://www.youtube.com/watch?v=wt0fDe3hO0Y&t=3876s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
