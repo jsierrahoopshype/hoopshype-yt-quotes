@@ -1,0 +1,37 @@
+# ESPN’s Brian Windhorst: How the Knicks Can Run It Back as NBA Champions | The Rich Eisen Show — *The Rich Eisen Show*
+
+Source: https://www.youtube.com/watch?v=IytuyWSMF8I
+
+_Speakers identified: Rich Eisen, Brian Windhorst_
+
+**1. Rich Eisen — "What they did in the draft was essentially: whoever we draft is not cracking this lineup." — Knicks' front office competence and roster retention strategy** [00:00](https://www.youtube.com/watch?v=IytuyWSMF8I&t=0s)
+
+**Rich Eisen:** "As a Knicks fan, it is so wild to hear them referred to as the champs, to see what they just did. And then for them to have a front office that is so on it and competent. What they did in the draft was essentially: whoever we draft is not cracking this lineup and we want to keep this lineup. So let's do everything to get under the apron and keep everybody happy. Is **Karl-Anthony Towns** going to take a discount?"
+
+**Brian Windhorst:** "That is the huge question. I can't answer for **Karl-Anthony Towns**, but that's the thing. And you know, here's something else the Knicks have done: they're breaking some teams. Boston doesn't think they're better than them. Charlotte had an ascendant team, they don't think they're going to be good enough, they traded LaMelo and Miles Bridges. Cleveland is trying to hold their team together. Detroit I think can improve. One of the reasons why Toronto is going for Kawhi is they're like, wait a minute, who in the East are we seeing get better? Miami has good potential to get better, but they're not right now ready to beat the Knicks four out of seven with this roster."
+
+https://www.youtube.com/watch?v=IytuyWSMF8I&t=0s
+
+**2. Brian Windhorst — "The reason you don't go into the second apron, yes it's for money, but also because you can't really change your roster." — The case for the Knicks using the second apron** [01:40](https://www.youtube.com/watch?v=IytuyWSMF8I&t=100s)
+
+Brian Windhorst: "If there was a moment to go into the second apron, it's when you've got the reason you don't go into the second apron, yes it's for money, but also because you can't really change your roster. You get these mechanisms to change your roster locked away. So if there was a strong case to be made for the Knicks to go into the second apron at least for this year, which would mean you keep **Mitchell Robinson** and **Landry Shamet**. I believe hope that **Jim Dolan** would revisit that edict, and I'm not sure that he has revisited that edict."
+
+https://www.youtube.com/watch?v=IytuyWSMF8I&t=100s
+
+**3. Brian Windhorst — "The Knicks have married the ultimate star with the ultimate leader with the ultimate supporting cast." — Knicks' roster construction and front office success** [03:33](https://www.youtube.com/watch?v=IytuyWSMF8I&t=213s)
+
+Brian Windhorst: "The Knicks have married the ultimate star with the ultimate leader with the ultimate supporting cast because they've got this history with them, with the ultimate front office, with a coach that empowers them. Normally you would say you got to be real careful letting the inmates run the asylum, but what if the leader of the team is like holds everybody accountable and has a 10-year history with them, and it's the right coach for the right team, and you also have this incredible fan base? It's a little bit of a merry-go-round, so you try to keep the positive vibes going, but it's a real special group."
+
+https://www.youtube.com/watch?v=IytuyWSMF8I&t=213s
+
+**4. Brian Windhorst — "The first thing you got to do is you get Victor Wembanyama into a contract extension." — Spurs' offseason priorities regarding Victor Wembanyama** [04:26](https://www.youtube.com/watch?v=IytuyWSMF8I&t=266s)
+
+Brian Windhorst: "The first thing you got to do is, and this is a formality, but until it happens it hasn't happened, you get **Victor Wembanyama** into a contract extension, which will happen. And then you may want to look at upgrading your big men around Victor because there were times where they put Cornelie out there and he got victimized a little bit, and there were times where they felt small out there. The Knicks actually had more size on the court."
+
+https://www.youtube.com/watch?v=IytuyWSMF8I&t=266s
+
+**5. Brian Windhorst — "During the season they played Harrison Barnes as a power forward a lot and then Kelden Johnson." — Spurs' roster size and big man rotation** [05:16](https://www.youtube.com/watch?v=IytuyWSMF8I&t=316s)
+
+Brian Windhorst: "During the season they played **Harrison Barnes** as a power forward a lot and then **Kelden Johnson**, they played him a lot who's a little bit undersized. They drafted two big men in the draft, so you can tell they are thinking about getting bigger. I'm not sure those two guys are going to be ready to play right away. So I think they want to look for a little bit more size to protect, because when Victor came off the court, things went very poorly for them."
+
+https://www.youtube.com/watch?v=IytuyWSMF8I&t=316s

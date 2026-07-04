@@ -1,0 +1,35 @@
+# Mannix: Celtics believed on-court relationship between Tatum and Brown had run it's course — *NBC Sports Boston*
+
+Source: https://www.youtube.com/watch?v=augdZkYqx1U
+
+_Speakers identified: Chris Mannix_
+
+**1. Chris Mannix — "the on-court relationship between Jayson Tatum and Jaylen Brown was deteriorating" — Celtics determined on-court relationship between Jayson Tatum and Jaylen Brown deteriorated** [00:44](https://www.youtube.com/watch?v=augdZkYqx1U&t=44s)
+
+Chris Mannix: "I think that the Celtics determined that the on-court relationship between **Jayson Tatum** and **Jaylen Brown** was deteriorating. I want to emphasize on-court because this had nothing to do with any kind of personal dynamics and certainly **Jaylen Brown**'s character is beyond reproach. You can disagree with how he plays or whether or not he'd be the right fit, but he is an incredibly high-character guy whose off-the-court accomplishments speak for themselves. But I believe the Celtics felt to a large degree that the on-court relationship between Tatum and Brown had run its course."
+
+https://www.youtube.com/watch?v=augdZkYqx1U&t=44s
+
+**2. Chris Mannix — "settling into the same role that he had in 2024, that role that made them successful" — Celtics feared Jaylen Brown's role would plateau after 2024-25 season** [01:33](https://www.youtube.com/watch?v=augdZkYqx1U&t=93s)
+
+Chris Mannix: "I think they believe that based on how Brown took off last season, that settling into the same role that he had in 2024, that role that made them successful, would be more difficult going forward. And when I talk to people in and around the organization, this past season it was what it was in terms of how it ended, but I think they looked harder at how the 24-25 season went and ended, especially with that second-round series loss to New York. I think they looked at that as an ominous sign that maybe this team, for whatever reason, had plateaued."
+
+https://www.youtube.com/watch?v=augdZkYqx1U&t=93s
+
+**3. Chris Mannix — "they got far too weak a haul back for a player the caliber of Jaylen Brown" — Celtics gave up too much for Paul George in trade** [02:56](https://www.youtube.com/watch?v=augdZkYqx1U&t=176s)
+
+Chris Mannix: "My personal opinion is that it is an overreaction and my opinion is that they got far too weak a haul back for a player the caliber of **Jaylen Brown**. But the combination of last year, or two years ago I guess now, and this past season that led them to believe that this team had plateaued and they needed to make some changes. Now, they might argue that they're not done with this transaction. They have multiple first-round picks now to go into their war chest. They can do some things."
+
+https://www.youtube.com/watch?v=augdZkYqx1U&t=176s
+
+**4. Chris Mannix — "they did set the bar pretty high in the initial talks surrounding Jaylen Brown" — Celtics set high bar for Jaylen Brown trade talks** [04:08](https://www.youtube.com/watch?v=augdZkYqx1U&t=248s)
+
+Chris Mannix: "They did set the bar pretty high in the initial talks surrounding **Jaylen Brown**. I had been reporting on **Evan Mobley** over the last couple of weeks, some of the players they were interested in in Cleveland. There are other players that they talked about and certainly they were seeking a high amount of draft capital back in return and a young player like **Vj Edgecombe** initially with the 76ers. But that's what you're supposed to do when you're a team in a situation like this when you're dealing a 29-year-old superstar. What you're not supposed to do, at least in my opinion, is give up in early July."
+
+https://www.youtube.com/watch?v=augdZkYqx1U&t=248s
+
+**5. Chris Mannix — "he's 36 years old, he played 78 games over the last two seasons" — Paul George's age and availability made him a poor return** [05:05](https://www.youtube.com/watch?v=augdZkYqx1U&t=305s)
+
+Chris Mannix: "He's 36 years old, he played 78 games over the last two seasons and one of the reasons he was so great against the Celtics in the first round of the playoffs is that he sat out for almost two months with a league-mandated suspension prior to that going into that postseason. So I have no problem and nobody should have a problem with the Celtics setting the bar high for Jaylen Brown. What they should have a problem with is the Celtics not walking away from the table and waiting."
+
+https://www.youtube.com/watch?v=augdZkYqx1U&t=305s
