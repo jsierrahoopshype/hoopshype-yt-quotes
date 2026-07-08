@@ -102,79 +102,101 @@ https://www.youtube.com/watch?v=B0uRO2VQAp4&t=732s
 
 ---
 
-## Huge Announcement! + Big Mitchell Extension For Cavs & Brad Stevens Talks Brown Trade — *NBA on ESPN*
+## NBA Championship Windows ARE NOT open for that long — *Thanalysis Show*
 
-Source: https://www.youtube.com/watch?v=FegVwFUgxxA
+Source: https://www.youtube.com/watch?v=K9PTDRfGbTw
 
-_Speakers identified: Brian Windhorst, Tim MacMahon, Tim Bontemps_
+_Speakers identified: Thanasis Antetokounmpo_
 
-**1. Tim Bontemps — "I am unfortunately not going to be on the pod anymore, which people figured out, I am joining the Atlanta Hawks." — Tim Bontemps announces he is joining the Atlanta Hawks front office** [00:43](https://www.youtube.com/watch?v=FegVwFUgxxA&t=43s)
+**1. "A team is not supposed to be contending for seven or eight years in a row." — The difficulty of maintaining championship contention over long periods** [00:00](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=0s)
 
-**Brian Windhorst:** "What do we have here? We can't say where he is because he is now an official member of a team and all information is secret. We would like to welcome from the Atlanta Hawks, **Tim Bontemps**."
+"A team is not supposed to be contending for seven or eight years in a row. They are violating the natural order. They are bending the spoon in the Matrix. They are fighting against order to keep themselves. That is why I am saying it is so hard to be competitive for this long of a run. The way players have to get paid, to keep a team good, you trade your young players or you cannot play your young players. It is supposed to be a circle, and the Bucks are fighting against it to extend it."
 
-**Tim MacMahon:** "What the heck?"
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=0s
 
-**Tim Bontemps:** "Hello everybody. It's nice to be back. I am unfortunately not going to be on the pod anymore, which people figured out over the last couple weeks, because I am joining the Atlanta Hawks."
+**2. "The fact that the Warriors went to the Finals five years in a row is unheard of." — The Golden State Warriors' historic five-year run to the Finals** [00:57](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=57s)
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=43s
+"The Warriors went to the Finals five years in a row. This is unheard of in the modern era. Finally, guys get hurt and they go two years where they are terrible, and they come back and win. That was amazing. The 2022 championship, three years after, that they came back and rose back up, that was amazing. That 2022 championship is more special than the ones they won with **Kevin Durant** when they were just way better than everybody else."
 
-**2. Tim Bontemps — "I will be a strategic advisor to Landry Fields, who between he and the Ressler family, I am very appreciative." — Tim Bontemps explains his new role as a strategic advisor for the Hawks** [03:01](https://www.youtube.com/watch?v=FegVwFUgxxA&t=181s)
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=57s
 
-**Brian Windhorst:** "Do you want to explain to the folks what exactly you will be doing with the Hawks, or at least give your company man answer?"
+**3. "That 2022 championship is more special than the ones they won with Kevin Durant." — Why the 2022 Warriors championship is more special than others** [01:41](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=101s)
 
-**Tim MacMahon:** "You are the one who wrote the news story, so I haven't written it yet. Strategic advisor, big basketball brain Bontemps."
+"Here they are in 2024 kind of crumbling a little bit and people are like, 'Oh, the Warriors are done.' It is sort of insulting them. 'Ah, they are done, they cannot do it anymore.' I am like, 'Yeah, but look what they did.' They were great, they won four, then they went all the way down to the bottom and then they came back up and won it again. What an amazing ride. Let us celebrate the 2022 championship. Let us not denigrate them in 2024 because that is what happens."
 
-**Tim Bontemps:** "That is my title. I will be a strategic advisor to **Landry Fields**, who between he and the Ressler family, I am very appreciative of them giving me a chance to try something new."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=101s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=181s
+**4. "The Lakers were good for a few years and now they are trying to hang on." — The Los Angeles Lakers' struggle to maintain their championship form** [02:10](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=130s)
 
-**3. Brian Windhorst — "I was at the lottery in mid-May and I was having breakfast with our boss at ESPN, Dane Brugler, and I was saying, there could come a day when we lose Bontemps to the NBA." — Brian Windhorst discusses his long-standing belief that Tim Bontemps would eventually join an NBA team** [05:14](https://www.youtube.com/watch?v=FegVwFUgxxA&t=314s)
+"The Lakers are the same way. The Lakers were good for a few years and now they are trying to hang on to the way they were four years ago. They are not that team anymore. It is hard to refresh it, but the Spurs made the playoffs for 20 straight years and now they are down. It happens."
 
-Brian Windhorst: "I was at the lottery in mid-May and I was having breakfast with our boss at ESPN, **Dane Brugler**, and I was saying, there could come a day when we lose Bontemps to the NBA, because there are a number of people who I have talked to who are very impressed with him. Not for conversations on the pod, but for conversations that happen privately. And so, believe it or not, I believed for a while that we were going to lose Tim at some point to an NBA team. If it wasn't the Hawks, it was going to be somebody else."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=130s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=314s
+**5. "Sometimes it is okay not to win the championship." — The emotional toll of being a professional basketball player** [02:36](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=156s)
 
-**4. Brian Windhorst — "We just saw how rough the market was for Jaylen Brown in large part because of how much salary he made." — Brian Windhorst analyzes the financial implications of Donovan Mitchell's extension with the Cavaliers** [17:28](https://www.youtube.com/watch?v=FegVwFUgxxA&t=1048s)
+"Sometimes it is okay not to win the championship. That is another thing about this era. It is not okay with I had a, bro. We suck at so much and say, especially if you are one of the guys in the teams that you stay in the same team and you are not the easy, like you want to, this is what I am going to do, this is how we are going to do it, and it is hard. And I am not saying you do not take no for an answer, but it is hard not to leave at the end."
 
-Brian Windhorst: "We just saw how rough the market was for **Jaylen Brown** in large part because of how much salary he made. And there is some major risk involved here, especially when you have **Evan Mobley** making 50 plus a year. In terms of this kind of money, you have to be a generational talent. And this guy didn't think **Jaylen Brown** was close to that, but he essentially said, when you get into the 70 million dollar range, which is obviously where this is, there might only be a couple of players in the league that are worth that kind of money."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=156s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=1048s
+**6. "The 2021 championship is one of the purest championships that you could ever win." — The 2021 Milwaukee Bucks championship as a pure team effort** [03:12](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=192s)
 
-**5. Brian Windhorst — "When the Jazz traded him, they were like, he may not be there in 29, because they weren't sure he would want to stay in Utah." — Brian Windhorst explains the strategic reasoning behind the Jazz trading Donovan Mitchell** [19:12](https://www.youtube.com/watch?v=FegVwFUgxxA&t=1152s)
+"The 2021 championship is one of the purest championships that you could ever win because the whole team was built by the team and they all grew together. A couple of guys were brought in like **Bobby Portis**, but basically, homegrown. All of them were grown. And you had these losses and you kept coming back. Small market, had not been to the Finals in 50 years. They finally go back, they win. They win in this amazing moment. COVID is coming to an end. All these people are out in the middle of the city."
 
-Brian Windhorst: "When the Jazz traded him, they were like, he may not be there in 29, because they weren't sure he would want to stay in Utah. It was part of the impetus for trading him. And so, for the Cavs to now cement that the Cavs investment in the draft assets, he has been all-NBA two years in a row, first team last year, second team this year. They are signing, I believe the second best player in franchise history, to a contract extension that will carry him through his prime. That is an absolute victory for them."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=192s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=1152s
+**7. "It is okay to say that that is the mountain top." — The unique value of the 2021 Bucks championship** [04:10](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=250s)
 
-**6. Brian Windhorst — "Brad doesn't speak to the media very often and when he does speak to the media, he is very disciplined and very matter-of-fact." — Brian Windhorst evaluates Brad Stevens' disciplined approach during the Celtics press conference** [28:44](https://www.youtube.com/watch?v=FegVwFUgxxA&t=1724s)
+"It is okay to say that that is the mountain top. But it is like, 'No, no, no, Jordan won six and how many rings?' You had three rings where you are not as good as the guy who won two. You are better than the guy that won two and you are not as good as the guy that won four. But you are like, 'Wait a minute, that moment.' That moment, I told Mark Lasry who sold the team, he did not want to sell. He had other things he needed to do and he was getting a great price. I said it is okay because you made a lot of money first, but second, I said it is okay because you will never have that feeling again."
 
-Brian Windhorst: "Brad doesn't speak to the media very often and when he does speak to the media, he is very disciplined and very matter-of-fact. He is certainly the way he has always been. And I think for a situation like this, it is sort of perfect because he is not going to come out and be fiery. He is not going to be **Pat Riley**. He is going to come out and have his set of talking points and stick to them. And they let the media come and ask us everything. And they only ended the press conference when they were answering the same question again and again."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=250s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=1724s
+**8. "Sometimes if I watch the run, I will tear up sometimes." — The emotional impact of watching the 2021 championship run** [04:53](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=293s)
 
-**7. Brian Windhorst — "The pick slash swap that they got is so confusing I read it three times and I can't understand it." — Brian Windhorst discusses the Celtics' complex draft pick and swap situation** [35:36](https://www.youtube.com/watch?v=FegVwFUgxxA&t=2136s)
+"Sometimes I have this section where you like, what movies you watch and you cry. Sometimes if I watch the run, I will tear up sometimes because it means so much. And with Bobby and the guys and Chris and like, I do not know. I get goosebumps because it matters so much. I am telling you, it is going to be almost impossible to replicate that. Even if you win another one, even if Giannis wins two more, it will never be like that because that was the purest one and it happened in Milwaukee."
 
-Brian Windhorst: "The pick slash swap that they got is so confusing I read it three times and I can't understand it. It involves two other picks and it is because they used the full mid-level on Mitchell Robinson, their hard cap at the first apron. So, I am not even sure where they are going to end up under the aprons. They may not even do that. However, because they used the full mid-level on Mitchell Robinson, their hard cap at the first apron. So, I am not even sure where they are going to end up under the aprons. They may not even do that. However, because they used the full mid-level on Mitchell Robinson, their hard cap at the first apron."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=293s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=2136s
+**9. "If you are of value, people know this about you." — The reality of player movement and team value** [07:13](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=433s)
 
-**8. Brian Windhorst — "Darryn Peterson, my god, extraordinarily impressive, the last the two games he's played." — Brian Windhorst praises Darryn Peterson's performance in the Salt Lake City Summer League** [40:06](https://www.youtube.com/watch?v=FegVwFUgxxA&t=2406s)
+"If you are of value, people know this about you. It does not matter what people say outside of it. If you are of value, you could fit anywhere. Now, if specifically you have a team and you go like, 'I was raised in such and such and I really want to work for them and I want to be intern,' that is different because that does not mean you always play for them. But if another team, because there is 30 teams first of all, and second of all, they ask around. They know. They are not investing it like this."
 
-Brian Windhorst: "**Darryn Peterson**, my god, extraordinarily impressive, the last the two games he's played. I don't think he's playing to play tonight against the Thunder. So I think this will be it for Salt Lake. Before I talk about what I saw, you were there down in at the University of Utah. What did you see?"
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=433s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=2406s
+**10. "Nothing I could ever do in my profession could ever achieve the feeling that you guys got." — The unique feeling of winning an NBA championship** [07:57](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=477s)
 
-**9. Tim MacMahon — "There's a reason why teams have taken the strategical route that the Jazz did in recent years, and it's to get a dude." — Tim MacMahon highlights Darryn Peterson's potential as a future face of the Jazz franchise** [40:57](https://www.youtube.com/watch?v=FegVwFUgxxA&t=2457s)
+"Nothing I could ever do in my profession could ever achieve the feeling that you guys got when you won the championship. That is something we cannot have. And that is why I have a strict rule that I never, because a lot of the media, and it is important for the media to go in the locker room so that the fans can experience the championship, but I never go into the locker room when the team wins and celebrates because that is not for me. That is for them."
 
-Tim MacMahon: "There's a reason why teams have taken the strategical route that the Jazz did in recent years, and it's to get a dude. And **Darryn Peterson** is a D-O-O-D. He is. And you know, like you said, look, don't overreact to Summer League, blah, blah, blah. I'm sitting here watching these games, I'm sitting down with the scouts. And I'm watching the games with grizzled scouts, with guys who've been in the league for 20, 25, 30 years. They're raving about this kid. They're telling me they think he has like scoring leader type of potential."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=477s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=2457s
+**11. "I did one time. In 2016 when the Cavs won." — The one time an exception was made for a championship celebration** [08:34](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=514s)
 
-**10. Brian Windhorst — "Shout out to Kyle Lowry who hangs them up after 20 seasons, signs with the Raptors for one day." — Brian Windhorst pays tribute to Kyle Lowry's career and impact on the Raptors** [54:24](https://www.youtube.com/watch?v=FegVwFUgxxA&t=3264s)
+"I did one time. I did one time. In 2016 when the Cavs won. I did go in then because I had been born and raised in Cleveland and I covered that team for many years. But I would never do that because that is not for me. That is not what we do. That is for the team. But you cannot achieve that feeling of victory."
 
-Brian Windhorst: "Shout out to **Kyle Lowry** who hangs them up after 20 seasons, signs with the Raptors for one day. The Raptors put out an awesome tribute video to him. He is going to retire number seven appropriately. And we loved covering Kyle. Covered him with the Raptors and although all those, you know, I saw him at the lowest of the low when they would, you know, couldn't get over the LeBron hump and I saw him at the highest of the high winning the championship with the Raptors. And one of the great guys to talk in the league and I think he has a big time future in basketball, whether it's as a media commentator, which I think he'd be good at, or as a coach."
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=514s
 
-https://www.youtube.com/watch?v=FegVwFUgxxA&t=3264s
+**12. "The NBA play-in tournament to me was one of the best things that ever happened." — The positive impact of the NBA play-in tournament** [09:07](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=547s)
+
+"The NBA play-in tournament to me was one of the best things that ever happened because in the beginning, just like the playing, people hated it. It was like, 'Oh my god, playing tournament, who, what?' The best thing ever. And now they are playing, I will say why. It is because me being from overseas, we always had to competitions. We always grew up with the cup and the league trophy, which always the cup was always another team. Was a team that was hot, was a team that, because it is an elimination game, was a team that was, 'Oh my god, these guys are strolling right now.' And then the, and then the trophy was the team that persevered, the team that was more consistent, the team that was more, you know. So I loved it when it came in."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=547s
+
+**13. "I was surprised how much LeBron wanted that 500,000." — LeBron James' desire for the In-Season Tournament prize money** [10:23](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=623s)
+
+"I am not surprised that some of the guys like on the two-ways would be happy, but I was surprised how much LeBron wanted that 500,000. LeBron makes like almost 500,000 a game anyway."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=623s
+
+**14. "It is not the money per se, it is the obviously level of respect." — The motivation behind playing for the In-Season Tournament prize** [10:37](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=637s)
+
+"It is not the money per se, it is the obviously level of respect, but it is like, 'Oh, I get to do what I love and win and get some.' This is extra. We call it extra. Now like after 10 years they will not call it extra, but that in the first year of it, they were like, 'Oh, I get to do this.'"
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=637s
+
+**15. "Look at last year. If you are an Indiana Pacers fan, you have not had anything to cheer for." — The Indiana Pacers' successful run in the In-Season Tournament** [10:53](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=653s)
+
+"Look at last year. If you are an Indiana Pacers fan, you have not had anything to cheer for. They had not been in the playoffs in years. They had not had anything to cheer for. They get all the way there and it totally engages their fan base."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=653s
 
 ---
 
@@ -310,247 +332,79 @@ https://www.youtube.com/watch?v=I9JIbVE_o0Q&t=2280s
 
 ---
 
-## NBA Championship Windows ARE NOT open for that long — *Thanalysis Show*
+## Huge Announcement! + Big Mitchell Extension For Cavs & Brad Stevens Talks Brown Trade — *NBA on ESPN*
 
-Source: https://www.youtube.com/watch?v=K9PTDRfGbTw
+Source: https://www.youtube.com/watch?v=FegVwFUgxxA
 
-_Speakers identified: Thanasis Antetokounmpo_
+_Speakers identified: Brian Windhorst, Tim MacMahon, Tim Bontemps_
 
-**1. "A team is not supposed to be contending for seven or eight years in a row." — The difficulty of maintaining championship contention over long periods** [00:00](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=0s)
+**1. Tim Bontemps — "I am unfortunately not going to be on the pod anymore, which people figured out, I am joining the Atlanta Hawks." — Tim Bontemps announces he is joining the Atlanta Hawks front office** [00:43](https://www.youtube.com/watch?v=FegVwFUgxxA&t=43s)
 
-"A team is not supposed to be contending for seven or eight years in a row. They are violating the natural order. They are bending the spoon in the Matrix. They are fighting against order to keep themselves. That is why I am saying it is so hard to be competitive for this long of a run. The way players have to get paid, to keep a team good, you trade your young players or you cannot play your young players. It is supposed to be a circle, and the Bucks are fighting against it to extend it."
+**Brian Windhorst:** "What do we have here? We can't say where he is because he is now an official member of a team and all information is secret. We would like to welcome from the Atlanta Hawks, **Tim Bontemps**."
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=0s
+**Tim MacMahon:** "What the heck?"
 
-**2. "The fact that the Warriors went to the Finals five years in a row is unheard of." — The Golden State Warriors' historic five-year run to the Finals** [00:57](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=57s)
+**Tim Bontemps:** "Hello everybody. It's nice to be back. I am unfortunately not going to be on the pod anymore, which people figured out over the last couple weeks, because I am joining the Atlanta Hawks."
 
-"The Warriors went to the Finals five years in a row. This is unheard of in the modern era. Finally, guys get hurt and they go two years where they are terrible, and they come back and win. That was amazing. The 2022 championship, three years after, that they came back and rose back up, that was amazing. That 2022 championship is more special than the ones they won with **Kevin Durant** when they were just way better than everybody else."
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=43s
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=57s
+**2. Tim Bontemps — "I will be a strategic advisor to Landry Fields, who between he and the Ressler family, I am very appreciative." — Tim Bontemps explains his new role as a strategic advisor for the Hawks** [03:01](https://www.youtube.com/watch?v=FegVwFUgxxA&t=181s)
 
-**3. "That 2022 championship is more special than the ones they won with Kevin Durant." — Why the 2022 Warriors championship is more special than others** [01:41](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=101s)
+**Brian Windhorst:** "Do you want to explain to the folks what exactly you will be doing with the Hawks, or at least give your company man answer?"
 
-"Here they are in 2024 kind of crumbling a little bit and people are like, 'Oh, the Warriors are done.' It is sort of insulting them. 'Ah, they are done, they cannot do it anymore.' I am like, 'Yeah, but look what they did.' They were great, they won four, then they went all the way down to the bottom and then they came back up and won it again. What an amazing ride. Let us celebrate the 2022 championship. Let us not denigrate them in 2024 because that is what happens."
+**Tim MacMahon:** "You are the one who wrote the news story, so I haven't written it yet. Strategic advisor, big basketball brain Bontemps."
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=101s
+**Tim Bontemps:** "That is my title. I will be a strategic advisor to **Landry Fields**, who between he and the Ressler family, I am very appreciative of them giving me a chance to try something new."
 
-**4. "The Lakers were good for a few years and now they are trying to hang on." — The Los Angeles Lakers' struggle to maintain their championship form** [02:10](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=130s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=181s
 
-"The Lakers are the same way. The Lakers were good for a few years and now they are trying to hang on to the way they were four years ago. They are not that team anymore. It is hard to refresh it, but the Spurs made the playoffs for 20 straight years and now they are down. It happens."
+**3. Brian Windhorst — "I was at the lottery in mid-May and I was having breakfast with our boss at ESPN, Dane Brugler, and I was saying, there could come a day when we lose Bontemps to the NBA." — Brian Windhorst discusses his long-standing belief that Tim Bontemps would eventually join an NBA team** [05:14](https://www.youtube.com/watch?v=FegVwFUgxxA&t=314s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=130s
+Brian Windhorst: "I was at the lottery in mid-May and I was having breakfast with our boss at ESPN, **Dane Brugler**, and I was saying, there could come a day when we lose Bontemps to the NBA, because there are a number of people who I have talked to who are very impressed with him. Not for conversations on the pod, but for conversations that happen privately. And so, believe it or not, I believed for a while that we were going to lose Tim at some point to an NBA team. If it wasn't the Hawks, it was going to be somebody else."
 
-**5. "Sometimes it is okay not to win the championship." — The emotional toll of being a professional basketball player** [02:36](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=156s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=314s
 
-"Sometimes it is okay not to win the championship. That is another thing about this era. It is not okay with I had a, bro. We suck at so much and say, especially if you are one of the guys in the teams that you stay in the same team and you are not the easy, like you want to, this is what I am going to do, this is how we are going to do it, and it is hard. And I am not saying you do not take no for an answer, but it is hard not to leave at the end."
+**4. Brian Windhorst — "We just saw how rough the market was for Jaylen Brown in large part because of how much salary he made." — Brian Windhorst analyzes the financial implications of Donovan Mitchell's extension with the Cavaliers** [17:28](https://www.youtube.com/watch?v=FegVwFUgxxA&t=1048s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=156s
+Brian Windhorst: "We just saw how rough the market was for **Jaylen Brown** in large part because of how much salary he made. And there is some major risk involved here, especially when you have **Evan Mobley** making 50 plus a year. In terms of this kind of money, you have to be a generational talent. And this guy didn't think **Jaylen Brown** was close to that, but he essentially said, when you get into the 70 million dollar range, which is obviously where this is, there might only be a couple of players in the league that are worth that kind of money."
 
-**6. "The 2021 championship is one of the purest championships that you could ever win." — The 2021 Milwaukee Bucks championship as a pure team effort** [03:12](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=192s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=1048s
 
-"The 2021 championship is one of the purest championships that you could ever win because the whole team was built by the team and they all grew together. A couple of guys were brought in like **Bobby Portis**, but basically, homegrown. All of them were grown. And you had these losses and you kept coming back. Small market, had not been to the Finals in 50 years. They finally go back, they win. They win in this amazing moment. COVID is coming to an end. All these people are out in the middle of the city."
+**5. Brian Windhorst — "When the Jazz traded him, they were like, he may not be there in 29, because they weren't sure he would want to stay in Utah." — Brian Windhorst explains the strategic reasoning behind the Jazz trading Donovan Mitchell** [19:12](https://www.youtube.com/watch?v=FegVwFUgxxA&t=1152s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=192s
+Brian Windhorst: "When the Jazz traded him, they were like, he may not be there in 29, because they weren't sure he would want to stay in Utah. It was part of the impetus for trading him. And so, for the Cavs to now cement that the Cavs investment in the draft assets, he has been all-NBA two years in a row, first team last year, second team this year. They are signing, I believe the second best player in franchise history, to a contract extension that will carry him through his prime. That is an absolute victory for them."
 
-**7. "It is okay to say that that is the mountain top." — The unique value of the 2021 Bucks championship** [04:10](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=250s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=1152s
 
-"It is okay to say that that is the mountain top. But it is like, 'No, no, no, Jordan won six and how many rings?' You had three rings where you are not as good as the guy who won two. You are better than the guy that won two and you are not as good as the guy that won four. But you are like, 'Wait a minute, that moment.' That moment, I told Mark Lasry who sold the team, he did not want to sell. He had other things he needed to do and he was getting a great price. I said it is okay because you made a lot of money first, but second, I said it is okay because you will never have that feeling again."
+**6. Brian Windhorst — "Brad doesn't speak to the media very often and when he does speak to the media, he is very disciplined and very matter-of-fact." — Brian Windhorst evaluates Brad Stevens' disciplined approach during the Celtics press conference** [28:44](https://www.youtube.com/watch?v=FegVwFUgxxA&t=1724s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=250s
+Brian Windhorst: "Brad doesn't speak to the media very often and when he does speak to the media, he is very disciplined and very matter-of-fact. He is certainly the way he has always been. And I think for a situation like this, it is sort of perfect because he is not going to come out and be fiery. He is not going to be **Pat Riley**. He is going to come out and have his set of talking points and stick to them. And they let the media come and ask us everything. And they only ended the press conference when they were answering the same question again and again."
 
-**8. "Sometimes if I watch the run, I will tear up sometimes." — The emotional impact of watching the 2021 championship run** [04:53](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=293s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=1724s
 
-"Sometimes I have this section where you like, what movies you watch and you cry. Sometimes if I watch the run, I will tear up sometimes because it means so much. And with Bobby and the guys and Chris and like, I do not know. I get goosebumps because it matters so much. I am telling you, it is going to be almost impossible to replicate that. Even if you win another one, even if Giannis wins two more, it will never be like that because that was the purest one and it happened in Milwaukee."
+**7. Brian Windhorst — "The pick slash swap that they got is so confusing I read it three times and I can't understand it." — Brian Windhorst discusses the Celtics' complex draft pick and swap situation** [35:36](https://www.youtube.com/watch?v=FegVwFUgxxA&t=2136s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=293s
+Brian Windhorst: "The pick slash swap that they got is so confusing I read it three times and I can't understand it. It involves two other picks and it is because they used the full mid-level on Mitchell Robinson, their hard cap at the first apron. So, I am not even sure where they are going to end up under the aprons. They may not even do that. However, because they used the full mid-level on Mitchell Robinson, their hard cap at the first apron. So, I am not even sure where they are going to end up under the aprons. They may not even do that. However, because they used the full mid-level on Mitchell Robinson, their hard cap at the first apron."
 
-**9. "If you are of value, people know this about you." — The reality of player movement and team value** [07:13](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=433s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=2136s
 
-"If you are of value, people know this about you. It does not matter what people say outside of it. If you are of value, you could fit anywhere. Now, if specifically you have a team and you go like, 'I was raised in such and such and I really want to work for them and I want to be intern,' that is different because that does not mean you always play for them. But if another team, because there is 30 teams first of all, and second of all, they ask around. They know. They are not investing it like this."
+**8. Brian Windhorst — "Darryn Peterson, my god, extraordinarily impressive, the last the two games he's played." — Brian Windhorst praises Darryn Peterson's performance in the Salt Lake City Summer League** [40:06](https://www.youtube.com/watch?v=FegVwFUgxxA&t=2406s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=433s
+Brian Windhorst: "**Darryn Peterson**, my god, extraordinarily impressive, the last the two games he's played. I don't think he's playing to play tonight against the Thunder. So I think this will be it for Salt Lake. Before I talk about what I saw, you were there down in at the University of Utah. What did you see?"
 
-**10. "Nothing I could ever do in my profession could ever achieve the feeling that you guys got." — The unique feeling of winning an NBA championship** [07:57](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=477s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=2406s
 
-"Nothing I could ever do in my profession could ever achieve the feeling that you guys got when you won the championship. That is something we cannot have. And that is why I have a strict rule that I never, because a lot of the media, and it is important for the media to go in the locker room so that the fans can experience the championship, but I never go into the locker room when the team wins and celebrates because that is not for me. That is for them."
+**9. Tim MacMahon — "There's a reason why teams have taken the strategical route that the Jazz did in recent years, and it's to get a dude." — Tim MacMahon highlights Darryn Peterson's potential as a future face of the Jazz franchise** [40:57](https://www.youtube.com/watch?v=FegVwFUgxxA&t=2457s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=477s
+Tim MacMahon: "There's a reason why teams have taken the strategical route that the Jazz did in recent years, and it's to get a dude. And **Darryn Peterson** is a D-O-O-D. He is. And you know, like you said, look, don't overreact to Summer League, blah, blah, blah. I'm sitting here watching these games, I'm sitting down with the scouts. And I'm watching the games with grizzled scouts, with guys who've been in the league for 20, 25, 30 years. They're raving about this kid. They're telling me they think he has like scoring leader type of potential."
 
-**11. "I did one time. In 2016 when the Cavs won." — The one time an exception was made for a championship celebration** [08:34](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=514s)
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=2457s
 
-"I did one time. I did one time. In 2016 when the Cavs won. I did go in then because I had been born and raised in Cleveland and I covered that team for many years. But I would never do that because that is not for me. That is not what we do. That is for the team. But you cannot achieve that feeling of victory."
+**10. Brian Windhorst — "Shout out to Kyle Lowry who hangs them up after 20 seasons, signs with the Raptors for one day." — Brian Windhorst pays tribute to Kyle Lowry's career and impact on the Raptors** [54:24](https://www.youtube.com/watch?v=FegVwFUgxxA&t=3264s)
 
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=514s
+Brian Windhorst: "Shout out to **Kyle Lowry** who hangs them up after 20 seasons, signs with the Raptors for one day. The Raptors put out an awesome tribute video to him. He is going to retire number seven appropriately. And we loved covering Kyle. Covered him with the Raptors and although all those, you know, I saw him at the lowest of the low when they would, you know, couldn't get over the LeBron hump and I saw him at the highest of the high winning the championship with the Raptors. And one of the great guys to talk in the league and I think he has a big time future in basketball, whether it's as a media commentator, which I think he'd be good at, or as a coach."
 
-**12. "The NBA play-in tournament to me was one of the best things that ever happened." — The positive impact of the NBA play-in tournament** [09:07](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=547s)
-
-"The NBA play-in tournament to me was one of the best things that ever happened because in the beginning, just like the playing, people hated it. It was like, 'Oh my god, playing tournament, who, what?' The best thing ever. And now they are playing, I will say why. It is because me being from overseas, we always had to competitions. We always grew up with the cup and the league trophy, which always the cup was always another team. Was a team that was hot, was a team that, because it is an elimination game, was a team that was, 'Oh my god, these guys are strolling right now.' And then the, and then the trophy was the team that persevered, the team that was more consistent, the team that was more, you know. So I loved it when it came in."
-
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=547s
-
-**13. "I was surprised how much LeBron wanted that 500,000." — LeBron James' desire for the In-Season Tournament prize money** [10:23](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=623s)
-
-"I am not surprised that some of the guys like on the two-ways would be happy, but I was surprised how much LeBron wanted that 500,000. LeBron makes like almost 500,000 a game anyway."
-
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=623s
-
-**14. "It is not the money per se, it is the obviously level of respect." — The motivation behind playing for the In-Season Tournament prize** [10:37](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=637s)
-
-"It is not the money per se, it is the obviously level of respect, but it is like, 'Oh, I get to do what I love and win and get some.' This is extra. We call it extra. Now like after 10 years they will not call it extra, but that in the first year of it, they were like, 'Oh, I get to do this.'"
-
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=637s
-
-**15. "Look at last year. If you are an Indiana Pacers fan, you have not had anything to cheer for." — The Indiana Pacers' successful run in the In-Season Tournament** [10:53](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=653s)
-
-"Look at last year. If you are an Indiana Pacers fan, you have not had anything to cheer for. They had not been in the playoffs in years. They had not had anything to cheer for. They get all the way there and it totally engages their fan base."
-
-https://www.youtube.com/watch?v=K9PTDRfGbTw&t=653s
-
----
-
-## Brown Vs Celtics FEUD Continues, Mitchell Gets Huge Extension + DeRozan Waived: Joining a CONTENDER? — *No Fouls Given*
-
-Source: https://www.youtube.com/watch?v=vMPqbC9QHpQ
-
-_Speakers identified: Wosny Lambre, Paul Pierce, Danny Green_
-
-**1. Paul Pierce — "I can get you a dub in Summer League right now. I can get you 20 in Summer League right now." — Paul Pierce claims he could dominate in the NBA Summer League** [00:00](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=0s)
-
-Paul Pierce: "Right now, I can get you a dub in Summer League right now. I can get you 20 in Summer League right now. I have been watching. You can put me on any team in Summer League right now and I can get you a dub."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=0s
-
-**2. Danny Green — "As adults, you are grown, guys have families. You do not hang out a lot at home." — Danny Green explains why Jayson Tatum and Jaylen Brown don't hang out** [00:14](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=14s)
-
-Danny Green: "**Jayson Tatum** was rehabbing, and he also has a young baby. As adults, you are grown, guys have families. You do not hang out a lot at home. Most of the hanging out is on the road. If **Jayson Tatum** is not traveling with the team, going to dinners, and hanging out, he is not going to see him as much."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=14s
-
-**3. Paul Pierce — "I think he is a stretch four now. Because as an older player, it is tougher for him." — Paul Pierce believes Jayson Tatum is a stretch four in the modern NBA** [01:10](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=70s)
-
-Paul Pierce: "He is sort of in that position like I was in in Washington. I think he is a stretch four now. Because as an older player, it is tougher for him to keep up with the young athletic wings and all the 40 minutes of the game. And plus, they are not posting him up at the four anyway."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=70s
-
-**4. Wosny Lambre — "We do not think you are worth the type of deal that you think you deserve anymore." — Wosny Lambre discusses the management decision to trade Jaylen Brown** [08:05](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=485s)
-
-Wosny Lambre: "That was basically management being like, we do not think you are worth the type of deal that you think you deserve anymore. And on his way out, it was not like my teammates. To me, it just means more that we know it did not get out from the **Jayson Tatum** side. It got out from the **Jaylen Brown** side, that like, I had no relationship with this dude."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=485s
-
-**5. Danny Green — "By the time it gets to Christian, that shit is, oh, Danny was doing this, this and this." — Danny Green on the telephone game of NBA rumors** [08:39](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=519s)
-
-Danny Green: "You know how it goes when the telephone game is played. If I tell you one thing, you tell Paul, another thing, he tells Christian. By the time it gets to Christian, that shit is, oh, Danny was doing this, this and this. That is not what I said."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=519s
-
-**6. Paul Pierce — "We are seeing that you only need one superstar to win it all now." — Paul Pierce argues that teams only need one superstar to win** [12:02](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=722s)
-
-Paul Pierce: "We are seeing that you only need one superstar to win it all now. You know, we played in an era where you needed for sure two superstars or for sure three superstars. Now we are in an era like when you look at Oklahoma City, you see Shai Gilgeous-Alexander, a superstar. The second best player, Jalen Williams, he is an All-Star but not a superstar."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=722s
-
-**7. Danny Green — "Is the league organization valuing the role players more than the superstars right now?" — Danny Green questions if NBA teams are valuing role players over superstars** [13:00](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=780s)
-
-Danny Green: "Is the league organization valuing the role players more than the superstars right now? Is that the direction that some teams are going in? We need more depth."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=780s
-
-**8. Paul Pierce — "Donovan Mitchell has agreed to a four-year, 273 million dollar contract extension." — Paul Pierce discusses Donovan Mitchell's contract extension with the Cavaliers** [16:57](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1017s)
-
-Paul Pierce: "**Donovan Mitchell** has agreed to a four-year, 273 million dollar contract extension. The seven-time All-Star had two seasons remaining on his contract and could have waited to resign next summer. He is definitely standing on business."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1017s
-
-**9. Paul Pierce — "If Cleveland remains in the mix, they beat the number one seed in the East." — Paul Pierce believes the Cavaliers will be competitive with Donovan Mitchell** [20:14](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1214s)
-
-Paul Pierce: "If Cleveland remains in the mix, they beat the number one seed in the East. They remain in that mix and remain competitive year in and year out. He more than lived up to his deal, in my opinion."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1214s
-
-**10. Wosny Lambre — "The Kings waived six-time All-Star DeMar DeRozan, making him the top free agent on the market." — Wosny Lambre discusses the Kings waiving DeMar DeRozan** [21:18](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1278s)
-
-Wosny Lambre: "The Kings waived six-time All-Star **DeMar DeRozan**, making him the top free agent on the market, not named **LeBron James**. The decision was largely financial, as DeMar was due to make 25.7 million next year, with only 10 million of that being guaranteed."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1278s
-
-**11. Danny Green — "He is a vet, he knows how to score, knows how to get to his mid-range." — Danny Green suggests the Pistons as a landing spot for DeMar DeRozan** [22:37](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1357s)
-
-Danny Green: "He is a vet, he knows how to score, knows how to get to his mid-range, to get to his spots, to get to the free throw line, can calm your team down and keep you poised. I mean, a Detroit."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1357s
-
-**12. Paul Pierce — "I think he is a four now. Like a stretch four." — Paul Pierce views DeMar DeRozan as a stretch four** [24:25](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1465s)
-
-Paul Pierce: "I think he is a four now. Like a stretch four and it is just all about is he going to be coming off the bench or is he is he a starter at this stage of his career because you know you start based on who you can guard."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1465s
-
-**13. Danny Green — "I know for a fact they are looking for more ball-handling." — Danny Green notes the Nuggets' need for ball-handling** [25:23](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1523s)
-
-Danny Green: "I know for a fact they are looking for more ball-handling. That was something they felt like they were deficient in last year where like very susceptible to like full court pressure on Murray and stuff because like as much as Jokic orchestrates the offense, he does not bring the ball up."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1523s
-
-**14. Paul Pierce — "I got him as my rookie of the year when I look at the opportunity he is going to get." — Paul Pierce names Caleb Wilson as his rookie of the year** [27:56](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1676s)
-
-Paul Pierce: "I got him as my rookie of the year when I look at the opportunity he is going to get because I do not really expect Sabonis to be there when the season starts. And even Zach LaVine can be in the trade market as the Kings look to go younger and rebuild."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1676s
-
-**15. Danny Green — "I am looking at Caleb Wilson. I think he will have a lot of opportunity in Chicago." — Danny Green identifies Caleb Wilson as a potential breakout rookie** [30:33](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1833s)
-
-Danny Green: "I am looking at **Caleb Wilson**. I think he will have a lot of opportunity in Chicago. I think he has a fair shot to do some good things this year. He stays healthy, he is in Chicago, they do not have a lot going on, he could be the featured guy that they are growing."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1833s
-
-**16. Paul Pierce — "I am not shocked that Dereck Lively is the favorite, but I would not have thought that." — Paul Pierce explains why he is not surprised by Dereck Lively's odds** [31:29](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1889s)
-
-Paul Pierce: "I am not shocked that **Dereck Lively** is the favorite, but I would not have thought that because of the situation he is in. So many veterans, so many veterans that he is going to have to defer to."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=1889s
-
-**17. Paul Pierce — "I am scared of change. I am scared that the grass is not always greener." — Giannis Antetokounmpo discusses his fear of change and legacy** [40:15](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2415s)
-
-**Giannis Antetokounmpo:** "I am scared of change. I am scared that the grass is not always greener. People love me here. People respect me here. People allow me to be myself here in the city. I am scared that I might never find that ever again."
-
-**Paul Pierce:** "You have earned that. You will always be welcomed here."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2415s
-
-**18. Paul Pierce — "Setting up the retirement tour already?" — Paul Pierce comments on Giannis Antetokounmpo's retirement tour** [41:18](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2478s)
-
-Paul Pierce: "Setting up the retirement tour already? You are not cool with this now?"
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2478s
-
-**19. Paul Pierce — "Kyle Lowry is retiring. He did a ceremonial signing of a one-day just as you did, Paul." — Paul Pierce reflects on Kyle Lowry's legacy with the Raptors** [46:24](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2784s)
-
-Paul Pierce: "**Kyle Lowry** is retiring. He did a ceremonial signing of a one-day just as you did, Paul, one-day contract with the Raptors to announce said retirement, so that he could retire as a Raptor. The Raptors revealed that his number seven jersey will be retired, rightfully so."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2784s
-
-**20. Paul Pierce — "You are not just playing for Toronto. You are playing for Halifax, Calgary, British Columbia." — Kyle Lowry's message to the fans about his Raptors career** [47:00](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2820s)
-
-Paul Pierce: "You are not just playing for Toronto. You are playing for Halifax, Calgary, British Columbia. You are playing for the whole country. It is hard to explain, but it is just an amazing place to be."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=2820s
-
-**21. "There's too much shooting and inside work." — Evaluating the roster construction of the hypothetical Team W** [1:00:27](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=3627s)
-
-**Paul Pierce:** "They got the, yeah. There's too much shooting and inside work."
-
-**Danny Green:** "Team W got Wardell, and Wilt, and Bill. Like, bro, what?"
-
-**Wosny Lambre:** "It's the greatest shooting and inside work. **Metta World Peace**, and Steph, and Ray, and Treys. Metta could shoot too, though, by the way. He had a jump shot when he was playing, and an incredible defender."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=3627s
-
-**22. Paul Pierce — "I needed a better three. That's what I needed." — Paul Pierce critiques his own team's lack of three-point shooting** [1:00:42](https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=3642s)
-
-Paul Pierce: "I needed a better three. That's what I needed. You got silver though, Danny, the team. I needed like a solid, like another shooter at the three. That's what I needed."
-
-https://www.youtube.com/watch?v=vMPqbC9QHpQ&t=3642s
+https://www.youtube.com/watch?v=FegVwFUgxxA&t=3264s
 
 ---
 

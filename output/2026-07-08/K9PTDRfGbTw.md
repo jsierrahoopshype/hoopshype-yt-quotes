@@ -1,0 +1,95 @@
+# NBA Championship Windows ARE NOT open for that long — *Thanalysis Show*
+
+Source: https://www.youtube.com/watch?v=K9PTDRfGbTw
+
+_Speakers identified: Thanasis Antetokounmpo_
+
+**1. "A team is not supposed to be contending for seven or eight years in a row." — The difficulty of maintaining championship contention over long periods** [00:00](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=0s)
+
+"A team is not supposed to be contending for seven or eight years in a row. They are violating the natural order. They are bending the spoon in the Matrix. They are fighting against order to keep themselves. That is why I am saying it is so hard to be competitive for this long of a run. The way players have to get paid, to keep a team good, you trade your young players or you cannot play your young players. It is supposed to be a circle, and the Bucks are fighting against it to extend it."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=0s
+
+**2. "The fact that the Warriors went to the Finals five years in a row is unheard of." — The Golden State Warriors' historic five-year run to the Finals** [00:57](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=57s)
+
+"The Warriors went to the Finals five years in a row. This is unheard of in the modern era. Finally, guys get hurt and they go two years where they are terrible, and they come back and win. That was amazing. The 2022 championship, three years after, that they came back and rose back up, that was amazing. That 2022 championship is more special than the ones they won with **Kevin Durant** when they were just way better than everybody else."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=57s
+
+**3. "That 2022 championship is more special than the ones they won with Kevin Durant." — Why the 2022 Warriors championship is more special than others** [01:41](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=101s)
+
+"Here they are in 2024 kind of crumbling a little bit and people are like, 'Oh, the Warriors are done.' It is sort of insulting them. 'Ah, they are done, they cannot do it anymore.' I am like, 'Yeah, but look what they did.' They were great, they won four, then they went all the way down to the bottom and then they came back up and won it again. What an amazing ride. Let us celebrate the 2022 championship. Let us not denigrate them in 2024 because that is what happens."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=101s
+
+**4. "The Lakers were good for a few years and now they are trying to hang on." — The Los Angeles Lakers' struggle to maintain their championship form** [02:10](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=130s)
+
+"The Lakers are the same way. The Lakers were good for a few years and now they are trying to hang on to the way they were four years ago. They are not that team anymore. It is hard to refresh it, but the Spurs made the playoffs for 20 straight years and now they are down. It happens."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=130s
+
+**5. "Sometimes it is okay not to win the championship." — The emotional toll of being a professional basketball player** [02:36](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=156s)
+
+"Sometimes it is okay not to win the championship. That is another thing about this era. It is not okay with I had a, bro. We suck at so much and say, especially if you are one of the guys in the teams that you stay in the same team and you are not the easy, like you want to, this is what I am going to do, this is how we are going to do it, and it is hard. And I am not saying you do not take no for an answer, but it is hard not to leave at the end."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=156s
+
+**6. "The 2021 championship is one of the purest championships that you could ever win." — The 2021 Milwaukee Bucks championship as a pure team effort** [03:12](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=192s)
+
+"The 2021 championship is one of the purest championships that you could ever win because the whole team was built by the team and they all grew together. A couple of guys were brought in like **Bobby Portis**, but basically, homegrown. All of them were grown. And you had these losses and you kept coming back. Small market, had not been to the Finals in 50 years. They finally go back, they win. They win in this amazing moment. COVID is coming to an end. All these people are out in the middle of the city."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=192s
+
+**7. "It is okay to say that that is the mountain top." — The unique value of the 2021 Bucks championship** [04:10](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=250s)
+
+"It is okay to say that that is the mountain top. But it is like, 'No, no, no, Jordan won six and how many rings?' You had three rings where you are not as good as the guy who won two. You are better than the guy that won two and you are not as good as the guy that won four. But you are like, 'Wait a minute, that moment.' That moment, I told Mark Lasry who sold the team, he did not want to sell. He had other things he needed to do and he was getting a great price. I said it is okay because you made a lot of money first, but second, I said it is okay because you will never have that feeling again."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=250s
+
+**8. "Sometimes if I watch the run, I will tear up sometimes." — The emotional impact of watching the 2021 championship run** [04:53](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=293s)
+
+"Sometimes I have this section where you like, what movies you watch and you cry. Sometimes if I watch the run, I will tear up sometimes because it means so much. And with Bobby and the guys and Chris and like, I do not know. I get goosebumps because it matters so much. I am telling you, it is going to be almost impossible to replicate that. Even if you win another one, even if Giannis wins two more, it will never be like that because that was the purest one and it happened in Milwaukee."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=293s
+
+**9. "If you are of value, people know this about you." — The reality of player movement and team value** [07:13](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=433s)
+
+"If you are of value, people know this about you. It does not matter what people say outside of it. If you are of value, you could fit anywhere. Now, if specifically you have a team and you go like, 'I was raised in such and such and I really want to work for them and I want to be intern,' that is different because that does not mean you always play for them. But if another team, because there is 30 teams first of all, and second of all, they ask around. They know. They are not investing it like this."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=433s
+
+**10. "Nothing I could ever do in my profession could ever achieve the feeling that you guys got." — The unique feeling of winning an NBA championship** [07:57](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=477s)
+
+"Nothing I could ever do in my profession could ever achieve the feeling that you guys got when you won the championship. That is something we cannot have. And that is why I have a strict rule that I never, because a lot of the media, and it is important for the media to go in the locker room so that the fans can experience the championship, but I never go into the locker room when the team wins and celebrates because that is not for me. That is for them."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=477s
+
+**11. "I did one time. In 2016 when the Cavs won." — The one time an exception was made for a championship celebration** [08:34](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=514s)
+
+"I did one time. I did one time. In 2016 when the Cavs won. I did go in then because I had been born and raised in Cleveland and I covered that team for many years. But I would never do that because that is not for me. That is not what we do. That is for the team. But you cannot achieve that feeling of victory."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=514s
+
+**12. "The NBA play-in tournament to me was one of the best things that ever happened." — The positive impact of the NBA play-in tournament** [09:07](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=547s)
+
+"The NBA play-in tournament to me was one of the best things that ever happened because in the beginning, just like the playing, people hated it. It was like, 'Oh my god, playing tournament, who, what?' The best thing ever. And now they are playing, I will say why. It is because me being from overseas, we always had to competitions. We always grew up with the cup and the league trophy, which always the cup was always another team. Was a team that was hot, was a team that, because it is an elimination game, was a team that was, 'Oh my god, these guys are strolling right now.' And then the, and then the trophy was the team that persevered, the team that was more consistent, the team that was more, you know. So I loved it when it came in."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=547s
+
+**13. "I was surprised how much LeBron wanted that 500,000." — LeBron James' desire for the In-Season Tournament prize money** [10:23](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=623s)
+
+"I am not surprised that some of the guys like on the two-ways would be happy, but I was surprised how much LeBron wanted that 500,000. LeBron makes like almost 500,000 a game anyway."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=623s
+
+**14. "It is not the money per se, it is the obviously level of respect." — The motivation behind playing for the In-Season Tournament prize** [10:37](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=637s)
+
+"It is not the money per se, it is the obviously level of respect, but it is like, 'Oh, I get to do what I love and win and get some.' This is extra. We call it extra. Now like after 10 years they will not call it extra, but that in the first year of it, they were like, 'Oh, I get to do this.'"
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=637s
+
+**15. "Look at last year. If you are an Indiana Pacers fan, you have not had anything to cheer for." — The Indiana Pacers' successful run in the In-Season Tournament** [10:53](https://www.youtube.com/watch?v=K9PTDRfGbTw&t=653s)
+
+"Look at last year. If you are an Indiana Pacers fan, you have not had anything to cheer for. They had not been in the playoffs in years. They had not had anything to cheer for. They get all the way there and it totally engages their fan base."
+
+https://www.youtube.com/watch?v=K9PTDRfGbTw&t=653s
