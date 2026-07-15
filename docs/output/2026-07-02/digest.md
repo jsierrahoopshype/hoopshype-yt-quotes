@@ -1442,4 +1442,198 @@ https://www.youtube.com/watch?v=yIXyiIgYiv4&t=284s
 
 ---
 
+## The Truth About Guarding Kobe & Why Champions Think DIFFERENT — *Brice Butler Studios*
+
+Source: https://www.youtube.com/watch?v=zZOiNVZkGzs
+
+_Speakers identified: Walter Ray Allen, Brice Butler, Ray Allen_
+
+**1. Walter Ray Allen — "There was no side-by-side comparison. It was just like, just hold on, as much as you could." — Ray Allen on Michael Jordan's defensive dominance and versatility** [00:14](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=14s)
+
+Walter Ray Allen: "Michael was the unicorn. There was no side-by-side comparison. It was just like, just hold on, as much as you could, because you couldn't stop him. And when he decided to turn up defensively, it was like, he was going to harass you bringing the ball up the floor the whole time. He would jump over you, dunk on you, or then he can go underneath you and throw you. It was just like he just, just like, and then all of a sudden he's in the air."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=14s
+
+**2. Walter Ray Allen — "People don't respect how emotional free throws are. I just got knocked down, I was pissed off." — Ray Allen on the emotional weight of missing free throws** [00:37](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=37s)
+
+Walter Ray Allen: "People don't respect how emotional free throws are. Everybody's like, oh, these guys make so much money, how they miss these free throws? And it's like, bro, I just got knocked down, I was pissed off. I came in the game too late, I should have been in the game earlier. All these thoughts that you have that go through your mind, and then you go to the free throw line."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=37s
+
+**3. Walter Ray Allen — "How I grew up, you know, my dad had many faults. I had very little from clothes." — Ray Allen on showing grace to his father despite his flaws** [02:10](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=130s)
+
+**Walter Ray Allen:** "So here's where you have to show him grace, because how I grew up, you know, my dad had many faults. I had very little from clothes, didn't have shoes. I talk about this in my book. Some of the things I say about it, you know, his feelings were hurt and I'm like, I can only say it because this is why I am who I am. But why I show him grace and we have to show our black parents grace is because you have to rewind back. Your dad was born in 1959. So 1968, **Martin Luther King Jr.** was killed. He was 11 years old. What was America like then? You think about the privilege and attainments that you have now that he didn't have."
+
+**Brice Butler:** "Yeah, yeah, yeah, I've seen that."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=130s
+
+**4. Walter Ray Allen — "America was already fucked up. Now, you're talking about a black man living in Texas." — Ray Allen on the systemic dangers for black men in America** [04:17](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=257s)
+
+Walter Ray Allen: "America was already fucked up. Now, you're talking about a black man living in Texas. Walk down any street, you get lynched. So now, what does he teach my dad? And then him growing up, and what is he teaching me? And that's why I said you show him grace because we grew up in an America where we have more equality, I won't say fully, and we're literally, I know we say this all the time, we're literally our ancestors' wildest dreams."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=257s
+
+**5. Walter Ray Allen — "We just talked about it and it hit the forefront with George Floyd. But Radio Raheem was killed." — Ray Allen on police brutality and the history of racial injustice** [06:33](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=393s)
+
+Walter Ray Allen: "We just talked about it and it hit the forefront with **George Floyd**. But **Radio Raheem** was killed back in Bed-Stuy a long time ago. And there was no reckoning then, because they looked at him like he was just some knucklehead, you know, playing his music too loud. But the cops should have went to jail and I bet you they didn't go to jail."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=393s
+
+**6. Walter Ray Allen — "Right now they're trying to say the January 6th didn't happen. It was a peaceful protest." — Ray Allen on the importance of accurate historical documentation** [08:39](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=519s)
+
+Walter Ray Allen: "Right now they're trying to say the January 6th didn't happen. It was a peaceful protest. And everybody's litigating it, but in 10 years from now you look back and be like, those people stormed the Capitol. You can't, this is what it is. We got the footage and now the talking heads can't sit back and try to convince us that we seen something different. Because history, when we look back, it compiles everything that took place and it says this is who **Donald Trump** was. He was a racist, he was a narcissist, he was a misogynist, he was a megalomaniac, he wanted to be a dictator."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=519s
+
+**7. Walter Ray Allen — "I try to talk to my white friends as much. I said, do you think there's systemic racism?" — Ray Allen on systemic racism and the need for honest dialogue** [10:25](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=625s)
+
+Walter Ray Allen: "I try to talk to my white friends as much. I said, do you think there's systemic racism in America? And then they say, you know, this one he was like, yeah, I think so. And I was like, how do you see it? And then we start delving into it with redlining and not being able to get certain jobs and all these things. And I was like, that's, that's baked in the cake. The reason we're good, we're great at sports, because you can't take that away from us."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=625s
+
+**8. Walter Ray Allen — "We have to stop with the the chatter and the the divisiveness amongst each other, blacks." — Ray Allen on the need to end divisiveness among black people** [12:26](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=746s)
+
+Walter Ray Allen: "We have to stop with the the chatter and the the divisiveness amongst each other, blacks. Black people. I 100% agree. I think that's the biggest thing that pisses me off about us. Athletes, NFL guys, basketball guys, all look what so and so said about this guy and you never hear that in hockey. We're always selling clicks and bait and all this stuff and it's like we're at each other's throats. Why are we not celebrating each other? Why are we not helping each other?"
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=746s
+
+**9. Walter Ray Allen — "I was always an inquisitive mind. I lived in England, I lived in California, I lived in Germany." — Ray Allen on his inquisitive nature and global perspective** [15:00](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=900s)
+
+Walter Ray Allen: "I was always an inquisitive mind. I lived in England, I lived in California, I lived in Germany. And so I was about the world. Like, you what you learn is the American way is not the it's not the best way, it's just a way. And I remember in the eighth grade, I walk into the class and, you know, you got natural history, you got US history, you got world history. The book was says South Carolina. And so I was like, so we're the history in the eighth grade was just nothing but South Carolina."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=900s
+
+**10. Walter Ray Allen — "You got three things in business. You got labor, cost of your product, and you got rent." — Ray Allen on the economic roots of slavery and systemic inequality** [17:42](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1062s)
+
+Walter Ray Allen: "You got three things in business. You got labor, cost of your product, and you got rent. In the South, you had free labor. And then you got the product was a cotton and you were selling that. And you weren't paying the rent because it was your property. So everything that you had was like cash money just coming into you and you weren't paying. So they said something in today's dollar, somewhere around it was billions of dollars that were made in today's dollar that was created um during um slavery and Jim Crow era that black people never benefit from."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1062s
+
+**11. Walter Ray Allen — "People don't really actually want handouts. They want to be able to institutionally over time create an opportunity." — Ray Allen on the importance of institutional opportunity over handouts** [19:36](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1176s)
+
+Walter Ray Allen: "People don't really actually want handouts. They want to be able to institutionally over time create an opportunity to live, work, and build a family and then put your children through that, you know, that cycle where they can, yeah, it's just better and better. But we've never been allowed to do that. So, and then when, then you're like, you guys want a handout. I was like, no, we don't want a handout, we just want an opportunity."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1176s
+
+**12. Walter Ray Allen — "In academics and education, they just got rid of affirmative action, they got rid of DEI." — Ray Allen on the importance of education and systemic barriers** [21:12](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1272s)
+
+Walter Ray Allen: "In academics and education, they just got rid of affirmative action, they got rid of DEI. You look at any cabinet in in America, very few black people. So you can, you can say to us, hey, you can play basketball, you can do all these things, but you can, you can deny us a seat at the table. You can deny us opportunity to get into the Ivy League schools. You know, that's why they wanted to get rid of all DEI policies because now there're more black and brown people that are being removed from being able to have access to get into places."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1272s
+
+**13. Walter Ray Allen — "Ignorance is void of knowledge. If you don't have the information or knowledge to understand what I'm saying." — Ray Allen on the definition of ignorance and the importance of knowledge** [22:26](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1346s)
+
+Walter Ray Allen: "Ignorance is void of knowledge. Doesn't you take it as it's a buzzword. Yeah, and and you think I'm offending you. I'm not even trying to be offensive. If you look up ignorance in the dictionary, it's just going to say void of knowledge. So if you don't have the information or knowledge to understand what I'm saying, then you're ignorant."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1346s
+
+**14. Walter Ray Allen — "I wrote my book because as history moves past us and I really I thought about Dr. J." — Ray Allen on writing his book to control his own narrative** [23:02](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1382s)
+
+Walter Ray Allen: "I wrote my book because as history moves past us and I really I thought about Dr. J was actually somebody that I thought about. And there was a couple different black pioneers in their field. And when whenever you watch, what highlight do you know of Dr. J? That's the only highlight. As many highlights as he had, as much as for as long as he played, that's the only one. Because they have editing rights and then they tell the story based on what they see or what they think and they get things cut out. And so I want to write a book and it's my words and I get to tell it. And I wrote it with a guy named **Michael Arcush**."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1382s
+
+**15. Walter Ray Allen — "I want to write a book and it's my words and I get to tell it." — Ray Allen on the importance of not letting others control your story** [25:45](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1545s)
+
+Walter Ray Allen: "I want to write a book and it's my words and I get to tell it. And I wrote it with a guy named Michael Arcush. And I had to make sure that I kept him on point with how I wanted to sound. Like for example, I wanted to describe the the many stories. It wasn't like a tell-all, but I you tell stories, you know, as I'm going through my career. And I would tell a story and I wouldn't tell the story to make somebody look bad, I was just tell the story of a certain incident that took place. Two examples, **Malcolm X** and **Muhammad Ali**. We know the story of **Malcolm X** and and how he was killed and kind of his life and and a lot of stuff that he went through, but who's telling the story? Who produces the documentary? Because they have editing rights and then they tell the story based on what they see or what they think and they get things cut out."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1545s
+
+**16. Walter Ray Allen — "I don't understand what you're asking, but I will say this, you know, rephrase the question." — Ray Allen on the importance of being transparent with the media** [27:35](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1655s)
+
+Walter Ray Allen: "I don't understand what you're asking, but I will say this, you know, rephrase the question. Or you're asking me a question that Tim should answer. I can't speak for him. You know, just to let you know because you're not going to trap me. Like I can go head-to-head and say I don't have any problem answering any of your questions. So when people run from the media, I was like, you're only doing your own self a disservice. Because later in life, you're going to wish you talked to them because then what happens is they get to stir the narrative."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1655s
+
+**17. Walter Ray Allen — "When you come up in the military, you're always in a space where you're not a part of the crew." — Ray Allen on the challenges of being an outsider in the military** [29:15](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1755s)
+
+Walter Ray Allen: "When you come up in the military, you're always in a space where you're not a part of the crew. New friends, he's always the new guy. You know, I remember in the eighth grade when I got to South Carolina and I was in the classroom and you know, my full name is Walter Ray Allen Jr. So being the Allen, I was always the front of the class. At that first day of school, Walter Ray Allen and then everybody's like, who's Walter? Your name is Walter? I was like, yeah."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1755s
+
+**18. Walter Ray Allen — "That was the first time I realized the difference between black and white." — Ray Allen on the realization of racial differences in his youth** [31:17](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1877s)
+
+Walter Ray Allen: "That was the first time I realized the difference between black and white. Because white people would mess with me because I was black, and the black people would mess with me because I wasn't black enough because of the way I talked. And I wasn't from there. So I was in limbo trying to find a place and then basketball season started."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=1877s
+
+**19. Walter Ray Allen — "Playing multiple sports it gives you the opportunity to develop so many different muscle groups and skill sets." — Ray Allen on the importance of multi-sport participation for development** [33:48](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=2028s)
+
+Walter Ray Allen: "Playing multiple sports it gives you the opportunity to develop so many different muscle groups and skill sets. So I just I just enjoyed the competition because everybody competed. And then as I started getting a little older, I wanted to attract girls, you know, when I was 12. You know, there's girls that I thought were cute, I thought, you know, maybe she'll like me because I play basketball, you know, stuff like that. And you know, we all go through it and that's what I know socially it allows you to fit in more if you're one of the kids that plays a sport."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=2028s
+
+**20. Walter Ray Allen — "Greatness isn't hitting the big shot or dunking on somebody. Greatness is showing up every single day." — Ray Allen on the importance of commitment and process in success** [34:46](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=2086s)
+
+Walter Ray Allen: "Greatness isn't hitting the big shot or dunking on somebody. We've seen plenty of guys do that. We've seen guys flashing the pan score 50. Greatness is showing up every single day doing the same thing over and over again. Whether you're working in sports or you're working in basketball. If you work a job and every day for 10 years straight you get up, you're there early, you become an employee that is indispensable because you've proven that you are committed to the business. And then somewhere down the line you get paid because they can't lose you. And then he goes, he pointed up, **Scotty Scheffler** was on the wall. I want to be like **Scotty Scheffler**."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=2086s
+
+**21. Ray Allen — "I always shot under some type of duress. Playing for money, doing games with different guys." — Ray Allen on the importance of practicing under pressure** [1:00:07](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3607s)
+
+Ray Allen: "Just like when we play golf, you put a little something on it so when you are playing tournaments, you can deal with the pressure. When I shot free throws, I always shot under some type of duress. Playing for money, doing games with different guys. So then when I got in the game on the free throw line, I would just go back to practice. I needed it in practice to think about the game. They both kind of go hand in hand. That is why practice is so important. You have to take practice and mirror what you are doing in the game, so when you get in the game, you can say, well, we are just going to do what we did in practice."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3607s
+
+**22. Brice Butler — "I feel like there was a level of art in the game of basketball and now" — Brice Butler on the loss of the art of basketball** [1:00:47](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3647s)
+
+**Brice Butler:** "When you look at today's game, obviously when you played, I feel like there was a level of art in the game of basketball and now, my opinion is that a lot of guys just settle to shoot threes. So when you look at the game, do you look at it for the evolution and say, oh, that is just where we are at right now, or are you like, no, a lot of guys have lost the art of what basketball should actually look like?"
+
+**Ray Allen:** "When you are young and you are coming to the game, everybody is running the motion offense and you are setting screens and back door cuts and you are making four and five passes and you get to see, it becomes a machine. You see how a team works. Princeton used to run that motion offense and they always got a back door layup with Pete Carril and it was just like, man, they were so good because they cut hard, they set screens and you could not take shortcuts. And that is basketball. It is not about the one great player, it is about the sum of all five, being able to do your job."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3647s
+
+**23. Ray Allen — "We have lost the mid-range game. And I hear coaches yelling no mid-range shots." — Ray Allen on the loss of mid-range and post-up games** [1:02:35](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3755s)
+
+Ray Allen: "There is really no strategy because they first shoot threes and second shoot threes and third shoot threes. The ball comes off the rim, it is just threes and so what has happened is we have lost the mid-range game. And I hear coaches yelling no mid-range shots. And then we have lost post-up players. Bigs do not even have a place in the game anymore. That to me is the tragedy because now what we do is we have these guys that work in basketball offices that are analytic guys that sit here and say why we need to shoot more threes than twos. And they convince the upper management and everybody else that guys that never played the game, you should be shooting more threes than twos. And I just think, and here is the thing, here is the proof. Golden State won, they shoot a lot of threes and Boston won and they shot a lot of threes and they lost because they shot a lot of threes as well. But this past year, look at Oklahoma City and Indiana. Both had guys that could shoot threes because you need three-point shooters out there and you set the game up, but they were killing on pick and roll in the mid-range."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3755s
+
+**24. Ray Allen — "It is arguable who the best power forward of all times is. A lot of people will say Tim Duncan." — Ray Allen on the lack of post-up big men** [1:04:30](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3870s)
+
+Ray Allen: "It is arguable who the best power forward of all times is. A lot of people will say **Tim Duncan**. We will never see another **Tim Duncan** again the way the game is played right now. Because we have taken that from the big players, the big guys, because we won't allow, coaches aren't playing this throw the ball in and out. I like shooting threes and that was something I, I like driving to the hole. I love pick and roll. I love posting up. So I, I would assume or I would think that it will revert back at some point because there is going to be some bigs that come along where you got to just because they are too good."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3870s
+
+**25. Ray Allen — "Now we are in an era where coaches have to win right away." — Ray Allen on why coaches are fired quickly** [1:05:19](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3919s)
+
+Ray Allen: "Now we are in an era where coaches have to win right away. Because you have to remember, if you look at in the last couple of years, like **Mike Budenholzer** got fired, he brought Milwaukee a championship, they hadn't won in since the 70s and he got fired. **Monty Williams** went to Phoenix, brought them to the finals, he gets fired, then gets the largest contract in the history of the league by Detroit and they fire him there. So there is so many examples of coaches getting fired and then getting rehired in other places. So you are never almost allowed to develop your guys. You got to win now. Because if you have, if there is a semblance of, you know, like a lull somewhere in your organization, you get fired."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=3919s
+
+**26. Ray Allen — "I think Mike was the unicorn. There was no side-by-side comparison." — Ray Allen on the unique challenge of facing Michael Jordan** [01:07](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=67s)
+
+**Brice Butler:** "Two shooting guards that you had to face in your career, **Michael Jordan** and Kobe Bryant. Those two guys, like how did they help you elevate yourself by that level of competition?"
+
+**Ray Allen:** "I think Mike was the unicorn. There was no side-by-side comparison. There was just like, just hold on as much as you could because you could not stop him. And when he decided to turn up defensively, it was like, he was going to harass you bringing the ball up the floor the whole time. That is the thing. This guy, he moved with such grace but also played with an immense amount of power. That is what I try to get people to understand is like he would jump over you, dunk on you or then he can go underneath you and through you. It was just always effortless the way he moved. And then all of a sudden he is in the air. And then anybody that is up there, we come down, he is still up there. So I think if anything with him, I learned be competitive but he did not mess with me. He did not talk trash. But I left him alone. Because you start talking trash to him, he is going to turn up. Like I leave him alone."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=67s
+
+**27. Ray Allen — "Kobe wanted to be him. And Kobe and I got drafted together, so we always had this rivalry." — Ray Allen on the intense competitive rivalry with Kobe Bryant** [01:07](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=67s)
+
+Ray Allen: "Kobe wanted to be him. And Kobe and I got drafted together, so we always had this rivalry. So if I scored, he was coming down, I don't care what happened, he was coming down to shoot. Because he was trying to let you know like you are not going to one up me."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=67s
+
+**28. Ray Allen — "Mitch was less complicated, but he would get the ball and he would go low." — Ray Allen on Mitch Richmond's underrated game** [1:09:20](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4160s)
+
+Ray Allen: "There was so many, there was **Mitch Richmond**. Mitch, I could not guard Mitch. Mitch was less complicated, but he would get the ball and he would go low. You play defense, he get lower to you and he be gone. You know, and Mitch was like 25 a night scorer too. Like most people, he is one of the most underrated players that I played against."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4160s
+
+**29. Ray Allen — "The number one key to success to being success for me is being available." — Ray Allen on the importance of consistency** [1:09:53](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4193s)
+
+Ray Allen: "The number one key to success to being success for me is being available. So I can't get sick, I can't, you know, not staying out late, you know, I had to really be protective over this, this, it is like a, a, this baby that you have that you got to nourish and you want to grow it. Salaries, you know, bigger house maybe, a family. And so consistency is so hard for people because you just want to, you know, I don't want to go to practice today, I want a day off or I just want to, you know, why do we have to play today? I never thought that way. I never thought I had a day off."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4193s
+
+**30. Ray Allen — "The first win that you can get in the day is making your bed." — Ray Allen on the importance of making your bed** [1:10:47](https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4247s)
+
+Ray Allen: "I heard this from an Admiral. The one thing you could do every day that that that begins to establish your consistency, the first win that you can get in the day is making your bed. That is the first win because you are trying to stack up wins in the day. So then when you say, okay, damn, I've been, I'm doing good today, because you we are trying to build our own confidence. Nobody is building our confidence for us but us. So build that by doing the things that you can do where you can get wins in every single situation."
+
+https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4247s
+
+---
+
 <a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

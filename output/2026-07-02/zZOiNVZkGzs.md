@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-02
-
-## The Truth About Guarding Kobe & Why Champions Think DIFFERENT — *Brice Butler Studios*
+# The Truth About Guarding Kobe & Why Champions Think DIFFERENT — *Brice Butler Studios*
 
 Source: https://www.youtube.com/watch?v=zZOiNVZkGzs
 
@@ -191,7 +189,3 @@ https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4193s
 Ray Allen: "I heard this from an Admiral. The one thing you could do every day that that that begins to establish your consistency, the first win that you can get in the day is making your bed. That is the first win because you are trying to stack up wins in the day. So then when you say, okay, damn, I've been, I'm doing good today, because you we are trying to build our own confidence. Nobody is building our confidence for us but us. So build that by doing the things that you can do where you can get wins in every single situation."
 
 https://www.youtube.com/watch?v=zZOiNVZkGzs&t=4247s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

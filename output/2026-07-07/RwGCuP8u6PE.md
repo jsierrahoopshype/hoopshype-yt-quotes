@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-07
-
-## Jaylen Brown To Philly, Knicks Moves & Lakers Free Agency w/ Brian Windhorst — *Shump Street*
+# Jaylen Brown To Philly, Knicks Moves & Lakers Free Agency w/ Brian Windhorst — *Shump Street*
 
 Source: https://www.youtube.com/watch?v=RwGCuP8u6PE
 
@@ -103,7 +101,3 @@ https://www.youtube.com/watch?v=RwGCuP8u6PE&t=1624s
 Iman Shumpert: "Some people value to shoot threes. Some people value the two-way player. Some people value defense above all. It just depends on the organization."
 
 https://www.youtube.com/watch?v=RwGCuP8u6PE&t=3600s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
