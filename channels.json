@@ -154,6 +154,56 @@
       "bypass_filters": false,
       "active": true,
       "known_speakers": ["Vince Carter", "Tracy McGrady"]
+    },
+    {
+      "name": "The Zach Lowe Show",
+      "channel_id": "UCS5fdgvuA-fCPZQsk0unKnw",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Zach Lowe"]
+    },
+    {
+      "name": "Jaylen Brown",
+      "channel_id": "UCelmZalfinXZQP7dXw0ZauQ",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Jaylen Brown"]
+    },
+    {
+      "name": "Fred VanVleet",
+      "channel_id": "UCDO3XAwii1n-i_mTeVw3evA",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Fred VanVleet"]
+    },
+    {
+      "name": "Shump Street",
+      "channel_id": "UCF2-UNMBDl0QgdXf_WgPxLA",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Iman Shumpert", "Arhii Shumpert"]
+    },
+    {
+      "name": "Brice Butler Studios",
+      "channel_id": "UC2LN6jZKycy3FjmAU1tKivg",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Brice Butler"]
+    },
+    {
+      "name": "Gogis Garage",
+      "channel_id": "UCejLJNSsAjPnQOR7SKuqc8g",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": []
+    },
+    {
+      "name": "Sports Illustrated",
+      "channel_id": "UCPAt6z5uX_c5Eo_cSNROzYw",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": [],
+      "require_speakers": ["Chris Mannix"]
     }
   ],
   "min_duration_minutes": 5,
