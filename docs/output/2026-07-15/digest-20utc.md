@@ -1,51 +1,5 @@
 # HoopsHype YT Quotes — 2026-07-15
 
-## Speaking at Hua Fu University in China — *Jaylen Brown*
-
-Source: https://www.youtube.com/watch?v=DK-Cgsad-GE
-
-_Speakers identified: Jaylen Brown, Unnamed Host, Unnamed Student_
-
-**1. Jaylen Brown — "My grandmother, she was the one that taught me the importance of education and the importance of school." — Jaylen Brown on the importance of education and his grandmother's influence** [01:32](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=92s)
-
-Jaylen Brown: "The person that I would say I admire most would be my grandmother. My grandmother, she passed away three years ago, but she was the one that taught me the importance of education and the importance of school. I carry the things that she taught me with me in life today. It is important to give appreciation to your parents, your grandparents, your ancestors, the people that came before. Always show them respect."
-
-https://www.youtube.com/watch?v=DK-Cgsad-GE&t=92s
-
-**2. Jaylen Brown — "I started it basically because of my grandmother. She was a social worker, she was a teacher." — Jaylen Brown on his grandmother's impact on his foundation's mission** [03:00](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=180s)
-
-**Unnamed Student:** "I know that your 7uice Foundation focuses on reading and the opportunity for the underserved youth. So how much of that mission do you think comes from your grandmother's dedication to education and the underserved?"
-
-**Jaylen Brown:** "Great question. My 7uice Foundation that you mentioned, I started it basically because of my grandmother. She was a social worker, she was a teacher. She always spent her time donating to the charity and giving back to certain families. I remember going to feed the homeless, always doing my church activities. My grandmother gave me a sense of community. Once I made it to the NBA, I decided to start a foundation dedicated to giving back. It is always paying homage to the inspiration of my grandmother."
-
-https://www.youtube.com/watch?v=DK-Cgsad-GE&t=180s
-
-**3. Jaylen Brown — "If I had to choose anything, I probably would be a teacher at a university." — Jaylen Brown on his potential career path after basketball** [04:32](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=272s)
-
-**Unnamed Student:** "If you ended your basketball career tomorrow, what seed do you hope you have planted in this world?"
-
-**Jaylen Brown:** "If basketball were to end today, it is tough for me to say, but if I had to choose anything, I probably would be a teacher at a university. I love to teach. I love working with students such as yourself. I work with students at MIT and Harvard back in Boston. I love to teach and build curriculums and just pour into the next generation. You guys are going to be the future."
-
-https://www.youtube.com/watch?v=DK-Cgsad-GE&t=272s
-
-**4. Jaylen Brown — "She prepared me for life. She prepared me for university." — Jaylen Brown on his grandmother's influence on his academic discipline** [05:58](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=358s)
-
-**Unnamed Student:** "Is there anything that you want to say to your grandmother when you are too shy to say when you are a teenager?"
-
-**Jaylen Brown:** "When I was a teenager, I used to give my grandmother a hard time because she was a teacher and educator. Even in the summertime, she would make me do book reports, mathematics, and physics. I just wanted to play video games and play basketball. When I got to college, I took a class and the assignment was to call the people that helped you get to where you are now. I called my grandmother and thanked her because even though I gave her a hard time when I was a teenager, she prepared me for life. She prepared me for university. A lot of the reason why people give credit to my intelligence is because of my grandmother. She made me do that at an early age."
-
-https://www.youtube.com/watch?v=DK-Cgsad-GE&t=358s
-
-**5. Jaylen Brown — "You need to prioritize. Some things that may be a hard decision, you might have to sacrifice." — Jaylen Brown on balancing professional sports with personal development** [08:44](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=524s)
-
-**Unnamed Student:** "How do you balance your daily life, your basketball career, and so many other education activities or charities?"
-
-**Jaylen Brown:** "As you balance your life, you need to prioritize. I wrote down what was most important to me in terms of my education, sports, social life, and sleep. Some things that may be a hard decision, you might have to sacrifice for what is the most important. For me, sports and education were most important. I had to sacrifice a lot of that in my life because sports and education take a lot of time. It is very demanding. You might have to just put focus on more of the priorities and sacrifice some of the things that you want to do in order to be successful."
-
-https://www.youtube.com/watch?v=DK-Cgsad-GE&t=524s
-
----
-
 ## Is The Second Apron Bad For The NBA? Breaking Down It’s Impact Through Wemby’s Deal — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=H_lXR2Q9-QM
@@ -85,68 +39,6 @@ https://www.youtube.com/watch?v=H_lXR2Q9-QM&t=356s
 Tim Bontemps: "I don't know if this does set a precedent, although you could argue **Jalen Brunson** set a precedent. And you could argue this is **Victor Wembanyama**'s response to seeing Brunson celebrate on his home floor in San Antonio after winning a championship. But I would just be cautious in thinking because Wembanyama did this, that when **Stephen Curry** is negotiating next summer, he's going to accept a similar deal. And when **Dylan Harper** is negotiating two summers from now, he's going to accept a similar deal."
 
 https://www.youtube.com/watch?v=H_lXR2Q9-QM&t=391s
-
----
-
-## Bam Adebayo vs. Tyler Herro (With Shams Charania) — *Shump Street*
-
-Source: https://www.youtube.com/watch?v=SnuHO6lgFzo
-
-_Speakers identified: Iman Shumpert, Arhii Shumpert, Shams Charania_
-
-**1. Iman Shumpert — "It was actually a fan regarding Bam. Like he was talking to a fan." — Clarifying the nature of the altercation between Bam Adebayo and Tyler Herro** [00:15](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=15s)
-
-**Iman Shumpert:** "It was actually a fan regarding Bam. Like he was talking to a fan. He wasn't talking directly to Bam on those text messages, the DMs."
-
-**Arhii Shumpert:** "Tyler was DMing a fan, man."
-
-https://www.youtube.com/watch?v=SnuHO6lgFzo&t=15s
-
-**2. Iman Shumpert — "I remember one person when the Jordan Poole incident happened with me who was really outspoken about it." — Draymond Green's criticism of Udonis Haslem's reaction to the Jordan Poole incident** [03:12](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=192s)
-
-**Iman Shumpert:** "**Draymond Green** wonders what **Udonis Haslem** has to say. He said, I remember when I got into it with Poole. I remember one person when the **Jordan Poole** incident happened with me who was really, really outspoken about it and it really bothered me, was **Udonis Haslem**. I saw UD get into it with guys on teams that was younger than him before. Ala **Jimmy Butler**. Then he came out like that's ridiculous! You get into it with your young guy I would never. I can't believe you did that. So, Draymond felt like UD, which I ain't going to lie, I didn't know UD said that out of everybody."
-
-**Arhii Shumpert:** "Right, but it's not like this though. That's the thing. These like the Draymond, even that situation was different just because it was very WWE. Like you just wound up swinging on him."
-
-https://www.youtube.com/watch?v=SnuHO6lgFzo&t=192s
-
-**3. Iman Shumpert — "If he would've unloaded on Tyler 100% it's over. You fired off on that young boy." — Udonis Haslem's response to Draymond Green regarding the Jordan Poole incident** [05:19](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=319s)
-
-**Iman Shumpert:** "So when I first saw this, I was like damn. This is two guys **Udonis Haslem** raised. If you raised this young guy in the light of what you was saying about me, and now he punches this other young guy, that y'all kind of co-raised, are you going to have that same energy? So he basically saying like Udonis like, Bam you a young boy and he doing what he learned from you basically in force mode. And on the flip side, he like, you kind of hypocrite low-key because you get down like this and then you saw me do it, you went on the TV and said that shouldn't have been done, but you also talked the enforcer talk. And he like he was enforcing something. So I get Draymond's his comeback and now we got **Udonis Haslem**'s response."
-
-**Arhii Shumpert:** "Right, but it's not it's not like this though. That's the thing. These like the Draymond, even that situation was different just because it was very WWE. Like you just wound up swinging on him."
-
-https://www.youtube.com/watch?v=SnuHO6lgFzo&t=319s
-
-**4. Shams Charania — "I start getting texts from people around the league that there was a fight that occurred." — Shams Charania details the altercation between Bam Adebayo and Tyler Herro** [09:46](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=586s)
-
-**Shams Charania:** "I'm going about my day on Friday and I start getting texts from people around the league that there was a fight that occurred between **Tyler Herro** and **Bam Adebayo**. You hear about these all the time, right? There's so many times you get into verbal stuff, you get into physical moments where guys have to be separated. And I kind of am going about my day assuming that that's what this was. And then I got a couple more texts that there was a hit to the face area from **Bam Adebayo** to **Tyler Herro**. They got into a back and forth. It was a pretty fiery back and forth and there was contact made to the face with a hand. And whether it was a punch, whether it was open hand, there was contact made to the face and I think that's what rose to the level."
-
-**Iman Shumpert:** "So to see you have breaking news that says somebody got smacked, we like for you to elaborate a little bit."
-
-**Arhii Shumpert:** "Yeah."
-
-https://www.youtube.com/watch?v=SnuHO6lgFzo&t=586s
-
-**5. Shams Charania — "The trade being on hold is like 11, 10 months in the making." — Status of the Kawhi Leonard trade investigation and potential implications** [12:14](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=734s)
-
-**Shams Charania:** "The trade being on hold is like 11, 10 months in the making because you think about way back in the fall last year, the NBA started investigation into this company aspiration that potentially was used by the Clippers to funnel money improperly to **Kawhi Leonard**. And that investigation is ongoing, but no one thought that that would be an issue with any potential trade talks. Everyone thought it was just going to go through and there was an agreement that was reached. But the league moratorium got lifted on July 6th, and one day goes by, then July 7th goes by, then July 8th goes by, and then you end up at July 9th, July 10th and there's still no announcement of a trade. And you come to find out the NBA made it clear to the Raptors that listen, you can go through with the trade, but it's going to come with potential risk."
-
-**Iman Shumpert:** "Yeah, what could be the worst that can happen, Shams?"
-
-**Arhii Shumpert:** "Avoiding of contracts?"
-
-https://www.youtube.com/watch?v=SnuHO6lgFzo&t=734s
-
-**6. Shams Charania — "The absolute worst case scenario that no one is expecting is Kawhi Leonard's contract being voided." — Potential consequences of the Kawhi Leonard investigation for the Raptors** [14:51](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=891s)
-
-**Shams Charania:** "The absolute worst case scenario that no one is expecting is **Kawhi Leonard**'s contract being voided or him being suspended for a significant period of time, whether that's 40 games, 20 games, an entire season. But no one knows because it all comes down to the evidence, what's found in the investigation. Is there proof that **Kawhi Leonard** had participation in this? To my knowledge, he has denied all of that. He's completely denied any wrongdoing, any knowledge of anything improper. And the Clippers have denied it as well. So at the end of the day, we're all waiting on this investigation."
-
-**Iman Shumpert:** "Yeah, what could be the worst that can happen, Shams?"
-
-**Arhii Shumpert:** "Avoiding of contracts?"
-
-https://www.youtube.com/watch?v=SnuHO6lgFzo&t=891s
 
 ---
 
@@ -321,6 +213,68 @@ https://www.youtube.com/watch?v=enk9bYl6MFQ&t=433s
 Tracy McGrady: "My purpose was to get my mom and my grandmother out of the hood. My grandmother was a custodian at my elementary school and my mom was working at a housekeeper at Disney. So for me it was like, that was priority, that was the purpose of going to the league. But then when you look at KG '95, Kobe '96, looking at them, that was inspiration. If they could do it, hell, I could do it."
 
 https://www.youtube.com/watch?v=enk9bYl6MFQ&t=582s
+
+---
+
+## Bam Adebayo vs. Tyler Herro (With Shams Charania) — *Shump Street*
+
+Source: https://www.youtube.com/watch?v=SnuHO6lgFzo
+
+_Speakers identified: Iman Shumpert, Arhii Shumpert, Shams Charania_
+
+**1. Iman Shumpert — "It was actually a fan regarding Bam. Like he was talking to a fan." — Clarifying the nature of the altercation between Bam Adebayo and Tyler Herro** [00:15](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=15s)
+
+**Iman Shumpert:** "It was actually a fan regarding Bam. Like he was talking to a fan. He wasn't talking directly to Bam on those text messages, the DMs."
+
+**Arhii Shumpert:** "Tyler was DMing a fan, man."
+
+https://www.youtube.com/watch?v=SnuHO6lgFzo&t=15s
+
+**2. Iman Shumpert — "I remember one person when the Jordan Poole incident happened with me who was really outspoken about it." — Draymond Green's criticism of Udonis Haslem's reaction to the Jordan Poole incident** [03:12](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=192s)
+
+**Iman Shumpert:** "**Draymond Green** wonders what **Udonis Haslem** has to say. He said, I remember when I got into it with Poole. I remember one person when the **Jordan Poole** incident happened with me who was really, really outspoken about it and it really bothered me, was **Udonis Haslem**. I saw UD get into it with guys on teams that was younger than him before. Ala **Jimmy Butler**. Then he came out like that's ridiculous! You get into it with your young guy I would never. I can't believe you did that. So, Draymond felt like UD, which I ain't going to lie, I didn't know UD said that out of everybody."
+
+**Arhii Shumpert:** "Right, but it's not like this though. That's the thing. These like the Draymond, even that situation was different just because it was very WWE. Like you just wound up swinging on him."
+
+https://www.youtube.com/watch?v=SnuHO6lgFzo&t=192s
+
+**3. Iman Shumpert — "If he would've unloaded on Tyler 100% it's over. You fired off on that young boy." — Udonis Haslem's response to Draymond Green regarding the Jordan Poole incident** [05:19](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=319s)
+
+**Iman Shumpert:** "So when I first saw this, I was like damn. This is two guys **Udonis Haslem** raised. If you raised this young guy in the light of what you was saying about me, and now he punches this other young guy, that y'all kind of co-raised, are you going to have that same energy? So he basically saying like Udonis like, Bam you a young boy and he doing what he learned from you basically in force mode. And on the flip side, he like, you kind of hypocrite low-key because you get down like this and then you saw me do it, you went on the TV and said that shouldn't have been done, but you also talked the enforcer talk. And he like he was enforcing something. So I get Draymond's his comeback and now we got **Udonis Haslem**'s response."
+
+**Arhii Shumpert:** "Right, but it's not it's not like this though. That's the thing. These like the Draymond, even that situation was different just because it was very WWE. Like you just wound up swinging on him."
+
+https://www.youtube.com/watch?v=SnuHO6lgFzo&t=319s
+
+**4. Shams Charania — "I start getting texts from people around the league that there was a fight that occurred." — Shams Charania details the altercation between Bam Adebayo and Tyler Herro** [09:46](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=586s)
+
+**Shams Charania:** "I'm going about my day on Friday and I start getting texts from people around the league that there was a fight that occurred between **Tyler Herro** and **Bam Adebayo**. You hear about these all the time, right? There's so many times you get into verbal stuff, you get into physical moments where guys have to be separated. And I kind of am going about my day assuming that that's what this was. And then I got a couple more texts that there was a hit to the face area from **Bam Adebayo** to **Tyler Herro**. They got into a back and forth. It was a pretty fiery back and forth and there was contact made to the face with a hand. And whether it was a punch, whether it was open hand, there was contact made to the face and I think that's what rose to the level."
+
+**Iman Shumpert:** "So to see you have breaking news that says somebody got smacked, we like for you to elaborate a little bit."
+
+**Arhii Shumpert:** "Yeah."
+
+https://www.youtube.com/watch?v=SnuHO6lgFzo&t=586s
+
+**5. Shams Charania — "The trade being on hold is like 11, 10 months in the making." — Status of the Kawhi Leonard trade investigation and potential implications** [12:14](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=734s)
+
+**Shams Charania:** "The trade being on hold is like 11, 10 months in the making because you think about way back in the fall last year, the NBA started investigation into this company aspiration that potentially was used by the Clippers to funnel money improperly to **Kawhi Leonard**. And that investigation is ongoing, but no one thought that that would be an issue with any potential trade talks. Everyone thought it was just going to go through and there was an agreement that was reached. But the league moratorium got lifted on July 6th, and one day goes by, then July 7th goes by, then July 8th goes by, and then you end up at July 9th, July 10th and there's still no announcement of a trade. And you come to find out the NBA made it clear to the Raptors that listen, you can go through with the trade, but it's going to come with potential risk."
+
+**Iman Shumpert:** "Yeah, what could be the worst that can happen, Shams?"
+
+**Arhii Shumpert:** "Avoiding of contracts?"
+
+https://www.youtube.com/watch?v=SnuHO6lgFzo&t=734s
+
+**6. Shams Charania — "The absolute worst case scenario that no one is expecting is Kawhi Leonard's contract being voided." — Potential consequences of the Kawhi Leonard investigation for the Raptors** [14:51](https://www.youtube.com/watch?v=SnuHO6lgFzo&t=891s)
+
+**Shams Charania:** "The absolute worst case scenario that no one is expecting is **Kawhi Leonard**'s contract being voided or him being suspended for a significant period of time, whether that's 40 games, 20 games, an entire season. But no one knows because it all comes down to the evidence, what's found in the investigation. Is there proof that **Kawhi Leonard** had participation in this? To my knowledge, he has denied all of that. He's completely denied any wrongdoing, any knowledge of anything improper. And the Clippers have denied it as well. So at the end of the day, we're all waiting on this investigation."
+
+**Iman Shumpert:** "Yeah, what could be the worst that can happen, Shams?"
+
+**Arhii Shumpert:** "Avoiding of contracts?"
+
+https://www.youtube.com/watch?v=SnuHO6lgFzo&t=891s
 
 ---
 
