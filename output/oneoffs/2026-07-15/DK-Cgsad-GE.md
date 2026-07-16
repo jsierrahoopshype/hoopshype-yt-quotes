@@ -1,0 +1,29 @@
+# Speaking at Hua Fu University in China — *Jaylen Brown*
+
+Source: https://www.youtube.com/watch?v=DK-Cgsad-GE
+
+_Speakers identified: Jaylen Brown, Teacher, Student 1, Student 2, Student 3_
+
+**1. Jaylen Brown — "she was the one that taught me the importance of education and the importance of school" — Jaylen Brown on the influence of his late grandmother** [01:50](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=110s)
+
+Jaylen Brown: "For me, the person that I would say I admire most would be my grandmother. My grandmother, she passed away three years ago, but she was the one that taught me the importance of education and the importance of school, and I carry the things that she taught me with me in life today. So, I think it's important to give appreciation to your parents, your grandparents, your ancestors, the people that came before, always show them respect."
+
+https://www.youtube.com/watch?v=DK-Cgsad-GE&t=110s
+
+**2. Jaylen Brown — "if I had to choose anything, I probably would be a teacher at a university" — Jaylen Brown on his potential post-basketball career in education** [05:15](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=315s)
+
+Jaylen Brown: "If basketball were to end today, it's tough for me to say, but if I had to choose anything, I probably would be a teacher at a university. I love to teach, I love working with students such as yourself. I work with students at MIT and all over back in Boston. I love to teach and build curriculums and just pour into the next generation."
+
+https://www.youtube.com/watch?v=DK-Cgsad-GE&t=315s
+
+**3. Jaylen Brown — "she would make me do book reports, she would make me do mathematics, she would make me do physics" — Jaylen Brown on his grandmother's academic expectations during his youth** [06:38](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=398s)
+
+Jaylen Brown: "When I was a teenager, I used to give my grandma a hard time because she was a teacher, an educator. So when I would be in school, I did all A's throughout school, but when we get to the summertime, I wanted to just have fun, play video games, and play basketball. I didn't want to think about basketball. My grandma, she would have a different plan for me. Even in the summertime, she would make me do book reports, she would make me do mathematics, she would make me do physics, and I just wanted to play video games."
+
+https://www.youtube.com/watch?v=DK-Cgsad-GE&t=398s
+
+**4. Jaylen Brown — "you need to prioritize. I wrote down what was most important to me" — Jaylen Brown on balancing professional and personal priorities** [09:27](https://www.youtube.com/watch?v=DK-Cgsad-GE&t=567s)
+
+Jaylen Brown: "As you balance your life, you need to prioritize. I wrote down what was most important to me in terms of my education, sports, social life, sleep, all the different things that were important to me. And some things that, today, maybe a hard decision, you might have to sacrifice for what's the most important. For me, sports and education were most important, so a lot of times social life, friends, gatherings, hanging out, video games, etc., I had to sacrifice a lot of that in my life because sports and education takes a lot of time."
+
+https://www.youtube.com/watch?v=DK-Cgsad-GE&t=567s
