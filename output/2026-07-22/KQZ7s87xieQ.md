@@ -1,0 +1,41 @@
+# A barefoot DUNK?!? Caron Butler's FIRST IMPRESSION of Giannis Antetokounmpo I Miami Heat  I NBA — *Thanalysis Show*
+
+Source: https://www.youtube.com/watch?v=KQZ7s87xieQ
+
+_Speakers identified: Thanasis Antetokounmpo, Caron Butler_
+
+**1. Caron Butler — "they had this kid, we don't know how good he's going to be, but he's super talented" — Caron Butler on his first impression of Giannis Antetokounmpo** [00:16](https://www.youtube.com/watch?v=KQZ7s87xieQ&t=16s)
+
+**Caron Butler:** "It was crazy because when I came here, obviously it was a dream come true. That was a bucket list. I wanted to put on my hometown uniform before I retired. **John Hammond**, who was the GM at the time, called me in the office. I talked to **Herb Kohl**, great man, great owner. They were like, 'Hey, we got this kid, we don't know how good he's going to be, but he's super talented. And the thing is, he's got a great feel for the game of basketball. But he needs to know and learn what it is to be a professional.' He's going to work hard, but we want him to work hard and smart."
+
+**Thanasis Antetokounmpo:** "And you see him for the first time, what was your first impression, Giannis?"
+
+**Caron Butler:** "I see Giannis, he comes in, skinny, and hat got him lifting weights and he's on the TRX or whatever, trying to work the strings and the resistance bands. And I'm just looking at him and I'm like, 'The kid is crazy.'"
+
+https://www.youtube.com/watch?v=KQZ7s87xieQ&t=16s
+
+**2. Caron Butler — "he took one step and then took off and dunked the ball almost from the free throw line" — Caron Butler recalls Giannis Antetokounmpo's early athleticism and potential** [01:28](https://www.youtube.com/watch?v=KQZ7s87xieQ&t=88s)
+
+Caron Butler: "They had him, and he's barefoot at the time. He's doing all this stuff, and then somebody bounced the ball at him. I'm not exaggerating, the ball, he was outside the free throw line. He took one step and then took off and dunked the ball almost from the free throw line, barefoot. So I'm looking, I'm like, 'That was different.' This was my first time seeing him like that. I'm like, 'Okay, that was different. I wonder, can he do all the things they said he could do?' So me and **Nick Van Exel** was there, he was the assistant coach. Nick's like, 'Yeah, he can play a little bit,' they saying. So we, first practice after media day, everything, have our first practice, we get on the court and we're in transition and he's with the second unit at the time. He gets the ball and he catches it and the play is to be made on the left side of the floor, but he went right first. So I'm like, 'What the hell is he doing?' You know, so I'm like, 'Damn, young people thing.' And then he zipped the ball over there and saw the play, like he read it, but it was a look-off. And I was like, 'Oh shit, he's different. His feel for the game is different.' I caught myself just starting to watch him, like his mannerisms and things that he was doing on the court. I was like, 'Yo, he got an amazing feel for the game of basketball.' That was my first impression of him, you know, just like he really understands how to play."
+
+https://www.youtube.com/watch?v=KQZ7s87xieQ&t=88s
+
+**3. Caron Butler — "I thought All-Star, great all-around player, playmaker, I didn't see MVP, MVP, defensive guy" — Caron Butler on Giannis Antetokounmpo's evolution into an MVP** [02:52](https://www.youtube.com/watch?v=KQZ7s87xieQ&t=172s)
+
+**Thanasis Antetokounmpo:** "Did you ever think that his game was going to translate this way?"
+
+**Caron Butler:** "Not like how he is now. I thought All-Star, great all-around player, playmaker, I didn't see MVP, MVP, defensive guy. You didn't see all that. And anybody that tell you that is fooling themselves."
+
+https://www.youtube.com/watch?v=KQZ7s87xieQ&t=172s
+
+**4. Caron Butler — "I had to talk to him about the culture and what it is to be a black man" — Caron Butler on mentoring Giannis Antetokounmpo about cultural challenges** [06:10](https://www.youtube.com/watch?v=KQZ7s87xieQ&t=370s)
+
+Caron Butler: "I had to talk to him about the culture and what it is to be a black man in America, but a black man in the state of Wisconsin and what what would you be faced with. He always had his hoodie on. I remember we, yes. And I told him about walking around with your hoodie on and people not knowing who you are and how you're going to get treated like, you know, probably the average minority here in the state. So I, you know, and this is what happens sometimes. I'm not saying like it's happening all the time, but in certain scenarios, if this happened, because no one ever had this conversation with him, be prepared for this."
+
+https://www.youtube.com/watch?v=KQZ7s87xieQ&t=370s
+
+**5. Caron Butler — "I just felt like y'all's urgency was different, y'all's desperation was different" — Caron Butler on the Bucks' 2020 playoff intensity and mindset** [12:38](https://www.youtube.com/watch?v=KQZ7s87xieQ&t=758s)
+
+Caron Butler: "I just felt like y'all's urgency was different, y'all's desperation was different. And I think the quotes that Giannis had touched on after y'all beat us in the series, 'Don't play with your food.' And that's real, you know, that's some shit I learned at a young age, like when you have someone down or when you have someone ailing, especially in competition, you finish them. And that's what y'all did. Y'all was the better team. And I think Holiday really took y'all over the top because you had the playmaker and the engine and the head of the snake in Giannis, but Holiday was the other playmaker and shot maker down the stretch that really won y'all the Brooklyn series. He hits some huge, huge shots. Middleton always did his thing, like he was clutch, but I felt like you have Giannis like constantly attacking and now you have Middleton doing his thing and he's demanding a double team if you don't guard him because he's so fundamentally sound, especially 15 in. And then now you have Holiday that's not **Eric Bledsoe** no more. No knock to Eric, but that was my rookie too, but Eric couldn't shoot the ball from outside like Holiday. He couldn't playmake and have the brain speed in those moments like Holiday did and he just like really took y'all over the top."
+
+https://www.youtube.com/watch?v=KQZ7s87xieQ&t=758s

@@ -1,0 +1,35 @@
+# NBA Veteran PROTECTED rookie Giannis Antetokounmpo during night out in Milwaukee — *Thanalysis Show*
+
+Source: https://www.youtube.com/watch?v=oXagMg7i2H0
+
+_Speakers identified: Thanasis Antetokounmpo_
+
+**1. Thanasis Antetokounmpo — "I grabbed him just to protect him because, you know, the one thing that I always did" — Thanasis Antetokounmpo protecting Giannis Antetokounmpo during a night out** [01:05](https://www.youtube.com/watch?v=oXagMg7i2H0&t=65s)
+
+Thanasis Antetokounmpo: "We were at a crazy spot. It was Club 601, a big spot. A lot of people used to go there. But we all thought it was a gunshot. Everybody ducked, but I grabbed him just to protect him because, you know, the one thing that I always did as a vet, I always protect my young people. And he was special and still is special to me because he is part of my legacy. He was my young fellow that I used my rook. So I got to make sure he is okay. I got to always make sure he is okay, and he came out on the strength of me."
+
+https://www.youtube.com/watch?v=oXagMg7i2H0&t=65s
+
+**2. Thanasis Antetokounmpo — "I had to talk to him about the culture and what it is to be a black man" — Thanasis Antetokounmpo teaching Giannis Antetokounmpo about life in Wisconsin** [01:52](https://www.youtube.com/watch?v=oXagMg7i2H0&t=112s)
+
+Thanasis Antetokounmpo: "Because I am from here, I had to talk to him about the culture and what it is to be a black man in America, but a black man in the state of Wisconsin. What would you be faced with? He always had his hoodie on. I told him about walking around with your hoodie on and people not knowing who you are and now you are going to get treated like the average minority here in the state. This is what happens sometimes. I am not saying it is happening all the time, but in certain scenarios, if this happens, because no one ever had this conversation with him, be prepared for this."
+
+https://www.youtube.com/watch?v=oXagMg7i2H0&t=112s
+
+**3. Thanasis Antetokounmpo — "We are a team that is on pace to win almost 70 games" — The Bucks' dominant 2020 season before the COVID-19 shutdown** [04:20](https://www.youtube.com/watch?v=oXagMg7i2H0&t=260s)
+
+Thanasis Antetokounmpo: "We go to the year of 2020, the year of COVID. We are a team that is on pace to win almost 70 games. We are beating everybody by a differential of 11, 12 points on average. Teams are coming into Fiserv and they lose by 20, 25. All of a sudden we are like, oh my god, we are about to run. We are about to just run, take off. And COVID hits. And COVID hits, and you know, in the beginning, I don't know if you remember, they were like, oh, I don't know what they told the public, but to the staff and the players, the thing was that being on standby, they are going to be back in two weeks."
+
+https://www.youtube.com/watch?v=oXagMg7i2H0&t=260s
+
+**4. Thanasis Antetokounmpo — "When you have someone down and when you have someone ailing, especially in competition, you finish them" — Giannis Antetokounmpo's 'don't play with your food' mentality** [08:35](https://www.youtube.com/watch?v=oXagMg7i2H0&t=515s)
+
+Thanasis Antetokounmpo: "The quotes that Giannis had touched on after y'all beat us in the series, don't play with your food. And that is real. That is some shit I learned at a young age. When you have someone down and when you have someone ailing, especially in competition, you finish them. And that is what y'all did. Y'all was the better team. I think Holiday really took y'all over the top because you had the playmaker and the engine and the head of the snake in Giannis, but Holiday was the other playmaker and shot-maker down the stretch that really won y'all the Brooklyn series."
+
+https://www.youtube.com/watch?v=oXagMg7i2H0&t=515s
+
+**5. Thanasis Antetokounmpo — "He is probably three players in the whole league that will beat you up offensively" — Giannis Antetokounmpo, Nikola Jokic, and Jalen Brunson as physical offensive players** [15:35](https://www.youtube.com/watch?v=oXagMg7i2H0&t=935s)
+
+Thanasis Antetokounmpo: "He is probably three players in the whole league that will beat you up offensively. If that make any sense to anyone listening or watching, he is an abuser offensively. Joker is like that in a different way where he is just giving you all his body so much. And there is a couple other guys out there that, you know, young LeBron was violent. He was a machine going downhill every time. There is a few guys like that, but Giannis, oh, and **Jalen Brunson**. We just played them in New York. He is so physical, him and Brunson, they are just pounding you aggressively offensively with their game."
+
+https://www.youtube.com/watch?v=oXagMg7i2H0&t=935s
