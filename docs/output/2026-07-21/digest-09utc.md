@@ -1,0 +1,115 @@
+# HoopsHype YT Quotes — 2026-07-21
+
+## Did LeBron Just Give The NBA A Hint About His Next Team? | Rachel Nichols and Chris Mannix — *Sports Illustrated*
+
+Source: https://www.youtube.com/watch?v=D8jY0lCYw0g
+
+_Speakers identified: Chris Mannix, Rachel Nichols_
+
+**1. Chris Mannix — "We had a trade, an off-season trade, three-team deal involving Oklahoma City, Atlanta, and Dallas." — three-team trade involving Oklahoma City, Atlanta, and Dallas** [01:30](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=90s)
+
+Chris Mannix: "We had a trade, an off-season trade, three-team deal involving Oklahoma City, Atlanta, and Dallas. We will dive into that as well, and a few other things. But I want to start the show talking about the story that will never end. We are on week three of the LeBron James watch. LeBron is still a free agent after he signed to leave the Lakers."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=90s
+
+**2. Rachel Nichols — "Of course, people in Cleveland were upset he left. But that's not really why they were that upset." — LeBron James' departure from Cleveland and Miami** [02:23](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=143s)
+
+**Rachel Nichols:** "Look, he learned his lesson with the decision. And I will always say this, having been on the ground in Cleveland and Miami for both phases of that. Of course, people in Cleveland were upset he left. But that's not really why they were that upset. They were upset about the way he left. Just playing with everyone's emotions, making it a TV special, being so joyous on the way out of like, I'm taking my talents to South, all of this stuff. And I think he and the people around him, I know I've talked to them all, including LeBron about those, learned a pretty valuable lesson in how you deliver the news is sometimes just as important as the news itself."
+
+**Chris Mannix:** "I agree that we are now inching towards the point where there could be a hostile reaction."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=143s
+
+**3. Rachel Nichols — "He could be waiting for the team he wants to go to to make a move." — LeBron James waiting for his preferred team to make a move** [04:00](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=240s)
+
+Rachel Nichols: "Again, it might not be his fault. We don't know what he's waiting for. He could be waiting for the team he wants to go to to make a move that they haven't been able to make yet. So, that could be part of what this is about. I don't know. But I do think that the same way he and his team have been conscious about how do we announce this, which is why I never thought it was happening at Fanatics Fest, because that's once again, auctioning off people's pain to the highest bidder, that the length of time is also something that they might keep in mind."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=240s
+
+**4. Chris Mannix — "He said that her happiness would play a big role in that decision." — LeBron James' daughter Zuri's influence on his next team** [05:00](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=300s)
+
+Chris Mannix: "I saw a clip where LeBron was talking about his daughter **Zuri**'s influence on this. And Melissa Rohlin wrote about this with the California Post. I read her piece on it earlier in the week. Obviously, LeBron's two boys are out of the house. His one son is a former teammate now with the Lakers, got another son playing college ball at Arizona, but **Zuri** is 11, 12 years old, something like that, and is in the house, obviously. And he said that her happiness would play a big role in that decision. Is there anything you can take out of that?"
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=300s
+
+**5. Rachel Nichols — "I never thought if he moved to Miami, let's just say, that Savannah and Zuri would necessarily come with him." — LeBron James' family likely to stay in Southern California** [05:02](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=302s)
+
+Rachel Nichols: "Yeah, I mean, a little bit. Look, I never thought if he moved to Miami, let's just say, that **Savannah** and **Zuri** would necessarily come with him. Because you and I have covered the NBA for so long, often when players have families that are at this stage, this age, 12-year-old kids, 13-year-old kids, the kids and the wife don't move. Because the kids, just as the reporting has been on **Zuri**, are like too invested, and she's a huge volleyball player here in Southern California. Like there's a bunch of stuff, you have your friends, you have whatever. And also, like, you know, players kind of feel by the time they reach that stage of their career, how long is this stint in the city going to last? Like **Chris Paul** talks about the fact that he moved his entire family from LA to Houston, and what a mistake that was, because he thought that was for good and it obviously wasn't."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=302s
+
+**6. Chris Mannix — "Are you surprised that Philadelphia continues to exist on a lot of people's short lists?" — Philadelphia 76ers' championship potential with a healthy roster** [08:25](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=505s)
+
+Chris Mannix: "Are you surprised that Philadelphia continues to exist on a lot of people's short lists? I mean, the most credible reporters out there that have been weighing in on this have consistently said Philadelphia is there. Now, I kind of get it from a basketball perspective because they are built to win right now, and if you assume perfect health, which you can't with the 76ers, but if you assume perfect health, like, hey, that's a team that can win the Eastern Conference. And if you win the Eastern Conference, you can win a championship. But I look at that 76ers team and I'm like, huh, okay. You are going to slot LeBron at power forward alongside **Jaylen Brown**, who he's had kind of a hot and cold relationship over the years, Tyrese Maxey, who has elevated himself to kind of borderline superstar status, VJ Edgecombe, who is only going to get better. Then there's that Embiid guy that when he's out there on the floor is going to demand the ball."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=505s
+
+**7. Rachel Nichols — "Dwayne Wade tells the story that LeBron went completely radio silent on him for 72 hours." — LeBron James' radio silence during free agency decisions** [09:50](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=590s)
+
+Rachel Nichols: "I promise you, when he left Cleveland the first time with the decision to go to the Heat, you know who didn't know what he was going to say? **Dwyane Wade**. **Dwyane Wade** and he and Chris had talked about this, and they talked about it for years, and then they talked about it much more specifically in terms of, you know, the weeks leading up, and then Dwyane, Dwyane tells the story that LeBron went completely radio silent on him for 72 hours. Didn't answer him. Not just, oh, we didn't talk about it. Like Dwyane's like, you good? And like, nothing."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=590s
+
+**8. Chris Mannix — "The team is looking for $600 million of public funding from the state, county, and the city." — Portland Trail Blazers' $600 million arena funding request** [12:30](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=750s)
+
+Chris Mannix: "The team is looking for $600 million of public funding from the state, county, and the city to remodel the Moda Center, which is 30 years old, and in my opinion, not good. Last week in Las Vegas, Adam Silver set off some alarms when he said that the negotiation between the city and the team have gone off track a bit, his phrase, off track. The Blazers, who are now led by **Tom Dunden**, who is making an impact across the NBA for good and for bad, have called that term sheet a non-starter."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=750s
+
+**9. Rachel Nichols — "Citizens should not be paying for sports stadiums, arenas, teams, especially now that they're all owned by billionaires." — public funding for billionaire-owned sports stadiums** [16:38](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=998s)
+
+Rachel Nichols: "Citizens should not be paying for sports stadiums, arenas, teams, especially now that they're all owned by billionaires. There may have been a time where the guy who owned the team was just a little bit richer than all the other rich people in town. When **Jerry Buss** bought the Lakers, he was a very successful commercial real estate developer. He was not a billionaire and never was a billionaire. When you have the gap in wealth between today's sports owners and how most people live day-to-day, it is obscene that we let any city, any municipality, any state, I believe the state of California has a law against this, of the city paying for the arena."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=998s
+
+**10. Chris Mannix — "Lou Dort goes from Oklahoma City to the Atlanta Hawks, he goes along with Ryan Nemhard." — three-team trade details involving Lou Dort** [25:35](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1535s)
+
+Chris Mannix: "We had a trade this week in the NBA, three-team trade, and the headliners of this deal between Oklahoma City, Atlanta, and Dallas is that **Lou Dort** goes from Oklahoma City to the Atlanta Hawks. He goes along with **Ryan Nemhard** who comes up from Dallas. **Zachary Risacher**, who is the 2024 number one overall pick, he goes from Atlanta to Dallas and three second-round picks go to Oklahoma City."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1535s
+
+**11. Rachel Nichols — "Sam Presti came out and said this was a financial decision." — Oklahoma City Thunder's financial motivation for the trade** [29:25](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1765s)
+
+Rachel Nichols: "Yes, **Sam Presti** came out and said this was a financial decision and there's no question this helps their finances. But this feels very much to me like, hey, we know the asset is declining, no one else quite knows yet or is like really registered that the asset is declining and we're getting out now while we can still extract a really good price, which they did."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1765s
+
+**12. Rachel Nichols — "There have been an increasing number of incidents with Lou Dort where star players have accused him of playing dirty." — increasing incidents of star players accusing Lou Dort of dirty play** [30:33](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1833s)
+
+Rachel Nichols: "There have been an increasing number of incidents with **Lou Dort** where star players have accused him of playing dirty, inappropriately, recklessly, however, and it's a difference, but I'm just saying, however you perceive it. That tells me that you're not as sure of yourself defensively anymore. Because you don't have to trip a guy if you know you can defend him."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1833s
+
+**13. Chris Mannix — "He has had dips in his career and bounce back for them." — Lou Dort's performance regression and bounce-back potential** [31:24](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1884s)
+
+Chris Mannix: "He has had dips in his career and bounce back for them. I go back the 22-23 season where he shot 38% from the field, 33% from the floor, bounce back, had two phenomenal years over the next two and helped contribute to a championship two years ago. So at 27 years old, I do think that it's reasonable to believe that his numbers can be more like the ones we've seen in the last two years than the ones we've seen this past year."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=1884s
+
+**14. Rachel Nichols — "When Anthony Davis went to Washington, I have a lot of friends who were like, he's hurt all the time." — Anthony Davis's trade to Washington and team chemistry issues** [34:15](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2055s)
+
+Rachel Nichols: "When **Anthony Davis** went to Washington, I have a lot of friends who were like, he's hurt all the time. Why did we make this trade? And I said, because you didn't really give up anything significant for him. So, if you're Dallas, and you had to give up Luka Doncic, **Anthony Davis** only playing 50 games or in the case there, I think it was 20 games, is a real problem because you've given up a ton."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2055s
+
+**15. Chris Mannix — "Atlanta has got three of them. They got three top-level all-defensive caliber type of guys on that wing." — Atlanta Hawks' defensive perimeter improvement with trade** [35:50](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2150s)
+
+Chris Mannix: "I think that the rise of Cason Wallace over the last couple of years, the continued rise of AJ Mitchell, these are all guys that will earn more minutes with this team. So I think moving **Lou Dort**, even though you definitely lose something defensively, you definitely lose something when it comes to leadership in that group, I think you gain something too by freeing up some more minutes for these guys. I think all these guys are really good players. Cason Wallace is an all-defensive level player. Jared McCain is a bucket. If they can get a more well-rounded player out of him, he could be a star in this league. AJ Mitchell is on that track. I mean, he was in the mix for most improved player this past year. Like they've got guys, we didn't even mention **Alex Caruso**, still under contract there. So they have got a strong rotation of two guards in that backcourt that can fill this role. If there had not been a quote from Sam Presti, I probably would have just sat here and been like, you know, this is just what happens in the second apron era. You've got to cut salary."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2150s
+
+**16. Rachel Nichols — "The impression that I have been given is that the savings generated this summer will be reallocated to future teams." — Sam Presti's strategic use of salary cap savings** [36:18](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2178s)
+
+Rachel Nichols: "According, this is Presti, say quote, this was a financial decision. The impression that I have been given is that the savings generated this summer and from being out of the tax the last several years will be reallocated to future teams. That was a very interesting quote because **Sam Presti** does not make mistakes with what he says. He is very, very selective with his word choice."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2178s
+
+**17. Chris Mannix — "People in Oklahoma City will tell you that he is what he's doing is taking the heat off of Clay Bennett." — Sam Presti's strategy to alleviate pressure on Clay Bennett** [36:58](https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2218s)
+
+Chris Mannix: "People in Oklahoma City will tell you that he is what he's doing is taking the heat off of **Clay Bennett**, the owner of the Thunder, saying like, look, it's we're doing this deal and we're going to use the savings down the line. The other interpretation that people around the league have had is that he's kind of put the pressure on **Clay Bennett** to say like, all right, we did this deal, we moved off Lou Dort, who in addition to being a really good player is very close with our alpha with Shai Gilgeous-Alexander."
+
+https://www.youtube.com/watch?v=D8jY0lCYw0g&t=2218s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
