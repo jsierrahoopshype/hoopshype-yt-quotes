@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-22
-
-## Rudy Gobert is ahead of Artest, Tony Allen, MJ and Kobe ALL-TIME DEFENSIVELY 🤦🏾‍♂️ — *To The Baha*
+# Rudy Gobert is ahead of Artest, Tony Allen, MJ and Kobe ALL-TIME DEFENSIVELY 🤦🏾‍♂️ — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=EFEbjetom7U
 
@@ -45,7 +43,3 @@ https://www.youtube.com/watch?v=EFEbjetom7U&t=852s
 Theo Pinson: "**Ben Wallace** would have been an extreme liability in today's game offensively because he couldn't shoot. He couldn't shoot. He wouldn't guard."
 
 https://www.youtube.com/watch?v=EFEbjetom7U&t=1038s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
