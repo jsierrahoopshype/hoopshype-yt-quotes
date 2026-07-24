@@ -1,5 +1,6 @@
 # HoopsHype YouTube quotes — index
 
+- [2026-07-24](2026-07-24/digest.md)
 - [2026-07-23](2026-07-23/digest.md)
 - [2026-07-22](2026-07-22/digest.md)
 - [2026-07-21](2026-07-21/digest.md)
