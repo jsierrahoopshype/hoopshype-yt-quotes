@@ -50,54 +50,6 @@ https://www.youtube.com/watch?v=2Er0SiZcIVY&t=1026s
 
 ---
 
-## Gilbert Arenas on who ACTUALLY tried to do him and his teammates DIRTY on Gils Arena 👀 — *To The Baha*
-
-Source: https://www.youtube.com/watch?v=3JcVZnKYfho
-
-_Speakers identified: Gilbert Arenas, Theo Pinson, Raymond Felton, Charlie Villanueva_
-
-**1. Gilbert Arenas — "Obviously Joe obviously because we were both going through the same thing. He locked in from the beginning." — Gilbert Arenas on the production of his show Gils Arena** [00:26](https://www.youtube.com/watch?v=3JcVZnKYfho&t=26s)
-
-**Gilbert Arenas:** "Nick and Joe. Obviously Joe obviously because we were both going through the same thing. He locked in from the beginning."
-
-**Theo Pinson:** "You can tell Joe didn't really want to be there."
-
-**Gilbert Arenas:** "We both didn't want to be there. We just there."
-
-https://www.youtube.com/watch?v=3JcVZnKYfho&t=26s
-
-**2. Gilbert Arenas — "Kenyon and Brandon, they were on our side, but they're still just doing their job because their contract's until September." — Gilbert Arenas on the professional conduct of his former cast members** [00:44](https://www.youtube.com/watch?v=3JcVZnKYfho&t=44s)
-
-Gilbert Arenas: "Kenyon and Brandon, they were on our side, but they're still just doing their job because their contract's until September. Rashad is the one because if you listen to what Rashad was saying, he was like, 'Let's talk hoops coming out soon on Underdog.' He's promoting a show, so they must have promised him his own show, Let's Talk Hoops, which Rashad, I don't mean to be rude, you're going to hear this for the first time, that was because I know Tim gave you that idea. That was my show, not Let's Talk Hoops. It was called Free Game, and if you look at the channel, I used to do basketball play breakdowns and all of that. That was a show that I was doing. It was called Free Game, basketball breakdowns where we go to the drawing board and we do all that. That was a show. So I know Tim pitched that to you. I get it. This was never about me versus Rashad. This was us versus the takeover, and for some reason, he decided he wanted to jump face forward and oh, this and that, he's leaving us. That was what irritated me the most."
-
-https://www.youtube.com/watch?v=3JcVZnKYfho&t=44s
-
-**3. Gilbert Arenas — "You're going on podcasts basically saying, 'I left you guys and I only think about myself and I did it to save myself.'" — Gilbert Arenas on Rashad McCants' comments regarding his departure** [02:14](https://www.youtube.com/watch?v=3JcVZnKYfho&t=134s)
-
-Gilbert Arenas: "You're going on podcasts basically saying, 'I left you guys and I only think about myself and I did it to save myself.' When all of this started because I was saving us when they were trying to replace you. That's what irritated me the most, is you're on these podcasts saying, 'I'm **Michael Jackson**, you the Jackson 5.' Well, you'd be the Jackson 4, and that was a horrible analogy because we never heard the Jackson 4 songs ever. Don't know what the Jackson 4 look like. So exactly what happened to the Jackson 4, what happened to y'all? Michael went out and did Up Against the Wall and Thriller, and that was the last toy y'all in tour no more. So why would you even say that?"
-
-https://www.youtube.com/watch?v=3JcVZnKYfho&t=134s
-
-**4. Gilbert Arenas — "If Cemetery Larry calls you and says, 'Yo, I need a job, I need a position,' would you give him a chance?" — Gilbert Arenas on the possibility of reconciling with C. Larry** [03:06](https://www.youtube.com/watch?v=3JcVZnKYfho&t=186s)
-
-Gilbert Arenas: "Hypothetically speaking, if **Cemetery Larry** calls you and says, 'Yo, I need a job, I need a position.' Would you give him a chance? He apologized and he's like, 'Yo, my fault, I messed up.' Me personally, our dynamic duo was good. I liked it. It was good. It just wasn't good this year because I was going through some things. I'm not the person that has a real problem. He's going to have to talk to **Joe Johnson** too and then the other people because there was, I know Joe would never say nothing, but **Cemetery Larry** really hurt Joe's feelings. Season 4, and here's the episode. Because it was little, but it was a lot to him."
-
-https://www.youtube.com/watch?v=3JcVZnKYfho&t=186s
-
-**5. Gilbert Arenas — "I'm reading the chat and the chat say, 'Cemetery Larry Day, that shit going to be wild.'" — Gilbert Arenas on the 'Cemetery Larry Day' episode production** [04:16](https://www.youtube.com/watch?v=3JcVZnKYfho&t=256s)
-
-Gilbert Arenas: "We did some little game we played and it was win a free day. The day I wanted, but I already got Gils Arena and then I'm reading the chat and the chat say, '**Cemetery Larry** Day, that shit going to be wild.' And I thought about it like, hell yeah. All this nigga about to go nuclear, he going to have all the hoes coming. So I said, 'Hey, Rashad, I'll trade you my ticket for your ticket. You get **Cemetery Larry** Day.' Boom. So **Cemetery Larry** Day. So already whatever he was asking for, I know the producers not going to want to do it, so I got to convince them. So they were like, 'He said he want girls.' So I said, 'All right, bet.'"
-
-https://www.youtube.com/watch?v=3JcVZnKYfho&t=256s
-
-**6. Gilbert Arenas — "He don't want you to show up. Damn. Okay. All right. All right." — Gilbert Arenas on the production team's decision to exclude him** [05:12](https://www.youtube.com/watch?v=3JcVZnKYfho&t=312s)
-
-Gilbert Arenas: "He don't want you to show up. Damn. Okay. All right. All right. So Joe was like, 'All right, do we have a rundown?' The producer was like, 'Yeah, he set up. He don't want you either, Joe. He going to be the host.' So Joe was like, 'Wait, wait, what? I've never missed a day. What do you mean?' He said, 'He wants to be the host. He don't want you there.' Joe was like, 'Like I've never missed a day. What do you mean?' He said, 'He wants to be the host. He got his own crew.' And then he has, you know, **Z-Bo** and Full Circle Motion **Tony Allen**, which was weird because those are my teammates. So I had to look like, when the fuck did he play with **Z-Bo** and **Tony Allen**? Me and **Z-Bo**'s kids play together since they was little, so that like, this is my guy. So he don't want me and so he basically just called Nick and Brandon and said, 'Yo, I want you guys on the couch with me,' and then **Tony Allen** and what's his name. So we was just in the house. I was like, 'Shit, it was a fucking day off.'"
-
-https://www.youtube.com/watch?v=3JcVZnKYfho&t=312s
-
----
-
 ## Perk says LeBron James and the 76ers can ‘WIN THE CHAMPIONSHIP this season’ 👀 | NBA Today — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=3_-vxP3R88E
@@ -182,49 +134,95 @@ https://www.youtube.com/watch?v=3_-vxP3R88E&t=645s
 
 ---
 
-## Gilbert Arenas Says He Cooked Melo, LeBron & Team USA Before Dropping 60 on Kobe — *7PM in Brooklyn*
+## 🚨EMERGENCY POD🚨 LeBron Signs with 76ers REACTION — *NBA on ESPN*
 
-Source: https://www.youtube.com/watch?v=FUKj-O3g7Yc
+Source: https://www.youtube.com/watch?v=bG5Gv97Mfc4
 
-_Speakers identified: Gilbert Arenas, Carmelo Anthony, The Kid Mero, Rudy Gay_
+_Speakers identified: Brian Windhorst, Bobby Marks, Nick Friedell_
 
-**1. Gilbert Arenas — "I cooked the entire team." — Gilbert Arenas claims he dominated Team USA in 2006 scrimmage** [00:00](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=0s)
+**1. Brian Windhorst — "he has chosen the number one thing is winning a championship immediately" — LeBron James prioritized winning a championship immediately with the 76ers** [00:48](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=48s)
 
-**Gilbert Arenas:** "You said in the 2006 scrimmage that you cooked the entire team. We don't have footage, we just got eyewitnesses."
+Brian Windhorst: "I believe that there are two reasons why he chose the 76ers. As he said in his comments that he made on social media after it was announced, he has chosen the number one thing is winning a championship immediately, which is not unheard of or shocking. It wasn't 100% clear whether winning a championship this upcoming season was priority one. It was chasing happiness, and we didn't know, did happiness mean where his family was comfortable? In fact, he openly said in his comments that family wasn't a priority here. Once he said, now that we know what he was thinking, and he said that winning a championship immediately this year was his priority, I think that put Golden State and Miami off the list, because I don't think either of those teams could win a championship immediately with him joining."
 
-**Carmelo Anthony:** "You got to remember, cooking is any bucket I scored. You got to look at it, this is the best five I've ever played against. This is the best five ever. Think about the five I'm practicing against. **Chris Paul**, **Dwyane Wade**, **LeBron James**, **Dwight Howard**, and the best five I've ever played against."
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=48s
 
-https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=0s
+**2. Brian Windhorst — "their centerpiece player or a centerpiece player is a clutch client, which is Tyrese Maxey" — Tyrese Maxey's status as a clutch client helped the 76ers** [02:00](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=120s)
 
-**2. Gilbert Arenas — "I would never as an NBA player ever play against a five like that to test my talent." — Gilbert Arenas explains his mindset playing against Team USA stars** [00:54](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=54s)
+Brian Windhorst: "The other reason that was very much in the favor of the 76ers was that their centerpiece player or a centerpiece player is a clutch client, which is **Tyrese Maxey**. Having a comfort level there, going into a situation where there's going to have to be sharing of the ball, relying on having that basis there. **Nick Nurse**, the coach, is a clutch client too. I don't think that is as important, but it's a factor."
 
-Gilbert Arenas: "I would never as an NBA player ever play against a five like that to test my talent. Remember, I'm playing against the second unit in practice. So this is the best five I'm ever going to play against. So I took this shit seriously. I knew I wasn't getting on the court. One, I got Adidas on. Two, I probably shouldn't have been there. But the fact that I'm there, I got to take advantage of it. So you got to look at my team: **Kirk Hinrich**, **Antawn Jamison**, he ain't getting the ball. I got Mike Miller, **Brad Miller**, **Joe Johnson**, **Elton Brand**. I didn't pass them the ball either."
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=120s
 
-https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=54s
+**3. Bobby Marks — "if you had this roster after your fantasy basketball draft, you'd feel great" — The 76ers roster is loaded with talent for a championship run** [04:06](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=246s)
 
-**3. Gilbert Arenas — "What coach kept doing is putting their ass in the zone." — Gilbert Arenas describes his scoring strategy against Team USA** [01:58](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=118s)
+Bobby Marks: "If you look at their roster, this is a hell of a roster. If you had this roster after your fantasy basketball draft, you'd feel great. Wow, this is a ton of talent. These are a bunch of guys who've put up big numbers. I'm fascinated and curious by exactly how this all fits on the floor. You've got a lot of guys who have the right to feel like they should be the number one option. There's going to have to be some sacrifice, there's going to have to be some big figuring out of how all that talent meshes together."
 
-Gilbert Arenas: "What coach kept doing is putting their ass in the zone. So they were in the zone. They ain't got nobody to guard me. And he's a little shorter, swing that bitch over here. Swing it over here. So I got every shot because I don't have anybody that's shooting the ball on my team. So the score is like 21-9. I got nine. I'm killing. I don't give a fuck what they're talking about. I got all nine. I'm killing these boys out here. I'm cooking. 21-9, I'm up, bro. 23-3. I got the three. I'm killing these boys. What they talking about? I am the team. They can't stop me for nothing."
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=246s
 
-https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=118s
+**4. Bobby Marks — "the Jaylen Brown trade doesn't happen, if it doesn't happen, they're not probably in this mix" — The Jaylen Brown trade was the catalyst for the 76ers' success** [05:13](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=313s)
 
-**4. Gilbert Arenas — "I'm a six-man, seven-man. I'm not a pure point." — Gilbert Arenas assesses his role and skills compared to teammates** [03:00](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=180s)
+Bobby Marks: "I go back to, feels like it was years ago, but it was only a month ago when Brian said, go do something to these teams when he was told we're talking about LeBron. He says, go make a move. Go do something, right? If you want him, go do something. And this was before Philadelphia made the trade for **Jaylen Brown**. And I just look at that trade basically putting them in, not, you know, putting them in the conversation with LeBron. Like the **Jaylen Brown** trade doesn't happen, if it doesn't happen, they're not probably in this mix of teams here and everything like that."
 
-Gilbert Arenas: "I'm a six-man, seven-man. I'm not a pure point. And if you do put me at the shooting guard, **Dwyane Wade** is a better shooting guard than me with this roster. Better point guard with this roster than a **Chris Paul**. Even coming off the bench, I'm more of a shooting guard than I am a passing to these guys. So you need **Kirk Hinrich**. So I've already assessed that anyway. So right now, I'm just having fun and just trying to get this experience. But I never in a million years thought I'd be like Bruce Bowen and **Antawn Jamison**."
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=313s
 
-https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=180s
+**5. Brian Windhorst — "I felt like the Cavs should have considered trading for Jaylen Brown" — The Cavaliers should have traded for Jaylen Brown** [07:34](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=454s)
 
-**5. Gilbert Arenas — "At some point, you're going to need me. I can stop somebody." — Gilbert Arenas on his value as a secondary scorer** [03:55](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=235s)
+Brian Windhorst: "I felt like the Cavs should have considered trading for **Jaylen Brown**. This was during the free agency time. I thought, when it was known that LeBron was a, you know, because the when when when Giannis was available, we didn't necessarily know LeBron wasn't going to be a Laker. You could have guessed, but we didn't know for sure. We did know that when **Jaylen Brown** was definitely available, and the Cavs had the Cavs could, I think it would have taken **Evan Mobley**."
 
-Gilbert Arenas: "At some point, you're going to need me. I can stop somebody. He can't go out there and give you 30 if somebody go down. That's what he can't do. I can do that. If you do need another shooter, I got the pistols with me. I got the poles. I got them in the game, listen, I got them in the locker room. You damn sure I got them in this one too, you know? This is feeble rules. I got that shit on."
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=454s
 
-https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=235s
+**6. Brian Windhorst — "the 76ers have powered up" — The 76ers have significantly upgraded their roster** [09:16](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=556s)
 
-**6. Gilbert Arenas — "What was the better feeling? Getting nine points over that team or getting 60 against Kobe?" — Gilbert Arenas compares scoring on Team USA versus the Lakers** [06:20](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=380s)
+Brian Windhorst: "They had a second-round pick, **Malik Thomas**, who had a good summer league. That's what they added. So the Cavs, you know, you look at, you know, you compare it to the 76ers and the 76ers have powered up. And I will say this, Bobby, Boston made their Jaylen Brown decision for various reasons, they believed in it and made the decision. But Boston has to be feeling a certain way right now because the Eastern Conference is going to be difficult for them to win, I think."
 
-Gilbert Arenas: "There's no better team you'll ever be able to test your skills against than that five. So what was the better feeling? Getting nine points over that team and that's 21-9 scrimmage or getting 60 against Kobe and the Lakers? I'm playing the 60, though. See, because I'm trying to figure out did I have the Kobe tattoo at the time? I'm a Laker fan. So, the 60 because I had like 200 people there. As a kid growing up, my name as still to today, you know, the most points as an opponent is me. But as a basketball hooper, that USA, scoring on the USA team."
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=556s
 
-https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=380s
+**7. Bobby Marks — "Jaylen Brown was not about money" — The Jaylen Brown trade was not about money** [10:40](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=640s)
+
+Bobby Marks: "Everybody gets caught up on the apron in Boston. They traded a max for a max. **Jaylen Brown** was not about money."
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=640s
+
+**8. Bobby Marks — "they indirectly delivered Jrue Holiday to Boston" — The Damian Lillard trade indirectly helped the Celtics** [11:12](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=672s)
+
+Bobby Marks: "It's kind of like when Milwaukee made the deal to get Dame, which I liked at the time and boy was I wrong about that. It blew up in their face. But in making that deal, it's like they indirectly delivered **Jrue Holiday** to Boston and **Jrue Holiday** was a finishing piece to the Celtics championship puzzle."
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=672s
+
+**9. Bobby Marks — "I did not feel that Philly was a great fit for him" — LeBron James' fit in Philadelphia is questionable due to the pecking order** [13:09](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=789s)
+
+Bobby Marks: "I did not feel that Philly was a great fit for him just because I don't know where he is like in the pecking order. And there was clear frustration to the point where he said he considered retirement about this season in LA where he ended up being distant third in the pecking order offensively, even though he thrived in that role. And now it's like, look, Embiid's going to need the ball. **Jaylen Brown** clearly enjoys being the number one guy. **Tyrese Maxey** has thrived as the number one guy. Is LeBron willing to kind of be the old wise facilitator and distributor first and foremost?"
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=789s
+
+**10. Brian Windhorst — "VJ Edgecombe, Tyrese Maxey and Jaylen Brown are going to be the heavy lifters" — LeBron James will have a significant role, but not in back-to-backs** [14:52](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=892s)
+
+Brian Windhorst: "My speculation is that **VJ Edgecombe**, **Tyrese Maxey** and **Jaylen Brown** are going to be the heavy lifters during the regular season. And obviously LeBron is going to be have a have a significant role. But LeBron is not going to play in back-to-backs. There is going to be times when he takes some time off. You're going to want LeBron and Embiid ready to go for April. And you do what you have to do to have LeBron and Embiid ready to go for April."
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=892s
+
+**11. Bobby Marks — "if you sign a one-year veteran deal, for cap purpose, cap tax purposes, 2.4 million counts" — A one-year veteran deal counts against the cap** [16:53](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1013s)
+
+Bobby Marks: "So when you if you sign a one-year veteran deal, for cap purpose, cap tax purposes, 2.4 million counts against the cap. It doesn't matter if you're 10 years of service or 5 years of service, 2.4 million. Because this is a two-year deal, which is 3.9 in the first year, there is no, there is no, I guess salary reimbursement. The full amount counts against the cap."
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1013s
+
+**12. Brian Windhorst — "they are going to have to waive a couple of players" — The 76ers must waive players to sign LeBron James** [18:17](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1097s)
+
+Brian Windhorst: "Right now, they have 14 players under contract and they and they only have 3.3 million dollars under their hard cap. So they are going to have to waive a couple of players."
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1097s
+
+**13. Brian Windhorst — "if you want us to sign another player, Kentavious Caldwell-Pope for example, you need to sign a one-year deal" — LeBron James may need to sign a one-year deal to add another player** [19:10](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1150s)
+
+Brian Windhorst: "They may come to LeBron and say, LeBron, if you want us to sign another player, **Kentavious Caldwell-Pope** for example, you need to sign a one-year deal. Is that correct?"
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1150s
+
+**14. Brian Windhorst — "I wouldn't be surprised if we go tripleheader opening night" — The 76ers could open the season with a tripleheader** [24:43](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1483s)
+
+Brian Windhorst: "I wouldn't be surprised if we go tripleheader opening night. It's starting having a game at 4:00. Having a I I wouldn't be I'm and I'm sure I'll get aggro and get like heck on this and I'm just speaking out loud. I wouldn't be I wouldn't be surprised if we go like, you know, if Boston, Philly at 4, someone at New York at 7 and then the Western Conference game at night."
+
+https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1483s
 
 ---
 
@@ -356,6 +354,52 @@ https://www.youtube.com/watch?v=HyETzDvRrRE&t=970s
 
 ---
 
+## Gilbert Arenas Says He Cooked Melo, LeBron & Team USA Before Dropping 60 on Kobe — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=FUKj-O3g7Yc
+
+_Speakers identified: Gilbert Arenas, Carmelo Anthony, The Kid Mero, Rudy Gay_
+
+**1. Gilbert Arenas — "I cooked the entire team." — Gilbert Arenas claims he dominated Team USA in 2006 scrimmage** [00:00](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=0s)
+
+**Gilbert Arenas:** "You said in the 2006 scrimmage that you cooked the entire team. We don't have footage, we just got eyewitnesses."
+
+**Carmelo Anthony:** "You got to remember, cooking is any bucket I scored. You got to look at it, this is the best five I've ever played against. This is the best five ever. Think about the five I'm practicing against. **Chris Paul**, **Dwyane Wade**, **LeBron James**, **Dwight Howard**, and the best five I've ever played against."
+
+https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=0s
+
+**2. Gilbert Arenas — "I would never as an NBA player ever play against a five like that to test my talent." — Gilbert Arenas explains his mindset playing against Team USA stars** [00:54](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=54s)
+
+Gilbert Arenas: "I would never as an NBA player ever play against a five like that to test my talent. Remember, I'm playing against the second unit in practice. So this is the best five I'm ever going to play against. So I took this shit seriously. I knew I wasn't getting on the court. One, I got Adidas on. Two, I probably shouldn't have been there. But the fact that I'm there, I got to take advantage of it. So you got to look at my team: **Kirk Hinrich**, **Antawn Jamison**, he ain't getting the ball. I got Mike Miller, **Brad Miller**, **Joe Johnson**, **Elton Brand**. I didn't pass them the ball either."
+
+https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=54s
+
+**3. Gilbert Arenas — "What coach kept doing is putting their ass in the zone." — Gilbert Arenas describes his scoring strategy against Team USA** [01:58](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=118s)
+
+Gilbert Arenas: "What coach kept doing is putting their ass in the zone. So they were in the zone. They ain't got nobody to guard me. And he's a little shorter, swing that bitch over here. Swing it over here. So I got every shot because I don't have anybody that's shooting the ball on my team. So the score is like 21-9. I got nine. I'm killing. I don't give a fuck what they're talking about. I got all nine. I'm killing these boys out here. I'm cooking. 21-9, I'm up, bro. 23-3. I got the three. I'm killing these boys. What they talking about? I am the team. They can't stop me for nothing."
+
+https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=118s
+
+**4. Gilbert Arenas — "I'm a six-man, seven-man. I'm not a pure point." — Gilbert Arenas assesses his role and skills compared to teammates** [03:00](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=180s)
+
+Gilbert Arenas: "I'm a six-man, seven-man. I'm not a pure point. And if you do put me at the shooting guard, **Dwyane Wade** is a better shooting guard than me with this roster. Better point guard with this roster than a **Chris Paul**. Even coming off the bench, I'm more of a shooting guard than I am a passing to these guys. So you need **Kirk Hinrich**. So I've already assessed that anyway. So right now, I'm just having fun and just trying to get this experience. But I never in a million years thought I'd be like Bruce Bowen and **Antawn Jamison**."
+
+https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=180s
+
+**5. Gilbert Arenas — "At some point, you're going to need me. I can stop somebody." — Gilbert Arenas on his value as a secondary scorer** [03:55](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=235s)
+
+Gilbert Arenas: "At some point, you're going to need me. I can stop somebody. He can't go out there and give you 30 if somebody go down. That's what he can't do. I can do that. If you do need another shooter, I got the pistols with me. I got the poles. I got them in the game, listen, I got them in the locker room. You damn sure I got them in this one too, you know? This is feeble rules. I got that shit on."
+
+https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=235s
+
+**6. Gilbert Arenas — "What was the better feeling? Getting nine points over that team or getting 60 against Kobe?" — Gilbert Arenas compares scoring on Team USA versus the Lakers** [06:20](https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=380s)
+
+Gilbert Arenas: "There's no better team you'll ever be able to test your skills against than that five. So what was the better feeling? Getting nine points over that team and that's 21-9 scrimmage or getting 60 against Kobe and the Lakers? I'm playing the 60, though. See, because I'm trying to figure out did I have the Kobe tattoo at the time? I'm a Laker fan. So, the 60 because I had like 200 people there. As a kid growing up, my name as still to today, you know, the most points as an opponent is me. But as a basketball hooper, that USA, scoring on the USA team."
+
+https://www.youtube.com/watch?v=FUKj-O3g7Yc&t=380s
+
+---
+
 ## What Can We Learn From NBA Summer League? — *Shump Street*
 
 Source: https://www.youtube.com/watch?v=NNG45tL_zic
@@ -408,75 +452,77 @@ https://www.youtube.com/watch?v=NNG45tL_zic&t=227s
 
 ---
 
-## Biggest NBA Offseason Winners & Losers - A SHOCKING New Trend + NBA Ownership Updates — *NBA on ESPN*
+## Channing Frye Reveals the Moment He Knew LeBron’s Brain Was DIFFERENT — *Road Trippin*
 
-Source: https://www.youtube.com/watch?v=Ozlxr2-4VEc
+Source: https://www.youtube.com/watch?v=nr2XQrdnjdQ
 
-_Speakers identified: Brian Windhorst, Tim MacMahon, Bobby Marks, Tim Bontemps_
+_Speakers identified: Channing Frye_
 
-**1. Brian Windhorst — "the league right now is essentially on hold until LeBron makes up his mind" — NBA transactions are currently on hold pending LeBron James' decision** [03:02](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=182s)
+**1. Channing Frye — "This is when I realized his brain is like a freaking computer." — Channing Frye on LeBron James's elite basketball IQ and anticipation** [00:00](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=0s)
 
-**Brian Windhorst:** "The league is essentially on hold at this point with LeBron. We know there could be some extensions, I suppose, but in terms of players moving, the league right now is essentially on hold until LeBron makes up his mind. Would you agree?"
+Channing Frye: "This is when I realized his brain is like a freaking computer. Him and **T-Lue** put me in every spot and literally showed me how he was going to throw me the ball if somebody did this. That was like, okay, you different, brother."
 
-**Bobby Marks:** "I would fully agree. We saw **Jordan Walsh** for a little minor three-year, $15 million deal on Thursday morning, but everyone else, the transaction page has not moved at all over the last week here."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=0s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=182s
+**2. Channing Frye — "They're not willing to just pay hundreds of millions of dollars for a team that might win it." — New NBA owners are hesitant to pay for championship-level teams** [00:13](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=13s)
 
-**2. Bobby Marks — "I've been inspired me to pick the team that Tim Duncan once played on, the San Antonio Spurs" — San Antonio Spurs are the biggest winners of the NBA offseason** [09:21](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=561s)
+Channing Frye: "New owners are willing to shell out a lot of money, but they're not willing to just pay hundreds of millions of dollars for a team that might win it."
 
-Bobby Marks: "I've been inspired me to pick the team that **Tim Duncan** once played on, the San Antonio Spurs. **Tobias Harris** to your contract, $15 million, and more important, the old five-year, $252 million without any escalator clauses, **Victor Wembanyama** that drew the ire of David Kelly, the executive director of the Players Association as far as the ability to give back and not put that escalator clause in there that could have earned him potentially another $50 million that will help keep **Stephon Castle** and **Dylan Harper** in a Spurs uniform for the foreseeable future. I would say that would be my big winner of the offseason."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=13s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=561s
+**3. Channing Frye — "If you really think about what Philly is now, they're going to have to blow that team up." — Philadelphia 76ers will likely need to rebuild within two years** [00:20](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=20s)
 
-**3. Tim MacMahon — Charlotte Hornets are the biggest winners for acquiring future draft assets** [12:11](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=731s)
+Channing Frye: "If you really think about what Philly is now, they're going to have to blow that team up somehow in the next two years."
 
-Tim MacMahon: "They set themselves up to have a higher ceiling down the road, and that's the Charlotte Hornets. Getting that Suns first-round pick was getting traded. They won a race for the Suns first-round pick in 2033. To get that pick for **Miles Bridges**, that was really good work. And then the LaMelo trade is going to be a polarizing deal and there is a chance that he could make them look very bad for it. Nobody doubts his talent, maybe he is coming off his best year, and maybe with a change of scenery, sliding to kind of the shotgun role in Minnesota, LaMelo's career very well could take off. But I haven't heard anybody tell me they thought that was a bad deal for the Hornets. On the contrary, I've heard people say, hey, they did a great job of letting him restore his value and pouncing as soon as they got an opportunity to get a first-round pick in return. And they have a very clear vision for the culture that they want for the Charlotte Hornets as they build around **Brandon Miller** and **Cason Wallace**."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=20s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=731s
+**4. Channing Frye — "Jaylen Brown got traded because the way our CBA is set up, you can't be in the second apron." — Jaylen Brown's trade was a strategic move by Celtics ownership** [04:06](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=246s)
 
-**4. Brian Windhorst — "I'm just going to have to go with Philadelphia because they took a 36-year-old Paul George" — Philadelphia 76ers are winners for signing Paul George to a contract** [15:52](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=952s)
+Channing Frye: "**Jaylen Brown** got traded because the way our CBA is set up, you can't be in the second apron year after year after year, especially with not new owners. New owners are willing to shell out a lot of money, but they're not willing to just pay hundreds of millions of dollars for a team that might win it."
 
-Brian Windhorst: "I'm just going to have to go with Philadelphia because they took a 36-year-old **Paul George** who had two years left on his contract at the max. I don't know if I'd call it a toxic contract, but certainly one of the worst contracts in the league. **Jaylen Brown**, whatever you want to say, he's under contract for three more seasons. He's a top 10 player in the league, top 15 depending on what your viewpoint is. He's looking for revenge. And it was a phenomenal addition as far as just a talent upgrade for the Sixers. I am curious about the fit with or without LeBron. I am very curious about how it all fits. Regardless of how it all may work out, because it's not an ideal fit as you said, you got to give the Sixers front office, **Mike Gansey**, first-year general manager, credit for that one."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=246s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=952s
+**5. Channing Frye — "The Timberwolves are going to be a top four team in the Western Conference for sure." — Timberwolves are a top-four team in the Western Conference** [05:53](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=353s)
 
-**5. Tim MacMahon — "it's a loss when you have to or decide to or are pressured to by ownership make a series of trades" — Oklahoma City Thunder are the biggest losers for trading key contributors** [18:09](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1089s)
+Channing Frye: "The Timberwolves are going to be a top four team in the Western Conference for sure. I don't know if the Rockets have made any changes other than get an injured guy back. They haven't addressed anything. They're the same team and you got to change something up. You got to bring in some energy there."
 
-Tim MacMahon: "I'm going to go with the Oklahoma City Thunder. It's a loss when you have to or decide to or are pressured to by ownership make a series of trades that are motivated purely on dumping salary and dropping your luxury tax payment. They backfilled, they spent a first-round pick on a guard, **Cason Wallace**, a lottery pick on a big man, **AJ Mitchell**, who I think has got a chance to be really interesting. The **Isaiah Hartenstein** deal was great value for them and it was great value for them because Hartenstein understood the crunch they were in and was willing to work with them to take a reduced salary to get locked in. But look, it's a loss when you have to trade a year and change out of winning the championship three guys who were significant contributors to that championship. And I understand Isaiah, Joe, and **Aaron Wiggins** fell to the fringes of the rotation in the playoffs, but their depth took a big hit. **Lu Dort**, you can argue whether he was playing too much against the Spurs, but he's been a huge piece for them for years. **Sam Presti** went on the record with **Justin Martinez** with the Oklahoma and basically saying, this is to set us up to be able to keep this team together moving forward, so you've got to keep those guys, those key guys."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=353s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1089s
+**6. Channing Frye — "I realized his brain is like a freaking computer because he put me in every spot." — LeBron James and Tyronn Lue integrating Channing Frye into offense** [06:54](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=414s)
 
-**6. Bobby Marks — "they didn't do anything. They got a D, which is comparable to my freshman year at Marist College" — New Orleans Pelicans are losers for their lack of offseason moves** [23:20](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1400s)
+Channing Frye: "When I first got traded, **Richard Jefferson** and **Tyronn Lue** asked me to wait after practice. They said they were going to put this play in just for me. **LeBron James** asked if I remembered horns up Memphis twist. I asked how he knew that, and he said he watched film on my best years in Phoenix and that play was really nasty. He broke it down, asking if there was a side I liked. He noted **Tristan Thompson** likes to jump from one side and asked if I could shoot from the other. He asked if we could put me in the corner because he wanted to see the big man make a decision. He noted **Steve Nash** was smaller, so he had to go one way because he couldn't throw over the top where he could. This is when I realized his brain is like a freaking computer because he and **Tyronn Lue** put me in every spot and literally showed me how he was going to throw me the ball if somebody did this."
 
-Bobby Marks: "I'm going to pick New Orleans. They didn't do anything. They got a D, which is comparable to my freshman year at Marist College. That was a number that was right up there. They hired **Jamal Mosley**, who I like a lot, but they went 26 and 56 and their offseason signing was **DeAndre Jordan**. I could be totally wrong three months or four months from now and **Jamal Mosley** could take this same team of Zion and Herb Jones and Trey Murphy and Jordan Poole and Dejounte Murray and you know, this whole group, Derek Queen who they drafted a lot year ago and get them into contending for a lottery position. I could be totally wrong with it, but I just look at it when you're 26 and 56, it's probably not the right group to roll back."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=414s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1400s
+**7. Channing Frye — "I think a regular season MVP is more impactful to a player's legacy than a Finals MVP." — Regular season MVP is more impactful than Finals MVP** [13:35](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=815s)
 
-**7. Brian Windhorst — "I felt that they were a team that was the number one seed in the Eastern Conference" — Detroit Pistons are losers for failing to upgrade their roster** [28:47](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1727s)
+Channing Frye: "I think a regular season MVP is more impactful to a player's legacy than a Finals MVP because I believe it's easier for someone to be the best player in a game of seven series versus being the best in the NBA over an 82 game season. When you're in NBA Finals, that's the men in black, the best of the best of the best of the best, sir. And those you are playing somebody who has studied you for weeks, maybe almost months. There is nothing they don't know about your basketball game. Any flaw, any crack in the armor, anything, they're going to get exposed. So to be a Finals MVP means that you are the best player on the best stage and that weight, even though it is a best of seven, is very different. The pressure, the weight, the everything about it is very different. When you are the best player over an 82 game season, you are still great. You are still great. You are amazing. It is about your consistent preparation to be the best player night in and night out. There have been great MVPs that are okay during the playoffs. There's really never been a Finals MVP that hasn't been good during the NBA NBA season, other than **Kawhi Leonard** where he was hurt."
 
-Brian Windhorst: "I felt that they were a team that was the number one seed in the Eastern Conference and had a chance to seriously upgrade, and I don't think they seriously upgraded. Maybe they would argue that they upgraded. They resigned **Kevin Huerter** and they brought in **Isaiah Joe**. I mean, and look, **Trajan Langdon**'s track record of making decisions with this team has been pretty good, but I just, you know, and I think that they're just, they're they're very cautious of what they're paying **Cade Cunningham**, what they're going to have to pay **Ausar Thompson**, and what they're going to have to pay **Jalen Duren**. They're just very cautious, I think, of taking on another big salary. And that may end up being a correct assessment of the situation, but I felt that they were a team that was the number one seed in the Eastern Conference and had a chance to seriously upgrade, and I don't think they seriously upgraded. They lost Tobias Harris and Caris LeVert. They traded **Isaiah Stewart**. Now, they obviously believe **Paul Reed** will fit into that role. Like, you know, I'm not, I mean, and look, **Trajan Langdon**'s track record of making decisions with this team has been pretty good, but I just, you know, and I think that they're just, they're they're very cautious of what they're paying **Cade Cunningham**, what they're going to have to pay **Ausar Thompson**, and what they're going to have to pay **Jalen Duren**. They're just very cautious, I think, of taking on another big salary."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=815s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1727s
+**8. Channing Frye — "If they're going to give it to you, you take it." — Player bonuses tied to 65-game rule are fair** [15:49](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=949s)
 
-**8. Brian Windhorst — "they got Donovan Mitchell into this contract extension, which is a certainly something that was not 100% guaranteed" — Cleveland Cavaliers are a team that could go either way** [30:12](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1812s)
+Channing Frye: "If they're going to give it to you, you take it. But also, teams can sit you down. So you got to have good relationship with your organization because they may say, hey, you're going to sit this game out and you say, okay. And then you twist an ankle and now you're at 63. So now you don't get a bonus. Maybe they don't bring you back. So that happens too. So yes, it's it's fair because it's fair and love and war on both sides."
 
-Brian Windhorst: "They got **Donovan Mitchell** into this contract extension, which is a certainly something that was not 100% guaranteed and they locked him down. It's a bunch of money, Bobby. I can still close my eyes and see you tweeted out the whiteboard of Donovan's year-by-year contracts when it was agreed to and the last year was 272. So, I'm writing a factor fiction article and one of the things is about players giving back a little bit. And you know, Victor, and Brunson, Michael Bridges, guys like that. And then, but then you go through the guys that have, you know, listen, it's their money, they have the right to do whatever they want. But you know, this is, you know, Donovan signed, I think this is the second time he signed extensions in two, two years, right, 24 and then 26. And the only the only concern like and I just I never think those contracts age well. I just, no, and especially when there's 75.5 in the last year. Well, what you what are you going to do? What's your options, right? Well, no, you got to you got to do it, but I I I I think the Cavs are going to wager that they'll take the next two seasons of two, three seasons of Donovan and understand that they may have to deal with it on the back end, but certainly the guy's been all-NBA two years in a row."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=949s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=1812s
+**9. Channing Frye — "If Kyrie misses that game winner in game 7, LeBron leaves, KD never joins the warriors." — LeBron James would not have left Cleveland if they won in 2016** [16:26](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=986s)
 
-**9. Brian Windhorst — "the rhetoric between the politicians and the Blazers organization is deteriorating" — Portland Trail Blazers are facing a potential all-out war with local leadership** [50:02](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=3002s)
+Channing Frye: "Should have, could have, would have, and **LeBron** wouldn't have left. I think **KD** would have never came and we would have beat the Warriors next year. That's really what what happened and we might have won the next four four championships."
 
-Brian Windhorst: "The rhetoric between the politicians and the Blazers organization is deteriorating. And **Bill Oram** of the Portland Oregonian got a hold of what he calls a top Blazers official. I don't know what that means, but the freedom with which this individual speaks with is with the kind of thrust that leads you to believe it's a very, very high Blazers official. Because, you know, there's been a lot of back and forth and machinations that have happened here, and if you're a Blazers fan, maybe you followed them, there's no way that I could completely summarize them here. But, I will just say that on Monday, the Blazers Board of Governors, which is essentially, I should say Board of Directors, which is essentially their owners, have a meeting, and I have no idea what's going to come out of that meeting, but it could be the declaration of all-out war."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=986s
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=3002s
+**10. Channing Frye — "No, defensive player is defensive player." — Defensive Player of the Year should not be split by position** [16:57](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1017s)
 
-**10. Tim MacMahon — "one of the greatest things that I did at the Nets was the ability to have we practiced at the Kremlin" — Tim MacMahon on his former owner's best decision at the Nets** [2:00:03](https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=7203s)
+Channing Frye: "No, defensive player is defensive player. And just because Wembanyama exists, there's been a bunch of tall guys that have played in the NBA and to get a unanimous defensive player of the year just shows you guys just don't have a chance. I mean, he just that good. A third team I can agree with. I think there are enough players who hang their hat every day on defending need to be acknowledged. I think a lot of people get caught up in the blocks and steals, but there are guys that are just lockdown defenders statistically that make you shoot the worst shot in your repertoire every single night."
 
-**Tim MacMahon:** "I will say this about my former owner, that probably out of one of the greatest things that I did at the Nets was the ability to have we practiced at the Kremlin."
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1017s
 
-**Brian Windhorst:** "What was the worst thing you did with the Nets?"
+**11. Channing Frye — "The Hawks were mid. I think the Hawks are done being mid." — Atlanta Hawks are no longer a mid-tier team** [18:03](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1083s)
 
-https://www.youtube.com/watch?v=Ozlxr2-4VEc&t=7203s
+Channing Frye: "The Hawks were mid. I think the Hawks are done being mid. Adding Lou Dort, I think they added Wiggins was the right one. They're building a great base and I think **Jaylen Johnson** is a great player. They just need a star. They can go get a star, right? They can say, hey, let's go for it. Let's go get a star or they're going to develop a homegrown star. But I think no, the Hawks are not mid anymore, 2026, but they were mid for about six years, seven years, 10 years, 10 years probably."
+
+https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1083s
 
 ---
 
@@ -569,172 +615,6 @@ https://www.youtube.com/watch?v=SyP0sBIS2MQ&t=1716s
 Chris Mannix: "He has some wild ideas. Somebody told me recently that he was asking some personnel about why **Christian Wood** was no longer in the NBA. Because I think he looks at the numbers that **Christian Wood** has put up and sees like a guy that could potentially, you know, in Dallas he was like nearly a double-double guy. Um, it will give you numbers. But the reality is, as you and I both know, **Christian Wood** is just proven to be not a winning player. That's the kind of stuff where you need people in your front office to kind of tell you like, nah, that ain't it. Like that ain't it."
 
 https://www.youtube.com/watch?v=SyP0sBIS2MQ&t=1824s
-
----
-
-## 🚨EMERGENCY POD🚨 LeBron Signs with 76ers REACTION — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=bG5Gv97Mfc4
-
-_Speakers identified: Brian Windhorst, Bobby Marks, Nick Friedell_
-
-**1. Brian Windhorst — "he has chosen the number one thing is winning a championship immediately" — LeBron James prioritized winning a championship immediately with the 76ers** [00:48](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=48s)
-
-Brian Windhorst: "I believe that there are two reasons why he chose the 76ers. As he said in his comments that he made on social media after it was announced, he has chosen the number one thing is winning a championship immediately, which is not unheard of or shocking. It wasn't 100% clear whether winning a championship this upcoming season was priority one. It was chasing happiness, and we didn't know, did happiness mean where his family was comfortable? In fact, he openly said in his comments that family wasn't a priority here. Once he said, now that we know what he was thinking, and he said that winning a championship immediately this year was his priority, I think that put Golden State and Miami off the list, because I don't think either of those teams could win a championship immediately with him joining."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=48s
-
-**2. Brian Windhorst — "their centerpiece player or a centerpiece player is a clutch client, which is Tyrese Maxey" — Tyrese Maxey's status as a clutch client helped the 76ers** [02:00](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=120s)
-
-Brian Windhorst: "The other reason that was very much in the favor of the 76ers was that their centerpiece player or a centerpiece player is a clutch client, which is **Tyrese Maxey**. Having a comfort level there, going into a situation where there's going to have to be sharing of the ball, relying on having that basis there. **Nick Nurse**, the coach, is a clutch client too. I don't think that is as important, but it's a factor."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=120s
-
-**3. Bobby Marks — "if you had this roster after your fantasy basketball draft, you'd feel great" — The 76ers roster is loaded with talent for a championship run** [04:06](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=246s)
-
-Bobby Marks: "If you look at their roster, this is a hell of a roster. If you had this roster after your fantasy basketball draft, you'd feel great. Wow, this is a ton of talent. These are a bunch of guys who've put up big numbers. I'm fascinated and curious by exactly how this all fits on the floor. You've got a lot of guys who have the right to feel like they should be the number one option. There's going to have to be some sacrifice, there's going to have to be some big figuring out of how all that talent meshes together."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=246s
-
-**4. Bobby Marks — "the Jaylen Brown trade doesn't happen, if it doesn't happen, they're not probably in this mix" — The Jaylen Brown trade was the catalyst for the 76ers' success** [05:13](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=313s)
-
-Bobby Marks: "I go back to, feels like it was years ago, but it was only a month ago when Brian said, go do something to these teams when he was told we're talking about LeBron. He says, go make a move. Go do something, right? If you want him, go do something. And this was before Philadelphia made the trade for **Jaylen Brown**. And I just look at that trade basically putting them in, not, you know, putting them in the conversation with LeBron. Like the **Jaylen Brown** trade doesn't happen, if it doesn't happen, they're not probably in this mix of teams here and everything like that."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=313s
-
-**5. Brian Windhorst — "I felt like the Cavs should have considered trading for Jaylen Brown" — The Cavaliers should have traded for Jaylen Brown** [07:34](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=454s)
-
-Brian Windhorst: "I felt like the Cavs should have considered trading for **Jaylen Brown**. This was during the free agency time. I thought, when it was known that LeBron was a, you know, because the when when when Giannis was available, we didn't necessarily know LeBron wasn't going to be a Laker. You could have guessed, but we didn't know for sure. We did know that when **Jaylen Brown** was definitely available, and the Cavs had the Cavs could, I think it would have taken **Evan Mobley**."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=454s
-
-**6. Brian Windhorst — "the 76ers have powered up" — The 76ers have significantly upgraded their roster** [09:16](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=556s)
-
-Brian Windhorst: "They had a second-round pick, **Malik Thomas**, who had a good summer league. That's what they added. So the Cavs, you know, you look at, you know, you compare it to the 76ers and the 76ers have powered up. And I will say this, Bobby, Boston made their Jaylen Brown decision for various reasons, they believed in it and made the decision. But Boston has to be feeling a certain way right now because the Eastern Conference is going to be difficult for them to win, I think."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=556s
-
-**7. Bobby Marks — "Jaylen Brown was not about money" — The Jaylen Brown trade was not about money** [10:40](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=640s)
-
-Bobby Marks: "Everybody gets caught up on the apron in Boston. They traded a max for a max. **Jaylen Brown** was not about money."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=640s
-
-**8. Bobby Marks — "they indirectly delivered Jrue Holiday to Boston" — The Damian Lillard trade indirectly helped the Celtics** [11:12](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=672s)
-
-Bobby Marks: "It's kind of like when Milwaukee made the deal to get Dame, which I liked at the time and boy was I wrong about that. It blew up in their face. But in making that deal, it's like they indirectly delivered **Jrue Holiday** to Boston and **Jrue Holiday** was a finishing piece to the Celtics championship puzzle."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=672s
-
-**9. Bobby Marks — "I did not feel that Philly was a great fit for him" — LeBron James' fit in Philadelphia is questionable due to the pecking order** [13:09](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=789s)
-
-Bobby Marks: "I did not feel that Philly was a great fit for him just because I don't know where he is like in the pecking order. And there was clear frustration to the point where he said he considered retirement about this season in LA where he ended up being distant third in the pecking order offensively, even though he thrived in that role. And now it's like, look, Embiid's going to need the ball. **Jaylen Brown** clearly enjoys being the number one guy. **Tyrese Maxey** has thrived as the number one guy. Is LeBron willing to kind of be the old wise facilitator and distributor first and foremost?"
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=789s
-
-**10. Brian Windhorst — "VJ Edgecombe, Tyrese Maxey and Jaylen Brown are going to be the heavy lifters" — LeBron James will have a significant role, but not in back-to-backs** [14:52](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=892s)
-
-Brian Windhorst: "My speculation is that **VJ Edgecombe**, **Tyrese Maxey** and **Jaylen Brown** are going to be the heavy lifters during the regular season. And obviously LeBron is going to be have a have a significant role. But LeBron is not going to play in back-to-backs. There is going to be times when he takes some time off. You're going to want LeBron and Embiid ready to go for April. And you do what you have to do to have LeBron and Embiid ready to go for April."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=892s
-
-**11. Bobby Marks — "if you sign a one-year veteran deal, for cap purpose, cap tax purposes, 2.4 million counts" — A one-year veteran deal counts against the cap** [16:53](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1013s)
-
-Bobby Marks: "So when you if you sign a one-year veteran deal, for cap purpose, cap tax purposes, 2.4 million counts against the cap. It doesn't matter if you're 10 years of service or 5 years of service, 2.4 million. Because this is a two-year deal, which is 3.9 in the first year, there is no, there is no, I guess salary reimbursement. The full amount counts against the cap."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1013s
-
-**12. Brian Windhorst — "they are going to have to waive a couple of players" — The 76ers must waive players to sign LeBron James** [18:17](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1097s)
-
-Brian Windhorst: "Right now, they have 14 players under contract and they and they only have 3.3 million dollars under their hard cap. So they are going to have to waive a couple of players."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1097s
-
-**13. Brian Windhorst — "if you want us to sign another player, Kentavious Caldwell-Pope for example, you need to sign a one-year deal" — LeBron James may need to sign a one-year deal to add another player** [19:10](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1150s)
-
-Brian Windhorst: "They may come to LeBron and say, LeBron, if you want us to sign another player, **Kentavious Caldwell-Pope** for example, you need to sign a one-year deal. Is that correct?"
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1150s
-
-**14. Brian Windhorst — "I wouldn't be surprised if we go tripleheader opening night" — The 76ers could open the season with a tripleheader** [24:43](https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1483s)
-
-Brian Windhorst: "I wouldn't be surprised if we go tripleheader opening night. It's starting having a game at 4:00. Having a I I wouldn't be I'm and I'm sure I'll get aggro and get like heck on this and I'm just speaking out loud. I wouldn't be I wouldn't be surprised if we go like, you know, if Boston, Philly at 4, someone at New York at 7 and then the Western Conference game at night."
-
-https://www.youtube.com/watch?v=bG5Gv97Mfc4&t=1483s
-
----
-
-## Channing Frye Reveals the Moment He Knew LeBron’s Brain Was DIFFERENT — *Road Trippin*
-
-Source: https://www.youtube.com/watch?v=nr2XQrdnjdQ
-
-_Speakers identified: Channing Frye_
-
-**1. Channing Frye — "This is when I realized his brain is like a freaking computer." — Channing Frye on LeBron James's elite basketball IQ and anticipation** [00:00](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=0s)
-
-Channing Frye: "This is when I realized his brain is like a freaking computer. Him and **T-Lue** put me in every spot and literally showed me how he was going to throw me the ball if somebody did this. That was like, okay, you different, brother."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=0s
-
-**2. Channing Frye — "They're not willing to just pay hundreds of millions of dollars for a team that might win it." — New NBA owners are hesitant to pay for championship-level teams** [00:13](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=13s)
-
-Channing Frye: "New owners are willing to shell out a lot of money, but they're not willing to just pay hundreds of millions of dollars for a team that might win it."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=13s
-
-**3. Channing Frye — "If you really think about what Philly is now, they're going to have to blow that team up." — Philadelphia 76ers will likely need to rebuild within two years** [00:20](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=20s)
-
-Channing Frye: "If you really think about what Philly is now, they're going to have to blow that team up somehow in the next two years."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=20s
-
-**4. Channing Frye — "Jaylen Brown got traded because the way our CBA is set up, you can't be in the second apron." — Jaylen Brown's trade was a strategic move by Celtics ownership** [04:06](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=246s)
-
-Channing Frye: "**Jaylen Brown** got traded because the way our CBA is set up, you can't be in the second apron year after year after year, especially with not new owners. New owners are willing to shell out a lot of money, but they're not willing to just pay hundreds of millions of dollars for a team that might win it."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=246s
-
-**5. Channing Frye — "The Timberwolves are going to be a top four team in the Western Conference for sure." — Timberwolves are a top-four team in the Western Conference** [05:53](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=353s)
-
-Channing Frye: "The Timberwolves are going to be a top four team in the Western Conference for sure. I don't know if the Rockets have made any changes other than get an injured guy back. They haven't addressed anything. They're the same team and you got to change something up. You got to bring in some energy there."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=353s
-
-**6. Channing Frye — "I realized his brain is like a freaking computer because he put me in every spot." — LeBron James and Tyronn Lue integrating Channing Frye into offense** [06:54](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=414s)
-
-Channing Frye: "When I first got traded, **Richard Jefferson** and **Tyronn Lue** asked me to wait after practice. They said they were going to put this play in just for me. **LeBron James** asked if I remembered horns up Memphis twist. I asked how he knew that, and he said he watched film on my best years in Phoenix and that play was really nasty. He broke it down, asking if there was a side I liked. He noted **Tristan Thompson** likes to jump from one side and asked if I could shoot from the other. He asked if we could put me in the corner because he wanted to see the big man make a decision. He noted **Steve Nash** was smaller, so he had to go one way because he couldn't throw over the top where he could. This is when I realized his brain is like a freaking computer because he and **Tyronn Lue** put me in every spot and literally showed me how he was going to throw me the ball if somebody did this."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=414s
-
-**7. Channing Frye — "I think a regular season MVP is more impactful to a player's legacy than a Finals MVP." — Regular season MVP is more impactful than Finals MVP** [13:35](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=815s)
-
-Channing Frye: "I think a regular season MVP is more impactful to a player's legacy than a Finals MVP because I believe it's easier for someone to be the best player in a game of seven series versus being the best in the NBA over an 82 game season. When you're in NBA Finals, that's the men in black, the best of the best of the best of the best, sir. And those you are playing somebody who has studied you for weeks, maybe almost months. There is nothing they don't know about your basketball game. Any flaw, any crack in the armor, anything, they're going to get exposed. So to be a Finals MVP means that you are the best player on the best stage and that weight, even though it is a best of seven, is very different. The pressure, the weight, the everything about it is very different. When you are the best player over an 82 game season, you are still great. You are still great. You are amazing. It is about your consistent preparation to be the best player night in and night out. There have been great MVPs that are okay during the playoffs. There's really never been a Finals MVP that hasn't been good during the NBA NBA season, other than **Kawhi Leonard** where he was hurt."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=815s
-
-**8. Channing Frye — "If they're going to give it to you, you take it." — Player bonuses tied to 65-game rule are fair** [15:49](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=949s)
-
-Channing Frye: "If they're going to give it to you, you take it. But also, teams can sit you down. So you got to have good relationship with your organization because they may say, hey, you're going to sit this game out and you say, okay. And then you twist an ankle and now you're at 63. So now you don't get a bonus. Maybe they don't bring you back. So that happens too. So yes, it's it's fair because it's fair and love and war on both sides."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=949s
-
-**9. Channing Frye — "If Kyrie misses that game winner in game 7, LeBron leaves, KD never joins the warriors." — LeBron James would not have left Cleveland if they won in 2016** [16:26](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=986s)
-
-Channing Frye: "Should have, could have, would have, and **LeBron** wouldn't have left. I think **KD** would have never came and we would have beat the Warriors next year. That's really what what happened and we might have won the next four four championships."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=986s
-
-**10. Channing Frye — "No, defensive player is defensive player." — Defensive Player of the Year should not be split by position** [16:57](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1017s)
-
-Channing Frye: "No, defensive player is defensive player. And just because Wembanyama exists, there's been a bunch of tall guys that have played in the NBA and to get a unanimous defensive player of the year just shows you guys just don't have a chance. I mean, he just that good. A third team I can agree with. I think there are enough players who hang their hat every day on defending need to be acknowledged. I think a lot of people get caught up in the blocks and steals, but there are guys that are just lockdown defenders statistically that make you shoot the worst shot in your repertoire every single night."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1017s
-
-**11. Channing Frye — "The Hawks were mid. I think the Hawks are done being mid." — Atlanta Hawks are no longer a mid-tier team** [18:03](https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1083s)
-
-Channing Frye: "The Hawks were mid. I think the Hawks are done being mid. Adding Lou Dort, I think they added Wiggins was the right one. They're building a great base and I think **Jaylen Johnson** is a great player. They just need a star. They can go get a star, right? They can say, hey, let's go for it. Let's go get a star or they're going to develop a homegrown star. But I think no, the Hawks are not mid anymore, 2026, but they were mid for about six years, seven years, 10 years, 10 years probably."
-
-https://www.youtube.com/watch?v=nr2XQrdnjdQ&t=1083s
 
 ---
 
