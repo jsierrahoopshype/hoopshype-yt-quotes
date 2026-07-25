@@ -154,44 +154,6 @@ https://www.youtube.com/watch?v=8-Gj1v_YdW8&t=1089s
 
 ---
 
-## LEBRON'S PHINAL DECISION 🚨 Evaluating LeBron James' fit in Philly + 76ers title odds | SportsCenter — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=I4av4H6qgYE
-
-_Speakers identified: Caitlin Clark, Dwyane Wade, Allen Iverson, Charles Barkley, Stephen A. Smith, Vincent Goodwill, Bobby Marks, Chiney Ogwumike, LeBron James, Brian Windhorst, Tyler Fulghum, Skubie Mageza, Tyrese Maxey_
-
-**1. Vincent Goodwill — "LeBron James put them at the top of the Eastern Conference when he said he could lead them" — LeBron James' move to the 76ers changes the Eastern Conference landscape** [01:56](https://www.youtube.com/watch?v=I4av4H6qgYE&t=116s)
-
-Vincent Goodwill: "It clearly looks to **LeBron James** like he put them at the top of the Eastern Conference when he said, 'Hey, I feel like I can lead this team to a championship.' I'm not sure it puts them above the New York Knicks. The New York Knicks have the sweat equity, they got the **Larry O'Brien** trophy, they ran through the Eastern Conference playoffs. The 76ers in acquiring **Jaylen Brown** and now **LeBron James** look a lot more dynamic, they look a lot more different, and maybe a lot less dependent on **Joel Embiid**. **LeBron James** to be a minimum-ish type of player is still putting up 21, 7, and 6 on a nightly basis. A lot of talent in Philadelphia. It's about how they make it fit and who's going to make the sacrifices."
-
-https://www.youtube.com/watch?v=I4av4H6qgYE&t=116s
-
-**2. Bobby Marks — "Every championship team has to do, whether it be financially or on the court, sacrifice" — Sacrifice is the key for the 76ers' new roster to win a championship** [04:48](https://www.youtube.com/watch?v=I4av4H6qgYE&t=288s)
-
-Bobby Marks: "I think it comes down to sacrifice. When you look at three players on the roster with **Joel Embiid**, **Tyrese Maxey**, and **Jaylen Brown** last year, whose usage rate ranked in the top 25, it's the ability to sacrifice offensively. And then you add **LeBron James** to the mix and certainly **VJ Edgecombe**. Each one of those five players, if the goal is to go out and win a championship, and that's what every championship team has to do, whether it be financially or on the court, it's going to have to sacrifice as far as sharing the ball here. And that's going to be the big key for Philadelphia when preseason starts in about a month or two."
-
-https://www.youtube.com/watch?v=I4av4H6qgYE&t=288s
-
-**3. Chiney Ogwumike — "LeBron James has turned the tides of this team, the Philadelphia 76ers" — LeBron James brings championship experience and playmaking to the 76ers** [07:07](https://www.youtube.com/watch?v=I4av4H6qgYE&t=427s)
-
-Chiney Ogwumike: "**LeBron James** has turned the tides of this team, the Philadelphia 76ers. The way I see it is that he brings every intangible that they need to get over the hump: that championship experience, the basketball IQ. But when it pertains to the floor, LeBron is going to boost them when it comes to catch-and-shoot threes. Over two of the last three seasons, he's been 40% in catch-and-shoot threes. And also he's going to boost them in playmaking because over two of the last three seasons, he's averaged around seven assists. They have a lot of off-the-dribble sensational players: **Jaylen Brown**, **Tyrese Maxey**, **VJ Edgecombe**. But what LeBron brings is a strength that they have not had."
-
-https://www.youtube.com/watch?v=I4av4H6qgYE&t=427s
-
-**4. Tyler Fulghum — "I would suggest sitting this out at the moment. You don't need to buy this price" — The 76ers' championship odds are currently too expensive to bet on** [12:06](https://www.youtube.com/watch?v=I4av4H6qgYE&t=726s)
-
-Tyler Fulghum: "Look, it's very simple. Before **LeBron James** was announced that he's going to join the 76ers, 20-to-1 was the price on the 76ers winning the championship. It's now all the way down to 9-to-1 after LeBron is there. So, I would suggest sitting this out at the moment. You don't need to buy this price that's twice as expensive as it was before. If you're lucky enough to get 20-to-1, you're sitting on some great value right now. But I would wait, and maybe the 76ers start slow as they try to integrate all these pieces."
-
-https://www.youtube.com/watch?v=I4av4H6qgYE&t=726s
-
-**5. Tyler Fulghum — "I think this is a 51-win team that could, if everything hits, be closer to a 60-win team" — The 76ers' win total is undervalued despite roster changes** [12:56](https://www.youtube.com/watch?v=I4av4H6qgYE&t=776s)
-
-Tyler Fulghum: "The 76ers won 45 games last year without **Jaylen Brown**, without LeBron, and with Joel in and out of lineup due to injury. Their number for this year is set at just 50.5. That's third in the East. The Celtics have a higher one, the Knicks have a higher one. I think that's a little low. I thought it'd be closer to 52.5 for the 76ers. So, they still have Edgecombe, Maxey, and **Jaylen Brown** who always play, those aren't injury concerns, and those three guys can get you to 50 wins if they play the 75 to 80 games. LeBron, even though he's older, has always been durable. He'll have some rest days. Embiid's the one you really have to worry about, but with those four, and then Embiid as the wild card, I think this is a 51-win team that could, if everything hits, be closer to a 60-win team in the East."
-
-https://www.youtube.com/watch?v=I4av4H6qgYE&t=776s
-
----
-
 ## LeBron Signs with Sixers!!! BEST Starting 5 in NBA?!? — *Run It Back*
 
 Source: https://www.youtube.com/watch?v=OYo24gZfzRw
@@ -356,70 +318,6 @@ https://www.youtube.com/watch?v=ciz0Liz1FXg&t=631s
 
 ---
 
-## Blazers Leaving Portland Becoming More Likely? — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=dWsWGUXF9Q8
-
-_Speakers identified: Brian Windhorst, Tim McMahon, Bobby Marks_
-
-**1. Brian Windhorst — "the rhetoric between the politicians and the Blazers organization is deteriorating" — Deteriorating relationship between Portland politicians and the Blazers organization** [00:04](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=4s)
-
-**Brian Windhorst:** "There is a story written by **Bill Oram** of the Portland Oregonian about the Blazers situation, which is getting worse by the day. The rhetoric between the politicians and the Blazers organization is deteriorating. **Bill Oram** got a hold of what he calls a top Blazers official. I don't know what that means, but the freedom with which this individual speaks with the kind of thrust that leads you to believe it's a very high Blazers official, and that it was certainly with the full blessing of **Tom Dunden**."
-
-**Tim McMahon:** "And that it was certainly with the full blessing of **Tom Dunden**."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=4s
-
-**2. Brian Windhorst — "it could be the declaration of all-out war" — Portland Blazers board of directors meeting could signal team relocation** [01:35](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=95s)
-
-**Brian Windhorst:** "On Monday, the Blazers board of directors, which is essentially their owners, have a meeting. I have no idea what is going to come out of that meeting, but it could be the declaration of all-out war. This is a response to the city sending the Blazers what they wanted in the lease. They want the Blazers to sign a lease to get the money to renovate their arena."
-
-**Tim McMahon:** "What does antipathy mean?"
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=95s
-
-**3. Brian Windhorst — "Why is the city sending this thing knowing we're not going to agree to it?" — Blazers official expresses hostility toward unionized workforce and arena payments** [02:28](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=148s)
-
-Brian Windhorst: "Why is the city sending this thing knowing we're not going to agree to it? said the official, who expressed particular antipathy toward the unionized workforce and annual payment provisions. They want the unionized workforce and they want the Blazers to make annual $3 million payments. He expressed the opposite of support for the idea that they would have to use unionized labor. The city of Portland doesn't even recognize they got a sweetheart deal and they're making it complicated. And if they want to say no, if they don't want us, then that's fine."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=148s
-
-**4. Brian Windhorst — "It's not like we lose money moving the team" — Blazers official claims relocation would not result in financial loss** [03:40](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=220s)
-
-Brian Windhorst: "It's not like we lose money moving the team, the team official said. We might spend money, but we won't lose money. It might be okay to spend a billion dollars on a relocation fee if the value of the team doubles. Of course you would do that. They said it's okay for you to say this in the paper. This was clear."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=220s
-
-**5. Brian Windhorst — "they complained about the lack of sponsorship, local sponsorship and stuff" — Blazers ownership complains about lack of local sponsorship** [04:01](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=241s)
-
-**Brian Windhorst:** "They complained about the lack of sponsorship, local sponsorship and stuff, but that's relatively small. And they also said that this deal is only going to get worse. Basically, the market sucks is what they're saying."
-
-**Tim McMahon:** "Basically, the market sucks and we don't want to be there anyway."
-
-**Bobby Marks:** "This relationship has not been good from the beginning."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=241s
-
-**6. Brian Windhorst — "there was an email that was sent in between the owners where they basically were saying" — Historical context of Blazers ownership's desire to relocate** [04:48](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=288s)
-
-Brian Windhorst: "At one point **Aubrey McClendon**, who has since passed away, he was **Clay Bennett**'s friend and partner. There was an email that was sent in between the owners where they basically were saying, okay, we got the team, now let's move it, essentially. And that was seen as inflammatory. But that was a private email that got released. This is on the record in the newspaper."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=288s
-
-**7. Brian Windhorst — "they let the radio voices go" — Blazers broadcast crew changes and Kevin Calabro's departure** [06:41](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=401s)
-
-Brian Windhorst: "Their broadcast crew, a lot of whom had been there for a lot of years, they let the radio voices go. **Kevin Calabro**, who's been with them for 10 years. **Kevin Calabro** was the voice of the Sonics. The Sonics moved, he became an ESPN, he'd call games for ESPN college and NBA on ESPN. Actually left ESPN because he wanted to call games for a team again. And with the Blazers job came open and I remember talking to him when he left. He was like, yeah, this is a tough decision and in some people would say that this was a step back, but I love being the voice of a team and I'm going to go do it."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=401s
-
-**8. Brian Windhorst — "they offered him a contract that he said on the record was quote subprime" — Blazers offered Kevin Calabro a subprime contract** [07:20](https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=440s)
-
-Brian Windhorst: "They offered him a contract that he said on the record was quote subprime, which I thought was a shot across the bow. Because **Tom Dunden** was known for giving subprime auto loans. That's one of his businesses."
-
-https://www.youtube.com/watch?v=dWsWGUXF9Q8&t=440s
-
----
-
 ## Evan Turner Critiques His Former Team's Cost-Cutting Moves | Chris Mannix & Evan Turner — *Sports Illustrated*
 
 Source: https://www.youtube.com/watch?v=eN0RCBlutPU
@@ -467,6 +365,44 @@ https://www.youtube.com/watch?v=eN0RCBlutPU&t=687s
 Evan Turner: "Shout out to my man **Dan Connor** in Portland. I hope he is still there. People that just know basketball. When you show up, Dan knows 10-year-olds. Like when you see **Christian Wood** to show up and like why don't analytics work with him? It's little things that we always argue. Like analytics is cute, but it doesn't break down who the person is. **Christian Wood**, shout out to Christian, was amazing analytically. And you have to show up and be like, hey, historically he's never been able to be depended on. You want to know why here?"
 
 https://www.youtube.com/watch?v=eN0RCBlutPU&t=742s
+
+---
+
+## LEBRON'S PHINAL DECISION 🚨 Evaluating LeBron James' fit in Philly + 76ers title odds | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=I4av4H6qgYE
+
+_Speakers identified: Caitlin Clark, Dwyane Wade, Allen Iverson, Charles Barkley, Stephen A. Smith, Vincent Goodwill, Bobby Marks, Chiney Ogwumike, LeBron James, Brian Windhorst, Tyler Fulghum, Skubie Mageza, Tyrese Maxey_
+
+**1. Vincent Goodwill — "LeBron James put them at the top of the Eastern Conference when he said he could lead them" — LeBron James' move to the 76ers changes the Eastern Conference landscape** [01:56](https://www.youtube.com/watch?v=I4av4H6qgYE&t=116s)
+
+Vincent Goodwill: "It clearly looks to **LeBron James** like he put them at the top of the Eastern Conference when he said, 'Hey, I feel like I can lead this team to a championship.' I'm not sure it puts them above the New York Knicks. The New York Knicks have the sweat equity, they got the **Larry O'Brien** trophy, they ran through the Eastern Conference playoffs. The 76ers in acquiring **Jaylen Brown** and now **LeBron James** look a lot more dynamic, they look a lot more different, and maybe a lot less dependent on **Joel Embiid**. **LeBron James** to be a minimum-ish type of player is still putting up 21, 7, and 6 on a nightly basis. A lot of talent in Philadelphia. It's about how they make it fit and who's going to make the sacrifices."
+
+https://www.youtube.com/watch?v=I4av4H6qgYE&t=116s
+
+**2. Bobby Marks — "Every championship team has to do, whether it be financially or on the court, sacrifice" — Sacrifice is the key for the 76ers' new roster to win a championship** [04:48](https://www.youtube.com/watch?v=I4av4H6qgYE&t=288s)
+
+Bobby Marks: "I think it comes down to sacrifice. When you look at three players on the roster with **Joel Embiid**, **Tyrese Maxey**, and **Jaylen Brown** last year, whose usage rate ranked in the top 25, it's the ability to sacrifice offensively. And then you add **LeBron James** to the mix and certainly **VJ Edgecombe**. Each one of those five players, if the goal is to go out and win a championship, and that's what every championship team has to do, whether it be financially or on the court, it's going to have to sacrifice as far as sharing the ball here. And that's going to be the big key for Philadelphia when preseason starts in about a month or two."
+
+https://www.youtube.com/watch?v=I4av4H6qgYE&t=288s
+
+**3. Chiney Ogwumike — "LeBron James has turned the tides of this team, the Philadelphia 76ers" — LeBron James brings championship experience and playmaking to the 76ers** [07:07](https://www.youtube.com/watch?v=I4av4H6qgYE&t=427s)
+
+Chiney Ogwumike: "**LeBron James** has turned the tides of this team, the Philadelphia 76ers. The way I see it is that he brings every intangible that they need to get over the hump: that championship experience, the basketball IQ. But when it pertains to the floor, LeBron is going to boost them when it comes to catch-and-shoot threes. Over two of the last three seasons, he's been 40% in catch-and-shoot threes. And also he's going to boost them in playmaking because over two of the last three seasons, he's averaged around seven assists. They have a lot of off-the-dribble sensational players: **Jaylen Brown**, **Tyrese Maxey**, **VJ Edgecombe**. But what LeBron brings is a strength that they have not had."
+
+https://www.youtube.com/watch?v=I4av4H6qgYE&t=427s
+
+**4. Tyler Fulghum — "I would suggest sitting this out at the moment. You don't need to buy this price" — The 76ers' championship odds are currently too expensive to bet on** [12:06](https://www.youtube.com/watch?v=I4av4H6qgYE&t=726s)
+
+Tyler Fulghum: "Look, it's very simple. Before **LeBron James** was announced that he's going to join the 76ers, 20-to-1 was the price on the 76ers winning the championship. It's now all the way down to 9-to-1 after LeBron is there. So, I would suggest sitting this out at the moment. You don't need to buy this price that's twice as expensive as it was before. If you're lucky enough to get 20-to-1, you're sitting on some great value right now. But I would wait, and maybe the 76ers start slow as they try to integrate all these pieces."
+
+https://www.youtube.com/watch?v=I4av4H6qgYE&t=726s
+
+**5. Tyler Fulghum — "I think this is a 51-win team that could, if everything hits, be closer to a 60-win team" — The 76ers' win total is undervalued despite roster changes** [12:56](https://www.youtube.com/watch?v=I4av4H6qgYE&t=776s)
+
+Tyler Fulghum: "The 76ers won 45 games last year without **Jaylen Brown**, without LeBron, and with Joel in and out of lineup due to injury. Their number for this year is set at just 50.5. That's third in the East. The Celtics have a higher one, the Knicks have a higher one. I think that's a little low. I thought it'd be closer to 52.5 for the 76ers. So, they still have Edgecombe, Maxey, and **Jaylen Brown** who always play, those aren't injury concerns, and those three guys can get you to 50 wins if they play the 75 to 80 games. LeBron, even though he's older, has always been durable. He'll have some rest days. Embiid's the one you really have to worry about, but with those four, and then Embiid as the wild card, I think this is a 51-win team that could, if everything hits, be closer to a 60-win team in the East."
+
+https://www.youtube.com/watch?v=I4av4H6qgYE&t=776s
 
 ---
 
