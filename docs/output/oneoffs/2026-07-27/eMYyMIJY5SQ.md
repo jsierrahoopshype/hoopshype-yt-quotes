@@ -1,32 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-27
-
-## KCP hyped after reuniting with LeBron James on the 76ers 😂 — *Chaz NBA*
-
-Source: https://www.youtube.com/watch?v=bgVDqCVJbMs
-
-_Speakers identified: Kentavious Caldwell-Pope, LeBron James, Stephen Curry, Mario Hezonja_
-
-**1. "Kentavious Caldwell-Pope has agreed to a buyout with the Memphis Grizzlies and is planning to reunite with LeBron" — Kentavious Caldwell-Pope signs one-year deal with Philadelphia 76ers** [00:00](https://www.youtube.com/watch?v=bgVDqCVJbMs&t=0s)
-
-"**Kentavious Caldwell-Pope** has agreed to a buyout with the Memphis Grizzlies and is planning to reunite with LeBron and sign a one-year $3.9 million deal with the Philadelphia 76ers."
-
-https://www.youtube.com/watch?v=bgVDqCVJbMs&t=0s
-
-**2. "That's why you don't envision anything until it happens" — Stephen Curry comments on LeBron James joining the 76ers** [01:30](https://www.youtube.com/watch?v=bgVDqCVJbMs&t=90s)
-
-"That's why you don't envision anything until it happens."
-
-https://www.youtube.com/watch?v=bgVDqCVJbMs&t=90s
-
-**3. "Mario Hezonja is making his NBA comeback signing a one-year $2.8 million deal with the Cleveland Cavaliers" — Mario Hezonja signs one-year deal with Cleveland Cavaliers** [02:26](https://www.youtube.com/watch?v=bgVDqCVJbMs&t=146s)
-
-"The former fifth overall pick in the 2015 draft **Mario Hezonja** is making his NBA comeback signing a one-year $2.8 million deal with the Cleveland Cavaliers and at the NBPA facility near Malaga in Spain **Clay**, **Norman Powell**, and **Nikhil Alexander-Walker** got a workout in together."
-
-https://www.youtube.com/watch?v=bgVDqCVJbMs&t=146s
-
----
-
-## WHY LEBRON DIDNT PICK CAVS + OTHER MOVES COMING? - 5 Good Minutes With Windy — *ESPNCleveland*
+# WHY LEBRON DIDNT PICK CAVS + OTHER MOVES COMING? - 5 Good Minutes With Windy — *ESPNCleveland*
 
 Source: https://www.youtube.com/watch?v=eMYyMIJY5SQ
 
@@ -93,7 +65,3 @@ https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=688s
 Brian Windhorst: "I think the best pathway for the Cavs to get **Jonathan Kuminga** is to convince him to take the $6 million taxpayer mid-level. He doesn't want that. He made $20 million last year. He's going to want $20 million this year. What he wants is **Max Strus** to be traded for him and him to sign a three or four-year contract guaranteeing him a bunch of money. I don't blame him for that. If he does do that, I offer him congratulations and say, have a great season. It is possible. It is not something that is not going to happen."
 
 https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=760s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
