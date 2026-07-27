@@ -1,5 +1,97 @@
 # HoopsHype YT Quotes — 2026-07-27
 
+## Chris Fedor breaks down Cavs' Plan B w/ Jonathan Kuminga, James Harden and belief in Evan Mobley — *92.3 The Fan*
+
+Source: https://www.youtube.com/watch?v=j3WjZdWJJ-4
+
+_Speakers identified: Chris Fedor, Ken Carman, Anthony Lima_
+
+**1. Chris Fedor — "the Jonathan Kuminga conversation related to the Cavs is very, very complicated" — Jonathan Kuminga trade talks for the Cavaliers are very complicated** [08:10](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=490s)
+
+Chris Fedor: "Plan B has always been **Jonathan Kuminga**. But the **Jonathan Kuminga** conversation related to the Cavs is very, very complicated. There is nothing straightforward about it because of the financial situation that the Cavs are in. You don't want to get too nerdy and start talking about all these numbers and the salary cap and the aprons, but the Cavs are about 18 million dollars away from the luxury tax without signing James Harden. I would take the over on that one. Whatever James Harden signs for, it's probably going to be something closer to 30 million dollars annually when James finally does sign his contract."
+
+https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=490s
+
+**2. Chris Fedor — "there is only one guy who can save this off-season for the Cavaliers, and that's Evan Mobley" — Why the Cavaliers should prioritize Evan Mobley's development** [11:26](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=686s)
+
+Chris Fedor: "There is only one guy who can save this off-season for the Cavaliers, and that's **Evan Mobley**. We've talked with you about Mobley. I know you're not high on his offensive game. I know you've pointed out that they tried to get him the ball early last year, it didn't work and they had to abandon that. They have to get him the ball and they have to see if it's going to work, don't they?"
+
+https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=686s
+
+**3. Chris Fedor — "there is a whole danger here that Evan Mobley is viewed by this fan base as the guy" — Evan Mobley faces immense pressure to prove his star potential** [13:31](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=811s)
+
+Chris Fedor: "There is a whole danger here that **Evan Mobley** is viewed by this fan base as the guy that prevented them from getting **LeBron James** and the guy that prevented them from having **Jaylen Brown** or having Giannis or having **Kawhi Leonard**. And that's a legitimate concern about that level of pressure, that level of expectation that's going to be placed on Evan is something that he has never felt. Even coming into the NBA as the number three overall pick in 2021 and plastered on billboards the day that he landed in Cleveland. This is different now. The expectations, the pressure for him, it's never going to be greater."
+
+https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=811s
+
+**4. Chris Fedor — "you could do worse than Max Strus, certainly" — Max Strus and Dennis Schroder provide value despite their flaws** [16:22](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=982s)
+
+Chris Fedor: "Max has an expiring contract, so there is inherent value there. But there is also value to keeping him on the roster because of the kind of player that he is. The movement that he creates, the gravity, the three-point shooting, the cutting ability. Is he a flawed player? Yes. Is he a streaky player? Yes. But you're going to have to find ways to fill your wing minutes and you could do worse than **Max Strus**, certainly. When it comes to Dennis, it's a little bit different because do they have enough ball-handling? Do they have enough shot creation?"
+
+https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=982s
+
+**5. Chris Fedor — "the Cavaliers are looking at opportunities to trade both guys" — Cavaliers exploring trade options for Dennis Schroder and Max Strus** [17:44](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=1064s)
+
+Chris Fedor: "The Cavs are looking at opportunities to trade both guys and seeing what is out there and what kinds of offers they can get for both of them. Like hypothetically, if you could trade **Dennis Schroder** for **Grant Williams** of the Charlotte Hornets, that's something that the Cavs would probably have interest in. Now you start asking yourself, do you have to attach something else to **Dennis Schroder** in that situation? Is there a **Dennis Schroder** for Royce O'Neal trade with the Hornets? Do you want to salary dump **Dennis Schroder** so you have more financial flexibility?"
+
+https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=1064s
+
+---
+
+## My First Day With The Miami HEAT — *Giannis Antetokounmpo*
+
+Source: https://www.youtube.com/watch?v=zVhuHeKTXN8
+
+_Speakers identified: Giannis Antetokounmpo, Erik Spoelstra, Bam Adebayo, Tim Hardaway Jr., Bobby Portis, Pat Riley_
+
+**1. Giannis Antetokounmpo — "I've accomplished a lot of things in my career but, one of my goals is to win another championship." — Giannis Antetokounmpo on his goal to win another championship** [00:00](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=0s)
+
+Giannis Antetokounmpo: "I've accomplished a lot of things in my career but, one of my goals is to win another championship. I feel like this is the best route for me to do that. I enjoy the challenge. I enjoy getting better."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=0s
+
+**2. Giannis Antetokounmpo — "I'm so grateful and happy the 13 years I was with the Milwaukee Bucks because I had incredible memories." — Giannis Antetokounmpo on his gratitude for his time with the Milwaukee Bucks** [03:34](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=214s)
+
+Giannis Antetokounmpo: "I'm so grateful and happy the 13 years I was with the Milwaukee Bucks because I had incredible memories. They made me, they allowed me to be me. They allowed me to walk in the streets with my flip flops, my sweats. I feel like they were my family. You never know in life, maybe our roads meet again. But for now, let's go win a championship."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=214s
+
+**3. Erik Spoelstra — "You have to feel like your life is dependent on this because you are going to do everything possible to win." — Erik Spoelstra and Giannis Antetokounmpo on the pressure of winning** [12:26](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=746s)
+
+**Erik Spoelstra:** "We've been under the radar for four years. We've had huge expectations, but it's all been internal. There's been no pressure. If we lose, it's okay. Now there's going to be pressure. We need that too. That's what you're bringing."
+
+**Giannis Antetokounmpo:** "I need it too. You have to feel like your life is dependent on this because you are going to do everything possible to win. I haven't had that feeling for a long time, and I feel like now I have it."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=746s
+
+**4. Giannis Antetokounmpo — "If I don't know the offense, how can I talk to my teammates?" — Giannis Antetokounmpo on the importance of learning the team's system** [13:30](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=810s)
+
+Giannis Antetokounmpo: "I want to know everything, offense, defense, so when training camp comes, I'm almost ahead of them. I can talk to them. If I don't know the offense, how can I talk to my teammates?"
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=810s
+
+**5. Giannis Antetokounmpo — "My mom was born in 1963, so I took the three. My dad was born in 1964, so I took the 3 and the 4 and I made 34." — Giannis Antetokounmpo explains the significance of his jersey number** [16:35](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=995s)
+
+Giannis Antetokounmpo: "I always wore 34. My mom was born in 1963, so I took the three. My dad was born in 1964, so I took the 3 and the 4 and I made 34. And now I just want to honor them in a different way. Adding 3 + 4, what does that equal? 7. And my mom was born April 7th, so I took the 7."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=995s
+
+**6. Pat Riley — "When we drafted Earvin Johnson, and he walked in for a Summer League game unannounced. Every kid in the arena got up behind him and followed like a pied piper." — Pat Riley on the impact of Earvin Johnson's arrival** [17:49](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1069s)
+
+**Pat Riley:** "I remember when we drafted **Earvin Johnson**, and he walked in for a Summer League game unannounced. He came in, walked through up the stairs, every kid in the arena got up behind him and followed like a pied piper all the way around. He had that kind of aura. I just got goosebumps thinking about it."
+
+**Giannis Antetokounmpo:** "Anytime you want. Because I'm only 25 feet from the court, they think I'm the principal, I'm not. Anytime you wanna come in, it's open for you too."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1069s
+
+**7. Giannis Antetokounmpo — "You always hear about the Miami Heat culture and that guys work hard, guys are very disciplined, guys are very driven, and guys are very selfless." — Giannis Antetokounmpo on the Miami Heat culture** [20:17](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1217s)
+
+Giannis Antetokounmpo: "You always hear about the Miami Heat culture and that guys work hard, guys are very disciplined, guys are very driven, and guys are very selfless. They give everything that they can to win. All that matters is winning. In order for me to go to the next level, I got to get out of my comfort zone, and I felt like Miami was a place for me to be."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1217s
+
+---
+
 ## COMPLETE GAME CHANGER! Jaylen Brown & LeBron James JOIN FORCES — *Stephen A. Smith Sports*
 
 Source: https://www.youtube.com/watch?v=6pjOFC3EH0w
@@ -144,137 +236,61 @@ https://www.youtube.com/watch?v=Z2lsoTCM01g&t=2208s
 
 ---
 
-## KCP hyped after reuniting with LeBron James on the 76ers 😂 — *Chaz NBA*
+## Warriors Still Haven't Offered Draymond a Deal — *95.7 The Game*
 
-Source: https://www.youtube.com/watch?v=bgVDqCVJbMs
+Source: https://www.youtube.com/watch?v=uwb5HaVJbTY
 
-_Speakers identified: Kentavious Caldwell-Pope, LeBron James, Stephen Curry, Mario Hezonja_
+_Speakers identified: Spadoni, Shasky_
 
-**1. "Kentavious Caldwell-Pope has agreed to a buyout with the Memphis Grizzlies and is planning to reunite with LeBron" — Kentavious Caldwell-Pope signs one-year deal with Philadelphia 76ers** [00:00](https://www.youtube.com/watch?v=bgVDqCVJbMs&t=0s)
+**1. Spadoni — "If Draymond opted out for the nobility of trying to bring in LeBron James, and they didn't get him." — Draymond Green's opt-out to pursue LeBron James** [01:18](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=78s)
 
-"**Kentavious Caldwell-Pope** has agreed to a buyout with the Memphis Grizzlies and is planning to reunite with LeBron and sign a one-year $3.9 million deal with the Philadelphia 76ers."
+Spadoni: "If Draymond opted out for the nobility of trying to bring in **LeBron James**, and they didn't get him, and if he leaves, are people going to see this in a different way? It seemed like he got a lot of credit for opting out to make room for **LeBron James**. And I was like, oh, that might be an aspect of it, but Draymond does things for Draymond. Yes, there is no doubt that there was an aspect of him opting out because it would be more amicable for the team to be able to make certain moves, but at the end of the day, he also wanted to make sure he wanted to get taken care of."
 
-https://www.youtube.com/watch?v=bgVDqCVJbMs&t=0s
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=78s
 
-**2. "That's why you don't envision anything until it happens" — Stephen Curry comments on LeBron James joining the 76ers** [01:30](https://www.youtube.com/watch?v=bgVDqCVJbMs&t=90s)
+**2. Spadoni — "Would it be a bad look on Mike Dunleavy if Draymond acted in good faith?" — Potential fallout for Mike Dunleavy if Draymond Green leaves** [02:00](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=120s)
 
-"That's why you don't envision anything until it happens."
+**Spadoni:** "Would it be a bad look on **Mike Dunleavy** if Draymond acted in good faith saying, I'll opt out here so we can go pursue **LeBron James**? You don't get LeBron, and Mike says, actually we're going in another direction, we're not going to offer you a contract at all. That goes against, right, that? Could you imagine? Draymond would be mad forever."
 
-https://www.youtube.com/watch?v=bgVDqCVJbMs&t=90s
+**Shasky:** "Probably, but wow. Let's just throw that out there potentially. I mean, I can only take Draymond at his word. This was the latest sound from over the weekend. He's saying that they haven't offered him a contract. Why? Why haven't they offered him any?"
 
-**3. "Mario Hezonja is making his NBA comeback signing a one-year $2.8 million deal with the Cleveland Cavaliers" — Mario Hezonja signs one-year deal with Cleveland Cavaliers** [02:26](https://www.youtube.com/watch?v=bgVDqCVJbMs&t=146s)
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=120s
 
-"The former fifth overall pick in the 2015 draft **Mario Hezonja** is making his NBA comeback signing a one-year $2.8 million deal with the Cleveland Cavaliers and at the NBPA facility near Malaga in Spain **Clay**, **Norman Powell**, and **Nikhil Alexander-Walker** got a workout in together."
+**3. Spadoni — "All the reports also said he'd be willing, if you're going to sign him to a multi-year extension." — Draymond Green's contract value and potential multi-year extension** [02:40](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=160s)
 
-https://www.youtube.com/watch?v=bgVDqCVJbMs&t=146s
+Spadoni: "All the reports also said he'd be willing, if you're going to sign him to a multi-year extension, to take lesser for the first year if you're adding people. They haven't really added much. So, does he still want that 28 million? Is that it? And if that's the case, do you spread that over just two years? And how do you spread it? Is it as simple as 14-14? Do you front-load it into this year and the next year is cheaper? I don't know."
 
----
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=160s
 
-## WHY LEBRON DIDNT PICK CAVS + OTHER MOVES COMING? - 5 Good Minutes With Windy — *ESPNCleveland*
+**4. Spadoni — "Jalen Brunson is making 37 this year. In what world is Draymond Green worth that?" — Comparing Draymond Green's value to Jalen Brunson's contract** [03:26](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=206s)
 
-Source: https://www.youtube.com/watch?v=eMYyMIJY5SQ
+Spadoni: "**Jalen Brunson** is making 37 this year. In what world is **Draymond Green**, if **Jalen Brunson** is making 37, and we're going fair market value, in what world is he worth that? He's not, currently. But he was worth that with the Warriors this past year. This meaning this upcoming year, that's what his contract stated. And we all know that contract was probably an overpay."
 
-_Speakers identified: Brian Windhorst, Chris Oldach_
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=206s
 
-**1. Brian Windhorst — "This particular situation was an extraordinary one-off situation. It was a one-way conversation with the team talking to Rich Paul" — LeBron James' decision to join the 76ers was a unique, one-off situation** [00:35](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=35s)
+**5. Spadoni — "In a weird way, I think LeBron opting to go to Philly opens up a door for him." — LeBron James joining the 76ers and the impact on Draymond Green** [06:22](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=382s)
 
-**Chris Oldach:** "Did the Cavs think he was coming home?"
+Spadoni: "In a weird way, I think LeBron opting to go to Philly opens up a door for him if he wants to join him. And that's another aspect to it. How would Warrior fans feel if he does take lesser money and he goes over there? I'll be rooting for him. Would you be? Yeah, I would. I wonder if Warrior fans would agree with that. There'd be mixed feelings. To choose LeBron at the end of his career over **Stephen Curry**? See, I think people see these things very black and white. To me, it's very gray."
 
-**Brian Windhorst:** "I don't think they ever thought they had him. I think they believed they were in the game very seriously. You have to understand that this particular situation was an extraordinary one-off situation. It's not like any of LeBron's free agencies or any free agencies you see. It was a one-way conversation with the team talking to **Rich Paul**, not even talking to LeBron. And that was the case for the 76ers and the Heat and all the teams."
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=382s
 
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=35s
+**6. Spadoni — "He's like in baseball when you have that aging DH hitter, but that's like an elite bat still." — Draymond Green's role as an aging veteran player** [07:16](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=436s)
 
-**2. Brian Windhorst — "I think they thought they had a great chance to get him. I think they looked at their hand" — The Cavaliers had a strong chance to sign LeBron James if they were finalists** [01:05](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=65s)
+Spadoni: "He's like in baseball when you have that aging DH hitter, but that's like an elite bat still. Like you want this guy on your team, but it's like a luxury to have him, right? It's like adding that if like you're a Dodgers or you're whoever is a contender right now, the Yankees, etc., etc. That's kind of where Draymond's at in this portion of his career. He's that DH clutch hitter you want in a big-time moment, but it's the defensive version of that."
 
-Brian Windhorst: "No, I don't think the Cavs ever thought they had him. I think they thought they had a great chance to get him. I think they looked at their hand and, you know, if they had been told that they and Philly were the two finalists, and I don't know if that was true, I think they probably would have thought that they would beat out Philly. I think even if they had more information, the more information that they got, if Miami was out and Golden State was out and Denver was out and Minnesota was out, I think they would have loved their hand."
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=436s
 
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=65s
+**7. Spadoni — "It's VJ Edgecombe and Maxey, and then you got LeBron, and Jaylen Brown, and Joel Embiid." — The potential of a 76ers starting lineup with LeBron James** [08:23](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=503s)
 
-**3. Brian Windhorst — "It was never presented to them, you get Jaylen Brown and you get LeBron" — LeBron James' decision was not influenced by specific player retention concerns** [02:28](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=148s)
+Spadoni: "What's their starting lineup right now? It's VJ Edgecombe and Maxey, and then you got LeBron, and Jaylen Brown, and **Joel Embiid**. That's a sick starting five, too. I'm telling you, dude, this is going to be an incredible playoff series. It's you know it is."
 
-Brian Windhorst: "That implies that there was some sort of feedback coming from LeBron's camp and that just wasn't happening. He went to the team that traded for **Jaylen Brown**. You can ergo it if you want. If you want to ergo that if the Cavs had traded for **Jaylen Brown**, that LeBron would be here and you could maybe you're right. I don't know and he hasn't said it. It was never presented to them, you get **Jaylen Brown** and you get LeBron. And you could seriously talk to the ghost of Red Auerbach or the ghost of Red Holzman, whatever, and they could have given you two different things. It was never presented to them, you get **Jaylen Brown** and you get LeBron."
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=503s
 
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=148s
+**8. Spadoni — "You went from the most talented front office in all of basketball to the least talented." — Critique of the Warriors' front office and ownership** [12:44](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=764s)
 
-**4. Brian Windhorst — "The more fair criticism is the decision to remain humongously invested in Evan Mobley" — The Cavaliers' decision to remain heavily invested in Evan Mobley is the fair criticism** [04:12](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=252s)
+Spadoni: "You went from the most talented front office in all of basketball to the least talented front office in all of basketball. You have a GM who would not be hired by a single other of the 32 teams in the NBA to be their GM. And probably because Joe Lacob wants to have a strong voice in basketball matters, which again, that's his right, was the same right for **Jerry Jones**, right? In the same way **Jerry Jones**, you can credit him for everything the Cowboys were in the beginning and for hiring **Jimmy Johnson**, that was an incredible hire. And you can also criticize him. **Jerry Jones** also didn't just do whatever Troy Aikman, Emmitt Smith, and Michael Irvin wanted them to do. And I do feel like all the moves that Joe Lacob has done has been in concert with Steve Kerr and Steph Curry and Draymond Green."
 
-Brian Windhorst: "The more fair criticism is the decision to remain humongously invested in **Evan Mobley**. Because **Evan Mobley** obviously, if he was made available, could have had immense value this off-season. And so the question will be, is that decision going to end up being a smart one? If they end up not being invested in **Evan Mobley** like a year from now, will it have been a mistake to not trade him now when he could have had potential thing? I think really this is an **Evan Mobley** thing, not a LeBron thing. This summer was a referendum on their belief in **Evan Mobley**."
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=252s
-
-**5. Brian Windhorst — "If you're a supermax contract player, your expectations of you are inherently extremely high" — Evan Mobley's supermax contract carries extremely high expectations** [05:22](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=322s)
-
-Brian Windhorst: "If you're a supermax contract player, your expectations of you are inherently extremely high. He did not play like a supermax player last year. Some nights he did. He had a disappointing season. That's just the truth. When you accept that contract, you accept those expectations. And so those expectations remain. It's, you know, you can say it's unfair, but I think it's part of the deal."
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=322s
-
-**6. Brian Windhorst — "He is a former lottery pick, but a decade ago. Definitely a score-first player" — Mario Hezonja is a high-upside European scorer but lacks defensive reliability** [07:08](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=428s)
-
-Brian Windhorst: "He is a former lottery pick, but a decade ago. He was regarded as a high-upside European player. 6'8", tremendous size. Definitely a score-first player. Even though he has great size, I don't think he's going to be known as a defender. Now when I talk to scouts in Europe, what they say is absolutely it is proven that he is NBA rotation talent, that was not necessarily the case when he first came in the league. It's probably a good value signing for the Cavs at $2.8 million because he's a player in his prime that they're getting less than prime salary for."
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=428s
-
-**7. Brian Windhorst — "The Cavs are still in the game for Jonathan Kuminga" — The Cavaliers are still in the game for Jonathan Kuminga** [09:02](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=542s)
-
-Brian Windhorst: "The Cavs are still in the game for **Jonathan Kuminga**. I've talked to his agent. He does see a really good fit in Cleveland. I listen to the pathways the Cavs have to get him and I don't think they're realistic. That said, if you'd told me seven weeks ago that the 76ers would have Jaylen Brown and LeBron James, I would have not thought that was realistic. So, what are those pathways to get him?"
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=542s
-
-**8. Brian Windhorst — "If you do a sign and trade, you're hard-capped at the first apron. Can't go past it" — The Cavaliers are hard-capped at the first apron, limiting trade flexibility** [09:33](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=573s)
-
-Brian Windhorst: "The Cavs have about $18 million under the first apron. If you do a sign and trade, you're hard-capped at the first apron. Can't go past it. I don't care if Jesus Christ comes down, you can't go past it. And so, if you've got $18 million and you've got to pay **James Harden**, he made $43 million last year. He's not signing for $18 million. And so, what you ask yourself is, are you trading Max Strus for **Jonathan Kuminga**? And number one, can you even make that deal happen? Because the Atlanta Hawks have Kuminga's rights, so they'd have to sign and trade Kuminga."
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=573s
-
-**9. Brian Windhorst — "You could trade Dennis Schroder or Max Strus off of your books" — Trading Dennis Schroder or Max Strus could clear necessary cap space** [11:28](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=688s)
-
-Brian Windhorst: "The other thing that you could do is you could trade **Dennis Schroder** or **Max Strus** off of your books or you could trade them for a player making less money. There are some trades out there, there are some trade concepts where you could trade **Dennis Schroder** for a player making half of his salary for example and then you'd clear an extra $6 million. And so maybe you could give **Jonathan Kuminga** the $6 million taxpayer mid-level. Or you could maybe give him, if you got rid of **Max Strus** for nothing, like you trade him to the Nets, there's a couple teams who could take him in a trade exception. You just got rid of him for nothing, which by the way, I don't think is a good idea."
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=688s
-
-**10. Brian Windhorst — "I think the best pathway for the Cavs to get Jonathan Kuminga is to convince him" — The best path for the Cavaliers to acquire Jonathan Kuminga** [12:40](https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=760s)
-
-Brian Windhorst: "I think the best pathway for the Cavs to get **Jonathan Kuminga** is to convince him to take the $6 million taxpayer mid-level. He doesn't want that. He made $20 million last year. He's going to want $20 million this year. What he wants is **Max Strus** to be traded for him and him to sign a three or four-year contract guaranteeing him a bunch of money. I don't blame him for that. If he does do that, I offer him congratulations and say, have a great season. It is possible. It is not something that is not going to happen."
-
-https://www.youtube.com/watch?v=eMYyMIJY5SQ&t=760s
-
----
-
-## Chris Fedor breaks down Cavs' Plan B w/ Jonathan Kuminga, James Harden and belief in Evan Mobley — *92.3 The Fan*
-
-Source: https://www.youtube.com/watch?v=j3WjZdWJJ-4
-
-_Speakers identified: Chris Fedor, Ken Carman, Anthony Lima_
-
-**1. Chris Fedor — "the Jonathan Kuminga conversation related to the Cavs is very, very complicated" — Jonathan Kuminga trade talks for the Cavaliers are very complicated** [08:10](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=490s)
-
-Chris Fedor: "Plan B has always been **Jonathan Kuminga**. But the **Jonathan Kuminga** conversation related to the Cavs is very, very complicated. There is nothing straightforward about it because of the financial situation that the Cavs are in. You don't want to get too nerdy and start talking about all these numbers and the salary cap and the aprons, but the Cavs are about 18 million dollars away from the luxury tax without signing James Harden. I would take the over on that one. Whatever James Harden signs for, it's probably going to be something closer to 30 million dollars annually when James finally does sign his contract."
-
-https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=490s
-
-**2. Chris Fedor — "there is only one guy who can save this off-season for the Cavaliers, and that's Evan Mobley" — Why the Cavaliers should prioritize Evan Mobley's development** [11:26](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=686s)
-
-Chris Fedor: "There is only one guy who can save this off-season for the Cavaliers, and that's **Evan Mobley**. We've talked with you about Mobley. I know you're not high on his offensive game. I know you've pointed out that they tried to get him the ball early last year, it didn't work and they had to abandon that. They have to get him the ball and they have to see if it's going to work, don't they?"
-
-https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=686s
-
-**3. Chris Fedor — "there is a whole danger here that Evan Mobley is viewed by this fan base as the guy" — Evan Mobley faces immense pressure to prove his star potential** [13:31](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=811s)
-
-Chris Fedor: "There is a whole danger here that **Evan Mobley** is viewed by this fan base as the guy that prevented them from getting **LeBron James** and the guy that prevented them from having **Jaylen Brown** or having Giannis or having **Kawhi Leonard**. And that's a legitimate concern about that level of pressure, that level of expectation that's going to be placed on Evan is something that he has never felt. Even coming into the NBA as the number three overall pick in 2021 and plastered on billboards the day that he landed in Cleveland. This is different now. The expectations, the pressure for him, it's never going to be greater."
-
-https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=811s
-
-**4. Chris Fedor — "you could do worse than Max Strus, certainly" — Max Strus and Dennis Schroder provide value despite their flaws** [16:22](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=982s)
-
-Chris Fedor: "Max has an expiring contract, so there is inherent value there. But there is also value to keeping him on the roster because of the kind of player that he is. The movement that he creates, the gravity, the three-point shooting, the cutting ability. Is he a flawed player? Yes. Is he a streaky player? Yes. But you're going to have to find ways to fill your wing minutes and you could do worse than **Max Strus**, certainly. When it comes to Dennis, it's a little bit different because do they have enough ball-handling? Do they have enough shot creation?"
-
-https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=982s
-
-**5. Chris Fedor — "the Cavaliers are looking at opportunities to trade both guys" — Cavaliers exploring trade options for Dennis Schroder and Max Strus** [17:44](https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=1064s)
-
-Chris Fedor: "The Cavs are looking at opportunities to trade both guys and seeing what is out there and what kinds of offers they can get for both of them. Like hypothetically, if you could trade **Dennis Schroder** for **Grant Williams** of the Charlotte Hornets, that's something that the Cavs would probably have interest in. Now you start asking yourself, do you have to attach something else to **Dennis Schroder** in that situation? Is there a **Dennis Schroder** for Royce O'Neal trade with the Hornets? Do you want to salary dump **Dennis Schroder** so you have more financial flexibility?"
-
-https://www.youtube.com/watch?v=j3WjZdWJJ-4&t=1064s
+https://www.youtube.com/watch?v=uwb5HaVJbTY&t=764s
 
 ---
 
@@ -397,118 +413,6 @@ https://www.youtube.com/watch?v=qtHsxGi6nKc&t=2546s
 Gili Raanan: "Probably not. Maybe winning the NBA with Hapoel would be the biggest win ever. But as I said, I'm not installing glass ceiling, so we shall see. But again, it's a recommendation for entrepreneurs I'm giving myself, regardless where the journey would take you, make sure you enjoy it. So I'm I'm working hard to to make sure I enjoy the journey."
 
 https://www.youtube.com/watch?v=qtHsxGi6nKc&t=2656s
-
----
-
-## Warriors Still Haven't Offered Draymond a Deal — *95.7 The Game*
-
-Source: https://www.youtube.com/watch?v=uwb5HaVJbTY
-
-_Speakers identified: Spadoni, Shasky_
-
-**1. Spadoni — "If Draymond opted out for the nobility of trying to bring in LeBron James, and they didn't get him." — Draymond Green's opt-out to pursue LeBron James** [01:18](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=78s)
-
-Spadoni: "If Draymond opted out for the nobility of trying to bring in **LeBron James**, and they didn't get him, and if he leaves, are people going to see this in a different way? It seemed like he got a lot of credit for opting out to make room for **LeBron James**. And I was like, oh, that might be an aspect of it, but Draymond does things for Draymond. Yes, there is no doubt that there was an aspect of him opting out because it would be more amicable for the team to be able to make certain moves, but at the end of the day, he also wanted to make sure he wanted to get taken care of."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=78s
-
-**2. Spadoni — "Would it be a bad look on Mike Dunleavy if Draymond acted in good faith?" — Potential fallout for Mike Dunleavy if Draymond Green leaves** [02:00](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=120s)
-
-**Spadoni:** "Would it be a bad look on **Mike Dunleavy** if Draymond acted in good faith saying, I'll opt out here so we can go pursue **LeBron James**? You don't get LeBron, and Mike says, actually we're going in another direction, we're not going to offer you a contract at all. That goes against, right, that? Could you imagine? Draymond would be mad forever."
-
-**Shasky:** "Probably, but wow. Let's just throw that out there potentially. I mean, I can only take Draymond at his word. This was the latest sound from over the weekend. He's saying that they haven't offered him a contract. Why? Why haven't they offered him any?"
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=120s
-
-**3. Spadoni — "All the reports also said he'd be willing, if you're going to sign him to a multi-year extension." — Draymond Green's contract value and potential multi-year extension** [02:40](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=160s)
-
-Spadoni: "All the reports also said he'd be willing, if you're going to sign him to a multi-year extension, to take lesser for the first year if you're adding people. They haven't really added much. So, does he still want that 28 million? Is that it? And if that's the case, do you spread that over just two years? And how do you spread it? Is it as simple as 14-14? Do you front-load it into this year and the next year is cheaper? I don't know."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=160s
-
-**4. Spadoni — "Jalen Brunson is making 37 this year. In what world is Draymond Green worth that?" — Comparing Draymond Green's value to Jalen Brunson's contract** [03:26](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=206s)
-
-Spadoni: "**Jalen Brunson** is making 37 this year. In what world is **Draymond Green**, if **Jalen Brunson** is making 37, and we're going fair market value, in what world is he worth that? He's not, currently. But he was worth that with the Warriors this past year. This meaning this upcoming year, that's what his contract stated. And we all know that contract was probably an overpay."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=206s
-
-**5. Spadoni — "In a weird way, I think LeBron opting to go to Philly opens up a door for him." — LeBron James joining the 76ers and the impact on Draymond Green** [06:22](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=382s)
-
-Spadoni: "In a weird way, I think LeBron opting to go to Philly opens up a door for him if he wants to join him. And that's another aspect to it. How would Warrior fans feel if he does take lesser money and he goes over there? I'll be rooting for him. Would you be? Yeah, I would. I wonder if Warrior fans would agree with that. There'd be mixed feelings. To choose LeBron at the end of his career over **Stephen Curry**? See, I think people see these things very black and white. To me, it's very gray."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=382s
-
-**6. Spadoni — "He's like in baseball when you have that aging DH hitter, but that's like an elite bat still." — Draymond Green's role as an aging veteran player** [07:16](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=436s)
-
-Spadoni: "He's like in baseball when you have that aging DH hitter, but that's like an elite bat still. Like you want this guy on your team, but it's like a luxury to have him, right? It's like adding that if like you're a Dodgers or you're whoever is a contender right now, the Yankees, etc., etc. That's kind of where Draymond's at in this portion of his career. He's that DH clutch hitter you want in a big-time moment, but it's the defensive version of that."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=436s
-
-**7. Spadoni — "It's VJ Edgecombe and Maxey, and then you got LeBron, and Jaylen Brown, and Joel Embiid." — The potential of a 76ers starting lineup with LeBron James** [08:23](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=503s)
-
-Spadoni: "What's their starting lineup right now? It's VJ Edgecombe and Maxey, and then you got LeBron, and Jaylen Brown, and **Joel Embiid**. That's a sick starting five, too. I'm telling you, dude, this is going to be an incredible playoff series. It's you know it is."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=503s
-
-**8. Spadoni — "You went from the most talented front office in all of basketball to the least talented." — Critique of the Warriors' front office and ownership** [12:44](https://www.youtube.com/watch?v=uwb5HaVJbTY&t=764s)
-
-Spadoni: "You went from the most talented front office in all of basketball to the least talented front office in all of basketball. You have a GM who would not be hired by a single other of the 32 teams in the NBA to be their GM. And probably because Joe Lacob wants to have a strong voice in basketball matters, which again, that's his right, was the same right for **Jerry Jones**, right? In the same way **Jerry Jones**, you can credit him for everything the Cowboys were in the beginning and for hiring **Jimmy Johnson**, that was an incredible hire. And you can also criticize him. **Jerry Jones** also didn't just do whatever Troy Aikman, Emmitt Smith, and Michael Irvin wanted them to do. And I do feel like all the moves that Joe Lacob has done has been in concert with Steve Kerr and Steph Curry and Draymond Green."
-
-https://www.youtube.com/watch?v=uwb5HaVJbTY&t=764s
-
----
-
-## My First Day With The Miami HEAT — *Giannis Antetokounmpo*
-
-Source: https://www.youtube.com/watch?v=zVhuHeKTXN8
-
-_Speakers identified: Giannis Antetokounmpo, Erik Spoelstra, Bam Adebayo, Tim Hardaway Jr., Bobby Portis, Pat Riley_
-
-**1. Giannis Antetokounmpo — "I've accomplished a lot of things in my career but, one of my goals is to win another championship." — Giannis Antetokounmpo on his goal to win another championship** [00:00](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=0s)
-
-Giannis Antetokounmpo: "I've accomplished a lot of things in my career but, one of my goals is to win another championship. I feel like this is the best route for me to do that. I enjoy the challenge. I enjoy getting better."
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=0s
-
-**2. Giannis Antetokounmpo — "I'm so grateful and happy the 13 years I was with the Milwaukee Bucks because I had incredible memories." — Giannis Antetokounmpo on his gratitude for his time with the Milwaukee Bucks** [03:34](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=214s)
-
-Giannis Antetokounmpo: "I'm so grateful and happy the 13 years I was with the Milwaukee Bucks because I had incredible memories. They made me, they allowed me to be me. They allowed me to walk in the streets with my flip flops, my sweats. I feel like they were my family. You never know in life, maybe our roads meet again. But for now, let's go win a championship."
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=214s
-
-**3. Erik Spoelstra — "You have to feel like your life is dependent on this because you are going to do everything possible to win." — Erik Spoelstra and Giannis Antetokounmpo on the pressure of winning** [12:26](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=746s)
-
-**Erik Spoelstra:** "We've been under the radar for four years. We've had huge expectations, but it's all been internal. There's been no pressure. If we lose, it's okay. Now there's going to be pressure. We need that too. That's what you're bringing."
-
-**Giannis Antetokounmpo:** "I need it too. You have to feel like your life is dependent on this because you are going to do everything possible to win. I haven't had that feeling for a long time, and I feel like now I have it."
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=746s
-
-**4. Giannis Antetokounmpo — "If I don't know the offense, how can I talk to my teammates?" — Giannis Antetokounmpo on the importance of learning the team's system** [13:30](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=810s)
-
-Giannis Antetokounmpo: "I want to know everything, offense, defense, so when training camp comes, I'm almost ahead of them. I can talk to them. If I don't know the offense, how can I talk to my teammates?"
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=810s
-
-**5. Giannis Antetokounmpo — "My mom was born in 1963, so I took the three. My dad was born in 1964, so I took the 3 and the 4 and I made 34." — Giannis Antetokounmpo explains the significance of his jersey number** [16:35](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=995s)
-
-Giannis Antetokounmpo: "I always wore 34. My mom was born in 1963, so I took the three. My dad was born in 1964, so I took the 3 and the 4 and I made 34. And now I just want to honor them in a different way. Adding 3 + 4, what does that equal? 7. And my mom was born April 7th, so I took the 7."
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=995s
-
-**6. Pat Riley — "When we drafted Earvin Johnson, and he walked in for a Summer League game unannounced. Every kid in the arena got up behind him and followed like a pied piper." — Pat Riley on the impact of Earvin Johnson's arrival** [17:49](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1069s)
-
-**Pat Riley:** "I remember when we drafted **Earvin Johnson**, and he walked in for a Summer League game unannounced. He came in, walked through up the stairs, every kid in the arena got up behind him and followed like a pied piper all the way around. He had that kind of aura. I just got goosebumps thinking about it."
-
-**Giannis Antetokounmpo:** "Anytime you want. Because I'm only 25 feet from the court, they think I'm the principal, I'm not. Anytime you wanna come in, it's open for you too."
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1069s
-
-**7. Giannis Antetokounmpo — "You always hear about the Miami Heat culture and that guys work hard, guys are very disciplined, guys are very driven, and guys are very selfless." — Giannis Antetokounmpo on the Miami Heat culture** [20:17](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1217s)
-
-Giannis Antetokounmpo: "You always hear about the Miami Heat culture and that guys work hard, guys are very disciplined, guys are very driven, and guys are very selfless. They give everything that they can to win. All that matters is winning. In order for me to go to the next level, I got to get out of my comfort zone, and I felt like Miami was a place for me to be."
-
-https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1217s
 
 ---
 
