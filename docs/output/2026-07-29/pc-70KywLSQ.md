@@ -1,0 +1,49 @@
+# Aaron Judge, Jalen & Josh Discuss the PRESSURE Of Being An Elite NYC Athlete — *Roommates Show*
+
+Source: https://www.youtube.com/watch?v=pc-70KywLSQ
+
+_Speakers identified: Aaron Judge, Jalen Brunson, Josh Hart_
+
+**1. Aaron Judge — "You got to be consistent. I think that's the biggest thing is consistent if you're good." — Aaron Judge on the necessity of consistency and self-honesty in New York** [00:23](https://www.youtube.com/watch?v=pc-70KywLSQ&t=23s)
+
+Aaron Judge: "You got to be consistent. I think that's the biggest thing is consistent if you're good, consistent if it's going bad. You got to be really honest with yourself. I think that's the biggest thing, and sometimes if you're not honest with yourself and like, hey, I need to work on this, I need to improve on this, if you kind of think, oh, I'll get it the next day or oh, that's not too bad, it'll work out throughout the season, it's like all of a sudden the season ends and all of a sudden you're not making the postseason, you have a bad year. You got to be real honest with yourself. I think just being consistent, be honest, and you got to be tough, man."
+
+https://www.youtube.com/watch?v=pc-70KywLSQ&t=23s
+
+**2. Jalen Brunson — "You got to be mentally tough first and foremost." — Jalen Brunson on the mental toughness required to play in New York** [01:17](https://www.youtube.com/watch?v=pc-70KywLSQ&t=77s)
+
+Jalen Brunson: "You got to be mentally tough first and foremost. One thing I would say is it's you have to be genuine. For me, when I feel like I'm not playing my best and I know I get people, there was a point in time where I kept saying, yo, I got to be better, I got to be better. Everyone was like, yo, he just keeps saying he has to be better. Well, that's just truly how I feel like regardless of how people take the information or whatever. Like I feel like if I'm just honest with myself, honest with the media questions, I have to be better in certain points, and I turn out next game, I always find a way to obviously be better than I was the last. So it's always about just holding yourself accountable, being honest with yourself, being honest with the media, just setting a great example, not just for your teammates, but for everyone."
+
+https://www.youtube.com/watch?v=pc-70KywLSQ&t=77s
+
+**3. Josh Hart — "Mitchell is probably the funniest." — Josh Hart and Aaron Judge discuss the funniest player on the team** [02:22](https://www.youtube.com/watch?v=pc-70KywLSQ&t=142s)
+
+**Josh Hart:** "I go to a Knicks game, I'm sitting by the bench. You come up when I untie my shoe, man. I got nice Jordans on, you come untie my shoe, I got to retie it. Who's the biggest clown on the team?"
+
+**Aaron Judge:** "**Mitchell** is probably the funniest. **Mitchell** or **OG**. **OG** has like the quirky kind of funny. Like that's just that's him."
+
+https://www.youtube.com/watch?v=pc-70KywLSQ&t=142s
+
+**4. Josh Hart — "He doesn't do anything all off-season." — Josh Hart's lack of preparation during the off-season** [03:13](https://www.youtube.com/watch?v=pc-70KywLSQ&t=193s)
+
+**Josh Hart:** "Now the biggest clown is that man to your left. This man, like you said, he unties your shoes mid-game. He doesn't take anything serious. He doesn't practice. He literally says like every off-season like you don't you don't change or anything. He doesn't do anything all off-season."
+
+**Aaron Judge:** "I just came out the game when I did that. We were winning. So once I cross on like crossed that line, I'm I'm locked in, I'm focused, I'm competitive and all that. Once I step off that line, I'm just a kid, bro. I get to play in the NBA so I get to have fun. So I see you guys sitting courtside all the time and all that and I'm just like, bro, like I look at y'all like I'm a kid. I'm like, oh damn, the Aaron Judge right there. So I walk by, I'm like untie shoes. I do it with **Jimmy Fallon** all the time. I just like having fun because at the end of the day if I start taking it too serious, that it's it's like I like having fun, bro. I like laughing, smiling. Everybody likes laughing and smiling, right?"
+
+https://www.youtube.com/watch?v=pc-70KywLSQ&t=193s
+
+**5. Josh Hart — "When he's pissed, he has little temper tantrums on the bench as well, like a kid." — Josh Hart's temper tantrums on the bench** [04:20](https://www.youtube.com/watch?v=pc-70KywLSQ&t=260s)
+
+**Josh Hart:** "Like you like you said, he's just a kid. Now you see the good part of that, but then when he's pissed, he has little temper tantrums on the bench as well, like a kid. Yeah, just like a kid. Like his both sides of that. There's a lot of times where people have to come down and they say, hey **Josh**, you okay? He's like, yeah, I'm I'm fine. Everyone has to check on you every once in a while."
+
+**Aaron Judge:** "Yeah, 100%. Like if something something doesn't go my way or I'm like I feel like I'm playing well, I get taken out the game, I'm pissed off. Like I said, I'm like a little kid. Like you know, my my little I got two little twin boys, like they got a little temper tantrum when you say no, and then they mad for about two minutes and then they then they cool. That's me. Like I just got to I go to the bench, I got to snap, whether that's like kicking something or, you know, yelling at somebody or whatever that is. And then once I'm done, then I'm like, oh, I'm cool. Like I'm I'm good."
+
+https://www.youtube.com/watch?v=pc-70KywLSQ&t=260s
+
+**6. Josh Hart — "Try having dinner plans with him after a bad game. Oh, it's over." — Josh Hart's reaction to bad games** [05:10](https://www.youtube.com/watch?v=pc-70KywLSQ&t=310s)
+
+**Josh Hart:** "Try having dinner plans with him after a bad game. Oh, it's over. It's over. I'll tell you what, reservation for four is now reservation for two."
+
+**Aaron Judge:** "100%. Like I tell you what, if if we didn't win and I missed that layup game four, I swear y'all still would not have seen me to this day. Like I would not have went outside. Y'all might not y'all would the first time y'all would see me would be opening night. That would be the first time because I would not I wouldn't go outside of my house because I was I would have been in such a mental mental just fog."
+
+https://www.youtube.com/watch?v=pc-70KywLSQ&t=310s
