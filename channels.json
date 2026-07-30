@@ -204,6 +204,34 @@
       "active": true,
       "known_speakers": [],
       "require_speakers": ["Chris Mannix"]
+    },
+    {
+      "name": "Tyrese Haliburton",
+      "channel_id": "UCErehpciG-VEIWfd72ZDXsg",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Tyrese Haliburton"]
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "channel_id": "UCrMiMJMUSjELs0jb1vtTiAg",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Giannis Antetokounmpo"]
+    },
+    {
+      "name": "Davion Mitchell",
+      "channel_id": "UCi1HRyhAYBowd1OXVvNea8w",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Davion Mitchell"]
+    },
+    {
+      "name": "Jaylen Clark",
+      "channel_id": "UC1Mh22hsS7Fs1TrQtIdlTDw",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Jaylen Clark"]
     }
   ],
   "min_duration_minutes": 5,
