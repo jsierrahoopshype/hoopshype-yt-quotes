@@ -1,124 +1,100 @@
 # HoopsHype YT Quotes — 2026-07-27
 
-## Windy says ‘the league was STUNNED’ by LeBron James’ decision to go to Philly! | Get Up — *NBA on ESPN*
+## My First Day With The Miami HEAT — *Giannis Antetokounmpo*
 
-Source: https://www.youtube.com/watch?v=3a-K7a9tQt0
+Source: https://www.youtube.com/watch?v=zVhuHeKTXN8
 
-_Speakers identified: Brian Windhorst, Jay Williams, Monica McNutt, Dan Orlovsky_
+_Speakers identified: Giannis Antetokounmpo, Erik Spoelstra, Nikola Jović, Pat Riley, Bam Adebayo, Tim Hardaway Jr., Bobby Portis_
 
-**1. Brian Windhorst — "They absolutely are not championship contenders right now." — Warriors' failed pursuit of LeBron James and current championship status** [00:50](https://www.youtube.com/watch?v=3a-K7a9tQt0&t=50s)
+**1. Giannis Antetokounmpo — "I've accomplished a lot of things in my career but, one of my goals is to win another championship." — Giannis Antetokounmpo on his goal to win another championship with the Heat** [00:00](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=0s)
 
-Brian Windhorst: "I understand why you say that and I understand the Warriors fans are disappointed. They had a terrible end of the season with **Jimmy Butler** and **Moses Moody** going down for huge injuries. Then they tried to get in on the Giannis sweepstakes, they tried to get in on the **Jaylen Brown** sweepstakes, they tried to get **LeBron James** and I can understand why there is frustration that they haven't been able to do that. And they absolutely are not championship contenders right now. I agree with that. But **Stephen Curry** has said he wants to play multiple more years and the Warriors have a lot of draft pick equity and they have a lot of flexibility financially going forward. So if you want to write them off and say that they are done, go ahead and do that, no one is going to stop you."
+Giannis Antetokounmpo: "I've accomplished a lot of things in my career but, one of my goals is to win another championship. I feel like this is the best route for me to do that. I enjoy the challenge. I enjoy getting better. It was a no brainer. I wanted to be here. I'm excited to be here. I just want to get work."
 
-https://www.youtube.com/watch?v=3a-K7a9tQt0&t=50s
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=0s
 
-**2. Monica McNutt — "I just think the Knicks are ahead in terms of the continuity that exists having won a championship." — Knicks' continuity advantage over the talented but new 76ers roster** [02:20](https://www.youtube.com/watch?v=3a-K7a9tQt0&t=140s)
+**2. Giannis Antetokounmpo — "Obviously, I have a new chapter ahead of me with the Miami Heat. And I'm gonna make the best out of it." — Giannis Antetokounmpo on his new chapter with the Miami Heat** [02:57](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=177s)
 
-Monica McNutt: "I do think that the 76ers are incredibly talented, but it does take time for teams to gel and to find the best style of basketball for the group that they have on the floor. And I just think the Knicks are ahead in terms of the continuity that exists having won a championship. Now, somebody could easily thwart that argument and say, we have had eight champions in the last eight years, you can't make them the favorite again. But I'm going to stick with the Knicks for right now."
+Giannis Antetokounmpo: "Doesn't matter where I am. Obviously, I have a new chapter ahead of me with the Miami Heat. And I'm gonna make the best out of it. But Milwaukee will always be my home. And obviously when I see videos like that, it makes me emotional. Don't cry because it's over. Laugh, smile, because it happened, you know? So I'm so grateful and happy. The 13 years I was with the Milwaukee Bucks because I had incredible memories. They made me, they allowed me to be me. They allowed me to walk in the streets with my flip flops, my sweats. I feel like they were my family. And you never know in life, man. Maybe our roads meet again. But for now, let's go win a championship."
 
-https://www.youtube.com/watch?v=3a-K7a9tQt0&t=140s
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=177s
 
-**3. Jay Williams — "I still think the favorites will be Oklahoma City in the overall NBA conversation too." — Thunder as NBA title favorites and 76ers' positional versatility** [02:51](https://www.youtube.com/watch?v=3a-K7a9tQt0&t=171s)
+**3. Giannis Antetokounmpo — "They see that the hard thing is not necessarily the basketball itself. It's that I have to figure out, like, where I'm going to put gas, where I'm going to get groceries, the road to the arena." — Giannis Antetokounmpo and Bam Adebayo on the adjustment to Miami** [04:17](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=257s)
 
-Jay Williams: "I still think the favorites will be Oklahoma City in the overall NBA conversation too. Obviously they made moves, **Sam Presti** won the best to do it. The Spurs are still there, I think the Knicks will be in that conversation, I think Philly will be in that conversation. I do think that it is interesting though with New York and Philly because even if **Joel Embiid** isn't on the court, they match up pretty well positions one through five. They are interchangeable, so to me, I think that is going to be our favorite for the Eastern Conference Finals."
+**Bam Adebayo:** "Me and him actually first saw each other in Vegas. And then the first time we ever hung out was here in Miami. So it's like full circle."
 
-https://www.youtube.com/watch?v=3a-K7a9tQt0&t=171s
+**Giannis Antetokounmpo:** "Just meeting different organizations and the people would be great. It's a nice arena. Bro, it's like insane. I don't think it's hit like either of us yet. Me neither. They see that the hard thing is not necessarily the basketball itself. It's that I have to figure out, like, where I'm going to put gas, where I'm going to get groceries, the road to the arena, routine."
 
-**4. Brian Windhorst — "They were stunned. Obviously Philly was in and what Bob Myers said on Rich Paul's podcast was accurate." — League reaction to LeBron James choosing Philadelphia 76ers** [03:33](https://www.youtube.com/watch?v=3a-K7a9tQt0&t=213s)
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=257s
 
-Brian Windhorst: "They were stunned. Obviously Philly was in and what **Bob Myers** said on **Rich Paul**'s podcast was accurate. They had a very compelling roster. If the league was stunned and frankly, I don't think they know what to make of it. They do question the structure of the team. The team is built several different ways. It's got a whole bunch of guys who can run on it, but then you've got a plodding center. This is a team that obviously needs reps together, but then you look at how often Joel Embiid has missed games, those things don't connect."
+**4. Giannis Antetokounmpo — "The first couple of weeks, months of the season, the space will be so much open and the decisions will be way easier for you." — Giannis Antetokounmpo and Erik Spoelstra on team chemistry and the upcoming season** [06:31](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=391s)
 
-https://www.youtube.com/watch?v=3a-K7a9tQt0&t=213s
+**Giannis Antetokounmpo:** "You were playing good. Translates very well in the NBA too. The first couple of weeks, months of the season, the space will be so much open and the decisions will be way easier for you."
 
-**5. Dan Orlovsky — "I think the conversation of the whole LeBron stacking teams for rings is so stupid." — Criticism of the 'LeBron stacking teams' narrative and playoff competitiveness** [04:51](https://www.youtube.com/watch?v=3a-K7a9tQt0&t=291s)
+**Erik Spoelstra:** "The World Cup. That reminded me of when we had the big three. Everybody knew when we would have a real serious film session. LeBron would always be in the front, like the first one sitting down, because I put the chairs up there. We don't even sit in our lockers, put two rows of chairs."
 
-Dan Orlovsky: "I think the conversation of the whole LeBron stacking teams for rings is so stupid. What do you guys want them to do, go to bad teams? It's moronic to constantly bring that up. I don't think anyone's going to beat them in a seven-game series. I think that's what makes basketball and baseball interesting more than football in that regard is you might, what they do in the regular season will not matter. I don't care if they're the one seed or the eight seed, the play-in, the playoff, that's stupid. I think beating them in a seven series is going to be almost impossible."
+**Giannis Antetokounmpo:** "So this is where we watch film?"
 
-https://www.youtube.com/watch?v=3a-K7a9tQt0&t=291s
+**Erik Spoelstra:** "If we have one of those kind of film sessions, we usually put the chairs here, standing right here, everybody's sitting right here. It's just like, it's kind of feels like a little bit different."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=391s
+
+**5. Giannis Antetokounmpo — "You have to feel like your life is dependent on this because you are going to do everything possible to win." — Giannis Antetokounmpo and Erik Spoelstra on the pressure to win in Miami** [12:26](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=746s)
+
+**Erik Spoelstra:** "You know, we need the shift too. We've been under the radar for four years. We've had huge expectations, but it's all been internal. Like there's been no pressure. If we lose, it's okay. Now there's going to be pressure. We need that too. Like that's what you're bringing."
+
+**Giannis Antetokounmpo:** "I need it too. You have to feel like your life is dependent on this because you are going to do everything possible to win. And I haven't had that feeling for a long time. And I feel like now I have it. I don't care how it works, what happens. I'm happy that I'm having this feeling. Like even today, working out with you guys, I tried to figure you guys out. I haven't had that in a long time. For 13 years. Like I knew who I was working with. I knew everybody. I need that pressure. I need it, I like it."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=746s
+
+**6. Giannis Antetokounmpo — "If I'm not here I won't know what is going on. I want to know everything, offense, defense." — Giannis Antetokounmpo on his commitment to learning the Heat's system** [13:23](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=803s)
+
+Giannis Antetokounmpo: "First of all, I'm doing it for me. If I'm not here I won't know what is going on. I want to know everything, offense, defense, so when training camp comes, I'm, like, almost ahead of them. I can talk to them. If I don't know the offense, how can I talk to my teammates?"
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=803s
+
+**7. Giannis Antetokounmpo — "I always wore 34. My mom was born in 1963, so I took the three. My dad was born in 1964, so I took the three and the four and I made 34. And now I just want to honor them in a different way. Adding 3 + 4, what does that equal? 7." — Giannis Antetokounmpo explains the origin of his jersey number 7** [16:35](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=995s)
+
+Giannis Antetokounmpo: "I always wore 34. My mom was born in 1963, so I took the three. My dad was born in 1964, so I took the three and the four and I made 34. And now I just want to honor them in a different way. Adding 3 + 4, what does that equal? 7. And my mom was born April 7th, so I took the 7."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=995s
+
+**8. Giannis Antetokounmpo — "You know when I was 19, maybe 20 years old, I was with the Bucks we had the practice here, and I took a little sneak peek in your office." — Giannis Antetokounmpo on his first visit to Pat Riley's office** [17:26](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1046s)
+
+Giannis Antetokounmpo: "You know when I was 19, maybe 20 years old, I was with the Bucks we had the practice here, and I took a little sneak peek in your office. I didn't sit in your chair, out of respect. But I came in here. I was looking around."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1046s
+
+**9. Pat Riley — "Every kid in the arena got up behind him and followed like a pied piper all the way around." — Pat Riley on the impact of Earvin Johnson on fans** [17:49](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1069s)
+
+Pat Riley: "I remember when we drafted **Earvin Johnson**, and he walked in for a summer league game unannounced. And he came in, walked through up the stairs, every kid in the arena got up behind him and followed like a pied piper all the way around. And he had that kind of... I just got goosebumps thinking about it."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1069s
+
+**10. Giannis Antetokounmpo — "I think until last night when I got off the plane it hadn't hit me yet. Until you get in Miami, then you get to meet the people and the people that welcome you into the city, they're different." — Giannis Antetokounmpo on the welcoming nature of the Miami community** [20:17](https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1217s)
+
+Giannis Antetokounmpo: "I think until last night when I got off the plane it hadn't hit me yet. Until you get in Miami, then you get to meet the people and the people that welcome you into the city, they're different. I love what I've felt so far. I think people are so welcoming, so nice to me. I hope it stays that way. All this stuff is nice. Like, we can talk about it all day long. But I just love playing basketball. I got on the court. I was able to talk to the coaching staff and like, and I just want to be around them as much as I can. So, you know, when the time comes, and training camp comes, I'm ready. I love pressure. I think pressure brings the best out of me. That's what I've seen so far in my career. And I think, I think this is the right place to be. I'm excited to be here."
+
+https://www.youtube.com/watch?v=zVhuHeKTXN8&t=1217s
 
 ---
 
-## How will LeBron's arrival impact Joel Embiid, Jaylen Brown and the 76ers' lineup? 🤔 | Get Up — *NBA on ESPN*
+## Spain Vacation with DMitch — *Davion Mitchell*
 
-Source: https://www.youtube.com/watch?v=6cxGdskmufc
+Source: https://www.youtube.com/watch?v=vx1sOsr8-Ew
 
-_Speakers identified: Brian Windhorst, Jay Williams, Monica McNutt_
+_Speakers identified: Davion Mitchell_
 
-**1. Brian Windhorst — "We have never seen anything like this. He completely goes outside his comfort zone." — LeBron James's decision to sign with the 76ers is unprecedented** [01:13](https://www.youtube.com/watch?v=6cxGdskmufc&t=73s)
+**1. Davion Mitchell — "45 is my birthday, 4 plus 5 is 9, and my birthday is in September." — Davion Mitchell explains his decision to switch from number 45 to 2** [00:39](https://www.youtube.com/watch?v=vx1sOsr8-Ew&t=39s)
 
-Brian Windhorst: "**LeBron James** came out in his own words and said this was not about money, this was not about family. If he goes through with his plan of living at least part-time in New York City, it is not even really about the city he is playing in. A Hall of Fame player, still very relevant, still all-NBA level, willing to sign for this for a team. We have never seen anything like this. He completely goes outside his comfort zone, not Miami, not Cleveland, not LA, and goes to this situation. It is going to be fascinating. It is absolutely going to be one of the most unique stories of an already complete one-off unique career."
+Davion Mitchell: "Obviously people know that 45 came from, it was a lot of meaning to it. People think it was just **Donovan Mitchell** or it's your favorite player, obviously that was my favorite player. But 45 is my birthday, 4 plus 5 is 9, and my birthday is in September. So all the things that I've worn or even my tattoos have meaning to it. Even 15, obviously it has meaning to it for my family. And I went back to 45. I had actually no reason, I just feel like 15 wasn't the best number at the time, so I was like let me just go back to 45."
 
-https://www.youtube.com/watch?v=6cxGdskmufc&t=73s
+https://www.youtube.com/watch?v=vx1sOsr8-Ew&t=39s
 
-**2. Jay Williams — "The closing chapter of LeBron James's career, we are putting in the hands of Joel Embiid." — Joel Embiid's injury history creates significant risk for LeBron's final years** [02:37](https://www.youtube.com/watch?v=6cxGdskmufc&t=157s)
+**2. Davion Mitchell — "One of my closest friends, Bud, he died in a car accident." — Davion Mitchell honors his late friend Bud with his number change** [01:38](https://www.youtube.com/watch?v=vx1sOsr8-Ew&t=98s)
 
-Jay Williams: "The biggest thing that happened to me on Friday, and I don't know where you guys were, but being in my home and hearing this news and thinking about it, literally left me with the biggest thought. You have to address the elephant in the room because three numbers stood out to me: 39, 19, 38. The last three seasons, those were the amount of games that **Joel Embiid** has played in the regular season. **LeBron James** finishing his career with **Joel Embiid**, who has a history of being injured, the trust that has to go into that, it is one of the biggest risks out there that nobody is really talking about. The closing chapter of **LeBron James**'s career, we are putting in the hands of **Joel Embiid** and his health."
+Davion Mitchell: "One of my closest friends, **Bud**, he died in a car accident. I think it was my redshirt year at Baylor. I remember I found out, we had a game the next day. I wasn't playing, I was sitting out, but I was just down in the moment. I was super down. And I wouldn't say we were the closest, but he was close enough where you can tell he looked up to me just because I played basketball and he was a little bit younger. He was a hard worker, he tried to get to the NBA. So this is me just showing that he got to the NBA without him being here, me just playing for 912 and not just for me, playing for something, playing for my hometown and also playing for him."
 
-https://www.youtube.com/watch?v=6cxGdskmufc&t=157s
-
-**3. Monica McNutt — "If he is healthy, as an MVP in this league, a force to be reckoned with." — Joel Embiid's health is critical for the 76ers' championship aspirations** [04:33](https://www.youtube.com/watch?v=6cxGdskmufc&t=273s)
-
-**Monica McNutt:** "I am inclined to agree with you, especially when you think about the success that the 76ers have been finding without **Joel Embiid**. Now, I do think it is obvious that if he is healthy, as an MVP in this league, a force to be reckoned with, that changes the calculus for sure in terms of making, hoisting that Larry O'Brien trophy a very real possibility in Philadelphia. But even if he only gives you 39 games, I think Philadelphia has uniquely figured out how to really highlight **Tyrese Maxey**, and this year they will have the opportunity to do that alongside **Jaylen Brown**. You add **LeBron James** playing whatever role he needs to play because we have seen him do that over the course of his career, and his ability to unlock the talent that he is around."
-
-**Brian Windhorst:** "I actually think that works with or without **Joel Embiid**. In a world in which the go-to phrase is positionless basketball, and you have got **Tyrese Maxey** and **Jaylen Brown** and VJ Edgecombe and **LeBron James**, I actually think that works with or without the man in the middle."
-
-https://www.youtube.com/watch?v=6cxGdskmufc&t=273s
-
-**4. Monica McNutt — "I have a hard time believing that there is going to be an issue between Jaylen Brown." — No conflict expected between Jaylen Brown and LeBron James** [08:04](https://www.youtube.com/watch?v=6cxGdskmufc&t=484s)
-
-Monica McNutt: "I have a hard time believing that there is going to be an issue between **Jaylen Brown** and **LeBron James**, particularly when we reflect on **LeBron James** affirming **Jaylen Brown** early in his careers while the Celtics were trying to get over the hump. Yes, there are things to be figured out, but that is on every great championship team or every great team, period. They are going to figure it out."
-
-https://www.youtube.com/watch?v=6cxGdskmufc&t=484s
-
-**5. Brian Windhorst — "We got to get through training camp and figure out how these four guys are going to play." — Training camp is essential for the 76ers' new roster chemistry** [10:52](https://www.youtube.com/watch?v=6cxGdskmufc&t=652s)
-
-Brian Windhorst: "I don't think enough attention is being paid to that **Jaylen Brown** would have a big challenge of getting adapted to this team, even if **LeBron James** were not on it. And now **LeBron James** has been added to it, and it is a huge thing for the 76ers to do it. I have got people talking about how they are going to win the title in six games or four games or whatever, and I am like, guys, we got to get through training camp and figure out how these four guys or five guys are going to play together."
-
-https://www.youtube.com/watch?v=6cxGdskmufc&t=652s
-
----
-
-## The PRESSURE Joel Embiid now faces with LeBron going to the 76ers 😯 | First Take — *NBA on ESPN*
-
-Source: https://www.youtube.com/watch?v=gUX-NtigLT8
-
-_Speakers identified: Stephen A. Smith, Monica McNutt, Brian Windhorst, Michael Wilbon_
-
-**1. Brian Windhorst — "They missed out on LeBron James this offseason, they missed out on Giannis, they missed out on Jaylen Brown." — Warriors missed out on LeBron James and other top free agents** [00:33](https://www.youtube.com/watch?v=gUX-NtigLT8&t=33s)
-
-Brian Windhorst: "The Warriors missed out on **LeBron James** this offseason, they missed out on Giannis, they missed out on **Jaylen Brown**. Last year they missed out on **Kevin Durant**. When you look at the cap flexibility that the Warriors have, when you look at the draft picks, the young players that could be viewed as tradeable assets, it doesn't feel like this organization has been able to land the plane when it comes to the big fish that's out there to be gotten."
-
-https://www.youtube.com/watch?v=gUX-NtigLT8&t=33s
-
-**2. Stephen A. Smith — "I think it's still open because it's Stephen Curry. I am fine being a day too late." — Stephen Curry's championship window remains open in Golden State** [01:30](https://www.youtube.com/watch?v=gUX-NtigLT8&t=90s)
-
-Stephen A. Smith: "I think it's still open because it's **Stephen Curry**. I am fine being a day too late on writing **Stephen Curry** off because I bet you people sat here in 2022 and had the discussion about whether or not the Golden State window was closed. And then they beat the Boston Celtics in the NBA championship. They have a lot of tradeable contracts and they have a lot of draft picks. Yes, they missed out on **LeBron James**."
-
-https://www.youtube.com/watch?v=gUX-NtigLT8&t=90s
-
-**3. Michael Wilbon — "Joel Embiid has the most pressure. LeBron's career, I don't want to hear about LeBron's legacy anymore." — Joel Embiid faces the most pressure on the 76ers** [06:55](https://www.youtube.com/watch?v=gUX-NtigLT8&t=415s)
-
-Michael Wilbon: "**Joel Embiid** has the most pressure. LeBron's career, I don't want to hear about LeBron's legacy anymore. That is the new thing. **LeBron James**, if he decided tomorrow, never mind, I'm not going to play, he goes down as one of the at worst five best players of all time, and in most people's minds in the top two or three. So LeBron, if he doesn't play, much less doesn't win."
-
-https://www.youtube.com/watch?v=gUX-NtigLT8&t=415s
-
-**4. Stephen A. Smith — "I think LeBron James because he signed up for the pressure. Happiness means winning." — LeBron James signed with the 76ers to win a championship** [07:40](https://www.youtube.com/watch?v=gUX-NtigLT8&t=460s)
-
-Stephen A. Smith: "I think **LeBron James** because he signed up for the pressure. Let me define what pressure is. It's simply this. Tim McMahon on the Hoop Collective podcast says something that I think is brilliant about the 76ers organization. It's **Joel Embiid**'s organization, it's **Tyrese Maxey**'s team. That's what Tim McMahon says. Let me add one. I think it's **LeBron James**'s season. I think he signed up to go to Philly because now we learn the big reveal of the end of the movie or the TV show, what does happiness mean? Happiness means winning."
-
-https://www.youtube.com/watch?v=gUX-NtigLT8&t=460s
-
-**5. Brian Windhorst — "How can you account for a guy who can't play because he's hurt? This is the nature." — Joel Embiid's injury history makes it difficult to assign pressure** [09:23](https://www.youtube.com/watch?v=gUX-NtigLT8&t=563s)
-
-Brian Windhorst: "The 76ers played 11 playoff games this spring. He missed four of them. Three of them were because he had an appendectomy. He comes back from an appendectomy before the doctors were going to clear him. He has a 34-point game seven in one of the great games of his career to carry them over the Celtics and a few days later misses a game with a sore ankle. Because this is who **Joel Embiid** is. You can say that there's pressure on him, but you're never going to be able to account for the injuries. How can you account for a guy who can't play because he's hurt? This is just the nature of it."
-
-https://www.youtube.com/watch?v=gUX-NtigLT8&t=563s
-
-**6. Stephen A. Smith — "Joel Embiid is synonymous with trust the process in a loser's mentality." — Joel Embiid is synonymous with a 'trust the process' loser mentality** [11:06](https://www.youtube.com/watch?v=gUX-NtigLT8&t=666s)
-
-Stephen A. Smith: "**Joel Embiid** has underwhelmed in terms of the expectations that have been placed on him since he arrived in Philadelphia, and even though he got an MVP once upon a time, **Joel Embiid** is synonymous with trust the process in a loser's mentality. Fair or unfair, that's the label, that's the headline for his career. And so when it comes to the pressure, if you're looking at the situation in Philadelphia, **Joel Embiid**, if he can't win now, if he can't get to a conference finals or better now, it's probably not going to ever happen with the Philadelphia 76ers."
-
-https://www.youtube.com/watch?v=gUX-NtigLT8&t=666s
+https://www.youtube.com/watch?v=vx1sOsr8-Ew&t=98s
 
 ---
 

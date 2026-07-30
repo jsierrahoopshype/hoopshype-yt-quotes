@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-23
-
-## My Recovery Update, DJing Journey | Time Out with Tyrese Haliburton | Episode 2 — *Tyrese Haliburton*
+# My Recovery Update, DJing Journey | Time Out with Tyrese Haliburton | Episode 2 — *Tyrese Haliburton*
 
 Source: https://www.youtube.com/watch?v=RCGhaLVB0ls
 
@@ -23,7 +21,3 @@ https://www.youtube.com/watch?v=RCGhaLVB0ls&t=181s
 Tyrese Haliburton: "I think all my hobbies help keep my sanity during rehab. It's been a long process. Now I'm getting to playing five-on-five, running, and doing a little bit of everything. I'm kind of back to myself a little bit more in the basketball world, so that keeps me a little busy. But these things have definitely helped me get through DJing, gaming, everything is kind of helped me get through this time."
 
 https://www.youtube.com/watch?v=RCGhaLVB0ls&t=536s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

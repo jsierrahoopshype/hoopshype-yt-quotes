@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-22
-
-## My NBA Recovery Routine! How To Recover After Game/Practice Like A Pro! Minnesota Timberwolves! — *Jaylen Clark*
+# My NBA Recovery Routine! How To Recover After Game/Practice Like A Pro! Minnesota Timberwolves! — *Jaylen Clark*
 
 Source: https://www.youtube.com/watch?v=9QW-N_Zp-PY
 
@@ -17,7 +15,3 @@ https://www.youtube.com/watch?v=9QW-N_Zp-PY&t=15s
 Jaylen Clark: "These are devices that we have in our gym. They tell our strength coaches and dietitians and everybody that monitoring tells them when we need to go ahead and relax on running or relax on doing, coming back at night and shooting and focus on recovering, because they track how much we run, how much energy we're exerting, how fast we go. Based on our data that's collected by this, that can help us in telling us if we need to prioritize recovery or if we're chilling for the night."
 
 https://www.youtube.com/watch?v=9QW-N_Zp-PY&t=234s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

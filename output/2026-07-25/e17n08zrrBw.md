@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-25
-
-## Why I Re-Enrolled at UCLA After Making the NBA | UCLA Basketball Tour!! — *Jaylen Clark*
+# Why I Re-Enrolled at UCLA After Making the NBA | UCLA Basketball Tour!! — *Jaylen Clark*
 
 Source: https://www.youtube.com/watch?v=e17n08zrrBw
 
@@ -45,7 +43,3 @@ https://www.youtube.com/watch?v=e17n08zrrBw&t=484s
 Jaylen Clark: "**Max**, you got to say what's up to the vlog, man. He just graduated. He was manager while he was here. I better be on this wall, bro. Actually. Oh, there I am right there. There you go. So, made the wall."
 
 https://www.youtube.com/watch?v=e17n08zrrBw&t=549s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

@@ -234,6 +234,26 @@ https://www.youtube.com/watch?v=6byLcpbieT4&t=7481s
 
 ---
 
+## My NBA Recovery Routine! How To Recover After Game/Practice Like A Pro! Minnesota Timberwolves! — *Jaylen Clark*
+
+Source: https://www.youtube.com/watch?v=9QW-N_Zp-PY
+
+_Speakers identified: Jaylen Clark_
+
+**1. Jaylen Clark — "taking care of your body is very important so you don't have to be in the situation" — Jaylen Clark on the importance of injury prevention and recovery** [00:15](https://www.youtube.com/watch?v=9QW-N_Zp-PY&t=15s)
+
+Jaylen Clark: "I tore my Achilles in college. Just to bring awareness to the situation, taking care of your body is very important so you don't have to be in the situation I was in. I had to miss a year and four months, came back out of shape, sloppy, almost lost my job. I was able to fight through in the G League, earned some stuff back and eventually got on contract. So I'm going to show you guys ways I stay healthy and prepped and everything so I hopefully don't ever have to go through that traumatic injury again."
+
+https://www.youtube.com/watch?v=9QW-N_Zp-PY&t=15s
+
+**2. Jaylen Clark — "they track how much we run, how much energy we're exerting, how fast we go" — How NBA teams use Kinexon data to monitor player recovery** [03:54](https://www.youtube.com/watch?v=9QW-N_Zp-PY&t=234s)
+
+Jaylen Clark: "These are devices that we have in our gym. They tell our strength coaches and dietitians and everybody that monitoring tells them when we need to go ahead and relax on running or relax on doing, coming back at night and shooting and focus on recovering, because they track how much we run, how much energy we're exerting, how fast we go. Based on our data that's collected by this, that can help us in telling us if we need to prioritize recovery or if we're chilling for the night."
+
+https://www.youtube.com/watch?v=9QW-N_Zp-PY&t=234s
+
+---
+
 ## The NBA’s Analytics Debate Explained (With Brian Windhorst) — *Shump Street*
 
 Source: https://www.youtube.com/watch?v=CviEPQ3KQB4
