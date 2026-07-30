@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-07-18
-
-## NBA Player Breakdowns And Shows His NBA Contract Earnings! Minnesota Timberwolves Jaylen Clark! — *Jaylen Clark*
+# NBA Player Breakdowns And Shows His NBA Contract Earnings! Minnesota Timberwolves Jaylen Clark! — *Jaylen Clark*
 
 Source: https://www.youtube.com/watch?v=ndLomDFhqxc
 
@@ -29,7 +27,3 @@ https://www.youtube.com/watch?v=ndLomDFhqxc&t=431s
 Jaylen Clark: "To get partial licensing check, I'm pretty sure you have to play 21 or be active for 21 games. If you're not active for 21 games, you do not receive a licensing check. For example, my first year in the NBA I did not receive the licensing check, even though I was in 2K and all that type of stuff, because I didn't meet the minimum requirement of games, I didn't receive the licensing check."
 
 https://www.youtube.com/watch?v=ndLomDFhqxc&t=453s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
