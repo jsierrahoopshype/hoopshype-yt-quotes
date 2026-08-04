@@ -1,0 +1,11 @@
+# I Bought My Dream House At 24!! — *Jaylen Clark*
+
+Source: https://www.youtube.com/watch?v=lfCs8IlE3K8
+
+_Speakers identified: Jaylen Clark_
+
+**1. Jaylen Clark — "Moving to Nevada alone and becoming a resident will save me a lot of money" — Jaylen Clark on the financial benefits of moving to Las Vegas** [06:25](https://www.youtube.com/watch?v=lfCs8IlE3K8&t=385s)
+
+Jaylen Clark: "I will be moving out here to Las Vegas. This house is amazing, it is way more than I ever dreamed of or even thought that I would ever be able to afford. It is definitely not that expensive as much financial stuff as I am pushing. Trust and believe I am not spending three, four million dollars on no house. That is way out of my budget. This house is well within budget. I will be coming to Las Vegas resident and being able to write stuff off for tax purposes. This would be a huge help for that. Moving to Nevada alone and becoming a resident will save me a lot of money on the back end. As you guys know, California is one of the top three income tax states in America, so you are paying for the sunshine. In Las Vegas, we have more sunshine with no beach, but it is a lot cheaper."
+
+https://www.youtube.com/watch?v=lfCs8IlE3K8&t=385s
