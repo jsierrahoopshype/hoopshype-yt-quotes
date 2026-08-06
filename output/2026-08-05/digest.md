@@ -1,5 +1,73 @@
 # HoopsHype YT Quotes — 2026-08-05
 
+## Tony Allen says he misspoke on the LeBron hunted but DOUBLES DOWN on the Defensive conversation — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=7cZh0L0tO7Q
+
+_Speakers identified: Theo Pinson, Raymond Felton, Charlie Villanueva, Tony Allen_
+
+**1. Tony Allen — "I signed up for it. I wanted to be the best at it. So, if somebody's talking about a ranking and they're ahead of me, it's only right I can go on and give you an opinion in the barbershop and it not be an out-the-mud moment." — Tony Allen clarifies his comments on LeBron James' defensive effort** [00:54](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=54s)
+
+Tony Allen: "A lot of people took it as if I was chasing. But let's think about it, huh? All the teams he was on, I was on. And if I wasn't on first team, I was on second team, I should have been first team. That's how I feel. You see what I'm saying? About that line of work. I signed up for it. I wanted to be the best at it. So, if somebody's talking about a ranking and they're ahead of me, it's only right I can go on and give you an opinion in the barbershop and it not be an out-the-mud moment."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=54s
+
+**2. Tony Allen — "I think the window is a little shorter for the defender. Because at any moment, this league has lethal scorers." — Tony Allen on the difficulty of guarding elite scorers** [02:30](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=150s)
+
+Tony Allen: "I think the window is a little shorter for the defender. Because at any moment, this league has lethal scorers. So, anytime you get your ass cooked, you already know. Hey man, you might need to sub. You hear that whistle faster than anybody. So, I think it's harder to be a score for sure, because night in and night out, the defense is predicated to stop you. We are looking for it. Every time you got the ball, we are in the stands of alert. And I think to have to go against defenses like that, and with guys like myself who understand the scouting report, I mean night in and night out, I think that's harder."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=150s
+
+**3. Tony Allen — "I've been seeing guys get that award from the big man, and I'm like, man, on the night-in and night-out basis, I mean, you can go from back in the day, what was the list of centers that a guy had to guard night-in and night-out?" — Tony Allen on the lack of recognition for elite perimeter defenders** [03:57](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=237s)
+
+Tony Allen: "That's been puzzling me for years, man. You know, I've been seeing guys get that award from the big man, and I'm like, man, on the night-in and night-out basis, I mean, you can go from back in the day, what was the list of centers that a guy had to guard night-in and night-out? And so, a statistician had to break it down to me on how they cover the court, right? So, my rebuttal was, okay, what about these downstreams you got to go through? What about all these floppy actions and these upscreens? What about having to pick up full-court pressure? And chances are, you're sticking a guy like Gilbert Arenas, he might blow by you, you get the foul and the score, and it all costs with his speed. So, you got to be able to be strategic when you are a guard."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=237s
+
+**4. Tony Allen — "They was going small ball back in Golden State days. You get what I'm saying? When they had Al Harrington at the four. I was checking Al Harrington, bro." — Tony Allen on his defensive versatility against small-ball lineups** [05:37](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=337s)
+
+Tony Allen: "They was going small ball back in Golden State days. You get what I'm saying? When they had **Al Harrington** at the four. I was checking **Al Harrington**, bro. When they went small, what are you going to do? And you know he a bad, shut your mouth. Hey, you know fresh out of high school, one of the 41 players that ever do it. You see what I'm saying? I mean the list goes on. When they start going small ball, I thought that was a plus for me. I could stick a **Matt Barnes** at the four. I could stick a **Charlie Villanueva** at the four. You see what I'm saying? I feel like, huh? Pardon?"
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=337s
+
+**5. Tony Allen — "He neck and neck with Kobe. He damn near neck and neck with Kobe." — Tony Allen on Kobe Bryant's status as an all-time great** [09:18](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=558s)
+
+Tony Allen: "He neck and neck with Kobe. He damn near neck and neck with Kobe. So, if we if we're saying that, how are you not one of the best? And they said, yo, if there's one guy we had to get our sleep for, it was Tony Allen."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=558s
+
+**6. Tony Allen — "We all know he's a good defender, but the shit that he does doesn't show up on the stat sheet." — Tony Allen on his defensive impact beyond the stat sheet** [10:15](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=615s)
+
+Tony Allen: "With TA, we all know he's a good defender, but the shit that he does doesn't show up on the stat sheet. You know what I'm saying? Like the shit don't show up on the stat sheet, so that's why the big man get more recognition because of what they do shows up on the stat sheet. Just like the analytic guys coming to tell you shit, because the analytics is going to show block shots, they're going to show the affected shots, or they got to shoot up like, what is your, there's nothing in stats that shows how many picks you got over before you had to get a late contest."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=615s
+
+**7. Tony Allen — "I got to stick the best player on, and you got a lot of these guys like Dante Jones, you had Quentin Richardson at one time, you know Matt Barnes, you know all these guys had to stick those type of guys." — Tony Allen on the importance of defensive strategy** [12:55](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=775s)
+
+Tony Allen: "I got to stick the best player on, and you got a lot of these guys like **Dante Jones**, you had **Quentin Richardson** at one time, you know **Matt Barnes**, you know all these guys had to stick those type of guys. So, they were the guys that were on the scouting report, meaning like, all right, we got to target Bron, we got to make sure he don't get his average, meaning on the defensive aspect of things, not the offensive, not guys offensively chasing him like, all right, let's run this pick and roll so I can get Bron in the in the ISO. No, I wasn't saying that. That probably came out wrong, and I and I can see why people was chasing that one."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=775s
+
+**8. Tony Allen — "I saw one little content creator, he took, because they, ooh, that went viral. You right, I did go viral." — Tony Allen on his defensive legacy and recognition** [14:13](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=853s)
+
+Tony Allen: "I saw one little content creator, he took, because they, ooh, that went viral. You right, I did go viral. I saw everybody and their mama trying to cut up some I said, I felt like Drake, man. Y'all going to eat, man. Y'all going to. For real, hey look, so look, right? The content creator, I forgot which one, he I said, man, you know LeBron ain't going to start out on KD. And to your point what you just said, targeting stars. Now, let's just say in that scenario, Bron takes KD, right, start now. Just because you know we going to be dogs, I got him, I got him, I got him, right? That's how you going to that's how your superstar pose to rally up your ball club. Now, I got him start now. But soon as he get that first foul, you best believe his ass going to the self-lotion."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=853s
+
+**9. Tony Allen — "Me myself personally, I damn near was sticking boxing one in the NBA." — Tony Allen on his defensive mindset and boxing out** [16:05](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=965s)
+
+Tony Allen: "Me myself personally, I damn near was sticking boxing one in the NBA. You get what I'm saying? So I I I I'm not asking for no help. And and and and I cried dearly if somebody ever tried to bring a double team to me. Like I tell them boys, man, I don't need no help on nobody, bro. You feel what I'm saying? Don't help me, bro, because you really in my way."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=965s
+
+**10. Tony Allen — "I'm swiping down at everything. I'm trying to deflect every pass. Like, no, he one of them guys you got to have that type of energy on." — Tony Allen on defensive strategy and forcing tough shots** [17:55](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=1075s)
+
+Tony Allen: "I'm swiping down at everything. I'm trying to deflect every pass. Like, no, he one of them guys you got to have that type of energy on. But yeah, man, that's that was one of those that was a little he he, haha, I wanted to give y'all, man. That actually happened. And in that game, it was a funny ending. It was a funny ending. You don't remember? Yeah, you got to go tune in. You got to go tune in. You got to go tune in."
+
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=1075s
+
+---
+
 ## Jaylen Brown felt DISRESPECTED? DRose, Melo or Klay legendary performances and more — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=EjHZIZUzP-I

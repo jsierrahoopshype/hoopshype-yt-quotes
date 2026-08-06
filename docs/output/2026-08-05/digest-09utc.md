@@ -1,96 +1,70 @@
 # HoopsHype YT Quotes — 2026-08-05
 
-## New York Basketball LEGEND Stephon Marbury with Thanasis Antetokounmpo I Knicks I NBA — *Thanalysis Show*
+## Tony Allen says he misspoke on the LeBron hunted but DOUBLES DOWN on the Defensive conversation — *To The Baha*
 
-Source: https://www.youtube.com/watch?v=HLaVlkqXJJI
+Source: https://www.youtube.com/watch?v=7cZh0L0tO7Q
 
-_Speakers identified: Thanasis Antetokounmpo, Stephon Marbury_
+_Speakers identified: Theo Pinson, Raymond Felton, Charlie Villanueva, Tony Allen_
 
-**1. Stephon Marbury — "It wasn't that I didn't like my time in Greece, we were stuck on a boat." — Stephon Marbury on his experience playing in Greece** [00:53](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=53s)
+**1. Tony Allen — "I signed up for it. I wanted to be the best at it. So, if somebody's talking about a ranking and they're ahead of me, it's only right I can go on and give you an opinion in the barbershop and it not be an out-the-mud moment." — Tony Allen clarifies his comments on LeBron James' defensive effort** [00:54](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=54s)
 
-**Thanasis Antetokounmpo:** "The beef I have is that you don't like Greece. You don't like your time in Greece?"
+Tony Allen: "A lot of people took it as if I was chasing. But let's think about it, huh? All the teams he was on, I was on. And if I wasn't on first team, I was on second team, I should have been first team. That's how I feel. You see what I'm saying? About that line of work. I signed up for it. I wanted to be the best at it. So, if somebody's talking about a ranking and they're ahead of me, it's only right I can go on and give you an opinion in the barbershop and it not be an out-the-mud moment."
 
-**Stephon Marbury:** "It wasn't that I didn't like my time in Greece, we were stuck on a boat. We lived on the Queen Mary, too. So, they wouldn't allow us to go anywhere else, so we didn't get a chance to see Greece. We only basically went to the game, because you remember during that time it was a war going on. So, that's why we had to live on a boat, opposed to living in a hotel or some place. During that time, it was very crazy in 2000, 2004. So, I didn't get a chance to really experience Greece like how other people experience it."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=54s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=53s
+**2. Tony Allen — "I think the window is a little shorter for the defender. Because at any moment, this league has lethal scorers." — Tony Allen on the difficulty of guarding elite scorers** [02:30](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=150s)
 
-**2. Stephon Marbury — "I've been in China almost 15 years. I'm spoiled. I got translator for the game, translator for work." — Stephon Marbury on his 15-year career in China** [03:04](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=184s)
+Tony Allen: "I think the window is a little shorter for the defender. Because at any moment, this league has lethal scorers. So, anytime you get your ass cooked, you already know. Hey man, you might need to sub. You hear that whistle faster than anybody. So, I think it's harder to be a score for sure, because night in and night out, the defense is predicated to stop you. We are looking for it. Every time you got the ball, we are in the stands of alert. And I think to have to go against defenses like that, and with guys like myself who understand the scouting report, I mean night in and night out, I think that's harder."
 
-Stephon Marbury: "I've been in China almost 15 years. I'm spoiled. I got translator for the game, translator for work, translator for everything. So, I got lazy and I was learning at one point, and then I had got hurt and then I went back to America for a month and then I went back and then I gave up. This was at the beginning of my career there. I wish I would have learned more. It sucks because Chinese is super hard, but when you know, you know."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=150s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=184s
+**3. Tony Allen — "I've been seeing guys get that award from the big man, and I'm like, man, on the night-in and night-out basis, I mean, you can go from back in the day, what was the list of centers that a guy had to guard night-in and night-out?" — Tony Allen on the lack of recognition for elite perimeter defenders** [03:57](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=237s)
 
-**3. Stephon Marbury — "Shaq was doing it at Walmart. I just introduced it at a lower number at $14.98." — Stephon Marbury on his affordable shoe brand** [04:15](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=255s)
+Tony Allen: "That's been puzzling me for years, man. You know, I've been seeing guys get that award from the big man, and I'm like, man, on the night-in and night-out basis, I mean, you can go from back in the day, what was the list of centers that a guy had to guard night-in and night-out? And so, a statistician had to break it down to me on how they cover the court, right? So, my rebuttal was, okay, what about these downstreams you got to go through? What about all these floppy actions and these upscreens? What about having to pick up full-court pressure? And chances are, you're sticking a guy like Gilbert Arenas, he might blow by you, you get the foul and the score, and it all costs with his speed. So, you got to be able to be strategic when you are a guard."
 
-Stephon Marbury: "**Shaq** was doing it at Walmart. I just introduced it at a lower number at $14.98. We did have shoes for $10 as well. I'm still doing that, but just now, just now I know how to do it. They call it a vertical platform, whereas I don't need anybody from logistics. I don't need anyone to do anything for me. So now I know how to do it from that aspect on a business side."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=237s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=255s
+**4. Tony Allen — "They was going small ball back in Golden State days. You get what I'm saying? When they had Al Harrington at the four. I was checking Al Harrington, bro." — Tony Allen on his defensive versatility against small-ball lineups** [05:37](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=337s)
 
-**4. Stephon Marbury — "You heard about when James Harden sold like 6,000 bottles of wine in China? I do that." — Stephon Marbury on managing social media for NBA players in China** [07:07](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=427s)
+Tony Allen: "They was going small ball back in Golden State days. You get what I'm saying? When they had **Al Harrington** at the four. I was checking **Al Harrington**, bro. When they went small, what are you going to do? And you know he a bad, shut your mouth. Hey, you know fresh out of high school, one of the 41 players that ever do it. You see what I'm saying? I mean the list goes on. When they start going small ball, I thought that was a plus for me. I could stick a **Matt Barnes** at the four. I could stick a **Charlie Villanueva** at the four. You see what I'm saying? I feel like, huh? Pardon?"
 
-Stephon Marbury: "I have an MCN company where we manage and we help people to do their social media, to make money on social media doing live streaming in China. You heard about when **James Harden** sold like 6,000 bottles of wine in China? I do that. I'm behind the scene helping people do that type of stuff. And sometimes I do it myself. And then now, after I set all that up, now I go in front of the camera again."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=337s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=427s
+**5. Tony Allen — "He neck and neck with Kobe. He damn near neck and neck with Kobe." — Tony Allen on Kobe Bryant's status as an all-time great** [09:18](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=558s)
 
-**5. Stephon Marbury — "I would love. I love the opportunity. I'm in position now more so ever to buy an NBA team." — Stephon Marbury on his interest in NBA team ownership** [09:40](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=580s)
+Tony Allen: "He neck and neck with Kobe. He damn near neck and neck with Kobe. So, if we if we're saying that, how are you not one of the best? And they said, yo, if there's one guy we had to get our sleep for, it was Tony Allen."
 
-Stephon Marbury: "I would love. I love the opportunity. I'm in position now more so ever to buy an NBA team with with with people that I work with. Not me particularly by myself. That's a dream to to to to be able to own an NBA team and go. I was talking to my son about that. I was like, oh, if you if I own the team, you just play. Don't worry about it. You just play, you get good."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=558s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=580s
+**6. Tony Allen — "We all know he's a good defender, but the shit that he does doesn't show up on the stat sheet." — Tony Allen on his defensive impact beyond the stat sheet** [10:15](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=615s)
 
-**6. Stephon Marbury — "One of the knocks on New York City guards was we can dribble the basketball, but we can't shoot." — Stephon Marbury on the playstyle of New York City guards** [10:54](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=654s)
+Tony Allen: "With TA, we all know he's a good defender, but the shit that he does doesn't show up on the stat sheet. You know what I'm saying? Like the shit don't show up on the stat sheet, so that's why the big man get more recognition because of what they do shows up on the stat sheet. Just like the analytic guys coming to tell you shit, because the analytics is going to show block shots, they're going to show the affected shots, or they got to shoot up like, what is your, there's nothing in stats that shows how many picks you got over before you had to get a late contest."
 
-Stephon Marbury: "One of the knocks on New York City guards was we can dribble the basketball, get to the get to the basket, but we can't shoot. So when I came out, my brothers made sure that I was able to shoot. But handling the basketball, you know, that's our thing from **Rayford Austin**, **Shamgod Wells**, **Kareem Reid**. You think of it. We got some of the the best ball handlers on earth in New York."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=615s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=654s
+**7. Tony Allen — "I got to stick the best player on, and you got a lot of these guys like Dante Jones, you had Quentin Richardson at one time, you know Matt Barnes, you know all these guys had to stick those type of guys." — Tony Allen on the importance of defensive strategy** [12:55](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=775s)
 
-**7. Stephon Marbury — "Allen is the best pound for pound, six foot and under. He's by far the best." — Stephon Marbury on being the toughest guard to defend** [11:46](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=706s)
+Tony Allen: "I got to stick the best player on, and you got a lot of these guys like **Dante Jones**, you had **Quentin Richardson** at one time, you know **Matt Barnes**, you know all these guys had to stick those type of guys. So, they were the guys that were on the scouting report, meaning like, all right, we got to target Bron, we got to make sure he don't get his average, meaning on the defensive aspect of things, not the offensive, not guys offensively chasing him like, all right, let's run this pick and roll so I can get Bron in the in the ISO. No, I wasn't saying that. That probably came out wrong, and I and I can see why people was chasing that one."
 
-Stephon Marbury: "Allen is the best pound for pound, six foot and under. I don't care what guard who ever played basketball, he's by far the best. Allen is skinny, he's small, and he's like wiry strong. You know Allen played football, right? He was nice in football, so he was used to getting contact and getting hit. But when we played against him, I'm like, the only way that I could basically slow him down is I got to beat him up. I got to foul him hard, I got to hit him hard, but it didn't work."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=775s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=706s
+**8. Tony Allen — "I saw one little content creator, he took, because they, ooh, that went viral. You right, I did go viral." — Tony Allen on his defensive legacy and recognition** [14:13](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=853s)
 
-**8. Stephon Marbury — "Our battles were from it it go all the way back to college." — Stephon Marbury on his college rivalry with Georgetown** [13:05](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=785s)
+Tony Allen: "I saw one little content creator, he took, because they, ooh, that went viral. You right, I did go viral. I saw everybody and their mama trying to cut up some I said, I felt like Drake, man. Y'all going to eat, man. Y'all going to. For real, hey look, so look, right? The content creator, I forgot which one, he I said, man, you know LeBron ain't going to start out on KD. And to your point what you just said, targeting stars. Now, let's just say in that scenario, Bron takes KD, right, start now. Just because you know we going to be dogs, I got him, I got him, I got him, right? That's how you going to that's how your superstar pose to rally up your ball club. Now, I got him start now. But soon as he get that first foul, you best believe his ass going to the self-lotion."
 
-Stephon Marbury: "Our battles were from it it go all the way back to college. Because we played against we got a classic game, Georgia Tech versus Georgetown. It's classic. All you got to do is type it in. You type it, it's going to come up. Stephon Marbury, **Allen Iverson**. Boom, it's going to come up. It's a classic."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=853s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=785s
+**9. Tony Allen — "Me myself personally, I damn near was sticking boxing one in the NBA." — Tony Allen on his defensive mindset and boxing out** [16:05](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=965s)
 
-**9. Stephon Marbury — "My dad was rushed to the hospital and my dad passed away while I was on the court." — Stephon Marbury on the personal tragedies during his Knicks tenure** [17:21](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1041s)
+Tony Allen: "Me myself personally, I damn near was sticking boxing one in the NBA. You get what I'm saying? So I I I I'm not asking for no help. And and and and I cried dearly if somebody ever tried to bring a double team to me. Like I tell them boys, man, I don't need no help on nobody, bro. You feel what I'm saying? Don't help me, bro, because you really in my way."
 
-Stephon Marbury: "I was dealing with a lot. I was super depressed. I was playing at the Garden, my dad was rushed to the hospital and my dad passed away while I was on the court. And then my dad died, then my coach died like a week later, my aunt died, and then my mom checked in the hospital on her deathbed. So it was like a lot. And then I wasn't my my situation with the Knicks, it was like going bad."
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=965s
 
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1041s
+**10. Tony Allen — "I'm swiping down at everything. I'm trying to deflect every pass. Like, no, he one of them guys you got to have that type of energy on." — Tony Allen on defensive strategy and forcing tough shots** [17:55](https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=1075s)
 
-**10. Stephon Marbury — "All you got to do, son, just got to hunker down and just let the storm pass over." — Stephon Marbury on the advice from his doctor** [18:43](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1123s)
+Tony Allen: "I'm swiping down at everything. I'm trying to deflect every pass. Like, no, he one of them guys you got to have that type of energy on. But yeah, man, that's that was one of those that was a little he he, haha, I wanted to give y'all, man. That actually happened. And in that game, it was a funny ending. It was a funny ending. You don't remember? Yeah, you got to go tune in. You got to go tune in. You got to go tune in."
 
-Stephon Marbury: "The guy who did all five of my ankle surgeries, Dr. **William Hamilton**, he passed away about two, three years ago. He said, Stephon, I know you're dealing with a lot, but all you got to do, son, just got to hunker down and just let the storm pass over. It's going to pass because you're a good kid. I was like, thanks, Dr. Hamilton."
-
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1123s
-
-**11. Stephon Marbury — "I was the number one player in the fifth grade all the way until I went to college." — Stephon Marbury on his transition to playing in China** [20:30](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1230s)
-
-Stephon Marbury: "I was the number one player in the fifth grade all the way until I went to college. I was highly recruited. But when I was younger, because I had brothers that were all-American in America, people already knew me. They were like, oh, your little brother is nice. So when my brother go to all-American camp, like Nike all-American camp, all of the nice players that, you know, **Kenny Anderson**s and they were sending private planes to pick me up to go to their to come to their school in that time. So it was that was legal for them to do that. But all of the other stuff, they couldn't do nothing."
-
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1230s
-
-**12. Stephon Marbury — "My sister taught me from a young age, practice makes permanent. It doesn't make perfect." — Stephon Marbury on the importance of practice and consistency** [22:06](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1326s)
-
-Stephon Marbury: "My sister taught me from a young age, practice makes permanent. It doesn't make perfect. Right? So when you practice, you're practicing so that you can be consistent. So if you shoot the basketball consistent, it's seven out of if you can make 10 out of 10 great, but if you can hit six, seven, eight out of nine out of 10 consistently, you're at 60%, 70%, 80% of the time. You know what I'm saying? So if you can practice that regimen and stay in that in that realm, two, three out of 10, that's not that's not it."
-
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1326s
-
-**13. Stephon Marbury — "Rod Strickland was my hardest person to guard. He was the hardest person that I had to guard." — Stephon Marbury on the toughest players he had to guard** [27:38](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1658s)
-
-Stephon Marbury: "**Rod Strickland** was my hardest person to guard. He was the hardest person that I had to guard. Allen, of course. That Allen is basically try to keep him between 50 and 30, right? Because he going to shoot the basketball 30 times a night. So we going to shoot 30 times, he's got to get at least 30. You see what I'm saying? So it's just it's just what it is. It's not like he's shooting like 10, 12 shots getting 30, 50 points. That's different. You know what I'm saying? Like 12 for 22, 12 for 24, but you shoot 30 for 30 for it don't even sound right, right? 30 first and then that number after, you know what I'm saying? **Rod Strickland** was the hardest person for me to guard, **Kobe** was hard, of course **Jordan** was hard to guard. Um, and this other guy, you probably don't know him. His name is **Terrell Brandon**. **Terrell Brandon**, he was nice, super nice. Like he ran off a lot of down screens, picks. He used to play for this guy named **Mike Fratello**. And **Mike Fratello** was known for like loop actions, picks, pin downs, quick pin downs for guards. Like running like just imagine chasing **Reggie Miller**. Yeah, that's the that was the old school, that floppy. That was the old school."
-
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1658s
-
-**14. Stephon Marbury — "You get to give people insight on information that they're not privy to." — Stephon Marbury on the importance of his documentary** [28:37](https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1717s)
-
-Stephon Marbury: "You get to give people insight on information that they're not privy to. So when they get the information, then they can make a better decision, they can have a better understanding, because people understand only what they understand, right? Until they understand something different. And then once you teach them and you tell them they be like, oh, okay, now I get it. So that's what the documentary kind of what it did. It it gave people a chance to be able to know what went on in China, what went on in America. They you know, little stuff. It's like 90% all of his 90% true. It's all good. Some stuff is just nonsense. But most of the the the the when I say nonsense, mean like just BS talking. Like just cracking up. Like just cracking up. But all the other stuff is real. It's like a real storyline. And we wanted to have a real storyline for people to see so that when they watch it, your brother, he says what he says. I seen the documentary. It was real. It was real."
-
-https://www.youtube.com/watch?v=HLaVlkqXJJI&t=1717s
+https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=1075s
 
 ---
 

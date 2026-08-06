@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-08-05
-
-## Tony Allen says he misspoke on the LeBron hunted but DOUBLES DOWN on the Defensive conversation — *To The Baha*
+# Tony Allen says he misspoke on the LeBron hunted but DOUBLES DOWN on the Defensive conversation — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=7cZh0L0tO7Q
 
@@ -65,7 +63,3 @@ https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=965s
 Tony Allen: "I'm swiping down at everything. I'm trying to deflect every pass. Like, no, he one of them guys you got to have that type of energy on. But yeah, man, that's that was one of those that was a little he he, haha, I wanted to give y'all, man. That actually happened. And in that game, it was a funny ending. It was a funny ending. You don't remember? Yeah, you got to go tune in. You got to go tune in. You got to go tune in."
 
 https://www.youtube.com/watch?v=7cZh0L0tO7Q&t=1075s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
