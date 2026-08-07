@@ -1,0 +1,305 @@
+# HoopsHype YT Quotes — 2026-08-07
+
+## Re-Drafting The 2023 NBA Draft: WILD Draft Climbers — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=QUL8FUK7GT0
+
+_Speakers identified: Brian Windhorst, Tim MacMahon, Vince Goodwill_
+
+**1. Vince Goodwill — "I am going to of course San Antonio I'm going to take Victor Wembanyama." — Vince Goodwill selects Victor Wembanyama first overall in the redraft** [14:40](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=880s)
+
+**Vince Goodwill:** "This is a really difficult decision because you got both Thompson twins to pick between. But I am going to of course San Antonio I'm going to take **Victor Wembanyama**. Very easy choice. I would say out of the last what 10 number one picks, he's probably the easiest or maybe 20 since **LeBron James**."
+
+**Tim MacMahon:** "I mean I would say he's up there with LeBron. I remember Woj created a little bit of a ripple when he said he might be the best prospect ever leading up to that draft."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=880s
+
+**2. Brian Windhorst — "I am going with Amen Thompson, even though Ausar has come on extraordinarily strong." — Brian Windhorst selects Amen Thompson second overall in the redraft** [16:18](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=978s)
+
+**Brian Windhorst:** "I am going with **Amen Thompson**, even though Ausar has come on extraordinarily strong. They are both having terrific careers and I don't even really I just I've seen I've watched Amen play a little bit more. He's got a little bit more of a history and his defensive intensity. Although Ausar was the one who made all defense this year."
+
+**Tim MacMahon:** "They are both incredible."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=978s
+
+**3. Tim MacMahon — "Big hire for the Houston Rockets hiring Ime Udoka and obviously Amen is going to be his new pet project." — Tim MacMahon discusses the impact of Ime Udoka on Amen Thompson** [17:01](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1021s)
+
+**Tim MacMahon:** "Big hire for the Houston Rockets hiring **Ime Udoka** and obviously Amen is going to be his new pet project, as **Lou Dort** was, as **Kawhi Leonard** was before that and among others."
+
+**Vince Goodwill:** "Those are the best two athletes in the league."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1021s
+
+**4. Tim MacMahon — "Number three pick is going to be Brandon Miller, and remember there are a lot of eyebrows raised when Charlotte took Brandon Miller over Scoot Henderson." — Tim MacMahon selects Brandon Miller third overall in the redraft** [20:42](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1242s)
+
+**Tim MacMahon:** "Number three pick is going to be **Brandon Miller**, and remember there are a lot of eyebrows raised when Charlotte took **Brandon Miller** over **Scoot Henderson** and clearly that decision is ended up being the right decision."
+
+**Vince Goodwill:** "Yes I can. Where to get that snake draft right."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1242s
+
+**5. Tim MacMahon — "I am going to take Cason Wallace over Ausar Thompson." — Tim MacMahon selects Cason Wallace fourth overall in the redraft** [21:59](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1319s)
+
+**Tim MacMahon:** "I am going to take **Cason Wallace** over **Ausar Thompson**. And the reason I'm going to do that, one **Cason Wallace** also was an all defensive player last year."
+
+**Brian Windhorst:** "**Cason Wallace** taken 10th by the Thunder."
+
+**Tim MacMahon:** "Technically taken by the Mavs and there was a trade down. The Mavs dumped Davis Bertans contract."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1319s
+
+**6. Brian Windhorst — "Ausar Thompson was the fifth overall pick to Detroit. I really the way that he competed against Jalen Brunson in the 2025 playoffs." — Brian Windhorst selects Ausar Thompson fifth overall in the redraft** [24:51](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1491s)
+
+Brian Windhorst: "**Ausar Thompson** was the fifth overall pick to Detroit. I really the way that he competed against **Jalen Brunson** in the 2025 playoffs is where Ausar really sort of put his foot forward. Led the league in steals per game this year."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1491s
+
+**7. Vince Goodwill — "Keyonte George from the Utah Jazz. I know people don't pay attention to the Jazz." — Vince Goodwill selects Keyonte George sixth overall in the redraft** [27:43](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1663s)
+
+Vince Goodwill: "**Keyonte George** from the Utah Jazz. I know people don't pay attention to the Jazz because he was the 16th pick in that draft. That was one of the picks that they got from the Rudy Gobert trade, if I'm not mistaken."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1663s
+
+**8. Vince Goodwill — "I am going to take Dereck Lively II." — Vince Goodwill selects Dereck Lively II seventh overall in the redraft** [31:58](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1918s)
+
+Vince Goodwill: "I am going to take **Dereck Lively II**. It's basically to me between him, **Jaime Jaquez Jr.**, who's you know a 3 and D traditional 3 and D guy. I'm hoping in this pick that the foot problems are behind him because I'm a huge believer in the upside."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=1918s
+
+**9. Brian Windhorst — "I am going to go with Toumani Camara here." — Brian Windhorst selects Toumani Camara eighth overall in the redraft** [35:45](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2145s)
+
+Brian Windhorst: "I am going to go with **Toumani Camara** here. And that is the guy other than Wembanyama who's already had an extension in this class. He was the 52nd pick in the draft by the Suns and was in the in the trade for the Deandre Ayton trade. And the Dame trade. I'm sorry in a Dame trade."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2145s
+
+**10. Tim MacMahon — "I'll take Scoot here." — Tim MacMahon selects Scoot Henderson ninth overall in the redraft** [38:47](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2327s)
+
+Tim MacMahon: "I'll take Scoot here. He was number three. I mean again people were surprised he didn't go second. He showed some real flashes in their playoff series last year. I honestly I just I ask what guard's not starting and I mentioned Drew Holiday. Obviously there's Dame, there's Ja. I don't know where the hell Scoot fits in this whole picture."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2327s
+
+**11. Tim MacMahon — "I'll take Anthony Black." — Tim MacMahon selects Anthony Black tenth overall in the redraft** [40:21](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2421s)
+
+Tim MacMahon: "I'll take **Anthony Black**. A good one that's who I was going to take. Who had a bit of a breakout season last year. Really a lot of it was just the volume went up. But as the volume went up, he maintained his efficiency and got a little bit more efficient and averaged 15 per game last year."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2421s
+
+**12. Brian Windhorst — "I am going to take Jaime Jaquez Jr. here." — Brian Windhorst selects Jaime Jaquez Jr. eleventh overall in the redraft** [42:51](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2571s)
+
+Brian Windhorst: "I am going to take **Jaime Jaquez Jr.** here. Just has not shot the ball well and it's kind of tough to to take a 3 and D guy with no three, but he had a really good third year. Was you know was finished fourth in the rookie of the year and for a time was like competing with Victor for rookie of the year."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2571s
+
+**13. Tim MacMahon — "I'm taking Pods." — Tim MacMahon selects Brandin Podziemski twelfth overall in the redraft** [45:18](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2718s)
+
+Tim MacMahon: "I'm taking Pods. The answer is not as good as he thinks he is. That's exactly the point. The man who says I want I'm going to be better than Steph Curry. Like, the stuff that he says is more than what he plays."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=2718s
+
+**14. Tim MacMahon — "I'll take Brice Sensabaugh here." — Tim MacMahon selects Brice Sensabaugh thirteenth overall in the redraft** [52:28](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=3148s)
+
+Tim MacMahon: "I'll take **Brice Sensabaugh** here. He's proven he can score in the NBA. He hadn't had a chance to prove it can be part of a winning team. He'll get that opportunity. And you know kind of a big body, not kind of really a big body, 6'6 235, bench score, shooter. Will Hardy refers to him as the crockpot."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=3148s
+
+**15. Tim MacMahon — "We'll end it with Bilal Coulibaly." — Tim MacMahon selects Bilal Coulibaly fourteenth overall in the redraft** [54:59](https://www.youtube.com/watch?v=QUL8FUK7GT0&t=3299s)
+
+Tim MacMahon: "We'll end it with **Bilal Coulibaly**, who honestly at this point, he's still a concept of a player at this point in his career. The concept is he is a good size in terms of height, super athletic wing. You know it's it's tough man when you look at games played. Rookie year 55, second year 36, last year seven."
+
+https://www.youtube.com/watch?v=QUL8FUK7GT0&t=3299s
+
+---
+
+## Craziest Offseason Ever! Lebron Joins Revamped Sixers, Giannis to Miami & More in This Season Recap! — *No Fouls Given*
+
+Source: https://www.youtube.com/watch?v=dc9j1L384Lc
+
+_Speakers identified: Paul Pierce, Danny Green, Wosny Lambre_
+
+**1. Paul Pierce — "I'm a little disappointed, but I'm not surprised, because the writing was on the wall." — Paul Pierce on Jaylen Brown's trade to the 76ers** [01:08](https://www.youtube.com/watch?v=dc9j1L384Lc&t=68s)
+
+**Paul Pierce:** "I'm a little disappointed, but I'm not surprised, because the writing was on the wall. This has been speculation for some months now. Unlike the **Luka Doncic** trade, where it was shocking and came out of nowhere, this one was like, all right, it's going to happen. We almost knew it was like when though."
+
+**Danny Green:** "You're only a little disappointed? I'm shocked. Like, we knew that he was getting traded, but I was in shock because of where he got traded to. So that's where the disappointment lies in me."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=68s
+
+**2. Paul Pierce — "I would say more like a money thing, long-term, because I think he will be up for an extension." — Jaylen Brown's potential contract extension and team cost-cutting** [02:11](https://www.youtube.com/watch?v=dc9j1L384Lc&t=131s)
+
+Paul Pierce: "I would say more like a money thing, long-term, because I think he will be up for an extension for a crazy number based on the season that he just had. And when you have new ownership that comes in, you're like, look, when you put up the check for this big for a franchise, you start cutting costs right away. And you're like, well, in a year or two we're going to have to extend **Jaylen Brown**, whereas if we trade for him now, we can get somebody with the same type of money that's come off the books in a couple years and don't have to worry about the long-term tax bill that's coming."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=131s
+
+**3. Danny Green — "I've seen Rudy Gobert get five, Mikal Bridges get five, I've seen Desmond Bane get five picks." — Danny Green on the assets returned for Jaylen Brown** [04:51](https://www.youtube.com/watch?v=dc9j1L384Lc&t=291s)
+
+Danny Green: "I mean, we knew that he was getting traded, but I was in shock because of where he got traded to. So that's where the disappointment lies in me. And also what they got in return. And that's no disrespect to **Paul George**. I think he's still a heck of a player, but this asset, I've seen **Rudy Gobert** get five, **Mikal Bridges** get five, I've seen **Desmond Bane** get five picks. And **Paul George**, again, a very good player, but you did not get enough in return to send him directly to the ops."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=291s
+
+**4. Paul Pierce — "Well, realistically, Derrick White had a better season than him last year." — Boston Celtics staff on Derrick White vs Jaylen Brown** [05:33](https://www.youtube.com/watch?v=dc9j1L384Lc&t=333s)
+
+Paul Pierce: "Well, realistically, **Derrick White** had a better season than him last year. That's a direct quote from a Boston Celtics staffer."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=333s
+
+**5. Paul Pierce — "You would never do this to Jayson Tatum. If Jayson Tatum was up for an extension, he would fucking get it." — Celtics' lack of interest in extending Jaylen Brown** [09:03](https://www.youtube.com/watch?v=dc9j1L384Lc&t=543s)
+
+Paul Pierce: "You would never do this to **Jayson Tatum**. If **Jayson Tatum** was up for an extension, he would fucking get it. And if you're **Jaylen Brown** and you feel like your contributions have been, if you want to say **Jayson Tatum** has done more, **Jaylen Brown**, he's like, I'm right there. I don't get to be treated in a way that's completely different from **Jayson Tatum**. I shouldn't be treated by the franchise that way. And I think that caused a lot of friction."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=543s
+
+**6. Paul Pierce — "How do we go from that two months ago to like, this team is so trash, let's just break it up." — Paul Pierce on the Celtics' sudden shift in team perception** [12:06](https://www.youtube.com/watch?v=dc9j1L384Lc&t=726s)
+
+Paul Pierce: "How do we go from that two months ago to like, this team is so trash, let's just break it up. Like that doesn't make no sense to me. If the Charlotte Hornets and the Sacramento Kings and the Chicago Bulls and you name whatever scrub teams we had in the league last year, if they're like, look, man, we're not doing luxury tax and all of that for a team that's headed to the bottom of the lottery, respect. You can't tell me you look at the New York Knicks and like, it's impossible to get to where they're at."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=726s
+
+**7. Paul Pierce — "Paul George makes the exact same amount of money. He has a player option for next summer." — Paul Pierce on Paul George's contract and player options** [14:08](https://www.youtube.com/watch?v=dc9j1L384Lc&t=848s)
+
+Paul Pierce: "**Paul George** makes the exact same amount of money. He has a player option for next summer, which I don't know. I'll never doubt **Aaron Mintz** again after what he did for **Trae Young**. But like, it seems like he's probably going to opt to trade. He's still in his 20s."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=848s
+
+**8. Paul Pierce — "The team felt that White's all-around play and analytics impacted winning more." — Celtics' internal evaluation of Derrick White vs Jaylen Brown** [17:03](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1023s)
+
+Paul Pierce: "The team felt that White's all-around play and analytics impacted winning more. Despite Brown's high scoring averages and MVP campaign, the team felt that White's all-around play and analytics impacted winning more."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1023s
+
+**9. Paul Pierce — "When he was on the court, it seems like he's impacting winning more." — Paul Pierce on Derrick White's impact on winning** [18:03](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1083s)
+
+Paul Pierce: "When he was on the court, it seems like he's impacting winning more. Again, this is in the regular season. So it's not that when Jaylen played, the team wasn't successful. They wasn't a plus eight in his minutes. It's a plus 10 with Derrick. A plus nine and a half or whatever. But when Jaylen's off, which is basically the bench units, this is a guy playing 35 minutes a game. In those 13 minutes he's not playing, we're outscoring people 10 points per 100 possession. And basically what you'll, what people will say is that **Derrick White**, he's like, he's great at spacing the floor, he's a great help defender, he's great at getting blocks on the weak side, great at getting steals, deflections and steals. He does all the good hustle stuff. He rebounds his position in an elite way. Whatever. That's cool. **Jaylen Brown** is not elite at rebounding in his position. He's not necessarily the best ball mover, assist guy, whatever. He doesn't necessarily make the guys around him way better than they ordinarily are. Cool. I accept all of that."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1083s
+
+**10. Paul Pierce — "It is a tale of two different people. And for the longest time, over 10 years, nine years together, they both worked amazing on the court together." — Wosny Lambre on the relationship between Jayson Tatum and Jaylen Brown** [21:24](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1284s)
+
+Paul Pierce: "It is a tale of two different people. And for the longest time, over 10 years, nine years together, they both worked amazing on the court together. On the court, they were great. But like, over the last year or so, that personal relationship, it was, it's close to like, you know, not existent as, as you could have, but on the court, they were amazing hard-working professionals together."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1284s
+
+**11. Paul Pierce — "LeBron James is one of the greatest athletes in history. We will always be thankful for his eight years with the Lakers." — Jeanie Buss on LeBron James' legacy with the Lakers** [28:40](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1720s)
+
+Paul Pierce: "**LeBron James** is one of the greatest athletes in history. We will always be thankful for his eight years with the Lakers, including the title he led us to in 2020 under the toughest imaginable circumstances and the countless records he broke in purple and gold. We wish him all the best in the future, both on the court and off. He will always be a cherished part of the Lakers family."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1720s
+
+**12. Paul Pierce — "I think that he should go here, finish his career where it started" — LeBron James should return to Cleveland to finish his career** [29:34](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1774s)
+
+Paul Pierce: "I've been saying this for the last couple years. I think that he should go here, finish his career where it started, where he brought the first championship, and it puts him in contention. If you put **LeBron James** with **James Harden** and **Donovan Mitchell** and **Evan Mobley**, you can keep one of them. When you bring LeBron in, the price tag is the big question. If he was willing to take less to go somewhere else, why couldn't he just stay in LA? It could be a big F you to LA if he took less to go somewhere and moved on."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1774s
+
+**13. Paul Pierce — "If he wins a championship somewhere else, it doesn't elevate what he's already accomplished." — Winning another championship will not elevate LeBron James's legacy** [29:34](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1774s)
+
+Paul Pierce: "I don't know if he can add to his legacy anywhere else or what he can possibly do because wherever he goes, he probably won't be the guy. If he wins a championship somewhere else, it doesn't elevate what he's already accomplished. It's not going to be the same as winning one in Miami or winning one for LA because he was the guy. His legacy is pretty much sealed, no matter where he goes. It's just a better feel-good story for me if he ended up in Cleveland."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1774s
+
+**14. Paul Pierce — "If LeBron has four or five championships, four of them as the one and one as the two" — Impact of winning as a secondary option on GOAT debates** [29:34](https://www.youtube.com/watch?v=dc9j1L384Lc&t=1774s)
+
+**Paul Pierce:** "It doesn't put him in the same category as **Mike**, because he might be number two. Regardless, it's not the number one. When we start talking about when he's done and the comparisons with **Mike**, **Mike** was always the one wherever he went and won as the one. So if **LeBron James** has four or five championships, four of them as the one and one as the two, that's going to get brought up in the GOAT conversations."
+
+**Mark:** "Yeah, yeah, for sure. You got to think that's fair."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=1774s
+
+**15. Paul Pierce — "Nobody's loved the game more than LeBron to be playing at this stage and still work out" — LeBron James's longevity and commitment to his training** [1:00:00](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3600s)
+
+Paul Pierce: "Nobody's loved the game more than LeBron to be playing at this stage and still work out and still put himself through these workouts in the summer to be ready and put the money toward his training. He's the ultimate competitor. I put him up there with **Ali**, **Floyd**. You know what I'm saying?"
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3600s
+
+**16. Danny Green — "We've seen how he emerges in the playoffs. He could be a second option in the playoffs" — LeBron James's impact as a second option in the playoffs** [1:00:24](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3624s)
+
+Danny Green: "We've seen how he emerges in the playoffs. He could be a second option in the playoffs with how he plays. He can go on his teams and say, this is the second guy that we're looking at. His performances in the playoffs and the postseason."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3624s
+
+**17. Wosny Lambre — "I don't think you can see LeBron on a team that does well in the postseason" — LeBron James's inevitable impact on any postseason team** [1:00:36](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3636s)
+
+Wosny Lambre: "I don't think you can see LeBron on a team that does well in the postseason and have his impact not be felt. That seems almost impossible to me."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3636s
+
+**18. Paul Pierce — "There's a guy in high school that can play in this game right now" — Paul Pierce's first All-Star game and hearing about LeBron James** [1:01:00](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3660s)
+
+Paul Pierce: "I'll never forget this. In 2002, I was in the All-Star game. It was my first All-Star game appearance in Philadelphia, and we were in the locker room and guys were saying, hey, there's a guy in high school that can play in this game right now. I'm looking around, **Iverson**, **Shaq**, **Kobe**. He can play in this game? They were like, yes, he's that good. His name is **LeBron James**."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3660s
+
+**19. Wosny Lambre — "LeBron James's all-NBA streak has officially come to an end" — LeBron James's record-setting All-NBA streak ends** [1:02:25](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3745s)
+
+Wosny Lambre: "**LeBron James**'s all-NBA streak has officially come to an end. He's been named to an all-NBA team for a record-setting 21 straight seasons. You think anybody ever beat this record again? He's going to have records that are never going to be beaten and more than a few."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3745s
+
+**20. Wosny Lambre — "The way we going with load management and the injuries, I don't even see how you do" — The difficulty of maintaining high performance with load management** [1:02:47](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3767s)
+
+Wosny Lambre: "The way we going with load management and the injuries, I don't even see how you do this 21 times. Much less be that good for that long."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3767s
+
+**21. Paul Pierce — "If you could rewrite history, one player you can give a healthy 21 years besides yourself" — Selecting a player to rewrite history with 21 healthy years** [1:03:32](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3812s)
+
+Paul Pierce: "If you could rewrite history, one player you can give a healthy 21 years besides yourself, who would it be? **Magic**. His career was cut short by tragedy. Or **Mike**, too. Yeah. **Mike** was big chilling. He came back a couple times, got retired. He probably could have. The man retired two years and three-peated again. He wasn't unhealthy. I'm thinking like **D-Rose**, **Grant Hill**, **T-Mac**. Like the guys that had injuries that you know, lose a lot of the bounce and the quickness during the Houston years as quickly as he did. That would have been cool to see."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3812s
+
+**22. Wosny Lambre — "Honestly, why do you think LeBron is still playing for? Rings? Validation? Money?" — Why LeBron James continues to play at his age** [1:04:27](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3867s)
+
+Wosny Lambre: "Honestly, why do you think LeBron is still playing for? Rings? Validation? Money? His legacy's already cemented. What's more probable, Lakers winning a ring with him on the roster or without? Also, how long will Bronny be a Laker after LeBron leaves?"
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3867s
+
+**23. Danny Green — "I think because he can, his body's allowing to, and he wants to be the greatest" — LeBron James's motivation to be considered the greatest** [1:05:05](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3905s)
+
+Danny Green: "I think because he can, his body's allowing to, and he wants to be the greatest and consider the greatest. And I feel like a lot of people won't ever put him in that category because of **Mike** and he has one enough rings. So he has to do it with longevity and breaking other records."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3905s
+
+**24. Paul Pierce — "He takes care of his body like nobody, nobody else" — LeBron James's dedication to body maintenance and longevity** [1:05:47](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3947s)
+
+Paul Pierce: "He takes care of his body like nobody, nobody else. He's been a blueprint for a lot of this generation on how to take care of your body. And when you're spending that amount of money on being ready to play and being healthy, that's that's love."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3947s
+
+**25. Paul Pierce — "If LeBron wins two more rings with the Lakers, I think you still couldn't put him ahead" — LeBron James's legacy compared to Michael Jordan** [1:06:35](https://www.youtube.com/watch?v=dc9j1L384Lc&t=3995s)
+
+Paul Pierce: "If LeBron wins two more rings with the Lakers, I think you still couldn't put him ahead of **Jordan**. Because you got to look at the role he's in now. If he's the third best player on the championship team and he has six rings, it's not the same. It's not the same as six Finals MVPs. It's different."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=3995s
+
+**26. Paul Pierce — "He's made being the GOAT unattainable now" — LeBron James's impact on the 'GOAT' debate** [1:08:03](https://www.youtube.com/watch?v=dc9j1L384Lc&t=4083s)
+
+Paul Pierce: "He's made being the GOAT unattainable now. Because like when you look at he put a wall in front of **Jordan**. To be the GOAT, that means you have to be better than LeBron. Nobody's going to be better. It's just hard to envision it. It's hard to envision it. If he wins six championships, you're going to be like, well, he's not better than LeBron because LeBron's statistically is just so much better than everybody."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=4083s
+
+**27. Wosny Lambre — "Pat Riley adds to his blockbuster trade resume by securing the two-time defensive player of the year" — Giannis Antetokounmpo's trade to the Miami Heat** [1:09:10](https://www.youtube.com/watch?v=dc9j1L384Lc&t=4150s)
+
+Wosny Lambre: "**Pat Riley** adds to his blockbuster trade resume by securing the two-time defensive player of the year, two-time league MVP, and NBA champion **Giannis Antetokounmpo**. Miami acquired Giannis and **Bobby Portis** from the Milwaukee Bucks in exchange for **Tyler Herro**, **Caleb Martin**, **Jaime Jaquez**, **Nikola Jovic**, **Yakup Chunes**, three first-round picks, a pick swap, and a second-round pick."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=4150s
+
+**28. Paul Pierce — "I still believe they need some more pieces in order to be in that championship contention" — Paul Pierce's analysis of the Giannis Antetokounmpo trade** [1:09:52](https://www.youtube.com/watch?v=dc9j1L384Lc&t=4192s)
+
+Paul Pierce: "I still believe they need some more pieces in order to be in that championship contention, but when you add a guy like Giannis who's still in his prime with a **Bam Adebayo**, you talk about a front line that's going to be defensively one of the best in the league. I like the move. And then on the Milwaukee side, you got some young talent in there. You got a veteran in **Tyler Herro**. I love **Caleb Martin**'s upside, though. He can be one of the best big men in the league with his versatility on the defensive end, the way he can shoot the ball, spread the court. So I like this trade for both teams."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=4192s
+
+**29. Danny Green — "I like it more from Milwaukee than I do Miami, honestly" — Danny Green's preference for the Milwaukee Bucks' return** [1:10:52](https://www.youtube.com/watch?v=dc9j1L384Lc&t=4252s)
+
+Danny Green: "I like it more from Milwaukee than I do Miami, honestly. I give it a B plus. With the team as it stands, he's going to be losing in a better weather situation. They have some work to do. They got **Nate**, I like him. They need some shooting. They need a lot of shooting. They got **Nate**, they got a lot of bigs pretty much. Most of your team are bigger guards. Like you need some guards, ball handle, shoot. **Davion Mitchell** is solid. But realistically, you need more shooting. You got **Norm**, but you got **Wiggins**, another one. **Wiggins** is another guy who they got to redo his contract as well."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=4252s
+
+**30. Wosny Lambre — "I think this team, one, Miami has a way better record than Milwaukee of finding diamonds" — Wosny Lambre's disagreement on the Milwaukee Bucks' trade success** [1:11:47](https://www.youtube.com/watch?v=dc9j1L384Lc&t=4307s)
+
+Wosny Lambre: "I think this team, one, **Miami** has a way better record than **Milwaukee** of finding diamonds in the rough. You know, finding the **Gabe Vincent**s, the Calebs, **Caleb Martin**s, the **Duncan Robinson**s, the **Max Strus**es. Like they just have an incredible track record of getting those people into their building. And so that plus I think in the sort of veterans minimum market, they're just a way more attractive destination than **Milwaukee** is in terms of guys being like, all right."
+
+https://www.youtube.com/watch?v=dc9j1L384Lc&t=4307s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
