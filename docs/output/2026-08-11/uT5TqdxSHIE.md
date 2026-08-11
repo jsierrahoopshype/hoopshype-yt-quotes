@@ -1,0 +1,81 @@
+# Live Show at Forgotten Star on Sunday | The Jon Krawczynski Show — *The Jon Krawczynski Show*
+
+Source: https://www.youtube.com/watch?v=uT5TqdxSHIE
+
+_Speakers identified: Jon Krawczynski, Jim Souhan_
+
+**1. Jon Krawczynski — "The Timberwolves are actually going to host a game at Target Center on Christmas Day." — Timberwolves hosting a Christmas Day game at Target Center** [03:03](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=183s)
+
+**Jim Souhan:** "The Timberwolves are actually going to host a game at Target Center on Christmas Day."
+
+**Jon Krawczynski:** "It is a really cool announcement this morning. They announced two marquee events in the schedule. The full schedule will come out later this week, but Christmas Day games, which is the NBA's premier day or slate of games in the regular season. The Wolves have been on Christmas the last several years, but they've usually been away from Target Center and having to travel on Christmas Eve and be away from home. But this year, finally, they do have a Christmas Day home game at 7:00 PM against the Oklahoma City Thunder."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=183s
+
+**2. Jon Krawczynski — "It is still in a wait-and-see mode and I will say to Wolves fans who really want that answer right now." — Status of the Timberwolves' power forward position** [08:01](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=481s)
+
+**Jim Souhan:** "Is there anything new on the power forward front?"
+
+**Jon Krawczynski:** "I wish there was something earth-shattering or at least substantive to offer right now, but it is still in a wait-and-see mode and I will say to Wolves fans who really want that answer right now, this in August, this is the down period for the league. This is where everyone goes away for vacations, this is where people get married, this is the one month of the calendar where teams and agents and players can take a rest. So there does not seem to be any super real urgency at the moment to get a deal done because camp is still six weeks away. There does not seem to be any frothy market that is prompting teams to really compete against one another and try and get out in front and get a deal done. That said, could something come to fruition in the next 20 minutes or the next two weeks? Yes, but I don't get the sense that there's been any real sort of progress that changes the fact that they have interest in **Jonathan Kuminga**, they were dipping their toe in the **Ben Simmons** waters, whether they go for someone else that is less established or less of a big name but could come in and give them some depth at that position is, folks need to get away. They need some R&R and there is not, I don't think, any super real urgency at the moment to get a deal done."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=481s
+
+**3. Jon Krawczynski — "There was a point early in the season where she was doing everything but making three-pointers." — Olivia Miles' development as a three-point shooter** [13:30](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=810s)
+
+**Jim Souhan:** "I'm running out of things to say about **Olivia Miles**. There was a point early in the season where she was doing everything but making three-pointers. I was like, okay, that's going to be a big part of her career, she's going to have to develop a better shot arc, more range. As soon as I got to the next game, she made like six of eight threes and she's been lighting it up from three since."
+
+**Jon Krawczynski:** "Of all the great point guards in the league, who would you take first? Chelsea Gray, Paige Bueckers, Caitlin Clark, Sabrina Ionescu, they're a bunch, and she said I'd take **Olivia Miles**."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=810s
+
+**4. Jon Krawczynski — "She's always been one of those players, she's not a superstar, and she's not a spectacular athlete." — Evaluation of Kayla McBride's role and performance** [16:22](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=982s)
+
+**Jim Souhan:** "Good day to talk about **Kayla McBride**. She's always been one of those players, she's not a superstar, and she's not a spectacular athlete. She's almost the perfect non-superstar to play for **Cheryl Reeve**. She takes coaching extremely well, you can coach her hard, she doesn't have a run away from it. She appreciates Cheryl pushing her, three-point shooting is always valuable and she's a great three-point shooter. She can get her shot off against tight defense because of her quick release. She plays super hard on defense, she's a very good defender. She's unselfish, she's understated, she's great in the community. She really is an ideal person to have in your town."
+
+**Jon Krawczynski:** "100% and you hit on it the most, Jim. Her release is lightning quick and there are times I went and I took my daughter and we sat courtside thanks to Charlie Swanson last week and just like there are times when you watch it and she gets it and gets rid of it so quickly you're almost like, wait a minute, is that a good shot? It turns out it's a great shot for her. She is locked in, she has always in such a great rhythm and then you see her defending Paige Bueckers, you see her making the next pass in the offense to keep it flowing and not just look for her own shot. She is such connective tissue and there's also when you listen to her talk, there's like this real appreciation for the moment that she's in."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=982s
+
+**5. Jon Krawczynski — "43 points on 21 shots is ridiculous." — Kayla McBride's performance and efficiency** [18:56](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1136s)
+
+**Jon Krawczynski:** "43 points on 21 shots is ridiculous."
+
+**Jim Souhan:** "And remember for everyone, I know this is a Timberwolves podcast and most people will know this, but the Lynx play 40-minute games. It's not a 48-minute game. And so when you also put it in that context, that just shows you what kind of an absolute flamethrower that she has. It's breathtaking when she has it going that way."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1136s
+
+**6. Jon Krawczynski — "There's nothing to report yet about an extension." — Timberwolves' timeline for a Tim Connelly extension** [25:35](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1535s)
+
+**Jim Souhan:** "Where are the Wolves at in terms of a **Tim Connelly** extension?"
+
+**Jon Krawczynski:** "This is something that we'll get into a little more with **Tim Connelly** on Sunday. As of right now, there's nothing to report yet about an extension. I think that there have been some talks, but also I think that there are still some things to work through on that front and I don't necessarily sense that there's a lot of urgency on anyone's part to get something done because camp is still six weeks away and so there doesn't seem to be a frothy market that is prompting teams to really compete against one another and try and get out in front and get a deal done."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1535s
+
+**7. Jon Krawczynski — "Anthony and LaMelo were the ones that kind of got everyone organized with flights to get out to Paris." — Timberwolves' team trip to Paris** [27:36](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1656s)
+
+**Jim Souhan:** "What did you hear about the trip to Paris?"
+
+**Jon Krawczynski:** "Everyone, thanks for listening to the podcast because if you listened to the Jon Krawczynski Show a couple weeks ago, you heard before anyone else that they were going to Paris. And then we saw some of the social media stuff that has been posted from several of the players over the weekend about their trip that did happen. So Anthony and LaMelo were the ones that kind of got everyone organized with flights to get out to Paris. And then according to the photos that we saw, there was every player on the roster was out there except for **Dante DiVincenzo** who is rehabbing an injury and I didn't see **Bones Hyland** either and I'm not sure why he wasn't there. He probably had some sort of personal commitment because Bones is all in on this team and I'm sure he would have made it if he could. But they went there and from what I'm told, they had some workouts. LaMelo and Rudy got on the floor together for the first time, which is really important as they start to work on their chemistry together."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1656s
+
+**8. Jon Krawczynski — "If you're going to give up a little bit of your summer to go travel with your guys" — Anthony Edwards and the Timberwolves prioritizing summer team bonding** [29:25](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1765s)
+
+**Jim Souhan:** "Is this a good sign for the team?"
+
+**Jon Krawczynski:** "I think that it was a really good sign, Jim, because we heard **Anthony Edwards** at the start of last season say that one of the things he thought this team needed to do more of was get together as a group in the summertime. And that is kind of where connections are forged, that's where players really bond, that's where they all show a commitment to each other. If you're going to give up a little bit of your summer to go travel with your guys and meet them somewhere and put in work, I think that's a really good opening statement for what is to come."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1765s
+
+**9. Jon Krawczynski — "I think that ultimately what it bred was a complacency. And I think that came back to bite them" — Timberwolves' past complacency and need for renewed team cohesion** [29:25](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1765s)
+
+Jon Krawczynski: "It certainly doesn't guarantee success in the regular season or the playoffs, but I think that when you look at how this team operated last season and we've talked a lot about the moodiness and things of that nature, I think they had good chemistry, I think they all liked each other, but there was just a little something missing. And it felt like they were leaning a lot on cohesion, on continuity, on familiarity last season to really breed a new hunger and a new kind of connectedness. And really, I think that ultimately what it bred was a complacency. And I think that came back to bite them in the regular season a little bit."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1765s
+
+**10. Jon Krawczynski — "There are new faces this year, they are going to play a different style with LaMelo" — Timberwolves roster changes and new style with LaMelo Ball** [29:25](https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1765s)
+
+Jon Krawczynski: "There are new faces this year, they are going to play a different style with **LaMelo** at the trigger, and so I think that there's a sense across that roster that, hey, we've got to do a little bit more together to just start to build the first bricks of the foundation."
+
+https://www.youtube.com/watch?v=uT5TqdxSHIE&t=1765s
