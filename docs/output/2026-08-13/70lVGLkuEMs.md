@@ -1,0 +1,47 @@
+# Draymond Green on Russell Westbrook's Retirement, $12.5B Lakers Sale & Steph Curry Disses — *The Draymond Green Show*
+
+Source: https://www.youtube.com/watch?v=70lVGLkuEMs
+
+_Speakers identified: Draymond Green_
+
+**1. Draymond Green — "What he had different than anyone else was a motor. His motor was different than anyone's ever." — Draymond Green reflects on Russell Westbrook's competitive spirit and career** [00:40](https://www.youtube.com/watch?v=70lVGLkuEMs&t=40s)
+
+Draymond Green: "**Russell Westbrook** announced his retirement from the NBA after 18 seasons. Number one, congratulations. Russ is a guy who I have the utmost respect for as a man, most importantly, but as a competitor. Having the opportunity to compete against Russ in his heyday, one of the most explosive athletes we've ever seen in the NBA. The power, the force that he played with, and then the banter, the banter back and forth was always special. What he had different than anyone else was a motor. His motor was different than anyone's ever. There were never any nights that his motor was turned off. And what **Russell Westbrook** did was, **Russell Westbrook** took that motor and turned his game and himself into a first-ballot Hall of Famer, MVP of the NBA, one of the top five greatest point guards we've ever seen play the game. That's what he did with that motor. And it was special to watch."
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=40s
+
+**2. Draymond Green — "Russell Westbrook made triple-doubles attainable. Russell Westbrook made it so that Joker getting triple-doubles night in and night out didn't look weird." — Draymond Green credits Russell Westbrook for making triple-doubles attainable** [03:05](https://www.youtube.com/watch?v=70lVGLkuEMs&t=185s)
+
+Draymond Green: "We all look at **Nikola Jokic** and make no mistake about it, incredible. **Luka Doncic**, incredible. The talents that they are. The triple-doubles that they get, those don't happen without **Russell Westbrook**. **Russell Westbrook** made triple-doubles attainable. **Russell Westbrook** made it so that Joker getting triple-doubles night in and night out didn't look weird and no one questioned it. No one questioned how he's getting them, because when you're first, you get all the questions. So **Russell Westbrook**, no he wasn't first, obviously Oscar Robertson, but Oscar Robertson didn't play in a day and age where basketball was scrutinized. Today, basketball is heavily scrutinized, players are heavily scrutinized. And so when I say the first, Russell is the first to do it in this era, and obviously the first as far as the ranking."
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=185s
+
+**3. Draymond Green — "Saying that you can incorporate Monta Ellis in place of Steph, you have to change the whole offense." — Draymond Green critiques the hypothetical of replacing Steph Curry with Monta Ellis or Damian Lillard** [12:41](https://www.youtube.com/watch?v=70lVGLkuEMs&t=761s)
+
+Draymond Green: "**Monta Ellis** came out and said if you switch me and Steph out with the team that won championships, it would be the same thing. **Jeff Teague** followed suit and said if you switched out Steph and Dame on the championship teams, you'd probably get the same results. My thoughts on these quotes were, **Jeff Teague**, I think everybody tried to make it as if **Jeff Teague** said, oh man, Dame, you can just switch. That's not what he said. What I took away from what **Jeff Teague** was saying was that **Monta Ellis**'s game and **Steph Curry**'s game are drastically different. So saying that you can incorporate **Monta Ellis** in place of Steph, you have to change the whole offense because the offense in large part was built around Steph. But his gravity and the way the offense moves around him, you take Steph out and put **Monta Ellis** in, and it's not the same because it's not the same skill set."
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=761s
+
+**4. Draymond Green — "The Lakers have officially been sold again only 14 months after being bought by Mark Walter." — Draymond Green reacts to the Lakers sale for $12.5 billion** [16:17](https://www.youtube.com/watch?v=70lVGLkuEMs&t=977s)
+
+Draymond Green: "The Lakers have officially been sold again only 14 months after being bought by **Mark Walter**. They were sold to **Josh Harris** and **Bob Iger** for $12.5 billion, which means **Mark Walter** made about $2.5 billion in what he doesn't own 100%, but in theory, extra $2 billion over the course of 14 months. These things are growing at a $2.5 billion rate in 14 months. That would be absolutely absurd. It is absolutely absurd. To make $2 billion in a year is nuts. And in saying that, this happened very abruptly and there's been a lot of rumors about **Mark Walter** being under investigation by either the SEC or the Feds. And apparently what I read today was that **Mark Walter** sold the Lakers so that he can pay down some of the debts of the investigation, of the loans that he's being investigated about."
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=977s
+
+**5. Draymond Green — "A second company called Datronics has now been connected to Kawhi Leonard in an undisclosed sponsorship agreement." — Draymond Green discusses allegations linking Kawhi Leonard to Datronics** [20:43](https://www.youtube.com/watch?v=70lVGLkuEMs&t=1243s)
+
+Draymond Green: "According to **Pablo Torre** on **Pablo Torre** Finds Out, a second company called Datronics, which makes a lot of the scoreboards that you see in the arenas, who designed the Halo board inside the Intuit Dome, has now been connected to **Kawhi Leonard** in an undisclosed sponsorship agreement allegedly worth millions of dollars as a way to give Leonard more incentive to join the Clippers and circumvent the salary cap. So this is interesting because it's one more thing that they're saying about Kawhi getting around the salary cap and about **Steve Ballmer** getting around the salary cap. And I have multiple thoughts on this. We're hearing a lot about what the punishments are going to be, and I would say if the punishments aren't steep, everybody should do it."
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=1243s
+
+**6. Draymond Green — "Let's just do ourselves a favor and let's get rid of the salary cap as a whole." — Draymond Green argues for the removal of the NBA salary cap** [23:29](https://www.youtube.com/watch?v=70lVGLkuEMs&t=1409s)
+
+Draymond Green: "Let's just do ourselves a favor and let's get rid of the salary cap as a whole. There's no salary cap in baseball, league operates just fine. Players that deserve the bulk of the money get the bulk of the money, players that don't, don't. Simple. So I think this is a much larger conversation that need to be had. I think everyone's, oh man, Kawhi's wrong, will the trade get finalized, what's going to be the punishment? Let the punishment be getting rid of the salary cap. **Steve Ballmer**, your punishment is you have to pay more money to the guys now because there's no salary cap. Let's make that the punishment. I think that's a great punishment because why is there a salary cap anyway? If you can make $2.5 billion on a sale in a year, what are we doing with the salary cap anyway?"
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=1409s
+
+**7. Draymond Green — "I'm not surprised from an overall standpoint that Peyton Watson is still technically a restricted free agent." — Draymond Green discusses restricted free agents and Peyton Watson** [32:25](https://www.youtube.com/watch?v=70lVGLkuEMs&t=1945s)
+
+Draymond Green: "The player that I am most surprised about that isn't signed yet, I'm a little surprised DeMar has not signed yet. And I'm not one that is a bit surprising but not because restricted free agency sucks, **Peyton Watson**. I do think **Peyton Watson** will get the deal that he's looking for, have zero debate about that. However, restricted free agency is a shitty place, man. When a team has control and other teams are afraid to offer you because they know they're just going to match and they don't want to go through all, restricted free agency is not a fun place. And so I'm not surprised from an overall standpoint that **Peyton Watson** is still technically a restricted free agent because that place sucks as a whole. But you would have thought by now, if Denver was going to resign him, they'd have made a move to open up some cap space."
+
+https://www.youtube.com/watch?v=70lVGLkuEMs&t=1945s
