@@ -1,68 +1,132 @@
 # HoopsHype YT Quotes — 2026-08-19
 
-## Training with Lethal Shooter | Egypt — *Jaylen Brown*
+## NBA SUPERSTAR Donovan Mitchell has an INSANE routine on gameday I Cleveland Cavaliers — *Thanalysis Show*
 
-Source: https://www.youtube.com/watch?v=i6HOZWRtrT8
+Source: https://www.youtube.com/watch?v=QBGxkWRa3iE
 
-_Speakers identified: Jaylen Brown, Lethal Shooter_
+_Speakers identified: Thanasis Antetokounmpo, Donovan Mitchell_
 
-**1. Lethal Shooter — "Everything fundamental. When I kick it to him and transition, he ran down, but right now we're just having him here." — Lethal Shooter emphasizes fundamental basketball training for Jaylen Brown** [01:06](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=66s)
+**1. Donovan Mitchell — "That's the best recovery is being able to sleep." — Donovan Mitchell on the importance of sleep for recovery** [00:00](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=0s)
 
-**Lethal Shooter:** "I'll be the passer. Right now we're just going to do numbers. When I kick it to him and transition, he ran down, but right now we're just having him here. When I kick it to you, Jay, you just sweep across, come here, shot, nice and easy."
+Donovan Mitchell: "Sleep is the most important thing. I feel like that's the best recovery is being able to sleep. I try to take a nap almost every day. If I don't take the nap, then I try to go to sleep earlier at the nighttime, sleep longer. I don't have any kids just yet, so I got some time."
 
-**Jaylen Brown:** "One dribble pull-up?"
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=0s
 
-**Lethal Shooter:** "One dribble pull-up. Everything fundamental."
+**2. Donovan Mitchell — "Hour 30 minutes for quiet. Don't bother me, don't call me, don't text me." — Donovan Mitchell's strict pre-game routine and focus** [00:38](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=38s)
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=66s
+Donovan Mitchell: "Hour 30 minutes for quiet. Don't bother me, don't call me, don't text me. Mom, sister, whoever, don't text me. They know the deal. It was bad my first year, I've gotten better, but it's very detailed, almost to the minute."
 
-**2. Lethal Shooter — "In a real game, he would go back there for about 15 seconds. We want him to get pushed." — Lethal Shooter explains the importance of high-intensity training** [04:50](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=290s)
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=38s
 
-Lethal Shooter: "In a real game, he would go back there for about 15 seconds. We want him to get pushed today, the heart rate up, because at the end, he has to make nine in a row."
+**3. Donovan Mitchell — "We play at 7 tomorrow, so shootaround ends at 11." — Donovan Mitchell details his precise game day schedule** [01:09](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=69s)
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=290s
+Donovan Mitchell: "We play at 7 tomorrow. Shootaround ends at 11. I get to the hotel, be done eating about 12. I have to be stretching and done with stretching by 1:30, getting the coats up. This is on the road. One coats up from 1:30 to 1:45, get out, get in the shower, be asleep by 2, be up by 3:30, get in the car at 4:15 to get here by 4:30, be on the table at 4:40, be done at 5:25. After 5:30, I have to be eating because it's 90 on the clock countdown. At 82 on the clock, I got to be on the table to treat, to do tape. Once that's done, I have until 75, 74 to get dressed and get, you know, perform 60 on the clock before I shoot."
 
-**3. Lethal Shooter — "I want you to take a really deep one. After you do your dribble, take another really deep one." — Lethal Shooter emphasizes the importance of deep shots in training** [05:01](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=301s)
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=69s
 
-Lethal Shooter: "Don't forget the biggest goal we want to change. I'm not your trainer, but if I was your trainer, I want you to take a really deep one. After you do your dribble, take another really deep one, and then no hesitation."
+**4. Donovan Mitchell — "I had to nicely kind of explain to them over time." — Donovan Mitchell on managing expectations regarding his routine** [02:45](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=165s)
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=301s
+Donovan Mitchell: "The first year, especially when I came to Cleveland, because people didn't know how routine-oriented I was, so I had to nicely kind of explain to them over time. At this point now, if you don't, like I cool, you know what time it is. I hear you, but appreciate it, but I got to go do my thing."
 
-**4. Lethal Shooter — "In a real game, let's just do one real game because that was intense." — Lethal Shooter highlights the intensity of the training session** [09:14](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=554s)
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=165s
 
-Lethal Shooter: "In a real game, let's just do one real game because that was intense. Hands off your hips, please. Take a deep breath, you're getting ready for war right now."
+**5. Donovan Mitchell — "Your mind is locked in from 3:30 to 10:00 p.m." — Donovan Mitchell on the mental discipline of game day** [03:10](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=190s)
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=554s
+Donovan Mitchell: "It's funny how, I mean, Giannis is probably the same way. People just don't understand that that stuff is real. Your game day starts at 3:30 when you wake up from that nap. Once 3:30 hits, you have room for other stuff, phone calls, whatever it might be, but in your mind, your mind is locked in from 3:30 to 10:00 p.m. That's when you're going. You may not be thinking about just basketball, but you're in your routine."
 
-**5. Lethal Shooter — "When you start hitting a lot of shots, you start doing this. I want you to stay focused." — Lethal Shooter explains the importance of maintaining focus during shooting drills** [11:22](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=682s)
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=190s
 
-Lethal Shooter: "When you start hitting a lot of shots, you start doing this. I want you to stay focused. And then if you do want to drop it quick, I'm here and I'm still seeing my target, and then I come back."
+**6. Donovan Mitchell — "You got to build up. You can't just be, I've tried that my rookie year." — Donovan Mitchell on the importance of building up mental focus** [03:55](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=235s)
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=682s
+Donovan Mitchell: "You got to build up. You can't just be, I've tried that my rookie year. You tried to be locked in at 3:00, and by the time the game comes, you're tired. You'd be like, why am I tired? But you'd be locked in. You'd be like, this is a big game, but you're tired."
 
-**6. Lethal Shooter — "I just feel like sometimes the jab is like right here. It's just sometimes, not every single time." — Lethal Shooter emphasizes the importance of the jab step in basketball** [15:40](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=940s)
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=235s
 
-Lethal Shooter: "I just feel like sometimes the jab is like right here. It's just sometimes, not every single time, that he could just drop down and just bring it over sometimes. To make the person feel like, oh shit, he's about to go."
+**7. Donovan Mitchell — "I'm a big road rage person on the road when I drive." — Donovan Mitchell admits to road rage and being petty** [04:25](https://www.youtube.com/watch?v=QBGxkWRa3iE&t=265s)
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=940s
+Donovan Mitchell: "I'm a big road rage person on the road when I drive. I cuss people out. I'm in, my windows are tinted too, so I'll be screaming at people. I don't care. And if you honk at me, I'm going to drive slower. I'm that, I'm that petty. If you're driving in the fast lane and you're not going, and you're going the speed limit, like we have a problem."
 
-**7. Lethal Shooter — "I don't want you to do that. I want you to pick it up. I want you to pick it up." — Lethal Shooter emphasizes the importance of footwork and reading the defender** [24:20](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=1460s)
+https://www.youtube.com/watch?v=QBGxkWRa3iE&t=265s
 
-Lethal Shooter: "I don't want you to do that. I want you to pick it up. I want you to pick it up to read them, because if he don't step back, what am I going to do? I'm going to shoot that motherfucker."
+---
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=1460s
+## Matas Buzelis on Talking Trash to Luka Doncic and Playing for his hometown Chicago Bulls — *Cousins with Vince Carter & Tracy McGrady*
 
-**8. Lethal Shooter — "I spoke with coaches as well, today was high endurance. So if you notice, you might be shooting 30." — Lethal Shooter emphasizes the importance of high endurance training** [28:43](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=1723s)
+Source: https://www.youtube.com/watch?v=bwuRn6VIpH8
 
-Lethal Shooter: "I spoke with coaches as well, today was high endurance. So if you notice, you might be shooting 30, but you was only getting like a split second in between each break. So that was a very compact training session, so at the end, I wasn't really mad with the miss shots. The only thing I was mad was the way we missed."
+_Speakers identified: Vince Carter, Tracy McGrady, Matas Buzelis_
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=1723s
+**1. Matas Buzelis — "He started baking me, bro, like 12 in a row. Like bad. And I'm like, I don't care." — Matas Buzelis on his trash-talking experience with Luka Doncic** [00:09](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=9s)
 
-**9. Jaylen Brown — "Efficiency, that's the keyword for the summer. Chat, I see you when I look at you. No words." — Jaylen Brown discusses the importance of efficiency and fundamentals** [29:30](https://www.youtube.com/watch?v=i6HOZWRtrT8&t=1770s)
+Matas Buzelis: "He wasn't really on anything that game at first. He started baking me, bro, like 12 in a row. Like bad. And I'm like, I don't care, keep doing that. I don't care what you're doing. Keep, you know, keep scoring. We'll see if you can keep scoring. I end with like 23, he ends with like 50, and it's just, man."
 
-Jaylen Brown: "Efficiency, that's the keyword for the summer. Chat, I see you when I look at you. No words. Straight to work. I'm ready. I ain't no young gun no more. I ain't no young gun. Chat, we working. That's it. No words. Straight to work."
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=9s
 
-https://www.youtube.com/watch?v=i6HOZWRtrT8&t=1770s
+**2. Matas Buzelis — "The spacing, everything, how you have to play, it's a little different. You kind of have to sacrifice." — Matas Buzelis on the challenges of playing for the Lithuanian national team** [02:04](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=124s)
+
+Matas Buzelis: "It was very, it was very different. I always wanted to play for the national team though because I want to represent where my parents come from. Obviously I was born here, but my parents played for the national team and it was a little, it was a different experience as you guys obviously know. The spacing, everything, how you have to play, it's a little different. You kind of have to sacrifice for your team. I had some trouble playing there for sure, I think as everyone's first kind of go-round in FIBA is a little different. I feel like we also had some placement issues, where I had to play in position, but I'm not going to get too deep into that, but it was a great experience overall for sure."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=124s
+
+**3. Matas Buzelis — "You can feel like you have the countries on your back like everyone's watching, everyone's supporting." — Matas Buzelis on the emotional weight of playing for Lithuania** [03:24](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=204s)
+
+Matas Buzelis: "It was definitely a different feeling. You can feel like you have the countries on your back like everyone's watching, everyone's supporting. The fans are unreal, but it's just, it's deeper. It cuts deep when you're playing for your country, representing your country out there. They kind of explained it to me how serious everything is, even in windows, but you can definitely, you can feel the difference when playing. The atmosphere, the players are making sacrifices out there. They're subbing if they feel like another guy would kill for us in there and it was everything, everything goes back to sacrifice I feel like for national teams."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=204s
+
+**4. Matas Buzelis — "Everyone from Chicago transfers out in high school. There's not really great competition in Chicago for basketball." — Matas Buzelis on his high school basketball experience in Chicago** [09:17](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=557s)
+
+Matas Buzelis: "I grew up in South Loop in Chicago. I think we moved to the suburbs when I was eight probably. I went to school out there for a year and I also transferred out of here. Honestly, everyone from Chicago transfers out in high school. It's every time, I feel like now. There's not really great competition in Chicago for basketball. I went to Brewster Academy. I don't know if you guys know, it's **Jonathan Isaac** went there, **Devonte Graham**, a couple of other guys. It was a good school. Then I went to Sunrise Christian. But who influenced me in basketball, man, this is such a tough question for me because I'm such a, I love basketball, so I watch everybody."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=557s
+
+**5. Matas Buzelis — "I was a big fan of you two. I always wanted to fly when I was younger." — Matas Buzelis on his basketball idols and learning from everyone** [10:25](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=625s)
+
+Matas Buzelis: "I was a big fan of you two. I always wanted to fly when I was younger. I always used to watch you guys, honestly, a lot. I'm not even trying to say this for the podcast sake, but you two were somebody that I used to watch. Pull up the top 10 clips and I'd go outside on the mini hoop and try to do the same thing you guys would do. Kyrie I watched a lot, LeBron obviously, but I'm such a ball, I love ball so much that everyone just, I watch everyone. I don't care if it's a bench guy, you can learn a lot from everyone."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=625s
+
+**6. Matas Buzelis — "To put on the Bulls uniform and represent the city, it means everything to me." — Matas Buzelis on the emotions of being drafted by the Bulls** [23:38](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1418s)
+
+Matas Buzelis: "When they drafted my, they said my name, I don't know if you guys saw, but I was crying like crazy. My whole family was, my little brother was in tears, but to put on the Bulls uniform and represent the city, it means everything to me. I want to bring them a championship and it'd be, I can't imagine playing anywhere else than them, like honestly."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1418s
+
+**7. Matas Buzelis — "Only two guys technically are allowed to shoot the mid-range, it's Shai and Kevin Durant." — Matas Buzelis on his approach to shooting mid-range jumpers** [26:50](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1610s)
+
+Matas Buzelis: "Only two guys technically are allowed to shoot the mid-range, it's Shai and **Kevin Durant** because they're above league average or something like that. I'm not really caught into all that stuff. I feel like if you're a basketball player, if you can do that, you can do that, you know? That's your game. It's something that you can get to to honor the big man, for him to step up, maybe you attack. That all matters to me. Even shooting one a game for me matters so much because I can get to the rim, I can go dunk the ball. If they step up a little bit, I'm blowing past them. I just have to shoot one, even if I make or miss it, for me psychologically it's a setup."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1610s
+
+**8. Matas Buzelis — "I put on like 12 pounds and I feel stronger. I wanted to limit the three attempts." — Matas Buzelis on his commitment to physical conditioning** [28:50](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1730s)
+
+Matas Buzelis: "I put on like 12 pounds and I feel stronger. I wanted to limit the three attempts because I was shooting three my rookie year and now I'm shooting six a game. Six a game is a lot. I shot 15 one game. I was like, oh my god, I got to feel like 15 threes. That's a lot of threes. But me putting on weight, I can get to the rim and I can hit guys. I've been working on driving and hitting dudes, bumping, stuff like that. Everything more physical because the scouting report was be physical with him. As soon as he drives you can bump him off the line, so that was my main focus."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1730s
+
+**9. Matas Buzelis — "The main thing is adding in a chef and building that routine with a chef." — Matas Buzelis on the importance of having a personal chef** [31:10](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1870s)
+
+Matas Buzelis: "The main thing is adding in a chef and building that routine with a chef. Honestly, one of the best things that I've ever purchased in my life. He works with **Jonas Valanciunas** on the side just in the NBA season, but Jonas is back there. Seeing him there and then me representing his country, my roots, it was a surreal feeling."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=1870s
+
+**10. Matas Buzelis — "I was a swimmer till I was nine years old, I think nine, 10, maybe. I think 11." — Matas Buzelis on his background as a competitive swimmer** [38:50](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=2330s)
+
+Matas Buzelis: "I was a swimmer till I was nine years old, I think nine, 10, maybe. I think 11. And I was number one ranked swimmer in the country when I was 11. I was pretty good, but I hated swimming like I hated it. You wake up at four in the morning and you have to go to a meet and jump in cold water. My mom would always tell me like, five dollars you drop some time today. And as soon as I heard that, I was locked in."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=2330s
+
+**11. Matas Buzelis — "My mentality was I'm going to destroy you right now. Like that's how my parents raised me." — Matas Buzelis on his competitive mentality** [40:24](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=2424s)
+
+Matas Buzelis: "I wasn't that much taller, but my mentality was I'm going to destroy you right now. Like that's how my parents raised me. Like nobody, nobody can, I'm not going to swear, but they cannot fuck with you."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=2424s
+
+**12. Matas Buzelis — "Ignite was a thing. I was a sophomore in high school and my coach was telling me." — Matas Buzelis on his decision to join the G League Ignite** [50:49](https://www.youtube.com/watch?v=bwuRn6VIpH8&t=3049s)
+
+Matas Buzelis: "Ignite was a thing. I was a sophomore in high school and my coach was telling me, **Dimitri Pesic** from here. He's like, you're going to Ignite, bro. Like that's where you're going. I was like, I don't know what you're talking about. Like I'm not going over there, I have to go to school. My mom was very strict, so she always wanted me to go to school and she would get mad at him saying that to me that I'm going to Ignite because my sophomore year, NBA wasn't really a reality for my family. I always knew like, this is I'm going I'm going to the NBA, like that was my mentality, but I wasn't I wasn't that good, you know, and out of nowhere it just started getting crazy."
+
+https://www.youtube.com/watch?v=bwuRn6VIpH8&t=3049s
 
 ---
 
