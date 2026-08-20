@@ -1,0 +1,87 @@
+# Nneka Ogwumike Retires + The Case for Her To Be Next WNBA Commissioner — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=foWowHF47SM
+
+_Speakers identified: Allie Clifton, Jordan Robinson, Cynthia Cooper_
+
+**1. Cynthia Cooper — "When you choose a team, you expect the team to go out and play and not take a game off." — Cynthia Cooper on the WNBA All-Star game and team performance** [02:08](https://www.youtube.com/watch?v=foWowHF47SM&t=128s)
+
+Cynthia Cooper: "When you choose a team, you expect the team to go out and play and not take a game off. My team kind of took the game off. It was okay. By the time they decided to play, it was over because Spoon must have prepped her team. I will say that Spoon lost the night before. We were the shooting stars and I was dropping dimes."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=128s
+
+**2. Cynthia Cooper — "My whole goal was to get them to the last spot worth the most points with a lot of time." — Cynthia Cooper on the strategy behind the Shooting Stars competition** [02:54](https://www.youtube.com/watch?v=foWowHF47SM&t=174s)
+
+Cynthia Cooper: "Mentally, I was like, okay, I got to get them this ball. They couldn't shoot. The rule was you can't shoot until the person before you has already released the ball. So I was timing it. I was like, boom, one, two, boom. I told them, as soon as she releases, I'm sending the next one. Let's go. They were like, I got you. My whole goal was to get them to the last spot worth the most points with a lot of time."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=174s
+
+**3. Cynthia Cooper — "She's had an incredible career, incredible run. She has always been at the top of her game." — Cynthia Cooper on Nneka Ogwumike's legacy and retirement** [06:09](https://www.youtube.com/watch?v=foWowHF47SM&t=369s)
+
+Cynthia Cooper: "She's had an incredible career, incredible run. She has always been at the top of her game. Madam President, she brought her A-game to every team that she was on, and she left a legacy on each of those teams, left her mark. Retiring is so personal. Only you can know when it's right for you. For Nneka to acknowledge that this is the time, she wants to go out, she's averaging 17 points this year, but also, when you feel like you've fulfilled the promise you made to yourself as you were on this journey to make it to the pros, to become a pro, when you feel like you've fulfilled that promise, then you're ready to take the next step in life."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=369s
+
+**4. Jordan Robinson — "Come be the commissioner of the WNBA. If you don't have any jobs lined up, please transition into running this league." — Jordan Robinson suggests Nneka Ogwumike as the next WNBA Commissioner** [07:51](https://www.youtube.com/watch?v=foWowHF47SM&t=471s)
+
+**Jordan Robinson:** "Come be the commissioner of the WNBA. If you don't have any jobs lined up, please transition into running this league that you already run so well. That is my plea, Coop."
+
+**Cynthia Cooper:** "That's a pretty good thought, Jordan."
+
+**Jordan Robinson:** "I would love that. I think she would be so great."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=471s
+
+**5. Jordan Robinson — "She is retiring from the WNBA, but she did announce months back that she was playing in Project B." — Jordan Robinson questions if Nneka Ogwumike will play in Project B** [08:11](https://www.youtube.com/watch?v=foWowHF47SM&t=491s)
+
+Jordan Robinson: "She is retiring from the WNBA, but she did announce months back that she was playing in Project B. So that is my question mark. Is she still going to be playing in the inaugural season of Project B, which starts in the fall, or is she retired from all of basketball? I think we might be able to still see Nneka play basketball, just in a different capacity, just not in the WNBA."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=491s
+
+**6. Cynthia Cooper — "I'll say her greatness in everything that she touched. Being the best version of you whenever you're needed." — Cynthia Cooper on Nneka Ogwumike's greatness and relentless play** [11:10](https://www.youtube.com/watch?v=foWowHF47SM&t=670s)
+
+Cynthia Cooper: "I'll say her greatness in everything that she touched. Being the best version of you whenever you're needed is a rare talent, I believe, and Nneka has that. Nneka, she's so smart, but on the court, she is relentless, and she really morphs into whatever you need her to be in order for you guys to win a championship. If you remember when she got the, took the shot, got her own offensive rebound, and won the championship with that putback on the road, I think it was Minnesota. That was vintage Nneka. That's who she really is. Never giving up on a play, never giving up in life, never giving up on the CBA, never giving up on what is owed to the players and what she values."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=670s
+
+**7. Jordan Robinson — "That photo is a full page in the 2010s because it really defined a rivalry between the Sparks." — Jordan Robinson on Nneka Ogwumike's 2016 MVP and championship shot** [12:22](https://www.youtube.com/watch?v=foWowHF47SM&t=742s)
+
+Jordan Robinson: "That photo is a full page in the 2010s because it really defined a rivalry between the Sparks and the Minnesota Lynx and what a special time of just high intense basketball that was. That was **Candace Parker** and Nneka. Nneka winning MVP that year and then hitting that shot for her lone championship trophy. I know that is so special and that is not only maybe a highlight of her career, but it is a highlight of the WNBA. In the 30 years of the league, that shot is one of the best shots that has happened because of the stakes, because of it was her own offensive rebound, because it was blocked, because it was over Sylvia Fowles."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=742s
+
+**8. Cynthia Cooper — "It is one of those honors that you don't dream of. And so, when you're honored in that way." — Cynthia Cooper on being a Hall of Famer** [16:01](https://www.youtube.com/watch?v=foWowHF47SM&t=961s)
+
+Cynthia Cooper: "It is one of those honors that you don't dream of. And so, when you're honored in that way, and has you've solidified your legacy in the Hall of Fame, because that's one of the ways you solidify it, I was so honored. I replayed events in my life, events in my basketball career, my journey going overseas to play the majority of my career, and then having the opportunity to play at the tail end of my career in the W and to leave a foundation there. For me, being named a Hall of Famer was like the culmination of all of that coming into one big ball of love for the effort and for everything that I had given to the game of basketball. And to be honest with you guys, I never thought I would be a Hall of Famer, because remember, I only played in the W for four years. So I didn't think that was enough time to kind of get that ball rolling, that hey, I have sacrificed enough and I we've won enough and we and I've earned this this honor."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=961s
+
+**9. Cynthia Cooper — "I think the 1996 Olympic team was incredible because not only were they super talented, but they did it." — Cynthia Cooper on the 1996 Olympic team's impact** [28:46](https://www.youtube.com/watch?v=foWowHF47SM&t=1726s)
+
+Cynthia Cooper: "I think the 1996 Olympic team was incredible because not only were they super talented, but they were just wiping the floor with everyone, but they did it in America. It was done in Atlanta, and that was probably the first time the American public got a chance to see women play at that level on such a big stage, and to see how dominant that team was, how they had the different pieces of the puzzle in order to come away with that gold medal. And they did it in America for America with USA across their chest. I just thought it was incredible. It was incredible for women's basketball. It wasn't collegiate, it wasn't pro, it wasn't not high school. It's for women's basketball, that was the one time we had the entire world's attention and we performed. A quick shout-out to **Teresa Edwards**, because she is one of those players that she has six Olympic medals, just Olympic medals, five or six. But she is just one of those competitors that I always went up against in USA basketball. We both played the two-guard position, and she made me better. Oh my god. She's a great defender, tough nose, from Athens, Georgia, and I mean, she just an incredible competitor and basketball player."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=1726s
+
+**10. Cynthia Cooper — "At the time, one of the big question marks for USA basketball was when we go play these other teams." — Cynthia Cooper on the challenges of USA Basketball team building** [30:04](https://www.youtube.com/watch?v=foWowHF47SM&t=1804s)
+
+Cynthia Cooper: "At the time, one of the big question marks for USA basketball was when we go play these other teams, they're more like family. They've been playing together for years and years and years. And back at that time, USA basketball would just have tryouts and they wouldn't maintain a nucleus of a team. They would just have tryouts and sometimes have different teams competing for these international gold medals every two to four years. And so I think what USA basketball tried to do, one in 96, was one, keep them together, keep the team together and let them tour around, right, and get to know each other because when the Olympics come, this is a huge stage, a lot of pressure in America, and now they'll get they'll know each other. So they wanted them to get to know each other better, but also get to know each other on the court, and that because I think that was something that other teams, other international teams had that the USA teams didn't really have because we only had a tryout and then went and played in a tournament."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=1804s
+
+**11. Cynthia Cooper — "It was heartbreaking for us, especially since we lost in the semifinals to then Russia." — Cynthia Cooper on the 1992 Olympic team's loss** [33:22](https://www.youtube.com/watch?v=foWowHF47SM&t=2002s)
+
+Cynthia Cooper: "It was heartbreaking for us, especially since we lost in the semifinals to then Russia, and we had beat them by like 30 points in pool play. But the point was, you have to stay focused on the task. And I thought we got unfocused because that was the first year of the Dream Team, 92, and there was all the hoopla around the Dream Team and what they were getting and what we weren't getting and what and it just got unfocused because, you know, at the end of the day, every team in the world is going to bring their A-game against you because you're America. And so you have to bring your A-game every single night, especially in pool play so that you get in a position, but even more, when it comes to the medal rounds, like you you got to win. It's it's it's it's you know, you got to get focused and I thought we were a little unfocused and we won, we came away with the bronze, and it was for us, it was like a woe. It was almost a wake-up call and I think the 96 team did a fantastic job with taking that torch, making it their own, and establishing the dominant play of USA women's basketball."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=2002s
+
+**12. Cynthia Cooper — "The 2027 WNBA All-Star game, which is the first stop that Girls Tripp had outside of the studio." — Cynthia Cooper on the 2027 WNBA All-Star game in the Bay Area** [40:02](https://www.youtube.com/watch?v=foWowHF47SM&t=2402s)
+
+Cynthia Cooper: "The 2027 WNBA All-Star game, which is the first stop that Girls Tripp had outside of the studio, was at All-Star weekend, is in the Bay. That announcement coming just yesterday again. We're recording this on Wednesday, but how awesome is that?"
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=2402s
+
+**13. Cynthia Cooper — "Whenever you need her into this superhero that just takes over games and moments in a game." — Cynthia Cooper on Kelsey Mitchell's transformation and performance** [48:50](https://www.youtube.com/watch?v=foWowHF47SM&t=2930s)
+
+Cynthia Cooper: "Whenever you need her into this superhero that just takes over games and moments in a game and allow her team to just surge and get and be better. And that gives space for, you know, players to, you know, Cunningham to get her shot off, Lexie Hull to get her shot off. I just think they have they have the complete package. They also have **Monique Billings** and **Michaela Onyenwere**. Can we talk about her? Wow. Yes. Just incredible. She, you know, she matured into her role and she has just been a beast in in every in every way that they needed her to be. She's she's defending the rim, she's finishing around the rim, she is running the floor. Like they have, you know, really everything they need to be champions. So yes, yes, the Fever and I believe that they put the pieces together at the right time. They, you know, there was there was a moment where they were, you know, going up and down and they were a little inconsistent, but now I think they have the right pieces in the right places at the right time."
+
+https://www.youtube.com/watch?v=foWowHF47SM&t=2930s
