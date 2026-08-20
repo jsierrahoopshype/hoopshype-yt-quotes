@@ -1,0 +1,75 @@
+# Kobe, Kyrie, KD, Jordan, Obama & More | Legendary Stories From Basketball’s Wildest Runs — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=f4gRvrMvV-c
+
+_Speakers identified: Carmelo Anthony, The Kid Mero, Rudy Gay, Gilbert Arenas, J. Cole, Monica McNutt, Demarcus Cousins, Rasheed Wallace, Bill Bellamy, 2 Chainz_
+
+**1. Carmelo Anthony — "Barack Obama doing a basketball game, man. He said he needed a shooter. He said he wanted you." — Carmelo Anthony recalls playing in a pickup game with Barack Obama** [00:00](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=0s)
+
+**Carmelo Anthony:** "I got the call. **Barack Obama** doing a basketball game, man. He said he needed a shooter. He said he wanted you. You have to be there."
+
+**The Kid Mero:** "Damn."
+
+**Carmelo Anthony:** "I got something. It was super dope. It was a bunch of us, though. It was a bunch of us. I think LeBron was there. We had some older guys, like Alonzo Mourning. Guys like that, that he had relationships with already. Older guys, and then he invited some of the younger guys. We were just there having a good time."
+
+**Rudy Gay:** "Did anybody guard him with any gusto?"
+
+**Carmelo Anthony:** "You guard him, but you just can't touch him."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=0s
+
+**2. Gilbert Arenas — "I took this shit seriously. I knew I wasn't getting on the court. I got to take advantage." — Gilbert Arenas claims he dominated the 2006 Team USA scrimmage** [03:08](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=188s)
+
+**Gilbert Arenas:** "2006 scrimmage that you cooked the entire team. We ain't got no footage. We just got eyewitnesses."
+
+**Carmelo Anthony:** "I can talk about the way you drinking that water. That's a lot of truth to what he said."
+
+**Gilbert Arenas:** "You got to remember, cooking is any bucket I scored. You got to look at this. This is the best five I've ever played against. This is the best five ever. Think about the five I'm practicing against. **Chris Paul**, **Dwyane Wade**, **Carmelo Anthony**, **LeBron James**, **Dwight Howard**. I would never, ever, ever, as an NBA player, ever play against a five like that to test my talent. Right? Remember, I'm playing against the second unit in practice. So this is the best five I'm ever going to play against. So I took this shit seriously. I knew I wasn't getting on the court. I got to take advantage of it. Right? So you got now look at my team. **Kirk Hinrich**, **Antawn Jamison**, he ain't getting the ball. I got **Brad Miller**, **Joe Johnson**, **Elton Brand**, **Shane Battier**. I ain't passing the ball either. I got all nine. I'm killing. I don't give a fuck what they talking about. I got all nine. I'm killing these boys out here. I'm cooking, nigga."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=188s
+
+**3. J. Cole — "I was nervous as hell. I'm playing with real deal pros. My shooting in this era touched." — J. Cole reflects on his experience playing basketball with Carmelo Anthony** [11:18](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=678s)
+
+**J. Cole:** "I remember that day. I was nervous as hell. I'm playing with real deal pros. Even the guys that wasn't NBA guys was top, you know, elite talent from what I remember. So I was nervous. But I had been, like my shooting in this era, from this video on to about the next year and a half, like I touched at some point in time, I touched what it feels like to have an elite, what it feels like to have an elite shot. Like no bullshit."
+
+**Carmelo Anthony:** "I think Donovan Mitchell was here. I think Dwyane Wade was here."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=678s
+
+**4. Demarcus Cousins — "When you on the select team, it's different. You almost like the punching bag for these guys." — Demarcus Cousins on the intensity of Team USA practice sessions** [14:58](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=898s)
+
+**Demarcus Cousins:** "When you on the select team, it's different. You almost like the punching bag for these guys. You the fresh meat. There's some haze in that kind of goes along with it, but like you the punching bag for these guys to get ready, you know, to go over and do what they got to do."
+
+**The Kid Mero:** "What kind of hazing was going on?"
+
+**Demarcus Cousins:** "Not necessarily hazing. More so on the court. You getting talked to. Kobe was talking us crazy. Oh my god. Kobe talking us crazy. So, you know, it's a process, you know what I'm saying? But at the same time, you know, they're grooming you and preparing you to be that next team to, you know, step up to that next level."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=898s
+
+**5. Rasheed Wallace — "He came to watch us practice one time and he jumped in the practice a little bit." — Rasheed Wallace recalls Michael Jordan joining a practice session** [18:08](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=1088s)
+
+**Rasheed Wallace:** "He came to watch us practice one time and he jumped in the practice a little bit. We go through practice and now practice is over. So after practice, you know how it is, you get 10 minutes that you work on your form, work on everything, your shots, all this and that. All right, I do that. Boom. So me and a couple other bigs, we go in the locker room. So now I don't took my shoes off, took my tape off, I'm icing. So here comes one of the managers. Hey, coach wants you out on the floor. I'm like, coach who? He's like, coach Smith. I was like, man, so all right, put my socks on, put my shoes on."
+
+**Monica McNutt:** "It depends on who the coach is."
+
+**Rasheed Wallace:** "Man, I'm like, all right. I run out there. They like, oh, you know, Mike was out there playing cats one-on-one. He was playing **Stack** one-on-one, playing **Donatas Motiejunas** one-on-one, **Touche**, **Jeff McInnis**, **Dante Exum**, and asked me did I want to jump in. No. I got sense. No. I know I had what they call a schoolyard handle. I didn't care if I turned it over, if it banged off my leg, my foot and go out. School, that's schoolyard. That's schoolyard handle. No, my handle's not good enough to play against this dude right here. No, no, no. I'm not playing him one-on-one. I'm going to watch."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=1088s
+
+**6. Bill Bellamy — "I'm having dinner one night, I'm in Beverly Hills and Mike's there. He's doing Space Jam." — Bill Bellamy shares a story about playing basketball with Michael Jordan** [19:58](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=1198s)
+
+**Bill Bellamy:** "I'm having dinner one night, I'm in Beverly Hills and Mike's there, whatever, and Mike's doing Mike, the cigars, he chilling. He said, yo, man, what you doing tomorrow? I said, we on working. He was like, yo, I'm doing Space Jam. I said, damn, what's up? He said, yo, man, come to the run. We do a little run in the afternoon with your game. I'm like, I'm solid. I get over there, **Toby Bailey**, **Grant Hill**, **Jason Kidd**. Damn, it was, it was, it was about the level of ball players in there was like really on that level, right? And it was summertime. So they had a couple cats that played overseas, and then they had me and like **Damon Wayans**, right? So I'm like, damn, man, I don't know if they going to let us get in or whatever."
+
+**Carmelo Anthony:** "It was future Hall of Famers everywhere."
+
+**Bill Bellamy:** "Bro, the level of ball players in there was like really on that level, right? And it was summertime. So they had a couple cats that played overseas, and then they had me and like **Damon Wayans**, right? So I'm like, damn, man, I don't know if they going to let us get in or whatever, because they were, what was dope about the, it was everything. Just imagine Equinox on steroids in the parking lot. Mike had everything. Lobster, shrimp, hoop, they had the parquet floor, they had the showers, the steam room, in the bubble for this man. I said, I got to make me some more money."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=1198s
+
+**7. 2 Chainz — "I ain't never seen him like this. I'm looking at him like, man, I don't really mad." — 2 Chainz recalls Carmelo Anthony getting angry during a pickup game** [23:00](https://www.youtube.com/watch?v=f4gRvrMvV-c&t=1380s)
+
+**2 Chainz:** "Ain't nobody ever seen Melo get hot. I seen Melo get hot. I seen him get so upset. He's so cool, he's such a player. Motherfucker wouldn't think he get upset. We played open court in California. I got invited by Drew, who trains many NBA guys. He tells me it's about to be some real run. I'm like, man, I'm ready. I supposed to be in the league. Anyway, we playing. I fuck around and hit my first shot. Confidence already at hotness, like now I'm elite. I come down like maybe two times, look that boy Melo off. And then I come down and get it. Look, man, give me the ball. Homey get so hot at me. I ain't never seen him like this. I'm looking at him like, man, I don't really mad. He in the midi trying to work his love. I'm telling all my homeboys, every time I see Melo somewhere, I like, bro, this nigga got so mad at me one time. I can't, he like, I know. Now what year was this? You think it was 10 years ago?"
+
+**Carmelo Anthony:** "I mean, we talking about 17, 18."
+
+https://www.youtube.com/watch?v=f4gRvrMvV-c&t=1380s
