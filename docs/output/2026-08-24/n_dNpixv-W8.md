@@ -1,0 +1,35 @@
+# Patrick Peterson Got SUSPENDED… So His Coach Put Him in a DISGUISE — *Brice Butler Studios*
+
+Source: https://www.youtube.com/watch?v=n_dNpixv-W8
+
+_Speakers identified: Patrick Peterson, Brice Butler_
+
+**1. Patrick Peterson — "That's how Johnson came about because they wasn't married then." — Patrick Peterson on his high school suspension and name change** [00:00](https://www.youtube.com/watch?v=n_dNpixv-W8&t=0s)
+
+Patrick Peterson: "Honestly, it came from, I just talked about my parents had me at a young age. My mom was a junior in high school, my dad had just got out of high school, so he was basically a freshman in college. In my mom's household, especially with her having me at a young age, it was like, we don't know if you're going to be with him down the road. So he came out of you, that's how **Johnson** came about because they wasn't married then. So that's how **Johnson** came about because they wasn't married then. So then later on when I was in high school, my junior year, they got married, and it was always a big fuss because I just missed my sophomore year."
+
+https://www.youtube.com/watch?v=n_dNpixv-W8&t=0s
+
+**2. Patrick Peterson — "Man, Pat, they just suspended you, but you still going to play." — Patrick Peterson on his high school suspension and playing in disguise** [01:17](https://www.youtube.com/watch?v=n_dNpixv-W8&t=77s)
+
+Patrick Peterson: "It's a funny story, my freshman year, I got suspended, and this wasn't nothing I did outside of football. I did an excessive celebration in the game before. I was supposed to be suspended for the next game coming up, but it was against our rival, **Dillard**. So our head coach, **Jeff**, comes into the locker room, comes into the team meeting room, and he's like, man, Pat, they just suspended you, but you still going to play. I'm like, I'm still going to play? How am I still going to play? They put me in number 12, I had a dark shield, and was out there still cooking. So the principal was out there, he's like, man, who is that number 12? We ain't seen him all year."
+
+https://www.youtube.com/watch?v=n_dNpixv-W8&t=77s
+
+**3. Patrick Peterson — "To this day, it's the best decision I made in my life." — Patrick Peterson on choosing LSU over USC** [03:26](https://www.youtube.com/watch?v=n_dNpixv-W8&t=206s)
+
+Patrick Peterson: "You know what's crazy about that decision, man, to this day, it's the best decision I made in my life. Just because I wanted to go to USC, what **Pete Carroll** had. I'll never forget when I came down there for my two visits. The Rising Star that they used to have in the summertime, that was like my initiation of meeting the coaching staff. **Ken Norton**, that was my guy. He was the guy who recruited me. Him and **Pat**, his offensive lineman name **Pat** something. So those two was my recruiters who I basically talked to a lot. I go there in the summertime, win MVP, meet **Reggie Bush**, just kicking it. Going into my senior year, I never would have, because that was my first time actually being on a flight too."
+
+https://www.youtube.com/watch?v=n_dNpixv-W8&t=206s
+
+**4. Patrick Peterson — "Pete Carroll came down to Florida when they gave me my day to the city." — Patrick Peterson on his relationship with Pete Carroll at USC** [04:23](https://www.youtube.com/watch?v=n_dNpixv-W8&t=263s)
+
+Patrick Peterson: "**Pete Carroll** on me heavy. **Pete Carroll** came down to Florida when they gave me my day to the city. He was there. I still got pictures of **Pete Carroll**, **Ken Norton**, and **Pat** in the audience watching me receive my key to the city of that day. So that was pretty cool, but during that process, he was always coming down to Florida. So I felt like we had a real close connection. But then all the stuff started coming out about possibly the team going on probation, not going to be able to play in bowl games. **Pete Carroll**'s name started floating around in the NFL. So I'm like, that's going to be kind of tough."
+
+https://www.youtube.com/watch?v=n_dNpixv-W8&t=263s
+
+**5. Patrick Peterson — "They never had a Jim Thorpe winner, and I always wanted to be a trendsetter." — Patrick Peterson on his decision to attend LSU** [06:01](https://www.youtube.com/watch?v=n_dNpixv-W8&t=361s)
+
+Patrick Peterson: "I go to LSU, never had a conversation with LSU until October of my senior year. They invited me out to come to a game. I see LSU every once in a while from Florida. Didn't know much about the school for the most part, but at the time, they was about to win a national championship. So I'm like, let me go check it out. I go there, and just the vibe, the attitude that the players had, I really felt like it was at home. And what really rung my bell, they never had a **Jim Thorpe** winner, and I always wanted to be a trendsetter here. I think this is going to be home. **Nick Saban** was at my high school a whole bunch of times, and he always had those number one recruiting classes."
+
+https://www.youtube.com/watch?v=n_dNpixv-W8&t=361s
