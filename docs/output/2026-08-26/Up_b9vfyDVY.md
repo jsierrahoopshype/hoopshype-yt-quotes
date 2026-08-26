@@ -1,0 +1,59 @@
+# Draymond Green Reacts To Klay Thompson To Heat, Watson And Harden To Cavs, & His Wild China Trip — *The Draymond Green Show*
+
+Source: https://www.youtube.com/watch?v=Up_b9vfyDVY
+
+_Speakers identified: Draymond Green_
+
+**1. Draymond Green — "Peyton Watson signed a four-year, $88 million deal with a trade kicker, with a player option" — Peyton Watson's four-year, $88 million deal with the Cavaliers** [00:27](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=27s)
+
+Draymond Green: "**Peyton Watson** signed a four-year, $88 million deal with a trade kicker, with a player option on the fourth year, and a sign-and-trade deal that sent him from the Nuggets to the Cavaliers. It also sent a 2027 second-rounder from the Clippers to the Wizards, and **Cam Whitmore** went to the Cavaliers from the Wizards, who was immediately waived. The Denver Nuggets picked up what a lot of people view as a great, great, great asset, which is the unprotected 2031 Cavaliers first-round pick. The reason you would think that is a great asset, because if you look at the Cavaliers' books, Donovan Mitchell will be on their books pretty much up until then. Jared Allen will come off before Evan Mobley will be on their books or come off before, but you look five years down the road and **James Harden** will be off the books by then. **Peyton Watson** will possibly be off the books by then. So when you look down the road, you are just not certain of what that team will look like."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=27s
+
+**2. Draymond Green — "The Denver Nuggets are trying to run away from that second apron, and so they could not afford" — Why the Nuggets chose Cam Whitmore over Peyton Watson** [03:24](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=204s)
+
+Draymond Green: "The Denver Nuggets are trying to run away from that second apron, and so they could not afford to sign **Peyton Watson** and keep **Cam Whitmore**. I am not sure what the market would have looked like out there for **Cam Whitmore**, as he did not have a great year last year. He is a little older than **Peyton Watson**, and if I am not mistaken, he is in the last year or two of his contract. So I am not sure that the market for **Cam Whitmore** was as strong as it was for **Peyton Watson**. They generated a lot of interest for **Peyton Watson**, and again, also came up with an incredible asset in that 2031 first-round pick from the Cleveland Cavaliers."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=204s
+
+**3. Draymond Green — "Following the trade, the Cavs re-signed James Harden to a three-year, $97 million contract" — James Harden's three-year, $97 million contract with the Cavaliers** [10:15](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=615s)
+
+Draymond Green: "Following the trade, the Cavs re-signed **James Harden** to a three-year, $97 million contract, and the Nuggets then signed **DeMar DeRozan** to a one-year, $3.9 million contract. The Cavs' starting five is now likely to be **James Harden**, **Donovan Mitchell**, **Peyton Watson**, **Evan Mobley**, and **Jared Allen**, which I think is a very good starting five. I think that is a, you know, you got your young wing. Ultimately, where it is going to boil down to is James and Donovan from a defensive standpoint. You are going to put **Peyton Watson** on the best wing player, I am sure. Of course, the second-best wing player is going to have to be guarded by James or Donovan, which I would not necessarily say is their strong suit, but aside from their strong suit, both of those guys do so much to create offensively that to axe them and expect them to expend that amount of energy on the defensive end, it could be tough."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=615s
+
+**4. Draymond Green — "DeMar DeRozan is expected to come off the bench, essentially for the first time in his career" — DeMar DeRozan's role and adjustment in Denver** [12:02](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=722s)
+
+Draymond Green: "**DeMar DeRozan** is expected to come off the bench, essentially for the first time in his career. Now, I do not foresee him just playing the **Peyton Watson** role because I think DeMar is a completely different player. Where I do see him is in those non-Joker minutes. That has been a thing for Denver for years, the non-Joker minutes, how they look. And you now have a guy who, in those non-Joker minutes, you can give him the ball, he can get to the line, he can get fouled, he has his spots that he gets to, and he gets buckets. And so you have something to where you know exactly, all right, we can go to this, and this is how we are going to survive through the non-Joker minutes. For DeMar, I think it is going to be an adjustment. You are in the twilight of your career, first time not being a starter, first time really not being the guy with the ball on the team. It is going to be an adjustment for him, but I think at this point in the career, you probably welcome and accept that adjustment."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=722s
+
+**5. Draymond Green — "Klay Thompson is signing with the Miami Heat on a two-year, $13 million contract" — Klay Thompson's move to the Miami Heat** [15:46](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=946s)
+
+Draymond Green: "**Klay Thompson** is signing with the Miami Heat on a two-year, $13 million contract with a player option for the second year after he took a buyout from the Dallas Mavericks. It was said that Klay left $9 million on the table in order to get that buyout. And I know a lot of people are saying that his starting five is now likely **Davion Mitchell**, Klay, Wiggins, Giannis, and Bam. I will remind you that they also have **Tim Hardaway**, so it could be **Tim Hardaway**. I love the move. I love this for Klay. I know Klay is happy he is in Miami, he is around water. You all saw me make the joke about, you know, his boat does not necessarily fit the Miami aesthetic, so Klay is going to have to get a new boat. One thing you all should understand about Klay is Klay does not give a damn about an aesthetic. Klay on that water, Klay is happy, and I know this move makes him a happy man."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=946s
+
+**6. Draymond Green — "Prior to signing with the Heat, Klay got into a heated debate on Instagram over whether people" — Klay Thompson vs. Ray Allen career debate** [18:51](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=1131s)
+
+Draymond Green: "Prior to signing with the Heat, Klay got into a heated debate on Instagram over whether people would rather have his career or **Ray Allen**'s career. And a couple of nobodies argued that Klay was never a first option and that Ray was for his first 10 years. And what I will say is, yes, **Ray Allen** was a first option, and by the way, Jesus Shuttlesworth was incredible. When you are a first option, I love how people love to move the goalpost, though. **Ray Allen** was getting crushed that he could not get over the hump, that he only could get to the conference finals, and then I saw something that said, oh man, **Ray Allen** took the team to Game 7 of the conference finals. And I was like, wow. So now we are going to move the goalpost and act like that is some extreme level of success. It is not. And if you are going to move the goalpost and say that is, then make sure you give Trey Young the respect that Trey Young deserves, because Trey Young a few years ago took the Atlanta Hawks to the conference finals."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=1131s
+
+**7. Draymond Green — "T-Mac and Vince Carter, they were speaking about what is more, a regular season MVP or championship" — Regular season MVP vs. winning an NBA championship** [26:55](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=1615s)
+
+Draymond Green: "T-Mac and **Vince Carter**, they were speaking about what is more, a regular season MVP or championship. And I wanted to say something that was mentioned on there, which is T-Mac saying, oh man, well if you are the 11th to 12th best player on a championship, it is the MVP, of course. No one is arguing that. Of course that. And I think that was a nuance used to make a point valid. In saying that, a lot of you all do not hold **Derrick Rose** in the regard he should be held in, and he was the youngest MVP we have ever had. So I said that to say, it kind of makes that point not valid because we are watching you all not hold **Derrick Rose** in the regard that he should be held in. But also, it is not that it is bigger for an 11th or 12th man, because it is not. We know that. You are going to hold, you cannot play, of course, we get that. But a championship for a first option, for a second option, now let us have a real conversation. A championship for a first option to deliver a championship, and an MVP, how I know the argument does not work and how it is because when you weigh the two, **Jalen Brunson** just won a championship as a first option. And what I am certain of is all of you basketball people hold **Jalen Brunson** at this point right now in a higher regard than you hold **Derrick Rose**."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=1615s
+
+**8. Draymond Green — "America business leader Mark Lore has completed a deal to become the controlling shareholder and largest shareholder" — Timberwolves ownership changes and financial constraints** [30:08](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=1808s)
+
+Draymond Green: "America business leader **Mark Lore** has completed a deal to become the controlling shareholder and largest shareholder of the NBA's Minnesota Timberwolves and WNBA's Minnesota Lynx by buying the majority of co-chair **Mark Lore** stake at a $4.5 billion valuation. Now, I saw a lot of people like, oh man, they made $3 billion in one year. Remember, they went through arbitration with former owner **Glen Taylor** after they had a deal to take over the team. He did not want to give it up once he saw the team jump up. They were locked in at a $1.5 billion price. And once they went through arbitration and completed the sale, they were still locked in at the 2021 price of $1.5 billion. It is said that **A-Rod** also increased his equity in the organization, however, no one knows the exact split. I find it interesting that we are starting to see these teams change after you hardly see teams sell. You are starting to see them switch hands like that, and I think we will continue to see more of that. The reason I think we will continue to see more of that is because these teams have become so expensive for individuals to own that I think it is starting to put some of these, although billionaires, under some financial constraints that they are not really comfortable being under."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=1808s
+
+**9. Draymond Green — "The Mavs signed Brandon Williams to a one-year, $3.6 million deal. Brandon Williams averaged 13 points" — Brandon Williams' impact on the Mavericks** [34:18](https://www.youtube.com/watch?v=Up_b9vfyDVY&t=2058s)
+
+Draymond Green: "The Mavs signed **Brandon Williams** to a one-year, $3.6 million deal. **Brandon Williams** averaged 13 points, four assists in 22 minutes across 66 games last year for Dallas. What I will tell you all, Mavs Nation, is this kid is shot out of a rocket. Very tough guard, fast as hell, also the high school teammate of **DeAnthony Melton**. So there is some familiarity there. I think, you know, to have a good change of pace guard like that is going to bode well for a team and also another ball-handler, a guy who can make plays, I think will be well for the team and allow everyone to kind of play their natural position. So I think it is a good pickup. I think he definitely will fit on the team and, you know, ultimately, then you got to go lace them up and play the game."
+
+https://www.youtube.com/watch?v=Up_b9vfyDVY&t=2058s
