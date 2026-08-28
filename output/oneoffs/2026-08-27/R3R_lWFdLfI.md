@@ -1,0 +1,37 @@
+# How Private Equity is Breaking Sports (ft. Chuck Klosterman) — *PABLO TORRE FINDS OUT*
+
+Source: https://www.youtube.com/watch?v=R3R_lWFdLfI
+
+_Speakers identified: Pablo Torre, Chuck Klosterman_
+
+**1. Pablo Torre — "there are decisions being made to extract that money that threaten the actual water system" — Private equity's financial incentives threaten the integrity and viability of professional sports** [00:00](https://www.youtube.com/watch?v=R3R_lWFdLfI&t=0s)
+
+**Pablo Torre:** "My personal view is also economically driven. There is so much money available in sports, and on a relative basis, it is so valuable to every other media property. The term I keep returning to is fracking. There is this sense that there is yet more money to be mined from sports. And what is happening is that there are decisions being made to extract that money that threaten the actual water system and the viability of what sports are and why they have become so valuable in the first place."
+
+**Chuck Klosterman:** "I not totally but mostly do agree with you on this. In the short term, it is interesting because I have many conversations with other fathers in situations where they are talking about some meaningless game that was on and they were like, I put some money down, I want to feel something. I wanted the juice. In some ways, maybe gambling is inflating the idea that a match game between two teams that are under .500 could still be watchable."
+
+https://www.youtube.com/watch?v=R3R_lWFdLfI&t=0s
+
+**2. Chuck Klosterman — "the things that make a casual fan more interested are not the things that make the person who loves the sport care" — Professionalization of sports erodes the regional quality and cultural connection for fans** [02:00](https://www.youtube.com/watch?v=R3R_lWFdLfI&t=120s)
+
+Chuck Klosterman: "The things that make a casual fan more interested are not the things that make the person who loves the sport care. I love college football more than pro football and the things I love about it have to do with the history of the sport and the culture around it. The idea that when you are watching Kansas play Missouri in some weird way you are rooting for or against the kind of person you imagine who goes there. All these regional qualities are going to be taken away. We are professionalizing this and you cannot tell a kid don't take any money now because in 40 years no one is going to care about college football. You cannot do that, but it is going to happen."
+
+https://www.youtube.com/watch?v=R3R_lWFdLfI&t=120s
+
+**3. Pablo Torre — "it feels like we are entering a post-winning phase of sports" — University of Utah's private equity investment signals a shift toward a post-winning phase of sports** [03:18](https://www.youtube.com/watch?v=R3R_lWFdLfI&t=198s)
+
+Pablo Torre: "One of the most underrated stories is the fact that the University of Utah just took all this private equity money. It feels increasingly like we are entering a post-winning phase of sports. Private equity's main directive is growth. It is a financial incentive, is the bottom line better? It is not to win more games. The whole premise of there being an irrational booster or an irrational owner who wants to break salary cap convention rules or just fund things because they love them is only going to be worth it to them if they are obsessed with the team and winning a championship. If we replace that irrationality with a financial calculation because the money just needs to keep getting bigger, that is going to help break sports."
+
+https://www.youtube.com/watch?v=R3R_lWFdLfI&t=198s
+
+**4. Chuck Klosterman — "isn't it kind of strange that the expectation that when these guys play basketball they're not going to care all the time?" — NBA players' lack of effort in non-marquee games contradicts the league's competitive expectations** [04:36](https://www.youtube.com/watch?v=R3R_lWFdLfI&t=276s)
+
+Chuck Klosterman: "The championship cup in the NBA, does it seem like the guys kind of play a little harder in those games? They don't like to play in the All-Star game and they don't really like to play on Christmas that much anymore. We have always lived with this idea that the playoffs are going to be different, the intensity is going to ratchet up. When you really think about that, isn't it kind of strange that the expectation that when these guys play basketball they're not going to care all the time? The amount of money that is there, the fact that they are the most competitive people in the world, the fact that they are the elite people, shouldn't the reality that which they live in be enough motivation to play hard all the time?"
+
+https://www.youtube.com/watch?v=R3R_lWFdLfI&t=276s
+
+**5. Pablo Torre — "it's not post-winning so much as it is post-maximum competition" — Modern sports are shifting from a focus on winning to a focus on maximum competition** [05:26](https://www.youtube.com/watch?v=R3R_lWFdLfI&t=326s)
+
+Pablo Torre: "It is not post-winning so much as it is post-maximum competition. You want to believe that in every circumstance the people that you are watching who you care about so viscerally are trying as hard as they possibly can at all times. And so are the people who are funding it, so are the people who are coaching and managing it. What we are seeing, whether it is the rise of gambling, whether it is the rise of private equity, whether it is the rise of load management, it is all speaking to a goal that is not trying to compete as hard as you can at every given moment."
+
+https://www.youtube.com/watch?v=R3R_lWFdLfI&t=326s
