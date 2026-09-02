@@ -1,0 +1,29 @@
+# Shams Charania says Adam Silver ‘dropped the hammer’ on Steve Ballmer & Clippers | SportsCenter — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=zx3V3i-i0lY
+
+_Speakers identified: Nicole Briscoe, Shams Charania_
+
+**1. Shams Charania — "This was Adam Silver playing judge and jury after a year-long probe and investigation into the LA Clippers." — Adam Silver and NBA impose severe penalties on LA Clippers** [01:14](https://www.youtube.com/watch?v=zx3V3i-i0lY&t=74s)
+
+Shams Charania: "Clearly this was **Adam Silver** and the NBA bringing the hammer to the Clippers. This was **Adam Silver** playing judge and jury after a year-long probe and investigation into the LA Clippers. And so five first-round picks, that's consistent with the **Joe Smith** penalty that was given to the Minnesota Timberwolves about three decades ago. A $30 million fine, and then you have multiple executives, **Lawrence Frank** on the basketball side and **Gillian Zucker** on the business side getting suspensions. And then **Steve Ballmer**, the owner, not only being fined that $30 million, but also getting a suspension for one year. He's not going to be allowed to be around the team, participate in any activities for a year."
+
+https://www.youtube.com/watch?v=zx3V3i-i0lY&t=74s
+
+**2. Shams Charania — "They actively helped him obtain financial revenue from companies in specific as far as getting money off the court." — Investigation reveals Clippers helped Kawhi Leonard obtain outside financial revenue** [02:11](https://www.youtube.com/watch?v=zx3V3i-i0lY&t=131s)
+
+Shams Charania: "The investigation essentially shows that the Clippers weren't technically funneling money to **Kawhi Leonard**. There was no napkin with money being given to him on an agreement, but they actively helped him obtain financial revenue from companies in specific as far as getting money off the court along with his NBA contract. And the investigation also made it clear that **Kawhi Leonard** didn't knowingly have information about any salary cap circumvention occurring, but clearly his business representative at the time, **Dennis Robertson**, who also is his uncle, did have that knowledge and was engaging in salary cap circumvention."
+
+https://www.youtube.com/watch?v=zx3V3i-i0lY&t=131s
+
+**3. Shams Charania — "Now he has been banned by the NBA from conducting any and all business with the league." — Dennis Robertson banned from NBA business following salary cap circumvention** [02:54](https://www.youtube.com/watch?v=zx3V3i-i0lY&t=174s)
+
+Shams Charania: "**Dennis Robertson** was fired by **Kawhi Leonard** back in June. Now he has been banned by the NBA from conducting any and all business with the league. And so this is the penalty that **Kawhi Leonard** has agreed to under the collective bargaining agreement. His penalty had to be collectively bargained under the CBA with the NBA itself, and that ends up being $700,000 in restitution that he's going to have to pay back. But the good news for Leonard is his contract will not be voided. He will not be given a suspension."
+
+https://www.youtube.com/watch?v=zx3V3i-i0lY&t=174s
+
+**4. Shams Charania — "Everything is on track for Kawhi Leonard to be traded now to the Toronto Raptors." — Kawhi Leonard trade to Toronto Raptors back on track** [03:55](https://www.youtube.com/watch?v=zx3V3i-i0lY&t=235s)
+
+Shams Charania: "His contract was not voided, he was not suspended. So all systems are a go, everything is on track for **Kawhi Leonard** to be traded now to the Toronto Raptors. This was the last piece of information the Raptors were waiting on for this investigation to conclude to go forward with the trade. Remember back in July, the NBA made it clear to both sides that listen, you can go through with the trade, but any type of penalty to **Kawhi Leonard** would be falling back on the Raptors. The Raptors did not want to take that risk."
+
+https://www.youtube.com/watch?v=zx3V3i-i0lY&t=235s
