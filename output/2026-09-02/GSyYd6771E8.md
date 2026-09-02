@@ -1,0 +1,65 @@
+# Jonnathan Kuminga's Agent REACTION + FAKE 49ers Player SCAM — *The Draymond Green Show*
+
+Source: https://www.youtube.com/watch?v=GSyYd6771E8
+
+_Speakers identified: Draymond Green_
+
+**1. Draymond Green — "This guy was, number one, this guy is walking around with a helmet. He's walking around with a 49er helmet." — Draymond Green on the fake 49ers player romance scam** [00:15](https://www.youtube.com/watch?v=GSyYd6771E8&t=15s)
+
+Draymond Green: "Dejon Love was arrested by the FBI for orchestrating a 1.3 million dollar romance scam by posing as the San Francisco 49ers wide receiver. I found this to be crazy and funny and sad. All the emotions in one. This guy was, number one, this guy is walking around with a helmet. He's walking around with a 49er helmet. He's walking around with 49er gear. He's walking around with the stretchy headband that you see guys actually playing. He's walking around in these things. Now the money that he was saying he has, if you know anything about professional sports, which clearly he took advantage of people who don't, I feel bad for those people. As crazy as it is that people went for this, everybody's not into sports, everybody don't know the business of sports. So you have to have some type of heart for those people. Are there some obvious things that could happen? Of course, but again, everybody don't know sports. People are vulnerable to different things and so he obviously took advantage of people who don't know sports."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=15s
+
+**2. Draymond Green — "Aaron Turner, JK's agent, is getting crushed online for obviously the handling of JK's contract." — Draymond Green on Jonathan Kuminga's agent Aaron Turner** [09:42](https://www.youtube.com/watch?v=GSyYd6771E8&t=582s)
+
+Draymond Green: "**Aaron Turner**, JK's agent, is getting crushed online for obviously the handling of JK's contract, but even more so his latest appearance on the **Kevin O'Connor** show. There were some notable quotes that came from it. Number one, if you have not seen **Kevin O'Connor**'s interview, I mean, excuse me, the introduction to the interview, the interview probably should have stopped right there. Because at that point, you kind of knew like, oh man, this dude is, he kind of lightweight jabbing in the intro. I saw Sam on online say it's one of the craziest intros he's ever seen, which I agree. I mean, you get introed into a podcast, you show love, you say the great things about someone, you want to say their resume and great things they did. Most of these podcasts, people come on for free, so you want to big up those people, you want to plug those people and do your ethos. That's the love you get back. And **Kevin O'Connor** is just straight out the gate like, man, they're saying this about you and you putting this. If I'm at the start of that interview, I'm like, yeah, we probably good. This ain't, I don't even know if this interview is going to really go how I wanted to go or it should go. We probably good."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=582s
+
+**3. Draymond Green — "Best player from the moment he showed up in terms of winning impact. These are facts, these aren't opinions." — Draymond Green on Jonathan Kuminga's impact** [11:33](https://www.youtube.com/watch?v=GSyYd6771E8&t=693s)
+
+Draymond Green: "Some notable quotes from the podcast, he said, speaking of **Jonathan Kuminga**, was there, speaking of the Hawks, best player from the moment he showed up in terms of winning impact. These are facts, these aren't opinions. I don't know the analytics of JK's minutes on the court when he was in Atlanta, nor do I care to get into the analytics. What I do know is today more than ever, agents, players, everybody, you're under the biggest microscope you've ever been under. In part due to social media and in part due to podcasts. There's a medium everywhere for you to speak and in turn there's more accessibility to everybody to quote, talk. And because you have that, one of the strongest opinions in our game, in our business, is public opinion. And so in dealing with these things, you have to understand public opinion at times can dominate the actual sport we love, the business we love. Public opinion can dominate what happens in these things and it sucks, but it's the reality."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=693s
+
+**4. Draymond Green — "Public opinion can dominate what happens in these things and it sucks, but it's the reality." — Draymond Green on the influence of public opinion** [12:47](https://www.youtube.com/watch?v=GSyYd6771E8&t=767s)
+
+Draymond Green: "Public opinion can dominate what happens in these things and it sucks, but it's the reality. And we're all living in that reality. And if you don't realize that that's the reality we're living in, you better figure it out quick because if you don't figure it out quick, it can be too late fast because public opinion is so strong. And so when I look at that quote, as you all know, I am the biggest **Jonathan Kuminga** fan there is. That's my young fella. I love him, I love to see him do well, I'm rooting for him to do well, all of that. That that'll never change. But what I also do know is public opinion doesn't believe this. And because public opinion does not stand on that same side of the street, you're going to get destroyed by public opinion, even if the analytics say that's the case or the eyeball test. But if it's not a huge sentiment of public opinion, and I agree by not living your life based on public opinion, but when you're in representation, it's not necessarily public opinion about you that you have to deal with. It's also about public opinion about your client and what your client may be privy to, from his peers, from the public."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=767s
+
+**5. Draymond Green — "You're also not just representing yourself, you're representing this player." — Draymond Green on the responsibilities of an agent** [14:21](https://www.youtube.com/watch?v=GSyYd6771E8&t=861s)
+
+Draymond Green: "You're also not just representing yourself, you're representing this player. And what you do is representative of that player. And you can cause different things and so people are also going to say, oh man, this is what JK think. And guess what, now he got to fight that. And it's just another battle along the way and so you can only win but so many battles. And a bunch of little battles become big battles. And so my only thing with with what he said is whether JK was or or weren't, that's not really up for debate what we do know is everybody else not going to agree with that. And so you're kind of sharing a point that really is just going to get you crushed and and nothing else like because public opinion and all those that make it up aren't going to now go look at the analytics that you may be looking at and say, oh yeah, like damn. Like that's just not the the sports world that we live in."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=861s
+
+**6. Draymond Green — "So Jalen Duren could have had one year 24 million with a team option two years 48 million." — Draymond Green on Jalen Duren's contract negotiations** [16:44](https://www.youtube.com/watch?v=GSyYd6771E8&t=1004s)
+
+Draymond Green: "Another notable quote from the interview was, so **Jalen Duren** could have had one year 24 million with a team option two years 48 million with a team option. And it was very important with how things were going to get control of the ship and because of that, we felt putting ourselves in the most tradable vehicle to get him out of that situation was super important and that's why we took a lesser, a lesser deal. And if you think about the the team option flipping to the player option, I would make an argument he hasn't forfeited anything. This is a tough one for me because I am, again, my love for JK. And I've met Aaron, great guy. But this is, this is not good. To have the type of information that your agent has on contract negotiations, on the money you've made, the exacts, like you do, y'all do realize that sometimes, um, sometimes agents put out a number to the media higher than what the actual contract actually was."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=1004s
+
+**7. Draymond Green — "You may sign a two year 40 million dollars, a agent will put out two years 44 million." — Draymond Green on agents leaking contract numbers** [18:04](https://www.youtube.com/watch?v=GSyYd6771E8&t=1084s)
+
+Draymond Green: "You may sign a two year 40 million dollars, a agent will put out two years 44 million. There could be a couple of incentives but they'll put out to because it makes them look better. And so being privy to all of that information, I don't think it's a great idea to to for an agent to be on a podcast talking about a guy's money and how much they lost and what they gained and like, it's not information for the world. It's actually something that if you and your client is discussing that anyway, then that probably shouldn't be privy to the world, because that's what you and your client discussing. And I hope you've explained this to your client. It's almost like a turning client privilege. It's like, yeah, you don't have that amongst your agent, but god damn. Like, I'm sure at some point he's had to have this conversation with JK and if you have, damn, you going to go tell everybody? I don't, I don't, I don't understand that."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=1084s
+
+**8. Draymond Green — "Jalen Duren reportedly wants 40 million per year from the Pistons and has been rejecting offers." — Draymond Green on Jalen Duren's contract situation** [25:36](https://www.youtube.com/watch?v=GSyYd6771E8&t=1536s)
+
+Draymond Green: "In other agent news, **Jalen Duren** reportedly wants 40 million per year from the Pistons and has been rejecting offers starting at 35 million per year, per **Tim McMahon**. Well, um, **Jalen Duren** bet on himself last year. **Jalen Duren** went and did everything he needed to do for someone betting on himself the way he did. He also had a, a rough playoff. It happens. Um, but if I'm, if I'm his agent, I'm still fighting on the year because you fighting on the entire body of work. He had a bad, you know, series or two, six weeks. But I'm looking at the body of work. He grew offensively, he got stronger, more explosive. I'm looking at the body of work. I understand the agent. That's how agent should be looking. I also think how your, how your player comes out of this on the other side is important. You know what I'm saying? The relationships, all of that, I think is important."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=1536s
+
+**9. Draymond Green — "Jason Williams came out on Hooping and Hollering and said that VJ Edgecombe is the best fifth option ever." — Draymond Green on VJ Edgecombe as a fifth option** [30:21](https://www.youtube.com/watch?v=GSyYd6771E8&t=1821s)
+
+Draymond Green: "**Jason Williams** came out on Hooping and Hollering and said that **VJ Edgecombe** is the best fifth option ever. Um, I think when you look at the talent level, uh, the youth, the athleticism, uh, the drive spot, no one's anticipating him being a fifth option in his second year. That's what happened when a team going to get LeBron James and Jalen Brown. And saying that, uh, with **Jason Williams** statement and I spoke about this a few weeks ago. When you look at that, that's all fine and dandy. I, I, you know, I respect it. Uh, it's cool. Is he going to accept that? Because again, I know when you're that level of talent, like he want to be an All-Star and the max guy. So there's a lot of buy-in that has to come with that and you just can't say that because it on paper. It has to work out that way."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=1821s
+
+**10. Draymond Green — "Dame Lillard posted his shooting practice from over the weekend and he made 1100 out of 1168." — Draymond Green on Damian Lillard's shooting ability** [31:41](https://www.youtube.com/watch?v=GSyYd6771E8&t=1901s)
+
+Draymond Green: "**Damian Lillard** posted his shooting practice from over the weekend and he made 1100 out of 1168 threes, which is 94% from three. And playing with someone like Steph Curry and **Klay Thompson** for the bulk of my career, Clay and all of my career, Steph, I've seen them have these crazy feats in practice where it's like, man, after practice where they they don't miss a shot. I can't say that I've ever seen anyone hit 1100 out of 1168. I'm also not about to sit there and watch Steph shoot 1100 shots. So has he done something like that? I don't know. Does it even matter? Fuck no, it does not. You know why it doesn't matter? Because this is about **Damian Lillard**. And **Damian Lillard**, timing is everything. Because if **Damian Lillard** does not come into the league right after Steph Curry and the greatest shooter we've ever seen, you have to wonder is **Damian Lillard** viewed differently than he is with the way he shoots the basketball."
+
+https://www.youtube.com/watch?v=GSyYd6771E8&t=1901s
