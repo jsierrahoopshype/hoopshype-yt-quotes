@@ -1,0 +1,37 @@
+# NBA Drops HAMMER on Clippers!!! Punishment Too HARSH?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=AcbIi1YWayI
+
+_Speakers identified: Michelle Beadle, Chandler Parsons_
+
+**1. Chandler Parsons — "I said yesterday he's not worth 150 billion dollars to lay down and take this penalty without a fight." — Chandler Parsons on the Clippers' punishment for Kawhi Leonard tampering** [00:54](https://www.youtube.com/watch?v=AcbIi1YWayI&t=54s)
+
+Chandler Parsons: "I thought it was steep, I thought it was harsh, but I thought it was much deserved. At the end of the day, obviously there's still an investigation and they're going to appeal this thing. I said yesterday he's not worth 150 billion dollars to lay down and take this penalty without a fight. It is harsh and I think it's going to be viewed as one of the largest penalties in NBA history. There was obviously something similar with Minnesota back in the day, but this is deep for a team that's already traded for Paul George and those five first-round picks just to acquire him to play with **Kawhi Leonard**. To now lose another five first-round picks for the foreseeable future and they're not exactly loaded with young talent, this is detrimental to their franchise, this is detrimental to their upcoming season. This is just a tough blow for them, but I think it's deserved."
+
+https://www.youtube.com/watch?v=AcbIi1YWayI&t=54s
+
+**2. Michelle Beadle — "He's walking out and leaving this dumpster fire burning behind him as he goes back to Toronto." — Michelle Beadle and Chandler Parsons on Kawhi Leonard's exit from Toronto** [02:08](https://www.youtube.com/watch?v=AcbIi1YWayI&t=128s)
+
+**Michelle Beadle:** "Basically **Kawhi Leonard** is walking out and leaving this dumpster fire burning behind him as he goes back to Toronto because all he got was a $700,000 fine and zero suspension. How are we feeling about that?"
+
+**Chandler Parsons:** "I thought he got off pretty easy. He gets to leave this dumpster fire in essence and go back to where he's loved and where he already won a championship with a bunch of young talent, gets to pair up with **Scotty Barnes**. This is a win in a situation and a way for **Kawhi Leonard**, but at the same time as an athlete who's been taken advantage of by someone in my inner circle, I also feel for him that he's put his trust into people around him that could possibly have gotten him into these situations."
+
+https://www.youtube.com/watch?v=AcbIi1YWayI&t=128s
+
+**3. Chandler Parsons — "You see all this stuff about all these guys taking discounts and hiring family members and agents have been doing that for years." — Chandler Parsons on the Clippers' front office and ownership accountability** [03:43](https://www.youtube.com/watch?v=AcbIi1YWayI&t=223s)
+
+Chandler Parsons: "You see all this stuff about all these guys taking discounts and hiring family members and agents have been doing that for years. You hire the player's best friend, you hire the player's dad. That's always been a way in to hire someone that's not exactly qualified but that locks up you signing that player for whatever you want to sign them for. This has been happening for years. I'm sure it's happened all over the place and our boy **Pablo** is probably going to go sniffing around here and find some more stuff, but you have to play within the rules. **Steve Ballmer**, he's the wealthiest owner in the world, $150 billion, and I think he's just the first one to get caught."
+
+https://www.youtube.com/watch?v=AcbIi1YWayI&t=223s
+
+**4. Chandler Parsons — "I think it's got to be one of the biggest, you know, botched jobs in the history of all sports." — Chandler Parsons on the Clippers' era as a major sports failure** [05:16](https://www.youtube.com/watch?v=AcbIi1YWayI&t=316s)
+
+Chandler Parsons: "Given the contract, given his injuries, given the lack of success they've had in the postseason in this **Kawhi Leonard** era, and then obviously now moving forward with what's at stake here, what they're losing, I think it's got to be one of the biggest, you know, botched jobs in the history of all sports, not just the NBA. **Kawhi Leonard**, he's been great. When he's healthy, we saw flashes of old-school **Kawhi Leonard**, but he hasn't been able to stay healthy and now he's not even there to kind of have to go through this rebuilding, struggling process that this entire city and fan base is going to have to go."
+
+https://www.youtube.com/watch?v=AcbIi1YWayI&t=316s
+
+**5. Chandler Parsons — "Are they going to fire Lawrence Frank? I feel like he's a cat, he's at nine lives." — Chandler Parsons on the future of the Clippers' front office** [07:23](https://www.youtube.com/watch?v=AcbIi1YWayI&t=443s)
+
+Chandler Parsons: "Are they going to fire **Lawrence Frank**? I feel like he's a cat, he's at nine lives. Is he really just going to be suspended or is he going to be gone? Is **Jillian** going to be gone? **Steve Ballmer**, who's kind of going to step into his position when he's not there? There's a lot of unanswered questions. This is just a huge distraction going into camp for these guys that were probably excited for the season, the start of it, and now this. It's just an awful, awful way to start your season, to start your camp, but you always hear it's a business, it's a business. This is a business and they have to get through it and they have to play the game still."
+
+https://www.youtube.com/watch?v=AcbIi1YWayI&t=443s
