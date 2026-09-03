@@ -1,0 +1,71 @@
+# Unpacking The Biggest Punishment In NBA History | Rachel Nichols & Chris Mannix — *Sports Illustrated*
+
+Source: https://www.youtube.com/watch?v=Yz3Iiddrnus
+
+_Speakers identified: Chris Mannix, Rachel Nichols_
+
+**1. Chris Mannix — "The NBA has docked the Clippers five first-round draft picks, fined Steve Ballmer $30 million" — NBA imposes severe penalties on the Los Angeles Clippers for cap circumvention** [01:12](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=72s)
+
+Chris Mannix: "The NBA has docked the Clippers five first-round draft picks, fined **Steve Ballmer** $30 million, suspended **Steve Ballmer** for one year, suspended **Lawrence Frank** for six months, and suspended **Gillian Zucker** for one year. They have come down hard on the Los Angeles Clippers. And let's make no mistake here, this is the NBA saying the Los Angeles Clippers are cheaters. This is Wachtel Lipton saying the Los Angeles Clippers are liars, in so many words, in this 35-page report."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=72s
+
+**2. Rachel Nichols — "At some point, with such a mountain of evidence, you have to believe what's put in front" — The evidence against the Clippers in the NBA's investigation is overwhelming** [02:23](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=143s)
+
+**Rachel Nichols:** "It was interesting. Obviously, the report gives a lot of specifics. We obviously haven't seen these witness statements, and we're not going to get the chance to interview the witnesses ourselves to evaluate them. But at some point, with such a mountain of evidence, you have to believe what's put in front of you. And it's pretty shocking, the level of dates and names and emails that they have. The scope of what was going on is something that they really nailed in this report. It was not one company, it was not two companies, it was multiple companies."
+
+**Chris Mannix:** "They knew what they were doing when they dropped this report to justify the decision the league made."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=143s
+
+**3. Chris Mannix — "Steve Ballmer has been aggressively defending himself publicly and privately for the entirety of this last year." — Steve Ballmer's aggressive defense against the cap circumvention allegations** [03:50](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=230s)
+
+Chris Mannix: "**Steve Ballmer** has been aggressively defending himself publicly and privately for the entirety of this last year. If we remember, in the immediate aftermath of the first episode of Pablo's podcast to drop, **Steve Ballmer** hopped on his plane, went to Bristol, did the interview with Ramona Shelburne, and said, 'Hey, I got conned. I didn't have anything to do with it. We know what the rules are, and we're not about to go against that.' This report suggests, or outright says, that **Steve Ballmer** oversaw a complicated and comprehensive cap circumvention scheme that involved four different companies. It not only was Aspiration, which was the big headliner there, it was Dactronics, it was Boingo Wireless, and it was an insurance company that all funneled **Kawhi Leonard** extra money."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=230s
+
+**4. Chris Mannix — "The Clippers are not first-time offenders. In 2015, they attempted to cut a deal with DeAndre Jordan." — The Clippers' history of cap circumvention and the NBA's response** [07:47](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=467s)
+
+Chris Mannix: "The Clippers are not first-time offenders. In 2015, they attempted to cut a deal with **DeAndre Jordan** to pay him a little bit extra under the table. The NBA caught them, came down on them lightly in that sense. The Clippers said, 'Hey, our bad, we thought we were operating within the rules, will never happen again.' 2019 rolls around, and the NBA, through the Raptors, gets wind of what Uncle Dennis, **Dennis Robertson**, was asking of teams and of the Raptors to get Kawhi to sign on. And they literally created a new rule that said, 'Hey, if somebody comes to you, anybody, not just **Dennis Robertson**, but anybody comes to you soliciting impermissible benefits, soliciting under-the-table stuff, you have to report it. And if you don't report it, you're in the wrong.'"
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=467s
+
+**5. Rachel Nichols — "Mark Cuban and the Dallas Mavericks took a completely different approach to that report." — Mark Cuban's different approach to the Mavericks' investigation** [09:22](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=562s)
+
+**Rachel Nichols:** "We've seen investigations like this into other owners for other things. The most recent one and the one that sticks with me is the **Mark Cuban** Dallas Mavericks organization. And **Mark Cuban** and the Dallas Mavericks took a completely different approach to that report and to working with the league. First of all, Mark, there was no direct evidence that Mark was either involved or even had knowledge of what was going on, so it didn't have the same point as this Steve Ballmer report. But Mark cleaned house. He brought in someone specifically qualified to deal with what was left behind. He went on television with me the day the report came out and gave a full mea culpa and said, 'Look, I didn't know about this, but I should have.' And we went through the report line by line on national television, and he acknowledged all of it. And that is a very different approach than the Clippers are taking here."
+
+**Chris Mannix:** "The Clippers have been hell-bent on fighting this thing from the start."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=562s
+
+**6. Chris Mannix — "When the NBA came out with that statement denying what was in that story, I called people." — The NBA's denial of the initial reports and the subsequent investigation** [11:19](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=679s)
+
+Chris Mannix: "When the NBA came out with that statement denying what was in that story, I called people over there and I said, 'Listen, if you're denying this strongly, it's got to be more than semantics. It can't just be like, Ballmer gets a fine and see, we told you it wasn't going to get off.' And they insisted to me at that time it was more than that. They weren't going to tell me what exactly the punishment was going to be, but they insisted that they were real substantive issues with that reporting, and they were right. They were right. This is not **Steve Ballmer** getting exonerated in any way, shape, or form. It's not even **Steve Ballmer** getting a slap on the wrist."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=679s
+
+**7. Rachel Nichols — "The investigation is the Clippers made such payments for Leonard, his family, and Robertson." — The Clippers' improper payments to players and their families** [13:05](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=785s)
+
+**Rachel Nichols:** "In addition to laying out page after page of what the endorsement deals with these companies were, these complex systems of funneling money and how they came about and all of that, it also almost as an afterthought at the end of this report in pages 31 and 32 talks about paying personal expenses for players, representatives, family. The investigation is the Clippers made such payments for Leonard, his family, and Robertson throughout Leonard's tenure. Hundreds of instances of personal air and ground travel, accommodations, gifts, free tickets, without deducting the amounts that is required by the league. So, even if it was just that, the Clippers would have been dinged for this because you can't do that. That is very clearly a circumvention of the cap."
+
+**Chris Mannix:** "Players get two tickets. That's part of the collective bargaining agreement for each game."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=785s
+
+**8. Chris Mannix — "This team is now in basketball purgatory. There's just no doubt about that." — The long-term impact of the Clippers' penalties on their future** [27:28](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=1648s)
+
+Chris Mannix: "This team is now in basketball purgatory. There's just no doubt about that. They're not going to get any stars to sign there. They'll still get guys to sign there because players want the money and money can be scarce in today's second-apron landscape. And second-round picks are going to go there. Guys are going to go and play, but you're not going to get stars. You can't do deals. You have no lubricant there. That's what first-round picks are. You have no way to grease the skids on these deals. You have no pathway to being a relevant team for the better part of the next decade. And there's no changing that. Maybe this you get the couple of first-round picks in the Raptors, and you can do a couple of different things, but this team is now in basketball purgatory. There's just no doubt about that."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=1648s
+
+**9. Chris Mannix — "I'm not going to give Adam Silver overwhelming credit for punishing the Clippers" — Adam Silver's decision to punish the Clippers** [31:30](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=1890s)
+
+Chris Mannix: "I'm not going to give **Adam Silver** overwhelming credit for punishing the Clippers because I don't think he had a choice. I think that Wachtel Lipton presented him with so much evidence that if other teams saw that report and he had chosen to slap the Clippers on the wrist, they would have said it's open season on these types of deals. You would have had bars in Boston sponsoring Jayson Tatum or Sonic being the new sponsor of Shai Gilgeous-Alexander and paying him millions of dollars for no-show type of jobs. He had to do something. But taking on Ballmer was different. The teams that I've talked to, the executives I've talked to, have been more impressed by that because he very easily could have said, 'You know what, we're going to fine you, Steve, we're going to ding your team, but you know, we don't really have enough to say we're going to suspend you for a year.'"
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=1890s
+
+**10. Chris Mannix — "I think Steve Ballmer sells the Clippers. Steve Ballmer bought the team for $2 billion back in 2013." — The Clippers' future and the potential for a sale** [32:34](https://www.youtube.com/watch?v=Yz3Iiddrnus&t=1954s)
+
+Chris Mannix: "I think **Steve Ballmer** sells the Clippers. **Steve Ballmer** bought the team for $2 billion back in 2013. He could sell it for at least three multiples of that, probably four, maybe more. I mean, you think, what's it worth, 7 billion, 8 billion now, with the arena? You throw that into it. I'm not saying it's going to go for the Lakers, but the Lakers went for 12, Clippers can go for 7 or 8. I firmly do believe that. I think he sells the team and I think he buys the expansion team in Seattle."
+
+https://www.youtube.com/watch?v=Yz3Iiddrnus&t=1954s
