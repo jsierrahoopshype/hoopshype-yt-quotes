@@ -1,70 +1,4 @@
-# HoopsHype YT Quotes — 2026-09-01
-
-## EXCLUSIVE: Steph Curry Speaks On Possible Warriors Contract Extension — *Dalton Johnson*
-
-Source: https://www.youtube.com/watch?v=LTCumT7buv8
-
-_Speakers identified: Steph Curry, Ayesha Curry, Dalton Johnson_
-
-**1. Steph Curry — "there is no question I want to be here the rest of my career" — Steph Curry on his desire to retire with the Golden State Warriors** [00:18](https://www.youtube.com/watch?v=LTCumT7buv8&t=18s)
-
-Steph Curry: "There is no question I want to be here the rest of my career and I am pretty sure that is going to happen. The deal and contract stuff will happen in its right time and there will not be any distraction from our preparation for the season. The fact that the team that we are coming back is a lot of familiarity and hopefully we can be healthy and just have a chance to show what we are capable of. Me myself included, missing so many games last year, so the goal stays the same. I want to be here. The extension stuff will figure that out at the right time, but I am ready for year 18. It is kind of crazy that it has been this long and I am still trying to play at a very high level to help us win and I will be able to do my job."
-
-https://www.youtube.com/watch?v=LTCumT7buv8&t=18s
-
-**2. Ayesha Curry — "This is the hardest working man in the room, okay. He has not stopped" — Ayesha Curry on Steph Curry's work ethic and upcoming Warriors season** [01:02](https://www.youtube.com/watch?v=LTCumT7buv8&t=62s)
-
-**Dalton Johnson:** "Question for you Ayesha, he has got a couple years left on him right? Come on."
-
-**Ayesha Curry:** "Of course. This is the hardest working man in the room, okay. He has not stopped since last season ended and so he is ready. He is ready to get out there. I think we are going to be in for some fun surprises over the next couple of years."
-
-https://www.youtube.com/watch?v=LTCumT7buv8&t=62s
-
----
-
-## Always Finding Ways To Improve: Film Study Pt.1 With Brandin Podziemski — *Brandin Podziemski*
-
-Source: https://www.youtube.com/watch?v=rGtQ6yFzEtE
-
-_Speakers identified: Dustin, Brandin Podziemski, AC_
-
-**1. Dustin — "I would much rather this be a missed shot attempt than a turnover here." — Prioritizing missed shots over turnovers to increase offensive efficiency** [00:28](https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=28s)
-
-**Dustin:** "We talk all the time about missed shots over turnovers. I would much rather this be a missed shot attempt than a turnover here. And you know there's a good likelihood that you might even make that shot too. So just starting to take that risk more often, miss shot over turnover."
-
-**Brandin Podziemski:** "If I extend the arms there, it's a foul."
-
-https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=28s
-
-**2. Dustin — "Putting KAT on an island, is he going to stay out and stay doubled?" — Maintaining the dribble to force defensive decisions and create gaps** [01:22](https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=82s)
-
-**Dustin:** "Again, we worked on it yesterday. Just keep our dribble alive more here. Putting KAT on an island, is he going to stay out and stay doubled? Or is he going to eventually leave and give you a gap to be able to attack again?"
-
-**AC:** "What's the easier pass for you there B? To Post? Over the two with Karl? Or just swing it back?"
-
-**Brandin Podziemski:** "I probably should just maybe take one more dribble here and then just jump in the air and look at and no be and just make him have to pick **Gary** or **Quinten**. And then he has to pick one of the two and whatever one he doesn't take, just throw it."
-
-**AC:** "Cause, **Will** is swinging on the backside. You've got nothing in front of you on the right. That's **Will** would seem to be the safer pass."
-
-https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=82s
-
-**3. Dustin — "Those are the risks that I want you to take more of. Like take that shot." — Taking aggressive shots to increase free throw attempt opportunities** [02:26](https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=146s)
-
-**Dustin:** "Those are the risks that I want you to take more of. Like take that shot. I'll live with the offensive foul. I'll live with a miss. But we're giving up a potential 84 points between the 42 turnovers that we have here. And obviously you're not going to make all of them. You're not going to shoot all of them. But when you talk about how we're going to make that leap, we know that it's going to be an increase in field goal attempts, specifically twos, because it's going to lead to more free throw attempts. So these are 42 times during the season that we didn't even give ourselves that chance."
-
-**Brandin Podziemski:** "Lost my footing there."
-
-https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=146s
-
-**4. AC — "Simplifying the game to where you're at a highly efficient rate shooting, decision making." — Developing high-efficiency decision making and slowing the game down** [03:33](https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=213s)
-
-AC: "Simplifying the game to where you're at a highly efficient rate shooting, decision making. That's where they talk about players. The game is too fast for them. These are still some youthful mistakes."
-
-https://www.youtube.com/watch?v=rGtQ6yFzEtE&t=213s
-
----
-
-## NBA Champion Duece McBride 29-Point Comeback + Leaking Knicks Groupchat Ep. 97 | The Crew Has It — *The Crew Has It*
+# NBA Champion Duece McBride 29-Point Comeback + Leaking Knicks Groupchat Ep. 97 | The Crew Has It — *The Crew Has It*
 
 Source: https://www.youtube.com/watch?v=wFGjNdY8eGU
 
@@ -189,7 +123,3 @@ https://www.youtube.com/watch?v=wFGjNdY8eGU&t=1481s
 Miles McBride: "I'm not going to lie, during the season, like I'm like, I know I don't like, you can't lock in crazy, but like, it's so much so like I'm watching film so much, like I can't really just sit down and like half watch a show or a movie. Like I'm watching film so much, like I can't really just sit down and like half watch a show or a movie. Like I'm watching film so much, like I can't really just sit down and like half watch a show or a movie. Like I'm watching film so much, like I can't really just sit down and like half watch a show or a movie."
 
 https://www.youtube.com/watch?v=wFGjNdY8eGU&t=1549s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
