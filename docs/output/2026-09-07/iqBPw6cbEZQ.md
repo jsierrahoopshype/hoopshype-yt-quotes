@@ -1,0 +1,41 @@
+# Golden Tate Thought Special Forces Would Be Easy… He Was WRONG — *Brice Butler Studios*
+
+Source: https://www.youtube.com/watch?v=iqBPw6cbEZQ
+
+_Speakers identified: Golden Tate, Brice Butler_
+
+**1. Golden Tate — "I felt like I needed a new challenge in life." — Golden Tate on his decision to join Special Forces** [00:00](https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=0s)
+
+Golden Tate: "When you watch the show, it looks hard, but it don't look that hard. And so, I felt like I needed a new challenge in life. And so I was like, alright, I'm going to go check it out. We went through the negotiations, back and forth, and we got a number that was like, okay, it's worth it to do it. New challenge. I'm kind of missing something in my soul, and so this is going to be a great way to be competitive, but also find, hopefully, that locker room feel that we miss so much. And so I was like, you know what the heck, let's go do it."
+
+https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=0s
+
+**2. Golden Tate — "I had to be a leader in somewhere where I was completely uncomfortable." — Golden Tate on the leadership challenges of Special Forces** [01:30](https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=90s)
+
+Golden Tate: "As a football player, I've never been much of a who-rah type of leader. I've been like, alright, I'm going to go out here and practice, I'm going to make some plays, I'm going to go out here in the game, I'm going to make some plays. I'm going to just make it happen. And that's a great leadership skill to have. But then it came in the show that I had to be a leader in somewhere where I was completely uncomfortable. They had me lead us in a boat type of situation where we had to pump the boat up and we had to race the other team to a buoy and back. And we had to pick our teams. It was me, **Cam**, **Kayla**, and **Christie**. As far as brute strength, we crushed them. But it was in water where I'm so uncomfortable. I never had boats growing up really, so I didn't know what to do. I knew how to row, row, row your boat, and that's about it."
+
+https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=90s
+
+**3. Golden Tate — "I'm no longer performing on a football field. I am performing within my family." — Golden Tate on learning to lead his family** [02:50](https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=170s)
+
+Golden Tate: "I learned that there was some things in life that I need to focus on and be better at. Yes, it was the hardest thing I've ever done, but as you know, when it comes to military, it's about discipline. And it's about you learn these little sayings that have helped me to carry over to my family. I got to change how I lead because I'm no longer performing on a football field. I am performing within my family. And so I need to be able to vocalize to my wife and lead her and my children versus just going out here and doing something. I need to teach them like that. And so that was a moment where I was like, man, that's where I need to be better."
+
+https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=170s
+
+**4. Golden Tate — "It's okay to have the wrong answers. Have the wrong answer, figure out it's wrong, and come up with a new plan." — Golden Tate on the importance of having a new plan** [04:07](https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=247s)
+
+Golden Tate: "It's okay to have the wrong answers. It's okay, but have the wrong answer, figure out it's wrong, and come up with a new plan. I was just sitting there just, let's just keep rowing, keep rowing instead of saying, hey, **Cam**, you get here, **Kayla**, you get here, and on three, we all going to row. Maybe it works, maybe it doesn't work, but I'm taking initiative, I'm being a leader, I'm trying to get the job done, and I just kind of froze and was just like, I don't know what to do. I'm not comfortable in this boat, I don't know what's going on. Let's just row. Just row."
+
+https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=247s
+
+**5. Golden Tate — "I don't like the fail. I'd rather not do something than fail." — Golden Tate on dealing with failure in Special Forces** [04:48](https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=288s)
+
+Golden Tate: "I struggle with it. I don't like the fail. I'd rather not do something than fail. And I have a good grasp on like what I can achieve and what I can't achieve, I feel like. And so it was tough for me because I felt like I was embarrassing. I felt like I was letting people down when I failed a mission, and I went into it like thinking like, alright, I think I'm going to pass every single mission, which was so unrealistic for me. No, I don't know if anyone in the history of Special Forces has passed every mission. But it wasn't really about pass or fail. It was about how you responded. It was about what you learned in that situation."
+
+https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=288s
+
+**6. Golden Tate — "You lose all sense of control. You lose all sense of like time, you lose all your freedom." — Golden Tate on the loss of control in Special Forces** [06:21](https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=381s)
+
+Golden Tate: "What made this harder in my opinion was that we lose all sense of control. You lose all sense of like time, you lose all your freedom, you lose like you don't know when, you don't know when things are happening. Like you don't know when breakfast is, I don't know what dinner is, I don't know what our next mission is. And we are creatures of habit and routine. And as since we were Liberty boys, we knew what we were doing. We knew, alright, we're waking up in the morning, we're going to school. We coming, you know, knowing when lunches is, we're coming home, then we got practice or a game, and then we're going to go home, shower, getting the bed, or shower, eat, getting the bed, do it all over again."
+
+https://www.youtube.com/watch?v=iqBPw6cbEZQ&t=381s
