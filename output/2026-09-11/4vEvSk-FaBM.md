@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-09-11
-
-## Patrick Beverley (PART 1) | Chicago Legend, Journey to the NBA, Learning w/ LeBron, Barstool Fallout — *Out The Mud*
+# Patrick Beverley (PART 1) | Chicago Legend, Journey to the NBA, Learning w/ LeBron, Barstool Fallout — *Out The Mud*
 
 Source: https://www.youtube.com/watch?v=4vEvSk-FaBM
 
@@ -137,7 +135,3 @@ https://www.youtube.com/watch?v=4vEvSk-FaBM&t=4237s
 Patrick Beverley: "I started a whole new YouTube, because I'm the algorithm of this. I know how the pace of the internet go. I know what's going to go viral, I know what don't, I know when to post, I know what time to post. I know how to go on other people's shit, making their shit go viral. Like, I know the algorithm of it. So I ain't really tripping. I just didn't like the business side of it. You know what I'm saying? Like, I thought it was an incentive to proving, you know what I'm saying? They thought was no loyalty shown. Yeah, I didn't I didn't feel that at all. Especially when it came back that I was telling the truth too. I see if it came back and I was guilty, then okay, cool. Then I came back and I was I told you, I didn't do none of that, but it happened. Whatever. Whatever."
 
 https://www.youtube.com/watch?v=4vEvSk-FaBM&t=4299s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
