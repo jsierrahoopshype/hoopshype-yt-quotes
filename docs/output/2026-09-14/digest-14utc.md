@@ -1,5 +1,149 @@
 # HoopsHype YT Quotes — 2026-09-14
 
+## The REAL Sky Bri: Why She Quit P*rn, Her Dating Life & The Truth About Her Past — *Curious Mike*
+
+Source: https://www.youtube.com/watch?v=7glfUXNObCo
+
+_Speakers identified: Sky Bri, Michael Porter Jr._
+
+**1. Sky Bri — "I don't know what my purpose is, I feel so lost. And in the nicest way possible, he says to me, you don't have any values." — Sky Bri on her realization that she lacked personal values** [00:19](https://www.youtube.com/watch?v=7glfUXNObCo&t=19s)
+
+Sky Bri: "I remember I was sitting there with my psychiatrist. I'm like, I don't know what my purpose is, I feel so lost. And in the nicest way possible, he says to me, you don't have any values. And it hit me, I was like, I don't. I really don't. The past several years, I've just been chasing money and fame and followers, I lost everything else about myself."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=19s
+
+**2. Sky Bri — "Being on social media doesn't really feed my ego, if that makes sense. I don't get fulfillment from getting views." — Sky Bri on why she decided to step back from social media** [02:25](https://www.youtube.com/watch?v=7glfUXNObCo&t=145s)
+
+Sky Bri: "Being on social media doesn't really feed my ego, if that makes sense. I don't get fulfillment from getting views and all that stuff, so it just wasn't serving me anymore, so I was like, okay, I need to step back and just work on myself and not be online."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=145s
+
+**3. Sky Bri — "I had really debilitating social anxiety my whole life, my whole childhood, starting in middle school, definitely throughout high school." — Sky Bri on her childhood struggles with social anxiety** [06:05](https://www.youtube.com/watch?v=7glfUXNObCo&t=365s)
+
+Sky Bri: "I had really debilitating social anxiety my whole life, my whole childhood, starting in middle school, definitely throughout high school. I ate lunch in the school bathroom, I was completely basically mute, I didn't know how to talk to people, I had no friends. So, I spent a lot of my time on the internet."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=365s
+
+**4. Sky Bri — "I started an OnlyFans, honestly, just to start an OnlyFans. I was still living with my mom." — Sky Bri on her decision to start an OnlyFans account** [08:10](https://www.youtube.com/watch?v=7glfUXNObCo&t=490s)
+
+Sky Bri: "I started an OnlyFans, honestly, just to start an OnlyFans. I was still living with my mom. One thing I've always been confident in is my body and my sexuality. So, I think when OnlyFans started popping, I was like, okay, I think I could do this, I think this is something that I could be good at, and so I made a page."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=490s
+
+**5. Sky Bri — "The end goal was more so just to get into the entertainment industry." — Sky Bri on her initial goal to enter the entertainment industry** [11:10](https://www.youtube.com/watch?v=7glfUXNObCo&t=670s)
+
+Sky Bri: "The end goal was more so just to get into the entertainment industry. If you would have asked me when I was growing up if I would have ever done porn, I would have said absolutely not, that's the last thing I would have ever even thought about doing. Growing up, I always wanted to be in that space, but I just didn't really know how to. So when I got this opportunity to move to LA and do porn, I was like, this might be the only opportunity I ever get."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=670s
+
+**6. Sky Bri — "I started to really struggle mentally, and I had developed like crippling anxiety and I was really depressed." — Sky Bri on the negative mental health impact of her work** [12:17](https://www.youtube.com/watch?v=7glfUXNObCo&t=737s)
+
+Sky Bri: "I started to really struggle mentally, and I had developed like crippling anxiety and I was really depressed, and I was making really not good decisions, drinking too much. My whole life just basically felt like it was falling apart, and I was like, what is causing this? And I was like, oh, it's because I'm doing something that I feel like is crushing my soul on the inside."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=737s
+
+**7. Sky Bri — "I hated how it made me feel. I just felt, I felt gross doing it." — Sky Bri on why she ultimately quit porn** [14:35](https://www.youtube.com/watch?v=7glfUXNObCo&t=875s)
+
+Sky Bri: "I hated how it made me feel. I just felt, I felt gross doing it. And I think too, I started to really struggle mentally, and I had developed like crippling anxiety and I was really depressed, and I was making really not good decisions, drinking too much. My whole life just basically felt like it was falling apart."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=875s
+
+**8. Sky Bri — "They were doing like an IRL Tinder, so basically all the guys of the group lined up." — Sky Bri on her viral moment with the Sidemen** [18:25](https://www.youtube.com/watch?v=7glfUXNObCo&t=1105s)
+
+Sky Bri: "They were doing like an IRL Tinder, so basically all the guys of the group lined up, and I would stand there and then I would swipe left or right on the guys. And this was my first viral moment, Mike Majlak was randomly a part of it, and when he came up, I said, do you want to see my tits? And even that was so calculated."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=1105s
+
+**9. Sky Bri — "I don't really think about having kids, not in the way that I don't want them." — Sky Bri on her current perspective on having children** [22:45](https://www.youtube.com/watch?v=7glfUXNObCo&t=1365s)
+
+Sky Bri: "I don't really think about having kids, not in the way that I don't want them, but more so I'm not where I am, I'm not where I need to be in life where I should even start thinking about having kids or entertaining that idea. I need to work on myself more, I have so much more work to do on myself. I first off need to find the right partner, and I want to get married before I have kids."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=1365s
+
+**10. Sky Bri — "I'm an in-person, I can't go through my DMs. It's just, they're just insane." — Sky Bri on her preference for meeting people in person** [24:23](https://www.youtube.com/watch?v=7glfUXNObCo&t=1463s)
+
+Sky Bri: "I'm an in-person, I can't go through my DMs. It's just, they're just insane. There's messages 24/7, and I just can't sit there and like go through them all. I also, too, I'm not a big texter or just like communicator over the phone, like I'm kind of like when I see you, we can hang out, we can have a conversation, we can get dinner, and then we can like just come up with when's the next time we hang out."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=1463s
+
+**11. Michael Porter Jr. — "as an athlete, if you want to be a professional athlete, you have to sacrifice so much" — Michael Porter Jr. on the personal sacrifices required for professional athletes** [1:00:00](https://www.youtube.com/watch?v=7glfUXNObCo&t=3600s)
+
+**Michael Porter Jr.:** "As an athlete, if you want to be a professional athlete, you have to sacrifice so much. You sacrifice time with your friends, time with your family. You have to get really good at being alone and working out when other people are having fun. So I think that you give good advice. Before you go down and really put all your eggs in this basket, just think about the consequences."
+
+**Sky Bri:** "Yeah."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=3600s
+
+**12. Sky Bri — "if you want to go down the path that I went down, just know that it comes" — Sky Bri on the high personal cost of working in the adult industry** [1:01:27](https://www.youtube.com/watch?v=7glfUXNObCo&t=3687s)
+
+Sky Bri: "If you want to go down the path that I went down, just know that it comes with a price and the price is very high, I believe. And if you're willing to pay that price and you've really thought about it, then by all means. But it takes a certain type of person to do well in the industry that I was in and genuinely enjoy it. That wasn't me. I didn't enjoy having sex with people on camera. I'm not a very, that's just not really who I am. Some people though can do that and they do enjoy that. If it's you, then by all means, but I think that the average girl is not cut out for that industry."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=3687s
+
+**13. Sky Bri — "if you have something good going and something means a lot to you that you should protect" — Sky Bri on the importance of protecting private aspects of life** [1:04:14](https://www.youtube.com/watch?v=7glfUXNObCo&t=3854s)
+
+Sky Bri: "I think if you have something good going and something means a lot to you that you should protect it from the world. Because when you expose it to the world, all it does is put eyes and attention and people will come for it and they'll try and ruin it."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=3854s
+
+**14. Sky Bri — "I think we should normalize living with our family for longer. Save money, it doesn't make sense" — Sky Bri advocates for normalizing living with parents to save money** [1:04:56](https://www.youtube.com/watch?v=7glfUXNObCo&t=3896s)
+
+Sky Bri: "I think we should normalize living with our family for longer. Save money, it doesn't make sense to move out right away. I'm pretty sure America is like the only country that does that."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=3896s
+
+**15. Sky Bri — "not being able to keep your cool in like high, like a crash out. Yeah, that's very unattractive" — Sky Bri on why losing composure under pressure is a major turn-off** [1:08:37](https://www.youtube.com/watch?v=7glfUXNObCo&t=4117s)
+
+Sky Bri: "Not being able to keep your cool in like high, like a crash out. Yeah, that's very unattractive to me. Like under pressure and under like conflict or anything, I remain very calm and cool. So if I'm with a guy and he like is acting out or trying to fight or just doing too much, that's very unattractive to me."
+
+https://www.youtube.com/watch?v=7glfUXNObCo&t=4117s
+
+---
+
+## Jamal Crawford On His Coaching Future, Seattle Basketball & Why He’s Never Seen Anyone Like Wemby — *Cousins with Vince Carter & Tracy McGrady*
+
+Source: https://www.youtube.com/watch?v=YMhtqwcZoN0
+
+_Speakers identified: Vince Carter, Jamal Crawford, Tracy McGrady_
+
+**1. Jamal Crawford — "I 1,000% know I'm going to be an NBA coach one day." — Jamal Crawford confirms his future goal to be an NBA head coach** [00:20](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=20s)
+
+Jamal Crawford: "I 1,000% know I'm going to be an NBA coach one day. I've never said that publicly. I just know it. I literally turned down three NBA jobs this summer. My son made USA, so we're in Turkey, and I got three offers between assistants and actually going through the process of being a head coach for one of them this summer. I was like, no, just the timing, because he is going through his journey. But I know 1,000% once he goes through high school, I'll be an NBA coach, no doubt about it."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=20s
+
+**2. Jamal Crawford — "I never thought that I could feel alive again after playing." — Jamal Crawford on the unique mental challenge of coaching basketball** [01:13](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=73s)
+
+Jamal Crawford: "I never thought that I could feel alive again after playing. That was part of the reason I was so scared to put it down. I'm like, what's going to make me feel like this? You guys know, we touch the ball to this day, it's like magic happens, something special takes over. I saw you **Mac**, you shooting the ABCD, here go five in a row. It's just something about it. Coaching does that for me because I love learning, and it challenges your mind in real time. That to me is everything. We're all adjusting in real time, but I think I go even further with it. It actually bothers me if it doesn't happen because I just know how my mind works. I love trying to be a leader of men."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=73s
+
+**3. Tracy McGrady — "I'm visualizing as I'm watching me already on the basketball court thinking I can do this." — Tracy McGrady on the importance of young players studying game film** [03:30](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=210s)
+
+Tracy McGrady: "It's important for us to deliver the message of being students of the game, watching the game, studying the game. The kids nowadays, like my two boys, they didn't watch basketball. So how do you learn? How do you take, how do you go out and visualize doing things on the basketball court if you're not watching the game? That was me, watching **Magic**, watching **Scotty**, watching **Sean Kemp**, watching **G Hill**. I'm visualizing as I'm watching me already on the basketball court thinking I can do this already, right? So then when I actually get into my workouts, I feel I'm these guys because I'm watching them every day and I'm learning the game and I'm taking bits and pieces of what they're doing and implementing that into my game and making it a strong suit."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=210s
+
+**4. Tracy McGrady — "This little cat Pierre Rondo, his mind is so far greater than the kids that are at this camp." — Tracy McGrady on Pierre Rondo's advanced basketball IQ at age 14** [05:30](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=330s)
+
+Tracy McGrady: "This little cat **Pierre Rondo**, his mind is so far greater than the kids that are at this camp or on his level. He's 14 years old, he's the youngest cat there. Why? Because one, his dad is a basketball savant, and two, he understands development and what I need to do. So he has him watching tons of film. And tons of film and him understanding what he needs to apply when he goes out on a basketball court, he plays just like his daddy. Why? Because he saw it over and over and over and he envisioned and imagined himself playing that way and he actually fucking plays that way at 14 years old already. It is amazing."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=330s
+
+**5. Jamal Crawford — "In the last 15 years, I think we're like 35 pros." — Jamal Crawford on the growth of Seattle basketball talent in the NBA** [08:07](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=487s)
+
+Jamal Crawford: "In the last 15 years, I think we're like 35 pros. We're in a big place. We're in the Northwest corner of the country. Before me was **Doug Christie**, who you played with. It was Doug that kind of set the tone. Then went to **Jason Terry**, **Mike Dickerson**. People don't talk about **Mike Dickerson**, **Mike Dickerson** was nice. Then the door just bust open. Now you got **Nate Robinson**, **Brandon Roy**, you got Terence Williams, **Peyton Siva**, **Aaron Brooks**, **Martell Webster**, **Spencer Hawes**, to even current days, **Zach LaVine**, **Paolo Banchero**, **Dejounte Murray**, **Tari Eason**, **Michael Porter Jr.** played there last year. These ain't scrubs."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=487s
+
+**6. Jamal Crawford — "I've never seen somebody that can process, some people can learn it, but not a lot of people can apply." — Jamal Crawford on Victor Wembanyama's work ethic and intentionality** [09:25](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=565s)
+
+Jamal Crawford: "I've never seen somebody that can process, some people can learn it, but not a lot of people can apply. They can hear what you're saying, but they can't go do it themselves. He could do it quicker than I've ever seen. The way he was breaking stuff down like, oh I got it, got it, got it. I always said I had 10 moves that if I ever made the All-Star game I was going to do, I gave two of those to **Wemby**. So I cannot wait till he actually does the moves at some point. You all will know when you see it. He was just as impressive as the actual on-court work. He's an interesting dude, man, because all the way he handles the media, everything's intentional and he's curious. He doesn't know it all, but you can tell he wants to know it all."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=565s
+
+---
+
 ## Jalen Duren is FIGHTING over 10 MILLION 😭 Does Anthony Davis deserve an extension and more 👀 — *To The Baha*
 
 Source: https://www.youtube.com/watch?v=6Bnx7ZwYMNk
@@ -228,106 +372,6 @@ https://www.youtube.com/watch?v=6Bnx7ZwYMNk&t=7604s
 
 ---
 
-## The REAL Sky Bri: Why She Quit P*rn, Her Dating Life & The Truth About Her Past — *Curious Mike*
-
-Source: https://www.youtube.com/watch?v=7glfUXNObCo
-
-_Speakers identified: Sky Bri, Michael Porter Jr._
-
-**1. Sky Bri — "I don't know what my purpose is, I feel so lost. And in the nicest way possible, he says to me, you don't have any values." — Sky Bri on her realization that she lacked personal values** [00:19](https://www.youtube.com/watch?v=7glfUXNObCo&t=19s)
-
-Sky Bri: "I remember I was sitting there with my psychiatrist. I'm like, I don't know what my purpose is, I feel so lost. And in the nicest way possible, he says to me, you don't have any values. And it hit me, I was like, I don't. I really don't. The past several years, I've just been chasing money and fame and followers, I lost everything else about myself."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=19s
-
-**2. Sky Bri — "Being on social media doesn't really feed my ego, if that makes sense. I don't get fulfillment from getting views." — Sky Bri on why she decided to step back from social media** [02:25](https://www.youtube.com/watch?v=7glfUXNObCo&t=145s)
-
-Sky Bri: "Being on social media doesn't really feed my ego, if that makes sense. I don't get fulfillment from getting views and all that stuff, so it just wasn't serving me anymore, so I was like, okay, I need to step back and just work on myself and not be online."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=145s
-
-**3. Sky Bri — "I had really debilitating social anxiety my whole life, my whole childhood, starting in middle school, definitely throughout high school." — Sky Bri on her childhood struggles with social anxiety** [06:05](https://www.youtube.com/watch?v=7glfUXNObCo&t=365s)
-
-Sky Bri: "I had really debilitating social anxiety my whole life, my whole childhood, starting in middle school, definitely throughout high school. I ate lunch in the school bathroom, I was completely basically mute, I didn't know how to talk to people, I had no friends. So, I spent a lot of my time on the internet."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=365s
-
-**4. Sky Bri — "I started an OnlyFans, honestly, just to start an OnlyFans. I was still living with my mom." — Sky Bri on her decision to start an OnlyFans account** [08:10](https://www.youtube.com/watch?v=7glfUXNObCo&t=490s)
-
-Sky Bri: "I started an OnlyFans, honestly, just to start an OnlyFans. I was still living with my mom. One thing I've always been confident in is my body and my sexuality. So, I think when OnlyFans started popping, I was like, okay, I think I could do this, I think this is something that I could be good at, and so I made a page."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=490s
-
-**5. Sky Bri — "The end goal was more so just to get into the entertainment industry." — Sky Bri on her initial goal to enter the entertainment industry** [11:10](https://www.youtube.com/watch?v=7glfUXNObCo&t=670s)
-
-Sky Bri: "The end goal was more so just to get into the entertainment industry. If you would have asked me when I was growing up if I would have ever done porn, I would have said absolutely not, that's the last thing I would have ever even thought about doing. Growing up, I always wanted to be in that space, but I just didn't really know how to. So when I got this opportunity to move to LA and do porn, I was like, this might be the only opportunity I ever get."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=670s
-
-**6. Sky Bri — "I started to really struggle mentally, and I had developed like crippling anxiety and I was really depressed." — Sky Bri on the negative mental health impact of her work** [12:17](https://www.youtube.com/watch?v=7glfUXNObCo&t=737s)
-
-Sky Bri: "I started to really struggle mentally, and I had developed like crippling anxiety and I was really depressed, and I was making really not good decisions, drinking too much. My whole life just basically felt like it was falling apart, and I was like, what is causing this? And I was like, oh, it's because I'm doing something that I feel like is crushing my soul on the inside."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=737s
-
-**7. Sky Bri — "I hated how it made me feel. I just felt, I felt gross doing it." — Sky Bri on why she ultimately quit porn** [14:35](https://www.youtube.com/watch?v=7glfUXNObCo&t=875s)
-
-Sky Bri: "I hated how it made me feel. I just felt, I felt gross doing it. And I think too, I started to really struggle mentally, and I had developed like crippling anxiety and I was really depressed, and I was making really not good decisions, drinking too much. My whole life just basically felt like it was falling apart."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=875s
-
-**8. Sky Bri — "They were doing like an IRL Tinder, so basically all the guys of the group lined up." — Sky Bri on her viral moment with the Sidemen** [18:25](https://www.youtube.com/watch?v=7glfUXNObCo&t=1105s)
-
-Sky Bri: "They were doing like an IRL Tinder, so basically all the guys of the group lined up, and I would stand there and then I would swipe left or right on the guys. And this was my first viral moment, Mike Majlak was randomly a part of it, and when he came up, I said, do you want to see my tits? And even that was so calculated."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=1105s
-
-**9. Sky Bri — "I don't really think about having kids, not in the way that I don't want them." — Sky Bri on her current perspective on having children** [22:45](https://www.youtube.com/watch?v=7glfUXNObCo&t=1365s)
-
-Sky Bri: "I don't really think about having kids, not in the way that I don't want them, but more so I'm not where I am, I'm not where I need to be in life where I should even start thinking about having kids or entertaining that idea. I need to work on myself more, I have so much more work to do on myself. I first off need to find the right partner, and I want to get married before I have kids."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=1365s
-
-**10. Sky Bri — "I'm an in-person, I can't go through my DMs. It's just, they're just insane." — Sky Bri on her preference for meeting people in person** [24:23](https://www.youtube.com/watch?v=7glfUXNObCo&t=1463s)
-
-Sky Bri: "I'm an in-person, I can't go through my DMs. It's just, they're just insane. There's messages 24/7, and I just can't sit there and like go through them all. I also, too, I'm not a big texter or just like communicator over the phone, like I'm kind of like when I see you, we can hang out, we can have a conversation, we can get dinner, and then we can like just come up with when's the next time we hang out."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=1463s
-
-**11. Michael Porter Jr. — "as an athlete, if you want to be a professional athlete, you have to sacrifice so much" — Michael Porter Jr. on the personal sacrifices required for professional athletes** [1:00:00](https://www.youtube.com/watch?v=7glfUXNObCo&t=3600s)
-
-**Michael Porter Jr.:** "As an athlete, if you want to be a professional athlete, you have to sacrifice so much. You sacrifice time with your friends, time with your family. You have to get really good at being alone and working out when other people are having fun. So I think that you give good advice. Before you go down and really put all your eggs in this basket, just think about the consequences."
-
-**Sky Bri:** "Yeah."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=3600s
-
-**12. Sky Bri — "if you want to go down the path that I went down, just know that it comes" — Sky Bri on the high personal cost of working in the adult industry** [1:01:27](https://www.youtube.com/watch?v=7glfUXNObCo&t=3687s)
-
-Sky Bri: "If you want to go down the path that I went down, just know that it comes with a price and the price is very high, I believe. And if you're willing to pay that price and you've really thought about it, then by all means. But it takes a certain type of person to do well in the industry that I was in and genuinely enjoy it. That wasn't me. I didn't enjoy having sex with people on camera. I'm not a very, that's just not really who I am. Some people though can do that and they do enjoy that. If it's you, then by all means, but I think that the average girl is not cut out for that industry."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=3687s
-
-**13. Sky Bri — "if you have something good going and something means a lot to you that you should protect" — Sky Bri on the importance of protecting private aspects of life** [1:04:14](https://www.youtube.com/watch?v=7glfUXNObCo&t=3854s)
-
-Sky Bri: "I think if you have something good going and something means a lot to you that you should protect it from the world. Because when you expose it to the world, all it does is put eyes and attention and people will come for it and they'll try and ruin it."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=3854s
-
-**14. Sky Bri — "I think we should normalize living with our family for longer. Save money, it doesn't make sense" — Sky Bri advocates for normalizing living with parents to save money** [1:04:56](https://www.youtube.com/watch?v=7glfUXNObCo&t=3896s)
-
-Sky Bri: "I think we should normalize living with our family for longer. Save money, it doesn't make sense to move out right away. I'm pretty sure America is like the only country that does that."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=3896s
-
-**15. Sky Bri — "not being able to keep your cool in like high, like a crash out. Yeah, that's very unattractive" — Sky Bri on why losing composure under pressure is a major turn-off** [1:08:37](https://www.youtube.com/watch?v=7glfUXNObCo&t=4117s)
-
-Sky Bri: "Not being able to keep your cool in like high, like a crash out. Yeah, that's very unattractive to me. Like under pressure and under like conflict or anything, I remain very calm and cool. So if I'm with a guy and he like is acting out or trying to fight or just doing too much, that's very unattractive to me."
-
-https://www.youtube.com/watch?v=7glfUXNObCo&t=4117s
-
----
-
 ## Stephen A. Smith Gets Brutally Honest About His Issue with LeBron James | Wild NBA Beef Stories — *7PM in Brooklyn*
 
 Source: https://www.youtube.com/watch?v=MLbWHpFnBrY
@@ -463,112 +507,6 @@ https://www.youtube.com/watch?v=MLbWHpFnBrY&t=4391s
 Carmelo Anthony: "I think **Drake** was a little kind of hurt a little bit because of the relationship that he probably built, the bond that he built with DeMar in Toronto, like representing the 6, Raptors, you know what I mean? Like it was that was a lot of connection up there with those two. So I can see why **Drake** is upset. But from DeMar's side, this is this is home. This is home team. It ain't supposed to be like this, but this is home team."
 
 https://www.youtube.com/watch?v=MLbWHpFnBrY&t=4464s
-
----
-
-## Jamal Crawford On His Handles, Embracing The Sixth-Man Role & Dropping 51 In Dirk’s Final Home Game — *Cousins with Vince Carter & Tracy McGrady*
-
-Source: https://www.youtube.com/watch?v=XVxTFNG9BS0
-
-_Speakers identified: Tracy McGrady, Jamal Crawford, Vince Carter_
-
-**1. Jamal Crawford — "I said, shanking back tomorrow? And Wilson Chandler we playing Denver Nuggets. Wilson Chandler responded in the comments." — Jamal Crawford on his iconic Christmas Day game against the Nuggets** [00:49](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=49s)
-
-**Jamal Crawford:** "It was instinctive, but there was one night in particular I remember, my first time playing on Christmas Day. I'm on Twitter, and you can go look this up. I said, shanking back tomorrow? And **Wilson Chandler** we playing Denver Nuggets. **Wilson Chandler** responded in the comments like, oh, that's what you on tomorrow? I'm like, damn, I forgot I was playing against y'all tomorrow. But yeah, that's what I'm on. So I did the move. I did the move to **Andre Miller**. **Andre Miller**, you and I got so much love and respect for how he was just a casualty of war. It was just the moment called for it."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=49s
-
-**2. Jamal Crawford — "I always felt like if I didn't know what I was going to do, there's no way you could know." — Jamal Crawford on his instinctive, creative style of play** [01:15](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=75s)
-
-Jamal Crawford: "I always felt like if I didn't know what I was going to do, there's no way you could know. There's no way. I always felt like my mind and my feet and my hands were all one, so they were connected. So I can make something up on the fly. Any answer you made was going to be the wrong answer because I was going to figure out the way around it. For me, everything was instinctive and I felt free."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=75s
-
-**3. Jamal Crawford — "Seeing what they're doing and they're leaving a foundation I can just grow from." — Jamal Crawford on learning moves from other NBA players** [02:43](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=163s)
-
-Jamal Crawford: "I would see Penny, I would see **Tim Hardaway**, Iverson, **Isaiah Thomas**, **Cuttino Mobley**, **Nick Van Exel**, and I'm like, seeing what they're doing and they're leaving a foundation I can just grow from. Isaiah was coming down doing the sit-down behind the back. Most people used to do the long behind the back. He was the first one I saw like sitting in the chair. I'm like, what if I do it twice? What if I do it twice to a cross? What if I do it twice to a cross and hesi? What if I do it twice to a cross, hesi, and through the legs? So my mind just was always going."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=163s
-
-**4. Jamal Crawford — "I think there's some sixth men who could do what I could do on the court." — Jamal Crawford on why he considers himself an all-time great sixth man** [05:14](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=314s)
-
-Jamal Crawford: "I think there's some sixth men who could do what I could do on the court. They can score, they can get a bucket, they can do different things. I think for me, I could do things you couldn't scout against, and then I could make your crowd our crowd, and they get caught up in that. And then the resolve, the resolve to like get traded, go through this, I had 20 coaches. So think about it in the most common sense, if you were in college and you have four coaches, I had 20 coaches."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=314s
-
-**5. Jamal Crawford — "20 different times I had to adjust and I'm not sure a lot of people could have done that." — Jamal Crawford on the mental challenge of adjusting roles throughout his career** [06:10](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=370s)
-
-Jamal Crawford: "The first year you're a young fellow, you got to learn. The second year, okay, now you're the starting shooting guard. The third year, we need you to sacrifice now because younger guys are coming in. The fourth year, you're going to be the sixth man. So 20 different times I had to adjust and I'm not sure a lot of people could have done that mentally and still be themselves throughout that whole journey and their whole process."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=370s
-
-**6. Jamal Crawford — "I saw guys that left the league to me earlier than they should have because they didn't make that adjustment." — Jamal Crawford on the mental tricks used to handle coming off the bench** [07:26](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=446s)
-
-Jamal Crawford: "I saw guys that left the league to me earlier than they should have because they didn't make that adjustment. We saw the AIs, we saw Steph Marburys. We saw guys that they were just looking for a reason to kind of help them out the door and I'm like, I just want to play. And so for me, like you said, you got to break down your ego and then you got to build a new one. I was never a superstar but I had the stars' respect, so I'm going to break that, I'm going to kill that."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=446s
-
-**7. Jamal Crawford — "Once you get to a certain point in the league, you got to graduate to a vet and become that." — Jamal Crawford on his transition to a veteran role in Phoenix** [09:42](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=582s)
-
-Jamal Crawford: "Once you get to a certain point in the league, you got to graduate to a vet and become that whether you like it or not. And that's what happened in Phoenix that year. I couldn't complain. I signed a day before the season after going to a team that went to the playoffs in Minnesota for the first time in 14 years. But we went from myself, **Tyson Chandler**, **Ryan Anderson**, and we had some vets. It went from that to now we're rebuilding a month into the season."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=582s
-
-**8. Jamal Crawford — "I was so happy to see them get paid. I'm like, bro, Deandre Ayton." — Jamal Crawford on mentoring young players in Phoenix** [10:16](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=616s)
-
-Jamal Crawford: "I'm taking all the young fellas after the game, we going to get workouts in. **Elliot Williams**, **Rashawn Holmes**, all those guys. I was so happy to see them get paid. I'm like, bro, **Deandre Ayton**, I'm like, dang, like I remember taking these young dudes. **Mikal Bridges** was my rookie as well, staying in the same building. But at the end of the season they were all hurt. So I remember **James Jones** was like, we were at a barbecue at **Deandre Ayton**'s house. He like, Jamal, you want to play still? It's four games. I said, shit, I want to play. Let's do it."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=616s
-
-**9. Jamal Crawford — "I scored 25 in three quarters. So I already hit my quota. So I'm like, the fourth quarter I can just go have fun." — Jamal Crawford on his 51-point game in Dirk Nowitzki's final home game** [11:35](https://www.youtube.com/watch?v=XVxTFNG9BS0&t=695s)
-
-Jamal Crawford: "I scored 25 in three quarters. So I already hit my quota. So I'm like, the fourth quarter I can just go have fun. Man, I scored 26 in the fourth quarter, so I ended with 51. Dirk has his speech. He said, Jamal tried to steal my show. I got his jersey that night. I couldn't believe it. And I didn't know that was going to be both our last game. They gave me that memo. That was it. The 51, that was it. They basically said you done."
-
-https://www.youtube.com/watch?v=XVxTFNG9BS0&t=695s
-
----
-
-## Jamal Crawford On His Coaching Future, Seattle Basketball & Why He’s Never Seen Anyone Like Wemby — *Cousins with Vince Carter & Tracy McGrady*
-
-Source: https://www.youtube.com/watch?v=YMhtqwcZoN0
-
-_Speakers identified: Vince Carter, Jamal Crawford, Tracy McGrady_
-
-**1. Jamal Crawford — "I 1,000% know I'm going to be an NBA coach one day." — Jamal Crawford confirms his future goal to be an NBA head coach** [00:20](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=20s)
-
-Jamal Crawford: "I 1,000% know I'm going to be an NBA coach one day. I've never said that publicly. I just know it. I literally turned down three NBA jobs this summer. My son made USA, so we're in Turkey, and I got three offers between assistants and actually going through the process of being a head coach for one of them this summer. I was like, no, just the timing, because he is going through his journey. But I know 1,000% once he goes through high school, I'll be an NBA coach, no doubt about it."
-
-https://www.youtube.com/watch?v=YMhtqwcZoN0&t=20s
-
-**2. Jamal Crawford — "I never thought that I could feel alive again after playing." — Jamal Crawford on the unique mental challenge of coaching basketball** [01:13](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=73s)
-
-Jamal Crawford: "I never thought that I could feel alive again after playing. That was part of the reason I was so scared to put it down. I'm like, what's going to make me feel like this? You guys know, we touch the ball to this day, it's like magic happens, something special takes over. I saw you **Mac**, you shooting the ABCD, here go five in a row. It's just something about it. Coaching does that for me because I love learning, and it challenges your mind in real time. That to me is everything. We're all adjusting in real time, but I think I go even further with it. It actually bothers me if it doesn't happen because I just know how my mind works. I love trying to be a leader of men."
-
-https://www.youtube.com/watch?v=YMhtqwcZoN0&t=73s
-
-**3. Tracy McGrady — "I'm visualizing as I'm watching me already on the basketball court thinking I can do this." — Tracy McGrady on the importance of young players studying game film** [03:30](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=210s)
-
-Tracy McGrady: "It's important for us to deliver the message of being students of the game, watching the game, studying the game. The kids nowadays, like my two boys, they didn't watch basketball. So how do you learn? How do you take, how do you go out and visualize doing things on the basketball court if you're not watching the game? That was me, watching **Magic**, watching **Scotty**, watching **Sean Kemp**, watching **G Hill**. I'm visualizing as I'm watching me already on the basketball court thinking I can do this already, right? So then when I actually get into my workouts, I feel I'm these guys because I'm watching them every day and I'm learning the game and I'm taking bits and pieces of what they're doing and implementing that into my game and making it a strong suit."
-
-https://www.youtube.com/watch?v=YMhtqwcZoN0&t=210s
-
-**4. Tracy McGrady — "This little cat Pierre Rondo, his mind is so far greater than the kids that are at this camp." — Tracy McGrady on Pierre Rondo's advanced basketball IQ at age 14** [05:30](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=330s)
-
-Tracy McGrady: "This little cat **Pierre Rondo**, his mind is so far greater than the kids that are at this camp or on his level. He's 14 years old, he's the youngest cat there. Why? Because one, his dad is a basketball savant, and two, he understands development and what I need to do. So he has him watching tons of film. And tons of film and him understanding what he needs to apply when he goes out on a basketball court, he plays just like his daddy. Why? Because he saw it over and over and over and he envisioned and imagined himself playing that way and he actually fucking plays that way at 14 years old already. It is amazing."
-
-https://www.youtube.com/watch?v=YMhtqwcZoN0&t=330s
-
-**5. Jamal Crawford — "In the last 15 years, I think we're like 35 pros." — Jamal Crawford on the growth of Seattle basketball talent in the NBA** [08:07](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=487s)
-
-Jamal Crawford: "In the last 15 years, I think we're like 35 pros. We're in a big place. We're in the Northwest corner of the country. Before me was **Doug Christie**, who you played with. It was Doug that kind of set the tone. Then went to **Jason Terry**, **Mike Dickerson**. People don't talk about **Mike Dickerson**, **Mike Dickerson** was nice. Then the door just bust open. Now you got **Nate Robinson**, **Brandon Roy**, you got Terence Williams, **Peyton Siva**, **Aaron Brooks**, **Martell Webster**, **Spencer Hawes**, to even current days, **Zach LaVine**, **Paolo Banchero**, **Dejounte Murray**, **Tari Eason**, **Michael Porter Jr.** played there last year. These ain't scrubs."
-
-https://www.youtube.com/watch?v=YMhtqwcZoN0&t=487s
-
-**6. Jamal Crawford — "I've never seen somebody that can process, some people can learn it, but not a lot of people can apply." — Jamal Crawford on Victor Wembanyama's work ethic and intentionality** [09:25](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=565s)
-
-Jamal Crawford: "I've never seen somebody that can process, some people can learn it, but not a lot of people can apply. They can hear what you're saying, but they can't go do it themselves. He could do it quicker than I've ever seen. The way he was breaking stuff down like, oh I got it, got it, got it. I always said I had 10 moves that if I ever made the All-Star game I was going to do, I gave two of those to **Wemby**. So I cannot wait till he actually does the moves at some point. You all will know when you see it. He was just as impressive as the actual on-court work. He's an interesting dude, man, because all the way he handles the media, everything's intentional and he's curious. He doesn't know it all, but you can tell he wants to know it all."
-
-https://www.youtube.com/watch?v=YMhtqwcZoN0&t=565s
 
 ---
 

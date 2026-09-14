@@ -1,0 +1,41 @@
+# Jamal Crawford On His Coaching Future, Seattle Basketball & Why He’s Never Seen Anyone Like Wemby — *Cousins with Vince Carter & Tracy McGrady*
+
+Source: https://www.youtube.com/watch?v=YMhtqwcZoN0
+
+_Speakers identified: Vince Carter, Jamal Crawford, Tracy McGrady_
+
+**1. Jamal Crawford — "I 1,000% know I'm going to be an NBA coach one day." — Jamal Crawford confirms his future goal to be an NBA head coach** [00:20](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=20s)
+
+Jamal Crawford: "I 1,000% know I'm going to be an NBA coach one day. I've never said that publicly. I just know it. I literally turned down three NBA jobs this summer. My son made USA, so we're in Turkey, and I got three offers between assistants and actually going through the process of being a head coach for one of them this summer. I was like, no, just the timing, because he is going through his journey. But I know 1,000% once he goes through high school, I'll be an NBA coach, no doubt about it."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=20s
+
+**2. Jamal Crawford — "I never thought that I could feel alive again after playing." — Jamal Crawford on the unique mental challenge of coaching basketball** [01:13](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=73s)
+
+Jamal Crawford: "I never thought that I could feel alive again after playing. That was part of the reason I was so scared to put it down. I'm like, what's going to make me feel like this? You guys know, we touch the ball to this day, it's like magic happens, something special takes over. I saw you **Mac**, you shooting the ABCD, here go five in a row. It's just something about it. Coaching does that for me because I love learning, and it challenges your mind in real time. That to me is everything. We're all adjusting in real time, but I think I go even further with it. It actually bothers me if it doesn't happen because I just know how my mind works. I love trying to be a leader of men."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=73s
+
+**3. Tracy McGrady — "I'm visualizing as I'm watching me already on the basketball court thinking I can do this." — Tracy McGrady on the importance of young players studying game film** [03:30](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=210s)
+
+Tracy McGrady: "It's important for us to deliver the message of being students of the game, watching the game, studying the game. The kids nowadays, like my two boys, they didn't watch basketball. So how do you learn? How do you take, how do you go out and visualize doing things on the basketball court if you're not watching the game? That was me, watching **Magic**, watching **Scotty**, watching **Sean Kemp**, watching **G Hill**. I'm visualizing as I'm watching me already on the basketball court thinking I can do this already, right? So then when I actually get into my workouts, I feel I'm these guys because I'm watching them every day and I'm learning the game and I'm taking bits and pieces of what they're doing and implementing that into my game and making it a strong suit."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=210s
+
+**4. Tracy McGrady — "This little cat Pierre Rondo, his mind is so far greater than the kids that are at this camp." — Tracy McGrady on Pierre Rondo's advanced basketball IQ at age 14** [05:30](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=330s)
+
+Tracy McGrady: "This little cat **Pierre Rondo**, his mind is so far greater than the kids that are at this camp or on his level. He's 14 years old, he's the youngest cat there. Why? Because one, his dad is a basketball savant, and two, he understands development and what I need to do. So he has him watching tons of film. And tons of film and him understanding what he needs to apply when he goes out on a basketball court, he plays just like his daddy. Why? Because he saw it over and over and over and he envisioned and imagined himself playing that way and he actually fucking plays that way at 14 years old already. It is amazing."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=330s
+
+**5. Jamal Crawford — "In the last 15 years, I think we're like 35 pros." — Jamal Crawford on the growth of Seattle basketball talent in the NBA** [08:07](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=487s)
+
+Jamal Crawford: "In the last 15 years, I think we're like 35 pros. We're in a big place. We're in the Northwest corner of the country. Before me was **Doug Christie**, who you played with. It was Doug that kind of set the tone. Then went to **Jason Terry**, **Mike Dickerson**. People don't talk about **Mike Dickerson**, **Mike Dickerson** was nice. Then the door just bust open. Now you got **Nate Robinson**, **Brandon Roy**, you got Terence Williams, **Peyton Siva**, **Aaron Brooks**, **Martell Webster**, **Spencer Hawes**, to even current days, **Zach LaVine**, **Paolo Banchero**, **Dejounte Murray**, **Tari Eason**, **Michael Porter Jr.** played there last year. These ain't scrubs."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=487s
+
+**6. Jamal Crawford — "I've never seen somebody that can process, some people can learn it, but not a lot of people can apply." — Jamal Crawford on Victor Wembanyama's work ethic and intentionality** [09:25](https://www.youtube.com/watch?v=YMhtqwcZoN0&t=565s)
+
+Jamal Crawford: "I've never seen somebody that can process, some people can learn it, but not a lot of people can apply. They can hear what you're saying, but they can't go do it themselves. He could do it quicker than I've ever seen. The way he was breaking stuff down like, oh I got it, got it, got it. I always said I had 10 moves that if I ever made the All-Star game I was going to do, I gave two of those to **Wemby**. So I cannot wait till he actually does the moves at some point. You all will know when you see it. He was just as impressive as the actual on-court work. He's an interesting dude, man, because all the way he handles the media, everything's intentional and he's curious. He doesn't know it all, but you can tell he wants to know it all."
+
+https://www.youtube.com/watch?v=YMhtqwcZoN0&t=565s
