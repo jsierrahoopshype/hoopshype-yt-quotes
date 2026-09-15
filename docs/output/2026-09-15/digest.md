@@ -70,6 +70,74 @@ https://www.youtube.com/watch?v=5DFHEjdyZzY&t=739s
 
 ---
 
+## Pat Bev on if Barstool did him DIRTY 👀 — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=8OHCS5tZpdY
+
+_Speakers identified: Patrick Beverley, Zach Randolph, Tony Allen_
+
+**1. Patrick Beverley — "the situation came with me and my sister and what was said was fabricated" — Patrick Beverley on the fabricated story involving his sister** [00:53](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=53s)
+
+Patrick Beverley: "The situation was a tough situation. It was a situation that I have never been in in my entire life. Anyone who has relatives, sisters, brothers, sons, daughters, whatever the case, you protect your relatives no matter what. The situation came with me and my sister and what was said was fabricated and it made me out to look like a person that anyone that knows me, that is close to me, I don't even behave that way. But it comes with it. And that's my mind. I'm thinking, okay, it comes with this. What's next?"
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=53s
+
+**2. Patrick Beverley — "I have that same love and discipline with her what I have with my children also" — Patrick Beverley on his responsibility to discipline his sister** [02:10](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=130s)
+
+Patrick Beverley: "I'm in a situation of trying to get my household right. My sister is not my sister, my sister is my daughter. Dad was locked up, dad ended up passing. When she was born, dad was in prison. So from birth, my sister was my daughter. So I have that same love and discipline with her what I have with my children also. You can't just up and leave the house when you want to. You can't come in when you want to. You can't."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=130s
+
+**3. Patrick Beverley — "Barstool, they said we are not going to pay you from the time being" — Patrick Beverley on Barstool Sports pausing his salary** [05:04](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=304s)
+
+Patrick Beverley: "Barstool, they said we are not going to pay you from the time being. I just signed a brand new deal with them until the cases wrapped up and all that. All right, boom. Teams weren't really messing with me. I had a couple workouts. I had a workout with the Clippers. The night that it happened, I got a 6:00 AM flight to LA to workout with the Clippers. I'm still in basketball mode. So all that get pushed on the halt. Everything stopped."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=304s
+
+**4. Patrick Beverley — "They asked me, do you want Jalen Williams? First year I said no, we go do it on my own" — Patrick Beverley on the decision to bring in Jalen Williams** [07:02](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=422s)
+
+Patrick Beverley: "We changed the name because I got out the NBA and the views got kind of low, so we wanted to add a new flavor to it. They asked me, do you want **Jalen Williams**? First year I said no, we go do it on my own. Imagine, I'm filming a podcast in Dave's motherland, Israel, while a whole war going around. I'm filming a pod every single day. My co-host, my people, they don't even want to come to Tel Aviv."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=422s
+
+**5. Patrick Beverley — "I leave Barstool, I'm at 273,000 subscribers" — Patrick Beverley on his YouTube subscriber count** [08:02](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=482s)
+
+Patrick Beverley: "We renamed the show. What do you want to do with your subscribers? I got plaque at home, YouTube plaque, 100,000 subscribers. When we had them, I leave Barstool, I'm at 273,000 subscribers. I built where they film at now. The Hooping and Hollering where they film at, I built the whole thing. I ain't seen it one time."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=482s
+
+**6. Patrick Beverley — "Ron is my man, he still my man" — Patrick Beverley on his relationship with Ron** [09:28](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=568s)
+
+Patrick Beverley: "I call **Ron**. I text **Ron**, my co-host, my man, my right-hand man, the man that I don't put in Rolls Royces, I don't put with my chef, I don't put around NBA players, I don't put around my family. I had that man around my mama. I went to his kids' baptism. It's my man. It's my man. **Ron** is my man, he still my man."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=568s
+
+**7. Patrick Beverley — "The decision wasn't mine" — Patrick Beverley on the decision to leave Barstool** [10:14](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=614s)
+
+Patrick Beverley: "He like, the decision wasn't mine. I'm like, Dave just said the decision yours. You know what I'm saying? So Dave allowed me to allow, that's crazy. So they kept all my subscribers. You feel me? I started a whole new YouTube because I'm the algorithm of this. I know how the pace of the internet go. I know what's go viral, I know what don't, I know when to post, I know what time to post."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=614s
+
+**8. Patrick Beverley — "And they hit me with the, you're allowed to do your own thing" — Patrick Beverley on his new podcast deal** [11:33](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=693s)
+
+Patrick Beverley: "And they hit me with the, you're allowed to do your own thing, you can start your own podcast and if you do post something and we look over it and we like it, then we can put it on the main page. But you know, that's how it will go from right now."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=693s
+
+**9. Zach Randolph — "It don't look original. I ain't saying they ain't popping, but I'm just saying it don't look original" — Zach Randolph on the authenticity of the show** [12:11](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=731s)
+
+Zach Randolph: "The show don't pop. I'm telling you right now on Out the Mud, it don't pop. It don't look original. I ain't saying they ain't popping, but I'm just saying it don't look original. It don't look real, bro. It don't look like, the homes who the battle rapper dude, Ron, good dude. It don't look good with **Jalen Williams**."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=731s
+
+**10. Patrick Beverley — "Anything you say, not only does it go viral, it's a tree with branches" — Patrick Beverley on the viral nature of his content** [14:43](https://www.youtube.com/watch?v=8OHCS5tZpdY&t=883s)
+
+Patrick Beverley: "Anything you say, not only does it go viral, it's a tree with branches. People talk about this, people talk about this, people talk about this. You got eight different shows talking about the **James Harden** and the, I'm in Greece like this."
+
+https://www.youtube.com/watch?v=8OHCS5tZpdY&t=883s
+
+---
+
 ## Clippers finalize delayed Kawhi trade to Raptors + Concerns for Knicks & Heat 👀 | Get Up — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=Ac18nOCSQcE
@@ -123,6 +191,74 @@ https://www.youtube.com/watch?v=Ac18nOCSQcE&t=585s
 Tim MacMahon: "I've got real concerns about the fit. Bam will shoot threes, but he's not a threat from three-point range. Giannis is obviously best when the floor is spaced, when he's attacking downhill. A **Brook Lopez** type of big who spaces the floor is what fits best with him. So I'm not saying that can't work, but it's going to take some time, some tinkering, some trial and error by **Eric Spoelstra** and those guys to figure it out. This is a team that outside of Giannis, there's a real lack of playmaking."
 
 https://www.youtube.com/watch?v=Ac18nOCSQcE&t=645s
+
+---
+
+## Is Expansion Good For The NBA? + Is It Coming Soon? — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=BDQjxw44n5w
+
+_Speakers identified: Brian Windhorst, Tim Bontemps, Vince Carter_
+
+**1. Brian Windhorst — "Adam Silver has a few things to deal with over these NBA owners' meetings." — Adam Silver's upcoming challenges regarding the Los Angeles Lakers sale** [00:15](https://www.youtube.com/watch?v=BDQjxw44n5w&t=15s)
+
+Brian Windhorst: "**Adam Silver** has a few things to deal with over these NBA owners' meetings. First off, we have this Lakers sale. We want to hear what the league has to say about that, about **Mark Walter** flipping it, about **Mark Walter** potentially having these financial problems. It was reported at the end of last week that **Mark Walter** was selling his 13% stake in Chelsea Football Club in London. You are selling these things for a reason."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=15s
+
+**2. Brian Windhorst — "They have not actually said they are going to expand." — The NBA has not officially committed to expansion plans** [00:57](https://www.youtube.com/watch?v=BDQjxw44n5w&t=57s)
+
+Brian Windhorst: "They have not actually said they are going to expand. I know that everybody is making assumptions and they have had their bankers take bids and everything, but they have not actually said we are for sure going to expand. And they have not said we are for sure going to expand to Vegas and Seattle, and they have not said whether they are going to expand to Vegas and Seattle at the same time."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=57s
+
+**3. Brian Windhorst — "They are budgeting getting between five and 600 million dollars in expansion fees." — NBA owners are budgeting for massive expansion fees** [01:57](https://www.youtube.com/watch?v=BDQjxw44n5w&t=117s)
+
+Brian Windhorst: "I talked to an owner recently who told me that they are budgeting getting between five and 600 million dollars in expansion fees, which means they believe that the two teams will generate between 15 and 18 billion dollars in sale. It sounded to me like that owner was going to be voting for expansion if he was already counting his money."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=117s
+
+**4. Brian Windhorst — "The bids for the Las Vegas team were all over eight billion dollars." — Expansion bids for Las Vegas exceed eight billion dollars** [03:05](https://www.youtube.com/watch?v=BDQjxw44n5w&t=185s)
+
+Brian Windhorst: "From what I understand, the bids for the Las Vegas team were all over eight billion dollars. They got multiple bids over eight billion dollars, and so that means it is going to go higher than that."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=185s
+
+**5. Brian Windhorst — "When I was 17 years old living in Akron, Ohio, the Cleveland Browns relocated to Baltimore." — Brian Windhorst's personal history with the Cleveland Browns relocation** [03:28](https://www.youtube.com/watch?v=BDQjxw44n5w&t=208s)
+
+Brian Windhorst: "When I was 17 years old living in Akron, Ohio, the Cleveland Browns relocated to Baltimore. They have since won multiple Super Bowls, that franchise has won multiple Super Bowls, and the Browns have been horrendous. It was devastating. I went to the second to last home game. It was a devastating, devastating thing."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=208s
+
+**6. Brian Windhorst — "I have seen some of the books of the NBA teams and I am not sure." — Concerns regarding the financial health of current NBA teams** [04:15](https://www.youtube.com/watch?v=BDQjxw44n5w&t=255s)
+
+Brian Windhorst: "I have seen some of the books of the NBA teams and I am not sure that there are 30 healthy teams. We are living in a world where there are not 30 healthy financial teams and we are seeing every couple of years the NBA have to put in tanking rules because you have teams who realize they do not want to be in the middle."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=255s
+
+**7. Brian Windhorst — "Otherwise they would not have revenue sharing." — Revenue sharing is necessary for the NBA's 30-team model** [05:16](https://www.youtube.com/watch?v=BDQjxw44n5w&t=316s)
+
+Brian Windhorst: "Otherwise they would not have revenue sharing. At some point you have to make a decision, do you want a 10-team league where everybody is filthy rich or do you want a 30 or 32-team league where there are teams in Milwaukee and Cleveland and Minneapolis and Oklahoma City? The answer is they want the latter."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=316s
+
+**8. Brian Windhorst — "Fulham is this small London club. They were telling me that they believe that they have 18,000 fans." — Fulham FC's small but dedicated local fan base** [06:45](https://www.youtube.com/watch?v=BDQjxw44n5w&t=405s)
+
+Brian Windhorst: "Fulham is this small London club. It is worth a billion pounds. They were telling me that they believe that they have 18,000 fans that live in London. 18,000. That is what they believe their fan base is. 15 to 18,000 people. Their worldwide fan base is huge and they sell out every game."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=405s
+
+**9. Brian Windhorst — "The one that I would keep an eye on is the Nancy Walton Laurie." — Nancy Walton Laurie is a top bidder for Vegas expansion** [12:04](https://www.youtube.com/watch?v=BDQjxw44n5w&t=724s)
+
+Brian Windhorst: "The one that I would keep an eye on is the **Nancy Walton Laurie**. Her and her husband are believed to be one of the bidders for Las Vegas."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=724s
+
+**10. Brian Windhorst — "The Walton family has been getting more and more interested in pro sports ownership." — The Walton family's growing interest in professional sports ownership** [13:05](https://www.youtube.com/watch?v=BDQjxw44n5w&t=785s)
+
+Brian Windhorst: "The Walton family has been getting more and more interested in pro sports ownership. **Rob Walton** bought the Broncos a couple of years ago. **Lucas Walton** and his wife, who is the grandson of **Sam Walton**, bought 10% of the Chicago Bulls. **Nancy Walton Laurie** is bidding for the Vegas team. Nancy Walton's sister, **Anne Walton**, married a gentleman by the name of **Stan Kroenke**. So, Nancy Walton's brother-in-law is **Stan Kroenke**, who owns the Denver Nuggets, Los Angeles Rams, Arsenal Football Club, and most recently the Anaheim Angels, Colorado Avalanche."
+
+https://www.youtube.com/watch?v=BDQjxw44n5w&t=785s
 
 ---
 
@@ -348,6 +484,260 @@ https://www.youtube.com/watch?v=cX4v1L8He9A&t=622s
 
 ---
 
+## Is Devin Booker AHEAD of Donovan Mitchell? Shump TALKING CRAZY and MORE — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=gZPO1RROssE
+
+_Speakers identified: Theo Pinson, Raymond Felton, Charlie Villanueva, Hong Lau_
+
+**1. Raymond Felton — "the money he's getting that he's got offered at the end right here, I think he should take" — Jalen Duren should accept the contract offer despite feeling disrespected** [19:21](https://www.youtube.com/watch?v=gZPO1RROssE&t=1161s)
+
+**Raymond Felton:** "At this point, the money he's getting that he's got offered at the end right here, I think he should take. That's my personal opinion. But I'm not him. But I told y'all they was going to come in and be disrespectful off gate, and that's where the problem came in at."
+
+**Theo Pinson:** "The very first offer was so disrespectful. I think after hearing that, I think when they offered what they offered at the very beginning, it wouldn't have been that big of a deal."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=1161s
+
+**2. Theo Pinson — "When you feel disrespected, it's hard to get that out your head of like damn, what the fuck" — Jalen Duren feeling disrespected by the Pistons' initial contract offer** [21:21](https://www.youtube.com/watch?v=gZPO1RROssE&t=1281s)
+
+Theo Pinson: "When you feel disrespected, it's hard to get that out your head of like damn, what the fuck. Like you just said, I know I'm young. I had a bad playoff series, but y'all know me. Y'all know what I can do. I was third team All-NBA, and y'all going to throw me a 150 ball when I can get 280? You not going to give me close to 200? One, if you going into camp like this, I wonder how good you're going to look."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=1281s
+
+**3. Hong Lau — "You can't rely on your agent in this situation, you got to rely on some OGs" — The importance of having veteran guidance during contract negotiations** [27:09](https://www.youtube.com/watch?v=gZPO1RROssE&t=1629s)
+
+**Hong Lau:** "You can't rely on your agent in this situation, you got to rely on some OGs. And that's why that's where it comes to in a situation where the league is moved all the OGs out the league, that nobody's over there to tell him or get on the phone with him or go to his house and pull up on the little young fella, let me talk to you."
+
+**Raymond Felton:** "I wanted him to sign because I just hate to see that type of money be passed up. I understand his side as a player though. You got to look at it from both ways. You got to look at it professionally. As a professional, sign that money."
+
+**Theo Pinson:** "I think after hearing that, I think when they offered what they offered at the very beginning, it wouldn't have been that big of a deal."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=1629s
+
+**4. Theo Pinson — "I think when you're 22, you might have too many yes men around you" — The danger of having too many 'yes men' around young NBA players** [28:33](https://www.youtube.com/watch?v=gZPO1RROssE&t=1713s)
+
+Theo Pinson: "I think when you're 22, you might have too many yes men around you. Yes men and you ain't hear shit. I was stubborn at 22. That's what I'm saying. You got guys around you that's yes men. You got to have some fucking vets on these teams to help these guys because it never fails. You never hear a young star, the person Anthony Edwards used to lean on all the time, Mike Conley. Why you think Mike Conley never fucking left?"
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=1713s
+
+**5. Theo Pinson — "Jaylen Brown and Anthony Edwards are two of my favorite players in the NBA" — Anthony Edwards and Jaylen Brown as top-tier two-way guards** [30:35](https://www.youtube.com/watch?v=gZPO1RROssE&t=1835s)
+
+Theo Pinson: "**Jaylen Brown** and **Anthony Edwards** are two of my favorite players in the NBA because them two motherfuckers are dogs. They say line the fuck up, let's do it. **Jaylen Brown** guarded Luka Doncic in the finals. He wanted that smoke. **Jaylen Brown** will take, he will guard **Anthony Edwards**. He will guard whoever the fuck it is. Them two are two of the best two-way guards in the NBA today. You can't tell me two better. **Jaylen Brown** wouldn't be 1A 1B if last year didn't happen without **Jayson Tatum**."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=1835s
+
+**6. Charlie Villanueva — Debating if Bradley Beal belongs on the top 10 shooting guards list** [1:00:03](https://www.youtube.com/watch?v=gZPO1RROssE&t=3603s)
+
+**Charlie Villanueva:** "If **Bradley Beal** is healthy this year, would he be on this list?"
+
+**Raymond Felton:** "Prime **Bradley Beal**, yes. But if he's healthy this year, he might make this list."
+
+**Theo Pinson:** "We are talking about if he is healthy this year. We cannot say prime, but if he is healthy this year, he might make the list."
+
+**Charlie Villanueva:** "What about **Zach LaVine**?"
+
+**Theo Pinson:** "**Zach LaVine** should be on this list."
+
+**Raymond Felton:** "Put **Desmond Bane**, **Brandon Miller**, and then put **Amen Thompson**."
+
+**Theo Pinson:** "You do not have **Nickeil Alexander-Walker** on your list? You do not have **Zach LaVine**?"
+
+**Raymond Felton:** "I am going to have to kick somebody off for **Zach LaVine**."
+
+**Charlie Villanueva:** "**Zach LaVine** is playing, he should be on this list."
+
+**Raymond Felton:** "Put Thompson out. Put **CJ McCollum** in. You want CJ?"
+
+**Theo Pinson:** "Yeah, CJ is a bad motherfucker. You all forget **Jimmy Butler** too."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3603s
+
+**7. Charlie Villanueva — Debating the ranking of James Harden and CJ McCollum** [1:01:14](https://www.youtube.com/watch?v=gZPO1RROssE&t=3674s)
+
+**Theo Pinson:** "Prime **James Harden**. I think he is a three. That is what he is."
+
+**Charlie Villanueva:** "So what is OG? OG is the four, right?"
+
+**Raymond Felton:** "Yeah. Take **Brandon Miller** out, put **Mikal Bridges** in for me."
+
+**Theo Pinson:** "Take **Brandon Miller** out, I got **Mikal Bridges**."
+
+**Raymond Felton:** "Take **Brandon Miller** out, I got **Mikal Bridges**."
+
+**Theo Pinson:** "I am taking out **CJ McCollum**."
+
+**Raymond Felton:** "Give me **CJ McCollum**."
+
+**Theo Pinson:** "You want CJ? Yeah. That is a bad motherfucker."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3674s
+
+**8. Theo Pinson — Debating the top shooting guards and the inclusion of DeMar DeRozan** [1:02:29](https://www.youtube.com/watch?v=gZPO1RROssE&t=3749s)
+
+**Theo Pinson:** "**DeMar DeRozan** is a three, people."
+
+**Raymond Felton:** "**DeMar DeRozan**?"
+
+**Theo Pinson:** "I cannot have DeMar there anymore."
+
+**Raymond Felton:** "If you put **Zach LaVine**, you have to put DeMar. I did not put Zach."
+
+**Charlie Villanueva:** "He played with Zach, he has to put him up there."
+
+**Raymond Felton:** "Yeah, he will get that call."
+
+**Theo Pinson:** "**Zach LaVine** is still good. **Zach LaVine** can get to it."
+
+**Raymond Felton:** "I am just need to see him on a winning team one time."
+
+**Charlie Villanueva:** "That is that is the thing. He has not been on a winning team."
+
+**Theo Pinson:** "I need to see him be on a winning team. Put **Derrick White**. That is about to be my my tenth, I think. It is between him and Nickeil."
+
+**Raymond Felton:** "You are not going to have **Mikal Bridges** up there?"
+
+**Charlie Villanueva:** "Nickeil? I have Nickeil played the one last year, did not he?"
+
+**Theo Pinson:** "I have seen Nickeil as a point guard. I do not really know why they"
+
+**Charlie Villanueva:** "I think Nickeil played the one last year, but naturally he is a two though. If you want to go off like the Dame thing, he is a two."
+
+**Raymond Felton:** "I think I might be going with which call it both. See Nickeil is a two."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3749s
+
+**9. Theo Pinson — Debating the top shooting guards and the inclusion of Amen Thompson** [1:03:41](https://www.youtube.com/watch?v=gZPO1RROssE&t=3821s)
+
+**Raymond Felton:** "Put **Amen Thompson**, that is my last one."
+
+**Charlie Villanueva:** "Those are the lists."
+
+**Raymond Felton:** "So everybody's consensus is Ant is number one except for Theo. He got Ant and JB."
+
+**Theo Pinson:** "Yeah, you all are tripping."
+
+**Charlie Villanueva:** "So that is our one two consensus."
+
+**Theo Pinson:** "Oh no, we we can do the Ant JB then give me one more on the list."
+
+**Charlie Villanueva:** "No, no, yeah, feel you got to pick one. You cannot pick both."
+
+**Theo Pinson:** "I cannot pick one."
+
+**Charlie Villanueva:** "You got to pick one, Theo. You got to. No, no, you tell everybody else on the couch to pick one. You cannot do that."
+
+**Theo Pinson:** "I cannot do it."
+
+**Charlie Villanueva:** "All right, so we are knocking, we are putting JB second and then we are doing it for Theo because he he cannot do that."
+
+**Raymond Felton:** "Well, I don't condone it. It better not be a clip or I will I will fucking report that bitch."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3821s
+
+**10. Theo Pinson — Debating the ranking of Donovan Mitchell and Devin Booker** [1:04:46](https://www.youtube.com/watch?v=gZPO1RROssE&t=3886s)
+
+**Charlie Villanueva:** "So Theo, why do you have Don over DBook? Because we all have DBook third."
+
+**Theo Pinson:** "I would just say it comes down to probably the first teams for me. Don has just done a little bit more."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3886s
+
+**11. Theo Pinson — Comparing Devin Booker and Donovan Mitchell's accomplishments** [1:05:11](https://www.youtube.com/watch?v=gZPO1RROssE&t=3911s)
+
+**Theo Pinson:** "If I could do 2A 2B, that is what it would be. But Don is the little ahead of a couple more first teams. Or have one more."
+
+**Charlie Villanueva:** "I don't I don't even think Book has a first team. I don't think Book has a first team. I think he has like a second team or something."
+
+**Theo Pinson:** "And Don averages like 30 multiple times. I just it's tough. It's tough for me to not put a guy who's consistently been not good, but great in those moments. So that's tough for me."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3911s
+
+**12. Theo Pinson — Comparing Devin Booker and Donovan Mitchell's defensive abilities** [1:05:48](https://www.youtube.com/watch?v=gZPO1RROssE&t=3948s)
+
+**Charlie Villanueva:** "Ray, we heard your reasoning a little bit more on defense. That, why do you have Book over Don? Because I think that's an NBA debate a lot of people have. They're right there in terms of who's the second or third best."
+
+**Raymond Felton:** "Book played together in Phoenix. So I haven't played with Don, but like just looking at Book's like what he's done and what he could do like and how like like they both explosive scorers but like I think I think Book takes the challenge on defense a little bit more."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=3948s
+
+**13. Theo Pinson — Debating the best defenders among the top shooting guards** [1:07:10](https://www.youtube.com/watch?v=gZPO1RROssE&t=4030s)
+
+**Theo Pinson:** "If we talking about, **Stephon Castle** and **Jalen Williams** are the best defenders on this list."
+
+**Raymond Felton:** "Yeah."
+
+**Theo Pinson:** "You said who? **Jalen Williams** and **Stephon Castle**. Who's the better defender on this list, in your opinion?"
+
+**Raymond Felton:** "**Jaylen Brown** and **Anthony Edwards**."
+
+**Charlie Villanueva:** "**Amen Thompson** is the best defender on the list, isn't **Amen Thompson** wrong?"
+
+**Theo Pinson:** "He's not he's not on our list. I'm talking about top 10. I'm not talking about that list."
+
+**Raymond Felton:** "In your opinion, who's the best defender? In your opinion?"
+
+**Theo Pinson:** "**Jaylen Brown** and **Anthony Edwards**."
+
+**Raymond Felton:** "I probably say, uh, probably **Stephon Castle**, to be honest. If we talking about"
+
+**Theo Pinson:** "Actually, **Stephon Castle** might be."
+
+**Raymond Felton:** "Yeah, he defends."
+
+**Theo Pinson:** "Oh yeah, he got Mikal Bridges up there, yeah. He defends."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=4030s
+
+**14. Theo Pinson — Discussing the value of an MVP award versus a championship** [1:08:05](https://www.youtube.com/watch?v=gZPO1RROssE&t=4085s)
+
+**Theo Pinson:** "To this day, **Andre Iguodala**'s MVP holds more weight than a lot of you niggers. I ain't going to lie. It bothers me. Yes, yes, he sent us home."
+
+**Raymond Felton:** "Hold on now."
+
+**Theo Pinson:** "Yes. I was in the series, bro. I was in the series. There was no reason for us to go home besides **Andre Iguodala**. I'm going to make three. I'm going to"
+
+**Raymond Felton:** "Steph was supposed to get that."
+
+**Theo Pinson:** "We knew, we knew the light-skinned man was going to do his thing. We knew that."
+
+**Raymond Felton:** "What you mean?"
+
+**Theo Pinson:** "Hey, I'm going to throw it out there, T-Mac. If you ain't know that, Finals MVP might weigh more. I don't know. I don't know. What's going on?"
+
+**Raymond Felton:** "I don't know. I don't know. What's going on?"
+
+**Theo Pinson:** "Because I ain't going to lie. To this day, **Andre Iguodala**'s MVP holds more weight than a lot of you niggers. I ain't going to lie. It bothers me. Yes, he sent us home."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=4085s
+
+**15. Theo Pinson — Discussing the top 75 list and the exclusion of Andre Iguodala** [1:09:33](https://www.youtube.com/watch?v=gZPO1RROssE&t=4173s)
+
+**Raymond Felton:** "Right now, there is a top 75 list, right?"
+
+**Theo Pinson:** "**Andre Iguodala** ain't on it."
+
+**Raymond Felton:** "Right? He don't want to be on it."
+
+**Theo Pinson:** "Clay got Clay. He don't want to be on it. Let me give you News flash, niggers don't care."
+
+**Raymond Felton:** "Now that ain't true. That is not true."
+
+**Theo Pinson:** "There's a news flash for y'all, gang. Nobody cares. I don't know, that's fakeness. I'm not on the list and I care. I care. Because I see a whole bunch of people on the list that could not do nothing with me. I you can go in the comments right now. I guarantee nobody cares."
+
+**Raymond Felton:** "Yes, they do."
+
+**Theo Pinson:** "It's all political shit on how you get in the list. How many people"
+
+**Raymond Felton:** "Are you talking about top 75?"
+
+**Theo Pinson:** "No, but but what I'm saying is, read the top 75."
+
+**Raymond Felton:** "No, but I can I can just do this. I can just do this. Just read it, gang. I ain't going to lie. I guarantee it's going to be some people pissed y'all off in that."
+
+https://www.youtube.com/watch?v=gZPO1RROssE&t=4173s
+
+---
+
 ## Ballmer Accepts Punishment, Kawhi Trade Finally Completed + NBA Owners’ Meetings Expectations — *NBA on ESPN*
 
 Source: https://www.youtube.com/watch?v=hcLK_AaNHig
@@ -519,6 +909,38 @@ https://www.youtube.com/watch?v=hcLK_AaNHig&t=4220s
 Tim Bontemps: "During a press conference, there should be a 24-second shot clock on the table. And if the buzzer goes off, you pass the mic, you're done. You don't get your question in. No question should take longer than 24 seconds. And my advice to make sure that doesn't happen, you get one sentence that can have a period. After that, your next sentence has to have a question mark on it."
 
 https://www.youtube.com/watch?v=hcLK_AaNHig&t=4302s
+
+---
+
+## Golden Tate Thought Winning a Super Bowl Was EASY… Until He Left Seattle — *Brice Butler Studios*
+
+Source: https://www.youtube.com/watch?v=yMAZ8yJgFqQ
+
+_Speakers identified: Brice Butler, Golden Tate_
+
+**1. Golden Tate — "mentally I was not ready to be a first-rounder and the pressure that come with being" — Golden Tate on the pressure of being a first-round draft pick** [00:01](https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=1s)
+
+Golden Tate: "The beginning of my career was like almost like a little fantasy. I got drafted in the second round, 60th overall pick. In my opinion, I thought I should have went in the first round, but mentally I was not ready to be a first-rounder and the pressure that come with being a first-rounder and expectations, I probably wouldn't have been able to handle it. So I am so grateful that **Pete Carroll**, who was coaching straight from SC, he left me to go with you. I'm still upset about that, Pete."
+
+https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=1s
+
+**2. Golden Tate — "I had to go through those growing pains and learn how to be a pro really" — Golden Tate on his early struggles as a receiver** [00:59](https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=59s)
+
+Golden Tate: "I didn't produce on the field. I didn't really get too many opportunities to produce because I couldn't be trusted for many reasons. At that point, I'd only been playing receiver for three seasons because I was a running back and went into college, went over to receiver. So I had to learn everything about being a receiver because I was just an athlete out there running around. I had to go through those growing pains and learn how to be a pro really, and then it finally clicked."
+
+https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=59s
+
+**3. Golden Tate — "Seattle loves their sports. So we're selling out every single game" — Golden Tate on the atmosphere in Seattle during the tech boom** [01:40](https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=100s)
+
+Golden Tate: "Being in Seattle was awesome. We were there during kind of the tech boom. The economy was starting to just boom back then. I was in Pacific Northwest with all this great seafood and Seattle loves their sports. So we're selling out every single game. **Pete Carroll** is super energetic, bringing in cool people to speak to us. Shooting basketballs before meetings, throwing the football from the 50-yard line into a hoop on the side trying to create one-hand catches. We are at that point, we are hands down in the toughest division in football."
+
+https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=100s
+
+**4. Golden Tate — "One thing Pete Carroll said, don't make shit up. Stick to your routine" — Golden Tate on his strict pre-game routine and preparation** [05:04](https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=304s)
+
+Golden Tate: "I tried to stick to my routine. One thing **Pete Carroll** said, don't make shit up. Stick to your routine. If your routine is to go to dinner, have a glass of wine, just because Super Bowl, don't change that up. I did what I usually do. I go out to dinner, maybe have a beer or two, and then it's go time. I look over my playbook. One thing I did my entire career is that I wanted to make sure I always slept. Non-negotiable. My sleep before a game has to happen."
+
+https://www.youtube.com/watch?v=yMAZ8yJgFqQ&t=304s
 
 ---
 
