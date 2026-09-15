@@ -1,0 +1,87 @@
+# Ep. 87.26  Tom Tolbert Show | Special Guest: Steve Kerr — *Tom Tolbert Show*
+
+Source: https://www.youtube.com/watch?v=tv0ucUSEbJw
+
+_Speakers identified: Tom Tolbert, Steve Kerr_
+
+**1. Steve Kerr — "I had decided I was leaving with a week or two left in the regular season." — Steve Kerr on his decision to return as Warriors head coach** [07:52](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=472s)
+
+Steve Kerr: "I had decided I was leaving with a week or two left in the regular season. I just thought it was time. I could just feel it. When the season ended, we all felt like we owed it to ourselves to give it a couple of weeks and let the emotions die down and hash it out and see where we were and where the team was. I'm glad we did that because over the next couple of weeks we had three different meetings with Joe, Kirk, **Mike Dunleavy**. The four of us talked about the team and everything going forward, and I think we came to a really good conclusion and agreement that we should keep it going. I'm so glad that happened because I'm really fired up for the season. I couldn't be more excited. I'm re-energized, rejuvenated, excited about the potential that this team has."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=472s
+
+**2. Steve Kerr — "I'm looking in the mirror first. We've got to do things differently." — Steve Kerr on the need for organizational changes** [09:40](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=580s)
+
+Steve Kerr: "We've been in the pressure cooker for a long time here. It's been great, but that's what you want. You want to be in the mix, in the fight. The last couple of years have been tough organizationally. Last year, especially, Draymond getting hurt, Moses getting hurt. The previous year, the Draymond trade really saved us and put us back in the mix. But last year, everything went wrong, and it felt like for the first time we were a little wayward. We just didn't quite know what was ahead. We talked about all that. What's possible in terms of the roster? What are we going to do with the draft choice that we had? What's free agency look like? What's Draymond's option look like? All these things were discussed. Ultimately, we concluded that it made perfect sense for me to stay with Dray back, with Steph back, with a veteran team. But I wanted them to know that we've got to make some changes, and I'm looking in the mirror first. We've got to do things differently, and I think they appreciated that I came in with some thoughts and some ideas of how we needed to change some of our process."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=580s
+
+**3. Steve Kerr — "We are completely changing our process in terms of how we're going to practice." — Steve Kerr on changing the Warriors' practice and preparation process** [11:40](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=700s)
+
+Steve Kerr: "We are completely changing our process in terms of how we're going to practice. Some of that is getting back to some basics, just tightening things up a little bit. Some of that is how we're going to work, how we're going to put in our work, because the game has changed. So our drill work, our practice time has to reflect that. Last year, we had so many guys who were frankly banged up all the time, in need of rest. We just didn't practice enough, and it showed. Our execution suffered. I've spent a lot of time this summer with **Rick Celebrini**, with our coaching staff, trying to figure out how can we get the work in that we need without overloading the players. So we're completely changing our process and our on-court work with how we're going to operate."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=700s
+
+**4. Steve Kerr — "Young guys in the gym every day, like working. So it's exciting to be back." — Steve Kerr on the potential of Jonathan Kuminga** [12:40](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=760s)
+
+Steve Kerr: "Our coaching staff has been preparing all summer and young guys in the gym every day, like working. So it's exciting to be back. **Jonathan Kuminga** is going to help quite a bit. He's a really good player. He's older, he's mature. Watching him work out with our guys, like he's going to help us. Kevon Looney, Santos, Brandon Podziemski, these guys are going to help us. George Niang, Brandon Williams, new signees. Nothing earth-shattering, but really good players who can play a lot of minutes. So I think our depth is the answer to the question you asked. We're going to have to rely on our whole roster, including our two-way players at times. Fortunately, I do feel really good about the guys we have who have kind of filled out the back end of the roster and I think they can help us hold down the fort until Jimmy and Moses get back, so to speak."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=760s
+
+**5. Tom Tolbert — "It's so confusing to try to figure out" — Tom Tolbert and Steve Kerr discuss the confusion of NBA draft rules** [1:00:01](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3601s)
+
+**Tom Tolbert:** "Do you understand the new draft rules at all?"
+
+**Steve Kerr:** "No, nor am I going to try. I have no idea. It's so confusing to try to figure out."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3601s
+
+**6. Steve Kerr — "I don't think that's good either for fans. You want as a fan to trade a first" — Steve Kerr criticizes the impact of draft protections on fan engagement** [1:00:18](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3618s)
+
+Steve Kerr: "It's already confusing anyway because of all the draft protections. You see these years where it's like, well, Utah has one of three first-round picks, the lesser of the Minnesota and the OKC picks, but they also have a swap with such and such. By the time you're done reading the sentence, you're like, I don't care. I'm out. I don't think that's good either for fans. You want as a fan to trade a first, you just trade a first."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3618s
+
+**7. Steve Kerr — "It's a little harder to predict in the NBA, I guess, the loss of that one number one pick" — Steve Kerr on the difficulty of predicting NBA draft pick value** [1:01:04](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3664s)
+
+Steve Kerr: "It's a little harder to predict in the NBA, I guess, the loss of that one number one pick, how damaging it could be, whereas in the NFL it feels less damaging in some ways. But for a fan, that's great. You just know that the Rams gave up two firsts to get Miles Garrett. You're like, all right, well, Cleveland's got multiple firsts next year. That's interesting, right?"
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3664s
+
+**8. Steve Kerr — "There should never ever be a CBA where you can't draft and build and retain players" — Steve Kerr argues against the current CBA's restrictions on team building** [1:02:32](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3752s)
+
+Steve Kerr: "There should never ever be a CBA where you can't draft and build and retain players. That's the gold standard in all sports. We draft, we developed, now we want to retain them all. Now you can't even retain your own players. You can do everything right and the league is going to tell you, nah, you could be a dynasty, but we're not going to let you be a dynasty. You're going to have to get rid of some of these guys."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3752s
+
+**9. Tom Tolbert — "The Celtics had to get rid of Jaylen Brown, not because he's not a good player, because he's going to make $70 million" — Tom Tolbert and Steve Kerr on the Celtics trading Jaylen Brown** [1:04:47](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3887s)
+
+**Tom Tolbert:** "The Celtics had to get rid of **Jaylen Brown**, not because he's not a good player, because he's going to make $70 million a year. And it's not even about the $70 million a year. You got to look at players and go, are they worth that percentage of our salary cap?"
+
+**Steve Kerr:** "There's probably at the top end, maybe 10 guys in the league, maybe not even that many that are worth that much. But you get caught in the middle. It's like almost having a quarterback, a good quarterback, but not a great quarterback in the NFL. You got to pay him. It's starting quarterback money, but you're like, but he's not a top 10 quarterback."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=3887s
+
+**10. Steve Kerr — "I will say forever, we don't have a single championship without him. The guy's that that impactful on winning" — Steve Kerr credits Draymond Green's impact on Warriors championships** [1:06:58](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4018s)
+
+Steve Kerr: "He's a guy I will say forever, we don't have a single championship without him. The guy's that that impactful on winning. This year, I need the same patience from him because this is going to be an interesting, a transition year of sorts, and we're going to do some things differently. He and Steph obviously have this great rapport. We're not going to take away from that, but he's going to have to to adapt a little bit."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4018s
+
+**11. Steve Kerr — "We have to cut back on the turnovers. I want him shooting the three when he's open" — Steve Kerr outlines necessary adjustments for Draymond Green's role** [1:08:33](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4113s)
+
+Steve Kerr: "We have to cut back on the turnovers. I want him shooting the three when he's open. When he shoots the three, he may not be a super high percentage shooter, but possessions are good for us when he shoots because number one, it's worth three, number two, we get offensive rebounds, number three, there's a flow to the game that has to happen that someone's open and they shoot it, the game keeps moving."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4113s
+
+**12. Steve Kerr — "Asking him to play 82 games at that level is a lot to ask" — Steve Kerr on the difficulty of maintaining Steph Curry's performance level** [1:09:55](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4195s)
+
+Steve Kerr: "The main thing with Steph is that he's the same player. It's just asking him to play 82 games at that level is a lot to ask. It's a lot to ask and he knows that too. His body just can't do what it did 10 years ago. So he is allowing for that in the way he's training this summer. He's putting less mileage on his legs and knees and trying to train in a more efficient manner."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4195s
+
+**13. Steve Kerr — "It is really complex. There's a lot of work to do" — Steve Kerr on the complexity of NBA expansion to Europe** [1:10:40](https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4240s)
+
+Steve Kerr: "It is really complex. There's a lot of work to do. There's all this talk right now about how it's going to happen and it is really complex. There's a lot of work to do."
+
+https://www.youtube.com/watch?v=tv0ucUSEbJw&t=4240s
