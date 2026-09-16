@@ -1,0 +1,85 @@
+# HoopsHype YT Quotes — 2026-09-16
+
+## Clippers Punishment, Kyrie Irving Comeback & Klay Thompson On The Heat — *Shump Street*
+
+Source: https://www.youtube.com/watch?v=hQJU8VgA_Dk
+
+_Speakers identified: Iman Shumpert, Arhii Shumpert_
+
+**1. Iman Shumpert — "I think they're overhyping them having a beef. I think some of it is just basketball." — Iman Shumpert on the media overhyping the Caitlin Clark rivalry** [00:31](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=31s)
+
+Iman Shumpert: "I think they're overhyping them having a beef. I think some of it is just basketball, but it's basketball beef. When I play against her, I don't like her. That's fine. They like to try and make it seem like they don't like each other as people. I think that's when the media just starts losing the plot."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=31s
+
+**2. Iman Shumpert — "The Clippers are down probably about 15 years, not going to lie. And I mean 15 years." — Iman Shumpert on the Clippers' long-term outlook after recent penalties** [03:46](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=226s)
+
+Iman Shumpert: "The Clippers are down probably about 15 years, not going to lie. And I mean 15 years before the championship hunt. With all these, the draft picks, the fines, the suspensions, all the things that are happening, we can't erase the fact that y'all already traded y'all's shit before y'all lost this. Y'all already gave all y'all's shit up. And now y'all are getting hit with a double whammy right now. So I ain't going to lie, it's going to hurt. **Darius Garland**, enjoy yourself in LA. You know what I'm saying? I don't think it's going to be a lot of winning."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=226s
+
+**3. Iman Shumpert — "He can guard one through five, he's extremely athletic, and his handle is better than he gets credit for." — Iman Shumpert on Amen Thompson's strengths and areas for improvement** [10:49](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=649s)
+
+Iman Shumpert: "He can guard one through five, he's extremely athletic, and his handle is better than he gets credit for. Another strength that is now added, I think is letting him handle the ball as much as he did, I think gave him an unbelievable amount of confidence as far as where his game was in the beginning of the season as opposed to where it ended at the end. The area of his game that he needs to improve, the confidence and ability to say, 'I'm going to knock this shot down,' and you have to respect it. That's it. He just needs to carry the threat of being able to shoot. If he can show, 'I can make four out of 10,' if he can show that when it goes in, it goes in all net, and it's a smooth shot, nice form, everything, I really think that you're going to be forced to guard him different. It would be, I think it's the **Russell Westbrook** effect all over again. **Russell Westbrook** had a knock of shooting, it's just he was a madman and believed in it, so he'd shoot it anyway."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=649s
+
+**4. Iman Shumpert — "I just want to see things go well for Jonathan Kuminga. I think he's a very good talent." — Iman Shumpert on Jonathan Kuminga's potential and contract situation** [13:28](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=808s)
+
+Iman Shumpert: "I just want to see things go well for **Jonathan Kuminga**. I think he's a very good talent and deserves more of a comfortable role. I just want him to be on a team and be comfortable mentally to actually blossom. I just want him to hurry up and get paid because ever since not signing that first deal, I feel like he's had to deal a little bit with what **Dennis Schroder** and a couple other guys we've seen go through after turning down a really big check. So, I just want to see him land, but I do like him with the Timberwolves. We'll see how it goes. It'll be their first year all together, they got a lot of new moving pieces."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=808s
+
+**5. Iman Shumpert — "Klay Thompson with a lot of time to shoot because you're going to have to do a lot of covering." — Iman Shumpert on Klay Thompson's fit with the Miami Heat** [14:41](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=881s)
+
+Iman Shumpert: "**Klay Thompson** with a lot of time to shoot because you're going to have to do a lot of covering Giannis, especially when Giannis is healthy. You're going to have to pack in that paint dealing with Giannis and **Bam Adebayo**, so I'm thinking **Klay Thompson** is the perfect balance and he's landing in the perfect spot."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=881s
+
+**6. Iman Shumpert — "When Jimmy's healthy, his competitive nature is something that can energize the team." — Iman Shumpert on Jimmy Butler's impact on the Warriors** [20:50](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1250s)
+
+Iman Shumpert: "When Jimmy's healthy, his competitive nature is something that can energize the team. His ability to attract a double team, his ability to play with his back to the basket is something that calls for the playoffs. So him coming around January, February, all us league veterans know, that's the perfect time to be coming back, right after All-Star. Get your feet wet, start really getting those reps in, really getting those games in toward the end of the year where, you know, your other teammates are really going to be, you know, just keeping themselves sharp and trying to stay healthy and get their rest before playoffs, and you kind of turn it up a notch with those last couple of games being the number one guy, really getting in your flow."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1250s
+
+**7. Iman Shumpert — "I think you're just watching a much different nucleus and a team to where it's not really built for Steph." — Iman Shumpert on why the Warriors' current team structure is challenging for Steph Curry** [22:15](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1335s)
+
+Iman Shumpert: "I think you're just watching a much different nucleus and a team to where it's not really built for Steph. So I can understand the criticism that comes around **Steph Curry**, but you got to understand as a special player that really needs a special team to fully use him the way he's supposed to be used, especially with him being in the later parts of his career. It's not going to be too interesting when Jimmy comes back, but Jimmy is not, he's not done, let's say that. I'll say that. Jimmy is not done at all by a long shot."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1335s
+
+**8. Iman Shumpert — "I think the Mavericks do get a whole lot better once Kyrie returns because Cooper Flagg has had to shoulder." — Iman Shumpert on Kyrie Irving's return and Cooper Flagg's development** [23:50](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1430s)
+
+Iman Shumpert: "I think the Mavericks do get a whole lot better once Kyrie returns because **Cooper Flagg** has had to shoulder a lot of that responsibility, but I think that shouldering that responsibility did a lot more for him than we all saw. I hate that J-Kid did all that, now he's gone. I just want to see things go well for **Cooper Flagg**. I think he's a very good talent and deserves more of a comfortable role."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1430s
+
+**9. Iman Shumpert — "The media space is the big one though. I feel like the players' voice is kind of changing everything." — Iman Shumpert on the changing media landscape for NBA players** [26:51](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1611s)
+
+Iman Shumpert: "The media space is the big one though. I feel like the players' voice is kind of changing everything, being able to talk direct to people and let them know what is going on, adding context to things, being able to explain when a player is in a mode right now. And they can't explain it, but it's like we see something getting ready to bubble and go, we can kind of step in and protect that player, protect that thought, protect that game, whatever."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1611s
+
+**10. Iman Shumpert — "I like Trae Young and AD, but I ain't going to lie, I'm kind of scared of Damian Lillard and Ja Morant." — Iman Shumpert on the potential of new star duos in the NBA** [29:18](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1758s)
+
+Iman Shumpert: "I like **Trae Young** and AD, but I ain't going to lie, I'm kind of scared of **Damian Lillard** and **Ja Morant**. If CJ and Dame was hell, that was hell to deal with. That's fucking hell. Are you telling me that now Dame has somebody that's just hyper-athletic doing all the dunks that he want to see? They might run three guard. They might run that Illinois offense and just have three guards out there. You hear me? They might just say, 'Fuck it.' Every once in a while just go out here and go athletic."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=1758s
+
+**11. Iman Shumpert — "I'm going to go Scotty P, then I'm going to go Tony Allen, then I'm going to go Andrei Kirilenko." — Iman Shumpert ranks legendary NBA wing defenders** [33:42](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=2022s)
+
+Iman Shumpert: "I'm going to go Scotty P, then I'm going to go **Tony Allen**, then I'm going to go **Andrei Kirilenko**, **Bruce Bowen** and **Ausar Thompson**. I think **Ausar Thompson** does the same thing though, low key. He's very aggressive, he can take away things, he's very athletic. I would just say **Ausar Thompson** hasn't been, he hasn't had the time yet to put together signature games. We just got to give him a little time before I can rank him higher."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=2022s
+
+**12. Iman Shumpert** [40:35](https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=2435s)
+
+**Tyrese Maxey:** "I think the biggest thing is we can't have anybody, nobody on this team can have an ego. You know what I'm saying? A lot of we have two guys that have won the regular season MVPs, two guys that have won Finals MVPs, multiple gold medal winners on this team, multiple 25 plus points per game, All-Stars, All-NBA. We've all are pretty accomplished. So, the ego has to drop and you have to do it collectively."
+
+**Iman Shumpert:** "I think I'm getting a little bit more excited as the days go on thinking about the Philadelphia 76ers. Got a feeling I'm going to have me a couple Philly cheesesteaks this year and go check them out."
+
+https://www.youtube.com/watch?v=hQJU8VgA_Dk&t=2435s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
