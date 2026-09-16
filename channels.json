@@ -232,6 +232,34 @@
       "bypass_filters": false,
       "active": true,
       "known_speakers": ["Jaylen Clark"]
+    },
+    {
+      "name": "The Backyard Podcast",
+      "channel_id": "UCxHKsrkqNr-lQ04gTj9IGgw",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["D'Angelo Russell", "Logan Linkmeyer"]
+    },
+    {
+      "name": "LeBron James",
+      "channel_id": "UCV9dV3DcAZWGnT2yFNKxStA",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["LeBron James"]
+    },
+    {
+      "name": "ALL THE SMOKE",
+      "channel_id": "UC2ozVs4pg2K3uFLw6-0ayCQ",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Matt Barnes", "Stephen Jackson"]
+    },
+    {
+      "name": "Dalton Johnson",
+      "channel_id": "UCP8K9hsr8BdtBUtnehqT2ww",
+      "bypass_filters": false,
+      "active": true,
+      "known_speakers": ["Dalton Johnson"]
     }
   ],
   "min_duration_minutes": 5,
@@ -247,6 +275,6 @@
     "every three",
     "ranking the"
   ],
-  "max_videos_per_run": 15,
+  "max_videos_per_run": 25,
   "max_videos_per_channel_per_run": 3
 }
