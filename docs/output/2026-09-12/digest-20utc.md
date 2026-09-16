@@ -1,60 +1,66 @@
 # HoopsHype YT Quotes — 2026-09-12
 
-## The 76ers should trade Tyrese Maxey for Kyrie Irving 🤯 — *To The Baha*
+## LeBron Plays Golf with the Akron Fab Five — *LeBron James*
 
-Source: https://www.youtube.com/watch?v=6BSktTJ8TuQ
+Source: https://www.youtube.com/watch?v=RA4EiRPhzXQ
 
-_Speakers identified: Theo Pinson, Raymond Felton, Charlie Villanueva_
+_Speakers identified: LeBron James, Randy Mims, Sian Cotton, Frankie Walker, Romeo Travis, Willie McGee_
 
-**1. Theo Pinson — "The Pistons are being widely discussed as a team preparing to make an aggressive move during the season." — Detroit Pistons' potential trade for Kyrie Irving and Trey Murphy III** [00:06](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=6s)
+**1. LeBron James — "We're going to do a 3v3 scramble, with bragging rights, and we're going to keep you posted." — LeBron James introduces the 3v3 scramble format with his childhood friends** [01:05](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=65s)
 
-**Theo Pinson:** "What does Dallas receive for doing this type of deal? Picks. It has to be picks."
+LeBron James: "What's up y'all, welcome back to the channel. We're here at Portage Country Club in my hometown, our hometown of Akron, Ohio. We're going to do a 3v3 scramble, with bragging rights, and we're going to keep you posted on this now. We're missing two of our guys that we do roll with, Brandon Weems and Dru Joyce, but we love them. And his guys are late, but we're going to get going soon, so y'all stay tuned."
 
-**Raymond Felton:** "The Pistons are being widely discussed as a team preparing to make an aggressive move during the season. Detroit plans to circle back on **Kyrie Irving** and **Trey Murphy III**, if the Mavericks and Pelicans get off to slow starts. Irving is a coveted fit alongside **Cade Cunningham**."
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=65s
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=6s
+**2. LeBron James — "We're playing match play, meaning it don't matter how many strokes, whatever the case may be." — LeBron James explains the rules for the 3v3 scramble golf match** [07:37](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=457s)
 
-**2. Theo Pinson — "If you the Philadelphia 76ers, are you trading Maxey for Kyrie?" — Evaluating a potential Tyrese Maxey for Kyrie Irving trade** [01:50](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=110s)
+LeBron James: "We got a 3v3 scramble. Scramble is basically, we all tee off, whatever y'all decide on the best ball from there, y'all all hit from that same spot all the way up until the ball going into the hole. We're playing match play, meaning it don't matter how many strokes, whatever the case may be. If we get six, y'all get five, y'all won that first hole, y'all are up one."
 
-**Theo Pinson:** "If you the Philadelphia 76ers, are you trading Maxey for Kyrie?"
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=457s
 
-**Raymond Felton:** "No."
+**3. LeBron James — "You get a breakfast ball on one and ten. If you hit and you get some bullshit, you get to hit again." — LeBron James outlines the breakfast ball and mulligan rules for the match** [08:00](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=480s)
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=110s
+LeBron James: "You get a breakfast ball on one and ten. If you hit and you get some bullshit, you get to hit again. Only on one and only on ten, so you get one on the front nine, one on the back nine. And you get one mulligan per team, per team, one on the front nine and the back nine. And they don't carry over though, so if you don't use it, you dead, you lose it."
 
-**3. Theo Pinson — "Kyrie Irving is not going to do anything but make Cooper Flagg better." — Kyrie Irving's ability to complement other star players** [05:14](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=314s)
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=480s
 
-Theo Pinson: "As a guy that can complement anybody, that guy is **Kyrie Irving** at a high level. **Kyrie Irving** is not going to do anything but make **Cooper Flagg** better."
+**4. LeBron James — "Don't do like this, because when you do like this, now you're on top of the ball." — LeBron James gives golf swing advice to Romeo Travis** [26:24](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=1584s)
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=314s
+LeBron James: "Don't do like this, because when you do like this, now you're on top of the ball. So now you do one like this. You will always be on top of the ball. Once you set, just move your arms and hips. So even if you do your short backswing, you can do like this. That's cool too, for arms and hips."
 
-**4. Theo Pinson — "Kyrie, Maxey, Jalen Brunson, Joel Embiid. It can work for both teams." — Potential lineup with Kyrie Irving, Tyrese Maxey, and Joel Embiid** [05:43](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=343s)
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=1584s
 
-**Theo Pinson:** "Kyrie, Maxey, **Jalen Brunson**, **Joel Embiid**. It can work for both teams."
+**5. LeBron James — "I know golf is the hardest sport I've ever done in my life, and the mental aspect." — LeBron James reflects on the mental difficulty of golf** [47:14](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=2834s)
 
-**Raymond Felton:** "I am not doing that for a one-year, two-year deal."
+LeBron James: "I know golf is the hardest sport I've ever done in my life, and the mental aspect when you get up there to hit the ball, we're not taking that for granted. We understand how hard it is, but our boy ain't being an athlete. He just got to be a little bit more, and I'm not -- I got to be more too at times, but he got to lock in. I mean, I know golf is skill, but at some point it becomes about heart."
 
-**Charlie Villanueva:** "Maxey is the future, bro. I am not doing that."
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=2834s
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=343s
+**6. LeBron James — "We gifted them a double-or-nothing on one of the holes, so they got back into the game." — LeBron James on the team's performance and the back nine** [1:00:20](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3620s)
 
-**5. Charlie Villanueva — "He is one of the best basketball players ever to play the game, but he is aging." — Kyrie Irving's age and injury history as a concern** [06:33](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=393s)
+LeBron James: "After the turn, we are up 6-2, headed to the back nine. We gifted them a double-or-nothing on one of the holes, so they got back into the game a little bit. But you want to talk about your team performance so far?"
 
-Charlie Villanueva: "Kyrie is already in year what? And this is no knock to Kyrie. I love him to death. I think he is one of the best basketball players ever to play the game, but he is aging. He is coming off injury. This is not his first injury. We have seen Kyrie adapt and be like the second guy, but Maxey to me was the first guy."
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3620s
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=393s
+**7. Romeo Travis — "Today's my first time picking up golf clubs in two years, and I was pretty bad." — Romeo Travis on his performance and getting better** [1:01:31](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3691s)
 
-**6. Charlie Villanueva — "They was working on their chemistry, they was all working together, him, James Harden and Joel Embiid." — The chemistry between Joel Embiid, James Harden, and Kyrie Irving** [07:44](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=464s)
+Romeo Travis: "We are getting better as the day goes on. I'm not happy about my performance, but I'm trying. Today's my first time picking up golf clubs in two years, and I was pretty bad. Let's be honest, but I ain't going to give up and I'm going to keep swinging. One of these is going to hit, I don't know when, maybe not today, but one of them is going to hit and we are going to keep swinging."
 
-Charlie Villanueva: "They was working on their chemistry, they was all working together, him, **James Harden** and **Joel Embiid**."
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3691s
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=464s
+**8. LeBron James — "They are pretty much conceded. I mean, it's 10-2. We have 15. I think they are just playing for respect." — LeBron James on the team's competitive spirit** [1:02:44](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3764s)
 
-**7. Theo Pinson — "Maxey is the future. All I am saying is, you cannot tell me you are not confident." — Confidence in Kyrie Irving's impact on a championship team** [13:02](https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=782s)
+LeBron James: "We just got word from the other team that the match is, they pretty much conceded. I mean, it's 10-2. We have 15. I think they are just playing for respect at this point. They are just playing for respect."
 
-Theo Pinson: "Maxey is the future. All I am saying is, you cannot tell me you are not confident in **Kyrie Irving**. If there is one thing, I am having **Kyrie Irving** on my basketball team."
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3764s
 
-https://www.youtube.com/watch?v=6BSktTJ8TuQ&t=782s
+**9. LeBron James — "You got a teammate that's leaving. He came late and he's leaving early." — LeBron James and Randy Mims on team dynamics** [1:02:54](https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3774s)
+
+**LeBron James:** "Who made this decision? You got a teammate that's leaving. He came late and he's leaving early."
+
+**Randy Mims:** "I had to be a father, fellas. I'm sorry about it, man. Daddy duties, man. You know I'll be back."
+
+https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3774s
 
 ---
 

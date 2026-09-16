@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-09-12
-
-## LeBron Plays Golf with the Akron Fab Five — *LeBron James*
+# LeBron Plays Golf with the Akron Fab Five — *LeBron James*
 
 Source: https://www.youtube.com/watch?v=RA4EiRPhzXQ
 
@@ -61,7 +59,3 @@ https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3764s
 **Randy Mims:** "I had to be a father, fellas. I'm sorry about it, man. Daddy duties, man. You know I'll be back."
 
 https://www.youtube.com/watch?v=RA4EiRPhzXQ&t=3774s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

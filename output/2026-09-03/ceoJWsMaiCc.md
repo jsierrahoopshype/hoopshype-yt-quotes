@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-09-03
-
-## Explaining Steph Curry, Ayesha Curry's Charity Impact In Oakland — *Dalton Johnson*
+# Explaining Steph Curry, Ayesha Curry's Charity Impact In Oakland — *Dalton Johnson*
 
 Source: https://www.youtube.com/watch?v=ceoJWsMaiCc
 
@@ -53,7 +51,3 @@ https://www.youtube.com/watch?v=ceoJWsMaiCc&t=224s
 **Christopher Helfrich:** "That was a special moment, Stephen winning the **Muhammad Ali** Humanitarian Award, all for the work that he and Ayesha do in Oakland. To be there with Aneel and get to watch it, it was great and the Currys are the best. It was really nice to see them be recognized and honored for the work that they do literally day in and day out to help Oakland kids."
 
 https://www.youtube.com/watch?v=ceoJWsMaiCc&t=247s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
