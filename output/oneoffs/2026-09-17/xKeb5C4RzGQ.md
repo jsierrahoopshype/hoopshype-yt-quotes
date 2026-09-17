@@ -1,0 +1,47 @@
+# EXCLUSIVE INTERVIEW: Taj Gibson on retirement, coaching career, Derrick Rose & more | By The Horns — *Chicago Sports Network*
+
+Source: https://www.youtube.com/watch?v=xKeb5C4RzGQ
+
+_Speakers identified: Cam Smith, K.C. Johnson, Taj Gibson_
+
+**1. Taj Gibson — "I was just fighting, just trying to stay in the league. I was just trying to prove my teammates that I can outlast them." — Taj Gibson on his decision to retire and join coaching staff** [01:19](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=79s)
+
+Taj Gibson: "For the last four years, I have been blessed to be able to get picked up by different teams, but throughout this whole course, I have been talking to my teammates every day, every other month, just asking them how it feels because most of the teammates I have been around, most of them retired, and I was just fighting, just trying to stay in the league. I was just trying to prove my teammates that I can outlast them. I just about did that, and it was time. I just felt like how Derek and everybody felt, it was time, and they were like, 'Welcome to the side.' It was just a blessing, and having my teammates behind me, even all the years, they are still behind me, and it feels great."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=79s
+
+**2. Taj Gibson — "I always had that itch of just wanting to be a coach one day." — Taj Gibson on his decision to join the Bulls coaching staff** [03:29](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=209s)
+
+Taj Gibson: "First thing first, shout out to **John Paxson**. He has been a great mentor for me for a long time, and all through the years, he would always check on me, 'Are you okay?' I always had that itch of just wanting to be a coach one day, and I was blessed enough to have **Billy Donovan**, the whole staff, and having a long talk with **Thiago Splitter**. My whole thing is I never want to come into a situation and bring the wrong kind of attention or do anything that affects the team. My whole thing was I asked properly, tried to see how I could fit myself in, and from the time in, I tell guys, I am willing to do all the dirty work, and I am just really here to try to help and better myself as a coach."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=209s
+
+**3. Taj Gibson — "The first thing you expect as when you see rookies and young players is go out and play hard." — Taj Gibson on coaching young Bulls players like Caleb Wilson and Matas Buzelis** [09:35](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=575s)
+
+Taj Gibson: "It is like deja vu. When you are that rookie and you come in, and I was explaining to **Karl-Anthony Towns** a while back when we used to watch them as rookies, the first thing you expect as when you see rookies and young players is go out and play hard. When I see our young guys, they play extremely hard, and it is like, man, once we just tweak it a little bit and have them really buying in, it is something special to see. Every day I am in practice, I am just smiling. I am talking a lot of crap and I am smiling."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=575s
+
+**4. Taj Gibson — "I am just so grateful, thank you, Stacy. You were there for us when a lot of people didn't." — Taj Gibson on his mentorship of Moussa Diabate** [11:40](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=700s)
+
+Taj Gibson: "This hearing his name just gives me a little chills and makes me tear up because when you are in this league, you understand the amount of sacrifice a lot of young players make, especially young players that are trying to into the draft, leaving NIL, and their sponsorships from college and doing whatever they have to do, and they are getting to a whole new working system and it is cutthroat. Being around him and just giving him that belief the same way **Kurt Thomas** gave me that belief, the same way **Brad Miller** gave me that belief, and I was just trying to be that vet because in this day and age, we have a lot of young players, and sometimes we don't tend to stop for a second and check on them and check and see how our teammate is doing. So being that vet, you kind of get a chance to be there like that uncle that didn't give the final finish he wanted. And that is kind of how I was giving it to most of the young guys, Moussa, just really drilling it into his head like you have a chance, you can do this, you are a professional, you put the work in every day."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=700s
+
+**5. Taj Gibson — "I grew up watching the New York versus Chicago, those games, and I was always just in tune." — Taj Gibson on his connection to the Chicago community** [13:50](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=830s)
+
+Taj Gibson: "New York is a tough place, but it was fun. It helped me grow, and I grew up watching the New York versus Chicago, those games, and I was always just in tune with just wanting to do something better and try to be there for my community. And by being around great teammates like **Luol Deng**, I will never forget you, Lou. You always gave me those little tidbits about how to help the community, even when we were giving back. Joakim, always teaching me about how to raise money. Whatever we did, we always made sure we gave back to the community, gave back to Chicago, and I always had great teammates that always gave me great jewels."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=830s
+
+**6. Taj Gibson — "I am super proud of his growth in Charlotte and looking forward to talk to him in the future." — Taj Gibson on his relationship with Charles Lee** [17:58](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=1078s)
+
+Taj Gibson: "First thing first, I am going to give a huge shout out to **Charles Lee**. He put me in the game. He didn't have to. I am super proud of his growth in Charlotte and looking forward to talk to him in the future. We were outside, we were, we never really, how do I say that? We love Chicago so much we would be here so much in summers, 24/7, training camp, and we really worked together. Joakim would always set the tone, 'Are we going here? Be there, be square.' And we were together. And when I look into the crowd, a lot of the people that we used to see through the games, we are seeing families, we are seeing little ones now, and we grew up, we kind of grew up together."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=1078s
+
+**7. Taj Gibson — "Stacy King was one hell of a player, one hell of a person, and just to be able to just being around him." — Taj Gibson on the mentorship he received from Stacy King** [24:05](https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=1445s)
+
+Taj Gibson: "First thing first, **Stacy King** was one hell of a player, one hell of a person, and just to be able to just being around him. As I am an older veteran now and I am retired from the game, he gave me so many good jewels. And one thing I was so serious about, he always checked on me, no matter what. Even whatever team I went to, he always tried to give me an interview, tried to keep me involved, tried to just always like, 'Boo, keep your head up, don't worry about it, it's going to pass, don't worry about it.' His voice was so refreshing, and I am just so thankful to be to be have the those moments with him because people don't really understand, like in this league, I realized life is so short. We are so focused on trying to be the best men and get the most out of our profession as we possibly can, but when you are in the mixed of it, you got to sometimes slow down and take advantage and really hug the people that that mean the most."
+
+https://www.youtube.com/watch?v=xKeb5C4RzGQ&t=1445s
