@@ -1,0 +1,267 @@
+# HoopsHype YT Quotes — 2026-09-17
+
+## SUPERSTAR STATUS ⭐️ Where does Jalen Brunson rank among the NBA’s best? | Get Up YouTube Exclusive — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=HTTrJSS0_fQ
+
+_Speakers identified: Vince Goodwill, Bam Adebayo, Bobby Marks, Tim MacMahon_
+
+**1. Tim MacMahon — "I would take Kawhi Leonard. You talk about the reach, you talk about the power." — Tim MacMahon on Kawhi Leonard's defensive and physical dominance** [00:38](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=38s)
+
+Tim MacMahon: "I thought **Tyler Herro** might be getting this kind of trading in before he goes back to Miami for a revenge game. But I would take **Kawhi Leonard**. You talk about the reach, you talk about the power. The boxing gloves are probably bigger than your entire head. And also the problem with boxing Kawhi is we all know rules do not apply to Kawhi, so you definitely would have to protect your cojones because he probably would go below the belt."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=38s
+
+**2. Vince Goodwill — "The easy answer here is Isaiah Stewart because nobody wants to fight more than Isaiah Stewart." — Vince Goodwill on Isaiah Stewart's reputation for fighting** [01:07](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=67s)
+
+Vince Goodwill: "The easy answer here is **Isaiah Stewart** because nobody wants to fight more than **Isaiah Stewart** when there is perceived disrespect, as we've seen as we go back into the way-back machine."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=67s
+
+**3. Tim MacMahon — "He's a top-10 player in the NBA. He's not on that top-top tier." — Tim MacMahon on Jalen Brunson's status as a top-10 player** [03:04](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=184s)
+
+Tim MacMahon: "He's a top-10 player in the NBA. He's not on that top-top tier, but you couldn't have told anybody that after Game 5 in San Antonio when he had 45 points. So, if people want to make an argument for him as a legitimate MVP candidate, you've got that right. But again, I think he is on that second tier of superstars."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=184s
+
+**4. Bobby Marks — "I don't think there's going to be a championship hangover for the New York Knicks." — Bobby Marks on the lack of a championship hangover for the Knicks** [03:57](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=237s)
+
+Bobby Marks: "I don't think there's going to be a championship hangover for the New York Knicks. When Miami goes out and gets **Giannis Antetokounmpo** and Philadelphia goes out and gets **Jalen Brunson** and **LeBron James**, I think that's enough motivation to eliminate the championship hangover for the New York Knicks here."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=237s
+
+**5. Tim MacMahon — "I think the Timberwolves are taking a risk here. I understand what he's saying." — Tim MacMahon on the Timberwolves' risky roster strategy** [04:48](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=288s)
+
+Tim MacMahon: "I think the Timberwolves are taking a risk here. I understand what he's saying. There's no question that this is **Anthony Edwards**' team first and foremost, but listen, there's a lot of things you can say to praise **Anthony Edwards**, I wouldn't put maturity on that list. To have a **Mike Conley**, a **Joe Ingles**, a **Kyle Anderson** in the locker room, those kind of guys, I think the Timberwolves are taking a risk here."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=288s
+
+**6. Tim MacMahon — "The question isn't how is Anthony Edwards going to lead when things are going well." — Tim MacMahon on Anthony Edwards' need to lead by example** [07:27](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=447s)
+
+Tim MacMahon: "The question isn't how is **Anthony Edwards** going to lead when things are going well, but when they're going through rocky stretches. When **Anthony Edwards** has to lead by example and not pick and choose when he's playing defense, when he's playing hard on that end of the floor, those are the questions I have. And then in the same interview we're talking about, Chris Finch brought up not having guys who speak Rudy, who are able to communicate with **Rudy Gobert** and get through that. And again, that's where you get to **Mike Conley**. Forget about the numbers, **Mike Conley**'s impact as a rational adult in that locker room has been immense for the Minnesota Timberwolves over the last few years. I do think they'll miss that."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=447s
+
+**7. Bobby Marks — "I think you're playing with fire. I really do." — Bobby Marks on the urgency of Jalen Duren's contract situation** [09:07](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=547s)
+
+Bobby Marks: "I think you're playing with fire. I really do. I think October 1st is the date to watch here. That's the date that the qualifying offer, $9.6 million, expires. He would still be a restricted free agent here, but that basically goes away. And I think if **Jalen Duren** signs that qualifying offer, which is the last thing you want as a Detroit Pistons front office member, I think the time in Detroit for **Jalen Duren** is going to be less than a year."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=547s
+
+**8. Tim MacMahon — "Their negotiations didn't go very far last year because they were so far apart." — Tim MacMahon on the Pistons' failed contract negotiations with Jalen Duren** [10:06](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=606s)
+
+Tim MacMahon: "Their negotiations didn't go very far last year because they were so far apart, and **Jalen Duren** said, 'Okay, fine, I'll bet on myself.' And his bet paid off. Forget about what happened in the playoffs, and that's part of the conversation, I get it, but he would have signed last year for a lot less than you're trying to get him signed for right now. And so, in that sense, yes, the Pistons' gamble has blown up in their face, and now they've got a real problem that threatens the long-term future of the franchise."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=606s
+
+**9. Bobby Marks — "If he's on a one-year qualifying offer, there's basically one foot out the door." — Bobby Marks on Jalen Duren's potential departure from Detroit** [11:39](https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=699s)
+
+Bobby Marks: "If he's on a one-year qualifying offer, there's basically one foot out the door. I don't care what he'll say at media day or during, or anyone says here. There's an abundance of teams out there that's willing to sign him next summer with cap space. I think Sacramento is probably one of them right now here. But yeah, I think that's the biggest concern is that you're basically just playing out the year on a one-year deal here, and that's, I think if you're Detroit, that's not what you want."
+
+https://www.youtube.com/watch?v=HTTrJSS0_fQ&t=699s
+
+---
+
+## Darrell Armstrong joins the BAHA | Kawhi's CRAZY comments? Magic vs Steph and more — *To The Baha*
+
+Source: https://www.youtube.com/watch?v=G_Dt7CeYdmc
+
+_Speakers identified: Theo Pinson, Raymond Felton, Darrell Armstrong, DeRon Williams_
+
+**1. Darrell Armstrong — "I ran from full court to do a reverse layup. I didn't even know I did that." — Darrell Armstrong explains the 1996 dunk contest rules change** [14:35](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=875s)
+
+**Darrell Armstrong:** "They changed the rules on me. That's when **Michael Jordan** did a cartwheel and dunk. But he won it off a run the court and jump maybe from the three-point line. I ran from full court to do a reverse layup. I didn't even know I did that. I was so tired."
+
+**Theo Pinson:** "Why run it back? Look how tired I am."
+
+**Raymond Felton:** "I would have been on the floor, quiet."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=875s
+
+**2. Darrell Armstrong — Darrell Armstrong on the difficulty of winning an NBA championship** [15:55](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=955s)
+
+**Darrell Armstrong:** "I didn't get to play with **Shaq**, but I was there for like a year and changed with **Shaq**. Then **Dennis Scott**, **Nick Anderson**, and then we're going to keep going to New Orleans. This guy really don't get a lot of credit, but he gets credit, it's Byron Davis. When I joined them, I came off the bench. We had Jamal Mashburn on that team as well. When I joined them, I ran the two-guard when I came in the game. BD would get that ball, get in the lane, and that's the, if you go back and look, that might have been the most threes I took in a season because of the Byron Davis getting to the paint and he just knew he would find you and I was letting it go."
+
+**Theo Pinson:** "We didn't mention him yet."
+
+**Raymond Felton:** "At small forward."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=955s
+
+**3. Darrell Armstrong — "I can dunk, but I wasn't going to be in no dunk contest." — Darrell Armstrong on the 1996 dunk contest performance** [17:15](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1035s)
+
+Darrell Armstrong: "I don't I can't do these I'm not going to lie to you. I can dunk, but I wasn't going to be in no dunk contest. Now, nowadays, it made me feel like, yeah, you shouldn't have been in there. They're doing all that shit going underneath their legs and then I never had to do that in a dunk contest. I kept I remember Dr. J kept saying slow down, slow down. Because I I started thinking, yo, I got to get it. I got to go. I got to get it. And when you when I missed my second dunk, then that that's when I kind of panicked. But it's it's all right, because it it helped me probably make it make it really make it in the NBA. Because I said I'm going to punish everybody, anybody, especially in San Antonio. I'm going to kick their ass."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1035s
+
+**4. Darrell Armstrong — Darrell Armstrong on the 1996 dunk contest reverse layup** [18:15](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1095s)
+
+**Darrell Armstrong:** "He won it off a run the court and jump maybe from the three-point line. I ran from full court to do a reverse layup. I didn't even know I did that. I was so tired. The next year somebody come back and that's when Kenny Smith was like, you know, we're going to show the worst dunks. And he can't do a layup in a dunk contest. And I look and I put English on that thing, too. That's what I did. That was before Shaq and the fool. I got 20 points. And I I think I got more points off the layup than the dunk I made. Man, look at this. I was that's how tired I am."
+
+**DeRon Williams:** "But why you run from full court? You already tired. Why you at half court? I mean, why you full court?"
+
+**Theo Pinson:** "Look at that. Why you run from full court? You already tired. Why you at half court? I mean, why you full court?"
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1095s
+
+**5. Darrell Armstrong — "That's when Michael Finley did a cartwheel and dunk. But he won it off a run." — Darrell Armstrong on the 1996 dunk contest rules** [20:40](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1240s)
+
+Darrell Armstrong: "That's the first year they changed it. Then the next year, it was I say I was was bad. It got even worse. That's when they did the Ferris wheel, where they had to do especially if you was a vertical, jump off the two leg, you got to do a Michael Jordan. You had to imitate on the dunks. All the yeah. That's so stupid. And then they went right back. Okay, okay, okay, DA. Then you had a prop bet. You had a prop. You had a dunk like that? Watch this. Give me the shit. Oh, yeah. Who the fuck is that T-Loo? Yeah, that's T-Loo. Hey, you play with Tracy, too? Oh, yeah. I forgot about that. Oh, I'm sorry. I didn't even name Tracy. My fault. I didn't even name Tracy."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1240s
+
+**6. Darrell Armstrong — "I saw J-Heem in Magic City. And he was sitting there and I said J-Heem, what's up?" — Darrell Armstrong on meeting Michael Jordan** [21:35](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1295s)
+
+Darrell Armstrong: "I saw J-Heem in Magic City. And he was sitting there and I said J-Heem, what's up? He looked at me, he's like, man, I know your face. Boy looked around and said, yo, that's **Darrell Armstrong**. I said J-Heem, you got to take a shot, which he looked like he needed a shot because it looked like he needed to sell an album. He was looking rough. And I told **Steve Smith**, **Steve Smith** said he was looking rough, wasn't it? I said, yeah. I love J-Heem. But I was in that thing just going. I I I hey, what's BMF could have been in there. I didn't know. I was going."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1295s
+
+**7. Darrell Armstrong — "Penny, man, Penny just he just he knew how to win. He knew how to compete." — Darrell Armstrong on playing with Penny Hardaway** [22:38](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1358s)
+
+Darrell Armstrong: "Penny, man, Penny just he just he knew how to win. He knew how to compete. You know, think about it. He got to the NBA Finals with Shaq and he was a pivotal role in that. Right? It's not like he was a guy who didn't play either. He had a pivotal role. Right? It's not like he was a guy who didn't play either. He had a pivotal role. And then Dennis Scott, Nick Anderson, and then we're going to go keep going to New Orleans. This guy really don't get a lot of credit, but he gets credit, it's Byron Davis. When I joined them, I came off the bench. We had Jamal Mashburn on that team as well. When I joined them, I came off the bench. We had Jamal Mashburn on that team as well. And when I joined them, I came off the bench."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1358s
+
+**8. Darrell Armstrong — "Winning a championship means more than anything to me in the NBA." — Darrell Armstrong on the importance of winning an NBA championship** [23:38](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1418s)
+
+Darrell Armstrong: "Winning a championship means more than anything to me in the NBA. And everybody got their own opinion, that's his opinion. But winning a world championship, even just getting there, just imagine all the guys who haven't got there. Oh, hell no. Who's in the Hall of Fame? No, who's in the Hall of Fame? Getting there? Just get, you know how tough that shit is? That's calling me. That's calling me. I didn't go to the sideline. I kept doing another dunk and another dunk. Please find them clips. We we can't play it, we'll get copyright. Oh, that's all right. I'll show them to you, because I I know all the dunks. I missed I missed the rest of them. I made my first, so I'll show you the rest."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1418s
+
+**9. Darrell Armstrong — "Getting to the NBA Finals is the toughest one of the toughest things." — Darrell Armstrong on the difficulty of winning an NBA championship** [24:38](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1478s)
+
+Darrell Armstrong: "Getting to the NBA Finals is the toughest one of the toughest things. You know how hard it is to win an NBA MVP? If you shoot the damn ball all the time, you can No, DA, don't work like that. It don't work like that. Why Luke, why Luke don't got no MVP? Luke is right. Luke has been right there. He been right there. He don't got one. But once again, it's I'm not saying I don't know. I'm not saying it's it's this or that. I'm just saying going to an NBA Finals. You know how hard it is with all all 12 or all 13 guys got to be connected? For sure. Huh? There's guys in the Hall of Fame. And there's other guys who did the work to help them get to the Hall of Fame, but they're not in the Hall of Fame. It's the glue guys. **Lamar Odom** with the Lakers. Would the Lakers won a championship without **Lamar Odom**? No. He's not in the Hall of Fame, but he's got a championship."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1478s
+
+**10. Darrell Armstrong — "Winning a championship is valued. Winning a championship is definitely valued." — Darrell Armstrong on the importance of team success over individual accolades** [26:38](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1598s)
+
+Darrell Armstrong: "Winning a championship is valued. Winning a championship is definitely valued. But also if I would have had an MVP, it would have added too. What? If I if I won an MVP, I'd probably be in the Hall of Fame too. It's not a question. Once again, I'm not saying I'm not saying it's this or that. I'm just saying going to an NBA Finals. You know how hard it is with all all 12 or all 13 guys got to be connected? For sure. Huh? There's guys in the Hall of Fame. And there's other guys who did the work to help them get to the Hall of Fame, but they're not in the Hall of Fame. It's the glue guys. **Lamar Odom** with the Lakers. Would the Lakers won a championship without **Lamar Odom**? No. He's not in the Hall of Fame, but he's got a championship."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=1598s
+
+**11. Theo Pinson — "Who is the better playmaker out of all of them?" — Theo Pinson and Raymond Felton debate the best playmaker** [1:00:03](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3603s)
+
+**Theo Pinson:** "So we basically, who is the better playmaker out of all of them?"
+
+**Raymond Felton:** "Ray. Ray, who is the better playmaker out of all these guys?"
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3603s
+
+**12. Theo Pinson — "Guys to make everybody else better." — Theo Pinson defines what makes a playmaker** [1:00:13](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3613s)
+
+Theo Pinson: "Guys to make everybody else better. Guys to make the other people's job very fucking easy."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3613s
+
+**13. Theo Pinson — "Scoring is not a playmaker." — Theo Pinson argues that scoring is not playmaking** [1:00:20](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3620s)
+
+Theo Pinson: "Scoring is not a playmaker."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3620s
+
+**14. Darrell Armstrong — "Luka got put out of the first round, right?" — Darrell Armstrong on Luka Doncic's draft position** [1:00:29](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3629s)
+
+Darrell Armstrong: "Luka got put out of the first round, right?"
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3629s
+
+**15. Theo Pinson — "You know Luka is a bad motherfucker when he is on that fucking court." — Theo Pinson defends Luka Doncic's talent** [1:00:36](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3636s)
+
+Theo Pinson: "You know Luka is a bad motherfucker when he is on that fucking court."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3636s
+
+**16. Theo Pinson — "There is nothing on a basketball court he cannot do. He is the best." — Theo Pinson claims Luka Doncic is the best point guard in the league** [1:00:56](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3656s)
+
+Theo Pinson: "There is nothing on a basketball court he cannot do. He is the best."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3656s
+
+**17. Darrell Armstrong — "He cannot keep this fucking mouth shut, and that kills the team." — Darrell Armstrong criticizes Luka Doncic's complaining** [1:01:06](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3666s)
+
+Darrell Armstrong: "He cannot keep this fucking mouth shut, and that kills the team."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3666s
+
+**18. Darrell Armstrong — "Jalen and them, all of them, you got to stay off the referees." — Darrell Armstrong on the importance of ignoring referees** [1:02:01](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3721s)
+
+Darrell Armstrong: "When we won the championship in 2011, and the year we lost it, this is when I played with Dallas in 2006. I did not know the guys did this until later, and I did not realize it. They went and talked to **Mark Cuban**. They said, 'Cuban, Jalen and them, all of them, you got to stay off the referees.' You got to stay off the referees. In 2006, Cuban was on the referees. We did not get no calls."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3721s
+
+**19. Theo Pinson — "I want him to do a better job of making guys better." — Theo Pinson on Luka Doncic's need to improve teammates** [1:04:15](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3855s)
+
+Theo Pinson: "I think instead of him looking for his scoring so much and passing when he just has to, instead of just, I want him to do a better job of making guys better."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3855s
+
+**20. Theo Pinson — "Because if Rondo has Paul Pierce and Ray Allen, it's easy to throw that motherfucker over there." — Theo Pinson on the difference between Rondo and Luka** [1:04:38](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3878s)
+
+Theo Pinson: "You cannot compare the two. Because if Rondo has **Paul Pierce** and **Ray Allen**, it's easy to throw that motherfucker over there. I have J-Dub and fucking shooters around me."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3878s
+
+**21. Theo Pinson — "He went to the finals. Was it Luka's fault in the finals?" — Theo Pinson defends Luka Doncic's playoff performance** [1:04:53](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3893s)
+
+Theo Pinson: "He went to the finals. Was it Luka's fault in the finals? You were there. **PJ Washington** was ass in the finals. Derrick Jones was terrible in the finals. Kyrie was not Kyrie in the finals. The reason those guys got to the finals, **PJ Washington** beat the shit out of OKC."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3893s
+
+**22. Theo Pinson — "He still did his job." — Theo Pinson on Luka Doncic's performance against Boston** [1:05:11](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3911s)
+
+Theo Pinson: "He still did his job. Kyrie was averaging 20 plus in every other series except that one. It has been admitted that he not play well. It is a difference when you have guys around you that can come to the party."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3911s
+
+**23. Darrell Armstrong — "It is still about camaraderie. It is about chemistry. You know this." — Darrell Armstrong on team chemistry and Luka Doncic** [1:06:01](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3961s)
+
+Darrell Armstrong: "It is still about camaraderie. It is about chemistry. You know this. Just because Luka go there, that does not mean that shit going to work. They fuck with **Jalen Brunson**, just like a brother. They fuck with **Jalen Brunson**."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3961s
+
+**24. Darrell Armstrong — "Jalen Brunson did not win when he first got to New York, and neither did Luka." — Darrell Armstrong on Jalen Brunson's success in New York** [1:06:20](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3980s)
+
+Darrell Armstrong: "**Jalen Brunson** did not win when he first got to New York, and neither did Luka. He has got to the promised land twice, but he did not do it. **Jalen Brunson** did. So that is why I give him the edge. I am sorry. That is my argument. **Jalen Brunson** went there, and he did not win. He got beat up, he got bumps and bruises in New York, but he won."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=3980s
+
+**25. Darrell Armstrong — "We had a low man. The low man is the, they already pre-rotated." — Darrell Armstrong on the importance of a low man on defense** [1:07:30](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4050s)
+
+Darrell Armstrong: "If Luka and them is playing somebody over there, who's the, what we had, the bigs low. We had a low man. The low man is the, they already pre-rotated."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4050s
+
+**26. Darrell Armstrong — "Magic Johnson averaged 19 and a half for his career." — Darrell Armstrong on Magic Johnson's career stats** [1:08:30](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4110s)
+
+Darrell Armstrong: "**Magic Johnson** averaged 19 and a half for his career. He averaged seven, seven rebounds, he averaged 11 assists for his career. 52 percent from the field, 30 from three, 84 from the free throw line. Score 17,700 points, 10,000 assists, 6,559 rebounds."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4110s
+
+**27. Theo Pinson — "Steph Curry, 24 for his career. Four rebounds, six assists." — Theo Pinson on Stephen Curry's career stats** [1:08:35](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4115s)
+
+Theo Pinson: "Steph Curry, 24 for his career. Four rebounds, six assists. 47 percent from the field goals. Three point percentage, 42 percent for his career, 91 from the free throw line. 26,000 points, 6,743 assists. He has 4,973 rebounds, two MVPs, four championships, and one finals MVP."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4115s
+
+**28. Darrell Armstrong — "For me, Magic. That is the Lester. That is the baddest motherfucker." — Darrell Armstrong chooses Magic Johnson as the greatest point guard** [1:08:44](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4124s)
+
+Darrell Armstrong: "For me, Magic. That is the Lester. That is the baddest motherfucker."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4124s
+
+**29. Darrell Armstrong — "I played two years overseas before I got to the NBA." — Darrell Armstrong on his experience playing in Europe** [1:09:35](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4175s)
+
+Darrell Armstrong: "I played two years overseas before I got to the NBA. They do a great job of the development, and they more mature over there. When I played in Cyprus, Greece, I had kids that was had to go to the army, report to the army at age 16 every Wednesday. So I mean, they they probably more mature over there because all we do here is play AAU every weekend."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4175s
+
+**30. Darrell Armstrong — "Everything was in drill back then. You drill on your own, no cameras, no nothing." — Darrell Armstrong on the difference between US and international development** [1:10:15](https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4215s)
+
+Darrell Armstrong: "Everything was in drill back then. You drill on your own, no cameras, no nothing. But you know, a lot of stuff that the way I got better was I had to play. I played against older guys to to get better as well, to get the nervousness out of me. And then when I finally could play against those guys, when I played against guys my age, it was easy."
+
+https://www.youtube.com/watch?v=G_Dt7CeYdmc&t=4215s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
