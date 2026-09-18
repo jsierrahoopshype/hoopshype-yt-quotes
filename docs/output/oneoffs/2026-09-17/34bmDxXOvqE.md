@@ -1,0 +1,29 @@
+# Is Stephen Curry putting PRESSURE on the Warriors' front office? 👀 + Extension talks | NBA today — *ESPN*
+
+Source: https://www.youtube.com/watch?v=34bmDxXOvqE
+
+_Speakers identified: Chiney Ogwumike, Hannah Storm, Bobby Marks, Kendrick Perkins_
+
+**1. Anthony Slater — "they gave Steph Curry the menu, they walked away for a few weeks and they're allowing Steph" — Warriors front office strategy regarding Steph Curry's contract extension** [00:57](https://www.youtube.com/watch?v=34bmDxXOvqE&t=57s)
+
+Anthony Slater: "The Warriors decision makers made it clear to me in August that they weren't going to negotiate with **Steph Curry** and try to barter with him on the dollar amount. They gave **Steph Curry** the menu, they walked away for a few weeks and they're allowing Steph to look at it. Does he want a one-year max, two-year max? Does he want a potential pay cut? Does he want to wait for cap space purposes? At some point, **Steph Curry** will come back to them and tell them which option he wants. If that option is, hey, let's wait on it, that is because it's about future flexibility. It's not about him testing free agency or thinking about his future. It's about the idea of them having right now theoretically about 100 million in cap space and if he signs the max that's basically cut in half."
+
+https://www.youtube.com/watch?v=34bmDxXOvqE&t=57s
+
+**2. Bobby Marks — "I think for both sides, I think it makes the most sense to wait." — Why the best option for the Warriors is to wait** [03:52](https://www.youtube.com/watch?v=34bmDxXOvqE&t=232s)
+
+Bobby Marks: "I think for both sides, I think it makes the most sense to wait. He's already said he's committed coming back long-term, so the Golden State wants him long-term. But when you look at them financially, they could have anywhere between 45 to 60 million dollars. It depends on what happens with **Kristaps Porzingis**. I think for Golden State, once you sign that extension you're locked in. 65 million in the first year, you're locked into that. Go into the off-season and say, hey, this is the menu of options that we're going to have potentially in free agency. Maybe your number comes down a little bit here. But I do think the option of waiting for both sides makes sense."
+
+https://www.youtube.com/watch?v=34bmDxXOvqE&t=232s
+
+**3. Kendrick Perkins — "Steph Curry is the greatest Bay Area player to ever get his feet hot." — Kendrick Perkins criticizes Warriors front office for roster construction** [05:20](https://www.youtube.com/watch?v=34bmDxXOvqE&t=320s)
+
+Kendrick Perkins: "The Warriors don't have the option to wait on nothing when it comes to **Steph Curry**. **Steph Curry**, and I say this with all due respect to **Willie Mays**, **Barry Bonds**, **Joe Montana**, **Steve Young** and **Jerry Rice**, **Steph Curry** is the greatest Bay Area player to ever get his feet hot. The fact that **Steph Curry** has been riding with them over the last three or four years knowing that he wants to win a championship, to me, what this interview said to me is, **Mike Dunleavy**, you have to do your damn job. Let's be honest, I don't want to keep hearing about reports that the Warriors are in the hunt, the Warriors are in the mix. Why are you not landing them? We're talking about **Steph Curry**. **Mike Dunleavy** has to have some type of accountability to make sure that he put the pieces and do his damn job to surround Steph, Draymond and **Steve Kerr** with a championship roster to be able to compete."
+
+https://www.youtube.com/watch?v=34bmDxXOvqE&t=320s
+
+**4. Bobby Marks — "KAT is going to have to take less money in order for them to be able to sign" — Financial trade-offs for the Knicks to keep Jalen Brunson** [09:42](https://www.youtube.com/watch?v=34bmDxXOvqE&t=582s)
+
+Bobby Marks: "**Karl-Anthony Towns** is going to have to take less money in order for them to be able to sign **Jalen Brunson** and I'm pretty sure **Jalen Brunson** is more of a priority than **Karl-Anthony Towns**. Okay, so let's get that out of the way. But I remember after we won a championship in 2008, Danny Ainge had me in his office and he said, hey, Perk, we want to offer you a contract extension. At the time my agent was Bob Myers and I was making around 4 million a year as a starting center. The value of a starting center was like 10 million. So I'm thinking Danny going to come with some numbers that's going to wild me because everybody else on the starting five was making 10 plus. And so he said, look, you got to learn the value of an organization. When he started there, I knew the number was going to be low. And so he came around the range of like 6 million a year. So I got on the phone with Bob and I was like, we're not taking that. So I knew at that point that I most likely was going to be traded."
+
+https://www.youtube.com/watch?v=34bmDxXOvqE&t=582s

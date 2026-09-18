@@ -1,0 +1,59 @@
+# Davion Mitchell on the Beam Team, Heat Culture & Giannis — *Deuce & Mo: Talking Kings, NBA & WNBA*
+
+Source: https://www.youtube.com/watch?v=PbRBhqY734k
+
+_Speakers identified: Davion Mitchell, Deuce Mason, Morgan Ragan_
+
+**1. Davion Mitchell — "I learned so much from the Kings that just made me who the player I am today." — Davion Mitchell reflects on his growth and learning from the Kings** [01:11](https://www.youtube.com/watch?v=PbRBhqY734k&t=71s)
+
+Davion Mitchell: "A lot of times when you look back on it, even with the Kings, you are like, I wish I went to another team or I wish I got drafted somewhere else. I am a guy who is a believer that everything happens for a reason. I learned so much from the Kings that just made me who the player I am today. Just like the mini camps, me being a leader, also just watching different people. I obviously had **Tyrese Haliburton**, I had **De'Aaron Fox**, like those guys, just watching them, how they run the team or how they do things, I just took a lot of things from everyone. And then **Domantas Sabonis**, how his leadership showed up, just being a guy that was sitting back, just paying attention to everyone because I knew one day I wanted to be in this position and now I am, right? I am the starting point guard, so now I am just trying to be a leader in my own way."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=71s
+
+**2. Davion Mitchell — "My mindset was I want to be in the right situation." — Davion Mitchell on the challenges of being drafted to a team with established guards** [02:32](https://www.youtube.com/watch?v=PbRBhqY734k&t=152s)
+
+Davion Mitchell: "It was super obviously at the draft, you want to hear your name called, your whole family is there. But my mindset was I want to be in the right situation. And me thinking that anywhere else would have been the right situation is kind of selfish. It was a little bit selfish in general because I am in the NBA, it is so hard to make it here. Probability wise, how many people want to play in the NBA, and then they get drafted, I am like, I wish I was back in those moments again and I can just be grateful for just getting drafted, instead of the whole time I am thinking like, I want to go in the right situation, I want to be able to have the ball in my hands, but I just don't know if I would have been ready."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=152s
+
+**3. Davion Mitchell — "I think that beam team just had so many different people who can just do everything." — Davion Mitchell on why the Kings' 'Beam Team' season was special** [04:42](https://www.youtube.com/watch?v=PbRBhqY734k&t=282s)
+
+Davion Mitchell: "I think it is a mix of a lot of things. I think that **De'Aaron Fox** was playing amazing. I think that **Kevin Huerter** was also playing amazing with winning basketball. I think that De'Aaron is in my opinion one of the top guards in the league, so just seeing him playing winning basketball, also seeing him sacrifice a lot of things just for us to win, right? Obviously he knew he was the head of the snake, he had the ball in his hands, but he was also deferring to **Domantas Sabonis**. So Domantas can be who he wanted to be, who Malik Monk can be who he wanted to be. I feel like everyone knew their role, like **Kevin Huerter**, so he can be who he wanted to be. And obviously **Keegan Murray** was young, so we were trying to figure out what was Keegan going to be, and then he just stepped into moments where we needed him, right? And he was so young, but he also learned from just everyone giving him an option just to be yourself. You don't got to be no one else. Be Keegan, you can be the guy that don't speak to nobody right now or don't smile, that is okay. Just be yourself. And just seeing the leadership role from **Harrison Barnes**. And **Javale McGee** was a huge piece when things got rowdy, and **Javale McGee** was a huge piece when things got rowdy, he would say something. It was just a lot of key people on the team that helped out just to make the playoffs."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=282s
+
+**4. Davion Mitchell — "I used to get like super upset thinking about it, even from a year from now." — Davion Mitchell on moving past the heartbreak of Game 7** [08:04](https://www.youtube.com/watch?v=PbRBhqY734k&t=484s)
+
+Davion Mitchell: "I am not going to lie, I used to get like super upset thinking about it, even from a year from now or probably like last summer, and someone says something about Game 7, I would just like immediately just get upset. But I reflected on it, I talked about it, I have had so many like talks with other people about it that like it doesn't bother me. I think that it kind of just made me go harder, made me work harder. I feel like I need to, obviously there is something that I need to work on that I wasn't good enough at to play in this Game 7, so obviously I had to go through the drawing board, see what I need to be better at. And I knew, I knew like I had to shoot the ball better and some of the things I have been working on, I just had to be a better player in general. So I am kind of glad it happened then when I was young, because I learned from it and then work on it and then become the player who I am."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=484s
+
+**5. Davion Mitchell — "Everyone does a conditioning test, but we do a different conditioning test." — Davion Mitchell on Miami Heat culture and conditioning** [12:34](https://www.youtube.com/watch?v=PbRBhqY734k&t=754s)
+
+Davion Mitchell: "I would say last summer was, because we do a conditioning test, everyone does a conditioning test, but we do a different conditioning test. Like people usually do like you got to run 10 times of the court three times, with Miami you got to do it five times. So like it is like we do it on actually on the 24th and I actually had to prepare a little bit. Like I prepared for it like three weeks ago, but today I had to run four of them. I am not going to lie, it is probably one of the hardest things I have done in my life, just because it is like you got to do it in one minute, you got to run it one minute and you only get a two minute break. You got to do it five times."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=754s
+
+**6. Davion Mitchell — "He respected everything that I do because he know I work hard." — Davion Mitchell on how Erik Spoelstra helped him grow** [14:30](https://www.youtube.com/watch?v=PbRBhqY734k&t=870s)
+
+Davion Mitchell: "I would say the beginning of the year of last year, I just wasn't, I was going through a lot mentally, just having a kid, it was a lot going on. And I didn't honestly, I didn't even feel like I was in the best shape the beginning of the year last year. But one thing I did like is like Spo, like he understood that and he like, he respected everything that I do because he know I work hard. People know that I work, but it was a time and the moment where like mentally I was so messed up last year in the summertime that it was kind of hard for me to just be myself even in training camp. There is times in training camp but I didn't even feel like myself. I was just super quiet, I just really wasn't myself. But I respected him because like he still put me out there and he kind of made me like grow. Like he was like made me grow as a player and I was like, I am doing these things and he know I am not really confident so he kind of made me confident in a way. He believed in me, I am like, oh snap my coach really believing in me, like I can really just believe in myself."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=870s
+
+**7. Davion Mitchell — "When you got like someone that's won an championship that's been in the fire before." — Davion Mitchell on the impact of playing with Jimmy Butler and Bam Adebayo** [16:53](https://www.youtube.com/watch?v=PbRBhqY734k&t=1013s)
+
+Davion Mitchell: "It makes my job just like a little bit easier, just because like I know like we have, I am not going to say we didn't have it before, but when you got like someone that's won an championship that's been in the fire before and they want to win just as bad, like it makes my job just easier because now I am like, I am not even worried about this dude go by me, like he is just going to get a lot of lip. I know that someone going to be there have my back, regardless. Obviously we have Bam too, but people knew where to put Bam so he can help. They knew exactly where to put him because they know how good he is defensively. But now you got Jimmy too, it is like, how where you going to put him? They are so athletic and they are so like, they are vets in this league, they understand when to help, when not to help. They just have a better understanding with the game, so the confidence now is just like, I can pick somebody out of bounds and if he blow right by me then I know somebody going to have my back, right? I just know."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=1013s
+
+**8. Davion Mitchell — "For them to become defensive player of the year, they are going to need blocks." — Davion Mitchell on the defensive mindset of the Heat** [18:34](https://www.youtube.com/watch?v=PbRBhqY734k&t=1114s)
+
+Davion Mitchell: "For them to become defensive player of the year, they are going to need blocks. They are going to need like people at the rim because that is how big men win defensive player of the years are getting off of defensive teams by getting blocks. Or altering shots, so I know that for me just run this guy off the line, just be physical enough where he he can't just get a straight line drive and just jump. I know that they want to win defensive player of the year too, just as much as I do, right? It is like I know for a fact that we have this competitive spirit where like, no I am trying to win defensive player of the year, no I am trying to win defensive player of the year, so there is always going to be like someone at the rim I can beat."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=1114s
+
+**9. Davion Mitchell — "Every single time I've been like at the end of the year, we go in there like I just feel like my heart just like it's like started pumping fast." — Davion Mitchell on his relationship with Pat Riley** [22:05](https://www.youtube.com/watch?v=PbRBhqY734k&t=1325s)
+
+Davion Mitchell: "I would say the intimidating part was that the end of the year you go in and **Pat Riley** and you talk to him. And every single time I have been like at the end of the year, we go in there like I just feel like my heart just like it is like started pumping fast. I don't know what it is, I don't know why, I don't know what it is, but it is just like all right like, but when I get in there I talk to him, like he is actually like one of the coolest guys ever, you know what I am saying? Like he will really talk about anything with you, you know what I am saying? And that is what I love about it. But I think the the heat culture thing, when it came from when he when we first met, when we first sat down and talked and he is just talking about my body fat, all right we got to get you down, got to get you down. That literally that was the first conversation. Like we got to get you down and even this like after this season he was like all right, like last year we understand the situation, but this year we got to get you back down. Like you got to get to a certain percentage."
+
+https://www.youtube.com/watch?v=PbRBhqY734k&t=1325s
