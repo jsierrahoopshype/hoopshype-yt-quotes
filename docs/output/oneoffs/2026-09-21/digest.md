@@ -56,4 +56,144 @@ https://www.youtube.com/watch?v=BkNZc9nd5Yo&t=884s
 
 ---
 
+## Tyrese Haliburton on Why Kevin Durant, LeBron James, & Steph Curry’s Respect Matters Most — *Boardroom*
+
+Source: https://www.youtube.com/watch?v=fXOHK6r5XhE
+
+_Speakers identified: Speedy, Tyrese Haliburton_
+
+**1. Tyrese Haliburton — "How does that make you feel?" — Tyrese Haliburton on the emotional challenge of missing the Olympic team** [00:36](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=36s)
+
+Tyrese Haliburton: "When you think about the journey that was making the Olympic team but then not playing and then taking your team to the finals and then losing and then sitting out the entirety of a season, coming back this upcoming season and your very first game not being a nationally televised game, how does that make you feel?"
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=36s
+
+**2. Tyrese Haliburton — "There's not a lot. I'd be lying if I told you there was a lot." — Tyrese Haliburton on the lack of NBA players from Wisconsin** [01:23](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=83s)
+
+Tyrese Haliburton: "There's not a lot. I'd be lying if I told you there was a lot. There's no NBA players from the crib, nobody. The closest is Milwaukee or Madison. **Devin Harris** from Madison, **Latrell Sprewell** from the city, from Milwaukee. But after that, I mean, it gets kind of dark that way."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=83s
+
+**3. Tyrese Haliburton — "It's interesting when you get married and you're an NBA player, it can feel a little like Hollywood." — Tyrese Haliburton on his wedding and the influence of his background** [04:26](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=266s)
+
+Tyrese Haliburton: "It's interesting when you get married and you're an NBA player, it can feel a little like Hollywood or a little big time. But because of where my girl is from and where I'm from, smaller town, she's from a town of 1,500 people, so all get together made it feel very, very Midwest, very at home, which was which was fun."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=266s
+
+**4. Tyrese Haliburton — "50's team called me because 50's my man, so they called me and said, hey, can you make this video?" — Tyrese Haliburton explains the viral video of him congratulating 50 Cent** [05:02](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=302s)
+
+Tyrese Haliburton: "The girl right next to me is my wife and the other two are her best friends. So 50's team called me because 50's my man, so they called me and said, hey, can you make this video for his residency to congratulate him? It's not going to be shown anywhere, it's going to be say whatever, do whatever you want, it's funny. We were on our way to a game when they called me, so I said I could do it after the game. We went out after the game, I completely forgot. So we got home late night and I was like, damn, what could I do that would be funny? And I was a little drunk, I was like this is probably funny. So I sent it to him, I went to sleep. And when I woke up, my phone was blowing up."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=302s
+
+**5. Tyrese Haliburton — "30 minutes, 750 bands. I was shocked. I was like, that's not happening. There's no chance." — Tyrese Haliburton on the high cost of celebrity wedding performers** [06:51](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=411s)
+
+Tyrese Haliburton: "30 minutes, 750 bands. I was shocked. I was like, that's not happening. There's no chance. I'm not going to pay a ticket for half an hour. And I said, yo, I'll pay for all the accommodations. I got you."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=411s
+
+**6. Tyrese Haliburton — "It would have been really cool to get like Neo or Usher, but they don't do weddings." — Tyrese Haliburton on his dream list of wedding performers** [07:15](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=435s)
+
+Tyrese Haliburton: "It would have been really cool to get like **Neo** or **Usher**, but they don't do weddings. I don't know if **Neo** does weddings. If he does, he had a he on tour right now. So that was like out of the out of the picture. I ain't going to say who was trying to whack me 750,000, but there was a few artists that were that were trying to go there and it was no chance that was happening."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=435s
+
+**7. Tyrese Haliburton — "It's an overused word. Is it a thing? Of course it's a thing." — Tyrese Haliburton on why he dislikes the word 'aura'** [10:10](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=610s)
+
+Tyrese Haliburton: "It's an overused word. Is it a thing? Of course it's a thing. You know, sometimes people walk in the room and you're like, damn, they just can command a room. But as a kid, I never thought of that. As a kid, I never thought of to say like, oh my god, LeBron's aura is crazy. I never I never."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=610s
+
+**8. Tyrese Haliburton — "Flying private is a little ridiculous sometimes. But I see dudes fly private who I know I make a lot more money than." — Tyrese Haliburton on the absurdity of flying private** [12:20](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=740s)
+
+Tyrese Haliburton: "Flying private is a little ridiculous sometimes. But I see dudes fly private who I know I make a lot more money than. And I when I was getting these quotes for flying private, I had to call my financial advisor like, am I missing something? Because like for real, like, I know I make way more in this guy and he's flying private all the time, posting on IG, whatever. I can't do that every time. That makes me sick, you know?"
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=740s
+
+**9. Tyrese Haliburton — "I met up with the dude in the parking lot of a Crispy Cream." — Tyrese Haliburton on buying a turntable on Facebook Marketplace** [15:47](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=947s)
+
+Tyrese Haliburton: "I met up with the dude in the parking lot of a Crispy Cream. Sometimes you know, I go on wherever I'm looking at, I see some, I'm like, oh I want it, but that would be financially irresponsible for me to just buy it because I just saw it right there. Why don't we search for a deal? So we go on eBay, I love eBay. I love eBay. It might be one of the best websites in the world to be honest. Go on eBay, but then I got to check Facebook Marketplace just off the strength. I have to."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=947s
+
+**10. Tyrese Haliburton — "First time I met Zach Efron, I was a little nervous." — Tyrese Haliburton on meeting Zach Efron** [21:34](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1294s)
+
+Tyrese Haliburton: "**Joe Jonas**, first time I met **Zach Efron**, I was a little nervous. I was like, we're like, like, my wife, we both love High School Musical. So like we see where the party and we see **Zach Efron**. Damn, we got to go over there, right? And she's like, you got to say something. And I'm like, I'm like, you know like those people like double Dutch, they're like happening. I did that like probably five times before I was like, fucking I'm going."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1294s
+
+**11. Tyrese Haliburton — "You've hooped with Floyd Mayweather before. Is he good?" — Tyrese Haliburton on playing basketball with Floyd Mayweather** [25:52](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1552s)
+
+Tyrese Haliburton: "You've hooped with **Floyd Mayweather** before. Is he good? Yeah, Floyd can hoop. Floyd can hoop, it's funny because like, you know, all of them are, it's all his boys, you know what I'm saying? And so they know like, can't hurt Floyd. So like, don't be bumping him crazy, you know? And he walking in and like, he's Floyd, so he's like, he's with me. Like I'm on I'm on Floyd's team, I'm just like, bet. But I was before I was in the NBA, so there was an expectation that like, I had to get my game off. You know, so I had to get my game off at that time, yeah."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1552s
+
+**12. Tyrese Haliburton — "I feel like Floyd hooping is probably like Obama hooping." — Tyrese Haliburton compares playing against Floyd Mayweather to guarding Barack Obama** [26:31](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1591s)
+
+Tyrese Haliburton: "I feel like Floyd hooping is probably like Obama hooping. Because when Obama used to play, I feel like nobody probably wanted to guard him because they'd be scared to hurt him. Imagine you accidentally go up for a rebound, elbow Obama, cook him on his eye and it's like, oh, I blackened the eye of the president. Yeah, that would be that would be crazy. But they you know, Floyd always tells the story of like his his son, I went to laid up, his son hard fouled me. Floyd stopped the game. He's like, hey man, don't ever do that again."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1591s
+
+**13. Tyrese Haliburton — "Literally a month before that, I ran into him at a restaurant." — Tyrese Haliburton on meeting Jordan Crawford** [27:05](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1625s)
+
+Tyrese Haliburton: "Literally a month before that, I ran into him at a restaurant. And he had no idea who I was, I wasn't even in the NBA yet. I went to say what up, big security stepped in front of me. I was like, ah, this kind of I probably I look like a fan right now, which I am, but it looks a little crazy. So, but then I told Shaad **Jordan Crawford** and his boy, and one of the more I got to know him well at the gym. He was like, what? Come to the boxing gym with me. So I went to the boxing gym and I met him and then we just became cool from there, so it was pretty cool."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1625s
+
+**14. Tyrese Haliburton — "I switched financial advisors recently to work with Frank Zacca and his team." — Tyrese Haliburton on his financial team and partners** [28:04](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1684s)
+
+Tyrese Haliburton: "I switched financial advisors recently to work with **Frank Zacca** and his team who work with Shai, Steph, **Devin Booker**, a lot of different guys. And that gives me, you know, access to do a lot more things that they're doing, which is like really good for me. Something that I've been very appreciative of, but as far as like the business side, like as far as like partners, like Puma is obviously been my biggest partner that's been very special for me over these last couple years. And then, Movado on the watch side has helped me a lot because I was going down a crazy rabbit hole when I signed my deal of like buying a million watches. I was getting ready to do a lot of dumb stuff and signing with Movado grounded me a lot and has allowed me to, you know, they take care of me, so that helps me a lot."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1684s
+
+**15. Tyrese Haliburton — "I bought this like mini tank that I still have to this day." — Tyrese Haliburton on his watch collection** [29:01](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1741s)
+
+Tyrese Haliburton: "When I signed my deal, or actually the year before I signed my deal, I bought a a Prezi. And I was like, oh man, this is like a it was like a high buying it, you know? I needed a watch because everybody got a watch, I don't got anything. It looked kind of crazy. So I got a Prezi. And then after I signed my my deal, I was like, man, I got to get I bought like a I went to the RealReal. Here it goes again, the night I signed my deal. I knew I was going to sign my deal that night. I was like, man, I got to get I'm buying a watch here, I don't know what. And I bought this like mini tank that I still have to this day. I wear it all the time because it takes me back to that. I walked in the RealReal, I was like, I need that one right there."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1741s
+
+**16. Tyrese Haliburton — "I feel like I'm a god, right? We're gods, right?" — Tyrese Haliburton on the emotional impact of the Olympic snub** [30:40](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1840s)
+
+Tyrese Haliburton: "It's both, for sure, right? It definitely is funny looking back on it. In that moment I was like, oh my god, I'm really about to not get no burn out here. And I know social media is going to be having fun with this. So, but at the same time, I was also like, I'm sure KD won't be mad at me saying this, but he, you know, KD is like, I'm a god, right? We're gods, right? He likes to use that word, which is a little crazy, but I understand what he's saying, right? And he said that in that meeting too, he was like, at the end of the day, we 12 gods. You know what I mean? And and I would which is a crazy thing to say. And like, shout out to KD for for thinking like that. That's like an unbelievable mindset. But I was thinking when I got to the room, I was like, I want I want I didn't think I was like a god, but at the same time, I'm on the Olympic team. This is like crazy. You know what I mean? Like, I'm one of the 12 guys that they selected to be on the Olympic team for a reason."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1840s
+
+**17. Tyrese Haliburton — "The first half of the season I was horrible. I didn't make the All-Star game." — Tyrese Haliburton on his injury and the team's playoff run** [33:14](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1994s)
+
+Tyrese Haliburton: "The first half of the season I was horrible. I didn't make the All-Star game. I contemplated taking like a week or two week like mental mental health like break. Like I needed a mental break, reset. I contemplated that. Had some conversations till I realized that I that was probably a little extra, like I didn't need to do all that. Um, it was it was rough, bro. Uh, but I I like switched things started to go well for me. The second half of the year, I made All-NBA. Um, but like, it was it was a there it's just my whole life, people have always had like these these doubts and these like things to say about me and I've always used those that negativity and tried to flip it as best I can. And that's just been a I wouldn't be in the NBA if I didn't approach things that way. I'm a very petty person. My bookmarks are full of nothing but hate and people talking shit. Uh, that's just who I am. So that will never change and the Olympics just added more fuel to the fire, for sure."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=1994s
+
+**18. Tyrese Haliburton — "It's a special thing and an emotional thing to watch guys win a championship." — Tyrese Haliburton on the emotional weight of winning a championship** [39:35](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2375s)
+
+Tyrese Haliburton: "It's a special thing and an emotional thing to watch guys win a championship and then celebrate with their families like, I'm always like, man, that's fire. But when the Knicks won, I thought to myself, I got to turn this shit off. Like I can't I can't watch it. But you know, I told myself, because I was at I was with wifey and some friends back home, back at her hometown, her wedding, and they were like, you want us to turn it off? And I was like, you know what, leave it on. Like let me watch it. And to see like Jalen celebrate with Ally, his wife, who uh like me and my wife are friends with them and Ally and Jader really close. To see that, I was like, that's awesome to see. You know what I mean? Like I was happy for them. To see Josh up there with his twins, like that was cool to see like to see Carl up there with Jordan, that was awesome to see because these are all guys that I like. You know what I'm saying? So it's like, it's a weird feeling because like are they our rivals? Yes. But like are those guys like like I like those guys and like their friends, yeah, at the same time, you know?"
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2375s
+
+**19. Tyrese Haliburton — "I got so many voice memos from Bron during the finals, which was like the craziest thing ever." — Tyrese Haliburton on his injury and the team's playoff performance** [42:12](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2532s)
+
+Tyrese Haliburton: "I got so many voice memos from Bron during the finals, which was like the craziest thing ever. But like the the the tweets that I had ready to tea off after Game 7, the tweets, the what I was going to wear after, all of it was going to be crazy. So, if y'all won, what were you going to say? I don't know. It would have got ugly. I know it would have got really ugly. Because I would have got tweet I know it would have happened, bro. We would have won, we would have celebrated as soon as I touched the locker room. As soon as I touched the locker room, they shooting champagne. I would have grabbed my phone, went right to Twitter and said something. And then and then the problem is if we were drinking champagne and partying and then get on the plane and go home and I'm drunk, and you have time now, it's over. Like it would have been bad with everybody. So sometimes I think that it was like a sign from the Lord like, not yet. Yeah, yeah, yeah, not yet, you know? Uh, so hopefully that time comes because it's going to be ugly. Social media is going to be ugly when that time comes."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2532s
+
+**20. Tyrese Haliburton — "That's what I really value and what I really care about from people that I love." — Tyrese Haliburton values genuine relationships over external validation and respect** [47:11](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2831s)
+
+Tyrese Haliburton: "At the end of the day what I've learned in the last 12 months is it really takes a village to do anything successful. You got to have good people around you. After I got hurt, we realized how many people have actually checked on me, how I'm doing, not just how you doing and keep it pushing. Have came and visited me or whatever. That's what I really value and what I really care about from people that I love and I respect. That's what matters more to me."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2831s
+
+**21. Tyrese Haliburton — "I hope that they respect the man that I am and the person I am." — Haliburton prioritizes personal character over basketball debates and public opinion** [47:11](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2831s)
+
+Tyrese Haliburton: "As a competitor, do I feel like I'll ever get the respect that I deserve? Probably not. But I feel like I view it in a sense of it doesn't really matter because when we're basketball, I can only play for a finite amount of time. And then when I retire, people are going to have debates and it won't really matter because it's all people's opinion and the way that they view the game of basketball. I hope that they respect the man that I am and the person I am. That's what matters more to me."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2831s
+
+**22. Tyrese Haliburton — "If those guys respect me, I don't give a fuck what anybody else thinks." — Haliburton only cares about respect from teammates and NBA legends** [47:11](https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2831s)
+
+Tyrese Haliburton: "As far as a basketball player, you can't please everybody. Everybody's going to have a problem with my game or something that I do. I don't shoot enough, it doesn't look the way it's supposed to look. I don't defend well enough, it could be whatever. I don't care. As long as the people who are my teammates, as long as they respect me, that matters more to me. And the guys who are my superheroes to me growing up, **KD**, **Steph**, **Bron**, go down the line, I feel like they respect me. And in the game of basketball, if those guys respect me, I don't give a fuck what anybody else thinks."
+
+https://www.youtube.com/watch?v=fXOHK6r5XhE&t=2831s
+
+---
+
 <a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
