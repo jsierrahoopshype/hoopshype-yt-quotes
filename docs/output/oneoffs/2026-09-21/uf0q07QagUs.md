@@ -1,0 +1,133 @@
+# Trae Young Opens Up About Leaving Atlanta, Growing Up with MPJ & Being the BEST AAU duo of All Time — *Michael Porter Jr.*
+
+Source: https://www.youtube.com/watch?v=uf0q07QagUs
+
+_Speakers identified: Michael Porter Jr., Trae Young_
+
+**1. Trae Young — "I thought that was the first time we had ever played against each other, seen each other." — Trae Young and Michael Porter Jr. on their first meeting** [01:43](https://www.youtube.com/watch?v=uf0q07QagUs&t=103s)
+
+**Trae Young:** "The earliest I remember, the first time, I thought that was the first time we had ever played against each other, seen each other, was the Nike Elite 100 in St. Louis. I guess we had played against each other in fifth grade, AAU Nationals in Cocoa Beach. You were playing for an Indiana team. You were just a regular guy on that team, but you had some more cold dudes. **Paul George** was the number one player in the country at that time."
+
+**Michael Porter Jr.:** "**Paul George** was the number one player in the country at that time. **Paul George** was a number one player in the country at that time."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=103s
+
+**2. Trae Young — "There were some good guys that we ended up beating and we weren't just beating them by two." — Trae Young and Michael Porter Jr. on their AAU dominance** [03:02](https://www.youtube.com/watch?v=uf0q07QagUs&t=182s)
+
+**Michael Porter Jr.:** "**Paul George** was way ahead of us maturity-wise. He was the five-man on our team, but it was just easy for him. It's so crazy because he went from being the five in fifth grade to the one, but he never grew. Then you had **Chris Wilks** who played at UCLA and **Gary Trent** was in the league. We won Nationals that year. We were the number one team in the country. We were a regular guy on that team."
+
+**Trae Young:** "We were third. We played you, we had you in pool play, and then we played you. We missed you in the Final Four. We lost to **PJ Washington** and them. Oh yeah, they had the green team, right? They were like Texas Celtics or something. They got second and we got third. But there were some good guys that we ended up beating and we weren't just beating them by two or three points. We were beating teams by 30. We beat DeAndre and them. They had some good players on that team. I think we played them in the Final Four. And in the championship, we played Mo Bamba, Quade, **Cole Anthony** and them. They had a squad and you went ballistic that game. Actually, we both had really good games. We were both co-MVP of Peach Jam."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=182s
+
+**3. Trae Young — "He really basically changed my life as far as my mindset and how I think about things." — Trae Young on the impact of Coach Perry** [08:01](https://www.youtube.com/watch?v=uf0q07QagUs&t=481s)
+
+**Trae Young:** "I love **Coach Perry** and I always credit him for basically changing my life as far as my mindset and how I think about things. Understanding that winning takes care of everything. I don't think you necessarily are the number one player in the country if we don't win Peach Jam. You know what I'm saying? It changed both of our lives."
+
+**Michael Porter Jr.:** "**Coach Perry**, the way he prepared us, but then like you said, the winning takes care of everything. If we're not blowing teams out, then I probably don't become the number one player in the country and you're not as highly touted as you became."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=481s
+
+**4. Trae Young — "When we make a mistake, he would just want people to be like, own up to it." — Trae Young on the 'my pushups' rule** [10:35](https://www.youtube.com/watch?v=uf0q07QagUs&t=635s)
+
+Trae Young: "The no pushup, like the 'my bads', people don't even. When I say like, I don't like 'my bads'. I still be talking about that stuff today. Coach Perry didn't like people saying 'my bad'. When we make a mistake, he would just want people to be like, own up to it and move on. Don't raise your hand. He hates people saying 'my bad'. Until this day, I'm kind of the same way. I'm like, we all make mistakes. We're not perfect, none of us are here are perfect, but when you're doing that and saying 'my bad', it's just, I mean, it's just making you think about it more. Just move on and it's just like, little things like that is just things that just stick with me."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=635s
+
+**5. Trae Young — "If I don't have you, I damn sure ain't winning Peach Jam." — Trae Young on the importance of teamwork and shared success** [12:50](https://www.youtube.com/watch?v=uf0q07QagUs&t=770s)
+
+Trae Young: "That's crazy how it all happens, bro. Like, same vice versa. Like, we all need each other, bro. Like, if I don't have you, I damn sure ain't winning Peach Jam. You know what I'm saying? So like, you can't do it alone and so like, all them times, man, we was in them traveling around the world, even after that, like, I was able, we won Peach Jam. If I don't win Peach Jam, I don't make the USA team. And I don't get to go overseas with you and all that stuff and hang out and win a gold medal and all those things. Like, there's so many things that followed that from winning Peach Jam and us doing what we did in high school, that's putting me even to this position today."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=770s
+
+**6. Trae Young — "I'm just a student of the game. I'm always watching and even back then, I was like." — Trae Young on his mindset as a student of the game** [17:58](https://www.youtube.com/watch?v=uf0q07QagUs&t=1078s)
+
+Trae Young: "I'm just a student of the game. I'm always watching and even back then, I was like, how are people just not, they just see he's dunking on people and which is amazing and all that stuff, but like, this has got to, this has got to translate. I'm just a student of the game. I'm always watching and even back then, I was like, how are people just not, they just see he's dunking on people and which is amazing and all that stuff, but like, this has got to, this has got to translate."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=1078s
+
+**7. Trae Young — "I always love seeing everybody around me happy. Like, I can't do something and just be happy." — Trae Young on the importance of passing and team success** [24:43](https://www.youtube.com/watch?v=uf0q07QagUs&t=1483s)
+
+Trae Young: "For me, I've always been that way. Like, I always love seeing everybody around me happy. Like, I can't do something and just be happy by myself. Like, I don't, I don't know if that's something in my body, just, I've just, so I don't know if that's the same way as just getting an assist. You know what I'm saying? Because you score, like, I see you happy and it's making our team win, like it's making us get a bucket, like it's making me happy too. So for me, I've always been about an assist and then if I can get a big man to dunk and make him happy, like, if he can't really score and I can get him the ball and he can score and him feel good about himself, that makes me happy. It's just like, every little thing like that, um, and I think that goes a long way with just in winning."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=1483s
+
+**8. Trae Young — "When I got traded, it was just like, obviously I knew we weren't going to be in a winning situation." — Trae Young on his trade from Atlanta** [29:32](https://www.youtube.com/watch?v=uf0q07QagUs&t=1772s)
+
+**Trae Young:** "When I got traded, it was just like, obviously I knew we weren't going to be in a winning situation and me and you had talked about, I mean, we we'd be talking all the time. We were both trying to get that number one pick. So when when we ended up getting it, um, I was just like, man, if if it's AJ, um, I mean, I know we going to get a real deal player and everything that I thought about about his game before I seen him live and just been around him and being around his dad and his people. Um, I mean, it's it's all been positive and it's all been like what I what I thought it would be like. So I'm looking forward to uh to uh to to actually getting on the court and and going up against some other people, um, for the for first, for sure."
+
+**Michael Porter Jr.:** "I can't wait to play y'all. That's going to be because I ain't I ain't going to do too much talking either, but I think we going to be better than people think too. I'm definitely, y'all definitely going to be better than what y'all been."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=1772s
+
+**9. Trae Young — "Being the worst team in the NBA doesn't really give you a better chance of of getting the number one pick." — Trae Young on the NBA's new draft lottery rules** [31:06](https://www.youtube.com/watch?v=uf0q07QagUs&t=1866s)
+
+Trae Young: "I mean, being the worst team in the NBA doesn't really give you a better chance of of getting the number one pick. It actually lowers your odds now, I think."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=1866s
+
+**10. Trae Young — "I've been put in certain roles and certain positions since since college that like I've just been forced." — Trae Young on his approach to his role and team dynamics** [33:07](https://www.youtube.com/watch?v=uf0q07QagUs&t=1987s)
+
+Trae Young: "I've been put in certain roles and certain positions since since college that like I've just been forced to, I need to do both, you know what I'm saying? I need to do both and and score and also get everybody involved. Um, but like, I'm I'm I'm willing to adapt to whatever situation I'm in."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=1987s
+
+**11. Trae Young — "I've had a lot of great players and a lot of great teammates that in Atlanta." — Trae Young on his experience as a go-to player** [34:44](https://www.youtube.com/watch?v=uf0q07QagUs&t=2084s)
+
+Trae Young: "I've had a lot of great players and a lot of great teammates that in Atlanta. I just, I don't know if I've ever like, I don't know if I've ever had a teammate that can like draw a double team like this. You know what I'm saying? Like, yeah, yeah, yeah, yeah. It's something about having a a player that can or teammate that can draw a double team. Cuz when you're getting doubled, you're throwing it and playing four on three. You know what I'm saying? Like I've I've been the one getting doubled my first nine years in the league. You know what I'm saying? Like, I've been the one getting doubled my first nine years in the league."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=2084s
+
+**12. Trae Young — "Anytime you can draw a double team, like you've done your job and there's not not everybody in the NBA." — Trae Young on the importance of having teammates who can draw double teams** [36:07](https://www.youtube.com/watch?v=uf0q07QagUs&t=2167s)
+
+Trae Young: "Anytime you can draw a double team, like you've done your job and there's not not everybody in the NBA can draw a double team. You know what I'm saying? So we have three guys on our team that can draw a double team and so if you're throwing out of that to to another guy that you you should technically be doubling, it's it's a tough tough dynamic to stop, but you just uh we have to let it let it play out and uh obviously health has to be on our side."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=2167s
+
+**13. Trae Young — "Some people's forms are so broken, you need to check it. Like, you need to go look at somebody." — Trae Young on the importance of shot selection and mechanics** [37:37](https://www.youtube.com/watch?v=uf0q07QagUs&t=2257s)
+
+Trae Young: "I think uh I think it's a mixture of both. Some people's forms are so broken, you need to check it. Like, you need to go look at somebody and be like, yo, this is what I want to do. You know what I'm saying? But some people's form form ain't necessarily broke, you know what I'm saying? And it's different than mine, it's different than yours, it's different than some of these guys, but like they can uh you just got to rep it out. Like I think you got to rep it out. Um, but you you do have to have a certain type of uh I mean, I'm not going to say every, because we we've seen guys like, um, what's my man's name? **Kevin Martin** who used to shoot from a like, we've seen we've seen, even Lonzo, Lonzo's like developed a **Shawn Marion**. Yeah, **Shawn Marion** like it was cash. It was cash sometimes like I'm trying to Even **Tyrese Haliburton** has a has a unique shot. Oh yeah, that shit is cash. Yeah. So it's but it goes in. So it's it's more about the reps and and how many you you get up rather than the form and and all that."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=2257s
+
+**14. Trae Young — "They told me that I pass people open. And it always stuck with me like, I didn't think." — Trae Young on his development as a passer and team player** [39:13](https://www.youtube.com/watch?v=uf0q07QagUs&t=2353s)
+
+Trae Young: "They told me that I pass people open. And it always stuck with me like, I didn't think I was doing that or understand that I was doing that, but it's like a a quarterback when you throwing it to the open space when the receiver is just running and you throwing it, you throwing them open and they just got to run under and get it. It's like, I'm throwing it to a space where you're open. You may not even know that you're open or a lob is there and all you got to do is jump and put it right by the rim. You know what I'm saying? And so I'm I I know how to throw people open and it's hard for people to really understand that until you play with me. So I just I'm excited and just just to play with those guys. And if you don't have a **Chris Paul** throwing you lobs and dunking and doing something else that's loud to keep you on the court, it could really mess with your head."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=2353s
+
+**15. Trae Young — "you get to build the perfect starting five around MPJ, around me, for us to be cold." — Trae Young builds a perfect starting five around Michael Porter Jr.** [1:00:47](https://www.youtube.com/watch?v=uf0q07QagUs&t=3647s)
+
+**Michael Porter Jr.:** "You get to build the perfect starting five around MPJ, around me, for us to be cold. Who would be the five, my point guard, my shooting guard, everybody?"
+
+**Trae Young:** "I will start off, obviously me at the one. Then you got at the two, you talk about just current players? Yeah, current players. I will start with the five. Go back to Denver and have Jokic as the five, man. I will agree. Ooh, shit. Maybe Wembanyama at the four. Maybe Wembanyama at the four. Then we just need another shooter with you. Probably put KD."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=3647s
+
+**16. Trae Young — "I am going to bench Jayson Tatum. Cut Jayson Tatum. You might be the only person." — Trae Young and Michael Porter Jr. discuss their ideal starting five lineup** [1:01:18](https://www.youtube.com/watch?v=uf0q07QagUs&t=3678s)
+
+**Trae Young:** "I will start with the five. Go back to Denver and have Jokic as the five, man. I will agree. Ooh, shit. Maybe Wembanyama at the four. Then we just need another shooter with you. Probably put KD. You, KD, me, Jokic, and then we just need another shooter with you. Probably put **Cade Cunningham**. You, Cade, me, Jokic, and you in the pick and roll, bro, would be so crazy. All right, I am going to do the same thing for you. So, who would it be? You at the one. At the two, we are going to go with a really good two-way player. Now, I am going to give you **Jaylen Brown** at the two. At the three, **Jayson Tatum**. I am going to say myself, because I am going to space the floor when the ball comes my way. I am letting it fly. You are going to love that. At the four, I think it is going to be the same thing, we are going to go back Wembanyama. And then at the five, instead of Nikola, I might go with because we already have so many good scorers, I am not going to go Nikola, I am going to go more because we have Wembanyama, I am going to go more defensive. You can put Wembanyama at the five. I was going to put Wembanyama at your five, but I was going to put Wembanyama at your five, but I am going to go Wembanyama in the five. I am going to bench **Jayson Tatum**. Cut **Jayson Tatum**. You might be the only person."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=3678s
+
+**17. Trae Young — "Wembanyama does a lot defensively. He makes you think, even if he doesn't block it." — Trae Young and Michael Porter Jr. discuss Victor Wembanyama's defensive impact** [1:02:18](https://www.youtube.com/watch?v=uf0q07QagUs&t=3738s)
+
+**Michael Porter Jr.:** "And one thing about the Spurs that makes them so elite, especially defensively, that I noticed when we played them, when I am coming off handoffs or I am coming off of even like a pick and roll or something and Wembanyama is there, he is up to drop. And the only shot that is really available is the mid-range. Because you can't throw the lob because he is up and he is kind of impacting the ball and he is back and he is like, by the time the ball is coming down for the lob, he is already back at the rim."
+
+**Trae Young:** "Yeah, he makes you think, even if he doesn't block it, like he makes you second guess yourself."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=3738s
+
+**18. Trae Young — "I understand the rules. If you was on my team, you would appreciate it." — Trae Young explains his strategy for drawing fouls in the NBA** [1:02:44](https://www.youtube.com/watch?v=uf0q07QagUs&t=3764s)
+
+Trae Young: "I think I understand the rules. If you was on my team, you would appreciate it. My teammates love going and being in the bonus and getting fouled and not letting, I know you can't be just as mad as you want to be at me, you can't be aggressive with me. You can be physical, the NBA is physical. But when you start being overly physical, I use that to my advantage. And at the same time, puts you in foul trouble and it gives us closer to the bonus."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=3764s
+
+**19. Trae Young — "Bismack Biyombo, one of my closest teammates I have ever had. He elbowed him straight across the face." — Trae Young recounts a physical altercation with Bismack Biyombo** [1:03:02](https://www.youtube.com/watch?v=uf0q07QagUs&t=3782s)
+
+**Trae Young:** "**Bismack Biyombo**, one of my closest teammates I have ever had. We were playing actually New York and your new teammate **Jalen Brunson**. He was guarding him on the wing and Bismack did like a sweep through with his elbows across his face and elbowed him straight across the face, right in front of our bench. But the ref was looking, he was right behind Bismack so he didn't see the elbow. And Bismack just moved his head to the right and went straight back. You are selling, yeah, you got to be smart."
+
+**Michael Porter Jr.:** "You are selling, yeah, you got to be smart."
+
+https://www.youtube.com/watch?v=uf0q07QagUs&t=3782s
