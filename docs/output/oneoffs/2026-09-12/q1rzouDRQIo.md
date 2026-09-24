@@ -1,0 +1,67 @@
+# 【Diamond Pod #1】 with Ettore Messina — *名古屋ダイヤモンドドルフィンズ*
+
+Source: https://www.youtube.com/watch?v=q1rzouDRQIo
+
+_Speakers identified: Reo Onishi, Roy Rana, Ettore Messina_
+
+**1. Ettore Messina — "We had multiple occasion to talk basketball, to share opinion, to share visions." — Ettore Messina and Roy Rana's shared history coaching Spurs Summer League** [02:02](https://www.youtube.com/watch?v=q1rzouDRQIo&t=122s)
+
+**Ettore Messina:** "We got probably close when you were every summer working with the Summer League team of the Spurs. We had multiple occasion to talk basketball, to share opinion, to share visions. And when we were at the Summer League after, when I was working in Milano the last seven years, we were always having our coffee moments in Vegas before going to the games or to practices."
+
+**Roy Rana:** "I not only was a regular in Summer League, but I tried to be around the Spurs as much as I can. And part of that reason, to be honest, was to get my hands on Coach Messina and try to pick his brain and learn because a coach like it's an incredible honor that you're here."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=122s
+
+**2. Ettore Messina — "Very detailed and very organized, very precise in what he was doing." — Ettore Messina on Roy Rana's coaching style and attention to detail** [03:44](https://www.youtube.com/watch?v=q1rzouDRQIo&t=224s)
+
+Ettore Messina: "Very detailed and very organized, very precise in what he was doing. I remember a very interesting practice session that I watched when he was building the shell drill for defense, when you put together four players and you teach them the rotations. You can do those things like if it's always the same soup, or you can steal one or two or three small different details from what you usually do that can improve your own way of teaching the same thing. And when I have the opportunity to find somebody that gives me the opportunity to steal something, I am thankful, but at the same time, that increased my respect and consideration for the person that I'm watching live on the court."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=224s
+
+**3. Ettore Messina — "With this desire of going faster and shooting more threes, it's a crucial point of focus." — Ettore Messina on the importance of pace and shot selection** [06:38](https://www.youtube.com/watch?v=q1rzouDRQIo&t=398s)
+
+Ettore Messina: "With this desire of going faster and shooting more threes, it's a crucial point of focus so that the game doesn't go out of your hands. Otherwise, it becomes a wild succession of shots and you lose perspective of the shots that are good shots and those that are bad shots. And this is the reason why a lot of teams that try to play fast, at the same time they realize that especially in high-pressure games, they lose themselves, and maybe even big lead that they build, because they do not have a feel for when to shoot considering time and score. Beginning of the game, first quarter, second quarter, third quarter, it's one thing, but especially the fourth quarter in a close game, it's a completely different thing."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=398s
+
+**4. Ettore Messina — "The team that wants to win have to find a way to address the close game situation." — Ettore Messina on how modern pace affects average teams** [07:57](https://www.youtube.com/watch?v=q1rzouDRQIo&t=477s)
+
+Ettore Messina: "It has changed for the average team and below average team. The team that wants to win have to find a way to address the close game situation. And I remember vividly that when we were playing, with the Spurs, we were always our most important opponent were the Golden State Warriors, especially the years when they also had obviously Stephen Curry, Klay Thompson, Draymond Green, but they had Kevin Durant, Andre Iguodala. They were playing fast and shooting a lot of threes, but they also had moments where they were passing the ball and had multiple ball reversals. And so I studied them, and I discussed with the group, with the staff, one thing that for me was important: if both teams play the same pace, everything can be more balanced. But if one team is smart enough to keep you on defense in some specific moment of the game, and you otherwise do the opposite, at the end of the day, you have the ball in your hands much less than your opponent, and you played much more defense than your opponent."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=477s
+
+**5. Ettore Messina — "Now college basketball because of the NIL, because of all the huge money that they put." — Ettore Messina on the impact of NIL on college basketball** [12:13](https://www.youtube.com/watch?v=q1rzouDRQIo&t=733s)
+
+Ettore Messina: "Now college basketball because of the NIL, because of all the huge money that they put to sign players, because of the magnitude of their level, the business and whatever, we are focusing a little bit more in watching college basketball. And obviously professional basketball is different. But in college basketball, it used to be Coach Smith, Coach Knight, and many other great coaches, Coach K, there was a lot of passing game, moving the ball. Clock back then was 45 seconds, then they cut it down to 34. And so in the last years, because of the influence of the NBA, college basketball was going faster, shooting more threes and whatever, but still they have maintained, I think, a fair identity in trying to move the ball a little bit more."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=733s
+
+**6. Ettore Messina — "I tried to be as prepared as possible. I didn't want to show that I was prepared." — Ettore Messina on the importance of being prepared as a young coach** [16:17](https://www.youtube.com/watch?v=q1rzouDRQIo&t=977s)
+
+Ettore Messina: "I tried to be as prepared as possible. I didn't want to show that I was prepared, but I just want to be prepared not to say something that was not the right thing to say, whether I was showing a drill or making a correction or giving a suggestion to my head coach or to a player during the game. And so I tried my best, and I was fortunate even there, because a couple of these players helped me showing me, showing the others that they were respecting me."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=977s
+
+**7. Ettore Messina — "You need to be lucky to receive an opportunity. I was appointed a young coach at 17." — Ettore Messina on the importance of being given an opportunity** [17:27](https://www.youtube.com/watch?v=q1rzouDRQIo&t=1047s)
+
+Ettore Messina: "You need to be lucky to receive an opportunity. I was appointed a young coach at 17. At 29, I was offered to be the head coach of Virtus Bologna after six years as an assistant. At 33, I was named the Italian national coach. I would have not probably offered me that those positions if I were on the other side of the table. Now, did they see something in myself that I could not see? I have no idea. They were maybe brave in doing that, they were bold, they were stupid, I have no idea. I know that it worked out. We were both fortunate, those who gave me that opportunity and myself, of course. But you can be as good as you want in your job, in Coach Rana's job, in if you are an architect or a surgeon or whatever, you can be as good as you want, but if somebody doesn't give you an opportunity to display your talent, we know Coach Roy and I, I think a tone of very good coaches that never had a good team in their in their career."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=1047s
+
+**8. Ettore Messina — "You need in your team somebody that when you get out of the locker room." — Ettore Messina on the importance of having a supportive head coach** [19:57](https://www.youtube.com/watch?v=q1rzouDRQIo&t=1197s)
+
+Ettore Messina: "You need in your team somebody that when you get out of the locker room and maybe you have yelled to the team or you have made a point, you need somebody who says that you are right. Because if you leave the room and everybody is silent, or at the worst somebody says, ah, well, we were set, you're done. You're done. So, big long story short, people come to the games because of the players who are the actors. You don't go to the movie because you know the director. You go to the movie because you know the actor. You know, you want George Clooney, Julia Roberts, Robert De Niro, Al Pacino, okay? Then if the director is Stanley Kubrick or whoever you want, then it's even better. But if the actors, it's me, you and Coach Rana, even if the director is Stanley Kubrick, okay, you think a little bit before buying the ticket. Correct or not? That's the way it is."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=1197s
+
+**9. Ettore Messina — "A big thing for for Wembanyama now is just strength and balance, right?" — Ettore Messina on Victor Wembanyama's need for strength and balance** [21:47](https://www.youtube.com/watch?v=q1rzouDRQIo&t=1307s)
+
+Ettore Messina: "A big thing for for Wembanyama now is just strength and balance, right? Because he is so tall and he is so long that at times he kind of gets pushed off the ball or he's in awkward positions. You get a little worried about the way his body contorts. So I think it's more of a physical thing for him than necessarily anything else, for me."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=1307s
+
+**10. Ettore Messina — "You put a head balance before strength. Strength is important for sure." — Ettore Messina on the importance of balance over strength** [22:18](https://www.youtube.com/watch?v=q1rzouDRQIo&t=1338s)
+
+Ettore Messina: "You put a head balance before strength. Strength is important for sure, and every year he's gaining a little bit of muscles, a little bit of power, whatever. But balance is the key. Two feet, you know, lower your leg, become a little bit wider, absorb the contact, all those kind of things, because I think he should not, let's say, give up that part of the game because to go more on the line, it's a key for him to score a couple of easy buckets. Otherwise, you depend on your jump shot. And even if he has improved incredibly, but still to win, you you need your two 20 whatever, especially against the switches. And he did it I think very well against Oklahoma. Or in Oklahoma, he especially in game seven, he was using the duck-in move and, you know, those those situation where you can put your body on people and go score. Probably, the Knicks more mature team, more physical team, and gave him a harder time in doing that. So, as Coach was saying, just focus on that and I'm sure they are all doing this kind of things and and focusing him on that."
+
+https://www.youtube.com/watch?v=q1rzouDRQIo&t=1338s
