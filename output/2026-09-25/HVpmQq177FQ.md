@@ -1,0 +1,65 @@
+# Keyshawn Johnson: LeBron's Exit, Fake NFL Players & The Playboy Mansion — *ALL THE SMOKE*
+
+Source: https://www.youtube.com/watch?v=HVpmQq177FQ
+
+_Speakers identified: Matt Barnes, Stephen Jackson, Keyshawn Johnson_
+
+**1. Keyshawn Johnson — "I started off when I left the field, I started off on Monday Night Countdown. So I'm working with Boomer, Tom Jackson and everybody, the big bosses." — Keyshawn Johnson on his career path from the NFL to media** [00:36](https://www.youtube.com/watch?v=HVpmQq177FQ&t=36s)
+
+Keyshawn Johnson: "To be honest with you, I had every stop I've had fun, whether it was at ESPN. I did so much. I started off when I left the field, I started off on Monday Night Countdown. So I'm working with **Boomer**, **Tom Jackson** and everybody, the big bosses. I was with them, we had a 10-year run. Then we got a smart-ass executive that got really, really smart, so he's going to come and break up the crew. He was real smart. I'm going to get rid of this guy and this guy. So smart. So smart. Ain't been the same since. Even though they want to try to say it is, it ain't been the same since."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=36s
+
+**2. Keyshawn Johnson — "Then I came back out West and I was doing stuff for the LAPC and television and they started the regional radio." — Keyshawn Johnson on his career transition to national television** [01:00](https://www.youtube.com/watch?v=HVpmQq177FQ&t=60s)
+
+Keyshawn Johnson: "Then I came back out West and I was doing stuff for the LAPC and television and they started the regional radio and they wanted me to do that. So I did that. Then after that, they grabbed me from the regional radio and brought it to the national spotlight and I was doing that for ESPN along with a whole bunch of other shit. And then from there, you know, they put you through the car wash. They try to get you to do a lot of different stuff, which was cool because, you know, they took care of me. I wasn't really tripping. And then from there, I moved around a little bit more. Then they decided they wanted to do something different with the mouse. I was like, okay, cool. Then I go over to Fox real quick, then I start over there with Skip, and then they decided they want to do something different with Skip. And then all of a sudden, I go over to the to the Speak and got that cracking. Me and **Paul** and **Joey** had a cracking. You know, that was a fun cast. I that's kind of how I think and visualize how we going to be because those are like hometown type people, you know what I'm saying?"
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=60s
+
+**3. Keyshawn Johnson — "I go to the sports bars on Sunday and I'm at the sports bar basically from 10:00 a.m. to halftime of the night game." — Keyshawn Johnson on his routine at sports bars on Sundays** [02:42](https://www.youtube.com/watch?v=HVpmQq177FQ&t=162s)
+
+Keyshawn Johnson: "I tell people this all the time because they be tripping how I go to the sports bars on Sunday and I'm at the sports bar basically from 10:00 a.m. to halftime of the night game with whoever, you know what I mean? They come and we just watching the games there. But I didn't get that feeling until I was removed from working on the weekends. So once I wasn't working on the weekends, I now, I'm like, damn, because if you go back to college, go back to high school, we play on a Friday night, we met on Saturdays after the game, then we worked out on Saturdays and if there was a USC, a UCLA game in town because we was recruits, we got tickets, we would go to the game. Otherwise, nothing, right? Hang out, whatever. Then you go to college, you play on Saturdays, you traveling, your weekend is shot. Now I go to the NFL, it's all weekend, right? Ain't nothing there. Then I move from football to weekend television, so I never had my weekends, never had an off day. So really the first time I had off time during a season was just this past August. That was the first time I ever. So I like, man, really like working non-stop."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=162s
+
+**4. Keyshawn Johnson — "I was betting on Donovan Mitchell last year during the season and I don't know what I was thinking." — Keyshawn Johnson on Donovan Mitchell's load management last season** [09:43](https://www.youtube.com/watch?v=HVpmQq177FQ&t=583s)
+
+Keyshawn Johnson: "I was betting on **Donovan Mitchell** last year during the season and I don't know what I was thinking. I'm like, man, seriously? Like you not going to play tonight? Like you really you not going to play? Or you really you gave me 35 two nights ago and you just gave me six. And I just took you over on the prop, you know, but that's what happens. Living and learn. No, you living and learn. It's different than football though. Football season is here, man, it's exciting. Um, every game is much more important because if you get behind the sticks, you might as well count the Christmas and start looking to go to Cancun or wherever your vacation time going to be. Because once that that happens, you know by midway, if you a playoff team, you going to know by week nine if you got a real shot. You going to know by week nine."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=583s
+
+**5. Keyshawn Johnson — "I'm asking you though. I'm the legitimate shot. You know they quiet this year." — Keyshawn Johnson on the Cleveland Browns' playoff chances** [10:43](https://www.youtube.com/watch?v=HVpmQq177FQ&t=643s)
+
+Keyshawn Johnson: "I'm asking you though. I'm the legitimate shot. You know they quiet this year. Jerry ain't been talking. That's a good thing. It's quiet. It's like, shh, don't say nothing. Their fans are still talking, though. They full of shit. Louder than the motherfucker. I can't help it. I think they do. I think they do. I think they got a shot. You know, I think they got a shot because it's quiet. And I like that they got Quinn Williams and Kenny Clark, you know, on the defensive because the defense really been a major problem for them. But I think I think they going to be okay as far as that goes. They obviously got the receivers, they got the quarterback, you know, tie in, they got the offensive line. Over shown is back. They got some cool stuff."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=643s
+
+**6. Keyshawn Johnson — "My mom worked in the Olympics in 84. She was a supervisor of the village across the street from USC." — Keyshawn Johnson on his mother's work at the 1984 Olympics** [14:09](https://www.youtube.com/watch?v=HVpmQq177FQ&t=849s)
+
+Keyshawn Johnson: "My mom worked in the Olympics in 84. She was a supervisor of the village across the street from USC where a lot of the athletes stayed and staged. She was the supervisor of the the the housekeeping shit during that. That's the only thing I really remember, other than I saw **Michael Jordan** for the first time. Uh, I think I saw him, it was Michael, Patrick Ewing, uh, I feel like it was David Robinson, but I could be wrong. But they I I I remember seeing them in the in the little village area because I was over there. That's dope."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=849s
+
+**7. Keyshawn Johnson — "I ain't in the boxing no more. I've been to two boxing deals in my entire life." — Keyshawn Johnson on his lack of interest in boxing** [15:03](https://www.youtube.com/watch?v=HVpmQq177FQ&t=903s)
+
+Keyshawn Johnson: "I ain't in the boxing no more. I've been to two boxing deals in my entire life. I just for some reason I can't get into it. I think if **Mike Tyson** was to fight again, I probably watch it. You know what I mean? And if you told me bet on Tyson, I probably bet on it. Because I'm I'm one of them dudes that's stuck. I still believe he can win, you know. I'm one of them dudes, but I just boxing really never been my thing, man. I just, you know, I watched **Roy Jones** one time in New York and I watched uh my boy **Michael Grant** one time get knocked out by uh **Lennox Lewis** and I just ain't been there since."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=903s
+
+**8. Keyshawn Johnson — "I was a showtime type of nigga. I belong out there with the stars and all that." — Keyshawn Johnson on his past desire to play for the Lakers** [16:40](https://www.youtube.com/watch?v=HVpmQq177FQ&t=1000s)
+
+Keyshawn Johnson: "I was a showtime type of nigga. I belong out there with the stars and all that. Okay, I'm just I'm just saying though. The hate got to come from somewhere. Yeah, it got to come from somewhere. It got to come from somewhere. Because I tell people all the time, Matt, I say, it's the same thing with USC or UCLA in basketball only. If UCLA want you in basketball, you most likely going to go there. If you tell them, eh, well, no, I'm going to go over here because they really didn't want you. They were recruiting you, but they didn't close the deal because they really didn't want you. And that's how I feel about USC football. If we really want you, we going to get you. I don't care about sending no letters. That's the way I feel about the Lakers. A lot of people, oh, Lakers can't get this person. Lakers really didn't want that dude. If they really wanted him in free agency, the motherfucker was going to sign."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=1000s
+
+**9. Keyshawn Johnson — "Luke Walton was cool, but we needed him to do a certain role." — Keyshawn Johnson on Luke Walton's role on the Lakers** [17:42](https://www.youtube.com/watch?v=HVpmQq177FQ&t=1062s)
+
+Keyshawn Johnson: "**Luke Walton** was cool, but we needed him to do a certain role. I didn't mean to just throw him under the bus, he a cool dude, but you just had to admit to somebody and I can name a couple other people on their team. But it's stacks. Come on, you got to be serious. I was asked the question. I understand that, but let's be serious, though. He was a role player. He was cool for what he did. He didn't walk around like a role player. Yeah, I can't do nothing with his mental. That's him. That's his last name. That's the competitive we had, you know what I'm saying? As players, like you not good to me. I don't care if you got the Laker uniform, you still trade. No, I get it. I understand that. But he wasn't considered, as far as I'm concerned, he was a guy that was just on the team with a number. He wasn't considered like, I'm not going to the game to watch no damn **Luke Walton**. Not at all. No, you know what I mean? I'm going to watch the visitors before I go watch him. Not at all."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=1062s
+
+**10. Keyshawn Johnson — "I think they going to be all right. They'll make the playoffs, they'll make the playoffs because of Mookie." — Keyshawn Johnson on the Dodgers' playoff prospects** [20:56](https://www.youtube.com/watch?v=HVpmQq177FQ&t=1256s)
+
+Keyshawn Johnson: "I think they going to be all right. They'll make the playoffs, they'll make the playoffs because of Mookie. Cameron Carr got them bunnies. Yeah, yeah, when you be but I but the question should have been at what level? Are they at 9, 8, 7? Like where they going to be? They playing, or they That's what I'm saying. Like I don't think they going to be in the top five. They going to make the playoffs. Top five seedings. I don't think so. I think they going to be at the back end. Play in? If you want to call it that. Because I call it I call it playoffs. I call it playoffs. Y'all call it play in. I call it playoffs. Well, they got the play in to get in the playoffs. That's because they're saying it's the playoffs, but in reality, that is the playoffs. It's just a shorter version of it. It's a football version of it. That's all. Win or go home. Yeah, that's all. That's all it is."
+
+https://www.youtube.com/watch?v=HVpmQq177FQ&t=1256s
