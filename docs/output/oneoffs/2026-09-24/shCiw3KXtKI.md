@@ -1,0 +1,37 @@
+# Who Are You Beyond The Game? | J.R. Smith, Charles Oakley, Za'Darius Smith & Justin Tinsley — *BETNetworks*
+
+Source: https://www.youtube.com/watch?v=shCiw3KXtKI
+
+_Speakers identified: Za'Darius Smith, Justin Tinsley, Brian McIntosh, J.R. Smith, Charles Oakley_
+
+**1. Justin Tinsley — "we do have a high standard that we have to protect our players as media." — Justin Tinsley on the responsibility of media to protect players** [03:36](https://www.youtube.com/watch?v=shCiw3KXtKI&t=216s)
+
+**Justin Tinsley:** "We are in a time right now where we have to give these opinions. That's what the algorithm wants. They want you to give these takes when somebody has a bad game. But I do feel like as black media, because we live in this social era and everything is so easy and accessible, we do have a high standard that we have to protect our players as media."
+
+**J.R. Smith:** "For me personally, the media situation is very blurry. You have an extremely accomplished journalist, and then you have somebody like myself who has a podcast, who has an opinion, who just gets labeled as media. Jamal, Steve, they are journalists. Me personally, I'm just somebody who gives an opinion about the game that I played or even the game I didn't play."
+
+https://www.youtube.com/watch?v=shCiw3KXtKI&t=216s
+
+**2. Charles Oakley — "I don't think they should have podcasts during season. That's hurting the game." — Charles Oakley on why active players shouldn't have podcasts** [08:14](https://www.youtube.com/watch?v=shCiw3KXtKI&t=494s)
+
+**Charles Oakley:** "I don't think they should have podcasts during season. That's hurting the game. It's really hurting the game. The commission just solved, I don't know when he going to pull his pants up and let the guys know what's hey, you cannot do that. You got to get some rules. That's why the NBA is roller coaster for us. This guy, that guy, this guy tough. I know none of them tough. It's a European league now."
+
+**Justin Tinsley:** "It's like the NBA, Draymond, a few other guys. I don't think they should have podcasts during season."
+
+https://www.youtube.com/watch?v=shCiw3KXtKI&t=494s
+
+**3. Justin Tinsley — "the media always is steering like the single mom story, not really even if you grew up with both parents." — Justin Tinsley on the media narrative surrounding black fathers in the NBA** [13:12](https://www.youtube.com/watch?v=shCiw3KXtKI&t=792s)
+
+**Justin Tinsley:** "I'm not sure if you guys saw **Dwyane Wade**'s father and **Jayson Tatum**'s father sat down on a podcast, and they talked about the narrative that the NBA is doing where they try to dim the light on the black fathers being involved with the players. They kind of the media always is steering like the single mom story, not really even if you grew up with both parents. They asked him to step to the side so **Dwyane Wade** could take a picture with his mother, to kind of portray this picture of, you know, he by himself, she by herself, she doesn't have any help."
+
+**J.R. Smith:** "My pops was doing construction when I was in high school. He had his own construction business. In the summers, I used to go work with him. That's how I knew I wasn't I was going to make it. I was going to make it in basketball, football, so I'm not doing this. I'm getting up at 5:30, I'm not leaving here till 6:00. I got to do something else."
+
+https://www.youtube.com/watch?v=shCiw3KXtKI&t=792s
+
+**4. Justin Tinsley — "he thinks he's the smartest person in the room." — Justin Tinsley on Jaylen Brown's public stance against his trade rumors** [22:20](https://www.youtube.com/watch?v=shCiw3KXtKI&t=1340s)
+
+**Justin Tinsley:** "That's why I appreciate athletes like **Jaylen Brown** and his created his own platform on Twitch where he's speaking out. And it's funny because you know, he spoke out the other day and it's like, you know, these reports were coming out this summer as he was getting traded to Philly as, you know, he's difficult, he's a disease in the locker room. He thinks he's the smartest person in the room."
+
+**J.R. Smith:** "He played the game. I mean, played the right way all year. He put the team in a place last year to make the playoff without the your main, you know, Taylor. So, Brown he carried the whole team."
+
+https://www.youtube.com/watch?v=shCiw3KXtKI&t=1340s
