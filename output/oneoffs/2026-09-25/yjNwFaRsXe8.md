@@ -1,0 +1,91 @@
+# INSIDE TYRESE HALIBURTON & TRICK WILLIAMS’ WWE CONNECTION 👀🔥 — *SLAM*
+
+Source: https://www.youtube.com/watch?v=yjNwFaRsXe8
+
+_Speakers identified: Kazeem Famuyide, Trick Williams, Tyrese Haliburton_
+
+**1. Tyrese Haliburton — "The way I got hurt is like, you're almost at the mountaintop and then like the next day you're at the bottom." — Tyrese Haliburton on the mental challenge of recovering from injury** [00:19](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=19s)
+
+Tyrese Haliburton: "The way I got hurt is like, you're almost at the mountaintop and then like the next day you're at the bottom. That's respect that I got to earn again."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=19s
+
+**2. Trick Williams — "You got to talk. Communication. You got to communicate. There's no plan B. You got to figure this out every day." — Trick Williams and Tyrese Haliburton on the importance of communication in marriage** [01:33](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=93s)
+
+**Trick Williams:** "You got to talk. Communication. You got to communicate. There's no plan B. You got to figure this out every day. So that's kind of cool, you got to commit, and I like that. That's why we here."
+
+**Tyrese Haliburton:** "Whenever I talk to other athletes or something, I always talk about your communication is never good enough. There's always another level to get to there, and there's nobody I communicate with more than my wife and trying to, whatever arguments, whatever there is, let's communicate, get through it. And that helps me not only in life, but obviously in my profession, everything I do."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=93s
+
+**3. Trick Williams — "My boy is a natural. You can tell that he studies the product that he's been watching for a very, very long time." — Trick Williams on Tyrese Haliburton's natural ability as a WWE performer** [02:50](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=170s)
+
+Trick Williams: "My boy is a natural. You can tell that he studies the product that he's been watching for a very, very long time, because when the lights are on, he doesn't choke. It's cool to see him in his element, and he has history in the garden too, so that was pretty cool too."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=170s
+
+**4. Tyrese Haliburton — "When you're a celebrity, half the fans are excited and half the fans are pissed that you're there." — Tyrese Haliburton on the challenge of being a celebrity fan in WWE** [03:38](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=218s)
+
+Tyrese Haliburton: "When you're a celebrity, half the fans are excited and half the fans are pissed that you're there. You try to show like, I'm one of y'all, I'm a fan of the product. I didn't just get brought here for celebrity involvement, it's because I actually have something to promote and pitch. I just love it, exactly. When I go, I just try to be as organic and as authentic as I can, and WWE's done a great job of allowing me to do that."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=218s
+
+**5. Tyrese Haliburton — "I didn't know who was going to come out the East, but it didn't surprise me that it was the Knicks." — Tyrese Haliburton on using the Knicks' playoff success as motivation** [06:05](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=365s)
+
+Tyrese Haliburton: "I didn't know who was going to come out the East, but it didn't surprise me that it was the Knicks. They were rolling, especially after that first round, they were just a runaway train from there. It's a mix of emotions because yes, the Knicks are rivals and the Knicks and the Pacers, there's a lot of bad blood in the organizations and I want to beat them every time. But it's interesting because those guys are like friends at the same time. To see **Jalen Brunson** and **Josh Hart** celebrate with their families, that was cool to see."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=365s
+
+**6. Trick Williams — "The Rock is the one person who, when I decided I'm going to pursue wrestling, I would watch his promos." — Trick Williams on his motivation to reach the level of The Rock** [07:48](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=468s)
+
+Trick Williams: "**The Rock** is the one person who, when I decided I'm going to pursue wrestling, I would watch his promos. I would watch and I would study. I like, man, if he can do it, I want to do it and I want to feel something like this. It has to have a certain type of feel to it where, you know, it's cool where mainstream, everybody around the world wants to be with us. And as we can see, we on SLAM magazine, we with Tyrese himself, so it's cool that it's getting that crossover."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=468s
+
+**7. Tyrese Haliburton — "The charisma is number one. Anybody who has an elite entrance immediately gets the crowd into it." — Tyrese Haliburton on what makes a great WWE performer** [08:49](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=529s)
+
+Tyrese Haliburton: "The charisma is number one. Anybody who has an elite entrance immediately gets the crowd into it. The song, it all ties together and the fans go crazy. You're starting to see old women and kids in the stands with the fur coat on, that's how you know you made it. I feel like during his matches, he just has the crowd in the palm of his hands at all times, which is important, especially as an entertainer, just makes you feel something."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=529s
+
+**8. Trick Williams — "Because he's genuine. You can tell that's not put on or anything like that. His whole family's there." — Trick Williams on why Tyrese Haliburton's fandom is authentic** [11:15](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=675s)
+
+Trick Williams: "Because he's genuine. You can tell that's not put on or anything like that. His whole family's there, him and his pops, and he told me the story, that's what they bonded with was wrestling. You can tell when somebody really cares about it. They don't want to push or promote or trying to stay relevant in the off-season. So when you really care, like you understand the little things that wrestling fans understand too. So I think that helps, that helps it hit a little bit harder."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=675s
+
+**9. Trick Williams — "When you think about the top caliber athletes, I don't care if you're talking about basketball, you think about Dion Sanders." — Trick Williams on the importance of understanding entertainment as an athlete** [12:14](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=734s)
+
+Trick Williams: "When you think about the top caliber athletes, I don't care if you're talking about basketball, you think about **Dion Sanders**. You know what I mean, he understood entertainment, and what we do as superstars is bigger than just the sport. And Tyrese is bigger than just the sport. He understands how to get the people going, and that's what it's all about."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=734s
+
+**10. Trick Williams — "Off the court, outside of the ring, yes love, I'm going to treat you good and with respect." — Trick Williams on balancing his competitive nature with being a good person** [13:41](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=821s)
+
+Trick Williams: "Off the court, outside of the ring, yes love, I'm going to treat you good and with respect. But once that red light is on, it's a whole different monster. You know, my birth name is Mattrick, but when I turn to Trick Williams, all the smiles is gone. I want that number one spot because you're taking money off my plate. I got a wife now, and she likes to shop. So I got to work."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=821s
+
+**11. Tyrese Haliburton — "Just knowing that we both come from genuine people, I think that's the most important thing." — Tyrese Haliburton on his upbringing and the value of being a genuine person** [14:16](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=856s)
+
+Tyrese Haliburton: "Just knowing that we both come from genuine people, I think that's the most important thing. Understanding like yes, we want to be at the top of our field, the best at what we do, but I think he would probably say the same thing, we want to be good people as well. I think the interactions that you have with fans, understanding that we are not who we are without the support and the love that we get from fans and as much as they back us. So understanding that and we're people that it takes a lot of people to get to where we are."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=856s
+
+**12. Tyrese Haliburton — "This is the best I've felt in a very long time, both mentally and physically." — Tyrese Haliburton on his mental and physical recovery from injury** [15:45](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=945s)
+
+Tyrese Haliburton: "This is the best I've felt in a very long time, both mentally and physically. A lot of trials and tribulations over the last 14, 15 months, and every time you get somewhere, you just kind of get knocked back down. But that's a part of life, and I understand I just said, you know what, from June to June, I'm just chalking that up as the worst 12 months of my life. And we just get past, as soon as July started, I was like, man, we're beyond it now. So I'm excited to get to this next season."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=945s
+
+**13. Trick Williams — "Every single day I just want to make as much people lose their mind, just make noise." — Trick Williams on his goal to make the audience go crazy** [20:44](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=1244s)
+
+Trick Williams: "Every single day I just want to make as much people lose their mind, just make noise. I want them to go crazy. I want everybody to have a good time, or be upset that I lost, one of the other, or it could be both. But I figure if I just do that every single day, the championships and everything will come. So you know what I mean, and that's exactly what you can expect when I get that WWE championship, people are going to be making noise, people are going to have a great time, it'll be a great era."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=1244s
+
+**14. Tyrese Haliburton — "Winning an NBA championship, bro. You know, that's where I'm at." — Tyrese Haliburton on his goal to win an NBA championship** [22:18](https://www.youtube.com/watch?v=yjNwFaRsXe8&t=1338s)
+
+Tyrese Haliburton: "Winning an NBA championship, bro. You know, that's where I'm at. All the individuals, like we win a championship, obviously I had to have individual success, so all that stuff will happen for me. But you know, a year ago, two years ago when I said my goal is to win an NBA championship, I got laughed at, people were like, yeah right. And then we're right there. You know what I mean? And so now, I knew it was a reality, now everybody else knows it's a reality, it can happen, you know? And so that's my goal is to win a championship."
+
+https://www.youtube.com/watch?v=yjNwFaRsXe8&t=1338s
