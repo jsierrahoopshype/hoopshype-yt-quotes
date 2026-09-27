@@ -1,0 +1,71 @@
+# Why Grant Williams Collects His Own NBA Cards & Which Team He Won't Touch — *No Dunks*
+
+Source: https://www.youtube.com/watch?v=1sj1_LXln2U
+
+_Speakers identified: JE Skeets, Grant Williams_
+
+**1. Grant Williams — "I started collecting from a trading kind of TCG or in a type of gaming structure." — Grant Williams on his early interest in trading card games** [02:15](https://www.youtube.com/watch?v=1sj1_LXln2U&t=135s)
+
+Grant Williams: "The journey starts all the way when you're young. I started collecting from a trading kind of TCG or in a type of gaming structure. Of course, I was into Pokemon, I was into Yu-Gi-Oh, I was into all the games. As time went on, I started collecting memorabilia, so I would have jerseys of a friend and things of that nature. As I got older, when I actually started to be able to financially afford the things that I loved or liked, it's really when I got back into the TCG and started buying. I started with the Shadowless Mewtwo when I bought a box and ripped it. That's my card that I've had since 2020, 2019 that will never leave my collection."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=135s
+
+**2. Grant Williams — "I went and went searching for Draymond Green and Boris Diaw cards, which let's just say are very scarce." — Grant Williams on his transition into collecting sports cards** [02:53](https://www.youtube.com/watch?v=1sj1_LXln2U&t=173s)
+
+Grant Williams: "Sports started with 2022. I was very much into the TCG at the time, but I had always had an interest in sports collecting just because I always loved sports. As a basketball player, I'm like, what are these cards even worth, but also why are people so into it? I know how it feels because I grew up playing Pokemon, I grew up playing Yu-Gi-Oh. As a basketball player, I'm like, of course, I want to have my favorite players. So I went and went searching for **Draymond Green** and **Boris Diaw** cards, which let's just say are very scarce. You don't see a lot of them out there. Then next you know, I ripped a National Treasures **Luka Doncic** just because I was at the show at Fanatics Fest. From that point on, I used that sale of the Luka to fund my card collecting journey over the past couple years."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=173s
+
+**3. Grant Williams — "I was just walking around with the Hit Parade, went to a bunch of different things." — Grant Williams on pulling a high-value Luka Doncic card** [03:56](https://www.youtube.com/watch?v=1sj1_LXln2U&t=236s)
+
+Grant Williams: "I was just walking around with the Hit Parade, went to a bunch of different things. Saw like an Acetate **Jayson Tatum** Holo and then ripped **Isaiah Stewart** year, I think Immaculate. So then I was like, I've never ripped my own rookie year, so I'm going to go search for it. Went and found the 19-20 National Treasures box. I was like, okay, so I'm in here. They were like, yeah. And I said, what's that one? They said 18-19. I said, why is the value so much different? What's the significance? And they were like, well, the difference in the years, Luka, Trae Young, at the time, Shai wasn't Shai, so it was really Luka and Trae."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=236s
+
+**4. Grant Williams — "I love players that were my size and were playing in the league." — Grant Williams on his personal collection of player cards** [06:17](https://www.youtube.com/watch?v=1sj1_LXln2U&t=377s)
+
+Grant Williams: "I picked up the cards that of course I wanted to keep for a lifetime. I have three cards from buying that year. One was a Charizard, another one was one of my favorite players, which actually looking back, I'm like, dang, I got that card at a good moment because that card is now probably insane compared to what it used to be. Like I had an **Allen Iverson** card. **Allen Iverson**, his market has just ballooned over the past year and a half, two years. So that was pretty cool. And then last but not least, I'm actually auctioning one of my two **Allen Iverson** cards in an auction here in the next couple weeks, which is exciting. I think I had a smaller **Chuck Hayes** card, which is kind of embarrassing to say. Listen, I love players that were my size and were playing in the league. So like **Chuck Hayes**, Draymond, **Boris Diaw**, those were like my favorite players growing up because they looked like me and gave me a chance."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=377s
+
+**5. Grant Williams — "I'm sorry, I love you, but I wouldn't pay money for that card." — Grant Williams on his aggressive approach to card negotiations** [09:41](https://www.youtube.com/watch?v=1sj1_LXln2U&t=581s)
+
+Grant Williams: "In the beginning, I was like, sure, absolutely. I was just going after it, not really thinking about prices and being more aggressive. Now I'd say I'm pretty hard negotiator. Like I remember there was a card that came up to me and they were like, yeah, it's your Logoman from 2022. And I'm asking $1200 on it. I said, I'm sorry, I love you, but I wouldn't pay money for that card. I'm on that card. $280 bucks. I'm sorry, if you can get $1200 from someone and show it to me and smile and wave, I'm going to shake your hand and say have a great time. But if you want to do a deal, let's let's get to a deal around the value that we both think it's like. I'll pay a little bit higher, but at the same time, we're not going. If it's a $230 card, I might if I really want the card, I'll be like, you know, I'll give you like $320."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=581s
+
+**6. Grant Williams — "Having something tied to a person's most significant moment is huge." — Grant Williams on the value of rookie debut patch cards** [10:45](https://www.youtube.com/watch?v=1sj1_LXln2U&t=645s)
+
+Grant Williams: "I've approached Fanatics a couple times saying, you know, technically you could always do like give me a debut patch now. Ninth year, eighth year debut patch for Grant Williams, that'd be so sick. But I don't think they went for that one. But I think it's such one of the coolest concepts in the hobby because having something tied to a person's most significant moment is huge, whether it's game worn, game used, but even just from a this is his like first ever card of patch where you that you could potentially get from their first ever game. Like I look at my first Bowman autos in baseball and I love them because this has a story. Like this is your first ever professional signature."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=645s
+
+**7. Grant Williams — "I don't want to make a business out of my cards, you know, I would love to keep it." — Grant Williams on why he avoids owning his own cards** [12:51](https://www.youtube.com/watch?v=1sj1_LXln2U&t=771s)
+
+Grant Williams: "The reason why I haven't gotten one yet is because I don't want to make a business out of my cards, you know, I would love to keep it as the hobby that I love and enjoy. I'd like to if I did, I would probably partner with someone or just, you know, collaborate and find a way to have equity within a shop. But in terms of my own shop, it sounds like a great idea like I could, you know, brand it, have your own kind of but I think that Flag, **Moe Wagner**, **Kevin Love**, I could go name by name about the players who I know own shops, and I think they're, you know, huge because it, you know, gives back to their communities. Like they did it where they either Moe did his in Austin where he went to school, Flag did his back home in Maine."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=771s
+
+**8. Grant Williams — "I love Cedric Coward as a player. I think he's one of the best buys in the hobby." — Grant Williams on why he collects Cedric Coward cards** [14:06](https://www.youtube.com/watch?v=1sj1_LXln2U&t=846s)
+
+Grant Williams: "The people that I have my eyes on aren't like the quote-unquote sexy names. Some people love this guy now. I remember his values were so low, but I love **Cedric Coward** as a player. I think he's one of the best buys in the hobby just because he's in a difficult quote-unquote market in Memphis, but at the same time, the player itself, his hard work, his defensive ability, his ability to grow in a rookie year that I saw when I was guarding him. I remember the first when we played him in the preseason, I think he was labeled as a cold player. I think he had missed like 23s or something like that in a row and he was just like a guy who didn't have to guard the three-point line. And then by the end of the season, he was hitting me with tween the leg, hezy pull-ups from three and I was like, well, this is a little a little different."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=846s
+
+**9. Grant Williams — "I'm friends with Bam, but I would never have a Bam card." — Grant Williams on why he avoids collecting Miami Heat cards** [16:43](https://www.youtube.com/watch?v=1sj1_LXln2U&t=1003s)
+
+Grant Williams: "I've felt that way about only one kind of group just because like I've loved what they stand for, the organization, all the above, all the stuff they put into it, but Miami, man, I just can't stand. So like Miami Heat cards, like you can give me all my LeBron downtown, like you can give me all these cards and I'll say just get them out the house. I'd rather move them just because like I I see Steph, Steph like I at a heart breaks my heart, you know, because they beat us in the finals. However, I grew up in Charlotte. So it's like, ah, you know, tough. I'm friends with Bam, but I would never have a Bam card. You know, like he's beat like I remember I used to talk trash to him all the time in high school, college, I'd beat him like, oh, you never beat me. Even in NBA, first series that we played each other, they beat us in Game 6 in the bubble. Then we beat them to go to the finals, which I was hype about. And now they beat us again in Boston and they beat us this at points this year. So, yeah, Miami is just the group that I think that my cards are are never going to see."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=1003s
+
+**10. Grant Williams — "Our depth is ridiculous. I think that we have a great chance to surprise a lot of people." — Grant Williams on the Hornets' roster depth and potential** [18:27](https://www.youtube.com/watch?v=1sj1_LXln2U&t=1107s)
+
+Grant Williams: "Our depth is ridiculous. I was talking to all of our coaches the other day and just looking at the the the the talent on the roster, the ability to shoot the ball, I think that we have a great chance to surprise a lot of people because we did lose two of, you know, important players for us in LaMelo and Miles, guys who are going to make huge impacts in their respective teams that they're about to play on. But to replace them with the players and the character of guys that we have, um, coming in, I think that, you know, the guys that were already here are going to take a huge step in the **Cody Zeller**s, the **Brandon Miller**s, uh, the **Kobe White** even from what you saw as a bench role last year and as a starter in Chicago. But on top of that, you know, I think that the group is going to really get along, but I think that synergy is going to bring a lot of, you know, competitive joy out. And that this Hornets team is going to be very fun to watch and it's going to be hyper competitive."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=1107s
+
+**11. Grant Williams — "Jaylen Brown is the reason why Batman got to be the way it was." — Grant Williams on his Batman costume and Jaylen Brown** [22:46](https://www.youtube.com/watch?v=1sj1_LXln2U&t=1366s)
+
+Grant Williams: "A couple ideas, but let me just say **Jaylen Brown** is the reason why Batman got to be the way it was because I my dad told me that on the phone. JB was the one that I made the conversation to and he said, I'm not going to call this man Batman. I'm going to call him like, uh, what's it the the gangster from American Gangster, I forget. And then from that moment on, they they call me Batman. So, who knows, it might be that. I always say this is one thing I do ask is that I ask Fanatics and Topps at all times, Alter Egos. That'd be kind of cool. Can I have a Batman Alter Ego? I know there's some big names that deserve them and stuff like that, but like that one of, you know, maybe there's 15 prints, you know, 15 copies of it and it's like randomly just get a Grant Williams Alter Ego Batman, you're like, how did this happen? We have the IP, you know, you know, it might be kind of cool."
+
+https://www.youtube.com/watch?v=1sj1_LXln2U&t=1366s
