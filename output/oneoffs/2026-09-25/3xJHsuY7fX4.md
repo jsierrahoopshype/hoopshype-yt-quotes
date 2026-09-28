@@ -1,0 +1,47 @@
+# Brendan Haywood Tried to Be the Enforcer… Then Antonio Davis Stepped In 😂 | Tallest Tales Explained — *Tallest Tales*
+
+Source: https://www.youtube.com/watch?v=3xJHsuY7fX4
+
+_Speakers identified: Daylon A. Goff, Brendan Haywood_
+
+**1. Brendan Haywood — "Coach Jordan thought our team was talented, but he thought we were a little soft." — Michael Jordan wanted the Wizards to be more physical and tougher** [01:44](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=104s)
+
+Brendan Haywood: "Heading into the season that year, Coach Jordan thought our team was talented, but he thought we were a little soft. He thought last year teams bullied us at times, pushed us around. He thought we needed to change our identity. Coach Jordan pulls me into his office and says, Brendan, this year, I need you to be the enforcer. You know me, that's really not my personality. I'm a big guy, never been known to be the enforcer. This is my first time actually hearing in life that somebody thought that I should be the enforcer. But you know what I thought to myself? You know what, man? I got the size for it. Say less, Coach. I'm going to be an enforcer."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=104s
+
+**2. Brendan Haywood — "Larry Hughes hard foul on Kirk Hinrich in transition. I see my moment to enforce." — Brendan Haywood's decision to enforce against Larry Hughes** [03:00](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=180s)
+
+Brendan Haywood: "**Larry Hughes** hard foul on **Kirk Hinrich** in transition. I want to say he pushed somebody and they went into **Kirk Hinrich**. So **Kirk Hinrich** gets up and he gets all in **Larry Hughes**'s face. You got to understand **Larry Hughes** at that time, he's our team leader. I see my moment to enforce."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=180s
+
+**3. Brendan Haywood — "I walk straight over there and make a beeline and you can go pull the clip up." — Brendan Haywood explains the altercation with Kirk Hinrich** [06:08](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=368s)
+
+Brendan Haywood: "**Kirk Hinrich** and **Larry Hughes**, they get into it. **Kirk Hinrich** is getting up in **Larry Hughes**'s face. People think **Gilbert Arenas** was the leader of our team at that point, but he was not. **Larry Hughes** was our team leader. So in my mind, ain't nobody running up on the team leader while the enforcer is in town. Not today, not tomorrow. I walk straight over there and make a beeline and you can go pull the clip up. Boom, I push **Kirk Hinrich** hard as I don't know what, way harder than I really intended to."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=368s
+
+**4. Brendan Haywood — "I feel somebody push me in my back. I turn around, it's Antonio Davis." — Antonio Davis confronts Brendan Haywood after the push** [06:46](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=406s)
+
+Brendan Haywood: "After I do that, I feel somebody push me in my back. I turn around, it's **Antonio Davis**. Now if you don't know, **Antonio Davis** ain't missed no days in the weight room, about 6'9" 6'10", all muscle. But I can't back down because I'm the enforcer. Now Larry Hughes being the gangster he is, he pushed **Antonio Davis** after he pushed me. Me and Larry, we call him Bull, we got the memo from Coach. We ain't going to get pushed around by nobody. We tougher this year."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=406s
+
+**5. Brendan Haywood — "I had two devils. One said, put your finger in his face. The other one said, slap him." — Brendan Haywood's internal conflict regarding slapping Antonio Davis** [08:03](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=483s)
+
+Brendan Haywood: "So **Antonio Davis** after I did this, he kind of mushes my hand off. I had two devils. One said, put your finger in his face. The other one said, and after that, slap him. So **Antonio Davis** after I did this, he kind of mushes my hand off. I want, bam. Now it's not the whole five fingers, but it's just enough to. A grown man feels like punch me, don't slap me. If you slap me, you think I'm soft. It's disrespectful."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=483s
+
+**6. Brendan Haywood — "Michael Ruffin came out of nowhere and he grabs Antonio Davis's arm." — Michael Ruffin saves Brendan Haywood from Antonio Davis** [09:37](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=577s)
+
+Brendan Haywood: "All my prayers were answered. Out of nowhere, **Michael Ruffin**. My main man, my favorite Wizard player, **Michael Ruffin** came out of nowhere and he grabs **Antonio Davis**'s arm like while this, he grabs it so **Antonio Davis** can't get a shot off. And he won't let him go. I said, man oh man, thank you. The Lord came through for me that day and he provided me security in the form of **Michael Ruffin**. He was at the right place at the right time and he saved me from what would have definitely been despair at the hands of **Antonio Davis**."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=577s
+
+**7. Brendan Haywood — "I'm selling my girl scout cookies and I'm probably not going to make my quota." — Brendan Haywood helps Michael Ruffin's daughter with cookie sales** [11:22](https://www.youtube.com/watch?v=3xJHsuY7fX4&t=682s)
+
+Brendan Haywood: "His oldest daughter walked up to me after the game. She's always a happy kid. She said, man, she was kind of down. I said, why you look so sad? She was like, well, I'm selling my girl scout cookies and I'm probably not going to make my quota. I said, I'll buy some cookies from you, baby. How many cookies does it take for you to make your quota? She about 200 boxes. I said, I'll buy all 200. And **Michael Ruffin** looked at me, he was like, are you sure? I said, baby, your daddy saved my life. You going to make your quota today."
+
+https://www.youtube.com/watch?v=3xJHsuY7fX4&t=682s
