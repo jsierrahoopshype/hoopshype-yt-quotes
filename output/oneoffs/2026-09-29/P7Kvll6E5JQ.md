@@ -1,0 +1,29 @@
+# Donovan Mitchell on James Harden, Evan Mobley & the NBA sleeping on the Cavaliers | 1-ON-1 INTERVIEW — *Ultimate Cleveland Sports Show*
+
+Source: https://www.youtube.com/watch?v=P7Kvll6E5JQ
+
+_Speakers identified: Cassidy Hubbarth, Donovan Mitchell_
+
+**1. Donovan Mitchell — "I think there's so much other noise, Giannis, Miami, LeBron, the Philly. I think it's more so like, alright, cool." — Donovan Mitchell on the Cavaliers' focus amid external NBA noise** [00:34](https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=34s)
+
+Donovan Mitchell: "I think there's so much other noise, Giannis, Miami, LeBron, the Philly. I think it's more so like, alright, cool. Let's just keep our focus here. I think Cavs fans know what we have. I think they understand obviously, yeah, last year was great until it wasn't. Coming into the season, our mindset is let's control what we can control and focus on what we got going. If people want to overlook us, so to speak, and not really think about us, then at the end of the day, we got to go out there and just put pen to paper and do what we do."
+
+https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=34s
+
+**2. Donovan Mitchell — "The biggest thing, late game situations, playing off each other." — Donovan Mitchell on late-game chemistry with Darius Garland** [01:35](https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=95s)
+
+Donovan Mitchell: "The biggest thing, late game situations, playing off each other. Similar to how myself and **Darius Garland** were a little bit at the end of games. I think now you look at that as the same thing. Putting myself in their position, I'm not going to say everything just because I'm trying to keep it, but there's some things that he and I have talked about, catching the ball in different areas. A lot of our point of attack was so singularly focused at the top of the key. Where does Evan get involved in that? Where does Max get involved in that? Where does Darius get involved in that? We put him in there. So I think the biggest thing, that's something that we've kind of looked at."
+
+https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=95s
+
+**3. Donovan Mitchell — "I think where he's really slipped on is his passing ability." — Donovan Mitchell on Evan Mobley's offensive evolution and playmaking** [02:37](https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=157s)
+
+Donovan Mitchell: "I think that goes into our intention. For myself, it's maybe more of a get action, which is I throw the ball to him and he may cough, he may hand it back, he may go play second side. I think when people think of get Evan the ball, it's like go post up and go score. I think a lot of people want to think of that's kind of how they are. I'm more so saying is like, alright, he may be the playmaker, right? And he may be the scorer. He has every ability to do so, but I think where he's really slipped on is his passing ability. Being able to understand him just being having the ball in his hands off the elbow, off the block, bringing the ball up in a five-out action, what that can do for our offense."
+
+https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=157s
+
+**4. Donovan Mitchell — "Just really sharpening things that were weak." — Donovan Mitchell on sharpening his game for the 2026-27 season** [04:08](https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=248s)
+
+Donovan Mitchell: "I think there's a few things that I've kept internally for my internal fuel. I think it's not more so anything new, just really sharpening things that were weak."
+
+https://www.youtube.com/watch?v=P7Kvll6E5JQ&t=248s
