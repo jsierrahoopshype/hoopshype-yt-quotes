@@ -1,0 +1,191 @@
+# Stak Said Ced Ceballos Got Him In The League. Ced Says No. — *ALL THE SMOKE*
+
+Source: https://www.youtube.com/watch?v=hOBZxhjy3UQ
+
+_Speakers identified: Matt Barnes, Stephen Jackson, Cedric Ceballos_
+
+**1. Cedric Ceballos — "I didn't get stack in the league. I didn't put you in the league, man. You put yourself in the league." — Cedric Ceballos clarifies he did not help Stephen Jackson enter the NBA** [00:36](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=36s)
+
+**Cedric Ceballos:** "I didn't get stack in the league. I didn't put you in the league, man. You put yourself in the league."
+
+**Stephen Jackson:** "You didn't put me in the league. He said I put myself in the league."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=36s
+
+**2. Cedric Ceballos — "Phoenix wanted to draft you. The year before you got in the league, they had you at training camp." — Phoenix Suns wanted to draft Stephen Jackson before he entered the league** [01:19](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=79s)
+
+Cedric Ceballos: "Phoenix wanted to draft you. The year before you got in the league, they had you at training camp or practice. I don't know if it was illegal or not illegal, but you hadn't actually entered the league yet. You were cooking. Matter of fact, I got a chance to play with you. I got in trouble because me and Stack used to always do, before the Shamgod was the Shamgod, and he'd be like, 'Don't be teaching them that stuff.' I'm like, 'Yo, he's teaching me how to do the Shamgod before Shamgod got his name like that.' But we were doing that move, and I do remember that. I do remember that. I used to get pissed because we used to be over there practicing that stuff."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=79s
+
+**3. Cedric Ceballos — "I grew up in West LA, so I'm down the street from the beach. My brother was that dude." — Cedric Ceballos discusses his upbringing in West LA and playing basketball** [03:01](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=181s)
+
+Cedric Ceballos: "I grew up in West LA, so I'm down the street from the beach. My brother was that dude. He was 6'5", **Chris Ceballos**. It's unheard of for a seventh, eighth grader to be getting 50 points a game, but he was killing it. He was taller than everybody, he was big. Our hood, we had our Robertson Park, we had a basketball hood like me, **Chris Mills**, **Craig Smith**, **Nick Young**, **Tina Thompson**. Our park was kind of nice. I was the first one to make it, but our park was nice. He was recruited to go to Dominguez and Compton. So my mom was like, 'You got to take one, you got to take the other one.' I wasn't that dude."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=181s
+
+**4. Cedric Ceballos — "It was about a six-year period that he had to get over the fact that our game is different." — Cedric Ceballos on learning that he could compete with NBA players** [06:00](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=360s)
+
+Cedric Ceballos: "It was about a six-year period that he had to get over the fact that our game is different. If we shoot three for ten, get your ass out the game. If he hits three, that's a Hall of Famer for him, and he had to understand that. So I figured those first five games until about '98, in my sleep I can get 20 points. I don't care who guarding me. My toughest opponents was **Stacey Augmon** obviously, Scottie, all them OG defenders. There's nothing that they could do. So, no, man, you got yourself in the league, man. You was bouncy, you wanted to fray, you got in motherfuckers' face."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=360s
+
+**5. Cedric Ceballos — "Easy-E and N.W.A is about to blow up, you know. That was my dream, to be on the radio." — Cedric Ceballos on his connection to Easy-E and N.W.A** [08:40](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=520s)
+
+Cedric Ceballos: "My mom was like, 'I want to go to Fairfax because I want to use his voice to get on the radio.' **Easy-E** and N.W.A is about to blow up, you know. That was my dream, to be on the radio. **Easy-E** had just dropped 'Eazy-Duz-It' and they were filming a lot of stuff on Melrose, so I was like, 'In order for me to get on the radio, I got to get out of Compton and go to Fairfax.' This is right when Easy and N.W.A is about to blow up. That was my dream, man, to be on the radio. There was another radio station out here, KACE. I used to just listen to all the time, and they went away, but the DJs on there and the way they carried their voice was Easy's move for love. He on a couple of Snoop's albums, but that's what I wanted to do. That's exactly what I wanted to do."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=520s
+
+**6. Cedric Ceballos — "I think LeBron is the sickest basketball player I've ever seen in my life." — Cedric Ceballos praises LeBron James as the greatest basketball player** [11:15](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=675s)
+
+Cedric Ceballos: "I love Kobe's family and Bron is dope, which I think LeBron is the sickest basketball player I've ever seen in my life. But the fact that Mike would get up 3:00, 4:00 in the morning and be on set all day, come lift, come this, and bust ass, and then play cards all night till 3:00, 4:00 in the morning, I'd be like, 'How does this dude do it?' Even when we played them in the finals, this is a game two, day game Sunday, which we have to accommodate East Coast time, which is a 4:00 tip-off. And Saturday night we go out, Jets and Sticks, at that time Phoenix closed at one, so we could shut it down. We leave about 1:30, me, him, Charles, and a couple other cats, go to his hotel suite, they gamble and smoke. I left at 3:00. This dude gets up and walks 18 holes in June in Arizona at 7:00 a.m."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=675s
+
+**7. Cedric Ceballos — "Mike out-partied Charles. And I don't know if that was Mike's plan because he did it every day." — Cedric Ceballos on Michael Jordan's lifestyle and work ethic** [13:35](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=815s)
+
+Cedric Ceballos: "Mike out-partied Charles. And I don't know if that was Mike's plan because he did it every day. It wasn't like he just did it for the finals. That was just Mike's lifestyle. Yeah, that was just the way he was. He just went hard, and Charles went hard too. Matter of fact, I was many security guard for the dude sometimes, but he I just think Mike is a different level when it comes to hanging out and being able to get up and get it and get it like that."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=815s
+
+**8. Cedric Ceballos — "Juko produced some stars around that period. Larry Johnson, Grandmama, the Trailblazers, Sean Kemp, just to name a few." — Stephen Jackson on the talent produced by Junior College** [16:25](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=985s)
+
+Cedric Ceballos: "Juko produced some stars around that period. **Larry Johnson**, **Grandmama**, the Trailblazers, **Sean Kemp**, just to name a few."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=985s
+
+**9. Cedric Ceballos — "California is a little different. Those guys went to Texas, Indiana, and Midwest." — Cedric Ceballos explains why California players often left the state** [16:40](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1000s)
+
+Cedric Ceballos: "California is a little different. Those guys went to Texas, Indiana, and Midwest. California not allowed to play those teams unless it's an exhibition, so to speak. So we didn't get a lot of, we got **Sean Kemp**, I think he went to Kansas, but we didn't get a lot of guys up to their caliber until we got into an exhibition type of game situation. So I didn't get to meet and play against those guys until I got to Fullerton."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1000s
+
+**10. Cedric Ceballos — "The pro life is different. There ain't no instructions. There's no blueprint. You just got to get it." — Cedric Ceballos on the lack of financial literacy in the NBA** [19:45](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1185s)
+
+Cedric Ceballos: "The pro life is different. There ain't no instructions. There's no blueprint. You just got to get it. And at that time, I'm a second round 48 pick, but we drafted **Jason Williams**, St. Johns. That was our lottery pick. New Jersey Nets, I don't know if you probably know, you know what I'm talking about. Had the incident with that. Our press, I got drafted, our next day at the press conference, we, Arizona has a record high of 122. And at that time, Jerry Colangelo's office is a little bitty office on Central, and we're staying at the Holiday Inn for the press conference. And they're like, 'You don't send the car over?' And they're like, 'Nope, it's less than a half a mile, just walk over.' It's 122. Now, it's not a shocker to me, I'm a Cali kid, it's all good. And Miguel Knight, Detroit, Dayton, this starts melting out there. And **Jason Williams**, East Coast for life, you know what I'm saying? That's where he grew up, but we get to the press conference, and it's drenched. Soon as they introduce, Jerry Colangelo like, 'Yeah, this is our first round pick, this is **Jason Williams**.' He says, 'Jerry, it's too fucking hot out here, man. You got to trade me. There ain't no way in the world I'm playing for Phoenix.' And me and Miguel, our eyes just blew up like, 'You turning down this money? Like, what's wrong with you?'"
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1185s
+
+**11. Cedric Ceballos — "I just feel like financial literacy wasn't a conversation at that time, especially when you and it wasn't" — Cedric Ceballos on the lack of financial literacy among NBA players** [23:45](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1425s)
+
+Cedric Ceballos: "I just feel like financial literacy wasn't a conversation at that time, especially when you and it wasn't even in our time. I felt like I got out of '17, 2017, and I felt like those conversations were happening, had in the locker room around that time. So I know now it's a real conversation, but it wasn't a conversation. We was talking about women, jewelry, cars, rims, all the stuff that don't matter. And then the dollar amount, it's corporation money now, instead of me taking, like my money was cool to take care of me and moms and my kids. After that, you know what I'm saying? I'm like, 'Hey, Auntie, Uncle, I can't, you know, I can't do it.' But now you're talking 300, 400 a year, with the soccer dude, the dude, soccer, you make 200 plus a year, man. It's just crazy."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1425s
+
+**12. Cedric Ceballos — "I think that's the difference in the play of the game, too. I got criticized about Curry." — Cedric Ceballos on the impact of money on NBA team dynamics** [25:02](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1502s)
+
+Cedric Ceballos: "I think that's the difference in the play of the game, too. I got criticized about Curry not being able to do what he did in my era because you got Oakleys and Masons and Buck Williams that are making 100,000, and you making what you making and you shoot a 50-footer. You get touched up in the locker room. You know what I'm saying? I know y'all have Max on here a lot. He talked about that. People getting in the fights with each other and **Keen** slapping the shit out of them and all that. They they because it's the dollar amount. So, if I'm making 60 to 80, shoot that shit, step. I don't give a fuck. You know what I mean? Like, I'm making 60 to 80. I got I don't have to I don't have to lose teeth to make what those guys was making. I don't have to go through that era. Obviously, he has the skills to do it. He would have been a definitely prominent player in our league, but I just think that the the dollar amount makes it makes it a lot lot easier for somebody who's not playing."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1502s
+
+**13. Cedric Ceballos — "I think our generation came up different because, man, we weren't all friends coming up." — Cedric Ceballos on the difference in player relationships between generations** [26:28](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1588s)
+
+Cedric Ceballos: "I think our generation came up different because, man, we weren't all friends coming up. We didn't know who each other was till we got in the gym. Like this generation, they know each other since grassroots, and everybody's cool. But that's a good point. I didn't think about that side. Motherfucker making a bunch of money. Yeah, bucket. Right. You got the bread. Right. And that's what but I was talking about, I mean, because that's the reason why we always talk about the competition level going down. The money's made. Even before now, even before you get to the NBA, they going to the NBA with 4-5 million from NIL. So now, like the effort and and and just the passion to want to be great or to eat what you kill, you don't have the attitude no more. You know how to eat. Yeah. You know how to eat. Well."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1588s
+
+**14. Cedric Ceballos — "I'm telling my grandkids I played against UNLV in Las Vegas" — Cedric Ceballos recalls playing against the UNLV Runnin' Rebels** [27:10](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1630s)
+
+Cedric Ceballos: "We took them out once on the buzzer, **Stacey** and his squad. Me and **Stacey** grew up together. So, **Stacey** took me out in the high school championship game. The game before that, **Greg Anthony** banked a half-court in Vegas to beat us. So, that was our ultimate game. Us being able to play in Poly against UNLV. Those are our, you know, like, I'm telling my grandkids I played against UNLV in Las Vegas, if I don't go anywhere else besides playing in college basketball."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1630s
+
+**15. Cedric Ceballos — "They got more Cowboy fans in LA than they do Rams fans." — Cedric Ceballos discusses the popularity of the Dallas Cowboys** [27:10](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1630s)
+
+Cedric Ceballos: "We ain't got one since '95 and we still the most expensive team, the most followed team. When they play here, it's so fine in LA. It's going to be a home game. That's a big crowd. It's going to be a home game. When I saw that, I'm like, that's crazy. They got more Cowboy fans in LA than they do Rams fans."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1630s
+
+**16. Cedric Ceballos — "That's the wonderful thing and shocking when I got traded to the LA for the Lakers." — Cedric Ceballos on his experience being traded to the Lakers** [29:44](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1784s)
+
+Cedric Ceballos: "That's the wonderful thing and shocking when I got traded to the LA for the Lakers is uh, we only got booed one place running out that tunnel and that was **Boston**. That was the only place. This was before Sacramento had the beef, you know, for Phil and the cowbells and all that. So we play Sacramento and it's a home game. We play Golden State, it's a home game. We play Phoenix, we play any of it's a home game for the Lakers, man. It's crazy. And and and that was, and me growing up, like I as a Laker, I think I lost to **Boston** one time my whole career in Miami. In my in Miami when I played for Pat, uh, which is ironic because I watched him all, you know, the whole time. But only lost to **Boston** one time, man. That's, you know, and that's just a kid growing up as a Laker fan, hating **Boston**."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1784s
+
+**17. Cedric Ceballos — "I went to go greet the OGs and I and he's standing in front of our bench." — Cedric Ceballos on his first year in the NBA** [30:30](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1830s)
+
+Cedric Ceballos: "I went to go greet the OGs and I and he's standing in front of our bench. And he played, his rookie year was with **Paul Westphal**, our assistant at the time. So I check in the game, I'm not supposed to guard Larry, but I'm like, 'I'm in the garden, I'm speaking to fucking Larry fucking Bird.' So I went up and, 'You know how you doing, man?' And he had his hand on his hip, and he turned to **Paul Westphal** and was like, 'You got to be fucking kidding me. I know you ain't got this motherfucker guarding me.' And I was like, 'So, um, I'm going to guard somebody else over here because, you know what I'm saying?' And and and just the swag of him, man, just the way he carried himself. And and that's when he was coming down. So you can imagine when he was in pure, pure, you know, Larry Magic, man, he he he just was, you know, you had it that you had it the right way. That would have went totally different for me. Fuck you, dude."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1830s
+
+**18. Cedric Ceballos — "He was a blessing because he always kept you humble." — Charles Barkley's unique approach to practice and staying humble** [31:40](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1900s)
+
+Cedric Ceballos: "First, getting him to practice was pulling teeth. Just getting him there. The way he plays and the fact that he never practiced the three years we together, I'm like, 'How does he do it?' And he was a blessing because he always kept you humble. Like, man, they can take this away like this."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1900s
+
+**19. Cedric Ceballos — "I just wish the communication with funds and money between players was more prevalent." — Need for better financial communication among active NBA players** [31:40](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1900s)
+
+Cedric Ceballos: "I just wish the communication with funds and money between players was more prevalent. I love Kareem and how Kareem throw through money troubles and Magic. And just like with Mike, and then Scottie went through money troubles with Mike like, 'Yo, that's your counter. That's your Batman and Robin. When you grab him, you be like, 'Yo, check this out. I'm about to do this that and the other.' And sometimes it's, I just wish that we as a unit we did that a little bit more. We do it now after we get out the game. But when we in it, we should do more because we can do it."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=1900s
+
+**20. Cedric Ceballos — "During the season, my mom and my brother called me, we got to go to a game." — Cedric Ceballos on his relationship with his father** [33:45](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2025s)
+
+Cedric Ceballos: "During the season, my mom and my brother called me, we got to go to a game. And my pops passed away. And I didn't tell nobody. I was going to tell them, you know, I got to go home, take care of moms right after the game. But how he found out, I had no idea. And I never want to ask him, but the fact that how he found out and I I never want to ask him, but the fact that he found out and said that to the team, man, was dope. And and and anytime you need him, really need him, he there for you. Uh, from bar and a watch to giving you a ride somewhere or, you know, it's it's just a really good dude and and he deserves everything he got. He runs his mouth in a great way and sometimes bad, sometimes good, but I but he's all entertaining. You can't turn that dude off. You can't turn him off."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2025s
+
+**21. Cedric Ceballos — "I'm crying, but I'm happy at the same time, because Elden grew up in Inglewood." — Cedric Ceballos recalls Elden Campbell getting drafted by the Lakers** [34:45](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2085s)
+
+Cedric Ceballos: "**Jerry West** was like, we got the last pick. We going to pick you. If you still on the board, we going to pick you. And I'm thinking, okay, ain't going to happen. And the last pick, they select **Elden Campbell**. I'm crying, but I'm happy at the same time, because Elden grew up in Inglewood, Morning Side High, right there."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2085s
+
+**22. Cedric Ceballos — "Our little young crew was just perfect. Jerry did a great job putting that team together." — Reflecting on the chemistry of the young Lakers roster** [34:45](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2085s)
+
+Cedric Ceballos: "Nick was dope, Eddie was dope. Vlade's communication. That's a young Vlade, right? He's fresh over. He was the oldest on the team, but he had a family. So, our little young crew was just perfect. Jerry did a great job on putting that team together. Obviously, they had tanked and was terrible the year before when Magic was coaching, and Nick got dropped in the draft too, so he had a little chip on his shoulder too. **Anthony Peeler** wanted to prove himself. So we came out guns blazing and shocked some people."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2085s
+
+**23. Cedric Ceballos — "I think the players should be the common denominator on any league. The players should be able" — Cedric Ceballos on the importance of players in NBA governance** [36:40](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2200s)
+
+Cedric Ceballos: "I think the players should be the common denominator on any league. The players should be able to say this cat should go or not. Yeah. Right. You know, and and and that, you know, but yeah, Sean, man, being a young kid and athletic, Indiana kid, man, it's just athletic, can run, uh, him and Gary had that team, you know, and and they had a team that had that could contend but just couldn't get over the hump, you know, I saw him in the last dance saying, you know, we could have did this that. I mean, Mike was dangerous, but um, you you really had you really had to bring it when you playing against those two, whether they, you know, tired or sleepy or not, they they going to play hard and they going to give you some highlights, man. I love to do."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=2200s
+
+**24. Cedric Ceballos — "When Dennis came to Dallas, I was like a little puppy following around" — Cedric Ceballos on his time with the Dallas Mavericks** [1:00:04](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3604s)
+
+Cedric Ceballos: "When Dennis came to Dallas, I was like a little puppy following around because I wanted to get back to a championship. I was trying to figure out the missing piece. What did we need? Because we had Finley, we had Nash, we had Dirk. **Gary Trent** was on and off. He could have been that, but he wasn't. And **Sean Bradley**. So we had a capability of putting something together. I followed Dennis around to try to get some of that championship aura off of him, but he was gone. He was already in party mode."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3604s
+
+**25. Cedric Ceballos — "He would come in while we in the meeting, take a shower, and then be in the weight room" — Cedric Ceballos on Dennis Rodman's lifestyle in Dallas** [1:00:44](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3644s)
+
+**Cedric Ceballos:** "He was already a rock star. He would come in while we in the meeting, take a shower, and then be in the weight room, clink, clink, clink, clink while we going. And he would know everything. He would know everything we talked about and know the codes and the calls. We going to red this, we going to do this. He would know all that."
+
+**Matt Barnes:** "He was living with Cuban too, wasn't he?"
+
+**Cedric Ceballos:** "Yeah, he was already a rock star."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3644s
+
+**26. Cedric Ceballos — "If you pull up in the 300 Benz, she ain't going to care if it's a 600 Benz" — Cedric Ceballos on advice from Dennis Rodman regarding money** [1:02:47](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3767s)
+
+Cedric Ceballos: "He pulled me aside and just ran it down to me for about an hour about money. He is like, if you pull up in the 300 Benz, she ain't going to care if it's a 600 Benz. So don't go spend 200, 300 on the 600 when you can go get because at that time I'm making a buck 50. So, you know, I'm I'm in the Jeep Cherokee and the Mustang. But he was just saying like, you know, he is like, I know you going to get some shine. Ain't nobody going to come up to you with no diamond thing and be like, is this diamond real? So don't don't don't don't go do that, young fella. Don't do that. Let the ones that's making millions and millions and millions do that. You you making 150,000. Half of it gone anyway. 75 is left. You got to take care of mama."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3767s
+
+**27. Cedric Ceballos — "I get drafted and I get invited to the Bahamas to play in like a little celebrity game" — Cedric Ceballos on meeting Moses Malone in the Bahamas** [1:04:24](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3864s)
+
+Cedric Ceballos: "I get drafted and I get invited to the Bahamas to play in like a little celebrity game and I got to sit next to **Moses Malone** because I saw him at the church. Second Baptist, what it was? Second Baptist, yeah, Second Baptist, that's where they used to rank the runs. Hakeem and everybody in Houston, Clyde and everybody. And 45 minutes into the flight, I had no clue what he said, but I know he was talking to me, but I didn't because Moses, you know, he was mumbling. You you you you you you you got to do this and he is teaching me. And then they started playing cards and then I started getting, but he kind of did the same thing he did to Charles. You got to work hard, this is professional, and anything that you need, even when I was in Houston, he sent the car over like, here, you can have this car while you here in Houston training, this that and other. Really good dude."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3864s
+
+**28. Stephen Jackson — "Moses was still running the runs, bro. Still picking the team, still playing" — Stephen Jackson on Moses Malone's commitment to playing runs** [1:05:55](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3955s)
+
+Stephen Jackson: "2003 when I was playing with the Spurs before that the year we won a championship that summer, Pop made me and Tim and I think Tony go down and David go down to play runs at Fonde. Moses was still running the runs, bro. Still picking the team, still playing. Yeah, he was still running the runs, bro. Still picking the team, still playing. Yeah, he was still running the runs, bro. When he was like five years retired then, and he was still running the runs. But it's just that that respect he had, everybody loved him, bro. Everybody loved him and I like I had some great conversations with him as a youngster."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=3955s
+
+**29. Cedric Ceballos — "Every star you came across showed love and they didn't have to to you" — Cedric Ceballos on the character of NBA stars** [1:06:42](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=4002s)
+
+Cedric Ceballos: "You know what it says about you though when I when I'm hearing though is the type of person you are because every star you came across showed love and they didn't have to to you. Like you said, you were a second round pick. They could have just ignored you, but it showed I think the character and and and how hard you worked and who you were as a person because they all tried to give you some game."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=4002s
+
+**30. Cedric Ceballos — "He's the first NBA player I met. It was the night Hank died" — Cedric Ceballos on meeting Hank Gathers** [1:08:12](https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=4092s)
+
+Cedric Ceballos: "He's the first NBA player I met. It was the night Hank died. I saw the news. I sprint to Hank's house at Loyola. Are you still in college at that time? I'm still in college at this time. I'm a senior year. I'm a senior year. So, and me and Hank was was was tight. You know, we played on the West LA team together, college, pro-am, whatever."
+
+https://www.youtube.com/watch?v=hOBZxhjy3UQ&t=4092s
