@@ -1,0 +1,65 @@
+# HoopsHype YT Quotes — 2026-09-30
+
+## Bill Wennington on Stacey King, New Role & Bulls’ Season Outlook | By The Horns — *Chicago Sports Network*
+
+Source: https://www.youtube.com/watch?v=7g74RI7-s1s
+
+_Speakers identified: Cam Smith, Bill Wennington, K.C. Johnson_
+
+**1. Bill Wennington — "knowing that his presence is going to be missed sorely, especially with us because he was such a big part of our family" — Bill Wennington on the impact of Stacey King's passing** [02:16](https://www.youtube.com/watch?v=7g74RI7-s1s&t=136s)
+
+Bill Wennington: "I bring this up now at the beginning with the passing of Stacey. It really makes this year different and it's difficult. Even already just at media day seeing K.C. yesterday and knowing that his presence is going to be missed sorely, especially with us because he was such a big part of our family. Heartfelt condolences still to his family, especially his sons who over the years I've gotten to know well. When Stacey was a teammate and they were all our kids were little, as you know K.C. when we first met your kids are little and now you're an empty nester. It's just going to be tough without Stacey this year."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=136s
+
+**2. Bill Wennington — "I knew I wanted to be involved in TV. I actually thought at the beginning that I would be more along the technical end" — Bill Wennington on his transition from player to broadcaster** [04:04](https://www.youtube.com/watch?v=7g74RI7-s1s&t=244s)
+
+Bill Wennington: "My degree at St. John's was in communications, television, and radio production. With that degree, as you know you're in journalism, you got to cover everything with communications. I knew I wanted to be involved in TV. I actually thought at the beginning that I would be more along the technical end, maybe a board operator, even a camera operator. I think in using my height to advantage at sporting events, I hold the camera on my shoulder above the crowd, I can get some good shots. I did well in the studio directing and as a board operator switching from camera to camera. I did not think that I'd be behind the microphone at the time."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=244s
+
+**3. Bill Wennington — "the TV call is easier than the radio call, especially as an analyst" — Bill Wennington on the differences between radio and TV broadcasting** [12:23](https://www.youtube.com/watch?v=7g74RI7-s1s&t=743s)
+
+Bill Wennington: "If I'm being honest, the TV call is easier than the radio call, especially as an analyst. As a play-by-play guy, you got to talk and call the action. But on radio, that's what really drives the show a lot because if I'm talking about a play that just happened on the offensive or defensive end and the ball's going down the other end, you're missing what's going on now in the game. So on radio, plays become irrelevant quicker, whereas on TV, the game's going on so people can watch. So you can really stress a point much more. TV is difficult because there's much more of a production part to it."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=743s
+
+**4. Bill Wennington — "it's a rebuild. And in my opinion, that's the first big step you got to take" — Bill Wennington on the Bulls' rebuilding process** [15:36](https://www.youtube.com/watch?v=7g74RI7-s1s&t=936s)
+
+Bill Wennington: "Yes, it's a rebuild. And in my opinion, that's the first big step you got to take. You got to admit what we're doing. Call it what you want, it's a rebuild. But we're all in right now. They set everything the right way. It's about development. It's about getting these young guys ready to play. But then they throw in, we want to win, so we have to have that championship culture and mentality. That's the difficult part. You have a young team that's going to make a lot of mistakes. But if you want to have championship mentality and culture, you can't make mistakes and you cannot allow mistakes to happen. So when they happen, you got to correct them."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=936s
+
+**5. Bill Wennington — "I do like the move you mentioned about the moment ago getting Buddy Hield" — Bill Wennington on the Bulls' roster additions and defensive focus** [18:44](https://www.youtube.com/watch?v=7g74RI7-s1s&t=1124s)
+
+Bill Wennington: "I do like the move you mentioned about the moment ago getting **Buddy Hield**, because he addresses a shooting problem that the Bulls have had. For a team that shoots a lot of threes, really didn't have a good three-point shooting team. **Norman Powell**, I think helps with that as a scorer trying to get things going for the Bulls. So there's a lot of nice pieces that they have right now. This team in three years is going to be different. Different players, different personality. We're finding out now who's going to be here in three years. And that's the growth process that the Bulls have to go through."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=1124s
+
+**6. K.C. Johnson — "part of development is not getting your brains beaten in every night." — The strategy behind adding veterans to develop young players** [20:35](https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s)
+
+K.C. Johnson: "One thing I liked about the additions of **Norman Powell** and **Buddy Hield** is he understands that part of development is for the young people. Because look, **Buddy Hield** and **Norman Powell** are nice players, but they're not the most important players. The most important players are **Caleb Wilson**, **Matas Buzelis**, and **Josh Giddey**. And he understands like, part of development is not getting your brains beaten in every night. So obviously, they're going to be challenged in a one-loss department, but to be 15 and 57 or 67, the math would be, it wouldn't be good for anybody. And so he wants to raise kind of the competitive level by adding these veterans."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s
+
+**7. K.C. Johnson — "a really nice mix of tough love, holding accountable, and also putting his arm around you." — Evaluating Thiago's coaching style and influence from Gregg Popovich** [20:35](https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s)
+
+K.C. Johnson: "I just keep coming back to **Thiago**, man. You're right, he's got so much responsibility on his plate in terms of letting these guys have some freedom, but not burning entitlement minutes. He's got to hold them accountable. I can just tell you in my initial read on **Thiago**, he's a really nice mix of tough love, holding accountable, and also putting his arm around you. And who might have you learned some of that from? Only one of the best ever to do it in **Greg Popovich**. So look, we all are trying to figure this team out, but it's going to be interesting to see how he performs this year."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s
+
+**8. Bill Wennington — "he took a team with what happened in preseason and coaching and he had to take over" — Reflecting on Thiago's successful coaching turnaround in Portland** [20:35](https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s)
+
+Bill Wennington: "What happened in Portland last year, and for everyone that's listening and really didn't pay attention a lot last year because there wasn't a lot to pay attention to, we got Portland's pick. And if Portland doesn't make the playoffs, we don't get it. And he took a team with what happened in preseason and coaching and he had to take over, a Portland team that no one really expected to make the playoffs. He takes that team and turns them around and they actually did great and obviously made the playoffs and we get the 15th pick. So for him to do that, I think is exceptional."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s
+
+**9. Bill Wennington — "on good teams, things stay pretty quiet, pretty close to the vest and they get things done." — The importance of locker room privacy for team success** [20:35](https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s)
+
+Bill Wennington: "On a good team, the locker room does stay private. It stays very private and very close and honestly, that's the way it should be. I've been there and I've been in locker rooms where things don't stay private and those teams fracture very quickly. But on good teams, things stay pretty quiet, pretty close to the vest and they get things done. So it leaves, but that makes our jobs even more exciting because now we get to talk about it and debate with players and other broadcasters and fans about things that are going on and what's good and what's bad."
+
+https://www.youtube.com/watch?v=7g74RI7-s1s&t=1235s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
