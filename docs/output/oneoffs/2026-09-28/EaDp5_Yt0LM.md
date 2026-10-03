@@ -1,6 +1,4 @@
-# HoopsHype YT Quotes — 2026-09-28
-
-## YouTube title: Spurs Media: 1-on-1 with Devin Vassell — *Cory Mose*
+# YouTube title: Spurs Media: 1-on-1 with Devin Vassell — *Cory Mose*
 
 Source: https://www.youtube.com/watch?v=EaDp5_Yt0LM
 
@@ -35,7 +33,3 @@ https://www.youtube.com/watch?v=EaDp5_Yt0LM&t=308s
 Devin Vassell: "He's the vet on our team, especially in that lineup, closing the games. Being able to calm the team down, being able to hit the tough shots, being able to hit the good ones, get us a good look. He was steady through the whole year and that's what you need when you're relying on your point guard. To come into the Spurs, being basically his number one option the whole time and then coming here where we have Vic and then a bunch of other people who can score the basketball, he had to adapt to that and I'm excited for him. He had a whole year under his belt, had a healthy off-season. I think he's going to prove a lot of people wrong."
 
 https://www.youtube.com/watch?v=EaDp5_Yt0LM&t=493s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
