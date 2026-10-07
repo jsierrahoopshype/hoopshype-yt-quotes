@@ -48,4 +48,198 @@ https://www.youtube.com/watch?v=DUltQEsK8oU&t=443s
 
 ---
 
+## Answering Your BIGGEST Questions About The NBA Right Now - From the Philippines — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=NfZfaGd02yo
+
+_Speakers identified: Brian Windhorst, Tim MacMahon, Jimmy Alapag, Paulo Manuel Ylores, Jandric Lim, Anton, Edgardo Carlo Antig, Tim McMahon_
+
+**1. Jimmy Alapag — "the four-point line definitely adds a very unique dynamic to the game, especially here in Asia" — Jimmy Alapag on the unique dynamic of the four-point line in the PBA** [03:06](https://www.youtube.com/watch?v=NfZfaGd02yo&t=186s)
+
+Jimmy Alapag: "The four-point line definitely adds a very unique dynamic to the game, especially here in Asia. Because like you said, with the four-point line, end-game situations, end-of-game situations, if you're down four, it only takes one shot to tie the game. Or if you're down three, hit a four-point shot to win the game. It adds a new level of excitement. I'm happy that the PBA is the one who took a little bit of a leap of faith to to try it. And I think again, I've been coaching with it and against it for the last three or four months and so far so good."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=186s
+
+**2. Tim MacMahon — "I don't know what's more impressive, the MVPs, the championships or the fact that this man held the Kings" — Tim MacMahon on the Sacramento Kings' player development and playoff success** [03:52](https://www.youtube.com/watch?v=NfZfaGd02yo&t=232s)
+
+Tim MacMahon: "I don't know what's more impressive, the MVPs, the championships or the fact that this man held the Sacramento Kings make the playoffs. I know. Without further ado, Jimmy Alapag."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=232s
+
+**3. Tim MacMahon — "he's got to be one of the best conditioned 37, 38-year-old pros that I've ever seen" — Tim MacMahon on Russell Westbrook's conditioning and character with the Kings** [05:18](https://www.youtube.com/watch?v=NfZfaGd02yo&t=318s)
+
+Tim MacMahon: "It's amazing looking back at last season with Sacramento, not knowing that it was **Russell Westbrook**'s last season. But to be able to have an opportunity to be around one of the all-time greats and really just see the day-to-day preparation and discipline, I think he's got to be one of the best conditioned 37, 38-year-old pros that I've ever seen. And on top of that, just an incredible person in terms of his character as a husband, as a father, as a teammate. To be able to meet an all-time great and spend time with him and learn that side about him, aside from the the legend that he is, was incredible."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=318s
+
+**4. Brian Windhorst — "he coached LeBron, coached Kobe, coached Steph, he was an assistant coach for the Warriors, won rings there" — Brian Windhorst on Mike Brown's coaching career and achievements** [07:17](https://www.youtube.com/watch?v=NfZfaGd02yo&t=437s)
+
+Brian Windhorst: "Two things about **Mike Brown**'s career that are fascinating. One, he coached LeBron, coached Kobe, coached Steph, he was an assistant coach for the Warriors, won rings there. Obviously, now has coached **Jalen Brunson**, Kyrie, and he's been fired four times. You know, just because you get fired doesn't mean you don't know what you're talking about, because that means you've been hired that many times."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=437s
+
+**5. Jimmy Alapag — "NBA players, it's like a 9-to-5 job, but you're just in the gym" — Jimmy Alapag on the intense daily workload of NBA players** [09:44](https://www.youtube.com/watch?v=NfZfaGd02yo&t=584s)
+
+Jimmy Alapag: "NBA players, it's like a 9-to-5 job, but you're just in the gym. Especially when you're talking about the NBA players, these guys are the best players in the world. And so, their day starts early in the morning, whether they're on the court, they're spending time getting to work on the court, then they're on the table. The NBA I think nowadays has a great job balancing their workload on the court while also balancing the recovery to keep them healthy throughout the season. They still spend time in the weight room, then you still have practice, and what I think a lot of people don't realize is a lot of these NBA guys after all of that work, they'll go home for a few hours and most of them come back at night to get extra work."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=584s
+
+**6. Brian Windhorst — "I encourage a lot of our, this new generation of of talent here in the Philippines" — Jimmy Alapag on the pathway for Filipino players to reach the NBA** [12:56](https://www.youtube.com/watch?v=NfZfaGd02yo&t=776s)
+
+**Brian Windhorst:** "I have been asked repeatedly today, and I'm sure you get asked all the time, because the fans here are so passionate and the league here has so many strong Filipino players, they so badly want to have a Filipino into the NBA. And what is the pathway for it to happen? What, you know, what has to happen for someone to rise up to that level because it is something that this country so badly wants?"
+
+**Jimmy Alapag:** "From my experience these past few years, being around the guys and really just seeing the amount of work that it takes to to get to that level, you know, I think Filipino players, especially local Filipino players, you know, we're closer than a lot of people think. And and it's always going to be toughest for the first one to to kind of break through. But, you know, I encourage a lot of our, this new generation of of talent here in the Philippines, I try to encourage all of all of them that for anybody who has NBA aspirations, the the amount of work and and discipline that it takes to be the first one, not just to be Filipino, but to be the first one, you know, it's going to take, you know, a lot. But I do feel that that we're close and, you know, sometimes it's just a matter of combining the work and the discipline with the opportunity."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=776s
+
+**7. Brian Windhorst — "we have a half-Filipino about to get an NBA ring, Jordan Clarkson" — Brian Windhorst on Jordan Clarkson's Filipino heritage and NBA success** [14:28](https://www.youtube.com/watch?v=NfZfaGd02yo&t=868s)
+
+Brian Windhorst: "We have a half-Filipino about to get an NBA ring, **Jordan Clarkson**, very soon here with the Knicks, he'll be getting his ring. But I have to assume the Filipinos are wholeheartedly on the bandwagon of Dylan Harper in San Antonio because he is half-Filipino, his mother is Filipino, and he has the flag on his arm, the three stars and the sun, which is part of the Filipino flag on his arm. I think the three stars represent the three regions of the country, is that correct on the flag? I don't know if I'm 100% right about that, but he's got it on his arm, literally wears it on his sleeve, and this is going to potentially be a big future for Dylan Harper."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=868s
+
+**8. Tim MacMahon — "Dylan Harper has superstar written all over him" — Tim MacMahon on Dylan Harper's potential as an NBA superstar** [15:12](https://www.youtube.com/watch?v=NfZfaGd02yo&t=912s)
+
+Tim MacMahon: "This should absolutely be a big future. He was the number two overall pick, the guy was their second best player in the finals, and they didn't win the finals, but they had a 10-point lead in all five games. And you know, he was 20 years old excelling on that stage. **Dylan Harper** has superstar written all over him."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=912s
+
+**9. Brian Windhorst — "the Portland Trail Blazers to me are a fascinating team" — Brian Windhorst on the Portland Trail Blazers' ownership and roster situation** [23:35](https://www.youtube.com/watch?v=NfZfaGd02yo&t=1415s)
+
+Brian Windhorst: "The Portland Trail Blazers to me are a fascinating team. I say, obviously, you think four-point line, Dame is one of the great distance shooters of all time. And you talk about that kind of range, it's him and Steph. You've got the first time we've ever had an NBA head coach on a 10-day contract in Mike Dunleavy. You know, they traded for John Morant. Now, Mike Dunleavy is basically saying, hey, it doesn't make sense for us to have Ja and Dame both in the starting lineup. Who's coming off the bench? That that's a fascinating thing."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=1415s
+
+**10. Brian Windhorst — "everybody seems to think that they made a terrible mistake in trading Jaylen Brown" — Brian Windhorst on the Boston Celtics' trade of Jaylen Brown** [24:57](https://www.youtube.com/watch?v=NfZfaGd02yo&t=1497s)
+
+Brian Windhorst: "Everybody seems to think that they made a terrible mistake in trading **Jaylen Brown**. Not that I'm necessarily on board with the trade, but they are very confident that their trade is going to work for them. They are very confident that **Kristaps Porzingis**, who they signed, will be a big addition to them, and I think they believe that they have a good chance to win the East this year."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=1497s
+
+**11. Brian Windhorst — "they are trying what I call the flip, where they are going to put AJ Dybantsa in there" — Brian Windhorst on the Washington Wizards' rebuilding strategy** [25:24](https://www.youtube.com/watch?v=NfZfaGd02yo&t=1524s)
+
+Brian Windhorst: "They are trying what I call the flip, where they are going to put **AJ Dybantsa** in there, they're going to activate **Trae Young** and activate **Anthony Davis** and say, okay, now let's try to make the playoffs, not in two years, today, now, immediately. We're going to do it right now. And there's the **Anthony Davis** issue because they've really put themselves in a weird spot by signing **Trae Young** to a contract, trading **Trae Young** with the expectation he was going to get a new contract, and then giving him a contract that was over the market value. They would disagree and say it wasn't. I'm saying it's over the market value, and **Anthony Davis** didn't get the same stuff, didn't come with a promise of a trade, didn't get a contract, didn't get offered over the market value. So that to me makes them very interesting."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=1524s
+
+**12. Brian Windhorst — "the flow of international players in the NBA is even going to grow" — Brian Windhorst on the global expansion of the NBA and international player development** [33:33](https://www.youtube.com/watch?v=NfZfaGd02yo&t=2013s)
+
+Brian Windhorst: "I think the flow of international players in the NBA is even going to grow because two things: one, the NBA is expanding to Europe, it's going to happen, I promise you. And part of the way that they're going to get everybody to buy in there is that they are going to guarantee investment in European players. This is going to be part of their sales pitch when they get it done. They're going to limit how many American players can be on there, they're going to expand the rosters because they're going to be playing in two different leagues, their national league and the NBA, and they're going to say the reason you should care about our new teams in London and in Rome and elsewhere, and the existing teams, is we're going to develop European players. And they are going to Europe for 20 years or more. They're investing in it like they did the WNBA. They don't care if it doesn't do great or somebody kicks rocks on it in the first year, they're going to invest in it. Secondly, international basketball is thriving. It's thriving here in the Philippines, it's thriving in other parts of Asia. Look at the the the Japanese are turning out players, the Japanese have become a powerhouse. In Australia, we just had on our podcast, we brought you 17-year-old **Luke Paul**, who has a chance to be the next great Australian player."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=2013s
+
+**13. Brian Windhorst — "the US is going to be in an absolute dogfight in Los Angeles" — Brian Windhorst on the US team's Olympic prospects and international competition** [34:49](https://www.youtube.com/watch?v=NfZfaGd02yo&t=2089s)
+
+Brian Windhorst: "The US is going to be in an absolute dogfight in Los Angeles. We have the World Cup next summer, and then the US has hung on by the skin of its teeth to the gold medal. They're going to bring their best and the rest of the world is going to bring their best, and I'm looking forward to a tremendous. I felt before it happened that the 24 Olympics was going to be the greatest basketball tournament ever staged. We're going to surpass it even again in Los Angeles with the great international play."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=2089s
+
+**14. Brian Windhorst — "one of the big what ifs is what if he had forced a trade" — Brian Windhorst on LeBron James' free agency and trade decisions** [47:00](https://www.youtube.com/watch?v=NfZfaGd02yo&t=2820s)
+
+Brian Windhorst: "One of the big what ifs is what if he had forced a trade. He elected not to. What if he had tried to force his way to Golden State to be with the Warriors? What if he had tried to force his way to Cleveland or something like that? What if he asked for a buyout and said, just pay me off and I'll go somewhere else? He didn't do that. He invested in the season. One of the things with LeBron, I'll say, he's obviously changed teams now a number of times. In all of those situations, he played to the absolute buzzer, giving his team he was leaving everything he had. That hasn't been the case for a lot of other star players who want out. They sort of will opt out of the season. There's a bunch of what ifs, but I don't think they're from this summer, I think they're actually from last year."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=2820s
+
+**15. Brian Windhorst — "the best and most rewarding way to build a championship contender is through the draft" — Brian Windhorst on the draft as the most rewarding way to build a contender** [51:13](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3073s)
+
+Brian Windhorst: "I think the best and most rewarding way to build a championship contender is through the draft. Unfortunately, the lottery is such a confounding situation and to do it through the draft, you either have to have many, many shots at it, which requires tanking and all kinds of manipulation, or you have to be thunderstruck lucky. And it's hard to build an organization through thunderstruck lucky. But the teams that I have been around that have had their championships that have truly been the most embraced are the teams that have built it organically through the draft."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3073s
+
+**16. Tim MacMahon — "the Thunder were built by being able to trade essentially the rights to a reigning Finals MVP" — Tim MacMahon on the Oklahoma City Thunder's draft-based team building** [52:12](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3132s)
+
+Tim MacMahon: "The Thunder were built by being able to trade essentially the rights to a reigning Finals MVP without ever having them on the roster, going back to the **Paul George** trade where they were able to cash in on **Kawhi Leonard**'s value and get **Shai Gilgeous-Alexander**, which nobody knew he was going to be a two-time MVP, but promising prospect plus all those picks. So, you know, that's one of those I don't think we're ever going to see a situation like that ever again, especially the way it worked out for the Clippers. I still think building through the draft is the preferred route. You know, I think when you look at the the Thunder in large part are built through the draft and Shay is, he's homegrown in the sense that his development came in OKC. And then their chief rival, the two teams I think, if we look at the next 10 championships, I bet you they'll win four or five if not more combined, uh, they're the one being the Spurs. The Spurs are clearly, their core is built through the draft."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3132s
+
+**17. Brian Windhorst — "Mark Cuban will go to his grave swearing that the NBA robbed them." — Mavericks' 2006 NBA Finals loss and Mark Cuban's reaction** [1:01:15](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3675s)
+
+Brian Windhorst: "The 2006 NBA Finals was such a disaster for the Mavericks. **Mark Cuban** will go to his grave swearing that the NBA robbed them, **Dwyane Wade**'s parade to the free-throw line. But Cuban throwing a fit in the middle of that series, the Mavericks lost their composure, lost their poise from the very top of the organization on down. That's the same series when **Avery Johnson** freaked out because some guys went and got a steak dinner or were out too late and said, 'Okay, we've got to move hotels.'"
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3675s
+
+**18. Brian Windhorst — "The Mavericks come back the next year, win 67 games, only to suffer the humiliation of the eight-seed We Believe Warriors." — Mavericks' 2007 playoff loss to the Warriors and Don Nelson** [1:01:43](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3703s)
+
+Brian Windhorst: "The Mavericks come back the next year, win 67 games, only to suffer the humiliation of the eight-seed We Believe Warriors upsetting them in the first round at the hands of **Don Nelson**, who had sued **Mark Cuban** after leaving Dallas. You felt like their window had closed. And so then, it's the same two teams, the Heat were heavily favored. Remember, this is LeBron's first year."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3703s
+
+**19. Tim McMahon — "Dwyane Wade hits a three right in front of the Mavericks' bench and he's dancing." — Dwyane Wade's 2006 Finals performance and the Mavericks' collapse** [1:02:15](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3735s)
+
+**Brian Windhorst:** "There was a crazy comeback in Game 2 where the Mavericks are down 15 with about five minutes left in the game. **Dwyane Wade** hits a three right in front of the Mavericks' bench and he's dancing right in front of their bench. That was one of the most incredible comebacks that I've ever seen."
+
+**Tim McMahon:** "Then there's Dirk's flu game where he's shivering on the bench, he hits the game-winner."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3735s
+
+**20. Brian Windhorst — "J.J. Barea is plugged into the starting lineup with the Mavericks down 2-1 in the series, completely changes the series." — J.J. Barea's impact in the 2011 NBA Finals** [1:02:38](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3758s)
+
+Brian Windhorst: "The switch in the starting lineup where **J.J. Barea** is plugged into the starting lineup with the Mavericks down 2-1 in the series, completely changes the series."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3758s
+
+**21. Tim McMahon — "Dirk was one of the most heavily criticized, harshly and unfairly criticized players in the history of the league." — Dirk Nowitzki's unfair criticism and career achievements** [1:03:22](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3802s)
+
+Tim McMahon: "Dirk was one of the most heavily criticized, harshly and unfairly criticized players in the history of the league, just because he was judged by the Finals meltdown and then the eight-seed elimination the next year. People perceived him to be some kind of playoff choker when he was one of the only players in the history of the league to average 25 and 10 for his career in the playoffs. He shattered the soft Euro stereotype. He was a seven-footer who was primarily a finesse player, best known for his shooting touch, which was when he came in the league, unheard of."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3802s
+
+**22. Brian Windhorst — "The next nine months was just a never-ending story, the worst PR I've ever seen in my life." — The Luka Doncic trade and the Mavericks' front office struggles** [1:04:30](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3870s)
+
+Brian Windhorst: "The Luka trade, the next nine months was just a never-ending story, the worst PR I've ever seen in my life. It was like you made a completely inexplicable trade and then kept managing to make the situation worse on almost a daily basis, leading right up into the general manager's fire."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3870s
+
+**23. Tim McMahon — J.R. Smith's post-championship celebration and the Cavaliers' trip to Vegas** [1:05:09](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3909s)
+
+**Tim McMahon:** "Everybody thinks that **J.R. Smith** didn't wear a shirt for like days and weeks after the Cavs won 2016. He actually set a record for getting dressed when he found out the Cavs were going to Vegas in the locker room. When he heard they were going to Vegas, he immediately put his clothes on. He was like, 'Let's go, let's go.'"
+
+**Brian Windhorst:** "DeShawn Stevenson in some ways was kind of the **J.R. Smith** of that Mavericks team. He did wear a shirt that night and on the plane home, and he actually got it off the back of a fan. And it said, 'Hey LeBron,' and then on the back it said, 'Tell me how my Dirk taste.'"
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3909s
+
+**24. Brian Windhorst — "I think the only answer on this is Chris Paul to the Lakers." — Chris Paul's failed trade to the Lakers and David Stern's intervention** [1:06:34](https://www.youtube.com/watch?v=NfZfaGd02yo&t=3994s)
+
+Brian Windhorst: "I think the only answer on this is **Chris Paul** to the Lakers. David Stern heard that the trade was going to happen, because if you remember, the Hornets were owned at that time by the league. David Stern heard that the trade was going to happen, he didn't check with anybody, he just immediately said, 'No.' I talked to the person who told him that the trade was happening, and he said, 'No way we're letting that go through.' He decided like that. So the big what if, David Stern has his reasons why, but he didn't do it."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=3994s
+
+**25. Brian Windhorst — "I've learned many things over the years from Pat Riley, and you know, it's like, keep the main thing the main thing." — Reporting on players' off-court activities** [1:07:35](https://www.youtube.com/watch?v=NfZfaGd02yo&t=4055s)
+
+Brian Windhorst: "I've learned many things over the years from **Pat Riley**, and you know, it's like, one of the things that in my in my profession, you hear like, 'Oh, so-and-so was out at the clubs last night.' You should talk about how so-and-so was out at the clubs. I'm like, 'Well, how do you know that when that player had a triple-double last week he wasn't out at the club?' You don't know. I know some who were. But I kind of follow **Pat Riley**'s philosophy, keep the main thing the main thing. Obviously, there's sometimes things that happen, it's not an ironclad rule, but I try to focus on the game, focus on the basketball when I can."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=4055s
+
+**26. Brian Windhorst — "There are times when things that happen away from the facility or outside of the court do impact NBA business." — Impact of off-court issues on NBA business** [1:08:39](https://www.youtube.com/watch?v=NfZfaGd02yo&t=4119s)
+
+Brian Windhorst: "There are times when things that happen away from the facility or outside of the court do impact NBA business, impact games. It's a case-to-case basis on those kind of things. Typically, family issues, if a guy wants to discuss his personal life like that, then that's one thing. Unless there's some kind of legal issues that could impact a player's availability or whatever, I would say their family issues are their story to share if they want to, and it's not our job to dig into situations like that."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=4119s
+
+**27. Brian Windhorst — "The number one thing that they were focused on was getting Mitchell Robinson off the court." — Celtics' strategic focus on Mitchell Robinson** [1:10:36](https://www.youtube.com/watch?v=NfZfaGd02yo&t=4236s)
+
+Brian Windhorst: "Two years ago, the Celtics played the Knicks in the playoffs and they were really worried about **Mitchell Robinson**. I covered the series and I couldn't believe that the number one thing that they were focused on was getting **Mitchell Robinson** off the court. It seemed like, 'Yeah, okay, Jaylen Brunson, I guess we got to guard him. Yeah, we should worry about Karl-Anthony Towns,' but, 'Get **Mitchell Robinson** off the court. Foul him and get him off the court.' And then this year, they were like, 'Not only do we think **Mitchell Robinson** is awfully important, we need to take him away from the Knicks.'"
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=4236s
+
+**28. Brian Windhorst — "What if Paul George like has a 45% three-point shooting season? This is not impossible." — Paul George's potential impact on the 76ers** [1:11:38](https://www.youtube.com/watch?v=NfZfaGd02yo&t=4298s)
+
+Brian Windhorst: "What if **Paul George** like has a 45% three-point shooting season? This is not impossible. He might play 45 games. And what if Mitchell Robinson is like hugely important for the Celtics and like hurts the Knicks a lot? So look, Mitch doesn't stay healthy that much either. They're banking an awful lot on two guys that don't stay healthy, but the Celtics kind of know what they're doing. I kind of respect them. I think Brad Stevens is pretty smart, and they did those two things. They prioritized getting rid of Jaylen, they prioritized getting Mitchell Robinson. So let's watch and see how that works out."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=4298s
+
+**29. Brian Windhorst — "The Jaylen Brown trade will ultimately be judged by what they're able to get when they flip Paul George and picks." — Jaylen Brown trade evaluation** [1:12:18](https://www.youtube.com/watch?v=NfZfaGd02yo&t=4338s)
+
+Brian Windhorst: "The **Jaylen Brown** trade will ultimately be judged by what they're able to get when they flip **Paul George** and picks. And that's not this season, that's got to be next summer, next trade deadline, when he's an expiring contract."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=4338s
+
+**30. Brian Windhorst — "One of the most fascinating moves for both teams was the Payton Watson sign and trade." — Payton Watson's signing and trade value** [1:12:43](https://www.youtube.com/watch?v=NfZfaGd02yo&t=4363s)
+
+Brian Windhorst: "One of the most fascinating moves for both teams was the **Payton Watson** sign and trade. And look, that's a case where the Nuggets, they were going to be, I mean they're already extraordinarily expensive for a team that just got bounced in the first round of the playoffs by a wounded Timberwolves team by the way. And so they just weren't going to be keeping **Payton Watson** at that price, and they felt they did well in that trade though. They feel like the upside of that Cavaliers 2031 unprotected pick, I believe, I'm right on the year, right? 2031, they feel like that was really good value because this Cavaliers core is not going to be together in 2031."
+
+https://www.youtube.com/watch?v=NfZfaGd02yo&t=4363s
+
+---
+
 <a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
