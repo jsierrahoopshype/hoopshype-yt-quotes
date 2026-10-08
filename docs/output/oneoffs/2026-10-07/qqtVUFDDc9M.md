@@ -1,20 +1,4 @@
-# HoopsHype YT Quotes — 2026-10-07
-
-## Unfiltered: Deandre Ayton at Media Day — *Washington Wizards*
-
-Source: https://www.youtube.com/watch?v=BDmUlB2OS-Q
-
-_Speakers identified: Deandre Ayton_
-
-**1. Deandre Ayton — "We will supply you with a pair of Wizards branded skinny jeans made by Deandre Ayton." — Deandre Ayton on the Wizards' skinny jeans giveaway for fans** [02:21](https://www.youtube.com/watch?v=BDmUlB2OS-Q&t=141s)
-
-Deandre Ayton: "If you donate yours in 2020, don't worry, we got you. We will supply you with a pair of Wizards branded skinny jeans made by **Deandre Ayton**. That's what it said."
-
-https://www.youtube.com/watch?v=BDmUlB2OS-Q&t=141s
-
----
-
-## YouTube title: Dinners With DeMar: Episode 7 - Matt Barnes — *DeMar DeRozan*
+# YouTube title: Dinners With DeMar: Episode 7 - Matt Barnes — *DeMar DeRozan*
 
 Source: https://www.youtube.com/watch?v=qqtVUFDDc9M
 
@@ -121,7 +105,3 @@ https://www.youtube.com/watch?v=qqtVUFDDc9M&t=2019s
 Matt Barnes: "I really been studying up on talking to yourself and the words you and especially too being a dad with twins where one broke his ankle and was out for almost seven months and it took him most of a year to heal and one took a major jump. So one of them talks to his self, it's not right. And I have to tell him like, 'Bro, like what you're saying to yourself, well, so if you feel like you can't do this or this is, that's how it's going to happen.' But if you flip it and talk positivity into yourself and positivity into life, like words are very, very, very powerful, man."
 
 https://www.youtube.com/watch?v=qqtVUFDDc9M&t=2070s
-
----
-
-<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>

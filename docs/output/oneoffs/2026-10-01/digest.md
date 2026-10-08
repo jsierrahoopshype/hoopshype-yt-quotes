@@ -272,6 +272,40 @@ https://www.youtube.com/watch?v=cSjyjJJlN_Y&t=366s
 
 ---
 
+## Mario Hezonja on picking the Cleveland Cavaliers, making a return to the NBA & his block on LeBron — *Ultimate Cleveland Sports Show*
+
+Source: https://www.youtube.com/watch?v=hJQr2WWiSdI
+
+_Speakers identified: Host, Mario Hezonja_
+
+**1. Mario Hezonja — "It bothers me being not accomplished and not full of trophies and full of winning, coming to NBA." — Mario Hezonja on his motivation for returning to the NBA** [00:23](https://www.youtube.com/watch?v=hJQr2WWiSdI&t=23s)
+
+Mario Hezonja: "It was constantly in back of my mind after I was drafted. Something bothers me and it bothers me being not accomplished and not full of trophies and full of winning, coming to NBA. So I think the great opportunity presented to me after the bubble to go back home and I know it sounds funny to say and it's in a common vocabulary to say to dominate or to be the best player, but I really wanted to go back and to win every single trophy in every tournament and every competition that I played."
+
+https://www.youtube.com/watch?v=hJQr2WWiSdI&t=23s
+
+**2. "It really seemed like a perfect organization with the perfect mentality for me." — Mario Hezonja on why he chose the Cleveland Cavaliers** [02:22](https://www.youtube.com/watch?v=hJQr2WWiSdI&t=142s)
+
+**Host:** "You had plenty of options, right? You could have gone elsewhere, you ended up choosing Cleveland. What role did **Kenny** and **Kobe** sell you on to make you choose Cleveland over any other option you had?"
+
+**Mario Hezonja:** "No, we don't have these type of conversations. I don't even like those type of conversations. I followed them through the last year, the regular season, I followed them through the playoffs. It always seems like a little tiny family that it's all about doing things correct, the right way. They take care of the small details that a lot of people probably skip. But then again, those details really make a difference at the long run. So it really seemed like a perfect organization with the perfect mentality for me that I'm just going to fit in as a plus. And then obviously speaking to **Donovan**, **James**, and **Kenny**, all of the guys, it's just don't look at me what I am there. I know who I am and you guys know as well, but I'm here to help you."
+
+https://www.youtube.com/watch?v=hJQr2WWiSdI&t=142s
+
+**3. Mario Hezonja — "Try to be as patient as you can. The team knows what they're doing." — Mario Hezonja on the advice he would give his younger self** [05:16](https://www.youtube.com/watch?v=hJQr2WWiSdI&t=316s)
+
+Mario Hezonja: "If I can give any advices to anybody like this or anybody in this case myself, I would try to be as patient as you can. The team knows what they're doing. You're not the smartest, so go with the flow, work extremely hard on your game, your time will come, and just trust. Super trust. Obviously it's very hard in nowadays and back in the day also to surround yourself with the right people. That's very important to have the right family around you, the right sports people around you, but then again, the right people for you, that third layer is the team at the club and they want the best for you."
+
+https://www.youtube.com/watch?v=hJQr2WWiSdI&t=316s
+
+**4. Mario Hezonja — "That play for me was very uncomfortable because we won the game cool, good." — Mario Hezonja on his famous block on LeBron James** [08:50](https://www.youtube.com/watch?v=hJQr2WWiSdI&t=530s)
+
+Mario Hezonja: "I don't even remember this because these are like the years where not a lot of team success, so it's kind of like a lot of his erased from the memory. That play for me was very uncomfortable because we won the game cool, good. We are not, I guess you say here above 500 yet to be in the playoffs here. We were not that successful team. I get to the locker room and I open the stat sheet and he had what, 37? He had a **LeBron** game. He was damn near dominant. And then it's America, I know it functions like this, you have to sell this the product and everything, but you know, they were also coming around to make a posters and sign it and I really declined that because I don't, at the end of the day, like we are all like, how to say, not like brothers, but like companions on the in the same league and we compete against each other all the time and these things happen. I don't like to glorify a basketball play for the sake of marketing purposes."
+
+https://www.youtube.com/watch?v=hJQr2WWiSdI&t=530s
+
+---
+
 ## Mark Cuban on Analytics vs. the Eye Test & The Future of Sports — *Home Grown with David & Derek Carr*
 
 Source: https://www.youtube.com/watch?v=s6JTkYfE1uA
