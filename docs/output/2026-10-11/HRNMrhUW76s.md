@@ -1,0 +1,45 @@
+# Deni Avdija on Becoming an NBA All-Star, Playing In NBA Playoffs & Hilarious Draymond Green Story — *The Draymond Green Show*
+
+Source: https://www.youtube.com/watch?v=HRNMrhUW76s
+
+_Speakers identified: Draymond Green, Deni Avdija_
+
+**1. Deni Avdija — "I came in a year that wasn't easy. I didn't have the draft in New York City." — Deni Avdija on the challenges of his rookie season in Washington** [01:13](https://www.youtube.com/watch?v=HRNMrhUW76s&t=73s)
+
+**Draymond Green:** "Can you talk to me about what the journey was like starting in Washington for you?"
+
+**Deni Avdija:** "I came in a year that wasn't easy. I didn't have the draft in New York City. I didn't have meeting all the lottery picks. I wasn't having the experience that everybody got drafted. My draft was stuck. I think it was in November, if I'm not mistaken. You tweeted about all the bottles of wine I had behind me back in. So, I won't forget about that. That was funny. I just got drafted in the middle of the night with all your friends and family. That was a special moment. But then you come to DC, which is kind of a ghost town back in COVID days. You come in and there's nobody outside, and you're in your little hotel room. You walk into the gym and everybody with masks on, you can't really dap nobody up. So, I feel like coming to the NBA at that moment, to this situation, especially coming from overseas, that's the hardest part I could have had in the beginning of my career."
+
+https://www.youtube.com/watch?v=HRNMrhUW76s&t=73s
+
+**2. Deni Avdija — "I'm a very social guy, talk to people, and suddenly you're in a new place, new team, and you can't really even bond." — Deni Avdija on the social isolation of his rookie season** [02:53](https://www.youtube.com/watch?v=HRNMrhUW76s&t=173s)
+
+**Draymond Green:** "You're walking in the facility and for eight months, you really don't even know what some people you're working with mouth and nose look like."
+
+**Deni Avdija:** "I was not, I have no idea. One time they put out the masks, I didn't even recognize them. That's how crazy like that half of this face is covered. You can't recognize people. It's crazy. It's been, it's been hard, I know. I know. I'm a very social guy, talk to people, and suddenly you're in a new place, new team, and you can't really even bond. You have to do all the testing every day, you're in your hotel rooms, you can't go out. So, I feel like people kind of forget about that, that that's how we started. That was like our beginning of the journey."
+
+https://www.youtube.com/watch?v=HRNMrhUW76s&t=173s
+
+**3. Deni Avdija — "Being not as dominant for a long period of time in a team that wasn't really competing to have expectations from fans, from the city, from the organization, it's a good problem to have." — Deni Avdija on the pressure of higher expectations in Washington** [05:26](https://www.youtube.com/watch?v=HRNMrhUW76s&t=326s)
+
+**Draymond Green:** "Does it feel different for you walking into this season knowing that the expectations on you are higher and that you kind of have these two other stars alongside you?"
+
+**Deni Avdija:** "I'm going to just say the expectations, I think it's a good thing. I think, you know, being not as dominant for a long period of time in a team that wasn't really competing to have expectations from fans, from the city, from the organization, it's a good problem to have for sure. I think having two guys that are been All-Stars, great players, being around you really helps, especially with their experience. And I think that is, yeah, as I said, it's a good problem and I like it. And I like, I feel like there is expectations, but you know, there's part of our kind of job. I mean, you face expectations every year, I face expectations every year, and honestly, I'm just coming in a positive mindset. You know, obviously last year gave me confidence, having the ball a lot, and obviously know with two dominant guards coming back, you do have one basketball in the end of the day. You play with one ball."
+
+https://www.youtube.com/watch?v=HRNMrhUW76s&t=326s
+
+**4. Deni Avdija — "Chauncey came up to me, because I was really struggling. He said, 'Listen, you're a great rebounder. Every time you take the rebound, you push it. I want you to push it.'" — Deni Avdija on how Chauncey Billups helped his development** [10:27](https://www.youtube.com/watch?v=HRNMrhUW76s&t=627s)
+
+**Draymond Green:** "When did you realize in the NBA I can actually reach that level?"
+
+**Deni Avdija:** "I remember Chauncey came up to me, because I was really struggling. Like, you know, I just got traded from Washington, I'm up there having a good year, coming to a new team again, switching the situation, and I struggled in the beginning. I wasn't even, I wasn't myself. And then Chauncey came to me, like, 'Listen, you're a great rebounder. Every time you take the rebound, you push it. I want you to push it.' So, I just started doing that. That was my, that was the only thing I was waiting in the game is to grab the board and just facilitating myself. And then the more I did it, the more everything kind of opened up. I kind of like, it was like kind of snowballing. And towards the end of the year, I was facilitating most of the offense and I felt really good."
+
+https://www.youtube.com/watch?v=HRNMrhUW76s&t=627s
+
+**5. Deni Avdija — "I feel like for a playoff experience, it was very rough. I'm going to tell you it wasn't easy at all, especially when I'm so physical." — Deni Avdija on the intensity of his first playoff experience** [19:45](https://www.youtube.com/watch?v=HRNMrhUW76s&t=1185s)
+
+**Draymond Green:** "What was your first playoff experience like now that you've got to experience that?"
+
+**Deni Avdija:** "Well, we didn't have a playoff run in a couple of years. I can't remember the exact number. But my first playoff experience, first of all, I had the play-in, and I don't think there's, you guys didn't have play-ins back in the day, but I had the play-in. And obviously beating Phoenix and get, and get the seven seed, you know, that was important for us. Although, although I'm going to say that both Oklahoma City and San Antonio are very, very, very hard matchups for your first playoff experiences. Big body, big bodies. Well, obviously, Spurs, like, you know, you have Wembanyama at the rim you got to worry about. You have great defenders, guards that are scrappy, they're young. Um, and I felt like for a playoff experience, it was very rough. I'm going to tell you it wasn't easy at all, especially when I'm so physical and you take my physicality with physicality, it's like, you bump head. It's going to be, it's going to be a war, but you know how it is. Collision every game, every that time down the court, it's a collision."
+
+https://www.youtube.com/watch?v=HRNMrhUW76s&t=1185s
