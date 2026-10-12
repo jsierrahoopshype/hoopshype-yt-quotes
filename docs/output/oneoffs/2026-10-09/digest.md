@@ -194,6 +194,82 @@ https://www.youtube.com/watch?v=_LvJWNHFeTg&t=768s
 
 ---
 
+## Enes Kanter Freedom EXPOSES NBA Bubble: Players High Before Games & OnlyFans Password — *Clay Travis*
+
+Source: https://www.youtube.com/watch?v=gfT-b1RpVY8
+
+_Speakers identified: Clay Travis, Enes Kanter Freedom_
+
+**1. Enes Kanter Freedom — "This is not about basketball. It's about talking about what's happening in our country." — NBA bubble environment forced political messaging on players** [00:07](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=7s)
+
+**Clay Travis:** "What was the bubble era like in the NBA? For people out there, some of you are big-time sports fans, others aren't. In 2020, the NBA finished their season in basically Walt Disney World inside of the so-called bubble due to COVID protocols. Everything was being played in a gym, everybody staying in hotels. What was that experience like?"
+
+**Enes Kanter Freedom:** "The COVID happened, right? Obviously, the NBA is bringing all these experts to educators about what COVID is, how we are the leaders of our society, and we should talk about the vaccination. We don't know anything better. We thought that this COVID is the most deadly thing. They convinced you that it was the deadliest thing. We are making videos, we are tweeting about it, we are talking about it. They put out all the mask mandates. We are traveling to the bubble and they were cooking us food at the airport, at the plane. I told one of my teammates, I'm like, we have this mask on, but I can't tell what they're cooking, they're cooking chicken for us. If this doesn't protect us from smelling a chicken, how is it going to protect us from the deadliest virus ever? We started to have this conversation. The coach said, everyone having this meeting, this is not about basketball. It's about talking about what's happening in our country. The NBA wants us to talk about what's happening in America, all the protests going on, **George Floyd**, Black Lives Matter. So you guys are the voice, you guys are the leaders of our community. So go out there and talk about it."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=7s
+
+**2. Enes Kanter Freedom — "You can only put like 20 words, which was controlled by the NBA." — NBA controlled player jersey messaging and social justice slogans** [02:47](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=167s)
+
+**Clay Travis:** "What was your jersey?"
+
+**Enes Kanter Freedom:** "Freedom. My name was Freedom. They put all these BLM logos on the floor, they put all the phrases behind our jersey, which was controlled by the NBA. So if you wanted to pick like, I want to put stand with Hong Kong, you're not allowed to. You can only put like 20 words, which was controlled by the NBA."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=167s
+
+**3. Enes Kanter Freedom — "We were talking about how we have to take a knee." — Players were forced to take a knee during the national anthem** [03:07](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=187s)
+
+**Enes Kanter Freedom:** "Before the game, we had a meeting, and in the meeting, we were talking about how we have to take a knee. So as an outsider, I'm trying to understand, I'm asking my teammates, I'm like, guys, why are we taking a knee? They said, just shut up and do it. Just listen to us. At that point, I'm like, I asked one of my teammates, I was like, isn't this like taking a knee disrespect to our flag, to our veterans and our country? They said, you have no idea what's going on. We'll explain to you later, which they never did. So I was like, okay, so we're all taking knees for the national anthem every day."
+
+**Clay Travis:** "For the national anthem every day."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=187s
+
+**4. Enes Kanter Freedom — "For that period, NBA was allowing all the players smoke marijuana." — NBA allowed marijuana use in the bubble despite strict rules** [04:15](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=255s)
+
+**Clay Travis:** "What did you do in the rooms? Were you active on social media? How did you pass your time?"
+
+**Enes Kanter Freedom:** "It was against the, you're not allowed to smoke marijuana everywhere, but for that period, NBA was allowing all the players smoke marijuana. In the hotels and everywhere. And so I see all my teammates, right? Their eyes are red. They're like, they can barely walk. And we had like four or five hours left till the game starts. I'm like, guys, what are you doing?"
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=255s
+
+**5. Enes Kanter Freedom — "You can literally just go on and watch any OnlyFans model you want for free." — NBA bubble provided free access to OnlyFans content** [04:47](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=287s)
+
+**Clay Travis:** "So they would not let you go get food from an Uber, but they let you have as much weed in the, in the bubble as you want."
+
+**Enes Kanter Freedom:** "Which I'll tell you another thing, which this happened with the Celtics, and I mean, which which which was disgusting, I think, which is, I'm glad that I did not do it. So this is not the NBA, I don't know who did that. They were passing away some kind of like a password, so you can literally just go on and watch any OnlyFans model you want for free. So they were just, they put this like code on a paper, they were just passing it. I'm like, what is this? So they explained to me, I'm like, I'm good, I don't want it. This is just nasty. I don't want to watch someone's daughter, someone's whatever, just getting naked and I just wouldn't, I just wouldn't do it. I have better morals."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=287s
+
+**6. Enes Kanter Freedom — "There are two players that did not take a knee. One of them was Jonathan Isaac." — Only a few NBA players refused to take a knee** [06:30](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=390s)
+
+**Clay Travis:** "Do you think how many NBA players do you think also regret that now, if they were being honest?"
+
+**Enes Kanter Freedom:** "If you have a question, I mean, see like there are two players that did not take a knee. One of them was **Jonathan Isaac**, and another one was **Meyers Leonard**. And I don't think Coach Popovich took a knee. But right now, if the whole thing that happened again, I promise you, half of the NBA wouldn't take a knee."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=390s
+
+**7. Enes Kanter Freedom — "I did this one interview with Laura Ingraham, Fox News." — Fox News interview caused tension with NBA teammates** [07:11](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=431s)
+
+**Enes Kanter Freedom:** "I did this one interview with CNN, and I walked in a locker room, everybody was just like so happy, congratulations, you did an amazing job, blah, blah. Literally the next day, I did an interview with **Laura Ingraham**, Fox News. The next morning, I walked in a locker room, I'm getting these dirty looks from my teammates. I'm like, guys, what happened? They said, have you watched your interview last night? I said, okay. He's like, well, you better not do that ever again."
+
+**Clay Travis:** "Because she was the shut up and dribble person or what Fox News is?"
+
+**Enes Kanter Freedom:** "It's Fox News. Obviously, her self as well, but then, but it's Fox News. And that was the first time I like I understand like this is not right. We're talking about America."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=431s
+
+**8. Enes Kanter Freedom — "I'm 34 right now. I can still play." — Enes Kanter Freedom believes he could still play in the NBA** [08:12](https://www.youtube.com/watch?v=gfT-b1RpVY8&t=492s)
+
+**Clay Travis:** "Okay, so all of that is your career in the NBA. You think, and I think you're correct, that if you had just shut up and dribbled, you would have been able to play another six, seven years. You might, how old are you right now?"
+
+**Enes Kanter Freedom:** "I'm 34 right now. I can still play."
+
+**Clay Travis:** "You think you could still play? Oh yeah, 100%. You're one of the 500 best NBA players, you think still if you, obviously there's not a lot of, I agree with you."
+
+https://www.youtube.com/watch?v=gfT-b1RpVY8&t=492s
+
+---
+
 ## 2026-27 Postgame Media Availability 🎙️ | LeBron James | 10.08.26 — *Philadelphia 76ers*
 
 Source: https://www.youtube.com/watch?v=mLmZHPY6XvU
