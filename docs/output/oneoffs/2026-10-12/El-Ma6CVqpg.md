@@ -1,0 +1,35 @@
+# 10 Questions with Jalen Williams #thunderup — *Down to Dunk - OKC Thunder Podcast*
+
+Source: https://www.youtube.com/watch?v=El-Ma6CVqpg
+
+_Speakers identified: Jalen Williams, Andrew Schlecht_
+
+**1. Jalen Williams — "my face scan is still messed up. This is year five now, my face scan is still from my first year." — Jalen Williams on his rating and face scan in NBA 2K** [00:12](https://www.youtube.com/watch?v=El-Ma6CVqpg&t=12s)
+
+Jalen Williams: "Everything. My face scan is still messed up. This is year five now, my face scan is still from my first year. I was hurt this year and somehow my rating dropped. I don't know how that works, I didn't play, so I probably should fix that and then they ask me to play the game, so we got to work on that. And my shoes and my tattoos."
+
+https://www.youtube.com/watch?v=El-Ma6CVqpg&t=12s
+
+**2. Jalen Williams — "I think one time in college, I took a charge on an out of bounds during COVID." — Jalen Williams on his smartest play in college and the NBA** [01:35](https://www.youtube.com/watch?v=El-Ma6CVqpg&t=95s)
+
+Jalen Williams: "I think one time in college, I took a charge on an out of bounds during COVID. I thought that was pretty cool to get the ball back. In the NBA, I don't know if there's a lot of smart plays going on from Jalen. I would probably just say I've made a collection of smart plays as far as clock management, knowing exactly when to score to get two-for-ones."
+
+https://www.youtube.com/watch?v=El-Ma6CVqpg&t=95s
+
+**3. Jalen Williams — "getting my glutes and my hips to open up, I think took a lot of pressure off my hamstring." — Jalen Williams on his physical recovery and offseason training** [02:06](https://www.youtube.com/watch?v=El-Ma6CVqpg&t=126s)
+
+Jalen Williams: "Me having hand surgery and not being able to do a lot of the stuff I usually do in the summer contributed to some of that. Usually when you have hamstring injuries and soft tissue stuff, it's usually something else isn't working. Getting my glutes and my hips to open up, I think took a lot of pressure off my hamstring. So now I feel very good, I feel very fluid. I feel back to what I think my normal is."
+
+https://www.youtube.com/watch?v=El-Ma6CVqpg&t=126s
+
+**4. Jalen Williams — "Mario for sure, main character. But on this team, I feel like I'm more Luigi." — Jalen Williams on his personality compared to Mario and Luigi** [03:03](https://www.youtube.com/watch?v=El-Ma6CVqpg&t=183s)
+
+Jalen Williams: "Mario for sure, main character. But on this team, I feel like I'm more Luigi. But in life, I feel like I'm Mario. Everybody should feel like Mario in life."
+
+https://www.youtube.com/watch?v=El-Ma6CVqpg&t=183s
+
+**5. Jalen Williams — "Best defender on the team, Cason. Best shooter, I almost said Isaiah Joe, I miss you buddy." — Jalen Williams on his Thunder teammates** [04:42](https://www.youtube.com/watch?v=El-Ma6CVqpg&t=282s)
+
+Jalen Williams: "Best defender on the team, Cason. Best shooter, I almost said **Isaiah Joe**, I miss you buddy. Best passer, me. Best dressed, me. I lead the team in MVP this last past year by the way everybody. Best teammate, J-Will."
+
+https://www.youtube.com/watch?v=El-Ma6CVqpg&t=282s
