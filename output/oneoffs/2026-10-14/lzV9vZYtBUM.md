@@ -1,0 +1,59 @@
+# Knicks Extension Drama & Roster Predictions with James Edwards III | The Putback with Ian Begley — *SNY*
+
+Source: https://www.youtube.com/watch?v=lzV9vZYtBUM
+
+_Speakers identified: Ian Begley, James Edwards III_
+
+**1. James Edwards III — "I think that was a direct response to how public it had gotten, particularly on Karl-Anthony Towns' end." — Karl-Anthony Towns' frustration with the Knicks' lack of contract extensions** [01:05](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=65s)
+
+**Ian Begley:** "I'm curious, James, what was your take on them putting that out there publicly like that?"
+
+**James Edwards III:** "I think that was a direct response to how public it had gotten, particularly on **Karl-Anthony Towns**' end. He had been asked about it and said several times that he was upset with how things have gone. And then Monday, the Monday before the release, was probably the most emphatic statements on his end, where he says nothing is close, though he's willing to take a pay cut, set it out of his own mouth, which we've all kind of reported over the last few months. And then also said, what else do I have to prove? So to me, it felt like a direct response to that and trying to quiet the noise a little bit."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=65s
+
+**2. James Edwards III — "His vibe was a lot more positive in that regard in terms of just a lot of emphasis on the team." — Karl-Anthony Towns' focus on team success despite contract frustration** [02:34](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=154s)
+
+**Ian Begley:** "You were up there after the statement came out and you were talking to Karl, and was his reaction pretty much the same as Monday?"
+
+**James Edwards III:** "No, I think it was certainly his vibe was a lot more positive in that regard in terms of just a lot of emphasis on the team and making sure that they do what they need to do on the court. And he said, yeah, it's a business in regards to his contract, but we have business to handle on the court. So like I said, there was definitely still some frustration there. He said it was news to him that talks were going to be stopped until later in the season. So there was obviously still a little bit of animosity there."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=154s
+
+**3. Ian Begley — "James Dolan has a history of writing big checks to acquire big-name coaches and executives." — The financial implications of the Knicks' roster-building strategy** [04:06](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=246s)
+
+Ian Begley: "I kind of look at it from both ends. One is from the Knicks' standpoint, is it just a financial decision? I don't know if it is or it isn't, but **James Dolan** has a history of writing big checks to acquire big-name coaches and executives and pay players and paying into the tax. And so I just say that just to give a little context. Obviously, if it is financial, I think that would be a shame given how much the fan base supports this team. But the flip side of it is, it does hamstring you in terms of what you can and cannot pay these guys in extensions. It takes tools out of your toolbox in terms of how you can build out the roster."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=246s
+
+**4. James Edwards III — "The name of the game is to win a championship. They have the group that can clearly do it." — The Knicks' goal of winning a championship despite roster constraints** [05:28](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=328s)
+
+James Edwards III: "You mentioned all the team-building stuff and you're 100% right, and the Knicks have utilized some of the mechanisms from staying under the second apron to build a title contender. But that's where the conversation stops for me. They built a title contender. The name of the game is to win a championship. They have the group that can clearly do it. And so all this you can't send multiple players, you can't send cash, your picks are limited, while it might be frustrating, writing off into the sunset with this group, even if this was the only title, I think people would be okay with that."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=328s
+
+**5. James Edwards III — "I think Wiseman is the guy who has created some momentum here for various reasons." — James Wiseman's potential as a reserve center for the Knicks** [13:29](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=809s)
+
+**Ian Begley:** "I said **Drew Eubanks** would be the safe pick, I still believe that, but I think Wiseman is the guy who has created some momentum here for various reasons, his play, the idea that he has a different style than the two centers ahead of him, and that he's young. And that, you know, if you can kind of get even 80% of what the upside was when he was drafted, you've hit a home run there. And so that's kind of how I look at that center spot. I want to know how you see it."
+
+**James Edwards III:** "Yeah, I think you make a good point with Wiseman. I think his plus is this is a team that has a bunch of knowns, right? And I think they don't have a lot of room, they don't draft very high to be able to add somebody young with upside. And whether you want to say Wiseman still has upside at this point in his career, like I understand if you argue against that, but he is only 25. He hasn't played a ton of basketball. I covered him for either half a season or a season and a half in Detroit, and there were moments, and then there were moments you understand he still has ways to go. I'm with you, I think if you're going to go in terms of just like we need for the third center or this last spot, let's take a swing on upside and you never know what could happen, right?"
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=809s
+
+**6. James Edwards III — "I would want somebody that I know what I'm going to get every single night." — Why Drew Eubanks and Tony Bradley are reliable reserve center options** [14:45](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=885s)
+
+James Edwards III: "I would also say though, if you're looking for if I wanted a third center, I would want somebody that I know what I'm going to get every single night. And I think that's kind of where **Tony Bradley** and **Drew Eubanks** have the lead for me in terms of what I would gravitate toward for that spot, just simply because **Karl-Anthony Towns** has had foul trouble in the past, **Andre Drummond** has obviously played a lot of seasons, he's still fairly young, but he's played a lot of seasons. There might be times when this third center may need to play and maybe play for significant stretches, and I would just prefer to have somebody I know what I'm going to get every night."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=885s
+
+**7. James Edwards III — "I think Bruce would be a great addition for this team, just his positional versatility." — Bruce Brown's positional versatility and value to the Knicks** [16:38](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=998s)
+
+James Edwards III: "I think Bruce would be a great addition for this team, just his positional versatility, being able to play he's played point guard in the past, I covered him in Detroit in his first few seasons when he was playing point guard. Then you saw him go to Brooklyn and play small-ball five, has developed his jump shot, can still defend, maybe has lost a little of the athleticism that he had early in his career, but he's a smart player and I think he's found ways to make up for it in that way. So it's going to be interesting."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=998s
+
+**8. Ian Begley — "I think Mitchell Robinson, when healthy, is a very unique talent and you can't replace him." — The Knicks' bench depth and Mitchell Robinson's unique impact** [22:09](https://www.youtube.com/watch?v=lzV9vZYtBUM&t=1329s)
+
+Ian Begley: "I think the depth is pretty much the same. I think **Mitchell Robinson**, when healthy, is a very unique talent and you can't replace him with any backup center, and that's not a slight to **Andre Drummond**, it's just Robinson's ability and what he brings to the court when he's healthy. So I think you could say maybe there's a bit of a downgrade because of that. But beyond that, everybody's back and they committed to **Landry Shamet**, they committed to **Jose Alvarado**, **Miles McBride**'s contract situation is in flux there, but there's a commitment there and confidence level there from the organization. Those guys proved it last year, they feel like they can do it again this year."
+
+https://www.youtube.com/watch?v=lzV9vZYtBUM&t=1329s

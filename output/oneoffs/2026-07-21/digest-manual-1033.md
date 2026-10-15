@@ -1,0 +1,157 @@
+# HoopsHype YT Quotes — 2026-07-21
+
+## Efes to Fenerbahçe: Shane Larkin Tells All | Off The RECourt S2-Episode1 | with @EUROINSIDERS — *Off The RECourt*
+
+Source: https://www.youtube.com/watch?v=0GxT3tUVdQY
+
+_Speakers identified: Shane Larkin, Alexandre Maticiuc, Benedikt Maukner, Unidentified Host_
+
+**1. Shane Larkin — "the players don't really have a say. A lot of the times, players get blamed for this, players get blamed" — Shane Larkin on the lack of player voice in European basketball** [04:19](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=259s)
+
+Shane Larkin: "A large part of what goes on in Europe, and this is the narrative that I would like to change, is that the players don't really have a say. A lot of the times, players get blamed for this, players get blamed for that, and they don't get to come out and say their perspective of things. People don't truly understand what is happening over here, and one of the reasons why I have had a podcast, why I had a show, is because I am trying to show the behind-the-scenes of what is actually going on over here because there are so many rumors and there are so many different things that come out that necessarily aren't true, and I would just like to give players an opinion to go and speak their part."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=259s
+
+**2. Shane Larkin — "this season was like a season from hell, to be honest. To start the season, obviously there was a lot of excitement." — Shane Larkin describes the 2022-23 Anadolu Efes season as a 'season from hell'** [06:03](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=363s)
+
+Shane Larkin: "This season was like a season from hell, to be honest. To start the season, obviously there was a lot of excitement. We signed a bunch of good players: **Isaiah Canaan**, **Nick Weiler-Babb**, **Kai Jones**, **Jordan Loyd**. We had a lot of excitement coming to the **Igor Kokoskov** coaching staff. You bring a guy back, offensive genius. So there was a lot of excitement that went to the season."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=363s
+
+**3. Shane Larkin — "after four games, PJ tears his hamstring, pop, tears his ACL. Vince is still not back." — Shane Larkin details the injury-plagued season for Anadolu Efes** [08:39](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=519s)
+
+Shane Larkin: "After four games, **PJ Dozier** tears his hamstring, pop, tears his ACL. **Vince** is still not back. Then after 10 games, I tear my abductor. I am out for the next three, four, five months. So it just seemed like we never had a full roster. And obviously management has things that they have to dive into and they have to make certain decisions to benefit for their club in the best way that they know possible. But then after 10 games or 11 games, whatever it was, they fire the coach. So now it is another fired coach within a five-month period, which has been consistent with Efes for the last three years."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=519s
+
+**4. Shane Larkin — "I said if anything, this is how much a guy like this cares about what we got going on here." — Shane Larkin on the importance of keeping Daniel Oturu on the roster** [12:12](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=732s)
+
+Shane Larkin: "I said you cannot lose **Daniel Oturu** because there is nobody like it. In Europe, that is one of the most difficult positions to fill, the five-man spot. This guy is 24 years old, 25 years old. When we lost last year, Game 5 against Panathinaikos in the playoffs, he was the only guy in the locker room crying, tears. I said if anything, this is how much a guy like this cares about what we got going on here. He was a monster. He was the only guy in the locker room crying, tears. I said if anything, this is how much a guy like this cares about what we got going on here. He was a monster."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=732s
+
+**5. Shane Larkin — "you have to pay to play, bro. If you want to be competitive in this league now, you have to spend the money." — Shane Larkin on the necessity of spending money to be competitive in EuroLeague** [15:30](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=930s)
+
+Shane Larkin: "You have to pay to play, bro. If you want to be competitive in this league now, you have to spend the money. That is just what it is. And sorry, but that is just what it is. Efes paid, but not wise, maybe you say."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=930s
+
+**6. Shane Larkin** [20:01](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1201s)
+
+**Benedikt Maukner:** "The GM is the closest person to the owner. Which means that sometimes the moves that are made is not to win, but it is to protect. It is true. So I think the question is, isn't it like the GMs protect themselves so much that they are like the last piece, rather than they should have taken that accountability earlier?"
+
+**Shane Larkin:** "Bro, listen, at the end of the day, everybody's relationships are different with each team. If a GM has been somewhere for quite some time and has that built-in trust, maybe they have a little bit longer of a leash. But if they don't, and they are trying to secure their job, of course the first thing they are going to do is say, 'Hey, no, he is the problem, he is the problem, he is the problem.' But then when you blame everyone, then who else is to blame?"
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1201s
+
+**7. Shane Larkin — "I got to Turkey in 2018. I have been with Efes for eight years, but now, summer of 2026, I will now be a new member of the Fenerbahçe family." — Shane Larkin on his decision to join Fenerbahçe** [27:15](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1635s)
+
+Shane Larkin: "I got to Turkey in 2018. I have been with Efes for eight years, but now, summer of 2026, I will now be a new member of the Fenerbahçe family."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1635s
+
+**8. Shane Larkin — "I am not going to come on some platform or any platform and talk shit about Efes. I will not." — Shane Larkin on his loyalty to Anadolu Efes despite management issues** [28:46](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1726s)
+
+Shane Larkin: "I am not going to come on some platform or any platform and talk shit about Efes. I will not. Efes has done nothing but been good to me. They paid me, we won championships together, I built relationships that are going to last a lifetime with them. I am not going to come on some platform or any platform and talk shit about Efes. I will not."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1726s
+
+**9. Shane Larkin — "I am excited, bro. I am genuinely excited. I think there is a lot of positive and good things that are happening over there." — Shane Larkin on his excitement for the new chapter with Fenerbahçe** [30:26](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1826s)
+
+Shane Larkin: "I am excited, bro. I am genuinely excited. I think there is a lot of positive and good things that are happening over there. And I know a lot of fallback is going to come from this and I know that people are going to be confused and not really understand, but hopefully after listening to this they get it a little bit more."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1826s
+
+**10. Shane Larkin — "I would have been a free agent. It is the first year post-Ataman, let's say. Vassa just went to the NBA." — Shane Larkin on his departure from Anadolu Efes** [31:45](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1905s)
+
+Shane Larkin: "I would have been a free agent. It is the first year post-Ataman, let's say. Vassa just went to the NBA. Ataman went to Panathinaikos. I stayed in Efes to kind of like build that next chapter, you know? They brought in Erdem Can, who was a young, promising head coach. He was in Fenerbahçe for many years with Obradovic. Then he went to Telekom, had a great year in the EuroCup, lost in the final, but had a great year. Very promising guy, good basketball mind, had been around for some quite some time, proven guy. So you bring him in and you ask me to be your captain of Efes and to kind of lead us into this new era of Efes basketball. Okay, I am down. Let's do it."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=1905s
+
+**11. Shane Larkin — "they then put Tomislav Mijatovic out to be the head coach, which Tommy had been here for the five years" — Shane Larkin on the coaching changes and roster instability at Anadolu Efes** [33:47](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2027s)
+
+Shane Larkin: "They then put **Tomislav Mijatovic** out to be the head coach, which Tommy had been here for the five years with Ataman. So he knows me, I know him, and we have a good relationship. We go 12 and 1 to end that season, we end up in the play-in. I lead the league in minutes, I lead the league in PIR, I am top five in scoring, I am top five in PIR, I am top five in assist, I am top five in whatever. Great season. That summer everybody wanted me. Every single team. I could have just been like, 'At the right price.' At the right price. Obviously, but I could have just been like, 'You know what, fuck you.' But they hired Tommy as the new head coach here in Efes. I'm like, 'Me and Tommy have a good relationship. If Tommy is going to be the guy, I feel like me and Tommy together, I understand him, he understands me, we will be able to build something.' We will be able to build. And then after three months, you fire the guy. Same stuff every season. Same pattern. Same thing. You fire the guy."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2027s
+
+**12. Shane Larkin — "And then you bring in Luca Banchi. Okay, and Luca Banchi had been in Bologna earlier that year." — Shane Larkin on the coaching instability at Anadolu Efes** [35:54](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2154s)
+
+Shane Larkin: "And then you bring in **Luca Banchi**. Okay, and **Luca Banchi** had been in Bologna earlier that year. And I am not saying anything against **Luca Banchi**. I think he is a great coach and he has done great things with the Latvian national team and, you know. So, you know, you ask me to buy into that project. I am like, 'Okay, I am down. Let's do it.' I give my all. I sit down, I have conversation with Banchi and like where we are trying to go and what we are trying to do and blah, blah, blah. Then boom, season ends the way it ends. We lose to Besiktas in the Turkish League, we lose to Panathinaikos in Game 5. And then I am like, 'Okay, we have a good roster and the coach is who he is.' You got to keep one of the two. All of them."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2154s
+
+**13. Shane Larkin — "Okay, Igor Kokoskov. Excited, basketball genius, offensively one of the best head coaches. Been in the NBA for many years" — Shane Larkin on the constant roster and coaching turnover at Anadolu Efes** [36:39](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2199s)
+
+Shane Larkin: "Okay, **Igor Kokoskov**. Excited, basketball genius, offensively one of the best head coaches. Been in the NBA for many years as an assistant, as ATOs and blah, blah, blah, blah. So I think, you know, I played against him when he was a head coach of Fenerbahçe. So I am like, 'Okay, yeah, a new, another new project. Let me buy in.' Let me buy in, talk to Igor all summer about the roster, about how we are going to play, about this, that and the third, throughout EuroLeague. Then again, you come here, you start playing and then two months later, he is out of there. No, the sounds like it sounds like they gave you good reasons to stop believing."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2199s
+
+**14. Shane Larkin — "I want to win championships. I don't care about MVP. I don't care about, fucking scoring titles." — Shane Larkin on his desire to win championships over individual accolades** [37:41](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2261s)
+
+Shane Larkin: "I want to win championships. I don't care about MVP. I don't care about, fucking scoring titles. I don't care about first team. I don't care about that shit. Want to win. At the end of the day, you sit there at the end of the year, which I have done twice, and you raise that trophy, it's a different feeling. It's a very, very different feeling."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2261s
+
+**15. Shane Larkin — "if you change the direction every six months, every four months, as the leader, as the main guy" — Shane Larkin on the difficulty of leading a team with constant turnover** [38:06](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2286s)
+
+Shane Larkin: "If you change the direction every six months, every four months, as the leader, as the main guy who is going to get blamed for all the shit, it doesn't work. It's my fault. 'Shane can't carry a team. Shane's not good enough anymore.' This, that and the third. As that guy who, okay, I am willing to accept all the shit that people say because I don't care. But at least give me a chance. If you change my direction every six months, every four months, you are making it so much more challenging for me to lead this group of 12 men, or 13, 15 men to the promised land, because I don't even know. Like you asking me to get to know Pablo Laso, Luca Banchi, Igor Kokoskov, Tommy, Erdem Can, Adam John. You asking me to try to become the head of the snake. Every coach you talk to is like, 'Oh, my point guard needs to be like the head of the snake. He needs to be an extension of me on the court.' I don't even know who the fuck I am playing for at this point."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2286s
+
+**16. Shane Larkin — "I genuinely feel like Turkey is a home to me. Like a home to me. And the more I can do internationally" — Shane Larkin on his deep attachment to Turkey as a home** [39:48](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2388s)
+
+Shane Larkin: "I genuinely feel like Turkey is a home to me. Like a home to me. And the more I can do internationally to bring shit back here, I feel like I have helped do something. And that is just what it is. Like I don't know if anybody can understand it or not understand that, but like I genuinely feel like this is a second home to me. I am here in the it is summer. I am from America. I want to home for four days. I came right back and now I am here. I am just here because this feels like home. That is the truth."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2388s
+
+**17. Shane Larkin — "for me, sitting here right now, it is tough to even believe, to be honest. But I am excited, bro." — Shane Larkin on the difficulty of his decision to leave Anadolu Efes** [40:27](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2427s)
+
+Shane Larkin: "For me, sitting here right now, it is tough to even believe, to be honest. But I am excited, bro. I am genuinely excited. I think there is a lot of positive and good things that are happening over there. And I know a lot of fallback is going to come from this, and I know that people are going to be confused and not really understand, but hopefully after listening to this they get it a little bit more."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=2427s
+
+**18. Shane Larkin — "I feel like there is going to be a select group of individuals that will boo me" — Shane Larkin expects backlash from Anadolu Efes fans after joining Fenerbahçe** [1:00:19](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3619s)
+
+Shane Larkin: "I feel like I am going to be booed, honestly. I feel like there is going to be a select group of individuals that will boo me at Efes. It is going to hurt a little bit, yeah, absolutely. But at the end of the day, I genuinely showed up every single day and I gave you everything. I did. I genuinely did to the end, to the very end. A few weeks ago we were still playing in the semifinals and I gave it all. My knee was about to fall off. I am literally doing everything I can to just be out there on the floor. I am giving you everything that I got. So to feel that resentment from a group that you gave everything to for eight years, yeah, it is going to hurt a little bit, but at the end of the day I understand it."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3619s
+
+**19. Shane Larkin — "If you take me out of the picture with Efes, what do you expect?" — Shane Larkin explains why Fenerbahçe is better positioned to win championships** [1:01:36](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3696s)
+
+Shane Larkin: "If you take me out of the picture with Efes, what do you expect? What is Efes shooting for? They have the license, so they are in the EuroLeague, they are not risking anything. And they should be, and they deserve that respect. But what is the expectation? Going into the next season, we do a podcast, what do you think of Efes this year? If they don't go to the Final Four, then they fucking suck. Is that what you think? The way we put it out there, it seems that Efes right now don't even know themselves what are their goals."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3696s
+
+**20. Shane Larkin — "There is only one goal. Win. That is it. Everything. Fire." — Shane Larkin's singular goal is winning championships with Fenerbahçe** [1:02:28](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3748s)
+
+Shane Larkin: "There is only one goal. Win. That is it. Everything. Fire. The only reason that any of this is happening is because I am coming there to win championships and to put that name at the top of the European basketball landscape. And that is it. And that is all I can say, because that is the truth."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3748s
+
+**21. Shane Larkin — "There is only one reason I am coming over there to be honest. I have so much respect" — Shane Larkin's motivation for joining Fenerbahçe is to win** [1:02:56](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3776s)
+
+Shane Larkin: "There is only one reason I am coming over there to be honest. I have so much respect for what you guys have built over the last X amount of years. But there is only one reason I am coming over there and that is to win everything, every game, every situation. Will it happen? I am not sure. However, the only goal, the only reason that any of this is happening is because I am coming there to win championships and to put that name at the top of the European basketball landscape."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3776s
+
+**22. Shane Larkin — "I have literally had these conversations with Sarunas Jasikevicius for five plus years." — Shane Larkin and Sarunas Jasikevicius have a long-standing professional relationship** [1:03:47](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3827s)
+
+Shane Larkin: "I have literally had these conversations with **Sarunas Jasikevicius** for five plus years. **Sarunas Jasikevicius** and me first had a conversation after we won our first championship in Efes, because I was a free agent after that summer, about coming to Barcelona. And pretty much the same conversation we had then is the same conversation that we have now. It is like there is an equal level of respect. He views me as a certain level of player and the things that I can do on a basketball court, and I view him as a certain level of coach that can do certain things from a coaching perspective."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3827s
+
+**23. Shane Larkin — "Sarunas Jasikevicius basically was just saying like, where is my mind? Where is my determination?" — Sarunas Jasikevicius challenges Larkin on his commitment and leadership** [1:04:51](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3891s)
+
+Shane Larkin: "**Sarunas Jasikevicius** basically was just saying like, where is my mind? Where is my determination? What is my commitment to doing the small things that you need to do as a leader of a club to show them and show your teammates that you are willing and ready to buy in. If I have to go play a road game against Buyukcekmece, which is not the highest of levels in Turkish league, on a random Sunday at 1:00 p.m., how willing are you to buy into that for the betterment of the club? And that is the question that he has for me."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3891s
+
+**24. Shane Larkin — "I am going to scream at you because you know Sarunas Jasikevicius, he is going to have his moments." — Larkin emphasizes his willingness to be coached by Jasikevicius** [1:06:17](https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3977s)
+
+Shane Larkin: "I am going to scream at you because you know **Sarunas Jasikevicius**, he is going to have his moments. But it is never personal. It is for the betterment of the team. Like how willing are you to deal with those moments? And I told him, listen, as long as we walk out of this fucking season with this trophy in our hand, I could care less. That is all I care about. After that, he was like, all right, bet. Whatever we got to do to get it done, let's fucking do it."
+
+https://www.youtube.com/watch?v=0GxT3tUVdQY&t=3977s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
