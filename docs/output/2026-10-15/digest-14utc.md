@@ -1,0 +1,553 @@
+# HoopsHype YT Quotes — 2026-10-15
+
+## LeBron said OG Anunoby was the Knicks' MVP in the NBA Finals 👀 | Get Up YouTube Exclusive — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=Gq7kM_QRDYE
+
+_Speakers identified: Vince Goodwill, Bam Adebayo, Bobby Marks, Tim MacMahon_
+
+**1. Vince Goodwill — "I think OG was the most steady person for that team." — LeBron James names OG Anunoby as Knicks' NBA Finals MVP** [00:44](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=44s)
+
+**Vince Goodwill:** "LeBron stirring the pot, y'all. I like it. Bobby Marks, do you agree with LeBron?"
+
+**Bobby Marks:** "For using football terminology this morning, I thought **Jalen Brunson** was the quarterback of that team. He still averaged 33 points in the NBA Finals and yes, he did not shoot the ball well. OG's block in that one game won them the game. But I would tend to agree with LeBron as far as the snake of that team. I thought it was **Jalen Brunson** as the quarterback here."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=44s
+
+**2. Tim MacMahon — "LeBron seems to be talking about the Knicks at least as much as he's talking about the Sixers." — Tim MacMahon on LeBron James's focus on the Knicks** [01:29](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=89s)
+
+Tim MacMahon: "I'm going to give him the benefit of the doubt. The man's a podcaster and it's been a long time since games have been played. You've got to work hard to fill a full off-season of content and LeBron's working hard to fill a full off-season of content. LeBron seems to be talking about the Knicks at least as much as he's talking about the Sixers. It is his hometown team now, but I'm going to give him the benefit of the doubt and say he's just talking basketball."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=89s
+
+**3. Bobby Marks — "I don't think that move is going to happen until probably this next summer here." — Heat's next major roster move likely coming next off-season** [03:22](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=202s)
+
+Bobby Marks: "I don't think that move is going to happen until probably this next summer here. When they traded for him, it's similar to when Miami went out and resigned Dwyane and Bosh. It was a multi-year phase. I think Giannis will extend with them for another four years, that gives them the ability to add more pieces to this roster. The question is how do you go out and do that? Most of your draft picks have already been traded out to Milwaukee. You do have some smaller pieces to do it, but I'm putting them in that tier three of teams from a contending standpoint. I think their next big move is probably going to be next off-season."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=202s
+
+**4. Tim MacMahon — "There are five guys I think who are legit MVP candidates and he is absolutely on that list." — Tim MacMahon evaluates Giannis Antetokounmpo as an MVP candidate** [04:36](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=276s)
+
+Tim MacMahon: "I'm not going to sleep on him as an MVP candidate. There are five guys I think who are legit MVP candidates and he is absolutely on that list. If the Heat win 50-some odd games and he's healthy, which if they win 50-some odd games that means he's been healthy, then he's going to have a chance. I wouldn't put him first, second, or third on the preseason favorites, but he's on the short list."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=276s
+
+**5. Bobby Marks — "I don't know about their best starting lineup, but I think it might be their best closing lineup." — Spurs' closing lineup potential with Victor Wembanyama and Dylan Harper** [05:39](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=339s)
+
+Bobby Marks: "I don't know about their best starting lineup, but I think it might be their best closing lineup. Matchups are going to be somewhat of an issue if some teams go big. As long as Victor and **Dylan Harper** are on the floor to close games, I think this team will have a chance every night. It's a good problem to have. We haven't even seen **Tobias Harris**, who's been out with an injury. **Dylan Harper** as the closer, keep him in the game at the end of the games, that's what I'm probably going to be looking forward towards the most."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=339s
+
+**6. Tim MacMahon — "The biggest challenge is three letters, EGO. And let's just be honest, that's why they absolutely have to start Dylan Harper now." — Tim MacMahon on the Spurs' need to start Dylan Harper** [06:32](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=392s)
+
+Tim MacMahon: "We can talk about basketball issues, we can talk about maybe not enough shooting, things that they'll have to figure out, but the biggest challenge is three letters, EGO. And let's just be honest, that's why they absolutely have to start **Dylan Harper** now because he's too good, too confident, too ambitious to be coming off the bench in a second season. In his mind, he sacrificed to do that. It was interesting, **Miss Johnson** did just blurt out it wasn't a good enough shape to play more than 20 minutes last year without coughing up a lung. That raised my eyebrows, but I just think you've got a lot of guys here who want the ball in their hands, thrive with the ball in their hands, and so they're just going to have to figure out how to share and how not to let pride get in the way of the greater good."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=392s
+
+**7. Tim MacMahon — "This kid is a consistent jump shot away from being one of the most complete stars in the league." — Tim MacMahon on Cooper Flagg's rapid development** [07:55](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=475s)
+
+Tim MacMahon: "This is going to be a rapid ascension to superstar-dom, probably as soon as this season. He's bigger, he's stronger, he's more confident, he's more vocal, his skills are improving. This kid is a consistent jump shot away from being one of the most complete stars in the league right now."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=475s
+
+**8. Bobby Marks — "He's on the cusp of cracking that top 20." — Cooper Flagg's potential to crack the top 20 NBA players** [08:32](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=512s)
+
+Bobby Marks: "He's right on the cusp. I think we had him at 23 in that ESPN top 100. The question is who kind of bumps out of that 10 to 20 range when you're looking at **Kevin Durant** and **LeBron James**. Man, he's coming. I think a lot of it will have to do with getting **Kyrie Irving** back, it's a big help to this roster. They've got a rookie coach in **Dusty May**, but he's on the cusp of cracking that top 20."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=512s
+
+**9. Tim MacMahon — "Kyrie's return doesn't mean that Cooper's going to have the ball in his hands less often." — Tim MacMahon on Kyrie Irving's impact on Cooper Flagg** [09:16](https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=556s)
+
+Tim MacMahon: "There's a couple of things here. One, how long is Kyrie in Dallas? That's the question rival front offices are asking because there's a lot of interest in him. But as far as right now, he's a great complement for **Cooper Flagg**. Kyrie is obviously accustomed to playing off of the superstars. He can create, he can create advantages for Cooper, he can play off the ball. **Dusty May** made it clear, Kyrie's return doesn't mean that Cooper's going to have the ball in his hands less often, but he will have less pressure on him. He will be in better situations. And I got to tell you, it's one game, half a globe away, but Kyrie looked like Kyrie. He looked like an eight-time All-Star right away."
+
+https://www.youtube.com/watch?v=Gq7kM_QRDYE&t=556s
+
+---
+
+## The Truth About NBA Analytics (W/ DEAN OLIVER) — *Shump Street*
+
+Source: https://www.youtube.com/watch?v=7ZIYh_mBuEM
+
+_Speakers identified: Iman Shumpert, Dean Oliver, Arhii Shumpert_
+
+**1. Iman Shumpert — "we start to see these awards, we start to see these rankings, we see all these things that happen" — Iman Shumpert questions the reliance on analytics over eye test** [00:41](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=41s)
+
+**Iman Shumpert:** "We have done ourselves justice by only talking hoops and only talking a certain nuance of the game. We start to see these awards, we start to see these rankings, we see all these things that happen that are so heavily decided through analytics as opposed to what our eyes tell us. We wanted to talk directly to somebody that has to deal with analytics, somebody that has to judge on analytics, and see what is the actual criteria."
+
+**Dean Oliver:** "Analytics is just history. We all watch the game, we see the game, we listen to the game, we hear what goes on. Data is just another way to see or listen to the game. It is just history. You don't watch every free throw that every guy takes, you look at their free throw percentage. Analytics is just a way to do that for a number of different factors in the game."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=41s
+
+**2. Iman Shumpert — "I think people distort things, I think people will exaggerate things to make a point." — Iman Shumpert and Dean Oliver on the misuse of analytics** [02:54](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=174s)
+
+**Iman Shumpert:** "Do you feel like there are parts of using analytics that shouldn't be used?"
+
+**Dean Oliver:** "I think people distort things, I think people will exaggerate things to make a point. Sometimes show business is about exaggerating things to make a point. When you are doing media, that is one thing. You can exaggerate to make a point and I think that is a lot of what we hear. But when you are on a team, when I am coaching you, I don't want to lie to you. I want the numbers to give me some insight about how I am going to make you a better player."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=174s
+
+**3. Iman Shumpert — "Me and JR would shoot two or three of those a game. Sometimes I'd feel like I only got one" — Iman Shumpert on the pressure of analytics on player performance** [03:51](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=231s)
+
+Iman Shumpert: "We all sit back and have, I'd say players especially from my cloth, I'm one of those guys that had to live with what they call ticking time bombs where they throw you that ball in the corner. There's a second left on the shot clock or the game clock. Nobody wants to mess up their percentage and they throw it to you. Me and JR would shoot two or three of those a game. Sometimes I'd feel like I only got one actually feet set in the corner actual shot. I got one of those up but I got three of those random at the end of the corner bombs up. I'm one for four from the three-point line and a lot of times somebody would show me the numbers and I'm like you just don't watch the game. If you watched me shoot an actual set jumper, you wouldn't think that of my percentage."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=231s
+
+**4. Dean Oliver — "It is not that the numbers they are giving you are wrong. It is their own interpretation." — Dean Oliver on contextualizing analytics for player development** [05:21](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=321s)
+
+**Dean Oliver:** "You are capturing context and the numbers should capture a lot of that context too. It is not that the numbers they are giving you are wrong. It is their own interpretation. You are right, there is context there. But that context, there are a lot of assumptions in our interpretation that that is going to even out over time."
+
+**Iman Shumpert:** "It has been very hard to understand for guys that have played in the league is the guidelines sometimes that it seems like some of these rankings or some of these awards get given out. The criteria is based upon something that if the guys in the league don't respect it, I don't understand how it is the way it is."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=321s
+
+**5. Dean Oliver — "Jalen Brunson, we all know this guy can play in the clutch. But he is not the greatest defender." — Dean Oliver on Jalen Brunson's clutch performance and defensive limitations** [07:12](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=432s)
+
+Dean Oliver: "I'll give you a couple reasons why it might be. One is clutch play. **Jalen Brunson**, we all know this guy can play in the clutch. But he is not the greatest defender. He is a smaller guy. We also know that there is not a lot of clutch plays in a lot of games. A lot of games come down to, okay, they are up by 17 with five minutes to go. You are not going to get a lot of clutch play. He may take some plays off because he can. If we are looking at clutch play, **Jalen Brunson** has been great for sure. But that is not the only criteria."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=432s
+
+**6. Dean Oliver — "I think a lot of times a narrative is already been built. And I think when the narratives have" — Dean Oliver on how pre-existing narratives influence award voting** [09:22](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=562s)
+
+Dean Oliver: "I think a lot of times a narrative is already been built. And I think when the narratives have already been generated and the numbers don't necessarily support it, you have to kind of swim upstream. Once that happens, it is tough. Sometimes who is the MVP gets decided fairly. **Asia Wilson** last year, not this year so much. **Asia Wilson** wasn't playing great in the WNBA in the first half of the season. She was still good, but she is always good. But she picked it up late and so how much should the second half of the season count versus the first half of the season?"
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=562s
+
+**7. Iman Shumpert — "We out here to win the gold, win the gold ball, play your best basketball going into the playoffs" — Iman Shumpert on the ultimate goal of winning a championship** [10:39](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=639s)
+
+Iman Shumpert: "We are not out here to play for the beginning of the season. That is why we are sitting here switching lineups in preseason. We are not out here for that. We are out here to win the gold, win the gold ball, play your best basketball going into the playoffs, roll our ass through the playoffs, and then hoist up the championship trophy. **Asia Wilson** does that great. They did a great job. Three years in a row she is MVP, people, ain't nobody had a problem with it."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=639s
+
+**8. Iman Shumpert — "If he gets a full head of steam, I don't know what I'm a do. I don't have a plan" — Iman Shumpert on the unpredictability of star players** [12:25](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=745s)
+
+Iman Shumpert: "There is a few players that you had to respect to a certain level. There was a few players that it was like, if he gets a full head of steam, I don't know what I'm a do. I don't have a plan. I feel like those factors have to matter. I hate when they talk about how good a guy is and they call gravity like how much it draws the defense away from other guys. I feel like there should be some sort of measurement for that."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=745s
+
+**9. Iman Shumpert — "If there was anything under three seconds and you didn't get it to JR and then you shot like a reluctant" — Iman Shumpert on JR Smith's role and analytics** [18:02](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=1082s)
+
+Iman Shumpert: "If there was anything under three seconds and you didn't get it to JR and then you shot like a reluctant pull-up or something that you just, it looked unaggressive, you would get cursed out on screen because it is like JR is right there. If you don't want to mess up your percentage, JR is right there. It was just used to be crazy when I used to think about people talking about JR playing inefficient and I'm like y'all have no clue the job that he signed up for. He literally got every 911 shot available my whole time playing with him."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=1082s
+
+**10. Iman Shumpert — "I remember me and Ty Lue talking about how we were going to defend Clay and Steph" — Iman Shumpert on defending Steph Curry and Kevin Durant** [24:17](https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=1457s)
+
+Iman Shumpert: "I remember me and Ty Lue talking about how we were going to defend Clay and Steph. I was basically telling him, well if we do that, I know he don't go to the basket but I am giving him a layup. It is literally if I play it like that, I am handing him a layup. He was willing to bet that if Steph was under duress the whole game that even if he went for a layup, he would only shoot a layup for the first quarter. He would not have enough in his tank to want to turn that down and shoot five layups in a row."
+
+https://www.youtube.com/watch?v=7ZIYh_mBuEM&t=1457s
+
+---
+
+## Jalen Williams Knew OKC Had Something Special With Jared & Ajay — *The Old Man and The Three*
+
+Source: https://www.youtube.com/watch?v=UfFnByxtqzI
+
+_Speakers identified: Jalen Williams, Ajay Mitchell, Jared McCain, Tommy Alter, Cam Johnson_
+
+**1. Jared McCain — "You know when somebody's too comfortable in a spot where you should be uncomfortable at." — Jared McCain's confidence during his two-way contract stint** [02:26](https://www.youtube.com/watch?v=UfFnByxtqzI&t=146s)
+
+Jared McCain: "You know when somebody's too comfortable in a spot where you should be uncomfortable at. To come in and be second round and you're on a two-way and to come in at practice and you're going at people and if a coach were to walk in that doesn't know anything about our team, it looks like he's been there for a couple years already."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=146s
+
+**2. Ajay Mitchell — "I got into it as a kid, but then got more into it with that show on Netflix." — Ajay Mitchell's interest in Formula 1** [06:05](https://www.youtube.com/watch?v=UfFnByxtqzI&t=365s)
+
+Ajay Mitchell: "I got into it as a kid, but then got more into it with that show on Netflix. And so going there is just like you feel like you're in the show. So that was pretty cool."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=365s
+
+**3. Jared McCain — "I was seven years old, went to take care. Drake, Kendrick opened up, I saw A$AP Rocky." — Jared McCain's first concert experience** [08:44](https://www.youtube.com/watch?v=UfFnByxtqzI&t=524s)
+
+Jared McCain: "I was seven years old, went to take care. **Drake**, Kendrick opened up, I saw **A$AP Rocky**. I was asleep for there. I was asleep for Kendrick and **A$AP Rocky**, but **Drake** came out and I was singing along, I was there."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=524s
+
+**4. Ajay Mitchell — "One of the assistant at Santa Clara, his name is John Rillie, he started recruiting me there." — Ajay Mitchell's recruitment to Santa Clara** [17:07](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1027s)
+
+Ajay Mitchell: "One of the assistant at Santa Clara, his name is **John Rillie**, he started recruiting me there. And Santa Clara was the first school to recruit me, and it just just kind of happened. COVID hit when the recruitment process started, so I couldn't really visit any schools, so it was all on Zoom, but I got to see what Santa Clara was and I was like, I'm definitely going there."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1027s
+
+**5. Jared McCain — "I always looked up to my family friend Devin Askew and we were always tight." — Jared McCain's college recruitment process** [18:30](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1110s)
+
+Jared McCain: "I always looked up to my family friend **Devin Askew** and we were always tight and he was a number one point guard in high school and so I always just kind of followed his his path and whatever he did. And once I moved down to Southern California, I was like, I think I think I can do this. Let me let me try like a lot harder and I just kind of fell like fell in love with that process of it."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1110s
+
+**6. Ajay Mitchell — "I played one year pro in Belgium, and that's when I was like, I think I can do that." — Ajay Mitchell's path to the NBA** [23:07](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1387s)
+
+Ajay Mitchell: "I played one year pro in Belgium, and that's when I was like, I think I can do that for a living, you know. At that time I was obviously like, I want to make it to the NBA, but it's super rare to do it, especially coming out of Belgium. But I was like, that was always a goal of mine. And then I think once I got to college and got a lot more exposure, I was like, I can definitely like reach that goal."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1387s
+
+**7. Jalen Williams — "His is different because yours happened in like the middle of the year." — Jalen Williams on Jared McCain's impact** [24:45](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1485s)
+
+Jalen Williams: "His is different because yours happened in like the middle of the year. So I guess I'll do Jared first because yours is more recent. Jared, I thought was going to be a good, I kind of like what everybody else is thinking like kind of like why did Philly get off him? So that that's kind of like my thought process with it. And then it's like obviously when Sam is bringing somebody in middle of the year, which doesn't happen often, he obviously sees kind of like the same thing. So that usually gives you a lot of confidence."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1485s
+
+**8. Jalen Williams — "I think when Sam had even brought up Ajay for the draft, I'd kind of already seen." — Jalen Williams on Ajay Mitchell's draft process** [26:41](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1601s)
+
+Jalen Williams: "I think when Sam had even brought up Ajay for the draft, I'd kind of already seen a little bit, but you know how like they have like the, what's that, what's that YouTube that posts like Draft Express? Yeah, but no, no, it's like low key. It's not, it's not a, it's not a, you don't know, because you don't get posted on this one. It's like, they really only post like mid-major stuff. But I had seen it on there and I was like, okay, he's like, you can, you can tell when somebody can like really play. So when he got to our team and we did, like our week of runs before preseason training and stuff, I was like, yeah, he's legit. He can play. And everybody in the gym kind of knew it."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1601s
+
+**9. Ajay Mitchell — "I didn't know what was going to happen at all, so the first round I was like." — Ajay Mitchell on his draft night experience** [27:07](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1627s)
+
+Ajay Mitchell: "I didn't know what was going to happen at all, so the first round I was like, let's just do a dinner somewhere, put the TV on and see what happens. My agents were like, there's a chance you get picked like late first, and I remember Milwaukee had like the 23rd pick or something, and I went there, they really like me, my sister lived in Wisconsin, so I was like, can see that connection. And so my whole family was like, this might be like, you might be in Milwaukee, and that would be great. And then so the 23rd pick comes up and they're like, with the 23rd pick, Milwaukee selects Ajay, and then everyone in the room is like, oh my gosh, what's going on? And then they say Johnson and it gets so awkward. Like I'm trying to be like, oh, it's all good, but in my head I'm like, what? Like, no way. So it was awkward."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1627s
+
+**10. Ajay Mitchell — "I was never really known for my defense, and once I got to OKC, I knew that." — Ajay Mitchell's defensive development in the NBA** [28:13](https://www.youtube.com/watch?v=UfFnByxtqzI&t=1693s)
+
+Ajay Mitchell: "I was never really known for my defense, and once I got to OKC, I knew that was like a big part of what they do. And so for me it was like, okay, like I got a lot of good examples to learn from like AC, him, Cason, Lou. And so just learning from those guys and how they do it, and then now I feel like when I'm out there like I just got to go out there and play like with a good defense."
+
+https://www.youtube.com/watch?v=UfFnByxtqzI&t=1693s
+
+---
+
+## Melo on KAT's Knicks Drama, Pablo Torre's LeBron Helicopter Controversy, Ant vs Jaylen Brown & More — *7PM in Brooklyn*
+
+Source: https://www.youtube.com/watch?v=U7Kk9RVdMDs
+
+_Speakers identified: Carmelo Anthony, Monica McNutt, Kazeem Famuyide, The Kid Mero, LL Cool J_
+
+**1. Carmelo Anthony — "It's hard going 4-0, especially in football. Like, it's tough. And the way that they're playing" — Carmelo Anthony on the 49ers' undefeated start and Brock Purdy's MVP potential** [01:02](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=62s)
+
+Carmelo Anthony: "It's hard going 4-0, especially in football. It's tough. And the way that they're playing, they're physical, they're running, they're scoring, they're defending. It's hard for me to say because I'm not a 49ers fan, but I respect what they're doing over there. And shout out to **Brock Purdy**, because he is right now, in that MVP conversation, he would be probably top of the top of the list with that."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=62s
+
+**2. Carmelo Anthony — "I will not take a tie. Because the only football that I have watched is my terrible" — Carmelo Anthony and Monica McNutt debate the merits of a tie in football** [02:40](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=160s)
+
+**Kazeem Famuyide:** "I'll take a tie. I'll take a tie, especially the way that that ended."
+
+**Monica McNutt:** "No, I will not take a tie. Because the only football that I have watched is my terrible, last watched the Commanders, and I do not want a tie. Like, what? So stupid. Very insane."
+
+**Carmelo Anthony:** "I'd rather lose. Please. Would you? A tie? Especially the way that that ended."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=160s
+
+**3. Carmelo Anthony — "He gave me a whole another level of confidence as a person who liked to dance on the court." — Carmelo Anthony on Chucky Atkins' impact on his confidence in Denver** [06:01](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=361s)
+
+Carmelo Anthony: "I had a teammate, **Chucky Atkins**, in Denver. He really, I had confidence, but like, he gave me a whole another level of confidence as a person who liked to dance on the court. Because I used to be on the, I used to be jab stepping and he'd be on the sideline, 'Dance, Champ! Dance, Champ! Get what he want! Get what he want! Dance!' And you just hearing this. So if your team, you got someone on your bench who's constantly kind of giving you that reinforcement, like, that's going to come in handy, no matter what."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=361s
+
+**4. Carmelo Anthony — "You have to accept it. You're not assigned it. Nobody's going to say, 'Hey, I need you to be a cheerleader.'" — Carmelo Anthony on the importance of accepting a role on a team** [09:14](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=554s)
+
+Carmelo Anthony: "You have to accept it. You're not assigned it. Nobody's going to say, 'Hey, I need you to be a cheerleader. I need your energy on the bench.' That's not the conversation. It's like, 'Hey, you might not play, and you might not play for these games,' and then the conversation starts coming back to you, 'Yo, well you ain't playing, but I still need you active on the bench. I still need you to be a good teammate.' So he, you know, you got to accept that. And you gain a certain level of respect, a different level of respect for teammates like that, because now, that teammate really wants to see you thrive."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=554s
+
+**5. Carmelo Anthony — "Shout out to K.J., yes, Champ. Special teams doing special things, you hear?" — Carmelo Anthony on K.J. Martin's fashion choices** [11:40](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=700s)
+
+Carmelo Anthony: "Shout out to K.J., yes, Champ. Special teams doing special things, you hear? I hit him up too, like, 'Hey, Champ, I see you.'"
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=700s
+
+**6. Carmelo Anthony — "There's no defensive three seconds. You're denying everything. You're denying everything. There's no defensive three seconds." — Carmelo Anthony on the negative impact of the 35-second shot clock in college basketball** [19:32](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1172s)
+
+Carmelo Anthony: "There's no defensive three seconds. You're denying everything. You're denying everything. There's no defensive three seconds, right? So if you just take the three, what is the game in college becoming? And I agree, I agree that the 35-second shot clock is long. Don't take the fundamental skill part out of the game of basketball for players. Now you're making these players one-trick ponies. It's either I need you to come in and shoot a three, or do what? Or foul, or play fast, right? Go get offensive rebounds, but I need a three or a layup. That's a tough way to teach the game, because these guys don't even know how to do that yet in college. You're still developing."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1172s
+
+**7. Carmelo Anthony — "NBA world fraternity does not like watching college basketball. And I'm going to tell you why." — Carmelo Anthony on why the NBA world doesn't value college basketball** [25:22](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1522s)
+
+Carmelo Anthony: "NBA world fraternity does not like watching college basketball. And I'm going to tell you why. Because the game was too slow. Once you learn the NBA game, to watch college, it's like, it's slower to you. The 35-second shot clock and the six plays in one possession, it's just like, when we're watching our games and our film, we're we're learning a different pace of the game. So to watch college, you got to really love the college game to go back. And most guys trying to get out, trying to get out."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1522s
+
+**8. Carmelo Anthony — "I'm in the house of skill set. I'm in the house of fundamentally sound, right, and working on your craft." — Carmelo Anthony on the importance of fundamentals and skill development** [27:32](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1652s)
+
+Carmelo Anthony: "I'm in the house of skill set. I'm in the house of fundamentally sound, right, and working on your craft. So I don't always, I don't agree with that comment with him. I understand what he's saying, but I don't necessarily agree with that, because I still believe that whenever the best shot is given to you, you got to take that best shot. If it's a pull-up, if it's a three, if it's a layup, if it's a back-door, whatever it may be. You can't just tell these guys to just shoot threes all day. That makes the game, you're the game is already almost, the people say the game is watered down in the NBA because of that. Now you're coming all the way down to college, which is getting to the development of the the younger kids."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1652s
+
+**9. Carmelo Anthony — "Mike Malone has one of the most fluent offenses, one of the best offensive playbooks out of any coach." — Carmelo Anthony on Mike Malone's offensive coaching philosophy** [29:18](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1758s)
+
+Carmelo Anthony: "**Mike Malone** has one of the most fluent offenses, one of the best offensive playbooks out of any coach, right? So he know how to, he know how to infiltrate. He had Joker. You know what I mean? So it's, he knows that. So if he can implement some of that into North Carolina's system, they have a chance to be, to as a program, to get better and better and better."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1758s
+
+**10. Carmelo Anthony — "You're forcing guys to just work on their three. I get it. You should do that anyway." — Carmelo Anthony on the challenges of coaching young players** [30:38](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1838s)
+
+Carmelo Anthony: "You're forcing guys to just work on their three. I get it. You should do that anyway. You should work on your shot anyway. But you're taking away the skill set of these guys. And women. Yeah. You're talking about overall. And the women are still operating in a very fundamentally sound way. 100%. They still play rugged. They still play in the, in the. Yeah, the women, they, they are going to take the best shot. They're going to make the best play. You know what I mean? To sub to to kind of offset the the the lack of athleticism. Right. So they have to take that mid-range shot. That's why you see a lot of mid-range shots in the WNBA. Because that's the best shot."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=1838s
+
+**11. Carmelo Anthony — "the only thing Ant needs to work on is what Mike Malone want to get out the game" — Carmelo Anthony on Anthony Edwards' need to improve his mid-range game** [1:00:01](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3601s)
+
+Carmelo Anthony: "To me, the only thing Ant needs to work on is what **Mike Malone** want to get out the game. Mid-range. Because now you don't have to play that, you don't have to do all that work anymore. You got **Jalen Brunson** who's pushing the pace, he's pushing the offense. He's in front of the offense. Sometimes he can trail the offense with the basketball because he can shoot so well, he can pass so well."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3601s
+
+**12. Carmelo Anthony — "the three has gotten very, very good. He shot in the low 40s last year" — Carmelo Anthony on the evolution of Anthony Edwards' game** [1:00:30](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3630s)
+
+Carmelo Anthony: "The three has gotten very, very good. He shot in the low 40s last year. Catch and shoot and off the dribble. He started working on the post game last year. You started back down in the post, so you added that to your game. Now your one-two dribbles and all that mid-range game for him opens up everything for him."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3630s
+
+**13. Carmelo Anthony — "Jaylen Brown is the best two-way player in the NBA" — Carmelo Anthony calls Jaylen Brown the best two-way player in the NBA** [1:02:00](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3720s)
+
+**Carmelo Anthony:** "**Jaylen Brown** is the best two-way player in the NBA."
+
+**The Kid Mero:** "You think **Jaylen Brown** over Ant?"
+
+**Carmelo Anthony:** "I think **Jaylen Brown**'s two-way player. I think the defense that **Jaylen Brown** brings is more than the offense that **Jaylen Brown** brings, because I think **Jaylen Brown** is a better offensive player than OG. I still like OG as the best two-way player."
+
+**The Kid Mero:** "You think the defense that OG brings is more than the offense that **Jaylen Brown** brings? Because I think it's like, **Jaylen Brown**'s a better offensive player than OG, but I think OG's a better defensive player than **Jaylen Brown**."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3720s
+
+**14. Carmelo Anthony — "winning franchises find new ways to win. Philadelphia 76ers, this is all sort of thrown together very soon" — Carmelo Anthony on the Philadelphia 76ers' potential as a superteam** [1:03:22](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3802s)
+
+**Carmelo Anthony:** "Winning franchises find new ways to win. Philadelphia 76ers, this is all sort of thrown together very soon. I don't think they're going to have a long playoff run. I still think they're going to be down in the second round. I think next year they could think of a championship."
+
+**The Kid Mero:** "But just in your opinion, do you think there's something to a superteam being built that isn't that as a franchise that isn't used to winning, that doesn't have the pressure of winning the first championship or anything like that?"
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3802s
+
+**15. Carmelo Anthony — "from October to May, to April, he's elite. It's almost like hands down to a lot of these players" — Carmelo Anthony on the Philadelphia 76ers' championship window** [1:04:02](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3842s)
+
+Carmelo Anthony: "From October to May, to April, he's elite. It's almost like hands down to a lot of these players out there. It's just what happens from April, from May on. That's a big, that's a big part. And that's the only thing that he's judged on at this point. It's not his talent. Everybody know he's one of the, he's the top. At any given day he could be the top two guard in the league."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3842s
+
+**16. Carmelo Anthony — "which is why you bought those guys over there with him. Why you go get James" — Carmelo Anthony on why the 76ers acquired new players** [1:05:17](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3917s)
+
+Carmelo Anthony: "Which is why you bought those guys over there with him. Why you go get James. That's why you go get those pieces to to to put around him. So now he can flourish and he has been with those guys. It is just Cleveland just can't get over the hump. They can't figure it out."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=3917s
+
+**17. Carmelo Anthony — "culturally, they a superteam. Yes. But as far as NBA goes, it haven't been proven yet" — Carmelo Anthony on the 76ers' status as a superteam** [1:06:41](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4001s)
+
+Carmelo Anthony: "Culturally, they a superteam. Yes. But as far as NBA goes, it haven't been proven yet. So they know that. They they approaching the season that way. We're not letting off. Like from day one, we we we gassing. But also, we don't want to peak too too quick like. We don't mind losing a couple games early to get better."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4001s
+
+**18. Carmelo Anthony — "they playing for January, February, like February, March. That's what they playing for" — Carmelo Anthony on the 76ers' championship aspirations** [1:08:00](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4080s)
+
+Carmelo Anthony: "They playing for January, February, like February, March. That's what they playing for. But in the meantime, they going to be a problem up until that point."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4080s
+
+**19. Carmelo Anthony — "they wasn't established yet. They wasn't established as stars yet, you know what I mean, individually" — Carmelo Anthony on the 76ers' lack of championship history** [1:08:36](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4116s)
+
+Carmelo Anthony: "They wasn't established yet. They wasn't established as stars yet, you know what I mean, individually. They was a great team that year."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4116s
+
+**20. Carmelo Anthony — "winning franchises find new ways to win. Is there something to like a franchise and what they've done" — Carmelo Anthony on the importance of franchise history** [1:09:30](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4170s)
+
+**Carmelo Anthony:** "Winning franchises find new ways to win."
+
+**The Kid Mero:** "Is there something to like a franchise and what they've done in the past that sort of gives credence to what they can do in the future no matter who they sign, what happens, whatever?"
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4170s
+
+**21. Carmelo Anthony — "the Knicks ain't winning 53 years, bro. It's just like not winning" — Carmelo Anthony on the Knicks' 53-year championship drought** [1:10:26](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4226s)
+
+Carmelo Anthony: "The Knicks ain't winning 53 years, bro. It's just like not winning. 53 years, that's new. There's new people, new kids, new generations, it's decades, right, of change and just shit happened, right, evolution, right, in all industries. It's like 53 years. It's just like not winning the championship."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4226s
+
+**22. Carmelo Anthony — "the equity, the time together, the experience together, it matters. We got a Kawhi bounce away" — Carmelo Anthony on the importance of team continuity** [1:11:17](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4277s)
+
+**Monica McNutt:** "The equity, the time together, the experience together, it matters."
+
+**Carmelo Anthony:** "We got a Kawhi bounce away from the finals, right?"
+
+**Monica McNutt:** "Yeah, so like they they they are maybe closer than an organization that's just been in the wilderness."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4277s
+
+**23. Carmelo Anthony — "I think they're going to be down in the second round. I think next year they could think" — Carmelo Anthony on the Knicks' playoff outlook** [1:11:42](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4302s)
+
+**The Kid Mero:** "I think they're going to be down in the second round. I think next year they could think of a championship. But just in your opinion, do you think there's something to a superteam being built that isn't that as a franchise that isn't used to winning, that doesn't have the pressure of winning the first championship or anything like that?"
+
+**Carmelo Anthony:** "The Knicks ain't winning 53 years, bro."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4302s
+
+**24. Carmelo Anthony — "even that bench is pretty deep. They got Dean Wade, they got Anthony Simons" — Carmelo Anthony on the talent of the Philadelphia 76ers** [1:12:10](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4330s)
+
+**The Kid Mero:** "Even that bench is pretty deep. They got **Dean Wade**, they got **Anthony Simons**."
+
+**Carmelo Anthony:** "They got shooting. They got some hitters off the bench."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4330s
+
+**25. Carmelo Anthony — "Nick Nurse always been a defensive coach and an offensive juggernaut" — Carmelo Anthony on Nick Nurse as a coach** [1:12:32](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4352s)
+
+Carmelo Anthony: "**Nick Nurse** always been a defensive coach and an offensive juggernaut."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4352s
+
+**26. Carmelo Anthony — "I think they're going to be down in the second round. I think next year they could think" — Carmelo Anthony on the Philadelphia 76ers' playoff expectations** [1:13:03](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4383s)
+
+Carmelo Anthony: "I think they're going to be down in the second round. I think next year they could think of a championship."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4383s
+
+**27. Carmelo Anthony — "the equity, the time together, the experience together, it matters" — Carmelo Anthony on the importance of team chemistry** [1:13:30](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4410s)
+
+Carmelo Anthony: "The equity, the time together, the experience together, it matters."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=4410s
+
+**28. "You swam so Daniel Kaluuya of Get Out could run." — LL Cool J on Daniel Kaluuya's character in Get Out** [2:00:27](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=7227s)
+
+**The Kid Mero:** "I got to ask you straight up. You swam so **Daniel Kaluuya** of Get Out could run."
+
+**LL Cool J:** "He is running on water. Because he survived."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=7227s
+
+**29. "I do what I want to do. I was waiting for something tender to come run up." — LL Cool J on the origin of his iconic Paradise video look** [2:01:31](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=7291s)
+
+**The Kid Mero:** "Can you give us the backstory for having denim and a Kangol on the ocean in the Paradise video?"
+
+**LL Cool J:** "I am crazy. I do what I want to do. I had jewelry on too and a big medallion. I was waiting for something tender to come run up on me."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=7291s
+
+**30. LL Cool J — "I do all of it on purpose. But I got better shit than that." — LL Cool J on his creative process for music videos** [2:02:32](https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=7352s)
+
+LL Cool J: "I do all of it on purpose. But I got better shit than that. Leave that shit in the cut. This is just the start. This ain't nothing."
+
+https://www.youtube.com/watch?v=U7Kk9RVdMDs&t=7352s
+
+---
+
+## Matt Barnes Tells Kerry Washington He Wants To Hire Olivia Pope — *ALL THE SMOKE*
+
+Source: https://www.youtube.com/watch?v=w8a7NQlettE
+
+_Speakers identified: Matt Barnes, Stephen Jackson, Kerry Washington_
+
+**1. Kerry Washington — "My pod is called Street You Grew Up On because the name of my production company, O No." — Kerry Washington on the origin of her production company name** [01:18](https://www.youtube.com/watch?v=w8a7NQlettE&t=78s)
+
+Kerry Washington: "My pod is called Street You Grew Up On because the name of my production company, O No. It's because I felt like, you know, when you're an actor, you're kind of a victim to other people's decisions. You're at home waiting to be invited to a party. And I felt like, I want to throw my own party. I don't want to be waiting for opportunities all the time. I want to be creating parties."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=78s
+
+**2. Kerry Washington — "I don't eat pork, Kerry, and I went to the bathroom and came back and I had cut up bacon." — Kerry Washington and hosts discuss sabotaging meals with bacon** [01:35](https://www.youtube.com/watch?v=w8a7NQlettE&t=95s)
+
+**Stephen Jackson:** "I don't eat pork, Kerry, and I went to the bathroom and came back and I had cut up bacon in my mashed potatoes."
+
+**Kerry Washington:** "At the bottom, though, you didn't see it."
+
+**Stephen Jackson:** "No. No."
+
+**Kerry Washington:** "But did you love it? Because pork is so good."
+
+**Stephen Jackson:** "He misses it. I eat beef bacon."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=95s
+
+**3. Kerry Washington — "Honestly, I don't know if you're going to like this answer, but the biggest thing is that I don't drink." — Kerry Washington on her skin routine and alcohol consumption** [02:16](https://www.youtube.com/watch?v=w8a7NQlettE&t=136s)
+
+Kerry Washington: "Honestly, I don't know if you're going to like this answer, but the biggest thing is that I don't drink. I don't drink alcohol. I drank so much in my youth that I think I stopped drinking at like 20. So before I could even legally drink, I was like, I'm done. Just growing up in New York and I partied a lot in college, and so I stopped drinking. I'm not sober, so if you see me out somewhere with a glass, I'm not into the shots, but I might do like, if I'm somewhere that's a beautiful vineyard, I'll have a glass of wine, but then I'm like asleep at the table in five minutes."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=136s
+
+**4. Kerry Washington — "This film I really love because I love being a part of something that's like, it's a thriller." — Kerry Washington on working with Ben Affleck in the movie Animals** [03:00](https://www.youtube.com/watch?v=w8a7NQlettE&t=180s)
+
+Kerry Washington: "This film I really love because I love being a part of something that's like, it's a thriller. It's just like a popcorn, edge of your seat, audience pleasing thriller. It's a great date night movie. It's fun and makes your heart rate pulse. But then also, it has all these questions in it around fidelity and race and class and immigration. So it's not heavy-handed, it's not like a movie that lectures you, but it does make you think. So I love that because it's entertaining, but also it's complex."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=180s
+
+**5. Kerry Washington — "When I started the production company, it was really because I felt like, you know, when you're an actor, you're kind of a victim." — Kerry Washington on why she started her production company** [05:00](https://www.youtube.com/watch?v=w8a7NQlettE&t=300s)
+
+Kerry Washington: "When I started the production company, it was really because I felt like, you know, when you're an actor, you're kind of a victim to other people's decisions. You're at home waiting to be invited to a party. And I felt like, I want to throw my own party. I don't want to be waiting for opportunities all the time. I want to be creating parties. So I started the company with a film called Confirmation that was about the **Anita Hill** hearings for HBO, and we've been around for 10 years and it's been really special for me because I've been able to not just create opportunities for myself as an actor, like Little Fires Everywhere and a show we have in Imperfect Women on Apple and doing theater and films, but also shows like Reasonable Doubt. I directed that pilot, but I'm not in that show."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=300s
+
+**6. Kerry Washington — "I understand why so many folks on the studio side were nervous about what Ryan got and because it's historic." — Kerry Washington on Ryan Coogler's impact on Hollywood** [07:11](https://www.youtube.com/watch?v=w8a7NQlettE&t=431s)
+
+Kerry Washington: "I understand why so many folks on the studio side were nervous about what Ryan got and because it's historic. It's unheard of. He's changed the precedent for what's possible for an artist, but I think that's great because they now own that film. And why shouldn't they? That's IP that they created, that world is theirs. So it's exciting to be able, it's rare and it's going to be rare, but it's also now it's been done."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=431s
+
+**7. Kerry Washington — "What matters to me right now, especially being a mom and a wife, is making sure that the work I'm doing is work that's worthy of my time." — Kerry Washington on balancing work and family life** [08:00](https://www.youtube.com/watch?v=w8a7NQlettE&t=480s)
+
+Kerry Washington: "What matters to me right now, especially being a mom and a wife, is making sure that the work I'm doing is work that's worthy of my time. Because now to pull me away from the people that matter most, it has to be really exciting, inspiring, innovative. It has to feel like it's worth stepping away from the people I want to be with all the time, which are my husband and kids. And then creating work that I feel really proud of with people that I want to be with, because these hours are long. You can be on set for 16 hours a day at times."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=480s
+
+**8. Kerry Washington — "It's huge. Particularly as a woman, as a black woman, to be able to create opportunities for myself." — Kerry Washington on the importance of controlling her own narrative** [09:15](https://www.youtube.com/watch?v=w8a7NQlettE&t=555s)
+
+Kerry Washington: "It's huge. Particularly as a woman, as a black woman, to be able to create opportunities for myself so that I'm not just victim to what anybody else wants to do or thinks I should do. One thing is that I've always been more comfortable saying no because as a woman, as a black woman, very early in my career, I would read a project that was supposed to be a job that I wanted, something that other people were chasing, and I would read it and be like, that's terrible. That's stereotype. I'm not going to participate in that portrayal of black women. So early on, I would say like, I would rather work three more shifts at my restaurant or teach five more private yoga lessons or whatever all the hustles, I was a substitute teacher, all the different hustles, like I'll do more of that before I'll take on a role that I think is going to be bad for black people or bad for women."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=555s
+
+**9. Kerry Washington — "I think a lot about why it was important to me to name the company Simpson Street." — Kerry Washington on the significance of naming her company Simpson Street** [10:37](https://www.youtube.com/watch?v=w8a7NQlettE&t=637s)
+
+Kerry Washington: "I think a lot about why it was important to me to name the company Simpson Street. And I feel like it's because growing up, my grandparents came to this country on my mom's side, my grandparents came to this country through Ellis Island in the 30s from Jamaica. And Simpson Street was their first place they lived or where all the kids grew up. My mom's one of seven. And we would always hear stories about the lore on Simpson Street, like hanging out on the stoop on Simpson Street or the shit that happened on the roof at Simpson Street, all those old black and white pictures. Like that, that's sort of my family's once upon a time. So the Bronx is my heart."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=637s
+
+**10. Kerry Washington — "When I was a kid, I think acting was like an escape for me." — Kerry Washington on how acting became an escape as a child** [11:35](https://www.youtube.com/watch?v=w8a7NQlettE&t=695s)
+
+Kerry Washington: "When I was a kid, I think acting was like an escape for me. I had a grandmother who used to call me Sarah after like this old theater actress **Sarah Bernhardt** because she said I was always very dramatic, even like as a toddler. But I think in school, honestly, as you're asking, probably in kindergarten when I did my first talent show, being on stage, it was like, oh, this is amazing. And for me at the time, it was a lot about escape. I think it was about escape and also about applause. And that's changed, my relationship to it has changed throughout, but that was in the beginning what I loved most was kind of being able to forget my life, my childhood, the things that had me like stressed out and anxious, and then also that praise, like feeling like people, people appreciate you, you feel seen."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=695s
+
+**11. Kerry Washington — "I went into therapy when I was in college. That was part of what made me stop drinking." — Kerry Washington on the role of therapy in her life** [12:48](https://www.youtube.com/watch?v=w8a7NQlettE&t=768s)
+
+Kerry Washington: "I went into therapy when I was in college. That was part of what made me stop drinking. I was very depressed in college and went into treatment for an eating disorder. And that was my first exposure to like some of these kind of tools for healing and therapy. And honestly, I have been in different forms of therapy since then, whether it's individual therapy, couples therapy, family therapy, group therapy, because I don't think that for me, it's not about going somewhere to get fixed and being done. I feel like in the same way that I train hard in the gym and I'm always trying to up my game and take care of myself physically, I want to do that for my brain too. I want to keep training my brain to be more and more aware, to be more and more of the person I want to be on the inside as well as the outside."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=768s
+
+**12. Kerry Washington — "I auditioned a little bit in high school and I did like a, do you remember those ABC after school specials?" — Kerry Washington on her early career and auditioning for Jefferson in Paris** [13:54](https://www.youtube.com/watch?v=w8a7NQlettE&t=834s)
+
+Kerry Washington: "I auditioned a little bit in high school and I did like a, do you remember those ABC after school specials? I did one of those. That was how I got my union card. And then I was up for this big movie called Jefferson in Paris that I did not get. And when I was close to it, it came down to me and the actress who did it, who's **Thandiwe Newton**, and she's brilliant and beautiful in the film. But I remember saying to my agent, like, if I get this, then I'll keep auditioning. If I don't get it, I'm going to go to college. And so I'm really grateful that I didn't get it because then I went to DC and like grew up and learned some stuff and had a life as a college student. And then went to live in India for a little while and then came back and started auditioning."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=834s
+
+**13. Kerry Washington — "The most racist or sexist thing that happens to you in your career, you won't even know about it." — Kerry Washington on Chris Rock's advice regarding racism and sexism** [17:22](https://www.youtube.com/watch?v=w8a7NQlettE&t=1042s)
+
+Kerry Washington: "I'm going to tell you something that **Chris Rock** said to me. I called Chris once, we had just worked together on I Think I Love My Wife, and something happened on a movie I was working on that felt like some racist kind of stuff. And I, I felt that that's what was going on and I called him very upset, I was crying, I didn't know what to do. And there were two things that he told me. One was, this is to answer your barrier question, the most racist or sexist thing that happens to you in your career, you won't even know about it. Because it will be a decision that's made in a room that you weren't even allowed in. It would have, it wouldn't have even have gotten to you yet. And to that point, he was like, please don't ever let yourself be surprised by this stuff again."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1042s
+
+**14. Kerry Washington — "You don't have to fall in love with candidates or fall in love with politics, you just have to love yourself." — Kerry Washington on the importance of maintaining authenticity in conversations** [20:33](https://www.youtube.com/watch?v=w8a7NQlettE&t=1233s)
+
+Kerry Washington: "You don't have to fall in love with candidates or fall in love with politics, you just have to love yourself and your community enough to show up. You know? You know? There's always going to be haters. Yeah, but I mean, not just more haters, just as a, as a world, you know what I mean? Like, you say certain things and you're not on the same page as everybody else, or, or are you just marching to the beat of a different drum? You know what I mean? Then, okay, now, your, your, uh, words are not respected. We don't want to hear from you no more."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1233s
+
+**15. Kerry Washington — "We have to do a better job in society and culture around making room for difference." — Kerry Washington on the need for better representation in society** [22:22](https://www.youtube.com/watch?v=w8a7NQlettE&t=1342s)
+
+Kerry Washington: "We have to do a better job in society and culture around making room for difference. I do think that's true because I think, and it's hard, because sometimes you get on your high horse, or the truth is that politics are personal. So sometimes somebody says something that seems like just a political theory and you're like, but it's my body. How can you say it's, but, but, if you stay away from it, you're just giving up your power. You're just giving over your voice. Not only your power, I think you got six daughters. Yeah. Six, you have, you know, you're, for us to have this platform, and that's why, because I kind of push a little bit more, I try to stay civilly engaged, but I wanted him to be engaged for everything I said. I feel like you represent how a lot of people feel."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1342s
+
+**16. Kerry Washington — "I had never met Shonda before I auditioned. I had a meeting." — Kerry Washington on her relationship with Shonda Rhimes** [25:13](https://www.youtube.com/watch?v=w8a7NQlettE&t=1513s)
+
+Kerry Washington: "I had never met Shonda before I auditioned. I had a meeting. When by the time Scandal came around, I was at a point in my career where sometimes I auditioned for stuff and sometimes I got offered stuff. But Olivia Pope, who was originally called Olivia Price, but that name didn't clear legally, but Olivia Pope was a character that everybody wanted to play. So I, I knew if I wanted to do it and I did, I had to fight for it. So I went in and met with her at first before reading. And I remember getting off the elevator and the wall was covered with a huge sign that said Shonda Land. And I was like, she's got a whole land? Like, I don't know how this is going to go. I was, I felt very like nervous about somebody who maybe thought, my perception was like, does she think everything revolves around her? And then I met her and loved her immediately. And I was like, oh, she's actually, she's actually just a person who knows her value and her worth and she's not afraid to claim space and be a leader."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1513s
+
+**17. Kerry Washington — "When Scandal ended, I got a call from Skip Gates, who does that show Finding Your Roots." — Kerry Washington on the experience of filming Scandal** [26:40](https://www.youtube.com/watch?v=w8a7NQlettE&t=1600s)
+
+Kerry Washington: "When Scandal ended, I got a call from **Skip Gates**, who does that show Finding Your Roots, that where they like research your family history because I knew Skip and he knew that I loved that show, but I never had time when we were doing Scandal because we were so busy. Long days, long seasons. So Skip was like, you should come do the show and I said, great. And I called my parents to tell them that I was going to do Finding Your Roots and my dad started having panic attacks. And I was like, what is going on? And eventually, my parents confided in Skip because I was like, let me let you talk to Skip because I was like, what are you afraid of? Like that we find out that somebody three generations ago like had a brothel or sold drugs? Like who cares? Let's cool. It's not cool to do those things, but it would be interesting to find out that that happened. And basically, my parents got on the phone with **Skip Gates** and were like, let's say that hypothetically we used a sperm donor to conceive Kerry. Is that something that would come up in the show? And Skip was like, yes, and you should tell her."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1600s
+
+**18. Kerry Washington — "At the time, I had written a book, I had sold a book idea that was just like, ten things I learned from playing Olivia Pope." — Kerry Washington on her book about playing Olivia Pope** [27:48](https://www.youtube.com/watch?v=w8a7NQlettE&t=1668s)
+
+Kerry Washington: "At the time, I had written a book, I had sold a book idea that was just like, ten things I learned from playing **Olivia Pope**. So it was going to be like a kind of cute coffee table book. And then when they told me this, I was like, I can't write that book. Like I can't even, all I could think about was now learning that my dad, who I love dearly, was not my biological father. Still my dad, will always be my dad, no question. But I had this new like question mark about 50% of my genetics. And so I tried to give my money back for the book and then they wouldn't take it. The publisher was like, just you know, take your time and see if maybe you want to write about this. And I was like, I can't write about this as a family secret, I'll never write about it. And then with time, I kind of realized that it it could be an opportunity for healing for me and my family."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1668s
+
+**19. Kerry Washington — "The boys and girls club that I went to that we was the first stop on my book tour, Jennifer Lopez also went to that boys and girls club." — Kerry Washington on her dance teacher Larry Maldonado** [28:42](https://www.youtube.com/watch?v=w8a7NQlettE&t=1722s)
+
+Kerry Washington: "The boys and girls club that I went to that we was the first stop on my book tour, **Jennifer Lopez** also went to that boys and girls club. And we had a very beloved dance teacher named **Larry Maldonado**, who was like everybody's, you know those teachers you meet in life, they see you, they love you, they, **Larry Maldonado**, I wish my name was Maldonado. It's a great name. His real name was Lorenzo Maldonado, but they called him **Larry Maldonado**. Yeah. And he got really sick. He was one of the first people I knew who suffered from HIV AIDS. And when he went to the hospital, Jennifer, who's a little bit older than me, you know, when you're younger, now, it feels like we're the same age, but when you're younger, eight, that years feels like a lot. So if I was eight, she was 16. So she was one of the big girls, and she would substitute teach when Larry went to the hospital. So I got to take Flamenco with JLo and Jazz and, yeah."
+
+https://www.youtube.com/watch?v=w8a7NQlettE&t=1722s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
