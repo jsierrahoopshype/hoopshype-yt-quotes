@@ -1,316 +1,258 @@
 # HoopsHype YT Quotes — 2026-10-16
 
-## Vince Carter & Tracy McGrady Debate Whether Winning MVP Means More Than An NBA Championship — *Cousins with Vince Carter & Tracy McGrady*
+## Vince Carter & Tracy McGrady On What It Takes To Be A Franchise Player — *Cousins with Vince Carter & Tracy McGrady*
 
-Source: https://www.youtube.com/watch?v=3bT8AaRFfKs
+Source: https://www.youtube.com/watch?v=LOTLe0GSRfM
 
 _Speakers identified: Vince Carter, Tracy McGrady_
 
-**1. Tracy McGrady — "the MVP of the regular season has more weight than a championship" — Tracy McGrady and Vince Carter debate MVP versus NBA championship value** [00:17](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=17s)
+**1. Vince Carter — "Being the guy requires signing that max deal. That's when you are the guy." — Vince Carter and Tracy McGrady discuss the challenges of being a franchise player** [00:24](https://www.youtube.com/watch?v=LOTLe0GSRfM&t=24s)
 
-**Tracy McGrady:** "The MVP of the regular season has more weight than a championship. Hell yeah, why wouldn't it?"
+**Vince Carter:** "I feel like you can get drafted into the NBA as a lottery pick, number one overall pick. Depending on what that team looks like, you might not be the guy immediately. You might not be the guy in your first two or three years. You have to work your way or earn your way into that. What are your thoughts on that and when did you realize that?"
 
-**Vince Carter:** "Explain that though."
+**Tracy McGrady:** "Being the guy requires signing that max deal. That's when you are the guy because think about it, being drafted number one overall, there's still a base salary that you only can sign. That doesn't make you the guy. You have pressure obviously on you to live up to the standards of a number one pick. But you're coming to a team where it's probably a losing franchise. I don't think that role necessarily fits you right away because you don't know the NBA game, so I think you have to gain some experience to be put into that role."
 
-**Tracy McGrady:** "Because everybody at the end of the day, you think about this, when we talk about the totality of a player's career, and even when you talk about Hall of Fame, and when you talk about the best players, the first thing they say is, 'Oh, but he didn't get a ring,' or 'He got a ring.' The 10th or the 11th player on the Chicago Bulls or the Los Angeles Lakers or the Detroit Pistons or the Boston Celtics, who are they? Name me any of those team, name me the 11th or the 12th guy."
+https://www.youtube.com/watch?v=LOTLe0GSRfM&t=24s
 
-**Vince Carter:** "You want me to? Just name one."
+**2. Tracy McGrady — "The responsibility of you being the guy is on your shoulder. Are we going to do that?" — Tracy McGrady on the heavy burden of leadership for young NBA players** [02:53](https://www.youtube.com/watch?v=LOTLe0GSRfM&t=173s)
 
-**Tracy McGrady:** "I can't right now."
+**Vince Carter:** "The responsibility of you being the guy is on your shoulder. Are we going to do that for an 18-year-old kid, regardless of how good?"
 
-**Vince Carter:** "All right, you can't even think of them. He got a ring. You can't even think of them."
+**Tracy McGrady:** "An 18-year-old kid coming into the NBA, that's what I'm saying, being the guy. There's a huge responsibility that I just can't put on an 18 or 19, 20-year-old kid coming out of high school or out of college. Now, with that being said, for me, being that guy is when you sign on that dotted line to be a max player. That's the guy to me because that's when all those responsibilities of carrying this franchise on your back and taking it somewhere is on your shoulders. Now you are at the top of the pecking order in which things run in this locker room."
 
-**Tracy McGrady:** "He has a ring. But does he have an MVP? Can he get an MVP? Absolutely not. No. So yes, the MVP of the regular season has more weight than a championship because it's the whole team. This is not just team, but it's ownership, it's management, it's health. It's all this shit that plays into winning a championship."
+https://www.youtube.com/watch?v=LOTLe0GSRfM&t=173s
 
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=17s
+**3. Vince Carter — "I still need to earn the respect of the people in the locker room to understand that." — Vince Carter on earning respect in the locker room as a young player** [05:10](https://www.youtube.com/watch?v=LOTLe0GSRfM&t=310s)
 
-**2. Vince Carter — "we're putting too much emphasis on that instead of the body of work of what a player has done" — Vince Carter argues ring culture overshadows individual player accomplishments** [02:24](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=144s)
+**Vince Carter:** "I'm going to speak on my situation. When I walked into Toronto and I was given the stamp of being the guy, but for me as a player, particularly in the beginning, I felt like I still need to earn the respect of the people in the locker room to understand that."
 
-Vince Carter: "I think ring culture and everything that's involved with it has gone too far. We're putting too much emphasis on that instead of the body of work of what a player has done. It's easy to compare a guy, and that's a natural thing. So I'm not saying we should not, but you'll compare a player like, 'Oh, he has three championships, but he has five.' Because I think we go at that with the LeBron-MJ thing. It's situational."
+**Tracy McGrady:** "You're taking it. So, I think you're looking at it different. You being the guy is you're the guy on this basketball court. That's you being the guy. But all the things that comes with being the guy and the responsibility of leadership, that's not on you."
 
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=144s
+https://www.youtube.com/watch?v=LOTLe0GSRfM&t=310s
 
-**3. Vince Carter — "I still think Kobe should be in that conversation" — Vince Carter includes Kobe Bryant in the greatest of all time conversation** [03:13](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=193s)
+**4. Tracy McGrady — "Learned from being in Toronto with our old heads on how to be professional." — Tracy McGrady on his early professional development in Toronto** [07:16](https://www.youtube.com/watch?v=LOTLe0GSRfM&t=436s)
 
-Vince Carter: "We talk about the GOAT conversation, the greatest of all time. And obviously right now, we hear MJ, LeBron. I still think Kobe should be in that conversation. I don't understand. But we throw him, I don't think none of them goats. We talk about, we say MJ, just the outright goat. I just think they all great. They're all great. Kobe, you great. Charles Barkley great. Patrick Ewing great. I think we all are great, but it's situational."
+**Vince Carter:** "How was the transition? I'm assuming the transition was easy then, right?"
 
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=193s
+**Tracy McGrady:** "It's a little different because when I became that guy, I'm still only 21 years old. So we're drafting guys either older than me or the same ages that I am. I'm still relatively young because I came out of high school. Learned from being in Toronto with our old heads on how to be professional, learning from you on how to deal with the media. All that stuff I gained when I was in Toronto those three years and took that. But I don't think I was ready for that role, year one in Orlando. But it happened. No **G Hill**, so it's like, here you go, young fella, you got to take over."
 
-**4. Tracy McGrady — "you can't tell me if you was on the Spurs in early 2000s, on the Lakers" — Tracy McGrady explains how situational success defined championship winners** [03:50](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=230s)
+https://www.youtube.com/watch?v=LOTLe0GSRfM&t=436s
 
-Tracy McGrady: "You can't tell me if you was on the Spurs in early 2000s, on the Lakers, because that's who always winning the freaking championships then. It's situational. It's nothing to take away from the guys that actually have done it, right? It's nothing that they were in that situation. But I want to put this on record, you do wish you won a championship."
+**5. Tracy McGrady — "I used to watch the games, NBC, every Sunday, and it was the Michael Jordan and Chicago Bulls." — Tracy McGrady on his childhood inspiration watching Michael Jordan and Penny Hardaway** [09:20](https://www.youtube.com/watch?v=LOTLe0GSRfM&t=560s)
 
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=230s
+Tracy McGrady: "I remember when I was in Polk County as a kid, I used to watch the games, NBC, every Sunday, and it was the **Michael Jordan** and Chicago Bulls, **Penny Hardaway** and Orlando Magic. As a kid, hearing that, that's just so your name attached to a franchise. I started imagining that, you know, when they're saying that, like, man, one day, man, it'd actually be cool to have my name be called Tracy McGrady and Orlando Magic playing tonight. I thought that as a kid, so hell yeah, when I got the opportunity to be that guy and lead a franchise and be the franchise guy, it just took me back to my kid years and what I thought and watching my best, my inspiration, which was Penny, carry the same franchise."
 
-**5. Tracy McGrady — "Look how great KG was in Minnesota" — Tracy McGrady reflects on his time with the Minnesota Timberwolves** [04:39](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=279s)
-
-Tracy McGrady: "Look how great KG was in Minnesota. Unbelievable, much CTV, but didn't have an organization that put the pieces around him for the years that he was there. Trying to tell me that KG that wasn't great? What? And then he wasn't the same KG that was in Boston. What we played against in early 2000s, that was a different beast in Minnesota. That wasn't the same guy. Still effective and impactful, he's a motherfucker, right? But put that KG, put that KG Minnesota played the small forward. Come on, bro. Come on, bro. It's situational."
-
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=279s
-
-**6. Tracy McGrady — "competitors always are putting everything into it" — Tracy McGrady asserts that great players maintain intensity regardless of regular season timing** [06:06](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=366s)
-
-Tracy McGrady: "The whole ring thing, I get we're not in that conversation because we wasn't in those situations, right? But you're not going to sit here and tell me that if we were in that situation, we couldn't win a championship. Like these dudes is that much greater than us, and we play these dudes every night. We play them every night. And don't tell me, 'Oh, this is the regular season.' Nah, nah. Because you can't pick and choose when you feel somebody has better, who's better, or like, 'Oh, this the regular season, he ain't putting that much into it into the playoffs.' Nah, nah. Competitors always are putting everything into it. Just because this is a Wednesday night in December, that just don't mean anything? Nah, this means a lot."
-
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=366s
-
-**7. Vince Carter — "Regular season. All day. Over Finals MVP" — Vince Carter and Tracy McGrady agree regular season MVP holds more weight** [07:54](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=474s)
-
-**Vince Carter:** "So the last one, as you said that, I thought about this. Regular season MVP, Finals MVP?"
-
-**Tracy McGrady:** "Regular season. All day. Over Finals MVP."
-
-**Vince Carter:** "Bro, you could be, Finals can go four games. You could be, you had a best four games of your your freaking career, your life, and you could luck up and have a great four to five games depending on how this team is defending your star players."
-
-**Tracy McGrady:** "I don't want to use the word luck up."
-
-**Vince Carter:** "I'm just saying, if your two, if your best player is receiving so much attention that where he has to defer. Absolutely. And you, you take advantage of the opportunity. Yeah."
-
-**Tracy McGrady:** "You could luck up and get MVP."
-
-**Vince Carter:** "Okay. That's fair."
-
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=474s
-
-**8. Vince Carter — "until he won that MVP, everybody kind of dangled that over his head" — Vince Carter discusses how winning MVP changed the perception of Stephen Curry** [09:14](https://www.youtube.com/watch?v=3bT8AaRFfKs&t=554s)
-
-Vince Carter: "It's crazy, I want to tie this into Steph Curry for a second, because it's funny how we viewed Steph as one of the greatest, and until he won that MVP, everybody kind of dangled that over his head."
-
-https://www.youtube.com/watch?v=3bT8AaRFfKs&t=554s
+https://www.youtube.com/watch?v=LOTLe0GSRfM&t=560s
 
 ---
 
-## Heat To Contend? & MASSIVE Prove-It Year For Teams In The Southeast Division + Our Win Total Draft — *NBA on ESPN*
+## The NBA Is BACK! Road Trippin’ Locks In MVP, DPOY & Championship Picks — *Road Trippin*
 
-Source: https://www.youtube.com/watch?v=bhkTN1BeEHM
+Source: https://www.youtube.com/watch?v=fwmoLMLmJYQ
 
-_Speakers identified: Brian Windhorst, Tim MacMahon, Jackson, Jackson Hoy_
+_Speakers identified: Kendrick Perkins, Allie Clifton, Richard Jefferson, Channing Frye_
 
-**1. Brian Windhorst — "The Hawks are a team that has built themselves into a strong contender to be a top-six team." — The Atlanta Hawks' potential as a top-six Eastern Conference team** [00:37](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=37s)
+**1. Kendrick Perkins — "When we mention Anthony Edwards, when we mention Luka Doncic, when we mention Jalen Brunson, we need to mention Tyrese Haliburton." — Kendrick Perkins argues Tyrese Haliburton deserves more recognition** [00:00](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=0s)
 
-**Brian Windhorst:** "The Hawks are a team that has built themselves into a strong contender to be a top-six team. When I say that, that is not meant to be dismissive."
+Kendrick Perkins: "When we mention **Anthony Edwards**, when we mention **Luka Doncic**, when we mention **Jalen Brunson**, we need to mention **Tyrese Haliburton**."
 
-**Tim MacMahon:** "There are more good teams in the East than the West now."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=0s
 
-**Brian Windhorst:** "Absolutely. The Hawks are set up to be competitive this year, top-six competitive this year, and definitely to be kept an eye on as a trade team this year to make a big acquisition and as a potential cap space team next year."
+**2. Kendrick Perkins — "You can't pay Jalen Duren $200 million and ask Karl-Anthony Towns to take the same $200 million." — Kendrick Perkins questions Jalen Duren's contract value compared to Karl-Anthony Towns** [00:09](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=9s)
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=37s
+Kendrick Perkins: "You can't pay **Jalen Duren** $200 million and ask **Karl-Anthony Towns** to take the same $200 million."
 
-**2. Tim MacMahon — "They've made some one very bad personnel decision this off-season." — The Atlanta Hawks' poor personnel decisions this off-season** [01:05](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=65s)
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=9s
 
-**Brian Windhorst:** "You are correct."
+**3. Kendrick Perkins — "Chicago has finally found their next Derrick Rose." — Kendrick Perkins claims Chicago has found their next Derrick Rose** [00:29](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=29s)
 
-**Tim MacMahon:** "I doubt they'll be repeating. They've made some one very bad personnel decision this off-season."
+Kendrick Perkins: "Chicago has finally found their next **Derrick Rose**."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=65s
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=29s
 
-**3. Brian Windhorst — "They have a reasonably strong starting five. A little bit thin at the big man spot." — The Atlanta Hawks' roster and trade outlook** [01:21](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=81s)
+**4. Channing Frye — Channing Frye and Richard Jefferson debate double-teaming in basketball** [01:50](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=110s)
 
-**Brian Windhorst:** "They have a reasonably strong starting five: **Jalen Johnson**, **Dyson Daniels**, **CJ McCollum**, **Lou Dort**, **Nickeil Alexander-Walker**, **Onyeka Okongwu**. A little bit thin at the big man spot. You are definitely keeping an eye on **Kingston Flemings**, who they drafted out of Houston. **CJ McCollum** is obviously going to be their veteran point guard, but I think Flemings, between Flemings and **Nickeil Alexander-Walker** with McCollum, that's a pretty good three-guard rotation."
+**Channing Frye:** "Channing is like, don't double-team and pick up. But now, think about it. If you are going to play in a game and the other opposing team is going to double-team, shouldn't you be prepared for that?"
 
-**Tim MacMahon:** "He's a major part of this team, but if he can be a major part of finding a star, then you know, he's untradeable, that's for sure."
+**Richard Jefferson:** "Yeah, but don't double-team the whole time. We double-team **Shaq** the whole time. Like, you got to."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=81s
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=110s
 
-**4. Brian Windhorst — "They are projected to pay the luxury tax. They have not paid the tax since Dwight Howard was there." — The Orlando Magic's high expectations and luxury tax situation** [05:31](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=331s)
+**5. Kendrick Perkins — "I was one of those guys that two years ago, I called Tyrese Haliburton overrated. I apologize to him on national television." — Kendrick Perkins apologizes for calling Tyrese Haliburton overrated** [07:26](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=446s)
 
-**Brian Windhorst:** "They are projected to pay the luxury tax. They have not paid the tax since **Dwight Howard** was there. In their team history, they've paid about 38 million in taxes. This year at the moment, we'll see if it changes, they're projected to pay 32 million in taxes this year. The expectations are that this team is going to be competing because if you're going to be spending that kind of money, this is something the ownership has not done there."
+Kendrick Perkins: "I was one of those guys that two years ago, I called **Tyrese Haliburton** overrated. I apologize to him on national television."
 
-**Tim MacMahon:** "Well, I should have known."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=446s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=331s
+**6. Kendrick Perkins — "He is a top-10 player in the NBA. If I'm starting a team, I would start a team with him over Donovan Mitchell, I would start a team with him over Kevin Durant, I would start a team with him over Devin Booker." — Kendrick Perkins ranks Tyrese Haliburton as a top-10 NBA player** [08:01](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=481s)
 
-**5. Tim MacMahon — "Keep an eye on Anthony Black, who was a mid-lottery pick, had a really good year last year." — Anthony Black's role and potential with the Orlando Magic** [08:26](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=506s)
+Kendrick Perkins: "He is a top-10 player in the NBA. If I'm starting a team, I would start a team with him over **Donovan Mitchell**, I would start a team with him over **Kevin Durant**, I would start a team with him over **Devin Booker**."
 
-**Tim MacMahon:** "Keep an eye on **Anthony Black**, who was a mid-lottery pick, had a really good year last year. Extension eligible, but for all the reasons you just laid out, I don't know that an extension is happening. And if an extension isn't happening, is he a guy who could get moved mid-season? Is that just a situation you deal with in restricted free agency? But look, this is a team that **Paolo Banchero** is a 25% max guy. By the way, if he'd been all-NBA, he'd be 30%. Franz is a 25% max guy. Bane, they gave up a lot to get Bane in terms of picks, like the Grizzlies got an absolute haul of picks in that deal, and he's a 24% of the cap. So you've got 74% of the cap tied up in three guys. They've got to be star-caliber players, and there was a lot of finger-pointing with the Magic last year. Not necessarily publicly, but it wasn't any kind of secret. There's a lot of finger-pointing at **Jamal Mosley**."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=481s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=506s
+**7. Richard Jefferson — "I watched the Indiana Pacers against the Minnesota Timberwolves have 20 made field goals on 19 assists." — Richard Jefferson analyzes the Indiana Pacers' offensive efficiency** [10:15](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=615s)
 
-**6. Brian Windhorst — "They obviously made the huge move in the off-season, trading LaMelo Ball, bringing in Naz Reid, bringing in Grayson Allen, bringing in Royce O'Neale." — The Charlotte Hornets' roster changes and future outlook** [11:52](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=712s)
+Richard Jefferson: "I watched the Indiana Pacers against the Minnesota Timberwolves have 20 made field goals on 19 assists. And for them to play that way, that style already, that means every shot they made was assisted except for one."
 
-**Brian Windhorst:** "They obviously made the huge move in the off-season, trading **LaMelo Ball**, bringing in **Naz Reid**, bringing in **Grayson Allen**, bringing in **Royce O'Neale**, bringing in a couple of first-round draft picks. It seems like they are maybe taking a step sideways to retrofit their roster. They want to invest in **Brandon Miller**. They're going to try to get him into a contract by Monday, an extension. Obviously, they think a lot of Khan. I'm not sure I don't think they're going to win 44 games again."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=615s
 
-**Tim MacMahon:** "I think they assessed what they had last year and it was an extremely exciting last few months of the regular season. They decided, hey, we don't believe in this team as a team that can do any kind of real damage. And they said, actions over words. Our actions say we don't believe in **LaMelo Ball** as a franchise centerpiece."
+**8. Richard Jefferson — "Tyrese already started off with the disrespect. He feels disrespected. When Jason Tatum came back, when certain players came back, there was a celebration of welcome back to basketball." — Richard Jefferson discusses Tyrese Haliburton's feeling of disrespect** [11:35](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=695s)
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=712s
+Richard Jefferson: "Tyrese already started off with the disrespect. He feels disrespected. When **Jason Tatum** came back, when certain players came back, there was a celebration of welcome back to basketball. So for him, he's already looking at the schedule like, dang, I don't even remember where they're opening up at."
 
-**7. Brian Windhorst — "New look Giannis Antetokounmpo wearing number seven now. Looks like a quarterback instead of a running back." — Giannis Antetokounmpo's new role with the Miami Heat** [14:42](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=882s)
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=695s
 
-**Brian Windhorst:** "New look **Giannis Antetokounmpo** wearing number seven now. Looks like a quarterback instead of a running back."
+**9. Richard Jefferson — "I was talking about his tour dates. I was saying all sorts of stuff to Tyrese. That's my guy." — Richard Jefferson on trash-talking Tyrese Haliburton about his tour dates** [12:40](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=760s)
 
-**Tim MacMahon:** "No, he still looks like a running back. The running backs wear seven these days too now."
+Richard Jefferson: "I was talking about his tour dates. I was saying all sorts of stuff to Tyrese. That's my guy. But I was like, yo, you're the best player. You can't put up tour dates. He's got 8, 7, and 6. You can't put up tour dates in the NBA Finals as the best player."
 
-**Brian Windhorst:** "That's true. That's true. That's more of our our childhood with those numbers."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=760s
 
-**Tim MacMahon:** "Drives me. He still looks like a he looks like Derek Henry out there still. I don't care what number he's wearing."
+**10. Richard Jefferson — "I'm telling you, 83, low 80s. That's disrespectful. When you're, when it, I wasn't trying to be disrespectful for my, some players the game, so I know like I was rating for." — Richard Jefferson defends his 2K rating** [16:55](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1015s)
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=882s
+Richard Jefferson: "I'm telling you, 83, low 80s. That's disrespectful. When you're, when it, I wasn't trying to be disrespectful for my, some players the game, so I know like I was rating for."
 
-**8. Tim MacMahon — "They're not going to be fun to play. Davion Mitchell is an absolute pit bull at point guard." — The Miami Heat's roster and playmaking limitations** [16:32](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=992s)
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1015s
 
-**Tim MacMahon:** "They're not going to be fun to play. **Davion Mitchell** is an absolute pit bull at point guard, one of the best on-ball defenders in the league, and they're going to be tough to score on like you said. They addressed shooting, they addressed shooting with, you know, with aging one-way players, but **Clay Thompson** can hit open shots. **Tim Hardaway** Jr. can absolutely be a volume three-point shooter."
+**11. Richard Jefferson — "I do believe that a player, if they want a championship, the goal is winning. And then players are expected to make sacrifices to maintain the winning." — Richard Jefferson on the necessity of player sacrifices for winning** [20:43](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1243s)
 
-**Brian Windhorst:** "You said they're built around Giannis. I would say they are in the process of building around Giannis, because it took so much to get him that it's still a stripped-down roster."
+Richard Jefferson: "I do believe that a player, if they want a championship, the goal is winning. And then players are expected to make sacrifices to maintain the winning. And it's really the only thing in professional business where you're asked to take less in order to preserve the win for the owner."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=992s
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1243s
 
-**9. Brian Windhorst — "They are pioneers of, you know what I call the flip. They want to flip this team around." — The Washington Wizards' rebuilding strategy and Anthony Davis's future** [18:18](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1098s)
+**12. Richard Jefferson — "He's too expensive to sit down and your two young guys are too good to keep them on the bench." — Richard Jefferson on the value of De'Aaron Fox** [23:00](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1380s)
 
-**Brian Windhorst:** "They are pioneers of, you know what I call the flip. They want to flip this team around instantaneously. Look, I think if they can get into the play-in, it's a massive step forward. They're adding three impact players: **Trey Young** at point guard, **Anthony Davis** at center or power forward, however you want to designate him, and **Alex Sarr**. But you would have to assume Sarr is going to be coming back from the foot injury. But, you know, eventually they get the two of them healthy, hopefully. That's a formidable front line."
+Richard Jefferson: "He's too expensive to sit down and your two young guys are too good to keep them on the bench. So you can't devalue **De'Aaron Fox**, right? Even though Harper and Castle should be the two guards, you can't put **De'Aaron Fox** on the bench because now your $200 million player is a $200 million bench guy."
 
-**Tim MacMahon:** "Wait, what about you before? What about number one overall pick DeAndre Ayton?"
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1380s
 
-**Brian Windhorst:** "True, acquired via the Lakers. Yes, DeAndre Ayton part of. And listen, you know, their big man rotation should be pretty good."
+**13. Kendrick Perkins — "Karl-Anthony Towns, we all agree, is a play-through guy. You can play through him. He's proven." — Kendrick Perkins on Karl-Anthony Towns as a 'play-through' player** [23:47](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1427s)
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1098s
+Kendrick Perkins: "**Karl-Anthony Towns**, we all agree, is a play-through guy. You can play through him. He's proven. **Karl-Anthony Towns** exposed the Defensive Player of the Year on the biggest stage."
 
-**10. Tim MacMahon — "The AD situation, I am an extreme skeptic on. That thing stinks to me." — Skepticism regarding Anthony Davis's future with the Washington Wizards** [20:10](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1210s)
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1427s
 
-**Tim MacMahon:** "The AD situation, I am an extreme skeptic on. This, hey, yeah, we'll talk about it after the season, contractual situation. My BS detector is blaring. AD without an extension when you just gave Trey 213 million dollars is not a great situation. That thing stinks to me. I will be surprised if **Anthony Davis** is still in Washington after the trade deadline."
+**14. Kendrick Perkins — "First priority always been that for me, even when I was a vet, young guys coming into the league, first thing first, get your money." — Kendrick Perkins on the importance of getting paid** [24:20](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1460s)
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1210s
+Kendrick Perkins: "First priority always been that for me, even when I was a vet, young guys coming into the league, first thing first, get your money. This is a job. Get your money."
 
-**11. Tim MacMahon — "I'm going to go with the team that's had the most wins in the league the last couple of years." — The Oklahoma City Thunder as a top-tier team** [26:31](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1591s)
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1460s
 
-**Tim MacMahon:** "I'm going to go with the team that's had the most wins in the league the last couple of years. I'm really going out on a limb here, and I will take the Oklahoma City Thunder and hope that **Jalen Williams** in particular can have a healthy season."
+**15. Kendrick Perkins — "Jalen Brunson is the best player, obviously. Karl-Anthony Towns is the most important player." — Kendrick Perkins on Jalen Brunson as the best player** [25:38](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1538s)
 
-**Brian Windhorst:** "That's a really good pick. I think they are a winning machine."
+Kendrick Perkins: "**Jalen Brunson** is the best player, obviously. **Karl-Anthony Towns** is the most important player. Go and look at that run. Look at the adjustments that Mitch Johnson had to make."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1591s
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1538s
 
-**12. Brian Windhorst — "I do think that the Spurs could have a bit of a rocky, not rocky, they could go through an adjustment period." — The San Antonio Spurs' potential and roster strategy** [27:11](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1631s)
+**16. Kendrick Perkins — "LeBron James is the greatest player of all time because of him being able to be versatile." — Kendrick Perkins on LeBron James's versatility** [28:13](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1693s)
 
-**Brian Windhorst:** "I do think that the Spurs could have a bit of a rocky, not rocky, they could go through an adjustment period. It does appear that **Mitch Johnson** is committed to starting the three guards, putting **Dylan Harper** into the starting lineup. And that to me is a no-brainer. They have to play that way, guys, because they are their three, they are their three or four best players."
+Kendrick Perkins: "**LeBron James** is the greatest player of all time because of him being able to be versatile. And we have seen at times when he's been asked to play the center position, he plays at the highest level."
 
-**Tim MacMahon:** "No, they have to play that way because **Dylan Harper** is too damn good to be satisfied with coming off the bench in his second season."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1693s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1631s
+**17. Richard Jefferson — "Can I get a trash bin to put all these teams in?" — Richard Jefferson on the difficulty of ranking NBA teams** [33:16](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1996s)
 
-**13. Jackson — "I will now take the Minnesota Timberwolves with my first selection and then the Los Angeles Lakers." — Jackson's draft picks: Minnesota Timberwolves and Los Angeles Lakers** [29:00](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1740s)
+Richard Jefferson: "Can I get a trash bin to put all these teams in? This might be the hardest question. This is harder than like, who's your championship pick?"
 
-**Jackson:** "I will now take the Minnesota Timberwolves with my first selection and then the Los Angeles Lakers with my second selection. I am buying what they're selling on the flip, not necessarily on the defensive end, but at this point in the draft, if a team can score some points, they're going to win some games. And they sure want to win games, and you know, I'm a fan of our pod friend and the coach with **Will Hardy** there."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=1996s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1740s
+**18. Richard Jefferson — "Whoever's the healthiest team at the end, that's really it. It just comes down to the mix." — Richard Jefferson on the necessity of team health for success** [33:55](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=2035s)
 
-**14. Tim MacMahon — "I'm not saying the Celtics are falling off. I think the Celtics are going to be a top-four." — The Boston Celtics' outlook and reliance on key players** [30:10](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1810s)
+Richard Jefferson: "Whoever's the healthiest team at the end, that's really it. It just comes down to the mix. We're primarily healthy at the end. San Antonio was healthy at the end."
 
-**Tim MacMahon:** "I'm not saying the Celtics are falling off. I think the Celtics are going to be a top-six, probably top-four, just assuming that **Paul George** plays the majority of their games and that they don't miss the production of **Jaylen Brown**. I don't know man, like that's a lot of faith in some spreadsheets, I would say."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=2035s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1810s
+**19. Richard Jefferson — "They finally have gotten the guys that they really want to develop and believe in." — Richard Jefferson on the importance of team identity** [34:17](https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=2057s)
 
-**15. Brian Windhorst — "Joe Mazzulla called Mitchell Robinson one of the smartest basketball players he's ever been around." — Joe Mazzulla's experimentation with the Boston Celtics' lineup** [30:33](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1833s)
+Richard Jefferson: "They finally have gotten the guys that they really want to develop and believe in. They've had some injuries last year. Obviously, it started off with **Trey Young**. Now they have a new identity. **Quinn Snyder** has been trying to fit what **Trey Young** can do with what this young team is, and now that they have a whole team of what they are, I think you're going to see the best version of them this year."
 
-**Brian Windhorst:** "**Joe Mazzulla** called **Mitchell Robinson** one of the smartest basketball players he's ever been around, and he is experimented in the preseason with playing **Nimi Keda** and **Mitchell Robinson** together."
+https://www.youtube.com/watch?v=fwmoLMLmJYQ&t=2057s
 
-**Tim MacMahon:** "Oh, please. Yeah, a team that wants to shoot 53s per game, please have two non-shooting bigs playing together in the year 2026."
+---
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1833s
+## LL Cool J on Jay-Z, Accidentally Punching Lennox Lewis, Surviving Deep Blue Sea & GOAT Black Sitcom — *7PM in Brooklyn*
 
-**16. Brian Windhorst — "I am taking the Detroit Pistons in this spot. I know that the Pistons have their flaws." — The Detroit Pistons' potential and roster changes** [31:16](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1876s)
+Source: https://www.youtube.com/watch?v=mXJr80zzQSs
 
-**Brian Windhorst:** "I am taking the Detroit Pistons in this spot. I know that the Pistons have their flaws. I think they will be highly motivated after the way last season ended. **Jalen Duren** looked great in his first preseason game. Looks to be in good shape. I think **Cade Cunningham**, let's not forget **Cade Cunningham** finished top-five in MVP last year if I'm not mistaken, even though he was given the free 65th game. That was a whole, I mean look, the poor guy had a lacerated lung. I'm not, I'm just saying that whole thing was weird. I'm not sure that the swap out of **Tobias Harris** and, beef stew, **Isaiah Stewart**, losing those two guys and bringing in **John Collins** and **Isaiah Joe**, I'm not sure that that swap out is ideal, but I do think that when **Cade Cunningham** is running pick and roll with Duren and or Collins, that's a formidable thing to stop."
+_Speakers identified: Carmelo Anthony, Kazeem Famuyide, LL Cool J, The Kid Mero_
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=1876s
+**1. LL Cool J — "You dream, accomplish that dream, dream some more. Accomplish that dream, dream some more. Go get it." — LL Cool J on the importance of persistence and dreaming big** [02:32](https://www.youtube.com/watch?v=mXJr80zzQSs&t=152s)
 
-**17. Tim MacMahon — "Cleveland Cavaliers won a lot of regular season games. I don't know what to think of them." — The Cleveland Cavaliers' playoff performance and analytical outlook** [33:29](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2009s)
+LL Cool J: "You know what it is. You dream, accomplish that dream, dream some more. Accomplish that dream, dream some more. Go get it. That's what we do, right? We got to go get it. There's no excuses, only explanations."
 
-**Tim MacMahon:** "Cleveland Cavaliers won a lot of regular season games. I don't know what to think of them in terms of the playoffs. I mean they did break through and get to the conference finals last year and analytically they did okay for a couple of games, but didn't end up winning any of them."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=152s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2009s
+**2. LL Cool J — "I literally filmed in my old neighborhood. That's an incredible feeling." — LL Cool J on the full-circle moment of filming in his old neighborhood** [03:44](https://www.youtube.com/watch?v=mXJr80zzQSs&t=224s)
 
-**18. Brian Windhorst — "I was pretty impressed with the product that we saw in Macau last week." — The Memphis Grizzlies' potential and roster concerns** [34:43](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2083s)
+LL Cool J: "It's a full-circle moment because I was in LA a long time, obviously exploring hip-hop culture all these years. Then I went to NCIS and we did 14 seasons in LA. Then it was like, what can we do different? What can we make happen? It felt like the right time to do New York. I literally filmed in my old neighborhood. That's an incredible feeling."
 
-**Brian Windhorst:** "I was pretty impressed with the product that we saw in Macau last week. **Cam Boozer**, I think is going to put up enormous numbers. The GMs picked **Cam Boozer**, it was not overwhelming, but they picked **Cam Boozer** to be the favorite to win Rookie of the Year, and I understand that. He's going to put up big numbers. I also want to point out like **Ty Jerome**, he missed like all of last year. That guy is a player who can make a difference and he's going to help them win some games. **Zach Edey** is currently healthy. I have no idea whether he's going to stay healthy. That is a guy who causes problems for teams."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=224s
 
-**Tim MacMahon:** "**Cedric Coward** is a good young player. I mean they've got some good they've got some good young players on the roster."
+**3. LL Cool J — "I'm famous because I'm an artist. I'm not famous just to be famous." — LL Cool J on being an artist first and his creative process** [08:59](https://www.youtube.com/watch?v=mXJr80zzQSs&t=539s)
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2083s
+LL Cool J: "I'm famous because I'm an artist. I'm not famous just to be famous. I'm an artist first. And secondly, I always explain, see Todd made LL, and Todd made Sam Hanna, the character on the show. Todd makes those people, not LL. I have the ability to create other things, the same way I created LL Cool J as an artist, making my music and writing the rhymes and doing all that. It's the same way that Todd can put his mind into having a show like NCIS LA and then doing NCIS New York."
 
-**19. Brian Windhorst — "I feel pretty good. This is a team that won 52 games last year." — The Houston Rockets' late-game struggles and roster potential** [36:15](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2175s)
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=539s
 
-**Brian Windhorst:** "I feel pretty good. This is a team that won 52 games last year, and 17 of the 30 games that they lost, they were in winning position. Look, I think if they can get into the play-in, it's a massive step forward. They're adding three impact players: **Fred VanVleet** at point guard, **Stephen Adams** at center, and I think they're going to be a team that's going to be a lot of fun to watch. I think they're going to be a lot of fun to watch. I think they're going to be a lot of fun to watch."
+**4. LL Cool J — "Stats don't tell you what's happening in the locker room, stats don't tell you how you affect other players." — LL Cool J on why stats don't tell the whole story in sports or music** [11:56](https://www.youtube.com/watch?v=mXJr80zzQSs&t=716s)
 
-**Tim MacMahon:** "Well, yeah, because it cost them. I mean, I think E-May stat is 17 of their losses they led by double figures."
+LL Cool J: "I can show you a bunch of stats, but stats don't tell you what's happening in the locker room, stats don't tell you how you affect other players around you, stats don't tell you how you make people feel, and that can lead to victories as well. In the arts, in music, you have artists that deserve to be heard, but if they have a higher kindling point, it's the record company's job to put a lighter under it until it's on fire."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2175s
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=716s
 
-**20. Brian Windhorst — "I want to point out that Kevin Durant last year was not by his standards not a great season." — Kevin Durant's consistent performance and shooting efficiency** [37:05](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2225s)
+**5. LL Cool J — "You can't polish do-do, man. You got to write a great song." — LL Cool J on the importance of taking time to create quality work** [13:46](https://www.youtube.com/watch?v=mXJr80zzQSs&t=826s)
 
-**Brian Windhorst:** "I want to point out that **Kevin Durant** last year was not by his standards not a great season. He still shot 52% from the field. He has shot over 50% from the field every year since 2010-11. As a guy who's creating off the dribble a lot and doing a lot of damage with his jump shot. Crazy. And he also shot over 41% on threes last year. It's just crazy."
+LL Cool J: "You got to write a great song. You're all great lyricists, you have the talent. Your aunties are praising you, this one loves you, we all know you're talented. Take your time and make the real thing. It starts with a song. **Quincy Jones** used to tell me, he said, you can't polish do-do, man. You can't polish do-do. But it's true. You got to write a great song."
 
-**Tim MacMahon:** "I mean, he's made 50-40-90 almost ho-hum. It's incredible."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=826s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=2225s
+**6. LL Cool J — "A lot of it just isn't being promoted." — LL Cool J on the importance of promoting artistic work** [14:56](https://www.youtube.com/watch?v=mXJr80zzQSs&t=896s)
 
-**21. Jackson Hoy — "trying to take a team that had some success-ish with a roster that was decimated with injuries" — New Orleans Pelicans' win total outlook after injury-riddled season** [1:00:09](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3609s)
+LL Cool J: "With some of the emotional connection, but what I'm trying to say is that a lot of it just isn't being promoted. A lot of these artists, they're creating for a click, not creating to touch your soul. They're two different types of conversations. We can have a conversation right now for clicks, and it will go viral. I could say something crazy right now and we could go crazy, but it wouldn't necessarily be healthy for me or for everything that I'm trying to do in my life."
 
-Jackson Hoy: "Along the lines with a team last year that won 26 games, hoping for similar-ish, maybe a little better outlook this year with the Pelicans. Their line is at 28.5. So at this point in the draft, trying to take a team that had some success-ish with a roster that was decimated with injuries last year. They have some lanky wings. Can they put together a handful of wins? I'm looking for a team not to have the bottom fall out here at this range."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=896s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3609s
+**7. LL Cool J — "Part of being a pro, part of being successful is being able to handle the pressure of time." — LL Cool J on the importance of commitment and handling pressure** [19:30](https://www.youtube.com/watch?v=mXJr80zzQSs&t=1170s)
 
-**22. Tim MacMahon — "he's slimmed down and and looks ready to roll" — Zion Williamson's physical conditioning and outlook for the season** [1:00:41](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3641s)
+LL Cool J: "Part of being a pro, part of being successful is being able to handle the pressure of time and being tested as you move forward. It comes with the, you know, when we did Any Given Sunday, we did two a days and I had to run through that gauntlet. That metal gauntlet for football, that thing was busting. I thought my, yo, you forgot, but I got, but I got, yo, it was bananas."
 
-Tim MacMahon: "They were just here in Dallas, chatted with **Jamal Mosley**. He's very excited about **Zion**. Very excited about the way that **Zion**'s been working, the way that he reported to camp, the conditioning he's in. Like every camp, there's a **Zion** weight update. He's slimmed down and and looks ready to roll. We'll see if that stays that way, but he's given his new coach reason to believe."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=1170s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3641s
+**8. LL Cool J — "One of the things that I've always prided myself in doing is not only learning from people that come before me." — LL Cool J on the importance of learning from those who came before and after** [28:02](https://www.youtube.com/watch?v=mXJr80zzQSs&t=1682s)
 
-**23. Jackson Hoy — "I'll take the Kings just due to some of the veteran presence still there" — Sacramento Kings' veteran presence and outlook for the season** [1:01:14](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3674s)
+LL Cool J: "One of the things that I've always prided myself in doing is not only learning from people that come before me, but learning from people who come after me at any stage. You can be 24 years old with a thought, and I'm listening. I'm hearing you out. I'm not dismissive."
 
-Jackson Hoy: "With my final pick, there's not really an option that I like here. I guess as far as other talent, there's a lot of young guards here, which is never a recipe for success. I'll take the Kings just due to some of the veteran presence still there. I don't feel good really about any of these with the young guards, but a coach has been at least, they'll at least be fun to watch."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=1682s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3674s
+**9. LL Cool J — "When I signed my first deal with Rick, we did 50/50 on my publishing." — LL Cool J on his 50/50 publishing deal with Rick Rubin** [28:44](https://www.youtube.com/watch?v=mXJr80zzQSs&t=1724s)
 
-**24. Tim MacMahon — "I really thought I was going to get the Kings to wrap this up" — Tim MacMahon's disappointment in missing out on the Kings** [1:01:41](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3701s)
+LL Cool J: "When I signed my first deal with Rick, we did 50/50 on my publishing. He wasn't an animal. He wasn't, I mean, that's, you know, a lot of people, they're using chat GPT and looking at contracts now and all that, but back then that was a, that was a very fair deal. He could have took it all and I would have had no problem with it. I knew nothing. 50/50. Ultimately, I got 100%. You know, you share with samples and stuff like that, but I own what I write. 100% of what I write, I own."
 
-Tim MacMahon: "I really thought I was going to get the Kings to wrap this up, but all right. In other words, I think you made a bad pick."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=1724s
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3701s
+**10. LL Cool J — "The most important thing to me when I make a song is how the song makes you feel." — LL Cool J on how he approaches his creative work** [29:28](https://www.youtube.com/watch?v=mXJr80zzQSs&t=1768s)
 
-**25. Brian Windhorst — "Between the two of them, I might get 40 wins" — Debating the win total potential of the Bucks and Nets** [1:01:51](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3711s)
+LL Cool J: "The most important thing to me when I make a song is how the song makes you feel. Not the lyrics, not the music. How does it make you feel? When's the last time you listened to a James Brown record and analyzed the lyrics really deeply? It's incredible. I started to hear the shit, but you're just listening to the joy."
 
-**Brian Windhorst:** "How many teams are left?"
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=1768s
 
-**Tim MacMahon:** "Two. Bucks and Nets."
+**11. LL Cool J — "It's also amazing to just be able to have a great career long-term into to accomplish certain things." — LL Cool J on the importance of long-term career success** [1:01:16](https://www.youtube.com/watch?v=mXJr80zzQSs&t=3676s)
 
-**Brian Windhorst:** "And those are McMahon's teams?"
+LL Cool J: "It's amazing to do it that way, but it's also amazing to just be able to have a great career long-term into to accomplish certain things. I give you an example. There are some rappers who may never make it into the Rock and Roll Hall of Fame, but that doesn't mean that they didn't have great careers. That's a different kind of thing and there's other dynamics that play and it worked out for some, right? So the championship stuff is very similar. I'm not saying that it's not important, but I'm just saying that's not the be-all and end-all to a career. You know what I'm saying? It's like what kind of work did you put in along the way? You know, all of that matters."
 
-**Tim MacMahon:** "You each get one."
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=3676s
 
-**Brian Windhorst:** "Oh, well, okay."
+**12. LL Cool J — "I don't want people to ever get discouraged because certain things didn't work out a certain way." — LL Cool J on the difficulty of reaching the top of a career** [1:02:16](https://www.youtube.com/watch?v=mXJr80zzQSs&t=3736s)
 
-**Tim MacMahon:** "I'll take them both. You cannot have, I'll get the advantage. Between the two of them, I might get 40 wins."
+LL Cool J: "I just the reason I say that is because I know that there I don't want people to ever get discouraged because certain things didn't work out a certain way. That way. You know what I'm saying? Like you can't get caught up in that because I tell Mero this all the time, bro. There's reasons for everything. There's reasons for everything. It was meant to be. It was meant to be. There's been dozens of people, but there's been a lot of people. That's a great analogy. You know, they are rappers and artists out there who wrote rhymes, who wrote songs, but maybe they didn't sign with they didn't have a **Russell Simmons** or Lyor or **Rick Rubin**. There's been dozens of people. That's a great analogy."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3711s
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=3736s
 
-**26. Brian Windhorst — "He is not played well in the preseason" — Gary Trent Jr.'s poor preseason performance and contract status** [1:02:22](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3742s)
+**13. LL Cool J — "I was supposed to die in the movie. But then it was like, for some reason they felt like, yo, you can't kill this dude." — LL Cool J on the reality of professional sports and acting** [1:03:16](https://www.youtube.com/watch?v=mXJr80zzQSs&t=3796s)
 
-Brian Windhorst: "He is not played well in the preseason. Well, they only owe him what, like 64 million? I'll take the Nets. I believe Jordi Fernandez, what he's allowed to actually coach, will get some more wins out of them."
+LL Cool J: "I'll give you a little bit of insight though. Actually, originally I was supposed to die in the movie. But then it was like, for some reason they felt like, yo, you can't kill this dude. This dude needs to live. They tried their best. And they yo, yeah, you can't kill this dude. Yeah, I ended up I ended up living. Yeah. Originally he was supposed to die. You're the heart of the movie. When you hear that, you're out of here. When you hear you're the heart of the movie, you're going. You're going out of here on page nine. Oh, shit. Okay. Do we have I know I know we have other examples of you doing wild shit. You know, because I got that's what I do, but I did it because I wanted to have fun. We don't want to go this is L we talking about."
 
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3742s
-
-**27. Tim MacMahon — "Khris Middleton will carry you to a repeat champion" — Tim MacMahon's outlook on the Milwaukee Bucks** [1:02:35](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3755s)
-
-Tim MacMahon: "All right, well, I'm stuck with the Bucks. No further comment. **Khris Middleton** will carry you to a repeat champion. At least 20 wins."
-
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3755s
-
-**28. Brian Windhorst — "Jackson may or may not have gotten glam team in the Philippines" — Jackson Hoy's 'glam team' and media appearance in the Philippines** [1:03:22](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3802s)
-
-**Brian Windhorst:** "Jackson may or may not have gotten glam team in the Philippines."
-
-**Tim MacMahon:** "So that was an interest in one. We both got glammed on that one."
-
-**Brian Windhorst:** "And you had a media appearance. Jackson, I just want to launch."
-
-**Jackson Hoy:** "I think they all talked amongst themselves the day before and decided, Jackson looked terrible. We got to find a way to clean up."
-
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3802s
-
-**29. Jackson Hoy — "I'm sure doing some TV or something in college someone got me to put something on" — Jackson Hoy on his experience with makeup for television** [1:03:49](https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3829s)
-
-Jackson Hoy: "Not the first. I'm sure doing some TV or something in college someone got me to put something on some pimple or something. I watch you guys, I'm wearing makeup right now because I just got off NBA today."
-
-https://www.youtube.com/watch?v=bhkTN1BeEHM&t=3829s
+https://www.youtube.com/watch?v=mXJr80zzQSs&t=3796s
 
 ---
 
