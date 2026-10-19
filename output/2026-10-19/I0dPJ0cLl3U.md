@@ -1,0 +1,37 @@
+# How will the 76ers manage all the star power? 🤩 + Steph Curry injury update | NBA on ESPN — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=I0dPJ0cLl3U
+
+_Speakers identified: Jorge Sedano, Shams Charania, Marc J. Spears, Ramona Shelburne, Chiney Ogwumike_
+
+**1. Shams Charania — "I am told he will play in the season opener on Wednesday against the Los Angeles Lakers." — Stephen Curry will play in Warriors' season opener after ankle tweak** [00:23](https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=23s)
+
+Shams Charania: "**Stephen Curry** participated fully in practice today at the Warriors facility in the Bay Area, and I am told he will play in the season opener on Wednesday against the Los Angeles Lakers. The Warriors are lucky they avoided a serious injury here. It is believed to be a minor right ankle sprain, so it is not that right knee which experienced runner's knee, which ailed **Stephen Curry** throughout last season. He missed significant time last year with that injury, so it is not that right knee, it is that ankle. I am told **Stephen Curry** did everything today, it was a light session, but he participated in everything and he will be on track to play on Wednesday."
+
+https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=23s
+
+**2. Chiney Ogwumike — "The biggest challenge for the 76ers will be keeping everyone engaged." — Biggest challenge for 76ers is keeping star players engaged** [01:14](https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=74s)
+
+Chiney Ogwumike: "The biggest challenge for the 76ers will be keeping everyone engaged. First and foremost, I know they are engaged off the court. **Jaylen Brown** was saying he has a harpist play for him twice a week, what a flex. These guys are engaged off the court, but on the court, it is going to be vital for the Philadelphia 76ers. **Jaylen Brown** is coming off a year where his usage was at its highest last year, it was actually second in the NBA overall just behind **Luka Doncic**. So even though he will probably have less of the rock, they have to find ways to do more as a unit. He is not alone because **Tyrese Maxey** is coming off a career year, an All-Star. You have **VJ Edgecombe** who had a sensational rookie year, and of course there is **LeBron James** and **Joel Embiid**. I think the only person that really benefits with less is probably Joel, so that he can make it to the finish line."
+
+https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=74s
+
+**3. Ramona Shelburne — "If he spends all year standing in the corner waiting for someone to dish him a three, that's not a win." — Concerns about Joel Embiid's role and perimeter shooting** [02:18](https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=138s)
+
+**Ramona Shelburne:** "Chiney, you saw that highlight. You see **Joel Embiid** standing in the corner shooting that three. Is that what we are going to get this year? Because he is one of the best dominant big men in the game and if he spends all year standing in the corner waiting for someone to dish him a three, that is not a win for the 76ers. That is an aspect that he has in his game, he is a great shooter, and that is my biggest question is how are they going to integrate **LeBron James** and **Joel Embiid**?"
+
+**Chiney Ogwumike:** "**LeBron James**, when you build a team around LeBron, he is going to drive and kick. He is one of the best downhill players in the game. He is one of the best distributors in the game. **Joel Embiid** needs to be in that paint. That is LeBron's space. And so, how is that going to work out? We have heard all the right things from them. I loved how LeBron had Embiid's back publicly over the whole he was late to practice, but this is the beginning of this."
+
+https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=138s
+
+**4. Marc J. Spears — "Embiid's health is at paramount right now because every other center on the team is injured." — Joel Embiid's health is paramount due to 76ers' injury issues** [03:05](https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=185s)
+
+Marc J. Spears: "Embiid's health is at paramount right now because every other center on the team is injured. **Jabari Walker**, left knee sprain, day-to-day. **Taco Fall** got a job basically because they have had so many injuries. **Dean Wade**, **Barlow** is hurt. **Dean Wade**, I have seen him playing small forward. He might be suiting up at center right now. And that probably means that **Jabari Walker** at 6'7" is going to have to play center and the King **LeBron James** is probably going to have to play center too. They are going to have to piece things up and that makes me worry about Embiid in terms of minutes. Like how many minutes can you play him because ultimately they are trying to win a championship. You do not want to wear him out too much because the other guys are not available."
+
+https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=185s
+
+**5. Chiney Ogwumike — "Using Joel Embiid the same way we saw Karl-Anthony Towns being used as a hub for offense." — Chiney Ogwumike on Joel Embiid's role as a hub for offense** [04:03](https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=243s)
+
+Chiney Ogwumike: "I am not so worried about the jump shots to start because as someone who has dealt with injuries, you want to sort of feel your way to the game and make sure that your body can withstand a season. I also love that **Joel Embiid** and we see this with a lot of centers, since we are focusing on the centers, a lot of them do their damage at the top of the key. And I think using **Joel Embiid** the same way we saw **Karl-Anthony Towns** being used as a hub for offense, as a passer, **Joel Embiid** is fully capable. That should also be his goal because when you are passing and facilitating, they always have to respect his shot so they will be up. But the same way we saw **Karl-Anthony Towns** distribute and pass the ball and him attack, he loves those spots. I think that might be a better option for him, less taxing."
+
+https://www.youtube.com/watch?v=I0dPJ0cLl3U&t=243s
