@@ -1,0 +1,35 @@
+# Stephen A. makes a BOLD prediction about Giannis’ Heat team 🔥 | First Take — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=mhKsv4PPk5k
+
+_Speakers identified: Stephen A. Smith, Molly Qerim, Brian Windhorst_
+
+**1. Stephen A. Smith — "the 76ers have the potential to replicate Miami in LeBron's first year there" — 76ers have potential to replicate Miami's success with LeBron James** [00:06](https://www.youtube.com/watch?v=mhKsv4PPk5k&t=6s)
+
+Stephen A. Smith: "I think that the 76ers have the potential to replicate Miami in LeBron's first year there. It's going to take them some time, but they'll get it together. I don't think that anything that happens tonight negatively for Philadelphia is a reflection on the season they're going to have. I think the 76ers are going to be phenomenal this year. I think they're going to be the number one impediment to the Knicks' success within the conference, but I don't think tonight is going to be that night."
+
+https://www.youtube.com/watch?v=mhKsv4PPk5k&t=6s
+
+**2. Stephen A. Smith — "I think there's a lot of people that are sleeping on the Miami Heat" — Miami Heat are elite defensive contenders in the Eastern Conference** [01:43](https://www.youtube.com/watch?v=mhKsv4PPk5k&t=103s)
+
+Stephen A. Smith: "I think there's a lot of people that are sleeping on the Miami Heat. They're going to be elite defensively. They were ranked 13th last year. Now they got **Giannis Antetokounmpo** with **Bam Adebayo**, who is an elite defender. **Andrew Wiggins** is no slouch as the defender for a false small forward spot. And I think the biggest thing being underestimated about them arguably is the fact that they got **Bobby Portis** in the same deal that brought Giannis to Miami. **Bobby Portis** can play. And I like him a lot, and I think he's going to be a welcome addition for them. And then, I don't know about anybody else, maybe they don't watch enough basketball, **Devin Mitchell** is not a scrub. That's a little pit bull who can play and who defends. You understand, he knows his role, he scored in the clutch on occasions, but the biggest thing about him is that he can defend."
+
+https://www.youtube.com/watch?v=mhKsv4PPk5k&t=103s
+
+**3. Brian Windhorst — "the Heat play a system that is unorthodox. They don't do pick and rolls really" — Giannis Antetokounmpo's fit in Miami's unorthodox system** [03:38](https://www.youtube.com/watch?v=mhKsv4PPk5k&t=218s)
+
+Brian Windhorst: "I want to remind you the Heat play a system that is unorthodox. They don't do pick and rolls really. They want to play straight downhill and they're going to put Giannis at point guard for a lot of the game and they are going to play straight downhill basketball with him going full board to the basket and distributing the ball. And I think with their particular alignment of players, it could be devastating. Now the Eastern Conference is very hard to predict. I can sit here making a case for five or six different teams that I could see end up being the one seed."
+
+https://www.youtube.com/watch?v=mhKsv4PPk5k&t=218s
+
+**4. Stephen A. Smith — "I think Norman Powell is going to be a tremendous loss, Windy" — Norman Powell's departure is a tremendous loss for Miami** [05:17](https://www.youtube.com/watch?v=mhKsv4PPk5k&t=317s)
+
+Stephen A. Smith: "I think **Norman Powell** is going to be a tremendous loss, Windy. I think that's going to be a tremendous, tremendous loss. Somebody that can just come off the bench and be instant offense, not a spot up three, but can put the ball on the floor and create opportunities for himself offensively. He's not the shooter that **Clay Thompson** is, because **Clay Thompson**, people don't realize this, **Clay Thompson** is one of the top five shooters in the history of basketball. And that people like that don't forget how to shoot. He might not be what he used to be, but I still think he's got enough left on the right team."
+
+https://www.youtube.com/watch?v=mhKsv4PPk5k&t=317s
+
+**5. Brian Windhorst — "they paid $12 million for Clay Thompson and Tim Hardaway Jr." — Miami's investment in Clay Thompson and Tim Hardaway Jr.** [06:47](https://www.youtube.com/watch?v=mhKsv4PPk5k&t=407s)
+
+Brian Windhorst: "They paid $12 million for **Clay Thompson** and **Tim Hardaway Jr.** That's what they are paying them combined this year. They between the two of them, they made over 400 threes last year. Now Clay did not shoot the ball well in the preseason, but 400 threes for $12 million, that is an incredible addition to that roster."
+
+https://www.youtube.com/watch?v=mhKsv4PPk5k&t=407s
