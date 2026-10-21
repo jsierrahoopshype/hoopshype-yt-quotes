@@ -1,0 +1,31 @@
+# Why Detroit Pistons Shouldn't Be OVERLOOKED! Pistons Still Need a #2? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=TDdWebg-S3w
+
+_Speakers identified: Chandler Parsons, DeMarcus Cousins, Lou Williams, Michelle Beadle_
+
+**1. Chandler Parsons — "This is a team that we sleep on because of the bad taste left in our mouth." — Chandler Parsons on why the Detroit Pistons are underrated** [00:50](https://www.youtube.com/watch?v=TDdWebg-S3w&t=50s)
+
+Chandler Parsons: "The Pistons are being slept on because of how they left last season in the postseason and how poorly they played. There was a lot of stuff that went into the stock of this team of why people were doubting them. I think **Cade Cunningham** is a top-three point guard in the NBA. **Jalen Duren** had a really bad postseason, but he is so young and there is so much more to him. They added a bunch of shooting this year, like an **Isaiah Joe**, who is one of the most underrated shooters in the league, that can fill the spots that they need. They also signed **John Collins** this summer, which is an absolute perfect fit for what they need, especially when they go small and move him to the five. This is a team that we sleep on because of the bad taste left in our mouth in the playoffs, but they won 60 games and they are tough. They lost **Isaiah Stewart**, but they got **Paul Reed**, who was just as impactful last night, if not more on the offensive end. This team is very good in the regular season. They are very well coached. **J.B. Bickerstaff**, you know that is my guy, I am going to ride for him."
+
+https://www.youtube.com/watch?v=TDdWebg-S3w&t=50s
+
+**2. DeMarcus Cousins — "I do feel like they've been slept on as far as going into this season." — DeMarcus Cousins on why the Pistons are being slept on** [02:35](https://www.youtube.com/watch?v=TDdWebg-S3w&t=155s)
+
+DeMarcus Cousins: "I do feel like the reason, and I agree, I do feel like they have been slept on as far as going into this season, and I think part of that is one, the East got so much stronger. Two, obviously the way they ended their season last year and then you go into the off-season, you disrupt the culture that everybody fell in love with last year. You get rid of Stewart, then you have the contract situation with Duren that obviously you don't want to ruin that chemistry with how he feels and being comfortable within the organization. So I kind of feel like they did it to themselves as far as disrupting the culture that everybody fell in love with last season. Obviously they got plenty of season to prove everybody wrong. I do agree with Chandler, I think **Cade Cunningham** is a top-10 player in the league without a doubt. I do like the signing of **John Collins**, I think that was an improvement for the group."
+
+https://www.youtube.com/watch?v=TDdWebg-S3w&t=155s
+
+**3. Lou Williams — "The one thing that I feel like they're missing is a bonafide secondary scorer." — Lou Williams on the Pistons' need for a secondary scorer** [04:19](https://www.youtube.com/watch?v=TDdWebg-S3w&t=259s)
+
+Lou Williams: "I like Detroit a lot. The one thing that I feel like they are missing is a bonafide secondary scorer. Yes, they have shooting, yes, they have defense, they have presence in a lot of areas, but if we are going to take **Kade Cunningham** away at some point in his game, who can we rely on to give us another 20 ball consistently? Not just Duren having a great game, not just Green having a great game, not just **Duncan Robinson** having a great game. Every single night, who can we rely on outside of **Kade Cunningham** to put the ball in the basket? That is the only worry that I have for them. Who is going to be the bonafide, legit number two guy? Not the Shaq and Kobe dynamic that they have with Kade and Duren that they have fashioned themselves as that. Not that dynamic. Who is going to be the guy when **Kade Cunningham** goes out of the game? Is Isaiah Joe going to be that guy? Is **Duncan Robinson** or whoever else, **Tobias Harris** just left, he was supposed to be that guy last season. That is the biggest question for me."
+
+https://www.youtube.com/watch?v=TDdWebg-S3w&t=259s
+
+**4. DeMarcus Cousins** [06:24](https://www.youtube.com/watch?v=TDdWebg-S3w&t=384s)
+
+**DeMarcus Cousins:** "Do you think we are ignoring the fact that they may be trying to position the Thompson twin as that second option?"
+
+**Lou Williams:** "It looks like it. It looks like it, but they also have him playing some point guard as well, which is a little unnatural for him. You know, he is going to be another guy that can do a lot of different things on the floor and be the Swiss Army knife type of guy. But can we put the ball in his hands and tell him to go get it for us? Last night, 11 points on four of eight from shooting. If he is going to be that guy, we got to get them attempts up to 13 to 15 a game if he is going to be that guy."
+
+https://www.youtube.com/watch?v=TDdWebg-S3w&t=384s
