@@ -1,0 +1,17 @@
+# How Well Does NBA Champion Jayson Tatum Know Himself?? | SLAM Exam — *SLAM*
+
+Source: https://www.youtube.com/watch?v=rb18QBMPk4I
+
+_Speakers identified: Jayson Tatum, Host_
+
+**1. Jayson Tatum — "Sometimes it's not your night. He was like, give you guys about five to seven minutes." — Jayson Tatum on the Celtics' 27-point comeback against the Spurs** [02:21](https://www.youtube.com/watch?v=rb18QBMPk4I&t=141s)
+
+Jayson Tatum: "I remember that night we were down 27 at the half. **Brad Stevens** came in the halftime and he told the starters basically, sometimes it's not your night. He was like, give you guys about five to seven minutes. If we can't make a dent into the lead, then we're probably going to let the young guys play the night. We were down 27, we came back to win in overtime. It was crazy."
+
+https://www.youtube.com/watch?v=rb18QBMPk4I&t=141s
+
+**2. Jayson Tatum — "I got a tattoo on my back that says U City. U City is University City." — Jayson Tatum on his deep connection with Nelly and St. Louis** [06:16](https://www.youtube.com/watch?v=rb18QBMPk4I&t=376s)
+
+Jayson Tatum: "I got a bunch of tattoos. All my tattoos are specific to my life. I got a tattoo on my back that says U City. U City is University City, the neighborhood that **Nelly** grew up in, **Brad Beal** grew up in, and I grew up in. **Nelly** went to U City High School, my mom went to U City High School. **Nelly**, being the biggest person probably to ever come out of St. Louis, and to take it a step further, us being from the same neighborhood. My parents have known **Nelly** since they were kids and essentially known me my whole life. We've gotten a lot closer in the last 10-12 years. He's somebody that I got a lot of respect for, and the whole city of St. Louis is really thankful for. He put St. Louis on the map and shined a light on the city."
+
+https://www.youtube.com/watch?v=rb18QBMPk4I&t=376s
