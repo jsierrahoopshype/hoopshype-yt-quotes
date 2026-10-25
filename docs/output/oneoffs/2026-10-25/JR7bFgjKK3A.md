@@ -1,0 +1,21 @@
+# Jay Huff Joins Quinn Buckner for Season 2 of Pacers Playroom ⚽️😅 — *Indiana Pacers*
+
+Source: https://www.youtube.com/watch?v=JR7bFgjKK3A
+
+_Speakers identified: Quinn Buckner, Jay Huff_
+
+**1. Jay Huff — "I used to love creative writing when I was in middle school and even college some." — Jay Huff on his past interest in creative writing** [02:16](https://www.youtube.com/watch?v=JR7bFgjKK3A&t=136s)
+
+**Quinn Buckner:** "If you want to write, what is it that you want to write about?"
+
+**Jay Huff:** "I don't really know yet. I used to love creative writing when I was in middle school and even college some. I remember one of my favorite stories I wrote, I forgot that I had a story due in a college creative writing class. I had no idea, had nothing done, and my professor emailed me and said, 'Hey, you forgot to turn in your story today, you can just leave it in my box.' I had nothing on me. So I spent a few hours that night writing a story about how I traveled back in time to write my essay. I included the professor's email in the story, so he knew that I had nothing done. I got a B on it. He almost gave me an A, but he gave me a B just for creativity."
+
+https://www.youtube.com/watch?v=JR7bFgjKK3A&t=136s
+
+**2. Jay Huff — "My dad played and coached, my mom played, so it was just kind of a role model built in." — Jay Huff on his upbringing in a basketball family** [03:46](https://www.youtube.com/watch?v=JR7bFgjKK3A&t=226s)
+
+**Quinn Buckner:** "How did you come to be a basketball player? Did you just grow?"
+
+**Jay Huff:** "Growing up, my dad played and coached, my mom played, so it was just kind of a role model built in. I was always a little taller than everybody, but it was cool. I just kind of kept growing, and me and my friends would just spend every day playing outside on the hoop in front of the house. I would always wait for my friend to get home from school."
+
+https://www.youtube.com/watch?v=JR7bFgjKK3A&t=226s
