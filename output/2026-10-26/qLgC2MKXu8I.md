@@ -1,0 +1,33 @@
+# Boogie - Dunleavy has done a S*** Job Helping Out Steph Curry! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=qLgC2MKXu8I
+
+_Speakers identified: Michelle Beadle, Lou Williams, DeMarcus Cousins_
+
+**1. Lou Williams — "This is a storybook ending that's coming to a close with Steve Kerr, Draymond Green, and Stephen Curry." — Golden State's roster transition and the end of an era** [00:36](https://www.youtube.com/watch?v=qLgC2MKXu8I&t=36s)
+
+**Lou Williams:** "This is a storybook ending that's coming to a close with **Steve Kerr**, **Draymond Green**, and **Stephen Curry**, and what they can do in the Western Conference as a collective. They have a lot of young guys around, and the veterans that they do have, they are over the hump of being old guys. I have so much love and admiration for **Stephen Curry**, **Draymond Green**, and Andrew Wiggins, but all of those guys are over the hump when it comes to age. Now you have some young guys that you start shifting to, let's start building around them. **Draymond Green** said I think we've found the new face of the franchise. When you start talking like that, that means that there is a passing of the baton and we are going in a different direction."
+
+**Michelle Beadle:** "What's the end of the tunnel look like? They are not cooked, but what does this really look like realistically?"
+
+https://www.youtube.com/watch?v=qLgC2MKXu8I&t=36s
+
+**2. DeMarcus Cousins — "I think Mike Dunleavy has done a s*** job as far as putting the roster around Stephen Curry." — DeMarcus Cousins criticizes Mike Dunleavy's roster construction around Stephen Curry** [02:01](https://www.youtube.com/watch?v=qLgC2MKXu8I&t=121s)
+
+DeMarcus Cousins: "I think **Stephen Curry** has so much more greatness to give, even at this point in his career. I don't feel like the front office is believing in **Stephen Curry** the way everybody in the world believes in **Stephen Curry**, and the evidence is pretty apparent. I will go on the record and say I think **Mike Dunleavy** has done a s*** job as far as putting the roster around **Stephen Curry**. Why this guy still has a job, I will never know. Obviously, I don't have that privilege in life. I think he's done a horrible job as far as putting a good group around him. They are still running the same outdated system as far as going extremely small. The other night, Steve Kerr put in a lineup and the tallest guy on the floor was 6'6". It just doesn't work anymore. The system is outdated."
+
+https://www.youtube.com/watch?v=qLgC2MKXu8I&t=121s
+
+**3. Lou Williams — "I think Golden State is in a gray area. We're at the end of the road." — Golden State is stuck in a gray area of transition** [05:14](https://www.youtube.com/watch?v=qLgC2MKXu8I&t=314s)
+
+Lou Williams: "I think Golden State is in a gray area. They showed you that by **Stephen Curry** getting his deal, by **Stephen Curry** getting two more years, by **Draymond Green** coming back. We're at the end of the road with this particular group right here. Let's start going to find some young pieces to kind of mesh and mold into that, and then we're going to phase this thing out and we're going to start going in a different direction. I don't think this team is built to compete for a championship, but I think they're better than the 0-3 start. I could be wrong."
+
+https://www.youtube.com/watch?v=qLgC2MKXu8I&t=314s
+
+**4. Michelle Beadle — "I'm not afraid to talk to nobody. He's not Michael Jordan." — Yaxel Lendeborg's fearless mentality and trash talk with Luka Doncic** [06:20](https://www.youtube.com/watch?v=qLgC2MKXu8I&t=380s)
+
+**Michelle Beadle:** "My favorite part about the smack talk with **Luka Doncic** is that after, when he was asked about the smack talking with **Luka Doncic**, he said I'm not afraid to talk to nobody. He's not **Michael Jordan**. I cannot tell you the love in my heart for everything that's on the screen right now. He's a rookie, I know he's a 25-year-old rookie, but he's a rookie nonetheless. I know you got to love the fact that he is not afraid."
+
+**DeMarcus Cousins:** "I love it. I love the mentality, I love the approach, and I'll take a guy like that on my team any day. I love everything I saw from him. But I also, you know, I saw the headlines, I saw the narrative around the exchange between the two. But if I'm a young fellow, I'm taking it as a compliment. We got one of the greatest scorers this game has ever seen, and in what, game two, you somehow figure out a way to be on this guy's radar? **Luka Doncic** noticed you for a reason. **Luka Doncic** started the exchange for a reason. Those clips before they call fouls, that was great defense from a rookie. So, all of those things being said, there's a reason that **Luka Doncic** notices you because one, you're doing a lot of the right things, two, you're making his job hard, and he knows that."
+
+https://www.youtube.com/watch?v=qLgC2MKXu8I&t=380s

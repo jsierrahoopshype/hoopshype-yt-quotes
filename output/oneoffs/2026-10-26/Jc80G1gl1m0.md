@@ -1,0 +1,17 @@
+# Jalen Williams Stretchered off With Severe Ankle Injury - Doctor Explains — *Brian Sutterer MD*
+
+Source: https://www.youtube.com/watch?v=Jc80G1gl1m0
+
+_Speakers identified: Brian Sutterer, MD_
+
+**1. Brian Sutterer, MD — "I am concerned about an ankle fracture dislocation." — Jalen Williams' ankle injury likely involves fracture and dislocation** [00:25](https://www.youtube.com/watch?v=Jc80G1gl1m0&t=25s)
+
+Brian Sutterer, MD: "The long and short of this is I am concerned about an ankle fracture dislocation. We can see obviously anytime somebody is taken off the court on a stretcher, we see the towel thrown over right away, this is a serious injury. And based on the mechanism of what we are seeing here, the most likely scenario would be an ankle dislocation, plus or minus a fracture. And you can very rarely have situations where the ankle dislocates without a fracture. The majority of the time there is an associated fracture."
+
+https://www.youtube.com/watch?v=Jc80G1gl1m0&t=25s
+
+**2. Brian Sutterer, MD — "I would fully expect this sort of an injury to be a multi-month absence." — Jalen Williams' injury likely results in a multi-month absence** [03:56](https://www.youtube.com/watch?v=Jc80G1gl1m0&t=236s)
+
+Brian Sutterer, MD: "The majority of these injuries, regardless of what exact situation that is in terms of dislocation, fracture, etc., are going to be extensive multi-month absences. Whether they are putting hardware in there to fix fractures, whether they are doing soft tissue reconstruction work on the surrounding ligaments if it is just a simple dislocation, I would fully expect this sort of an injury to be a multi-month absence, if not potentially a season-ending sort of thing. This is very similar to what we saw happen with **Gordon Hayward** a number of NBA seasons ago, and so that is the time frame that I think have to be thought of here when we are looking at what we could be expecting for Williams coming back."
+
+https://www.youtube.com/watch?v=Jc80G1gl1m0&t=236s
