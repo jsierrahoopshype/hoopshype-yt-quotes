@@ -1,0 +1,37 @@
+# Are the Houston Rockets in Same Tier As Spurs-Thunder?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=542Ahf-3WPg
+
+_Speakers identified: Michelle Beadle, DeMarcus Cousins, Chandler Parsons_
+
+**1. DeMarcus Cousins — "they lost their coach on the floor, their leader on the floor, and just the guy that can get everybody in place" — DeMarcus Cousins on the Houston Rockets' cultural and leadership turnaround** [00:26](https://www.youtube.com/watch?v=542Ahf-3WPg&t=26s)
+
+DeMarcus Cousins: "I love it. I think this was who they were this entire time. Obviously, they hit a hard part of the season when **Fred VanVleet** went down. I think that sucked the life out of the team. I think they lost their coach on the floor, their leader on the floor, and just the guy that can get everybody in place to be successful. People don't realize, and I think it's also part of where the game is going, but it's almost like we're starting to lose the appreciation of a floor general, a point guard. We think that's almost like putting your wide receiver at quarterback and expecting great results. There's a reason that point guard position is so important, and I think with **Fred VanVleet** now returning and also adding a veteran like **Marcus Smart**, I think it's helped this group tremendously."
+
+https://www.youtube.com/watch?v=542Ahf-3WPg&t=26s
+
+**2. DeMarcus Cousins — "the twin is playing better basketball because he's now being a more natural wing slasher, defender type of player" — DeMarcus Cousins on the evolution of Amen Thompson's role** [01:35](https://www.youtube.com/watch?v=542Ahf-3WPg&t=95s)
+
+DeMarcus Cousins: "I think the twin is playing better basketball because he's now being a more natural wing slasher, defender type of player compared to coming out running the team, getting guys in position, doing something, and obviously he may have the talent to do so, but just because you have the talent doesn't mean you understand the job fully. I think everybody's in position now to flourish. I think this team is finally flowing and clicking, and I think this is who they were always planning to be in the first place."
+
+https://www.youtube.com/watch?v=542Ahf-3WPg&t=95s
+
+**3. Chandler Parsons — "when you bring Fred VanVleet back in and you can add a veteran presence like Marcus Smart" — Chandler Parsons on the Houston Rockets' depth and veteran leadership** [02:39](https://www.youtube.com/watch?v=542Ahf-3WPg&t=159s)
+
+**Michelle Beadle:** "Can we put them in the same group? Can we put them on that same tier, Lou? What do you have to see from the Rockets to put them there?"
+
+**Chandler Parsons:** "I think they just bit the injury bug last year. Other than that, I think they were in that conversation. That was the expectation level that we had for the Houston Rockets. To piggyback off of what Boogie said, when you bring **Fred VanVleet** back in and you can add a veteran presence like **Marcus Smart**, a guy that can keep your locker room tough, can keep everybody tight, even if he doesn't step on the floor, you just got more veteran leadership that can go along with **Fred VanVleet** and **Kevin Durant**. That's a great thing for them to have. When you bring a **Fred VanVleet** back, that just gives you more depth. It just gives you a better opportunity to have depth with both of your groups, from your first group to your second group. Even the game that he didn't play against the Atlanta Hawks, that puts them in a position to have a bunch of different guys that can go out and contribute and play different roles. You look at their bench play from having **Clint Capela** to **Bogdan Bogdanovic** coming off the bench to **Eason** coming off the bench now because you got these guards back in your lineup, it just gives you the depth."
+
+https://www.youtube.com/watch?v=542Ahf-3WPg&t=159s
+
+**4. DeMarcus Cousins — "this was a group without their starting championship guard that went out and won 50 games" — DeMarcus Cousins on the Rockets' resilience despite missing their starting guard** [04:17](https://www.youtube.com/watch?v=542Ahf-3WPg&t=257s)
+
+DeMarcus Cousins: "I want to make a point with this too. As much as they got shitted on last year for how their season ended, this was a group without their starting championship guard that went out and won 50 games. So to expect them to be worse with a healthy team returning, that's crazy. I don't want us to ignore the fact that they were still a very, very good team last year, even though they were an injured team for most of the year. They still went out and won 50 games in the West. So let you know how talented this Rockets group really is."
+
+https://www.youtube.com/watch?v=542Ahf-3WPg&t=257s
+
+**5. Chandler Parsons — "guys like Reed Sheppard, now he can play his natural position. He doesn't have to bring the ball" — Chandler Parsons on the benefits of players playing their natural positions** [04:54](https://www.youtube.com/watch?v=542Ahf-3WPg&t=294s)
+
+Chandler Parsons: "Guys like **Reed Sheppard**, now he can play his natural position. He doesn't have to bring the ball up the floor. **Thompson** can play his natural position. He doesn't have to bring the ball up the floor. Even if there is some games where **VanVleet** is going to miss based on load management or what you have because of him coming back, they've now had the experience of having to run the offense. So you got a stronger team by default based on the cards that they was dealt and they were able to get through it. And now with everybody back in the shuffle, they just look like a completely different basketball team."
+
+https://www.youtube.com/watch?v=542Ahf-3WPg&t=294s
