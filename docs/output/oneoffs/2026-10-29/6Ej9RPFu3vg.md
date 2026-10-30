@@ -1,0 +1,125 @@
+# Sam Amick shares his intel on Doug Christie's job security & says the Kings 'are open for business' — *Sactown Sports 1140*
+
+Source: https://www.youtube.com/watch?v=6Ej9RPFu3vg
+
+_Speakers identified: Carmichael Dave, Jason Ross, Sam Amick_
+
+**1. Sam Amick — "It's not pretty. They've been in two of the games, they've not been in the other two." — Kings' early season struggles and the team's lack of excitement** [03:14](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=194s)
+
+Sam Amick: "It's not pretty. They've been in two of the games, they've not been in the other two. The Spurs were desperate to get back to 500 and they got boat-raced by them. The **Darius Garland** dialogue has permeated beyond our backyard in the regional space and I think even gone national in terms of everybody agrees very talented player and then the discussion about style of play and shot selection and volume."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=194s
+
+**2. Sam Amick — "He's putting up these numbers that are fairly in line with his career averages, yet seems to be untradeable." — Domantas Sabonis's career-level production and his untradeable status** [06:35](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=395s)
+
+Sam Amick: "So far this year, and granted it's four games, but we're also talking about before he got hurt the three-time defending rebounding champion. He's averaging 19 points a game, that's right in line with his career averages. 16 and a half rebounds, 7.3 assists, and he's averaged over seven assists a few times on splits of 72, 100, and 87. That's going to regress a little bit, I think it's fair. But you have a guy in Sabonis who just turned 30 in May. He's putting up these numbers that are fairly in line with his career averages, yet seems to be untradeable unless you want to take on money or something else in the future that Perry doesn't want to do."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=395s
+
+**3. Sam Amick — "When the Kings and Domantas Sabonis's camp pitched him to Detroit potentially as part of the Jalen Duren situation." — The Kings' failed pursuit of Jalen Duren in Detroit** [07:37](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=457s)
+
+Sam Amick: "When the Kings and Domantas Sabonis's camp pitched him to Detroit potentially as part of the **Jalen Duren** situation, I thought that was very revealing and this happened over the summer if anybody missed it. Duren was trying to get a deal done with the Pistons and so it was going to be a potential sign-and-trade. I thought it was fascinating and revealing that a team like the Pistons, where I think Sabonis would fit pretty well, just absolutely showed no interest."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=457s
+
+**4. Sam Amick — "Committing to Sabonis as a hub offensively requires a significant enough change to your system." — The tactical challenges of building an offense around Domantas Sabonis** [08:46](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=526s)
+
+Sam Amick: "Committing to Sabonis as a hub offensively requires a significant enough change to your system that I think a lot of teams, you have to really be in love with Sabonis to make him the center of your universe and of your offense. That's the best answer I can give you about some of the hesitation is that he's not somebody necessarily who fits into what you already have a lot of times. The perception, fair or not, is that he requires you to make everything else fit into him."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=526s
+
+**5. Sam Amick — "You lose two starters, an All-Star and a guy who at times looks like a possible All-Star in Cason Wallace." — Oklahoma City Thunder's depth and draft capital despite injuries** [10:19](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=619s)
+
+Sam Amick: "You lose two starters, an All-Star and a guy who at times looks like a possible All-Star in **Cason Wallace**. And they are still deep, but you know, we know that they've got this absolute cupboard full of draft picks that they're sitting on. I mean they could get in any conversation in the league. And so, do the Thunder go out and do something? Minnesota is always very active. You do wonder, I watched that Warriors-Wolves game pretty closely last night and it wasn't pretty."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=619s
+
+**6. Sam Amick — "There was that clip of Lauri Markkanen and Jalen Duren both getting on Gobert." — Lauri Markkanen and Jalen Duren's frustration with Rudy Gobert** [11:17](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=677s)
+
+Sam Amick: "There was that clip of **Lauri Markkanen** and **Jalen Duren** both getting on Gobert. And I'm and I know that locker room pretty well and I'm going, oh boy. Like he might have taken that in the moment, but that is not going to go well. Like he is a leader in that locker room and and and really that is missing, you know, Ant, because Ant's very good at at the leadership stuff."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=677s
+
+**7. Sam Amick — "This is more about moving salary, waiting out salary, and developing Doug Christie." — Kings' front office strategy and Doug Christie's future** [12:17](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=737s)
+
+Sam Amick: "This is more about moving salary, waiting out salary, and developing **Doug Christie**. You mentioned earlier the Christie comments, the Sabonis comments, they're 0-4. There's a decent chance if they don't win tonight they'll be 0-5 coming back to take on the Lakers and the Kings tend to do things after bad home losses versus the Lakers. Do you get a sense, are you smelling smoke that the seat might be warming up for Douglas?"
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=737s
+
+**8. Sam Amick — "The messaging that I received was that the injuries have got to be taken into consideration." — Kings' front office prioritizing player development over immediate wins** [13:36](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=816s)
+
+Sam Amick: "The messaging that I received was that the injuries have got to be taken into consideration and they are taken into consideration. You're talking about, obviously **Ben Simmons** being a guy that they were planning on having be part of this, he's out for the year. **Keegan Murray** in his situation, **Dylan Cardwell**, **Maxime Raynaud**. **Malik Monk** is back, but you're talking how many starters within the top four that I mentioned there guys? I mean that's that's a lot of production and so I for now, and it's always tricky to handicap things like this, that I think context is being weighed heavily and so there, you know, it's not a right now thing."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=816s
+
+**9. Sam Amick — "You got Scott Perry obviously leading the front office. BJ Armstrong is somebody who with Christie I've heard has got a good relationship." — Front office stability and the influence of Vivek Ranadivé** [14:36](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=876s)
+
+Sam Amick: "You got **Scott Perry** obviously leading the front office. **BJ Armstrong** is somebody who with Christie I've heard has got a good relationship and is kind of making sure that he's in a good place and BJ's kind of seen everything in the league and is, you know, part of the story Bulls teams back in the day. So, we'll see where it goes but right now there's almost a sense of like, hey, could everybody not forget how many guys we lost?"
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=876s
+
+**10. Sam Amick — "The one it feels like that they almost had to have was the guy they added last in Ben Simmons." — The impact of Ben Simmons's injury on the Kings' roster** [15:30](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=930s)
+
+Sam Amick: "The one it feels like that they almost had to have was the guy they added last in **Ben Simmons**. I mean you can just see where he would really, again, I don't know how different the record is, maybe they're still 0-4, but I think the the compete part would look better, ironically with a guy that didn't even play last year in **Ben Simmons**. That's a weird angle to this to me."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=930s
+
+**11. Sam Amick — "Cardwell is a motor guy and a spirit guy and they could use both of those in spades right now." — Dylan Cardwell's role as a motor and spirit player** [16:02](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=962s)
+
+Sam Amick: "Cardwell is a motor guy and a spirit guy and they could use both of those in spades right now. And him being out is is significant. Maxime had a great rookie season, so, you know, that part is unfortunate. But yeah, the Ben part, I mean I, you know, of all the injuries that have happened this year, that one to me is you know uniquely kind of the most brutal just when you talk about not only his story, but the impact that he was expected to have on the Kings potentially."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=962s
+
+**12. Sam Amick — "You remember Tyrese Haliburton, you remember 144 flat, you remember 25 and 5 and him getting the keys to the castle." — Comparing Tyrese Haliburton's breakout to current team dynamics** [17:41](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1061s)
+
+Sam Amick: "You remember **Tyrese Haliburton**, you remember 144 flat, you remember 25 and 5 and him getting the keys to the castle back in what was it 09, 2010 something like that. Do you do you see a similarity between these two? Am I overreaching there? I'm not seeing the same level of shameless promotion and sellout marketing from the organization, so I mean, okay. Because I mean my god, they had like banners in the street about Tyrese."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1061s
+
+**13. Sam Amick — "Was it the first guy since LeBron to average that as a rookie? Yes." — Tyrese Haliburton's rookie season and the organization's marketing** [18:22](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1102s)
+
+Sam Amick: "Was it the first guy since LeBron to average that as a rookie? Yes. So it was it was absurd. It was it was, you know, like spitting in the basketball god's face every night out, uh, offending teammates and and even opponents that they would clearly be trying to get him to that number, trying to force feed, uh, put him in the same sentence as **LeBron James**. So that stuff to their credit, no, I'm not seeing any of that. I'm just seeing like basketball wise, yes, you know, this his Great Gatsby should be Darius's new nickname because he's got the greenest light I've ever seen."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1102s
+
+**14. Sam Amick — "In the beginning it was Draymond Green getting in his ear, telling him, don't forget about your teammates." — Draymond Green's mentorship and the Kings' roster challenges** [19:31](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1171s)
+
+Sam Amick: "In the beginning it was **Draymond Green** getting in his ear, telling him, don't forget about your teammates. So, I think he'll get there and it's just they they don't have much to be excited about. I mean they they've got to eventually and this is months down the road, they've got to get off some of this money roster wise. They they've got to push this thing in a direction that where you can see the vision and until then, it's going to be, for better or worse, a lot of Darius Garland show nights."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1171s
+
+**15. Sam Amick — "It felt like he was going to be another one of the pieces that they wanted to go forward." — Keegan Murray's contract extension and injury-related slow start** [20:01](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1201s)
+
+Sam Amick: "It felt like he was going to be another one of the pieces that they wanted to go forward. They have given him a contract extension, or paid him like so, and last year was injury related. Now he's see him out again, but even before that a little bit of a slow start, short sample size, but what's your read on how they think about **Keegan Murray**?"
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1201s
+
+**16. Sam Amick — "You give a guy that much money and you get so far what they've gotten out of it." — The Kings' investment in Keegan Murray and the need for development** [20:22](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1222s)
+
+Sam Amick: "You give a guy that much money and you get so far what they've gotten out of it, that's that was not the plan. I mean just to be blunt about it. I think when their phone rings right now, that the only guy they're not willing to talk about is Garland. I mean I think everything is on the table. So, you know, they are to that degree open for business and that's not any sort of a front to a guy like Keegan, it's just a reality of, you know, I mean the nuance that always gets lost in these conversations is that, you know, like I might get clipped and people, oh, Keegan's, you know, you can talk about Keegan well, it's not that simple."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1222s
+
+**17. Sam Amick — "Whether it's Keegan or or any of these guys, you got to put something good on the table." — The Kings' front office and the reality of their roster situation** [21:26](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1286s)
+
+Sam Amick: "Whether it's Keegan or or any of these guys, you got to put something good on the table. They value him, but they they are, you know, they've got to be creative and open to any conversation that's out there. It's just the smart way to do business."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1286s
+
+**18. Sam Amick — "The Blazers thing is is kind of wild and like their game against the Lakers the other night." — The Portland Trail Blazers' surprising performance against the Lakers** [23:38](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1418s)
+
+Sam Amick: "The Blazers thing is is kind of wild and like their game against the Lakers the other night was super fun. I mean not a lot of it was funny. The Lakers have claimed and I wrote about this that they're going to be a quote nasty defensive team. That was the word that Walker Kessler used because he thinks very highly of their personnel and their culture and their approach. And maybe that bears out, but it was not the case in that game."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1418s
+
+**19. Sam Amick — "Damian Lillard being the wise older veteran who is absolutely clicking." — Damian Lillard's leadership and the Blazers' team chemistry** [24:19](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1459s)
+
+Sam Amick: "**Damian Lillard** being the wise older veteran who is absolutely clicking and we he's out the league for the last year kind of missing him play. But watching him click from a relationship standpoint and on the court with **Ja Morant** is really interesting and seeing, you know, **Drew Holiday** still not only able to look like **Drew Holiday**, but the way that **Mike Brown** is using him off the bench is smart because you can kind of unleash Drew in the last three quarters."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1459s
+
+**20. Sam Amick — "When they hired their coach, they gave him a one guaranteed season which never happens in the NBA." — The Blazers' coaching contract and the rarity of guaranteed seasons** [25:40](https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1540s)
+
+Sam Amick: "When they hired their coach, they gave him a one guaranteed season which never happens in the NBA and and and you know, yes, that might be the downside. It's Tom pulling those strings."
+
+https://www.youtube.com/watch?v=6Ej9RPFu3vg&t=1540s
