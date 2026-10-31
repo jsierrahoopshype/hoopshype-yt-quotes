@@ -1,0 +1,145 @@
+# How you can own a NBA or NHL team. And why friendship is the key to the Knicks title — *Business Decision with Mike Vorkunov*
+
+Source: https://www.youtube.com/watch?v=DN69t-Vn2E0
+
+_Speakers identified: Mike Vorkunov, Yaron Weitzman_
+
+**1. Mike Vorkunov — "You can now buy stock of the Knicks and the Rangers. Buying and selling shares of NBA and NHL teams." — Publicly traded status of the Knicks and Rangers** [01:05](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=65s)
+
+Mike Vorkunov: "The big news this week, of all the things happening in sports this week, is that you can now buy stock of the Knicks and the Rangers. Buying and selling shares of NBA and NHL teams. It is actually pretty rare. I think the Atlanta Braves are the only other publicly traded North American sports team. Obviously, you can buy the Manchester United shares if you want, but I know all the United fans out there feel like that team has been tanking their stock price intentionally for the last decade and a half or so. We have covered this on a podcast before, but now that it is actually happened, I am kind of curious, what do you think of the fact that now there are two teams out there, you can buy stock of them, and what does it mean for them going forward when it comes to competitiveness?"
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=65s
+
+**2. Mike Vorkunov — "You are buying a share of those franchises. Now, you can't do anything with that share." — Ownership structure of MSG Sports** [02:08](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=128s)
+
+**Mike Vorkunov:** "You can own parts of the Knicks and parts of the Rangers. MSG Sports is now two companies. One is MSG Entertainment, one is MSG Sports. The Rangers Corp owns the Rangers and their AHL team and the MSG practice facility. And then, Knicks Corp, I will just call it, owns the Knicks and the G League team. And so, yeah, you are buying a share of those franchises. Now, you can't do anything with that share. If you show up to a board meeting and you are like, 'Hey, I want to give the coach the max,' everyone will ignore you, just like they would if you said it on Twitter. But you do get to profit a little bit if the team and the company itself is doing well."
+
+**Yaron Weitzman:** "If you are a Knicks fan, you can now be further invested in their performance, which I guess, that to me was actually one of the more interesting things of this stuff is that we got a look at the financials, and there were some interesting things we saw."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=128s
+
+**3. Mike Vorkunov — "The Knicks had their best day of merch sales ever the day after the finals." — Knicks merchandise sales and revenue after playoff success** [03:28](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=208s)
+
+Mike Vorkunov: "We found out that winning really does matter for teams when it comes to their bottom line. The Knicks had their best day of merch sales ever the day after the finals. Maybe not so surprising, but people who had their team win a championship want to go out and buy a bunch of stuff that supports their team and gets to say that. The numbers came out, and I think it was August or so, but the Knicks had nine home games this playoff run, and they had nine home games the year prior when they went to the Eastern Conference finals. And I think they made something like $60 million more dollars this year. They average about $20 million in revenue per home game. They said in their SEC filings that that set NBA records for game revenue gates. And so it is really fascinating because a separate one for the Rangers said that they really need prolonged playoff runs to be profitable."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=208s
+
+**4. Yaron Weitzman — "The NBA, each team is going to make roughly $150 million through the national media deals." — NBA teams rely heavily on national media deal revenue streams** [05:19](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=319s)
+
+Yaron Weitzman: "The NBA, each team is going to make roughly $150 million, maybe a little bit more, just through the national media deals with Amazon and NBC and ESPN and all that. But yeah, getting people in the door really matters. Getting people to watch on your local RSN really matters. Getting people to buy food and drinks and all that stuff, it all really matters. And all that, when are people going to go to games, right? If your team sucks, they are probably not going to go to games. If your team is boring, they are probably not going to watch."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=319s
+
+**5. Yaron Weitzman — "There are so few teams that are publicly traded that we get actual insight into their financials." — Lack of public financial data for most NBA team ownership groups** [05:19](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=319s)
+
+Yaron Weitzman: "There are so few teams that are publicly traded that we get actual insight into their financials. The Atlanta Braves are another one. That is about it. You think **Ted Leonsis**, who owns the Mystics and the Wizards and the Capitals, had flirted with going public at one point. I don't know if that is still his plan, or maybe he is kind of falling off of that. But we get so few actual insights into these things, and so it is fascinating to see it."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=319s
+
+**6. Yaron Weitzman — "I think it said that they were making $120 million in profit last year." — Reported profit margins for the Los Angeles Lakers franchise** [05:19](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=319s)
+
+Yaron Weitzman: "Like with the Lakers, if you remember, they were bought by **Bob Iger** and **Josh Kushner**. Yes, I almost mixed up the Kushner brothers there. But they were, the Wall Street Journal kind of reported their investor pitch that they were making out there. I think it said that they were making $120 million in profit last year. Those are wild numbers."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=319s
+
+**7. Mike Vorkunov — "the friendship kind of at the heart of the Knicks and their revival" — The friendship between Leon Rose and William Wesley at the Knicks** [15:28](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=928s)
+
+Mike Vorkunov: "You wrote a pretty big story this week in New York Magazine about the two most senior people in the Knicks front office. The two men who helped lead them to a title last year. And pretty interesting story because it is actually the friendship kind of at the heart of the Knicks and their revival. The story of **Leon Rose**, the team president and former high-powered basketball agent, and **William Wesley**, technically the number two in the Knicks front office. But that doesn't seem fair to their relationship to put it like that. And he has got an executive title and all that, but Worldwide West, **William Wesley** has his own kind of background and relationship in the NBA."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=928s
+
+**8. Yaron Weitzman — "two guys stick together for almost 50 years without really any fights over credit and ego" — The rare longevity and lack of ego in the Rose-Wesley partnership** [15:28](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=928s)
+
+Yaron Weitzman: "What stood out most about the relationship, which I kind of knew before, but just hearing people who know them and around the league and been around for years, agree and testify to the same thing. Like this kind of relationship doesn't happen where two guys break in together. Two guys stick together for almost 50 years without really any, I'm sure they've argued, but like no fights, no breakups, no fights over credit and ego issues and backstabbing. Like that doesn't happen in almost any business and certainly not show business, which is basically what sports are. It just doesn't happen."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=928s
+
+**9. Yaron Weitzman — "West is hiding in the back, he thinks somebody wants to hurt him" — William Wesley's early connection to Wade Houston and Louisville basketball** [18:16](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1096s)
+
+Yaron Weitzman: "West is the background, he is selling shoes in a shoe store in Camden, and an assistant coach from Louisville who decides he wants to start recruiting kids from Camden comes in. He goes to the shoe store, starts asking for **William Wesley**. West is hiding in the back, he thinks somebody wants to hurt him because they are asking about him, and when he finds out he is a college coach, comes out, introduces himself, they hit it off. This coach's name is **Wade Houston**, he is an assistant coach at Louisville. He is **Allan Houston**'s father. That is West's basically one of his first connections into the sports world, like the Louisville basketball program, with guys like **Billy Thompson** and **Milt Wagner**, who are two of the big ones."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1096s
+
+**10. Yaron Weitzman — "West becomes part of Dolan's inner circle, West and Dolan develop a strong connection" — The origins of the relationship between William Wesley and James Dolan** [18:16](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1096s)
+
+Yaron Weitzman: "When **Allan Houston** signs with the Knicks, he becomes a favorite of **James Dolan**'s, but he is also a highly-priced player there, and those Knicks teams are beloved. West becomes part of Dolan's inner circle, West and Dolan develop a strong connection back then. That is sort of the beginning of it, which I found interesting. Everyone knows the CAA Knicks stuff, but this iteration of the Knicks predates CAA. It is West and Dolan."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1096s
+
+**11. Yaron Weitzman — "It's almost like a soft skills guy, right? Like take players out to dinner, he's on the road all the time." — William Wesley's role as a 'soft skills' guy in the front office** [19:28](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1168s)
+
+Yaron Weitzman: "It's almost like a soft skills guy, right? Like take players out to dinner, he's on the road all the time. The guys who are point, it was pointed out to me were like **OG Anunoby** and Cat, he is very close with, and those are two players who probably need a little more massaging last year in terms of their roles and shot distribution and all that stuff. Go to dinner, being a sounding board for Leon, obviously I'm sure managing up with Dolan a little bit, the alumni program he is spearheading, all the, you know, we see all the clips now of playoff games and all these guys there, and it might sound silly, but that is sort of part of this whole rebrand, right? Of what the Knicks are and excitement and that that stuff matters around the league too."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1168s
+
+**12. Yaron Weitzman — "You don't think of GMs being able to bring their 'guy' with them the way, like, if a new coach is hired." — GMs bringing their own staff and the 'soft skills' approach** [20:16](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1216s)
+
+Yaron Weitzman: "You don't think of GMs being able to bring their 'guy' with them the way, like, if a new coach is hired and he has his defensive coordinator, like, 'Oh, he's coming with me.' And you don't think of GMs always doing the same thing. And it kind of makes sense, right? If Leon Rose is like, 'No, this is my guy, I trust him and I need him,' and like, why wouldn't more teams do that? So I thought that was really interesting as well."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1216s
+
+**13. Yaron Weitzman — "Leon's this white Jewish guy, doesn't really know players, and West brings him players." — The perception of Leon Rose and William Wesley's roles** [21:04](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1264s)
+
+Yaron Weitzman: "It's clear on the outside, and I even wrote this, like what's the, what's the accusation? You know, everyone getting knows what Leon gets out of it, right? Leon's this white Jewish guy, doesn't really know players, and West brings him players because he's the Black guy who can relate to players, he brings him the players, so that's and that's what he's getting out of it. And obviously the accusation is that Leon's then paying West or giving him a cut. I I tried, I asked anyone I spoke to if they knew anything about that, and I got nowhere. And I was told no. And this on the record, Chris Herring, I think she was on the record on this one, right? I believe on the story, but that she was saying that she I'm not going to blow your off the record sources, you got to figure that out for yourself. No, I have my quote on it, because that was important because she's she knows players as well as anyone who's worked around the NBA for years and said like, I think it wasn't like that I know it wasn't happening, but basically along the lines of, I've never heard a player complain about them. And when you involve money and stuff like that, usually that happens. And usually there's someone gets burned. Over 40 years you think you'd have some example of someone saying, 'Hey, uh, I was played here,' right? And this week don't have that."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1264s
+
+**14. Yaron Weitzman — "West as an agent once tried to pay West to, you tried saying, 'Hey West, get every player you give me, I'll give you 500 bucks.'" — William Wesley's early connection to the NBA** [22:12](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1332s)
+
+Yaron Weitzman: "There was a story about how like **West** as an agent once tried to pay **West** to, you tried saying, 'Hey **West**, get every player you give me, I'll give you 500 bucks.' And **West** was all excited, and then he goes to Leon, this is early, this is when Leon's a lawyer, and he goes and says, 'Oh, I'm all excited all this,' and Leon's like, basically, the guy's playing you. Like, what what's the math on that? It's horrible. He's just trying to take advantage of you. So like, it is mutually beneficial, and they did help each other 100%."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1332s
+
+**15. Yaron Weitzman — "The Knicks won a title last year in part because they were able to optimize chemistry." — Leon Rose and the Knicks' focus on chemistry and soft skills** [23:12](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1392s)
+
+Yaron Weitzman: "There was a really interesting point that another GM I spoke to made, which was along the lines of, 'The Knicks won a title last year in part because they were able to optimize chemistry.' This person is like, 'I don't know if it's a coincidence that that team was built by **Leon Rose**, but I don't think so.' It's sort of like the new Moneyball; everyone is in on analytics, so let's invest in soft skills a little bit."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1392s
+
+**16. Yaron Weitzman — "There's some coldness to them, but they stay in the family." — The Knicks' strategy of balancing family ties with cold roster decisions** [23:12](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1392s)
+
+Yaron Weitzman: "There's some coldness to them, but they stay in the family. They'll fire **Tom Thibodeau**, who's part of the family, but they'll replace him with another cousin, in **Mike Brown**. **Dante DiVincenzo** and **Julius Randle** were Kentucky, Villanova, family, Philly, all this stuff, but they'll send them out for **Karl-Anthony Towns**."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1392s
+
+**17. Mike Vorkunov — "You saw a bunch of small guards get drafted in the first round in the NBA." — The 'Jaylen Brunson effect' on NBA draft strategy** [24:48](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1488s)
+
+Mike Vorkunov: "You saw a bunch of small guards get drafted in the first round in the NBA. I call that the **Jaylen Brunson** effect. Um, you know, was that a response to what **Jaylen Brunson** did? Maybe. Um, and then you saw, you know, obviously teams trying to get longer and get more wings and all that stuff, which was the Knicks responding to the Celtics, right? Right, right. And saying we have to do it our way. But maybe to your point, the real lesson of what the Knicks did and how they won was the soft skills part, was how to build a team through kind of like this old old like perception of a team, right? Like through relationships and camaraderie and chemistry and charisma and all that coming together. And in a way, it's almost analogous to those 70s Knicks teams, right? Which are still so lionized in New York."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1488s
+
+**18. Yaron Weitzman — "It's not just that I know all these guys, but I know how they work and think." — The influence of 'soft skills' in modern NBA front offices** [25:25](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1525s)
+
+Yaron Weitzman: "It's not just that I know all these guys, but I know how they work and think and I've gone to dinners with all these guys for the past 20 years and that gives me an insight. Like that there might be something there. Again, I don't know, it's interesting. I mean, that might be Bob Myers' best skill, right? Like more so than the way he ran, you know, roster building or cap or whatever. It just those Warriors teams, you know, things got a little dicey at times there in terms of personal relationships and they navigated it and maintained that team together. Um, so yeah, there there might be something there about what makes a great GM these days as we go deeper and deeper into analytics and salary cap and cap strategy and all those things."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1525s
+
+**19. Yaron Weitzman — "It's not, this is going to level the playing field in so many ways where then becomes." — The rise of AI in NBA front office decision-making** [26:14](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1574s)
+
+Yaron Weitzman: "It's not, this is going to level the playing field in so many ways where then becomes, are you able to think on top of that in a way and apply your brain in a way, you know, and that will separate people in other fields and it could be a similar thing, honestly. I mean, I assume most, uh, most teams front offices, coaching staffs in general are using AI on some of these things, right? In terms of organization, all that. Him saying he, I'm imagining him like scrolling at night. Here's the funny part though. So Joe Mazzulla strikes me as sort of a, um, you know, trend guy and all that. Like I feel like he would be someone who like sleep science and that you're not supposed to have your phone with you in the bedroom, uh, after certain hours or whatever because the blue light and like all that, right? This seems like I feel like this would go against that. You know what I'm saying?"
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1574s
+
+**20. Yaron Weitzman — "It's often given relationships with players, but not understanding of how players think and what makes them tick." — The trend of hiring agents as NBA GMs** [27:04](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1624s)
+
+Yaron Weitzman: "It's often given relationships with players, but not understanding of how players think and what makes them tick. Like I don't, you don't usually hear that one. And that might be an interesting thing there, right? Where it's like, Yeah. It's not just that I know all these guys, but I know how they work and think and I've gone to dinners with all these guys for the past 20 years and that gives me an insight. Like that there might be something there. Again, I don't know, it's interesting."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1624s
+
+**21. Mike Vorkunov — "The team that this current Knicks team most resembled was the 2004 Pistons." — Comparing the current Knicks roster to the 2004 Pistons** [28:58](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1738s)
+
+Mike Vorkunov: "The team that this current Knicks team most resembled, in terms of an NBA team that won a title without stars and built differently, was the 2004 Pistons. **Rip Hamilton**, who is Leon's client, that's a West guy. **Larry Brown** was a West guy, close with, and they're really involved with that team. West was around the team there. **Joe Dumars** was close with West."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1738s
+
+**22. Mike Vorkunov — "I saw a bunch of small guards get drafted in the first round. I call that the Jaylen Brunson effect." — The Jaylen Brunson effect on NBA draft trends** [28:58](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1738s)
+
+Mike Vorkunov: "You look at what happened after the Knicks won the title. You saw a bunch of small guards get drafted in the first round in the NBA. I call that the **Jaylen Brunson** effect. Was that a response to what **Jaylen Brunson** did? Maybe."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1738s
+
+**23. Mike Vorkunov — "The real lesson of what the Knicks did was the soft skills part, building through relationships." — Knicks success built on camaraderie and team chemistry** [28:58](https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1738s)
+
+Mike Vorkunov: "The real lesson of what the Knicks did and how they won was the soft skills part, was how to build a team through this old perception of a team, through relationships and camaraderie and chemistry and charisma. In a way, it's almost analogous to those 70s Knicks teams, which are still so lionized in New York. The way that those guys, **Dave DeBusschere** and **Bill Bradley** and **Walt Frazier**, **Earl Monroe** and **Phil Jackson** and all those, **Willis Reed** obviously, the way that those guys all got along and were a team, that's what this Knicks team was too."
+
+https://www.youtube.com/watch?v=DN69t-Vn2E0&t=1738s
