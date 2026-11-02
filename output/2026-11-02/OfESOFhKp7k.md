@@ -1,0 +1,175 @@
+# Christian Apologists EXPOSE Islam & Answer Christianity’s Hardest Questions | Curious Mike — *Curious Mike*
+
+Source: https://www.youtube.com/watch?v=OfESOFhKp7k
+
+_Speakers identified: Michael Porter Jr., Inspiring Philosophy, Fearless Truth, Bryce, Snico_
+
+**1. Inspiring Philosophy — "I've had Muslims call in and within an hour they've left Islam." — Muslims frequently leave Islam after engaging in debates with apologists** [00:19](https://www.youtube.com/watch?v=OfESOFhKp7k&t=19s)
+
+**Inspiring Philosophy:** "I've had Muslims call in and within an hour they've left Islam."
+
+**Fearless Truth:** "That happens, yeah."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=19s
+
+**2. Fearless Truth — "Christian debaters like us were ready to debate anyone at any time." — Christian apologists are always ready to debate Muslims on their faith** [01:32](https://www.youtube.com/watch?v=OfESOFhKp7k&t=92s)
+
+**Fearless Truth:** "Listen, it just gives us more of a chance to just spread the gospel uninterrupted. But it's an unfortunate thing, you know. Christian debaters like us were ready to debate anyone at any time. We just don't see the same thing with Muslim debaters."
+
+**Inspiring Philosophy:** "If **Sneako** and **Atachi** want to come have a conversation, we are always willing to have a conversation."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=92s
+
+**3. Inspiring Philosophy — "Jesus was publicly executed, killed in front of everyone, buried in a public tomb, rose and appeared." — Christianity is unique among world religions because of its historical evidence** [07:15](https://www.youtube.com/watch?v=OfESOFhKp7k&t=435s)
+
+Inspiring Philosophy: "Most religions function like this: some guy gets revelations from God and you just have to take his word for it. **Joseph Smith**, **Muhammad**, just trust them, bro mentality. **Jesus** was publicly executed, killed in front of everyone, buried in a public tomb, rose and appeared to multiple people. That's something you can test against history. So historians have a conundrum. How do we go from **Jesus** dying and in a few months later, the apostles are proclaiming **Jesus** is Lord and he resurrected? The early Jews of that time period did not believe the Messiah was going to die and resurrect and atone for sins. They thought he was going to be a conquering warlord. So the Christian belief comes out of a milieu, a culture that cannot explain it. So historians have to figure out ways to explain this. The best explanation at the end of the day is that **Jesus** rose."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=435s
+
+**4. Fearless Truth — "Liars make lousy martyrs. They would have known for sure if Jesus really did rise from the dead." — The apostles were primary witnesses to the resurrection, unlike modern religious figures** [10:26](https://www.youtube.com/watch?v=OfESOFhKp7k&t=626s)
+
+Fearless Truth: "The historian **Michael Licona** says this: Liars make lousy martyrs. They would have known for sure if **Jesus** really did rise from the dead. So this is very different than someone, you know, today believing in a religion. As he said, they're not primary witnesses. **Peter**, **Paul**, they went to their death as primary witnesses saying, we saw the risen Lord. This is very different than just martyrs today."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=626s
+
+**5. Inspiring Philosophy — "Islam really wasn't persecuted in the way that Christianity was, especially early on." — Early Christianity faced intense persecution, unlike the rapid expansion of early Islam** [11:04](https://www.youtube.com/watch?v=OfESOFhKp7k&t=664s)
+
+Inspiring Philosophy: "None that actually saw the miracles and were saying, listen, we saw these miracles, we're willing to die for them. Islam really wasn't persecuted in the way that Christianity was, especially early on. Islam was actually, they had the Ottoman Empire, which was one of the most powerful empires, right? And so Christianity, we were persecuted since the very beginning. People were literally persecuted and killed for being Christians. Early on, Muslims weren't killed for just being Muslim."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=664s
+
+**6. Fearless Truth — "All their stories of Muhammad come from the Sunnah, these Hadith collections. You know when those were written?" — The Hadith collections, which contain stories of Muhammad, were written centuries after his death** [11:30](https://www.youtube.com/watch?v=OfESOFhKp7k&t=690s)
+
+Fearless Truth: "They have the Quran, but then all their stories of **Muhammad** come from the Sunnah, these Hadith collections. You know when those were written? Roughly 200 years after **Muhammad**. So could you imagine if the gospels were written down after 200 AD? Historians would be like, we can't trust these. The Hadith are very unreliable. So historians like Sean Anthony, Joshua Little, just point out the Hadith collections are just very unreliable, later legends written hundreds of years after **Muhammad**."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=690s
+
+**7. Inspiring Philosophy — "The Quran's own response to why Muhammad can't do miracles, he's because he's not a miracle worker." — The Quran contradicts the Hadith regarding Muhammad's ability to perform miracles** [12:13](https://www.youtube.com/watch?v=OfESOFhKp7k&t=733s)
+
+Inspiring Philosophy: "Go to Surah 29:50-51. It says that they say to, so the Quran quotes the opponents of **Muhammad**. They say, if only a sign had been sent down from his Lord. Say, oh **Muhammad**, that signs are only with Allah. You were just sent as a messenger. So the Quran's own response to why **Muhammad** can't do miracles, he's because he's not a miracle worker. He's just a messenger. So the Quran contradicts the Hadith. Hadith say he did miracles. The Quran's response to why are there no miracles? He's not doing miracles. He's not a miracle worker, he's just a messenger. It's a big contradiction."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=733s
+
+**8. Inspiring Philosophy — "He married one of his wives, Aisha, when she was six years old and consummated the marriage when she was nine." — Muhammad's marriage to Aisha at a young age is a major moral issue** [13:37](https://www.youtube.com/watch?v=OfESOFhKp7k&t=817s)
+
+Inspiring Philosophy: "I do think that a demon definitely did persuade him in some way, but I definitely don't think he was a good person at all. I mean, we take for example, the main thing people talk about is that he married one of his wives, **Aisha**, when she was six years old and consummated the marriage, meaning finally had sex with her, when she was nine years old. This is fact. This is in the Hadith. And what they say is, oh, people aged differently back then. They said back in 600 AD, women aged much quicker. So at six years old, at nine years old, you'd be fully a woman. That's false. That's never been the case in any time period ever."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=817s
+
+**9. Fearless Truth — "There are over 200 Hadith that were say that Muhammad married Aisha when she was six and consummated the marriage when she was nine." — Multiple Hadith sources confirm Muhammad's marriage to Aisha at a young age** [14:48](https://www.youtube.com/watch?v=OfESOFhKp7k&t=888s)
+
+Fearless Truth: "There are over 200 Hadith that were say that **Muhammad** married **Aisha** when she was six and consummated the marriage when she was nine. It's multiply attested. So listen, if you want to throw out all the Hadith, you got to throw that out. Muslims are not willing to. They have to accept that as authentic. And so they believe that he consummated a marriage to a nine-year-old. And as he was saying, they'll try to say that, oh yeah, people aged quicker back then. There's a great paper called Evolution, Development, and the Timing of Puberty that shows the opposite. Girls were maturing slower in that time due to poor nutrition. It was biologically impossible in that day for any girl to have her first period by the age of nine. So this means he went, he harmed a prepubescent girl. This is evil. He does not have outstanding moral character, and that's just the tip of the iceberg."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=888s
+
+**10. Inspiring Philosophy — "Don't stay at the prophet's house, don't linger at the prophet's house too late. He might get irritated." — The Quran contains verses that suggest Muhammad could be easily annoyed** [16:01](https://www.youtube.com/watch?v=OfESOFhKp7k&t=961s)
+
+Inspiring Philosophy: "One of the verses in the Quran says, hey, don't stay at the prophet's house, don't linger at the prophet's house too late. He might get irritated. Like what, yeah, that's what God wanted to reveal to people, not to stay over too late, the prophet might get annoyed. Again, to him having nine wives, no one else is allowed to have nine wives. Hey, what happens when you go to heaven? When you go to heaven, you get as many wives as you want in heaven. You can have sex all that you want in heaven. It's literally like they, it's like if a man wrote a book and he just wanted to fulfill all of his desires and he wanted, hey, I want all these men come on and join because I want them to fulfill their own desires."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=961s
+
+**11. Fearless Truth — "He's having sex with her in one of his wives' bed, and Aisha and Hafsa catch him." — Hadith accounts describe Muhammad breaking his oath to avoid his sex slaves** [16:44](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1004s)
+
+Fearless Truth: "In the Hadith, it says **Muhammad** was having sex with one of his sex slaves, because he had sex slaves. Her name was **Mary the Copt**, and he's having sex with her in one of his wives' bed, and **Aisha** and **Hafsa** catch him. And he swears an oath, I will never sleep with her again. Then he gets a revelation from from Allah saying, break your oath, I didn't tell you to do that. So he got a revelation apparently from God to break his oath, so he lied to his wives, he was allowed to do that, and continued to sleep with his sex slave. This is not a man of outstanding moral character."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1004s
+
+**12. Inspiring Philosophy — "He was visited by an angel, and this this angel quote unquote pressed him so hard on his back." — The story of Muhammad's encounter with an angel is highly suspicious** [17:40](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1060s)
+
+Inspiring Philosophy: "He was visited by an angel, and this this angel quote unquote pressed him so hard on his back, he felt like he was being choked and he couldn't breathe. And the angel was saying to him, read, read, and **Muhammad** was saying, I can't read. Well, first of all, an angel from God, why does he not know that the prophet that God is sending him to can't read? Why is he keep telling her read over and over again? Second of all, why is he pressing on him so forcibly he feels like he's being choked out? That sounds like a demon to me. I wouldn't expect an angel to come to me and start choking me out."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1060s
+
+**13. Fearless Truth — "The Quran did just enough to make you think that it loved Jesus. It did just enough." — The Quran's description of the Trinity is fundamentally incorrect** [20:19](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1219s)
+
+Fearless Truth: "It's like the Quran did just enough to make you think that it loved **Jesus**. It did just enough. It said, okay, just **Jesus**, he's our Messiah, sure, but what does it do? What do we have to believe, man, right? To be to be united with Christ, we have to believe he died and rose again. What is the one thing that specifically leaves out about Christ? He did not, it makes it very clear, he was not crucified, he did not rise from the dead. It is very clear. He is not God. The things that you need to believe to be saved."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1219s
+
+**14. Inspiring Philosophy — "Jesus is declaring himself God all over the place, but they don't realize it because they don't understand the culture." — The Trinity is a core Christian doctrine that the Quran fails to understand** [21:32](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1292s)
+
+Inspiring Philosophy: "**Jesus** is declaring himself God all over the place, but they don't realize it because they don't understand the culture. So you can go to like, and so there's a, you know, Matthew 7:21-22 and Luke 6:46, **Jesus** says, uh, he says, not everyone who comes to me and says, Lord, Lord, will enter the kingdom of heaven, but the one who does the will of my Father in heaven. And then in the other verse he says, why do you call me Lord, Lord but not do what I say? And we just skip over that not realize it. You don't realize that, in Greek, the title Lord, Lord, Kuri Kuri, the two together was a title only God used in Greek texts from that time or prior. **Jesus** says he's Lord, Lord. He's explicitly saying he's God. In Mark 2, he says he's Lord of the Sabbath. You go back and read the Old Testament, who's Lord of the Sabbath? God instituted the Sabbath. He's Lord of the Sabbath. Mark opens his gospel by saying **Jesus** is God. He says, he quotes Isaiah, prepare a way for the Lord, and then he explains John prepared the way for **Jesus**. Mark opens his gospel, the first gospel written, opens up by telling you explicitly **Jesus** is Yahweh and John is preparing the way for Yahweh. It's all over the place."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1292s
+
+**15. Fearless Truth — "And to the Son, he says, your throne, oh God, is forever and ever." — The Father calls Jesus God in the book of Hebrews** [23:04](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1384s)
+
+Fearless Truth: "And what's interesting too is the Father calls him God. The Father literally, if you read Hebrews chapter 1 verse 8, the Father says, and to the Son, he says, your throne, oh God, is forever and ever. So he's literally saying to Christ, he has an eternal throne and that he's God. So the Father's calling him God. We know he's the same God as the Father because Colossians chapter 1 verse 16 says, for by him all things were created, but wait, Isaiah 44:24 says, Yahweh alone created everything. So how is Christ the creator of all things if Yahweh alone is? Oh, maybe because he is Yahweh. That's the whole point. So it's literally all over. His own disciples called him God. Thomas called him God, says, my Lord and the God of me, and **Jesus** said, blessed are you, for you saw and you yet you still believed."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1384s
+
+**16. Inspiring Philosophy — "The Quran's own response to why Muhammad can't do miracles, he's because he's not a miracle worker." — The Islamic dilemma: The Quran contradicts the Hadith on Muhammad's miracles** [24:40](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1480s)
+
+Inspiring Philosophy: "The Quran doesn't ever claim to correct the Bible. It says it's confirming the scriptures the Jews and Christians possess. And then you brought up Surah 10:94. If you're in doubt about what we've revealed to you, then ask those that have been reading the scriptures before you. So the Quran says, if you're doubting the Quran, go verify it with the Jews and Christians who have the scriptures. So Muslims are supposed to come to us and confirm that his revelations are in line. That's not true though. So this is the Islamic dilemma, because the Quran doesn't ever claim to correct the Bible. It says it's confirming the scriptures the Jews and Christians possess."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1480s
+
+**17. Inspiring Philosophy — "Muhammad was an illiterate guy and he he probably thought he was a prophet, so he just assumed whatever he was preaching" — The Quran's claim that Muhammad is a messenger, not a miracle worker, contradicts the Hadith** [26:31](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1591s)
+
+Inspiring Philosophy: "**Muhammad** was an illiterate guy and he he probably thought he was a prophet, so he just assumed whatever he was preaching was going to be in line with those scriptures. It's not though, and we know that. And this is now the Islamic dilemma. This is a sure fire way to show that Islam is false because he's confirming scriptures that blatantly contradict so much of what the Quran teaches."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1591s
+
+**18. Fearless Truth — "How could Allah have a son if he has no mate?" — The Quran's claim that Allah has no son contradicts Christian doctrine** [27:34](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1654s)
+
+Fearless Truth: "There is a verse in the Quran, I think it's Surah 6:101. It says, how could **Allah** have a son if he has no mate? So they assume that **Allah** can only have a son if he had a mate. That means he's not all powerful, because he needs a mate to have a son. God can have a son. We know that. God, Jesus is the God son. He doesn't need a mate because he's omnipotent."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1654s
+
+**19. Inspiring Philosophy — "The Quran gets a lot of things wrong. It tries to describe the Trinity in there and it gets it wrong." — The Quran's misunderstanding of the Trinity and the nature of God** [28:11](https://www.youtube.com/watch?v=OfESOFhKp7k&t=1691s)
+
+Inspiring Philosophy: "The Quran gets a lot of things wrong. It tries to describe the Trinity in there and it gets it wrong. It mentions, oh, hey, Mary, did you ever tell anyone to worship you? And it's like, no, nobody worships Mary in the first place. So that she's not a part of the Trinity. And so they they get the Trinity wrong and they get these things wrong in the Quran. And so it's like they're trying to correct things that aren't so. It's almost like Muhammad talked to like a heretical sect of Christianity at one point, and he learned Christianity from there and he's confused about it."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=1691s
+
+**20. Michael Porter Jr. — "do you think a lot of people would leave the Islam faith?" — Michael Porter Jr. on the potential for religious violence** [1:00:36](https://www.youtube.com/watch?v=OfESOFhKp7k&t=3636s)
+
+**Michael Porter Jr.:** "When, okay, so you guys think that Islam is starting to become more prominent and it could lead to more violence in the future. When, if and when that starts to happen, do you think a lot of people would leave the Islam faith? Because I'm sure a lot of people are in the Islam faith aren't with that. They're peaceful people, but I know there's obviously some that aren't. Do you think that that would like backfire and there'd be people leaving?"
+
+**Bryce:** "A little bit, yeah. I think because again, a lot of people I think that are Muslim right now don't actually know what Islam truly teaches. So I think when they start seeing these things they'll understand, whoa, Islam is really bad. All it really takes is a trip to the Middle East for a week to see how they live and to see how they treat Christians and you see that and you look at that and you say, okay, well, most people with any sort of empathy are going to say, this isn't the religion I want to be a part of."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=3636s
+
+**21. Bryce — "they practice child marriage because Muhammad is supposed to be their pattern of conduct" — Bryce on the Islamic practice of child marriage** [1:01:09](https://www.youtube.com/watch?v=OfESOFhKp7k&t=3669s)
+
+**Bryce:** "And again, they practice child marriage because **Muhammad** is supposed to be their pattern of conduct, according to Surah 33:21, but he had a child bride."
+
+**Michael Porter Jr.:** "I thought he got certain exceptions though. Didn't you say?"
+
+**Bryce:** "That is not an exception only for him. The Quran says in Surah 65:4 that it allows you to marry and divorce pre-pubescent girls. So yes, it's that bad."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=3669s
+
+**22. Bryce — "if you can actually get some Muslims that will actually debate us, we'll come back" — Bryce and Michael Porter Jr. on debating Muslims** [1:02:01](https://www.youtube.com/watch?v=OfESOFhKp7k&t=3721s)
+
+**Bryce:** "If you can actually get some Muslims that will actually debate us, we'll come back. We don't have a problem debating pretty much anybody."
+
+**Michael Porter Jr.:** "Yeah, we had two lined up. I thought it would have been amazing and it would have been respectful. That's the thing, it would have stayed respectful."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=3721s
+
+**23. Bryce — "a lot of Jewish people don't really want to debate" — Bryce on the difficulty of debating Jewish people** [1:02:28](https://www.youtube.com/watch?v=OfESOFhKp7k&t=3748s)
+
+**Bryce:** "A lot of Jewish people don't really want to debate. They're not also evangelizing. These Muslims are out here evangelizing."
+
+**Michael Porter Jr.:** "Oh, because Jewish people just think that they're the chosen ones and you can't really come into their lineage."
+
+**Bryce:** "If you become a Jew and you're not in the Jewish lineage, you become what's called a Noahide. So yeah, you can't even really become a Jew unless you are in that lineage."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=3748s
+
+**24. Michael Porter Jr. — "I'm not going to lie, I'm surprised Snico did that" — Michael Porter Jr. on the difficulty of getting guests to debate** [1:03:16](https://www.youtube.com/watch?v=OfESOFhKp7k&t=3796s)
+
+**Michael Porter Jr.:** "I'm not going to lie, I'm surprised **Snico** did that, because he knows that I get on here and have respectful conversation. He really appreciated the conversation last time, and he was supposed to pull up today, and he told me he was like, I've tried to sit down with **Bryce** a couple of times, I've tried to sit down with other Christians and debate, they all run."
+
+**Bryce:** "It seems like he's trying to debate people who don't debate, though. **Bryce** is not a debater, right? He likes to preach and that's the beautiful thing, I think it's a beautiful thing that he does that. But he's not a debater from what I've seen. It's like he's just trying to debate people that don't want to debate."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=3796s
+
+**25. Michael Porter Jr. — "I didn't even want it to be necessarily a debate" — Michael Porter Jr. on the goal of his interviews** [1:04:05](https://www.youtube.com/watch?v=OfESOFhKp7k&t=3845s)
+
+**Michael Porter Jr.:** "I didn't even want it to be necessarily a debate. I wanted it to just be an informative discussion on why you guys believe what y'all do and why you would question some things in Islam and same thing from their side. I didn't want it to be like a back and forth like you're wrong, you're wrong."
+
+**Bryce:** "I mean the thing is again, if Snico even if he just wanted to have a one-on-one with me in here, I'm more than happy to."
+
+https://www.youtube.com/watch?v=OfESOFhKp7k&t=3845s
