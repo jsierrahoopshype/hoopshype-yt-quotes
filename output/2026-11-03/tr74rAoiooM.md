@@ -1,0 +1,79 @@
+# The Grizzlies Roll While the Rest of the NBA Is Falling Apart | Rachel Nichols & Chris Mannix — *Sports Illustrated*
+
+Source: https://www.youtube.com/watch?v=tr74rAoiooM
+
+_Speakers identified: Chris Mannix, Rachel Nichols_
+
+**1. Rachel Nichols — "Luka is 100% playing like the best player in the league right now." — Luka Doncic's MVP-level performance and the Mavericks' improved team structure** [01:47](https://www.youtube.com/watch?v=tr74rAoiooM&t=107s)
+
+**Rachel Nichols:** "Luka is 100% playing like the best player in the league right now. That goes to both sides of the ball. He has been scoring, and the rest of this rotation and the way they have set up this team around him is finally the types of players that let him score the way we have been seeing him score on a regular basis every night. The rest of the league cannot think they are going to catch a break here. He is going to keep doing this."
+
+**Chris Mannix:** "If you are making an early-season MVP ballot, he is at the top of the list. Offensively, his numbers are ridiculous: 37.7 points, 8.2 rebounds, 7.5 assists. He is shooting nearly 40% from three on 14 attempts per game. When Luka is on the floor, the Lakers' offensive rating is 17.5 points better per 100 possessions than the league average."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=107s
+
+**2. Rachel Nichols — "He absolutely can play defense when he is focused on it." — Luka Doncic's defensive effort and commitment to playing both ends** [02:17](https://www.youtube.com/watch?v=tr74rAoiooM&t=137s)
+
+Rachel Nichols: "The other reason why he is playing like the best player in the league is he is playing defense. It is one of those things where I have said for years, I have defended on this podcast to you, Chris, he absolutely can play defense when he is focused on it. People who say he is just a turnstile, he is not when it is something that is a priority to him. That is what we are seeing right now. He is definitely on the floor, he is calling things out, he is moving players around the floor defensively in rotations. It is very impressive."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=137s
+
+**3. Rachel Nichols — "Sometimes when the team just rests on him so heavily, there is a point where a guy gets too tired." — The impact of over-relying on Luka Doncic and potential long-term fatigue** [03:07](https://www.youtube.com/watch?v=tr74rAoiooM&t=187s)
+
+Rachel Nichols: "Sometimes when the team just rests on him so heavily, there is a point where a guy gets too tired to play that aggressive defense. That is a little bit of my long-term concern for the Lakers and for Luka. The reason why the starters had to get called in at the end of that Raptors game when the bench was in there, it was just 1 minute 43 seconds that they had to maintain the lead for, and they felt like they had to get the starters back in. You need a bench to be able to do more substantial stuff. You need them to be trusted with something like that. If they cannot, that is what is going to wear down Luka."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=187s
+
+**4. Chris Mannix — "Teams are shooting 42.5% at the rim when Kessler contests their shots." — Walker Kessler's rim protection and desire to play for the Lakers** [05:06](https://www.youtube.com/watch?v=tr74rAoiooM&t=306s)
+
+Chris Mannix: "**Walker Kessler**'s rim protection has been tremendous. Teams are shooting 42.5% at the rim when Kessler contests their shots. People in Utah, and maybe it is a little bit of sour grapes, were like, Kessler really wanted to go to the Lakers. Even if we had come up with the kind of money he was looking for, which they were not, Kessler wanted to play for the Lakers. This is why. This is why he wanted to play for the Lakers, to play opposite **Luka Doncic** and put up these kind of numbers and get paid on a winning team."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=306s
+
+**5. Chris Mannix — "He seemed like the most NBA-ready guy." — Cameron Boozer's NBA-readiness and impressive rookie season** [09:28](https://www.youtube.com/watch?v=tr74rAoiooM&t=568s)
+
+Chris Mannix: "**Cameron Boozer**, he was my pick to be rookie of the year. It did not feel like a difficult one to make because he seemed like the most NBA-ready guy. He is averaging 17.5 points, 10.5 rebounds, almost 6 assists. He had a triple-double against Portland. He has been great to start the season. He is the second youngest in NBA history to have a triple-double by the way."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=568s
+
+**6. Rachel Nichols — "Obviously, he was so successful in college because he can do other things." — Cameron Boozer's versatility and success beyond just jumping ability** [11:06](https://www.youtube.com/watch?v=tr74rAoiooM&t=666s)
+
+Rachel Nichols: "I felt like in the run-up to the draft, he was so unfairly tagged with, 'Whoa, he can't jump, he can't jump over a stapler.' Obviously, he was so successful in college because he can do other things. We are seeing all of those other things right now. I love to see someone succeed like that. Seeing the fatherly pride there has been really fun. It just feels like they kind of have this fresh start."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=666s
+
+**7. Rachel Nichols — "Not all rebuilds involve bottoming out." — The Grizzlies' rebuild strategy and avoiding a complete bottom-out** [11:40](https://www.youtube.com/watch?v=tr74rAoiooM&t=700s)
+
+Rachel Nichols: "I just want to remind people, not all rebuilds involve bottoming out. There is when a team is just terrible and needs to get, doesn't have picks or doesn't have these kinds of things, they need to bottom out. But some rebuilds are just, 'Hey, we traded away the sun of which all the planets rotated around, and now we have a chance to rebuild how our team is, how we play, all of those things.' And in a rebuild, I don't expect them to be contenders for the title. I don't expect them to necessarily hold up against the tougher competition that is coming. But they are clearly ahead of schedule."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=700s
+
+**8. Chris Mannix — "Oklahoma City has been decimated." — The impact of significant injuries on the Thunder's roster** [21:18](https://www.youtube.com/watch?v=tr74rAoiooM&t=1278s)
+
+Chris Mannix: "Oklahoma City has been decimated. **Jalen Williams**, **Cason Wallace**, **Chet Holmgren** all out for two months or longer. In the case of Williams and Wallace, potentially out for the rest of the season. We have got **Paulo Banchero** in Orlando, he is out for another month. **Kawhi Leonard**, you can say it is nothing, but with **Kawhi Leonard**, a knee injury is never nothing. I am just going down the list that I have here: Shai Gilgeous-Alexander, **Brandon Ingram** is still out, **Jalen Suggs**, Lonzo Ball, **Anthony Edwards** injured, **Tyrese Haliburton** injured, **Jaren Jackson Jr.** injured, **Ja Morant** injured, John Morant injured. A lot of injuries, which has opened up the discussion again about whether or not there is a need for a structural change in the NBA."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=1278s
+
+**9. Rachel Nichols — "I think one of the best qualities of this league office is that they are flexible." — The NBA's flexibility and responsiveness to injury trends** [22:32](https://www.youtube.com/watch?v=tr74rAoiooM&t=1352s)
+
+Rachel Nichols: "I think one of the best qualities of this league office is that they are flexible and willing to change. There are sports leagues in this country, I will not name them, who literally you would have to shake the building down to get them to change things. And the NBA has been incredibly responsive over the years at fixing things in the game that are starting to go the wrong way. And I hope that they take a closer look at this because there are several specific issues that we can talk about: the pace of the game, the bigger size bodies that have been knocking into each other than ever before in the history of the league. And also the number of trips up the floor because of the pace of the game."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=1352s
+
+**10. Chris Mannix — "Training camp should be a lot longer." — Proposed changes to training camp and preseason to reduce injuries** [27:45](https://www.youtube.com/watch?v=tr74rAoiooM&t=1665s)
+
+Chris Mannix: "Training camp should be a lot longer. Training camp kind of officially opens in late September, mostly early October they are really in stride. And then the season starts like October 22nd this year. That is not a lot of time to ramp up. And if players are not coming into camp in like mid-season form, that puts them at greater risk for injury. So if I am the NBA, I am saying to teams that we are going to start training camps in mid-September. Increase the number of preseason games. And I would say to teams, 'Hey, how about you play guys in preseason games?' Most of the time these preseason games, you kind of have your fingers up in a cross there, be like, 'Please don't get hurt, please don't get hurt.' **Mike Brown** with the Knicks gave his players the option one game to play or not. Make them play. There is also a lot to be gained from sending players out there."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=1665s
+
+**11. Rachel Nichols — "It's okay to tell players, your job is to stay in excellent shape." — The necessity of players arriving at training camp in peak physical condition** [30:30](https://www.youtube.com/watch?v=tr74rAoiooM&t=1830s)
+
+Rachel Nichols: "It is okay to tell players, your job is to stay in excellent shape. And if you want to take a month off after the season, great, go lie in a boat somewhere, eat all the candy. But they are being paid tremendous amounts of money, and I do think it is fair to say, 'You got to come into camp 100% in shape.' And that is on you, you can do it at your pace, on your schedule, in the off-season, but you need to do it. I do think that is a factor. I agree with you, those preseason changes, I think it is very smart. I think what you are proposing absolutely would have an impact."
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=1830s
+
+**12. Rachel Nichols — "The NBA does not release all the data, and therefore you have outside projections." — The need for more transparent injury data and medical analysis** [32:55](https://www.youtube.com/watch?v=tr74rAoiooM&t=1975s)
+
+Rachel Nichols: "The NBA does not release all the data, and therefore you have outside projections. **Jeff Stotts**, who runs a great Twitter feed if you are not on it, I recommend it, he is the medical, whatever, of, you know, whatever, he will tell you how many guys game to miss with that injury, what that injury means, all of those kinds of things. And his numbers are way different than some of the league numbers. And I just think that A, everyone getting on the same page with how many guys are injured, how they are injured, what the changes in the games are, looking at how those changes might affect some of these injuries, and then cross-referencing all of that as a trained medical professional, which you and I are not, to look at, 'Huh, if guys were doing this a little less, that might help with, you know, curbing some of these injuries.'"
+
+https://www.youtube.com/watch?v=tr74rAoiooM&t=1975s
