@@ -1,0 +1,53 @@
+# Brandon Jennings says he would've made 200 MILLION and multiple all-stars if he NEVER gets hurt 👀 — *Out The Mud*
+
+Source: https://www.youtube.com/watch?v=RwZtTvsm9eY
+
+_Speakers identified: Zach Randolph, Tony Allen, Brandon Jennings_
+
+**1. Brandon Jennings — "you don't ever want to leave the team that drafted you." — Brandon Jennings on his adjustment period after being drafted by Milwaukee** [00:18](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=18s)
+
+Brandon Jennings: "It was different. You're young, so you don't ever want to leave the team that drafted you. It was definitely an adjustment, but **Joe Dumars** was good to me in Detroit. **Mo Cheeks** was my first coach there, so father figures who were telling me the real, telling me what I didn't want to hear, just telling me what I needed to hear. Detroit was great, man."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=18s
+
+**2. Brandon Jennings — "I've never been prepared for a game from any coach like Stan Van Gundy." — Brandon Jennings on Stan Van Gundy's coaching style and game preparation** [00:44](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=44s)
+
+Brandon Jennings: "**Mo Cheeks** got fired and then we bring in **Stan Van Gundy**. Now this is a different beast. We're talking about somebody who's coaching in the finals and who can prepare his ass off for a game. One of the hardest coaches I had to adjust to and learn, but once I got it and once I understood what his mission was, he's one of the greatest coaches I've ever had that prepare you for a game. I've never been prepared for a game from any coach like **Stan Van Gundy**. He knows everything about you. It was so detailed and dialed in. It was some of the best game planning I've ever seen in my life."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=44s
+
+**3. Brandon Jennings — "If I don't get hurt with Stan Van Gundy, I'm 200 million and three-time All-Star." — Brandon Jennings reflects on his career trajectory before his Achilles injury** [01:53](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=113s)
+
+Brandon Jennings: "If I don't get hurt with **Stan Van Gundy**, I'm 200 million and three-time All-Star. Let's stop playing. And I got **Andre Drummond**, **KCP**, **Greg Monroe**, **Jodie Meeks** over here, **Kyle Singler**. Come on. That little stint with **Stan Van Gundy**, if I don't get hurt, I'm 200 million and three-time All-Star. Let's stop playing."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=113s
+
+**4. Brandon Jennings — "My IQ of the game made me start being obsessed and now I'm obsessed." — Brandon Jennings on how coaching detail improved his basketball IQ** [02:24](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=144s)
+
+Brandon Jennings: "The process was great because my IQ started getting better because of **Stan Van Gundy**. The teaching was so very detailed. My IQ of the game made me start being obsessed and now I'm obsessed. I know who doing what the next night. I'm doing everything because Stan is just, you know, you're walking in every day to practice and you got, you're detailed. It's detailed. So my obsession with the game, and you can ask **Quinn Richardson**, his detail of the game is just so unbelievable."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=144s
+
+**5. Brandon Jennings — "My first time in my life where I had to sit down. I was out of control." — Brandon Jennings on the personal challenges following his Achilles injury** [03:02](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=182s)
+
+Brandon Jennings: "My first time in my life where I had to sit down. I was out of control. I'm dealing with a lot. I got three kids, I got baby mama on the way, I got engaged. I'm doing all type of stuff. Now, because now, remember I said the tools in my life in the beginning, the tools now, the tools are starting to bite me in the ass now. Certain stuff with women or just everything, family, everything. Now, because I have a big heart, so I was saying yes to everything. Long as you leave me the alone, yes, and those no's started coming in once I got hurt and things start changing."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=182s
+
+**6. Tony Allen — "I had to adjust. So that's basically how you saw me turn into a defensive guy." — Tony Allen on how injuries forced his transition to defense** [04:00](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=240s)
+
+Tony Allen: "Obviously, all of us that had injuries, I tore my ACL, then about that Achilles, and from when I tore my ACL, I was like, damn, it changed my game, it changed my movements. I wasn't as confident, I wasn't this, I had to adjust. So that's basically how you saw me turn into a defensive guy. I had that same mindset you had while I'm listening to. I love it, bro. It's a tenacity and it's a cloth that we cut from. I talk about it with me and **Z-Bo** all the time. You come into a league where you're so competitive and you know when you're at your best, you're probably better than half of the people they talk about. It really gives you that edge."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=240s
+
+**7. Brandon Jennings — "Outside of basketball, just was taking me away from the game." — Brandon Jennings on how life stressors impacted his basketball career** [04:00](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=240s)
+
+Brandon Jennings: "Yeah, it killed the love of it. My love for it. Like I was obsessed and then I went into some other stuff, the tools like I didn't have to be able to handle family situations and everything that was going on because I didn't have a father figure. So, I'm used to just being like, all right, boom, boom, boom, but then some stuff just becomes too much. I'm dealing with injury, I'm trying to figure out, I got this $8 million left on my contract, I'm trying to figure that out, I'm trying to go buy my house in Vegas, I'm trying to, so I can have somewhere to live when I'm done, I'm trying to do all these moves and it just felt like it wasn't enough and I'm just dealing with too much. Like the outside, outside of basketball, just was taking me away from the game."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=240s
+
+**8. Brandon Jennings — "I got traded to Orlando. Stan traded me to Orlando. So I'm back with Scott Skiles." — Brandon Jennings on his trade to Orlando and subsequent career path** [05:36](https://www.youtube.com/watch?v=RwZtTvsm9eY&t=336s)
+
+Brandon Jennings: "I got traded to Orlando. Stan traded me to Orlando. So I'm back with **Scott Skiles** now again. And this is off the injury. So, you know, it's Skiles but it's not the same. Like, you know, it's just not like Orlando was still, you know that big, that **Victor Oladipo** over there. **Aaron Gordon** was young. But it was still, it just wasn't the same like with Stan. So when I got traded and I got traded and that was my, that was going to be my pay year. Like I was going to get paid. So they gave **Reggie Jackson** 80. So you know, I'm just like, yeah, all right, like I got to go to Orlando, got to figure this out. It's just, it wasn't nothing was ever the same after that."
+
+https://www.youtube.com/watch?v=RwZtTvsm9eY&t=336s
