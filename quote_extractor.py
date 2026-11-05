@@ -737,6 +737,9 @@ _SPENDING_CAP_PATTERNS = (
     "SPENDING CAP",
     "EXCEEDED YOUR CURRENT QUOTA",
     "QUOTA EXCEEDED",
+    # Prepaid-billing projects: HTTP 402 "Your prepayment credits are depleted".
+    # Retrying never helps, so abort the run instead of burning per-video attempts.
+    "CREDITS ARE DEPLETED",
 )
 
 
