@@ -1,0 +1,49 @@
+# Wemby FINALLY Embracing Big Man Role! Spurs MOST COMPLETE Team in West! — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=fpsJLj6FN9M
+
+_Speakers identified: Michelle Beadle, Chandler Parsons, DeMarcus Cousins, Lou Williams_
+
+**1. Lou Williams — "I think those are going to be the four teams in the West that's going to keep tabs" — Spurs are a top-four team in the Western Conference** [00:58](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=58s)
+
+Lou Williams: "San Antonio is hooping. We had this conversation about the New York Knicks having a little hangover. It looked like San Antonio had a little hangover when this season started. You got some young guys, that was a new experience for them to play that deep into the season and to have a target on your back. I think they've come out of that and they've responded well and I think **Wembanyama** has been a major part of that. If you're asking me other teams that's going to be competitive in the West to come out on top, you got to show respect to the Houston of the world. I feel like Minnesota, if they survive and they can get back healthy, they're going to be another team. I think those are going to be the four teams in the West that's going to keep tabs on each other, that's going to continue to put pressure on each other with the way that they're playing."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=58s
+
+**2. Chandler Parsons — "It's so crazy how you just watch him flat-footed just beat dudes shots up and alter the entire game" — Wembanyama's unique defensive and offensive impact on the game** [03:12](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=192s)
+
+Chandler Parsons: "It's just weird watching this dude play basketball. It's so crazy how you just watch him flat-footed just beat dudes shots up and alter the entire game defensively. It really is crazy. It reminds me of when I play with my son and his little friends in a Nerf hoop game and I'm just beating shit all over the place. It's weird. I don't know how we got here and I don't know how it continues to amaze me, but offensively and defensively, the way this guy just gets snatches rebounds, puts the ball behind his back, gets out in transition. There was one possession where he blocked **Cooper Flagg**, he blocked **PJ Washington**, he blocked **Daniel Gafford**. He had three blocks in like 30 seconds. I was like, what the hell am I watching? It really was mesmerizing."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=192s
+
+**3. DeMarcus Cousins — "He's getting to the point where he's embracing the big man part of his game" — Wembanyama is embracing his role as a dominant big man** [05:05](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=305s)
+
+DeMarcus Cousins: "That's what I love about it, man. Speaking on his talent, it's kind of a process that's being worn out because I don't think it's enough compliments to speak on his talent. But what I love about this recent performance, he's getting to the point where he's embracing the big man part of his game and I think that's something that a lot of people wanted him to tap into. Obviously, he can do a lot of different things on the floor, but one thing that will never change for him is his height and being the biggest guy on the floor. So getting to the line 23 times, that's showing that he's embracing it. It's showing his dominance. And the fact that he scored 52 and he only made one three just goes to show his dominance."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=305s
+
+**4. Chandler Parsons — "Right now, I would rank him top 20 in the NBA and I think that he can continue" — Cooper Flagg's current standing and development as a superstar** [08:31](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=511s)
+
+Chandler Parsons: "Right now, I would rank him top 20 in the NBA and I think that he can continue to rise in those rankings and I do think that he is an all-NBA type player and that's going to come. The dude's 19 years old. He's extremely talented. His first basically the first games up until the last two, he's been unbelievable. He's kind of expanded his game. My only problem with **Cooper Flagg** is when he's the ball's not going through the basket and he's inefficient, you can see it weighs on him and I know **Dusty** is going to say he's 19 years old, you got to give **Cooper Flagg** some grace, which is fair. But like every other superstar in this league, and that's what I'm going to call him a superstar because whether he is today or tomorrow, he's going to be that, he has to have find ways to impact the game in other ways."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=511s
+
+**5. DeMarcus Cousins — Debate over Cooper Flagg's development and current NBA readiness** [10:23](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=623s)
+
+**DeMarcus Cousins:** "I think that's completely unfair, man. We talking about a kid that can't even buy a damn drink yet. Like, give the guy some time, man. Like, I'm giving him a pass. He's 19. He's still learning how to be a winner. He's learning how to be a superstar. He's learning how to impact the game on nights he is having bad nights. That's a process that everybody that's came through this league had to go through. So I don't think it's any different from him and I don't think that, you know, dims his light as a star. And I'm not taking your comments as that either, but I do think it's an unfair assessment for such a young guy."
+
+**Chandler Parsons:** "I am just saying when he is not on and he is not elite on the offensive end, how can he impact the game more is all I'm saying. I just said he's a top 20 player in the NBA and he's 19 years old. I'm not by no means shitting on him."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=623s
+
+**6. Lou Williams — "I think it's beneficial for him to have somebody like a Kyrie Irving around where he can get" — Kyrie Irving's potential impact on the Mavericks and his future** [15:06](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=906s)
+
+Lou Williams: "I'm in the middle of the road because we're talking about a young budding superstar in a **Cooper Flagg**. I think it's beneficial for him to have somebody like a **Kyrie Irving** around where he can get some game from. He can understand the NBA champion and all of those things. On the flip side of that coin, I would like to see **Kyrie Irving** go somewhere at this stage in his career where he's around veterans, where he's around a real group that's going to give him an opportunity to get back to the top of the mountain like he's been before. So I'm in the middle of the road with what the Mavs could do with **Kyrie Irving**. He can stay there and be a great mentor and also be a star himself in Dallas and go with the flow of whatever they're going to accomplish."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=906s
+
+**7. Chandler Parsons — "I think Kyrie Irving helps them win basketball games and keeps them more relevant" — Kyrie Irving's value to the Mavericks and championship contention** [16:44](https://www.youtube.com/watch?v=fpsJLj6FN9M&t=1004s)
+
+Chandler Parsons: "If I'm **Cooper Flagg**, I want **Kyrie Irving** in Dallas. I want someone to kind of take some of that pressure off. I want someone to, you know, handle the ball to not just to allow double team after double team every time I get in the paint because you have one of the best scoring guards of all time on the floor at the same time as you. I personally, I think Cooper would want that and I think **Kyrie Irving** helps them win basketball games and keeps them more relevant and has them a better chance to win at the end of the day. So I don't think it's a situation where Kyrie is stunning his growth by any means. I think this is **Cooper Flagg**'s team. He is the franchise player. He is the guy going forward, but you need talent."
+
+https://www.youtube.com/watch?v=fpsJLj6FN9M&t=1004s
