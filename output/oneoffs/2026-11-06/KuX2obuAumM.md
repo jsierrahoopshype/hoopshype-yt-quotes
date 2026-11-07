@@ -1,0 +1,101 @@
+# Enjoy Luka Doncic's Dominance, Lakers Fans - ESPN's Brian Windhorst on Sedano & Kap — *ESPN LA*
+
+Source: https://www.youtube.com/watch?v=KuX2obuAumM
+
+_Speakers identified: Jorge Sedano, Brian Windhorst, Kap, Morales_
+
+**1. Brian Windhorst — "Let's just enjoy the night-to-night dominance and greatness that is Luka" — Lakers' team performance and Luka Doncic's dominance** [00:05](https://www.youtube.com/watch?v=KuX2obuAumM&t=5s)
+
+Brian Windhorst: "I really think this is just good for the mental health of all the Laker fans. Let's not talk about where this Lakers team is going to end up in four months or five months. Let's just enjoy the night-to-night dominance and greatness that is **Luka** and enjoy this team being the better team on most nights and getting a lot of victories. There is no reason not to enjoy what they have got going. They are very fun to watch. They play incredible offensive basketball. **Luka** is on, I mean, he what do you have, 40, nine and seven last night? That is now basically an average night."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=5s
+
+**2. Brian Windhorst — "Victor had 13 baskets at the rim last night. If Victor is willing to play that way" — Jarred Vanderbilt's rim protection and impact** [00:58](https://www.youtube.com/watch?v=KuX2obuAumM&t=58s)
+
+Brian Windhorst: "I was wiping away the tears last night, **George**, because **Victor** had 13 baskets at the rim last night. If **Victor** is willing to play that way, the Spurs will win championships. It has been a journey. He has shown stuff like this before, and then he is back out hoisting the threes. So, I am not going to overreact to it, but at the end of the game, like Kyrie Irving caught the ball at the end of the game. He had an angle. He could have gone to the basket and tried to win it, and **Victor** did not even have to move. Just **Victor** standing there, he had done so much psychological damage with the eight blocks that he did not even have to block the shot. He blocked the shot by just being there."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=58s
+
+**3. Brian Windhorst — "Two years ago, he shot 20% of his shots in the restricted zone. Last year, 30%. This year, 42%" — Anthony Davis's improved offensive efficiency in the paint** [01:49](https://www.youtube.com/watch?v=KuX2obuAumM&t=109s)
+
+Brian Windhorst: "Two years ago, he shot 20% of his shots in the restricted zone. Last year, 30%. This year, 42% of his shots in the restricted zone. The fact that he is averaging 29 points, which is I think six higher than last year at this point, these two things are related. Now, he obviously can make the three, and I am not saying he never takes the three, but if he plays inside-out, it is devastating. It is going to be devastating."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=109s
+
+**4. Brian Windhorst — "You know that it is going to come down to who gets to 65 games" — The importance of health for Lakers' success** [02:33](https://www.youtube.com/watch?v=KuX2obuAumM&t=153s)
+
+Brian Windhorst: "You know that it is going to come down to who gets to 65 games. Are they both playing 65 games? Okay, when they both play their 65th game, now we can have a discussion. But a lot of this is going to be who can avoid injury. Who can, you know, part of the MVP award now isn't just your statistics or what your team does, it is can you get to 65? And that is going to be a big factor in this."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=153s
+
+**5. Brian Windhorst — "What they have got going right now offensively is just downright special" — Lakers' offensive balance and LeBron James's role** [03:37](https://www.youtube.com/watch?v=KuX2obuAumM&t=217s)
+
+Brian Windhorst: "What they have got going right now offensively is just downright special. They have a real good balance because they, you know, you don't have the overlap with **LeBron**. There is some other stuff with **LeBron** that you are missing, particularly, you know, you could use him at the four. But the balance, I mean the other night, I didn't see the numbers last night, I think the game against the Heat, I think it was the Heat game, I might have been the Raptors game, I can't remember, back-to-backs, the Lakers made every single basket either in the paint or in the three-point line. That is premium offensive efficiency."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=217s
+
+**6. Brian Windhorst — "They need perimeter wing defense, Cappy. DeAndre Hunter makes more sense" — Lakers' need for perimeter wing defense** [05:44](https://www.youtube.com/watch?v=KuX2obuAumM&t=344s)
+
+Brian Windhorst: "They need perimeter wing defense, **Cappy**. **DeAndre Hunter** makes more sense. I agree. Look, they, that is an expensive piece too. But go back and look at when they won the championship. They had terrific scoring balance inside and out with LeBron and AD, and they had terrific wing defense. Kuzma, Kentavious Caldwell-Pope, Alex Caruso, Danny Green. Those are the types of players that they that they need to acquire."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=344s
+
+**7. Brian Windhorst — "Luka is taking 13 three-pointers a game. That is preposterous" — Luka Doncic's high usage rate and workload** [07:21](https://www.youtube.com/watch?v=KuX2obuAumM&t=441s)
+
+Brian Windhorst: "**Luka** is taking 13 three-pointers a game. That is preposterous. Maybe it is 14. That is preposterous. He is leading the volume in free throws, shots, three-pointers. Like, his his usage rate, which is the which is the the the number of possessions basically where he is, you know, using the possessions is an all-time high. It would threaten NBA records for, you know, it is like **Will Chamberlain** level of of usage rate right now. I don't know if he keeps it up, but you can't play that way when **LeBron** is out there. It is not about **LeBron**, it would be stupid, it would be repugnant. Why would you not have the greatest scorer in the history of the game not get a bunch of shots?"
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=441s
+
+**8. Brian Windhorst — "Part of the reason why the 76ers are so freaking good is that they have DJ Edgecumbe" — Lakers' salary structure and roster building** [08:32](https://www.youtube.com/watch?v=KuX2obuAumM&t=512s)
+
+Brian Windhorst: "Part of the reason why the 76ers are so freaking good is that they have **DJ Edgecumbe**, who would be a top-three player on many NBA teams. He is their fifth-best player. He is making like seven or eight million dollars, something like that. Maybe it is 10, but it is below the the average NBA salary. And **LeBron** is making the minimum. That is helping them build out an awesome team because they got two two high-level players making less than 10 million bucks. If the Lakers had that that balance, you wouldn't worry as much about the overlap. You would be like, well this is great."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=512s
+
+**9. Brian Windhorst — "Typically, what we see with super teams is that the offense trails the defense in terms of ramping up" — 76ers' offensive adjustment and Joel Embiid's role** [10:50](https://www.youtube.com/watch?v=KuX2obuAumM&t=650s)
+
+Brian Windhorst: "Typically, what we see with super teams is that the offense trails the defense in terms of ramping up because of this exact sort of stuff. You go back and look, and I I I am saying this off the top of my head because I researched this or something I am writing this week. You go back and look, the Celtics, the 2008-09 Celtics, which you remember took off, right? They started the season like 17 and two. They averaged 93 points a game their first 10 games. They were number one defense from the moment they stepped on the court. They they they lagged a little bit. The Heat in 2010, lethargic offensively, you know, remember they started nine and eight. They had some individual big games, but they were defensively top five. They struggled offensively."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=650s
+
+**10. Brian Windhorst — "The reason that they are eight and one is because despite having the typical bumps in the road" — 76ers' clutch performance and team chemistry** [12:17](https://www.youtube.com/watch?v=KuX2obuAumM&t=737s)
+
+Brian Windhorst: "The reason that they are eight and one is because despite having the typical bumps in the road with with getting your offense going, is that they have been awesome in the clutch. They are seven and 0. They have eight wins, seven of their wins, clutch time is inside five minutes, inside five points. Seven of the eight games have entered that, they have emerged seven and 0. And part of that is because **Maxi** has been great. Some of it is probably, I'd have to like super analyze it, some of it is probably just been a good fortune. You can play great in the clutch and lose games occasionally."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=737s
+
+**11. Brian Windhorst — "Philly is not playing good offense right now. They are not playing offense like" — 76ers' offensive struggles and defensive success** [14:40](https://www.youtube.com/watch?v=KuX2obuAumM&t=880s)
+
+Brian Windhorst: "Philly is not playing good offense right now. They are not playing offense like, like if you look at the Lakers and you look at the 76ers, there is literally 50 yards between them. Like, they they are totally operating on two different levels offensively. Lakers are seven and two, the Sixers are eight and one. Wow. Well, Lakers are 20th in defense, Sixers are second in defense. Sixers are seven and 0 in clutch time. So, there is in both cases, neither team is operating at the highest level. And if the Sixers continue to be a bottom 10 offensive team, which I simply reject that that is going to be around, they eventually will get it'll catch up with them because they are not going to win every single clutch game."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=880s
+
+**12. Brian Windhorst — "LeBron is taking 13 shots a game. I mean, there's been years where LeBron averaged almost 13 shots a half" — LeBron James's role and team dynamics** [16:48](https://www.youtube.com/watch?v=KuX2obuAumM&t=1008s)
+
+Brian Windhorst: "**LeBron** is taking 13 shots a game. I mean, there's been years where **LeBron** averaged almost 13 shots a half. That's overstating it. That was never that high. But you know, **LeBron** is never a low-shot guy. I think he's like fourth on the team in shots, something like that. So, he is actively, you know, taking it easy. Meanwhile, he is rebounding like he always did. He is assisting like he always did. In last night's game, for example, they took Maxi, you know, the way the rotation works, they had **LeBron** come in to run the offense with the second unit. Maxi is on the bench. **LeBron** comes out in the second quarter, and he gets assists on like four of the first six possessions or something like that."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=1008s
+
+**13. Brian Windhorst — "Anthony Davis is one of the bigger question marks in the league this year" — Anthony Davis, Kyrie Irving, and Domantas Sabonis trade rumors** [21:46](https://www.youtube.com/watch?v=KuX2obuAumM&t=1306s)
+
+Brian Windhorst: "**Anthony Davis** is one of the bigger question marks in the league this year. There is like three guys we are watching, sort of star-level players about will they get traded? One is **Anthony Davis**, one is **Kyrie Irving**. **Domantas Sabonis** is on there. All of them are in the same boat. All of them have options in their contract for next season. And **Carl Towns** to a certain extent, not to be traded, but will he sign? He is he is also in the same boat of he has got an option in his contract for next season. So maybe he opts out, becomes a free agent, maybe he stays in his contract and doesn't become a free agent."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=1306s
+
+**14. Brian Windhorst — "The Lakers just don't have much high-value things to, forget about Anthony Davis, just for any" — Lakers' limited trade assets and roster flexibility** [22:27](https://www.youtube.com/watch?v=KuX2obuAumM&t=1347s)
+
+Brian Windhorst: "The Lakers just don't have much high-value things to, forget about **Anthony Davis**, just for any for any star player. They they just don't have much to trade. You know, they've traded all of their picks for the most part. They don't have, you know, if you're, you know, if you're talking about trading for a star, it it it it's it's it's very unlikely. You would need the star player to say, trade me to Los Angeles, only Los Angeles, or, you know, or I'm not even going to show up, which by the way, that's happened in the past."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=1347s
+
+**15. Brian Windhorst — "They need to focus on acquiring support for Walker Kessler and perimeter defense" — Lakers' roster needs and potential acquisitions** [23:30](https://www.youtube.com/watch?v=KuX2obuAumM&t=1410s)
+
+Brian Windhorst: "They need to focus on acquiring support for **Walker Kessler** and perimeter defense. Those are attainable things that they can figure out how to get their hands on. I don't think it's healthy, and again, this goes against my my my my philosophy, focus on the present. When we get to January and we get to trade season, we can evaluate where the Lakers are."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=1410s
+
+**16. Brian Windhorst — "Quentin Grimes is, you know, he's not shot the three-ball well. He's had a couple of good scoring games" — Quentin Grimes's shooting and defensive role** [26:58](https://www.youtube.com/watch?v=KuX2obuAumM&t=1618s)
+
+Brian Windhorst: "**Quentin Grimes** is, you know, he's not shot the three-ball well. He's had a couple of good scoring games. Let me just say that when you think of **Zaire Williams** and and **Matisse Thybulle**, like, you have to keep in mind that those guys are on minimum contracts. Okay? So, **Zaire Williams**, um, I know he's missed a couple of games, but he's shooting the ball great. I mean, you know, what you want out of him is three and D. Um, he's shooting over 40% on threes. Terrific. And uh Thybulle, same thing. Like, Thybulle is not known as a good shooter. He's doing a really nice job of of the three part of the three and D."
+
+https://www.youtube.com/watch?v=KuX2obuAumM&t=1618s
