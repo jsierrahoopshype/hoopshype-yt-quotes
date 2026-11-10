@@ -1,0 +1,143 @@
+# Nique Clifford Trade, Luka Raising the Lakers, Celtics Check, & Nuggets Convo | Third Apron Podcast — *Yossi Gozlan*
+
+Source: https://www.youtube.com/watch?v=xykAYwZOzLM
+
+_Speakers identified: Yossi Gozlan, Sam Quinn_
+
+**1. Sam Quinn — "Why do you keep giving up on your first round picks so quickly during their rookie deals?" — Thunder's trade for Nique Clifford is a questionable move** [04:42](https://www.youtube.com/watch?v=xykAYwZOzLM&t=282s)
+
+Sam Quinn: "The Thunder needed to do something. They addressed their 15th roster spot temporarily, they signed **Dalen Terry**, but this is more of a long-term move. We were both discussing, is there a guy on a rookie contract they could target, maybe like a **Ryan Dunn**, and they chose **Nique Clifford**, probably because of this really low price point. They have 2028 second-round picks. It's really nothing. And his salary is pretty low for a guy on a rookie scale. Less than what the Thunder are paying for other guys. **Nique Clifford** is going to make 3.3 million this year and 3.4 million the following year. So we'll see how he does this year if he can play enough this year. If and then like also the first month of next season will probably determine whether the Thunder pick up his option. So overall for the Thunder, it's fine, a fine addition. They needed to do something. I don't expect them to really be a regular part of the rotation, but then again, and as we'll really get into the discussion, this was more of a referendum on the Kings' process because I wouldn't be surprised if this, if he just ends up being an actual player as soon as he goes to the Thunder. Like as soon as the Thunder want to get one of your guys, that should automatically be some red flag that, hey, maybe you shouldn't do this trade."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=282s
+
+**2. Sam Quinn — "Why do you keep giving up on your first round picks so quickly during their rookie deals?" — Kings' trade of Nique Clifford is a bad organizational move** [06:40](https://www.youtube.com/watch?v=xykAYwZOzLM&t=400s)
+
+Sam Quinn: "You'd think the Kings would have learned their lesson, obviously with **Tyrese Haliburton**, but even on a more appropriate level for this trade, **Davion Mitchell**. Why do you keep giving up on your first round picks so quickly during their rookie deals? And the cost here is, it's one thing where Philly gave up on **Jared McCain**, who was the number 16 pick, and they got back a first round pick that was number 22. So it's like you're getting back roughly what you put in, you're liquidating. He didn't look good in the first half of last season, fine. I understood the downside for Philly at the time, but there was real reason to make that trade based on how badly he was playing. I understood wanting to cash out, I understood **Daryl Morey**'s quote about selling high. The Kings aren't selling high. **Nique Clifford** played well for them last year down the stretch. It's easy to forget this because they were so bad, but they weren't tanking down the stretch last year. **Nique Clifford** was like one of the best players on their team in March and April. He averaged like 14, 5 and 4. He just barely plays for eight games and you're cashing him out in November, really, this early? I understand that you have Zach LaVine, you have Malik Monk, these guys who in the past you might not have played at all, but because of the new lottery rules, you want to put your veterans on the floor just for the relegation zone's sake. Fine, I get that."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=400s
+
+**3. Sam Quinn — "Luka is pulling a James Harden in that he's leading the NBA in both three-point attempts and free-throw attempts." — Luka Doncic is playing at an MVP level this season** [17:48](https://www.youtube.com/watch?v=xykAYwZOzLM&t=1068s)
+
+Sam Quinn: "Luka is pulling a **James Harden** in that he's leading the NBA in both three-point attempts and free-throw attempts, which sounds incongruous, but both Luka and Harden are doing it, or Luka is doing it and Harden did it. And doing it on an absurd 67% true shooting. So he's averaging 40 points per game. I have to imagine some of this stuff will come down a little bit, but either way the numbers are still going to be like very high. Like maybe doesn't finish with 40 points per game, but maybe 35, 36 could be in play. So he's just like unguardable at this level. Definitely the MVP front-runner at this point."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=1068s
+
+**4. Sam Quinn — "We've gone from this world where there were two superpowers in the West that were destined to play in the Western Conference Finals, to now one of those teams is still standing in San Antonio." — The Western Conference is deeper and more competitive than expected** [23:17](https://www.youtube.com/watch?v=xykAYwZOzLM&t=1397s)
+
+Sam Quinn: "It's interesting because you're right about the Lakers, now by virtue of the Thunder not being the Thunder, you have to take them a little bit more seriously. But at the same time, that's also true of the Rockets and the Timberwolves. So we've gone from this world where there were two superpowers in the West that were destined to play in the Western Conference Finals, to now one of those teams is still standing in San Antonio. And I'm kind of just watching how the bracket shakes out, because I think the Lakers, the Rockets, or the Timberwolves could challenge them in very different ways, but one of those teams is going to lose to one of the others in the second round, and the season is going to be looked at as a real disappointment. I am a little bit lower on the Lakers' start, like relative to the crazy, you know, 9-and-2 record, Luka averaging 40. I think what Luka is doing, like I think he's going to win MVP. I picked him before the season. I don't think he's going to keep averaging 40. The standout thing is the three-point shooting. It's how easy they look, right? It's the step-back 34-footer that just goes in like a layup, the confidence has never been more visible for him than it is now."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=1397s
+
+**5. Sam Quinn — "The West now, between Dallas and Portland and Golden State, the West is so deep that I think you can't reasonably expect to make it to the NBA Finals on the strength of one guy being this good." — The Western Conference is deeper and more competitive than expected** [25:56](https://www.youtube.com/watch?v=xykAYwZOzLM&t=1556s)
+
+Sam Quinn: "The West now, between Dallas and Portland and Golden State, the West is so deep that I think you can't reasonably expect to make it to the NBA Finals on the strength of one guy being this good. I think they're going to need a couple more things, but overall I have the same sentiment. I would still pick Houston, of a fully healthy Houston team, I probably still pick a fully Minnesota team, but I don't think these teams, I think they're all relatively still on the same tier. Oklahoma City, if they can maybe get one of those guys back, I would probably pick Oklahoma City over them. But the way Luka is playing, it's just, you got to just give him like a little bit of like a punter's chance."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=1556s
+
+**6. Sam Quinn — "For the Nuggets to be worse on offense with Nikola Jokic on the floor is one of the most absurd statistical things I have maybe ever seen" — Nikola Jokic's unprecedented offensive on-off splits for the Denver Nuggets** [44:48](https://www.youtube.com/watch?v=xykAYwZOzLM&t=2688s)
+
+Sam Quinn: "The big one, their offense with **Nikola Jokic** on the floor is worse than their offense with **Nikola Jokic** off of the floor. That is like, if you would have told me to predict the five least likely things to happen this NBA season, that would have been on that list. These are the on-off splits rounded over the last six seasons for **Nikola Jokic**: plus 13, plus 21, plus 18, plus 21, plus 12, plus 17. That's just offense, that's not factoring in defense. For the Nuggets to be worse on offense with **Nikola Jokic** on the floor is one of the most absurd statistical things I have maybe ever seen in my entire time covering the NBA. It's only been a couple weeks, maybe that changes, but there are a lot of concerns here."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=2688s
+
+**7. Sam Quinn — "If Jokic isn't hitting threes, he's a very different offensive player." — Concerns regarding Nikola Jokic's shooting and Denver's struggling perimeter offense** [44:48](https://www.youtube.com/watch?v=xykAYwZOzLM&t=2688s)
+
+Sam Quinn: "It feels like the three-point shot is basically gone. Whatever wrist injury happened to him last year, it feels like that's really persisting, and if **Nikola Jokic** isn't hitting threes, he's a very different offensive player. We saw this in the Minnesota series last year where because he wasn't making threes, **Rudy Gobert** could completely wall off the paint because **Christian Braun** is also not a good shooter. To his credit, he is taking a career-high volume, he's around five attempts a game this year. That's important. **Christian Braun**, the whole thing with him was that he used to only take wide-open threes. He's getting a little bit more adventurous there now. But that's not a good shooting team. If **Nikola Jokic** isn't taking threes, you're in real trouble offensively."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=2688s
+
+**8. Sam Quinn — "He doesn't feel as automatic as he used to." — Nikola Jokic's MVP candidacy and recent performance concerns** [1:00:07](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3607s)
+
+Sam Quinn: "I'm going to give it another couple months before I start really worrying about is he not an MVP candidate anymore. He's had a couple of good games since the really, really worst of the start earlier. But you watch him and he doesn't feel as automatic as he used to. You used to just feel so safe when **Nikola Jokic** is on the floor, that no matter what happened, his team was going to get a good shot almost every possession. I don't feel that way anymore."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3607s
+
+**9. Yossi Gozlan — "I am just really concerned with the way Aaron Gordon is moving." — Aaron Gordon's evolving role and performance concerns** [1:01:26](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3686s)
+
+Yossi Gozlan: "It feels like **Aaron Gordon** is trying to evolve his game to be something a little more slower, efficient. In a way it feels like they are outsourcing that energy that Gordon used to have to some of these bench pieces. I am just really concerned with the way **Aaron Gordon** is moving. Everyone else I am generally okay with. **Jamal Murray** is still holding up, give or take from the performance from last year. **Cam Johnson**, I don't have too many complaints about him. **Christian Braun** is a little bit better. But I am concerned with the way **Aaron Gordon** is moving."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3686s
+
+**10. Sam Quinn — "If Aaron Gordon is not this automatic near the basket, the perfect passing partner for Nikola Jokic." — Aaron Gordon's decline in efficiency and impact** [1:02:18](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3738s)
+
+Sam Quinn: "He looked better last year than he did this year. He's not finishing at the basket that well anymore. He's shooting 51% on twos, the last five years he was at 61%. If **Aaron Gordon** is not this automatic near the basket, the perfect passing partner for **Nikola Jokic**, the finale-oop, all of that, I don't know how valuable he really is offensively. And this was something that we'd brought up in the past when **Peyton Watson** was still on the team. I always felt like one of the reasons it took **Peyton Watson** so long to break out with the Nuggets was that his ideal role was what **Aaron Gordon**'s role was."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3738s
+
+**11. Yossi Gozlan — "Peyton Watson is in Cleveland on a team that plays the exact opposite way." — Peyton Watson's struggle to fit in Cleveland** [1:03:37](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3817s)
+
+Yossi Gozlan: "Now **Peyton Watson** is in Cleveland on a team that plays the exact opposite way, so he's struggling to fit in there. And the Nuggets don't have **Peyton Watson**, so they don't have that guy who can do similar things for them. And they're kind of just stuck with Aaron Gordon starting to age and the injuries being a concern and the shots not falling and defensively I don't think he's quite the same. I'm concerned about that contract, I'm concerned about losing Watson. I have a lot of problems with that team right now."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3817s
+
+**12. Yossi Gozlan — "He's now starting this extension, $32 million this year, 34.5 this following year and then 37 million." — Aaron Gordon's contract extension and long-term outlook** [1:04:30](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3870s)
+
+Yossi Gozlan: "He signed this extension with the Nuggets two years ago where he opted in to like that 21-22 million dollar salary. So the Nuggets gave it to him, they gave him a max extension on the back end so they could keep his salary as low as possible. So he's now starting this extension, 32 million dollars this year, 34.5 this following year and then 37 million dollars in 2028-29. Not a good start to the extension."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3870s
+
+**13. Yossi Gozlan — "They weren't going to keep all top six of their guys last year." — Nuggets' off-season trade strategy and roster decisions** [1:05:17](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3917s)
+
+Yossi Gozlan: "They weren't going to keep all top six of their guys last year and ultimately they just chose to sign and trade **Peyton Watson**. Seemed like it was going to be either him, maybe they attach a draft pick if they had any to trade **Christian Brown**, I think they had a draft pick to trade. But we were thinking maybe or or it was the Cam Johnson, do they just salary dump Cam Johnson? I think that was like really the most likely scenarios. But maybe they looked to trade **Jamal Murray**, maybe they looked to trade **Aaron Gordon**."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3917s
+
+**14. Yossi Gozlan — "What they wanted out of Miles Bridges was the former Aaron Gordon, which Miles Bridges has never been." — The Nuggets' failed attempt to replace Aaron Gordon with Miles Bridges** [1:05:55](https://www.youtube.com/watch?v=xykAYwZOzLM&t=3955s)
+
+Yossi Gozlan: "Well that's what they what they wanted out of **Miles Bridges** was the former **Aaron Gordon**, which **Miles Bridges** has never been and **Aaron Gordon** is now no longer currently. So we, you and I, we discussed, you know, maybe one of the paths and I'd love to know how serious they considered it, should be resigning Peyton Watson and maybe moving on from **Aaron Gordon**. Maybe his **Aaron Gordon**'s trade value was already as low as like some reports may have indicated."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=3955s
+
+**15. Sam Quinn — "They're probably past their prime at this point." — Nuggets' roster concerns and aging core** [1:06:58](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4018s)
+
+Sam Quinn: "We lost two prime years. Yes, but yes, exactly. That's why it doesn't feel like it, but either way it's been almost we're coming on like six years since they got **Aaron Gordon**, really completed this core. It's not a they're not they're they're probably past their prime at this point. And that's the other big concern now when we're just thinking about the Nuggets' outlook."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4018s
+
+**16. Sam Quinn — "There are guys who are much better specific fits next to Jokic." — Nuggets' need for better roster fits around Nikola Jokic** [1:07:35](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4055s)
+
+Sam Quinn: "At the very least, better for Denver, right? Like because there are guys who are much better specific fits next to Jokic than they are overall players within the league landscape. And I think **Peyton Watson** is one of those guys. But I'm now starting to get really concerned about like what do you do about this, right? And the situation that's kind of coming up to me right now, I think we both, well you less than me, I think the overall majority, people tend to think Jokic is just going to resign this summer."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4055s
+
+**17. Sam Quinn — "I might wait for Jokic to put pen to paper before I start giving away any picks." — Nuggets' trade deadline dilemma and potential asset management** [1:08:08](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4088s)
+
+Sam Quinn: "I'm looking at this trade deadline and you have this 2031 Cavs pick and I'm thinking of that trade deadline LeBron's last in Cleveland where the Cavs were thinking, oh, should we trade for **Kemba Walker** to try to make a finals run? Would we give up that Nets pick we got for Kyrie? But LeBron hadn't committed and you're like, you know what, we can't really take the risk. I might wait for Jokic to put pen to paper before I start giving away any picks. I don't know that they're one first round pick trade away from fixing this year's team."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4088s
+
+**18. Yossi Gozlan — "If they're going to trade that pick, I figure it would be to do some type of upgrade." — Potential trade strategies for the Nuggets to upgrade** [1:08:45](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4125s)
+
+Yossi Gozlan: "If they're going to trade that pick, I figure it would be to do some type of upgrade to their starting lineup. Like do you want to attach a pick to do something different from **Aaron Gordon** or **Christian Brown** or or even **Cam Johnson**? I don't think that's really going to help fix like the overall structural issues that's going on right now, like with Jokic and Gordon particularly not playing at the level they need to be."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4125s
+
+**19. Sam Quinn — "How many prime Aaron Gordons exist? Like not many." — The difficulty of finding a replacement for Aaron Gordon** [1:09:13](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4153s)
+
+Sam Quinn: "Who would you even want? Like I'm trying to think of what the trade would be. Like what is the kind of player that you would want on that team? And I don't like it's it's a prime **Aaron Gordon**. Right, but how many prime **Aaron Gordon**s exist? Like not many."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4153s
+
+**20. Sam Quinn — "Maybe you trade Aaron Gordon for a killer shooter and just be like, look, we're not going to defend." — Trading Aaron Gordon for a shooter to maximize Jokic** [1:09:50](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4190s)
+
+Sam Quinn: "The other thing you could in theory do is like, maybe you trade **Aaron Gordon** for a killer shooter and just be like, look, we're not going to defend, that ship has sailed. We're just going to play Jokic with as many offensive weapons around him as possible. And even if he's not making threes, he'll take advantage of all these guys that we've accumulated and we'll be great on offense. Other than that, like I'm kind of at a loss. I don't really have a great great concept of what they should do yet."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4190s
+
+**21. Sam Quinn — "They're clearly a tier down from the Lakers, the Rockets and the Wolves." — Nuggets' standing in the Western Conference and team outlook** [1:10:20](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4220s)
+
+Sam Quinn: "To me, like they're clearly a tier down from the Lakers, the Rockets and the Wolves. And frankly, like I watched Portland play them earlier this week, Portland was just better. Golden State might be better. Like there are teams that we thought of as playing or worse coming into the season, that now I look at and I go like, if Golden State makes a win now trade, I see no reason why the Warriors couldn't just be better than them."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4220s
+
+**22. Sam Quinn — "You've built around this core where you don't have a top 30 player in the NBA." — Nuggets' financial cliff and roster building challenges** [1:11:06](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4266s)
+
+Sam Quinn: "The realization that A, you have this financial cliff coming, and B, you've built around this core where you don't have a top 30 player in the NBA. There was like if it didn't go really, really right this year they were going to have to break up the team. I think with Denver I was just so unconcerned about Jokic leaving and I'm still mostly there, but I do think there is an internal pressure of like we're really going to waste what little time this core has left?"
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4266s
+
+**23. Sam Quinn — "I'm excited about Anthony Black in a bigger role on a team that makes more sense for him." — Anthony Black's potential for a bigger role** [1:12:08](https://www.youtube.com/watch?v=xykAYwZOzLM&t=4328s)
+
+Sam Quinn: "I bet a lot of teams are watching **Anthony Black**. I've been from what I've seen, like I'm I'm excited about **Anthony Black** in a bigger role on a team that makes more sense for him."
+
+https://www.youtube.com/watch?v=xykAYwZOzLM&t=4328s
