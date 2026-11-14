@@ -1,5 +1,43 @@
 # HoopsHype YT Quotes — 2026-11-13
 
+## Dejounte Murray REQUESTS A TRADE from the Pelicans 🚨 Could Zion be next? | NBA Today — *NBA on ESPN*
+
+Source: https://www.youtube.com/watch?v=ayD_Q-G3iio
+
+_Speakers identified: Malika Andrews, Shams Charania, Tim Bontemps, Kendrick Perkins, Chiney Ogwumike_
+
+**1. Shams Charania — "Dejounte Murray has requested a trade out of the organization" — Dejounte Murray requests a trade from the New Orleans Pelicans** [00:09](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s)
+
+Shams Charania: "Pelicans guard **Dejounte Murray** has requested a trade out of the organization and now his agent **Rich Paul** and the franchise are working toward a resolution. In the last several days, Murray has met with the organization and has made it clear that he wants to go somewhere else and play a meaningful key role on another team. We have seen **Dejounte Murray**, especially on social media, express his frustration with how things are going there. Clearly, it is not working out there. He is not going to be playing basketball in New Orleans for the time moving forward here. In his absence now, the Pelicans will be turning over that lead guard position to **Jeremiah Fears**, who has shined without **Dejounte Murray** in that lineup so far this year. Both sides will be working now on a trade for **Dejounte Murray** out of New Orleans."
+
+https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s
+
+**2. Tim Bontemps — "It is like he is almost overcompensating trying to make sure that he can win a press conference." — Joe Dumars overcompensating in trade negotiations after past criticism** [01:11](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+Tim Bontemps: "It has not been a great run for **Joe Dumars** since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get **Derrick Queen**. He got ridiculed for the **CJ McCollum** for **Jordan Poole** trade. And so when teams are calling, hey, we are interested in trading **Dejounte Murray**, **Herb Jones**, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made."
+
+https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s
+
+**3. Kendrick Perkins — "You have some really good pieces that would fit in some other places, just have not fit together." — New Orleans Pelicans roster pieces do not complement each other** [01:11](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+Kendrick Perkins: "One of the things that I look at that team is, I know some guys that do this all the time. They have a lot of designer clothes on, but they just don't match. You have the Versace and the Gucci, but you are not supposed to wear it all at one time. And so you have some really good pieces that would fit in some other places, just have not fit together. Now, did you know that was going to happen if you are **Joe Dumars**? Possibly, obviously not. But to me, the pieces don't fit and they don't complement each other."
+
+https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s
+
+**4. Chiney Ogwumike — "I always say you have to pick a direction, either you are moving up or you are moving down." — Pelicans need a cultural reset and direction during Zion Williamson era** [01:11](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+Chiney Ogwumike: "It is time for the cultural reset. Because I think of, we all love basketball, I think of the fans, and you want a product that you can believe in. And when I think of the Pelicans, this is year eight of Zion. I know that makes us feel old. I know that he sat out, it has been a time here or there. This is not where you want to go. I always say you have to pick a direction, either you are moving up or you are moving down. They have had the fourth-worst record in the league cumulatively ever since they have got Zion. They have got to make a choice on how they want to build the future with their identity, with the stars that they champion."
+
+https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s
+
+**5. Tim Bontemps — "Can you trade Zion? Sure. Can you get a big return for him? No way." — Pelicans face difficulty finding a trade market for Zion Williamson** [4:14](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s)
+
+Tim Bontemps: "I was texting with an executive asking about a potential Zion market. He says, can you trade Zion? Sure. Can you get a big return for him? No way."
+
+https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s
+
+---
+
 ## 🇻🇪 Carl Herrera ABRE su corazón y manda un GRAN mensaje | E4 T1 Voces NBA — *NBA En Español*
 
 Source: https://www.youtube.com/watch?v=lt2F6cR_qag
