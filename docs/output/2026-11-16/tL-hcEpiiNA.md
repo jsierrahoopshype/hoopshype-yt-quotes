@@ -1,0 +1,41 @@
+# Peyton Watson on His Draft Night Trade, NBA Reality Checks & Playing With Nikola Jokić — *Cousins with Vince Carter & Tracy McGrady*
+
+Source: https://www.youtube.com/watch?v=tL-hcEpiiNA
+
+_Speakers identified: Vince Carter, Peyton Watson, Tracy McGrady_
+
+**1. Peyton Watson — "It was just disrespect to somebody think they can score on you." — Peyton Watson on his draft night trade and proving doubters wrong** [00:07](https://www.youtube.com/watch?v=tL-hcEpiiNA&t=7s)
+
+Peyton Watson: "I did 15 workouts. I worked out for a lot of teams. Coming out of college, I didn't average a lot of minutes and I didn't average a lot of points at UCLA, so a lot of people were doubting my offensive prowess and my offensive contributions. This was the first time this had ever happened to me because coming up, it was just disrespect to somebody think they can score on you. So I was always going to play defense on a respect tip. But I was never looked at as no defender. I was looked at as somebody who going to do everything, who going to get you 30, who going to lock up, who going to get a few blocks. So it was never no thing to me that I was thinking about. But at UCLA, I played really, really good defense and my defensive film was amazing. So a lot of people were just doubting my contributions offensively. So I remember going into those workouts with the ultimate chip on my shoulder."
+
+https://www.youtube.com/watch?v=tL-hcEpiiNA&t=7s
+
+**2. Peyton Watson — "It's like you open a present on Christmas, but then you like, oh, that's for your brother instead." — Peyton Watson describes his draft night trade experience** [03:09](https://www.youtube.com/watch?v=tL-hcEpiiNA&t=189s)
+
+Peyton Watson: "We knew pretty right away that the pick was going to get traded after I got drafted, but it was still one of those things where you envision something in your head. It's like you open a present on Christmas, but then you like, oh, that's for your brother instead. You like, oh, I thought I was going to get that. But at the end of the day, I'm still getting a present, so I'm cool. It was one of those things for me where I felt blessed to be there no matter what. Obviously, the Thunder are a great organization and they've built into being one of the best organizations in the league. Hats off to them. And then that next year with the Nuggets I won a championship. So there was no bad place for me. That was really God looking over me and telling me that this is his plan and it's going to work out for me."
+
+https://www.youtube.com/watch?v=tL-hcEpiiNA&t=189s
+
+**3. Peyton Watson — "It being a players' league, so that meaning I was used to my coach really getting on us." — Peyton Watson on the shock of entering the NBA as a players' league** [04:29](https://www.youtube.com/watch?v=tL-hcEpiiNA&t=269s)
+
+Peyton Watson: "What was a shock to me was first of all it being a players' league, so that meaning I was used to my coach really getting on us. I'm talking about we doing everything right and it ain't no attitudes, nobody looking sideways, body language in check, everything like that. But coming into the league and being with guys who make ten times what the coach make, it was just a complete whirlwind for me because the players take a lot of the ownership. They take a lot of the blame when you lose, they take a lot of the credit when you win, and the coaches they do get on you and they hold you accountable, but it's not the same that I was used to growing up. So that was one thing that I was shocked at. And then the other thing that I was shocked at was how detailed certain guys' routines were."
+
+https://www.youtube.com/watch?v=tL-hcEpiiNA&t=269s
+
+**4. Peyton Watson — "His approach to every game was similar." — Peyton Watson on Nikola Jokić's consistent approach to every game** [07:44](https://www.youtube.com/watch?v=tL-hcEpiiNA&t=464s)
+
+Peyton Watson: "I started to see it with him early just because his approach to every game was similar. We would play on Christmas versus the Suns versus **Kevin Durant** and **Devin Booker**, or we would play a really big game, but then we would play the Nets or the Hornets on a Tuesday and he would come out same exact mentality, go out there, get a triple-double, we win regardless. So I started to see his approach to the game was different and he was going out there and put his hard hat on and I'm going to work no matter who we play. And seeing Jamal do it as well, that was really that one-two punch that year in the finals where it was like I didn't feel like nobody could beat us with those two guys because they were just at such a sharp level throughout that entire playoffs."
+
+https://www.youtube.com/watch?v=tL-hcEpiiNA&t=464s
+
+**5. Peyton Watson — "My OG Jeff Green, he was one of the guys that I was closest with." — Peyton Watson on the veteran leadership of Jeff Green and DeAndre Jordan** [10:42](https://www.youtube.com/watch?v=tL-hcEpiiNA&t=642s)
+
+Peyton Watson: "The beautiful thing about that year is that we had a few guys that did it. My OG **Jeff Green**, he was one of the guys that I was closest with. Uncle Jeff, if anybody who knows him, he is one of the best in the business as far as just being a locker room guy, that vet that you could look for. And then we also had **DeAndre Jordan**, who is one teammate of the year several times, another one of the best in the business. We had **Ish Smith**, salt of the earth, amazing dude. So we had veterans, and then we also had AG, we had KCP, just a lot of guys who added to the locker room and were always trying to look out for me and take me under their wing, because they saw a lot of promise in me."
+
+https://www.youtube.com/watch?v=tL-hcEpiiNA&t=642s
+
+**6. Peyton Watson — "A lot of it was learning how to grow and mature as a young man." — Peyton Watson on the importance of maturity and professionalism off the court** [11:40](https://www.youtube.com/watch?v=tL-hcEpiiNA&t=700s)
+
+Peyton Watson: "I learned a lot from those guys. A lot of it was learning how to grow and mature as a young man. I think that was the biggest thing for me coming into the league at 19 years old and being on a team that was contending for something. It was a lot of lessons off the court that I learned that was just as important as on the court, whether that's being early and not on time. You always got to take that extra step and show that you not only want to be there but you deserve to be there. So being everywhere early, starting to build my routine as a young guy, taking care of my body, coming back in the gym late at night shooting, just all the little extra things that were going to show not only my teammates but the coaching staff that I was serious about this."
+
+https://www.youtube.com/watch?v=tL-hcEpiiNA&t=700s
