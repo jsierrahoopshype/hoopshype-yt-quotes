@@ -1,0 +1,127 @@
+# Jaden, Micah, Rudy & a weird Wolves week | The Jon Krawczynski Show — *The Jon Krawczynski Show*
+
+Source: https://www.youtube.com/watch?v=GV45DTytNxE
+
+_Speakers identified: Jon Krawczynski, Jim Souhan_
+
+**1. Jim Souhan — "I do think that Mike is probably more of a footsie guy, but I think Finch is more standard pajama fair" — Assessing the sleepover habits of Mike Conley and Chris Finch** [00:28](https://www.youtube.com/watch?v=GV45DTytNxE&t=28s)
+
+**Jon Krawczynski:** "What's he or just regular pajamas?"
+
+**Jim Souhan:** "I do think that Mike is probably more of a footsie guy, but I think Finch is more standard pajama fair for sure."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=28s
+
+**2. Jon Krawczynski — "It wasn't just the bull in a china shop drives, it was efficiency, it was getting to the line" — Terrence Shannon Jr.'s breakout performance against the Bulls** [01:26](https://www.youtube.com/watch?v=GV45DTytNxE&t=86s)
+
+Jon Krawczynski: "On Monday night, **Terrence Shannon Jr.** did what everybody has been waiting and hoping for. And what I really loved about it, it wasn't just the bull in a china shop drives, it was efficiency, it was getting to the line, it was hitting three-pointers, it was passing the ball when he drew double teams, playing hard on both ends of the floor and seeming to be locked in defensively as well. That felt like a major step forward."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=86s
+
+**3. Jim Souhan — "This is a team that we thought was a little bit bigger than the kind of egg" — Timberwolves' disappointing loss to the Bulls** [01:52](https://www.youtube.com/watch?v=GV45DTytNxE&t=112s)
+
+Jim Souhan: "It was, especially frankly coming off of a game on Saturday against Chicago where I do feel like this team really did embarrass itself. This is a team that we thought was a little bit bigger than the kind of egg that they laid against the Bulls. And hey, it's an 82-game season, things like this do happen, but to be able to come out then in the next game and play a tough, physical Blazers team that was having a lot of success, and then Terrence Shannon Jr. came through in a huge time."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=112s
+
+**4. Jim Souhan — "Terrence Shannon Jr. was just shot out of a cannon" — Terrence Shannon Jr.'s impact when starters struggled** [02:32](https://www.youtube.com/watch?v=GV45DTytNxE&t=152s)
+
+Jim Souhan: "**Terrence Shannon Jr.** came through in a huge time when **LaMelo Ball** wasn't shooting well, **Ibrahima Diallo** wasn't shooting well. They were that first unit was having a very difficult time finding its way in this game. And then **Terrence Shannon Jr.** was just shot out of a cannon. He came in and just played with such force and got to the basket, knocked down open shots, found his teammates. He had six assists in the game, and I think you made a good point too where he did really ramp up his defensive effectiveness and impact as well."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=152s
+
+**5. Jim Souhan — "He has the kind of physical profile that makes sort of this dynamic scorer playmaker type of a role" — Terrence Shannon Jr.'s potential as a sixth man** [04:05](https://www.youtube.com/watch?v=GV45DTytNxE&t=245s)
+
+Jim Souhan: "He has the kind of physical profile that makes sort of this dynamic scorer playmaker type of a role, I think a real good fit for him. And to your point, Jim, I do think that there was some frustration at times last year with **Terrence Shannon Jr.**'s defense and his attention to detail, his focus on that end, and that has been the biggest thing holding him back from more minutes in the rotation. And he has been much more diligent this season, much more aware of where he's supposed to be, how to cover his guys, and that has given **Chris Finch** a license to play him and play him a lot."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=245s
+
+**6. Jim Souhan — "They looked at the team, we looked at the travel issues that the Bulls had" — Timberwolves' loss to the Bulls and travel issues** [06:17](https://www.youtube.com/watch?v=GV45DTytNxE&t=377s)
+
+Jim Souhan: "We talked to **LaMelo Ball** after the game and he was terrible in the game, four of 19 from three. And he said out loud what I was anticipating, Jim, is like, he said, we looked at the team, we looked at the travel issues that the Bulls had. They came in on Saturday because of the FAA thing, and they were two and nine when they came in. And I think that they just thought this was going to be an easy game. They came off of the 40-point beatdown of Dallas on Thursday and they were flying high. They were feeling really good about themselves and I think they were actually feeling too good."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=377s
+
+**7. Jim Souhan — "He hasn't been quite himself less a couple of games" — LaMelo Ball's recent performance and engagement** [08:13](https://www.youtube.com/watch?v=GV45DTytNxE&t=493s)
+
+Jim Souhan: "**LaMelo Ball** said to less than games in a row. I give him credit in the middle of another mediocre to poor offensive performance. He actually took a charge from a large body at the free throw line, which is not something you do if you're not engaged. But he hasn't been quite himself less a couple of games."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=493s
+
+**8. Jim Souhan — "Rudy Gobert had the second highest field goal percentage of any player in NBA history" — Rudy Gobert's offensive struggles this season** [13:30](https://www.youtube.com/watch?v=GV45DTytNxE&t=810s)
+
+Jim Souhan: "Coming into this season, **Rudy Gobert** had the second highest field goal percentage of any player in NBA history. Whatever you want to say about his offensive limitations, usually, almost always, when the ball was in his hands and he was taking a shot near the rim, the ball was going in the basket some way, somehow. This season, it has been, largely, very disappointing in that way. He has had four games this season that he has not scored a field goal at all."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=810s
+
+**9. Jim Souhan — "In the four games that they have lost, Rudy has made no field goals" — Rudy Gobert's impact on Timberwolves' record** [14:17](https://www.youtube.com/watch?v=GV45DTytNxE&t=857s)
+
+Jim Souhan: "In the four games that they have lost, Rudy has made no field goals. And if he makes one field goal in a game, the Wolves are undefeated right now. And we did see him bounce back from that terrible, terrible Chicago game with a great game against Portland. He had 18 points, he had 15 rebounds. He got to the free throw line, he was eight of 14 at the line, but we'll take that compared to what it had been."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=857s
+
+**10. Jim Souhan — "I do believe part of this is a mental thing that's going on now with a new point guard" — Rudy Gobert's adjustment to new point guard** [15:08](https://www.youtube.com/watch?v=GV45DTytNxE&t=908s)
+
+Jim Souhan: "I do believe part of this is a mental thing that's going on now with a new point guard. He's doing different things in this offense, and it just seems like there is a lot going on in his head right now. So, the offense has never been smooth, but it looks really clunky on a more consistent basis in these games. And so I just think that they need to get him settled in."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=908s
+
+**11. Jim Souhan — "The Vikings are the Rudy Gobert of the NFL in terms of great, great defense just terribly ugly offense" — Timberwolves' defensive identity and offensive struggles** [17:28](https://www.youtube.com/watch?v=GV45DTytNxE&t=1048s)
+
+Jim Souhan: "I saw a couple of people on Twitter saying that the Vikings are the **Rudy Gobert** of the NFL in terms of great, great defense just terribly ugly offense. But what was very interesting about the first Portland game on Monday night is they are coached by Micah Nori. He knows **Rudy Gobert** forward and backward, and the Blazers were the most aggressive team so far in completely laying off of **Rudy Gobert**."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1048s
+
+**12. Jim Souhan — "Donovan Clingan gave him eight feet of space every time Rudy Gobert had the ball at the nail" — Blazers' defensive strategy against Rudy Gobert** [18:01](https://www.youtube.com/watch?v=GV45DTytNxE&t=1081s)
+
+Jim Souhan: "**Donovan Clingan** gave him eight feet of space every time **Rudy Gobert** had the ball at the nail and was basically just daring him to try to put it on the deck and make a play at the rim that way. They were staying home on their shooters so he couldn't have an easy outlet pass and they were saying, all right, Rudy, come at us. And Rudy made a few of those layups, there were a few that were ugly, but I think he did just enough to make the Blazers pay for that."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1081s
+
+**13. Jim Souhan — "I honestly think it was a little psychological warfare of, all right, I'm going to start hacking you" — Micah Nori's tactical coaching against Rudy Gobert** [19:30](https://www.youtube.com/watch?v=GV45DTytNxE&t=1170s)
+
+Jim Souhan: "I honestly think it was a little psychological warfare of, all right, I'm going to start hacking you and put you on the free throw line, hopefully you miss a couple, and now this is in your head going into game two. And so I thought it was a savvy bit of coaching by **Micah Nori** to just try and upset the apple cart a little bit."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1170s
+
+**14. Jim Souhan — "The fun internet rumor right now is, okay, Kelsey Mitchell's not happy in Indiana" — Speculation on potential WNBA coaching changes** [24:10](https://www.youtube.com/watch?v=GV45DTytNxE&t=1450s)
+
+Jim Souhan: "The fun internet rumor right now is, okay, **Kelsey Mitchell**'s not happy in Indiana. They're going to have some salary cap space if **Kelsey Mitchell** leaves, and you put the Fisa Collier with **Caitlin Clark** and **Leah Boston** and you got something. What how realistic do you think that scenario is, John?"
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1450s
+
+**15. Jim Souhan — "The prospect of it is very enticing if you're an Indiana Fever fan" — Potential of a star-powered WNBA team** [25:06](https://www.youtube.com/watch?v=GV45DTytNxE&t=1506s)
+
+Jim Souhan: "The prospect of it is very enticing if you're an Indiana Fever fan, when you think about putting Boston and Clark together. I love the idea of the Fisa as a defensive fulcrum for that group, in addition to what she can do offensively. And with the passing of **Caitlin Clark**, I do think that she would be happy in that kind of system and scenario."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1506s
+
+**16. Jim Souhan — "Olivia Miles is someone you might want to just hitch your wagon to" — Olivia Miles' potential impact in the WNBA** [26:25](https://www.youtube.com/watch?v=GV45DTytNxE&t=1585s)
+
+Jim Souhan: "I was talking to someone last night at the game and I sat next to Cheryl Reeve at halftime for just a little bit and we caught up and talking about the link season and kind of the disappointing ending. And you could tell that she was still chewing on how that all kind of didn't go well at the at the end. But I think that there is a real belief in what they have built with **Olivia Miles** and I don't know that, you know, I'll say that from my very outside perspective, I've kind of like been operating under this is fees gone, like she's going to go somewhere else. I don't think internally yet the links have have ruled out that she's coming back. I do think that, you know, I was talking to someone and it was not Cheryl, but someone else was just like, look, you know, **Olivia Miles** is someone you might want to just hitch your wagon to."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1585s
+
+**17. Jim Souhan — "I think one of the great disappointments of Cheryl's tenure was when free agency became a real thing" — Cheryl Reeve's disappointment in WNBA free agency** [28:09](https://www.youtube.com/watch?v=GV45DTytNxE&t=1689s)
+
+Jim Souhan: "I think one of the great disappointments of Cheryl's tenure was when free agency became a real thing in the WNBA, none of the big time free agents signed on with her. I think she thought she'd get **Brianna Stewart** or somebody like that and they they wanted to go to different markets. So, so I don't blame them for being confident or hopeful, as both of us have said we'd both be at the very least, mildly surprised if she came back."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1689s
+
+**18. Jim Souhan — "Finch and Nori are are we know they're really close" — Micah Nori and Chris Finch's close relationship** [29:47](https://www.youtube.com/watch?v=GV45DTytNxE&t=1787s)
+
+Jim Souhan: "Finch and Nori are are we know they're really close. They they said in a couple of pieces, one at the Athletic, Jace wrote about it as well at the Pioneer Press, about sort of just how they still talk to each other four to five times a week during the season and like they go through the job together and they bounce ideas off of each other and they just really remain in contact."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=1787s
+
+**19. Jim Souhan — "It's a roster that is a little wonky and he's done a great job of making the parts" — Chris Finch's success with the Timberwolves' roster** [33:20](https://www.youtube.com/watch?v=GV45DTytNxE&t=2000s)
+
+Jim Souhan: "He's done a great job of making the parts fit together better than I anticipated they would. And, you know, **Ja Morant**'s been out for a while now, so he's missing a star just like Finch is missing **Anthony Edwards**. But he's he's done a great job. They, you know, in a game one, I think they missed a lot of shots that they normally make and that kind of let the help the game get away from them a little bit."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=2000s
+
+**20. Jim Souhan — "The question with him always, I think is health and can he stay healthy playing the kind of game" — Ja Morant's health and future performance** [35:05](https://www.youtube.com/watch?v=GV45DTytNxE&t=2105s)
+
+Jim Souhan: "And and I think there were signs of that early before he got hurt again. And I mean the question with him always, I think is health and can he stay healthy playing the kind of game that makes him special, which is that break neck, get to the rim, ultra aggressive style of play."
+
+https://www.youtube.com/watch?v=GV45DTytNxE&t=2105s
