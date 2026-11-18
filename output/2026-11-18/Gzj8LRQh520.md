@@ -1,0 +1,41 @@
+# Celtics BEST Ran Organization in the NBA?!? — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=Gzj8LRQh520
+
+_Speakers identified: Chandler Parsons, DeMarcus Cousins, Michelle Beadle, Lou Williams_
+
+**1. DeMarcus Cousins — "Jayson Tatum is responding to all the noise. He's playing at an extremely high level." — Jayson Tatum is playing at an extremely high level** [00:38](https://www.youtube.com/watch?v=Gzj8LRQh520&t=38s)
+
+DeMarcus Cousins: "**Jayson Tatum** is responding to all the noise. He's playing at an extremely high level. He's leading this team. He's checking the boxes off as well as far as the doubters. Obviously this is a group that has moved on from something and they're playing very well."
+
+https://www.youtube.com/watch?v=Gzj8LRQh520&t=38s
+
+**2. Chandler Parsons — "They're just such a well-oiled machine where they just play the right way." — Boston Celtics are a well-oiled championship machine** [01:26](https://www.youtube.com/watch?v=Gzj8LRQh520&t=86s)
+
+Chandler Parsons: "**Payton Pritchard** has been great. You talk about sixth man of the year, I don't think **Dylan Harper** is going to get it because he's probably going to be an all-star starter. **Paul George** has been unbelievable. You love to see a guy at his age with everything he's been through play well. **Jayson Tatum**, this team is just playing with a clear mind and zero distractions. The whole story with **Jaylen Brown**, they've moved on from that and the media keeps trying to make it a thing, but they are 11 and 2 and just winning basketball games. While developing the young guys, **Baylor Scheierman** has been solid. **Keta**, I love the big fellow **Keta**. They added **Mitchell Robinson**. They added I think some solid pieces to be competitive this year. When I looked at this team preseason, I didn't think they were a championship team this year. I really didn't, but they're just such a well-oiled machine where they just play the right way. They play hard, they're still hoisting a bunch of threes, which we'll notice that they'll live and die by them."
+
+https://www.youtube.com/watch?v=Gzj8LRQh520&t=86s
+
+**3. Lou Williams — "We got to start adding Boston into that conversation. They have a certain recipe that works for them." — Boston Celtics belong in the best run organizations conversation** [02:45](https://www.youtube.com/watch?v=Gzj8LRQh520&t=165s)
+
+Lou Williams: "I'm done rooting against the Boston Celtics as long as they got some talent in uniform because of their leadership. You got **Joe Mazzulla** and **Brad** and be able to go from the sideline to the boardroom and still have an impact and have a pulse on what this team needs for them. We've talked about the Miami Heats of the world, the San Antonio Spurs of the world, these plug and play organizations that kind of have a recipe for how they like to do things. We got to start adding Boston into that conversation. They have a certain recipe that works for them. They have a style of play that they like and they go out and they get guys that fit that mold. They're going to live and die by that brand of basketball and it's worked for them. They've gotten a championship out of it. They've been highly competitive with their star players in and out of the lineups for serious injuries and they've kept going. They've traded **Jaylen Brown** away and they're still going. **Jayson Tatum** tore his Achilles up, they were still going. At some point you have to believe that some of these things that they are going through and they're being able to get through is because of the leadership and the guys they have in the position for that. So you got to start adding them in the conversation of being one of the best run organizations."
+
+https://www.youtube.com/watch?v=Gzj8LRQh520&t=165s
+
+**4. Chandler Parsons — "They put themselves in the right situation to acquire assets to help win games." — Boston Celtics front office consistently puts team in position to win** [04:06](https://www.youtube.com/watch?v=Gzj8LRQh520&t=246s)
+
+Chandler Parsons: "They've had a lot of traumatic stuff and injuries and trades and drama and they just keep it pushing. There's never like a hiccup, there's never like a rebuild, there's never like a pity party for the Boston Celtics because that organization and that front office just keeps it moving and they put themselves in the right situation to acquire assets to help win games. So to answer the question, top three, top five. I love OKC with **Sam Presti**. I can't not look at **Sam Presti**. He's got to be number one in my opinion. But then when I look at the history of it, like San Antonio, Golden State with **Bob Myers**, they had that run, that was a large run, and then the Heat with Spo and that whole culture they've developed, I don't know anyone else better than those four."
+
+https://www.youtube.com/watch?v=Gzj8LRQh520&t=246s
+
+**5. Lou Williams — "They just got to compete better. There's no real excuses other than they just got to play better basketball." — Dallas Mavericks need to compete better despite organizational struggles** [06:42](https://www.youtube.com/watch?v=Gzj8LRQh520&t=402s)
+
+Lou Williams: "There's something going on behind the scenes that's affecting the way that they go out and they compete. You lose to a starterless team, you can make a case for like, okay, this is a bad night and then you get your ass whipped again, that coupon goes out the window with that. So something got to be going on because they got too many guys over there that can play. Maybe it's a little hangover left from all of the things that they were going through last year and just being in a rut of an organization at this point. But they just got to compete better. There's no real excuses other than they just got to play better basketball. Those are two losses that I know when you come into the practice gym, it feels dark in there. The music ain't playing, it ain't no playing around, ain't no jokes in this practice facility right now. It's a bad vibe and you know, we've all been on teams where you come in and the vibe is off and until they start getting some wins under their belt, until they start feeling better, it's going to be that way in Dallas. But make no mistake about it, this ain't even science. They just not competing and they're not playing well at all."
+
+https://www.youtube.com/watch?v=Gzj8LRQh520&t=402s
+
+**6. DeMarcus Cousins — "I think the expectations were a little bit too high for this Mavericks group right now." — Dallas Mavericks are a rebuilding team with high expectations** [07:55](https://www.youtube.com/watch?v=Gzj8LRQh520&t=475s)
+
+DeMarcus Cousins: "I don't think the expectations were with them being a above 500 team this year. I think they're also a group going through the motions, going through teaching young guys how to be in this league. Obviously **Cooper Flagg** is a young star in this league, a future superstar. He's showing that he has the potential to be one of the faces of this league eventually, but he's a second year guy. **Kyrie** is coming back off injury, he's still getting back in the mid form, but outside of that, I don't see, you know, just a group of outstanding talent. Like they're kind of going through a rebuild, figuring out what their future is. Obviously they know what their future foundation piece is in **Cooper Flagg**, but we still have to figure out everything around it. As of right now, the only solid pieces are Cooper and **Kyrie**. So I think the expectations are a little bit too high for this Mavericks group right now. And if they do make the playoffs, you know, great for them, but like I said, I don't think that was anybody's expectation coming into this season."
+
+https://www.youtube.com/watch?v=Gzj8LRQh520&t=475s
