@@ -1,0 +1,37 @@
+# Richard Jefferson Explains Why Jayson Tatum Was Team USA's Odd Man Out — *Road Trippin*
+
+Source: https://www.youtube.com/watch?v=7pX4LfyXt8M
+
+_Speakers identified: Allie Clifton, Kendrick Perkins, Richard Jefferson, Channing Frye_
+
+**1. Kendrick Perkins — "It's almost like he does these interviews to be accepted by the world." — Kendrick Perkins criticizes Jayson Tatum's interview style** [00:17](https://www.youtube.com/watch?v=7pX4LfyXt8M&t=17s)
+
+Kendrick Perkins: "It's just **Jayson Tatum** in his interview. It makes my skin crawl. The reason being is because they don't come off being organic. It's almost like he does these interviews to be accepted by the world. And to me, right now, I believe **Jayson Tatum**, because of the Celtics, he's averaging 26, he's in the MVP conversation. I believe that he should have complete tunnel vision. That doesn't mean that he don't go get his money and do the endorsement deals and stuff like that. I just think adding more to what's already been there, him and the Jaylen Brown back and forth and all that, and then all of a sudden another interview that you're talking about, Olympics that happened two years ago. If you felt that way, you should have spoken that stuff then. Like, why now?"
+
+https://www.youtube.com/watch?v=7pX4LfyXt8M&t=17s
+
+**2. Richard Jefferson — "Jayson Tatum, brother man, it's never probably happened in his life. Stop using that as an excuse." — Jayson Tatum's role and performance during the Olympic basketball tournament** [01:29](https://www.youtube.com/watch?v=7pX4LfyXt8M&t=89s)
+
+Richard Jefferson: "**Jayson Tatum**, whether he wants to be accepted or not, it's not a big deal. The Olympic thing, and I said this during that thing, let's get down to brass tacks. Is **Jayson Tatum** out of that group, a top three or four scorer? No. Is **Jayson Tatum** out of that group, a top three or four defender? No. **Jayson Tatum** is a star, a perennial All-Star on the Boston Celtics. When you're in a room with **Steph**, **KD**, **Bron**, **Ant**, and **Devin Booker**, but **Devin Booker** accepted a role where he was like, I'll guard the best guy. Oh, you need me to stand in the corner. Oh, I need to move without the ball. I don't need the ball. I've accepted my role. **Bam**, **Joel Embiid**, even **Joel Embiid** accepted coming in and out at a certain time. **Jayson Tatum**, brother man, it's never probably happened in his life. Stop using that as an excuse. You are not those guys."
+
+https://www.youtube.com/watch?v=7pX4LfyXt8M&t=89s
+
+**3. Richard Jefferson — "When Steph and them are diverting to Anthony Edwards, we don't need the question." — Anthony Edwards earning more respect from peers than Jayson Tatum** [01:29](https://www.youtube.com/watch?v=7pX4LfyXt8M&t=89s)
+
+**Kendrick Perkins:** "So let me ask you this. Let me ask you this in the middle. **Ant** has proven more than **Jayson Tatum**? I'm asking. I'm just asking."
+
+**Richard Jefferson:** "He must have, because obviously in practice, nobody was saying, man, **Jayson Tatum** cooking. Practice happens. Your peers speak more than everyone else because I'm putting him in the game. I'm ready to win. So that says more about your peers than it does **Steve Kerr**, because **Steve Kerr** obviously has won a couple championships himself. No **Steph**, no **KD**, and they said, hey, you got to put young fella. When **Steph** and them are diverting to **Anthony Edwards**, we don't need the question. Come on, stop it. Stop this. The Olympics is over."
+
+https://www.youtube.com/watch?v=7pX4LfyXt8M&t=89s
+
+**4. Channing Frye — "It makes it very, very difficult for a coach to make a decision and he was the odd man out." — Channing Frye explains the difficulty of coaching star-studded rosters** [03:33](https://www.youtube.com/watch?v=7pX4LfyXt8M&t=213s)
+
+Channing Frye: "Everyone has their different approach, right? Whether it's Steph, **Anthony Edwards** likes to talk trash, **Jayson Tatum** is kind of quiet. Everyone's got their different approach. This is **Jayson Tatum**'s approach, in my opinion, for motivation. So when he has these conversations like this, I view it through a lens of these are the things that are still motivating him. These are the things that he was upset about. These are the things that he's motivated by. I don't look at it as such a negative lens. **Jayson Tatum** is one of the best players in the league. He's been an MVP candidate, conference finals, NBA finals, NBA champion. He is a Hall of Famer. Right now, if you stop, he's a Hall of Famer. On that team, and speaking as a person that's been on these teams before, it is very, very difficult for a coach to make a decision and he was the odd man out. And that part sucks. Look, the first Olympics or the first qualifier for the Olympics, it was me, **Vince Carter**, **Tracy McGrady**, **Ray Allen**. I was T-Mac, right? The next year, it was a young D-Wade, a young LeBron, a young Carmelo. So it was like now everything's different. So when you show up, your roster sometimes will determine, hey, how the coach is going to play. And it makes it very, very difficult to field a roster that everyone's going to be happy."
+
+https://www.youtube.com/watch?v=7pX4LfyXt8M&t=213s
+
+**5. Kendrick Perkins — "The real thing is that KD, Bron, Steph, they fucked with Ant-Man more than they fucked with Jayson Tatum." — Kendrick Perkins on Jayson Tatum's motivation and team dynamics** [05:32](https://www.youtube.com/watch?v=7pX4LfyXt8M&t=332s)
+
+Kendrick Perkins: "He had a rough time, but he had a great time. He probably thought he should have won Conference Finals MVP, probably thought he should have won Finals MVP, and then all of a sudden you go to the Olympics and then you don't get playing time. But the motivation part is where I can't give him a pass. There's certain guys that when they come out publicly and they say that I have the mamba mentality and I idolize Kobe, see that's the difference between **Jayson Tatum** and Luka. Luka ain't going to keep talking about the shit about how Dallas traded him. He talked about it and addressed that shit the time it happened and all of a sudden it's been foot in motherfuckers' ass. But the real thing is that KD, Bron, Steph, they fucked with Ant-Man more than they fucked with **Jayson Tatum** just because of just his mentality, his approach, his swag. Can you imagine **Anthony Edwards** probably walked into practice going at KD, talking to Kobe and all that? But Ant-Man went and said that I want to be a sponge, right? So he made sure he worked out with KD every day, but he also went at KD every day. He went at Bron, he went at Steph like, and all of a sudden these motherfuckers like, well this motherfucker crazy. So **Steve Kerr**, Ty Lue and all those motherfuckers get to, hey, who you? We want Ant-Man."
+
+https://www.youtube.com/watch?v=7pX4LfyXt8M&t=332s
