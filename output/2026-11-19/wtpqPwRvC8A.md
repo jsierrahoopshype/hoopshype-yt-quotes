@@ -1,0 +1,107 @@
+# Inside the 2026 Lakers with Walker Kessler & Flea — *The Old Man and The Three*
+
+Source: https://www.youtube.com/watch?v=wtpqPwRvC8A
+
+_Speakers identified: Walker Kessler, Tommy Alter, Flea, Van Lathan, Cam Johnson_
+
+**1. Flea — "Luka's game, even as cerebral as it is, looks like he is just flowing through it." — Flea on Luka Doncic's effortless, spiritual approach to basketball** [07:23](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=443s)
+
+**Flea:** "Luka's game, even as cerebral as it is, looks like he is just flowing through it. That's why when you say spiritual, that's a good way to describe it. It seems like something that you can't, he just doing shit."
+
+**Van Lathan:** "The flow state. Yeah, he just like boom, boom, boom, turn, move, bang, bang, and it feels like everything is where it's supposed to be."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=443s
+
+**2. Van Lathan — "I like people that forget hierarchy. He forgot that he was supposed to bow down." — Van Lathan on Walker Kessler's disregard for NBA hierarchy** [07:49](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=469s)
+
+Van Lathan: "I like players, I like people that forget hierarchy. He forgot that he was supposed to bow down. And he came in there, because this reminded me of how it was back in Baton Rouge, you'd be sitting somewhere and somebody would say something, and I'd be like, who are you? Now, I feel like that fired Luka up. You know what I mean? But I appreciated it from him. I think that he went a little too far and I don't respect him anymore, but the fact that he wasn't afraid of them, that told me, oh, I need to know that he's going to be a successful player in the NBA."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=469s
+
+**3. Flea — "The kid can really play and it looks like he's going to be a force in the NBA." — Flea on Walker Kessler's potential and trash-talking as a rookie** [08:31](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=511s)
+
+Flea: "I as a Laker fan, I went the other way. I appreciated the courage and the kid can really play and it looks like he's going to be a force in the NBA. But the stuff he said after, just talking shit, I was like, dude, you're a rookie. You haven't done shit. You've had a few good games. And you're sitting there talking about, I don't respect him anymore and he's nothing to me. Like, dude, you just got your ass whooped."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=511s
+
+**4. Walker Kessler — "If I could make it at a percentage that was good enough, yeah, but if I go out there and shoot three of those." — Walker Kessler on his lack of fear regarding the skyhook** [11:56](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=716s)
+
+Walker Kessler: "If I could make it at a percentage that was good enough, yeah, but if I go out there and shoot three of those and I hit just backboard, people are going to look at me like I'm crazy. So, you speak about fearlessness, I don't have enough fearlessness to shoot a skyhook three."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=716s
+
+**5. Walker Kessler — "I got a call from my Utah GM, Austin Ainge, and as I was walking away, they all started cheering." — Walker Kessler on the moment he learned of his trade** [20:03](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1203s)
+
+Walker Kessler: "I got a call from my Utah GM, **Austin Ainge**, and as I was walking away, they all started cheering and like, yeah. And so when I walked away, I knew that I'd gotten traded. And they were excited, I was excited, man, you know, excited for the new opportunity. And again, man, like it's the Lakers, you know, it's arguably the biggest name in all of sports, you know, internationally."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1203s
+
+**6. Flea — "It drives me up a wall when you guys are up by 20, 30 and it doesn't take the starters out." — Flea on the frustration of starters playing in blowouts** [25:03](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1503s)
+
+Flea: "It drives me up a wall when you guys are up by 20, 30 and it doesn't take the starters out. Like it's the same thing and I was screaming at the TV the other night, and then Luka hurt his ankle and I was like, this motherfucker, he came out."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1503s
+
+**7. Van Lathan — "People don't talk about the mental toll that being a professional athlete that it takes on you." — Van Lathan on the mental toll of being a professional athlete** [26:24](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1584s)
+
+Van Lathan: "I think people don't talk about the mental toll that being a professional athlete that it takes on you. Has that been different for you, playing for the Lakers, because there's just so much more spotlight? It is a job that comes with an intense amount of scrutiny, both professionally and personally. It is hell on your body. Now, do you get to make it rain in KOD? Yes, you do. But like, it just would be such an intense job to have if you did not love it."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1584s
+
+**8. Walker Kessler — "I do a pretty good job of staying away from all the media stuff." — Walker Kessler on his approach to media and scrutiny** [27:06](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1626s)
+
+Walker Kessler: "I do a pretty good job of staying away from all the media stuff. I'm not really active on any of that stuff, but I don't know, man. Like a lot of people say like, oh, with the Lakers now it's a lot more pressure, you know, but for me, I've always looked at it as like, yeah, you can look at it as pressure, but like I look at it as like, wow, like what an opportunity, you know, to play for like this franchise and like again, like historic, you know, especially as like the big man for the Lakers."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1626s
+
+**9. Flea — "With a producer, you just want someone who's honest and who doesn't have an angle or an agenda." — Flea on the qualities of a great music producer** [27:52](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1672s)
+
+Flea: "With a producer, you just want someone who's honest and who doesn't have an angle or an agenda, anything beyond just wanting it to be as good as it can be. And also wanting to get the best out of each particular player, you know, like seeing what's great about them and helping it, helping release that. You don't want to like force a guy into a role that's just not their thing."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1672s
+
+**10. Walker Kessler — "There's a lot of stuff that's a lot like, I grew up playing against guards, whenever I played ones." — Walker Kessler on the balance of instinct and training** [28:30](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1710s)
+
+Walker Kessler: "There's a lot of stuff that's a lot like, I grew up playing against guards, whenever I played ones. So all of my like ability to like, because I kind of box shots with both hands, is like because those guys were so crafty with their finishes. I could, it wasn't just like go get it, it was like track the ball, watch the ball, go right with both hands, get ready to like, you know, swat with either hand."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=1710s
+
+**11. Flea — "all of those songs just kind of one body of work to me" — Flea on the creative process behind Red Hot Chili Peppers' albums** [1:00:58](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=3658s)
+
+**Flea:** "It's really hard for me to say because I don't really look at it in terms of songs, it's more like eras. When you guys mention Other Side and Scar Tissue, those are both on the same record, those are on the Californication record. I just remember that period of time, we were in my garage, I lived in Los Feliz, and we got in my garage five days a week, and we were really on a good roll. Our guitar player had quit, he came back, we were really excited to have him back, and we were just sitting there every day, just playing, feeling good. I remember the smell of the room, and all of those songs just kind of one body of work to me, and they're all like prisms of this rainbow of a period of creativity."
+
+**Tommy Alter:** "That's the signature song, that's the biggest one."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=3658s
+
+**12. Flea — "being in a band is like being in a four-way marriage" — Flea compares being in a band to a four-way marriage** [1:01:51](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=3711s)
+
+Flea: "Being in a band is like being in a four-way marriage. The honeymoon period is great, you're with somebody and it's all beautiful, and sex is great. Then it comes to day-to-day dealing with shit and everyone's foibles and the things that piss you off. When you're in a band with someone for 45 years, like I have been, you go through ups and downs, but those periods when you can all be together and feel connected, and feel like it's not like I wrote this or I wrote that, but it's just working together for a common cause, it's a real beautiful time."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=3711s
+
+**13. Tommy Alter — "I became a Laker fan around the same time that I became a Chili Peppers fan" — Flea reveals he became a Lakers fan and Chili Peppers fan simultaneously** [1:03:26](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=3806s)
+
+**Tommy Alter:** "When you moved to LA, did you move for the Lakers?"
+
+**Flea:** "I became a Laker fan around the same time that I became a Chili Peppers fan. We moved to LA in 1990. The first pro basketball game I ever saw was **Magic Johnson**, Lakers versus Spurs. It would be like kissing Halle Berry. It was a young **David Robinson**, he had an off game, but it was a young **David Robinson**. If a Laker game is your first game, it is kind of different. If you go to a game and you're in San Antonio, the general manager of the Walmart is courtside, and the oil guys or whatever. But you went to the Lakers game in 1990, and it was Arsenio Hall is there, Jack Nicholson was there, and these people, you're at the Forum and you're looking, and **Magic Johnson** is on the court. That's sexy basketball. That's a real legitimate cultural entity playing basketball, and you will never be the same."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=3806s
+
+**14. Walker Kessler — "there's definitely a mental edge where you just have that self-belief and almost like chip on your shoulder" — Walker Kessler on the mental edge and self-belief required for NBA success** [1:06:46](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=4006s)
+
+Walker Kessler: "There's definitely a mental edge where you just have that self-belief and almost like chip on your shoulder. For me, I'm a very competitive person. It can be shoots and ladders, it can be basketball, it can be, if we had a base, I'd try to outplay you in base, and it wouldn't go well for me. I'm going to do anything I can to make myself in the best opportunity to win this game. Going into a game and feeling confident in the work and the preparation you've done before, you carry yourself with a certain, I don't know if it's swagger, because I wouldn't say I'm the swaggiest guy, but it's just a chip on your shoulder like I've done this. I know I can do this, I've done this before, I trust in my work, I trust in my preparation, and I don't care what you've done or who you are, I'm going to win this game."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=4006s
+
+**15. Walker Kessler — "at the end of the day, these guys just want to win" — Walker Kessler on the Lakers' team-first mentality and defensive commitment** [1:07:33](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=4053s)
+
+Walker Kessler: "At the end of the day, these guys just want to win. No one's really chasing individual stats right now. Again, Luka scoring 40 helps, or averaging 40, but even the way he's playing, he's not just trying to chase 40 points. He's dishing the ball out, he's playing defense. People say he's not a good defender, that brother is a better defender than a lot of people think. He's getting in the passing lanes, he's a good help-side defender, he's very, very smart. And I would say like in general, and something I didn't know would be good and it's been great is the perimeter D period. Everyone out there, Matisse, Zaire, and Quentin, and you know, everyone's playing defense in a way that like the Lakers have, we had pretty good perimeter D, we had **Alex Caruso** and **Caldwell-Pope**. It was, but it hasn't been that good since, and it's really great right now. I see everyone helping out."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=4053s
+
+**16. Walker Kessler — "having an accountability is such an important thing" — Walker Kessler on the importance of accountability and team culture** [1:08:26](https://www.youtube.com/watch?v=wtpqPwRvC8A&t=4106s)
+
+Walker Kessler: "Having an accountability is such an important thing as far as, because it's it's really easy to have high spirits when things are going well. You know, when you're winning games, not really making mistakes, like everyone's good, everyone's getting theirs, like it's all good, everyone's getting theirs, like it's all good. But responding to adversity, responding to like a team's run, or like, because at the end of the day, like regardless of how good your team is, like you're still going against the best basketball players in the world. So it doesn't matter who you're playing every night. Like there's NBA players. Like it doesn't really matter. You will be cooked. You can't, like if you go out there and go like half-assed it, like you're going to get, you're going to get blown out. Like that's just part of it. And so like you have to understand that and like understand that you have to hold each other to a certain level of expectation. Like one of the coaches on our team, his name is Greg, **Greg St. Jean**. He says like, don't accept in victory what you wouldn't in defeat."
+
+https://www.youtube.com/watch?v=wtpqPwRvC8A&t=4106s
