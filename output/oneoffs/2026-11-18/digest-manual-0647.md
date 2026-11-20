@@ -1,0 +1,121 @@
+# HoopsHype YT Quotes — 2026-11-18
+
+## Talking Knicks' back-to-back wins in Toronto with Justin Termine | The Putback with Ian Begley — *SNY*
+
+Source: https://www.youtube.com/watch?v=OwjFXXpk-Lc
+
+_Speakers identified: Ian Begley, Justin Termine, Rob Dillingham, Matthew Spendley_
+
+**1. Justin Termine — "Nobody can shoot the ball here early on in the season." — Justin Termine on the Knicks' early season offensive struggles** [02:11](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=131s)
+
+Justin Termine: "The offense has not been the same. Nobody can shoot the ball here early on in the season. You have three of the major guys under 40 percent right now with **Mikal Bridges**, who it is nice to see him get a little confidence the last two games defensively in the overtime win over Toronto last night. He gives you the 17 points, seven of 11, hit a big three late, so hopefully that gets him going. **Josh Hart** has not got going yet. They have to put him on the bench the last couple of games, so he has not been shooting the ball well. And **OG Anunoby** is under 40 percent for the season, at least heading into last night. And then **Jalen Brunson** has been around 43 percent. Even though Brunson continues to hit big shots, really the only guys a part of the regular rotation that have upped it and shot better this year are **Karl-Anthony Towns**, probably not taking enough shots, and he has been one of the better players in the league so far, and then **Landry Shamet**, who has stepped up and played a huge role."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=131s
+
+**2. Justin Termine — "He is leading the league right now in rebounding. He is rebounding the ball well." — Justin Termine on why Karl-Anthony Towns deserves MVP consideration** [05:32](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=332s)
+
+Justin Termine: "I do not know if he would get MVP votes because you have to go Luka, Wembanyama, probably **Jayson Tatum**, **Cade Cunningham**. After that, maybe we could finagle a vote or two. **Stephen Curry** would have been up there if he was not hurt, but he has been absolutely spectacular so far, **Karl-Anthony Towns**. He is shooting the ball efficiently when they run the offense through him. Last night, I think he had the eight assists. He is leading the league right now in rebounding. He is rebounding the ball well. And that is a part people get on his defense. He was great defensively last year in the postseason, and also rebounding is a part of defense because you are ending a possession. He has got to get credit for that. So he is rebounding the ball well, he is, I think, leading the NBA as of last night in true shooting percentage, so he has been efficient."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=332s
+
+**3. Justin Termine — "You have to pay him right now and then if it is proven you cannot win, you could offload him." — Justin Termine argues the Knicks should pay Karl-Anthony Towns now** [08:04](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=484s)
+
+Justin Termine: "What Boston did, and that is where I am, is they paid **Jalen Brunson** before they even won, and then they decided, all right, we are going to pay him because we have to, or else we cannot win. And then afterwards, down the road, once it was proven, hey, this has run its course, we cannot win anymore like this, we have been eliminated in the second round, in the first round, then we offload the contract. And they gave **Jalen Brunson** 300 plus million dollars, and I think **Karl-Anthony Towns** is a better player. I think what you need to do is pay him right now and then if it is proven like in the next couple of years you cannot win, you could offload him, even if not return is awesome, which I think a lot of people think the return for **Jalen Brunson** was not awesome or as good as it could have been. So that is what I think you need to do right now with **Karl-Anthony Towns**."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=484s
+
+**4. Justin Termine — "I do not think you can trade your second best player." — Justin Termine on why the Knicks shouldn't trade OG Anunoby** [10:37](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=637s)
+
+Justin Termine: "I do not think you can trade your second best player, and I think **OG Anunoby**, you know, had a case for that throughout the playoffs last year as the second best player. But I do not think you can make a, you know, you can blow it up and not give the opportunity to repeat, right? I think the last time that we saw that was 2011 where Dallas lets go of some guys because they wanted to reboot and go out and get **Dwight Howard** and **Darren Williams**, and then they were just never the same. And with **OG Anunoby**, it is like a lot to ask him to sacrifice the money and his touches and his role. Right with Brunson, you are asking him just to sacrifice his money, right, initially, and I am sure they are going to pay him on the next contract. But he is sacrificing one thing. He is just sacrificing his money. **OG Anunoby** is sacrificing his money and his role."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=637s
+
+**5. Justin Termine — "You do not go full in and bench him because you are going to need him in order to win the championship." — Justin Termine on Mikal Bridges' slow start and why he shouldn't be benched** [12:39](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=759s)
+
+Justin Termine: "The question popped up at the outset was, what do you do? Do you bench him? And **Mike Brown** took some of his minutes, but you do not go full in and bench him because you are going to need him in order to win the championship. So like, all right, maybe he is not playing well right now, but you stick with it, you deal with maybe some regular season losses just to keep his confidence up, because the the weird part is how slow he started off. You would think like he would head into this season with a ton of confidence, all of these guys, but he was averaging 15 points per game on almost 60 percent shooting the last 14 or 15 playoff games after he got hot in game six against Atlanta, and he used that that blowout where he went off to kind of turn himself into a really big, not just defensive piece, but offensive piece."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=759s
+
+**6. Justin Termine — "I feel like OG Anunoby was just as good last year at times as Jalen Brunson was." — Justin Termine on OG Anunoby's role and potential** [15:42](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=942s)
+
+Justin Termine: "I feel like **OG Anunoby** was just as good last year at times as **Jalen Brunson** was when he won Eastern Conference Finals MVP and Finals MVP a couple of years ago and won the championship and probably more accepting of his role as well, because I think he could play a bigger role. I mean, he could be asking for more shots per game and he kind of just fits into the offense. He is a far better defensive player than **Jalen Brunson** as well, and you are like kind of asking him to be your number three, right? If Brunson is your number one and Karl-Anthony Towns is your number two, you are asking him to be your number three, and Boston won a championship with **Jalen Brunson** as their number two."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=942s
+
+**7. Justin Termine — "I had them as the six seed in the Western Conference. For them to be the one seed and to be this dominant is a little bit surprising." — Justin Termine on the surprising success of the Lakers and Grizzlies** [19:03](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=1143s)
+
+Justin Termine: "Philadelphia I thought would not be this good this early. I would have thought maybe they could be this in March, April, May, but the fact that they have come together this early is a little bit scary. And then I would also say that what the Lakers are doing, I mean, even **Austin Reaves** misses a couple of games, I had them as the six seed in the Western Conference. For them to be the one seed and to be this dominant is a little bit surprising. **JJ Redick** has to be in the conversation for Coach of the Year. Those are two teams that I thought would be good anyway, just was not sure it would be this soon. And then the the one team I think that has surprised everybody that I did not even have in my top 10 in the Western Conference is Memphis. And you know, you got to look at them and what **Ty Jerome** has done, what **Buzer** has done right out of the gate, they are top five I think in both offense and defense, and now they can run the system that they want because they have younger players and not have to worry about **Ja Morant** and and **Jaren Jackson Jr.**, **Desmond Bane**, who I know they did not have last year, but they are kind of running that offense where they move the ball a lot, they got the quick like hockey rotations."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=1143s
+
+**8. Justin Termine — "I think Shamet in a lot of these situations might just be the guy that he believes in to close." — Justin Termine on Landry Shamet's role in the Knicks' rotation** [27:11](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=1631s)
+
+Justin Termine: "I think it is easy to point to the way that KAT has played, but he is an all NBA player. He has been an all star. We know he is a great player. I think mine is just kind of his **Landry Shamet** just part of the closing five now. Is he going to continue to close games? He can continue to be someone that is relied upon in crunch time. We are talking last year when he had a little bit of a lesser role, that has just continued to grow. He is clearly thrived. That has kind of been my biggest takeaway, that Shamet I think in a lot of these situations might just be the guy that he believes in to close and be part of that closing five. So we will keep an eye on that. But Ian, those are those are the questions we got from our lovely audience today."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=1631s
+
+**9. Rob Dillingham — "I am really just focused on actually doing the stuff myself and getting better at the things." — Rob Dillingham on his focus and growth with the Westchester Knicks** [37:29](https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=2249s)
+
+Rob Dillingham: "I really I am not really trying to show too much of anything to anyone or prove anyone. I feel like it is more of a internal and just showing myself that I can play basketball at the highest level, fit in any situation and help. So, uh, not really in details, but like overall aspect of what I feel like I could do better. I am really just focused on actually doing the stuff myself and getting better at the things so when I do get opportunity or I am actually ready and I am improved."
+
+https://www.youtube.com/watch?v=OwjFXXpk-Lc&t=2249s
+
+---
+
+## I Met My Favorite NBA Player! (Damian Lillard) — *Madeitnate*
+
+Source: https://www.youtube.com/watch?v=8xdR-IIfY8A
+
+_Speakers identified: Nate, Alex, Jared McCain, Micah Peavy, Chet Holmgren, Matt, Kenzo, Alina, Damian Lillard_
+
+**1. Nate — "I don't trust you to be driving. We're Ubering." — Jared McCain expresses safety concerns about Nate's driving** [00:55](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=55s)
+
+**Jared McCain:** "I don't trust you to be driving. We're Ubering."
+
+**Nate:** "You don't want to rock with me? We thought you wanted to be in the ride."
+
+**Jared McCain:** "No, we are Ubering."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=55s
+
+**2. Chet Holmgren — "Stuff your little body in a suitcase and you can go on the team plane." — Chet Holmgren jokes about Nate joining the team plane** [03:15](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=195s)
+
+**Chet Holmgren:** "Stuff your little body in a suitcase and you can go on the team plane."
+
+**Nate:** "What I think you guys should do is just sign me to a 10-day and then I can actually be on a team plane."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=195s
+
+**3. Nate — "This season I'm trying to average at least five and two rebounds." — Nate sets performance goals for his second season** [06:06](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=366s)
+
+Nate: "This is season two. Last year this was our rookie year. This season I'm trying to average at least five and two rebounds. Last year we averaged zero, we're trying to average two rebounds."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=366s
+
+**4. Nate — "I have the number one defense in the league last year." — Nate claims to have the number one defense in the league** [06:23](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=383s)
+
+Nate: "I have the number one defense in the league last year. Nate's defense is on the uprise."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=383s
+
+**5. Nate — "I finally met Damian Lillard, the goat." — Nate reflects on meeting his favorite player Damian Lillard** [07:37](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=457s)
+
+Nate: "I finally met **Damian Lillard**, the goat. You guys are about to see the clip of when I met Dame, but I just want to explain how everything kind of happened. This wasn't planned. A lot of people when I posted this picture, everybody thought that this meet-up was planned."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=457s
+
+**6. Nate — "Dame, he's my favorite player since I was like fifth grade." — Nate explains his long-term fandom of Damian Lillard** [08:00](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=480s)
+
+Nate: "For the people that don't know, Dame, he's my favorite player since I was like fifth grade, something like that. I think I've had this since like freshman year of high school. Going to Portland, I had no idea there was even a chance or had a dot meeting Dame would even be possible."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=480s
+
+**7. Nate — "I'm going to have to give it to Dame." — Nate compares the aura of Shai Gilgeous-Alexander and Damian Lillard** [09:03](https://www.youtube.com/watch?v=8xdR-IIfY8A&t=543s)
+
+Nate: "I know a lot of you guys are going to ask this, who has more aura, Shai or Dame? I'm going to have to give it to Dame. Dame, his aura, it was just different."
+
+https://www.youtube.com/watch?v=8xdR-IIfY8A&t=543s
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
