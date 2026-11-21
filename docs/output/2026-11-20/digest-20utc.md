@@ -1,172 +1,264 @@
 # HoopsHype YT Quotes — 2026-11-20
 
-## Fred VanVleet Gives 12–4 Rockets a B- And Shares What It Takes To Defend Luka Doncic — *Road Trippin*
+## Iman Talks NBA CUP Action TONIGHT Friday 11/20 — *Shump Street*
 
-Source: https://www.youtube.com/watch?v=9IjxTrM-8g4
+Source: https://www.youtube.com/watch?v=Xs04pooSmp8
 
-_Speakers identified: Allie Clifton, Richard Jefferson, Kendrick Perkins, Channing Frye_
+_Speakers identified: Iman Shumpert, Arhii Shumpert_
 
-**1. Richard Jefferson — "When you go to a prestigious basketball academy like Arizona, we did what we were supposed to do." — Richard Jefferson defends Arizona's performance against top-tier basketball competition** [01:13](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=73s)
+**1. Iman Shumpert — "The Hawks is going to struggle a lot less. And they're in Atlanta, so" — Iman Shumpert and Arhii Shumpert discuss the struggling Hawks and Hornets** [00:26](https://www.youtube.com/watch?v=Xs04pooSmp8&t=26s)
 
-Richard Jefferson: "When you go to a prestigious basketball academy like Arizona, we did what we were supposed to do. You held home court against another top-10, top-12 team in the country. That's expected. I'm not calling the guys being like, 'Big win guys, man, big win.' I'm like, you did what you were supposed to do. You held home court against another top-10, top-12 team in the country. That's expected. I'm not calling the guys being like, 'Big win guys, man, big win.' I'm like, you did what you were supposed to do."
+**Iman Shumpert:** "Hornets, Hawks, give me the Hawks."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=73s
+**Arhii Shumpert:** "They both struggling right now."
 
-**2. Channing Frye — "He hit me with one of those his very first training camp. He's hard to guard." — Channing Frye discusses the difficulty of guarding Amen Thompson** [03:27](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=207s)
+**Iman Shumpert:** "Yeah, that's cool. The Hawks is going to struggle a lot less. And they're in Atlanta, so"
 
-Channing Frye: "He hit me with one of those his very first training camp coming out of OTE. It was like the first day of training camp he hit me with one of those crossovers, so I definitely seen it up close and personal. Just hard to guard, moving very fast, and explosive and quick. Trying to sit in front of that and guard that is not a great place to be."
+**Arhii Shumpert:** "That always saves y'all, boy. Like, yeah, we in Atlanta, we at home."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=207s
+**Iman Shumpert:** "I don't think that makes a difference."
 
-**3. Richard Jefferson — "I don't move my feet fast enough. I'm like a heavy-footed guy." — Richard Jefferson reflects on his own playing style and athleticism** [04:15](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=255s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=26s
 
-Richard Jefferson: "I don't move my feet fast enough. I'm like a heavy-footed guy. I'm so glad that there's no footage of me like getting crossed up and falling, touching earth. There's no footage. Why? Because I was a feet-set person and then I would use the body. I would go to the body. That's it. I'm not trying to dance with you."
+**2. Iman Shumpert — "Until the Raptors get this guy back, it's slow motion for me." — Iman Shumpert on the Raptors' struggles without a key player** [00:49](https://www.youtube.com/watch?v=Xs04pooSmp8&t=49s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=255s
+Iman Shumpert: "Raptors, Pistons, I think that until the Raptors get this guy back, it's slow motion for me. Slow motion for me. Slow motion for me. Yeah, y'all in for a long haul over there until that man get back."
 
-**4. Channing Frye — "He is a prototypical in my world of like a true power forward." — Channing Frye praises Alperen Sengun's development as a power forward** [05:41](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=341s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=49s
 
-Channing Frye: "**Alperen Sengun** has been awesome this year, right? And does he know that I call him the Big Senguini? I hope he does. Anyway, he is a prototypical in my world of like a true power forward. I feel like we're getting a lot more of those guys, but he doesn't really have just one position, but he's physical, he plays, he plays both face in the basket, back to the basket, taking advantage of mismatches. He's been running the floor this year, really getting out."
+**3. Iman Shumpert — "Cade has found a groove ever since we got on his ass." — Iman Shumpert on Cade Cunningham's recent performance and growth** [01:00](https://www.youtube.com/watch?v=Xs04pooSmp8&t=60s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=341s
+Iman Shumpert: "Cade has found a groove ever since we got on his ass. He must be a fan of the show because we got on his ass, didn't understand what was going on. We got on **Trae Young**'s ass too, but he did not write the ship. We will get to that in a second."
 
-**5. Channing Frye — "Fred doesn't need to do a lot for y'all to win. He needs to do enough." — Channing Frye explains Fred VanVleet's impact on team success** [12:01](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=721s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=60s
 
-Channing Frye: "From our point of view and to the casual fan, you got to look at how Fred plays. Fred doesn't need to do a lot for y'all to win. He needs to do enough to make sure that people are happy and as he's scaling and staying healthy. Because Houston can be dangerous if everyone understands their role and accepts it and knows that they're leaders, whether that's defensive leader, offensive leader, whatever, emotional, is going to do the right play all the time. It's just after playing with **Steve Nash** and **LeBron James** and those kind of guys, **Brandon Roy**, they just make the right play when it's necessary."
+**4. Iman Shumpert — "The Cavs have made a conscious effort to tell James Harden to score the ball." — Iman Shumpert on the Cavaliers' improved play and James Harden's role** [01:20](https://www.youtube.com/watch?v=Xs04pooSmp8&t=80s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=721s
+Iman Shumpert: "The Cavs have made a conscious effort to tell **James Harden** to score the ball. I'm going to take the Cavs in this. Though I don't think they're playing up to their standard or their level that they should be playing, they are playing better than they were playing. They had that three-game stint where I was like, this is nasty."
 
-**6. Channing Frye — "Sometimes it's not as complicated as like having everybody needs to be getting along." — Channing Frye argues that team chemistry is more important than constant meetings** [14:10](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=850s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=80s
 
-Channing Frye: "Sometimes it's not as complicated as like having everybody needs to be getting along and everybody has to just all these kumbaya meetings and all this. Like some teams just work. Some teams just that has the right mix and the right match and we got our scores and we got K and we got Sengun and those are our main guys and everybody else going to play off of them."
+**5. Iman Shumpert — "Their Red Bull does not give them wings, and you're going to need that against the Thunder." — Iman Shumpert on the Pelicans' lack of wing depth** [02:25](https://www.youtube.com/watch?v=Xs04pooSmp8&t=145s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=850s
+Iman Shumpert: "Pelicans, Thunder. Again, the Pelicans, their Red Bull does not give them wings, and you're going to need that against the Thunder because it will not be clear skies."
 
-**7. Richard Jefferson — "Yeah, Halo 2 for me. That's how old I am." — Richard Jefferson shares his experience playing Halo 2** [20:08](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1208s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=145s
 
-Richard Jefferson: "Yeah, Halo 2 for me. That's how old I am. Halo, Halo 2, let me tell you this. Halo is the greatest first-person shooter game of all time."
+**6. Iman Shumpert — "I'm going to take the Bulls. I don't know what their favorite, I'm sure the Wizards are probably going to be favored." — Iman Shumpert on the Bulls' matchup against the Wizards** [02:36](https://www.youtube.com/watch?v=Xs04pooSmp8&t=156s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1208s
+Iman Shumpert: "I'm going to take the Bulls. I don't know what their favorite, I'm sure the Wizards are probably going to be favored in the spread, but I think the Bulls is a nice win. **Anthony Davis**, he's going to be a little more turnt."
 
-**8. Richard Jefferson — "I played it for 8 to 12 hours multiple times." — Richard Jefferson details his intense dedication to Halo 2** [20:26](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1226s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=156s
 
-Richard Jefferson: "Scuba Steve. You guys might know him as **Steve Senior**. He is the assistant GM for the Minnesota Timberwolves. Him and I go back like four flats on a Cadillac. We were playing in Philly the night that it came out. He picked me up from Philly so I didn't have so after the game, I got in a car in Philly and drove. He wasn't even in the he wasn't even associated with the league or the Nets, but he drove to Philly to pick me up. So as soon as the game ended, I showered, I was still probably sweating, talked to the media on my way out, I got in the car, we drove straight back to my apartment and we played it for 8 to 12 straight hours. Like that's how quickly I was trying to oh, multiple times. I played it for 8 to 12 hours multiple times. I didn't have Wi-Fi setup at my house because I just bought my New York apartment. So Wi-Fi wasn't finished setting up into my house. So I went over to my friend's house. He left to go to work, so I showed up in the morning, he left to go to work. After work, he like went to the gym, did some other things, and came back and I was still in the exact same spot. Had Domino's pizza, Mountain Dew. I'm that's how locked in I was."
+**7. Iman Shumpert — "Give me the Rockets. The Nuggets still haven't figured it out." — Iman Shumpert on the Rockets' potential against the Nuggets** [03:04](https://www.youtube.com/watch?v=Xs04pooSmp8&t=184s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1226s
+Iman Shumpert: "Give me the Rockets. The Nuggets still haven't figured it out."
 
-**9. Channing Frye — "World of Warcraft was kind of our thing, like even on the Knicks." — Channing Frye recalls playing World of Warcraft with teammates** [22:08](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1328s)
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=184s
 
-Channing Frye: "World of Warcraft was kind of our thing, like even on the Knicks. We had like land parties, so it was like seven of us in one room playing. And obviously **Malik Rose** came from San Antonio where **Tim Duncan** and **David Robinson** were huge on it, and then they got **Eddie Curry** on it, and then they got all these other guys. But that was about it. Obviously Halo, any GTA, I don't know what it is about that game that everyone loves it."
+**8. Iman Shumpert — "It's about time to get up off of Jamal Murray. It's about time, or you going to have to get rid of Jokic." — Iman Shumpert and Arhii Shumpert discuss Nikola Jokic's future in Denver** [03:11](https://www.youtube.com/watch?v=Xs04pooSmp8&t=191s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1328s
+**Iman Shumpert:** "It's about time to get up off of **Jamal Murray**. It's about time, or you going to have to get rid of Jokic."
 
-**10. Richard Jefferson — "I played a quick 82. So just so everybody knows, I played all 82 games." — Richard Jefferson discusses his time with the Utah Jazz** [24:12](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1452s)
+**Arhii Shumpert:** "What's crazy is, I was just about to say, Jokic might be your best bet."
 
-Richard Jefferson: "I played a quick 82. So just so everybody knows, I played all 82 games and I started 78 of them. We were trash, but we were trash, but mind you, this was year 13. I was coming off multiple injuries, so my whole thing is I wanted to play all 82 and I played I started in 78 of them, played all 82, caught a couple of bodies, like, and that is what got me to Dallas, which ended up getting me to Cleveland."
+**Iman Shumpert:** "Jokic gets you a brand new team in return."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1452s
+**Arhii Shumpert:** "I was just about to say, Jokic might be your best bet. And I don't know, look at that. That's the thing, it's fine for you because you don't give a shit. But if I was in Denver, like he gave y'all a championship."
 
-**11. Channing Frye — "I'm usually like a 12 and 5 guy, so I'm just going to stick to that." — Channing Frye reflects on his 12-5 season stat line** [26:24](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1584s)
+**Iman Shumpert:** "He gave y'all everything y'all asked for. More, more than that, especially for Denver."
 
-Channing Frye: "I'm usually like a 12 and 5 guy, so I'm just going to stick to that. Was I 12 and 5? You were 11.1, 1.2 assists, 5 rebounds on 43% from the field. So that's all threes, we good."
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=191s
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1584s
+**9. Iman Shumpert — "They was supposed to draft Luka. I'm a bet big on the boy." — Iman Shumpert on the Kings-Lakers matchup and Luka Doncic** [05:03](https://www.youtube.com/watch?v=Xs04pooSmp8&t=303s)
 
-**12. Richard Jefferson — "Nikola Pekovic was the strongest human being I have ever encountered in the history of basketball." — Richard Jefferson discusses Nikola Pekovic's physical strength** [27:26](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1646s)
+Iman Shumpert: "Kings, Lakers, you know, they was supposed to draft Luka. I'm a bet big on the boy. He like putting a foot in their ass."
 
-Richard Jefferson: "**Nikola Pekovic** was the strongest human being I have ever encountered in the history of basketball. He had no business playing basketball. That dude was lifting up cars instead of weights in the weight room."
+https://www.youtube.com/watch?v=Xs04pooSmp8&t=303s
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1646s
+---
 
-**13. Richard Jefferson — "I shot a lot of threes that year, so 45% from the field as an old as an old." — Richard Jefferson explains why he shot 45% from the field** [28:48](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1728s)
+## Lionel Hollins | Playing with Julius Erving, Coaching Tony & Zach, Addressing Deron Williams Slander — *Out The Mud*
 
-Richard Jefferson: "I shot a lot of threes that year, so 45% from the field as an old as an old. For you is bad because you were shooting layups. No, it was horrible. Very, very horrible. It was horrible from what I for what I was."
+Source: https://www.youtube.com/watch?v=h3rW0xcUBF8
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1728s
+_Speakers identified: Tony Allen, Zach Randolph, Lionel Hollins_
 
-**14. Kendrick Perkins — "I was on the team that lost 18 straight." — Kendrick Perkins reflects on his time with the Boston Celtics** [29:13](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1753s)
+**1. Lionel Hollins — "When you're poor, you got to work. And my grandmother said, I don't care nothing about no baseball." — Lionel Hollins on his early life and path to basketball** [01:56](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=116s)
 
-Kendrick Perkins: "Listen, I didn't have my rough times, dog. I was on the team that lost 18 straight."
+**Zach Randolph:** "You were born in Arkansas, City, Kansas, but you moved to Las Vegas early on in your age?"
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1753s
+**Lionel Hollins:** "Four months old. I never lived in Kansas. I never lived. Okay. Yeah, so you're a Vegas, you're a Nevada baby for sure. For sure. And spent a little bit of time in Oakland, California, and also down in Compton, but not long."
 
-**15. Richard Jefferson — "That was a Derek Rose? Nope. LeBron? Nope." — Richard Jefferson identifies the 2013-2014 NBA MVP** [30:02](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1802s)
+**Tony Allen:** "What made your family relocate to the West Coast?"
 
-Richard Jefferson: "That was a Derek Rose? Nope. LeBron? Nope. He was your teammate though, Perk. KD. No. Those are your Russell Westbrook. KD."
+**Lionel Hollins:** "Well, everybody moved for jobs. People were doing that. They were moving from the South, moving from the Midwest, trying to find a consistent work. And so that was the real reason. And so we settled on Vegas, and I'm glad we did because I can't imagine living in Kansas, you know, in a city that didn't have as many people that was in my high school."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1802s
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=116s
 
-**16. Richard Jefferson — "The Spurs over the Heat. And Kawhi Leonard?" — Richard Jefferson discusses the 2013-2014 NBA Finals** [30:30](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1830s)
+**2. Lionel Hollins — "When you're poor, you got to work. And my grandmother said, I don't care nothing about no baseball." — Lionel Hollins on why he stopped playing baseball** [03:03](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=183s)
 
-Richard Jefferson: "The Spurs over the Heat. And **Kawhi Leonard**? It was it was either it was either the year was they beat them, yeah, 4-1. Yeah, that was a gentleman's sweep after they after they blew the year before."
+**Lionel Hollins:** "In fact, I had dinner two years ago with my baseball coach who's 92 years old, and he still is upset that I quit playing baseball because he had a whole bunch of scouts from the major leagues looking at me. And the problem was when you're poor, you got to work. And my grandmother said, I don't care nothing about no baseball. You got to go get a job to help pay some of these bills. That ended baseball."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1830s
+**Tony Allen:** "And then I started growing and basketball became the dominant sport."
 
-**17. Richard Jefferson — "Michael Carter-Williams." — Richard Jefferson identifies Michael Carter-Williams as the 2013-2014 Rookie of the Year** [31:11](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1871s)
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=183s
 
-Richard Jefferson: "**Michael Carter-Williams**. Yes, I said **Michael Carter-Williams**."
+**3. Lionel Hollins — "He says, do you want to lead the state in scoring or do you want to win a championship?" — Lionel Hollins on his coaching philosophy and team ego** [05:11](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=311s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1871s
+**Lionel Hollins:** "He says, do you want to lead the state in scoring or do you want to win a championship? I said, I want to win a championship. He said, well, your teammates there, they've never been behind you, they've always been ahead of you, and they're not going to be behind you now because this is their ego. And so he says, you got to share the ball with them and you'll win more."
 
-**18. Richard Jefferson — "The 76ers lost how many in a row that season? It was an NBA record. 26 straight." — Richard Jefferson discusses the 76ers' 26-game losing streak** [31:27](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1887s)
+**Tony Allen:** "And we did."
 
-Richard Jefferson: "The 76ers lost how many in a row that season? It was an NBA record. 26 straight."
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=311s
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1887s
+**4. Lionel Hollins — "I was going to buy me a van, I was going to get a job at one of the hotels." — Lionel Hollins on his early plan to escape Las Vegas** [06:11](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=371s)
 
-**19. Richard Jefferson — "Jamal Crawford, Sixth Man. Jamal Crawford, Sixth Man, yep." — Richard Jefferson identifies Jamal Crawford as the 2013-2014 Sixth Man of the Year** [32:24](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1944s)
+**Lionel Hollins:** "School wasn't for me. I was just going to get a job. But I also had a plan of how I was going to get out of Las Vegas. I was going to buy me a van, I was going to get a job at one of the hotels, either washing dishes or busting tables. That's all they allowed you to do back then. And I was going to live in my van and save all my money, and then I was going to get up and be a ghost."
 
-Richard Jefferson: "**Jamal Crawford**, Sixth Man. **Jamal Crawford**, Sixth Man, yep."
+**Zach Randolph:** "But my high school coach says there's a school up the road in St. George, Utah, two hours away. Coach wants to give you a full ride."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=1944s
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=371s
 
-**20. Channing Frye — "The teams that are going to be there at the end are the teams that defend." — Channing Frye discusses the evolution of NBA team defense** [33:25](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=2005s)
+**5. Lionel Hollins — "Everybody that don't look like you don't dislike you. There's some people that don't look like you going to like you more." — Lionel Hollins on overcoming adversity and changing his mindset** [07:50](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=470s)
 
-Channing Frye: "The teams that are going to be there at the end are the teams that defend. We all know that. So if the teams want to do all the cute stuff, but how about this, Perk? Can we switch us? Tell me something that you are liking about today's game. Like when I say like what you're seeing this season, what are you liking as a whole in this league? I I get it's not just us and you, it's sometimes we get tired of the, you know, these are the things that we don't like. So here's an opportunity for all of us to speak on something that we've enjoyed watching, not an individual, but a stylistic version of play that we've enjoyed watching at the start of the season."
+**Lionel Hollins:** "And he says, and everybody that don't look like you don't dislike you. There's some people that don't look like you going to like you more than anybody else. And that kind of changed my truth. My mindset changed, and I learned a lot and grew a lot, and then went on to Arizona State. Things took off, and then I was a six pick in the NBA draft."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=2005s
+**Zach Randolph:** "Yeah, and that's what I want to ask coach, like, you grew up on the West Coast, but you grew back in the time, you know, racism."
 
-**21. Richard Jefferson — "I wanted to do whatever it took to be a part of the group." — Richard Jefferson on his sacrifice during his 15th season** [1:00:03](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=3603s)
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=470s
 
-Richard Jefferson: "**James Jones** was big in keeping us there, but I was at year 15, so the sacrifice for me was different. I wanted to do whatever it took to be a part of the group. Those days were long behind me. I knew what my role was, so it was also part of my job as a person that wanted to win was to help convince people of their roles."
+**6. Lionel Hollins — "My grandmother and all of them used to call Vegas little Mississippi." — Lionel Hollins on growing up in segregated Las Vegas** [09:08](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=548s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=3603s
+**Lionel Hollins:** "My grandmother and all of them used to call Vegas little Mississippi. It was racism and segregation. We had historic Black Las Vegas, a West Side. Had our own casinos, own hotels, everything, you know. And nobody Black actually went on the other side of town unless they went to work in the kitchen."
 
-**22. Richard Jefferson — "Accept that role in that place for winning. It's going to suck, but just look at me." — Grant Hill teaching Channing Frye to accept a specialized role** [01:00](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=60s)
+**Zach Randolph:** "And then when integration came, everybody wanted to go spend their money out there on the strip."
 
-Richard Jefferson: "When I got to Phoenix, **Grant Hill** was like, listen, people are going to talk shit about you. People are going to say you're this or you're that, but we're going to win. He goes, Channing, Steve is a two-time MVP, **Amar'e Stoudemire** is like a four-time All-Star. You see **Jason Richardson**, he's like a two or three-time All-Star. He goes, you standing right here and doing your job and being available to shoot and working on that creates opportunities for everyone else to play four-on-four basketball. He goes, people are going to say why isn't he posting up? Are you a better post-up guy than **Robin Lopez** or **Amar'e Stoudemire**? I go, no. He goes, are you the best three-point shooter on our team? He goes, yeah. So accept that role in that place for winning. He goes, it's going to suck, but just look at me, I'm **Grant Hill**. I run the floor. The only points I get, or if I run the floor and do that cut, you know, you used to do that football face cut, right? The little inside post route. And he goes, or I stand in the corner. He goes, Channing, it's just who I am, and my opportunities don't come very often, but I believe in the All-Stars that we have, I believe in our leaders, and this is accepting a role and you star in that role."
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=548s
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=60s
+**7. Lionel Hollins — "I had a mindset that I wasn't going to steal and I wasn't going to jail." — Lionel Hollins on his survival mindset and avoiding jail** [11:10](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=670s)
 
-**23. Richard Jefferson — "We all got to eat less, but we're all going to eat at the buffet." — Richard Jefferson convincing Channing Frye to simplify his game in Cleveland** [01:00](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=60s)
+**Lionel Hollins:** "I had a mindset that I wasn't going to steal and I wasn't going to jail. And because we had a lot of people that hung out and did that kind of stuff, and eventually I just walked away from them because I was not going to be in jail. First, I wasn't going to be handcuffed. Secondly, I wasn't going to get on the phone and say, Grandma, I'm in jail."
 
-Richard Jefferson: "When I got to Cleveland, I was like, Channing, we know you're great. I respect the shit out of Channing. Channing is very talented. But Channing compared to talent, compared to Kevin, Kyrie, **J.R. Smith**, and LeBron, you got to simplify your game so that your consistency we can rely on. And that was my attitude towards it. It's like, dude, look what Kevin is doing. Fucking Kevin, we had arguments, is Kevin the best power forward versus **Tim Duncan**? Like those are real arguments. And now Kevin is doing **Channing Frye** things to win. So brother, we all got to eat less, but we're all going to eat at the buffet at the end of it."
+**Zach Randolph:** "Oh my goodness. Ain't no way."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=60s
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=670s
 
-**24. Kendrick Perkins — "The trade that happened to get Channing and Swish wasn't for Swish. Chump was just injured." — Kendrick Perkins on the trade for Channing Frye and Richard Jefferson** [1:03:24](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=3804s)
+**8. Lionel Hollins — "I was just trying to be me, go to school, meet people, have a good time." — Lionel Hollins on his experience at Dixie State** [12:06](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=726s)
 
-Kendrick Perkins: "Let me say this, and I got to applaud y'all. I don't want to take up too much time, but I do got to get this off my chest. I got to give y'all flowers because Chump needed that. Y'all have to realize before y'all got there, I was there, and the trade that happened to get Chump and Swish wasn't for Swish. Chump was just injured, and then all of a sudden Swish stepped into a role because he was almost a throw-in into that trade and got an opportunity, and then he capitalized because he started to make shots. And then Bron wrapped his arm around him, and all of a sudden Bron taught Swish another level of professionalism. So Chump had to come in to a point of almost proving himself, right? Proving himself. So when it got to y'all year, the year that y'all won it, and I'm so fucking pissed off about that year because y'all did try to trade for me, and this fucking **Dell Demps**, who is one of the guys that I hate. No, I don't hate a lot of people, but I can't stand that motherfucker. He lied to me. He didn't trade me."
+**Lionel Hollins:** "I was just trying to be me, go to school, meet people, have a good time. Man, you can't talk to those white people over there. You can't hang with them, you know, and they don't like us and blah, blah, blah, blah, blah, right? But I wasn't getting treated that way by everybody. There was certain people that didn't like me, but most of the people were very friendly."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=3804s
+**Tony Allen:** "And so when they left, a weight went off my back because now I could grow as a person."
 
-**25. Kendrick Perkins — "Kevin Garnett set the tone from the jump, the first day of training camp in Rome." — Kevin Garnett setting the tone for the 2008 Celtics** [05:12](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=312s)
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=726s
 
-Kendrick Perkins: "**Kevin Garnett** set the tone from the jump, the first day of training camp in Rome. He came in and he said, **Doc**, before you get started, we're going to run this offense through **Paul** and **Ray**. The world knew that **Kevin Garnett** was the best player on our team. He was the best player on our team, the only player with an MVP. No, we're going to run this offense. If you need me, I'm here, I'm going to focus defensively. That set the tone early."
+**9. Lionel Hollins — "The first all-Black team, you know what they were called? The New York Niggerbockers." — Lionel Hollins on his experience with the New York Knicks** [14:00](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=840s)
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=312s
+**Lionel Hollins:** "There was a lot of strife between the best players, **Jeff Petrie** and **Sidney Wicks**, both great players. And so we, I was like, this is the NBA. And then the first thing that happened was, we in the locker room and dude pulls out a cigarette, starts smoking in the locker room. That was the climate of the locker room. And then somebody said, man, let me get a light from your smokes. Anybody, yo, you got a smoke over there for me? Right? And we got three or four guys smoking in the locker room."
 
-**26. Kendrick Perkins — "It's one thing to talk about it and have the talent, but the hardest thing is the sacrifice." — The difficulty of sacrificing individual goals for championship success** [05:12](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=312s)
+**Tony Allen:** "And I'm like, this the NBA, and then the fighting at practice all the time. And people competed hard because the salaries weren't big. And if you were the last two or three guys and you were Black, and there was two or three white guys that were there, those three Black guys were gone."
 
-Kendrick Perkins: "Outside of having the talent, the two most important things to winning a championship is health and sacrificing. If you're not going to sacrifice, you're not going to win. I went to the NBA Finals five times, I won once. And the one time that I won is because everybody lost themselves in the team. It's one thing to talk about it and have the talent, but the hardest thing in the world is the sacrifice."
+**Lionel Hollins:** "They weren't going to have an all-Black team. The first all-Black team, you know what they were called? The New York Niggerbockers."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=312s
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=840s
 
-**27. Richard Jefferson — "I'm proud of Chump because he was very combative at the time, but as he became a veteran." — Richard Jefferson on Channing Frye's growth as a veteran leader** [1:07:55](https://www.youtube.com/watch?v=9IjxTrM-8g4&t=4075s)
+**10. Lionel Hollins — "That's what everybody strives for to reach the top of your profession and be called champions." — Lionel Hollins on the importance of winning a championship** [15:18](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=918s)
 
-Richard Jefferson: "I'm proud of Chump because he was very combative at the time, but as he became a veteran and got older, he understood, and now he's echoing that message to the next generation. And I think that's the greatest thing that we can do with this platform is teach the next generation the lessons we learned, the sacrifices we made."
+**Lionel Hollins:** "What it meant to me was a lot because that's what everybody strives for to reach the top of your profession and be called champions. The thing that I learned real quick was, as soon as you won it, everybody's like, are you going to do it next year? Right? Show me state. Right, right. And then when you go through the next year and you have some stumbles during the season, everybody, oh, they can't do it, blah, blah, blah."
 
-https://www.youtube.com/watch?v=9IjxTrM-8g4&t=4075s
+**Tony Allen:** "But it it it showed you what you're made of because you got to go through a lot."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=918s
+
+**11. Lionel Hollins — "I want y'all to know I see what you're doing. I don't care, you can act any kind of way, just don't touch me." — Lionel Hollins on his coaching style with Tony Allen and Zach Randolph** [1:00:05](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3605s)
+
+Lionel Hollins: "I see what you're doing. I don't care, you can act any kind of way, just don't touch me. I want y'all to know I see what you're doing. I don't care, you can act any kind of way, just don't touch me. I see what you're doing. I don't care, you can act any kind of way, just don't touch me. I see what you're doing. I don't care, you can act any kind of way, just don't touch me. I see what you're doing. I don't care, you can act any kind of way, just don't touch me."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3605s
+
+**12. Lionel Hollins — "If you come in the league at 19 and you're the same person at 36, then you just wasted all those years." — Lionel Hollins on coaching players to be mature in the NBA** [1:00:34](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3634s)
+
+Lionel Hollins: "If you come in the league at 19 and you're the same person at 36, then you just wasted all those years. It's about growing. I always say, if you come in the league at 19 and you're the same person at 36, then you just wasted all those years. Because it's about growing."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3634s
+
+**13. Lionel Hollins — "If you come in the league at 19 and you're the same person at 36, then you just wasted all those years." — Lionel Hollins on the importance of player development in the NBA** [1:01:23](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3683s)
+
+Lionel Hollins: "If you come in the league at 19 and you're the same person at 36, then you just wasted all those years. Because it's about growing. I always say, if you come in the league at 19 and you're the same person at 36, then you just wasted all those years. Because it's about growing."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3683s
+
+**14. Lionel Hollins — "The strategy of plays and making people think is lost." — Lionel Hollins on the changing nature of NBA coaching and player roles** [1:01:33](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3693s)
+
+Lionel Hollins: "The strategy of plays and making people think is lost. I think it's easier to coach players in the general sense of basketball because you know where to stand, you know to come off the H.O., pass it up top, go screen, come back out. It's so simple, but the strategy of plays and making people think is lost."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3693s
+
+**15. Lionel Hollins — "You don't see any plays anymore except for pick and roll or a slip of a pick and roll." — Lionel Hollins on the lack of secondary options in modern NBA plays** [1:02:16](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3736s)
+
+Lionel Hollins: "You don't see any plays anymore except for pick and roll or a slip of a pick and roll. It's the way it is. I think it's easier to coach players in the general sense of basketball because you know where to stand. You know to come off the H.O., pass it up top, go screen, come back out. It's so simple, but the strategy of plays and making people think is lost."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3736s
+
+**16. Lionel Hollins — "I think it's easier to coach players in the general sense of basketball because you know where to stand." — Lionel Hollins on the challenge of coaching players in modern basketball** [1:02:43](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3763s)
+
+Lionel Hollins: "I think it's easier to coach players in the general sense of basketball because you know where to stand. You know to come off the H.O., pass it up top, go screen, come back out. It's so simple, but the strategy of plays and making people think is lost."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3763s
+
+**17. Lionel Hollins — "You didn't quit. You didn't lay down and become a victim. You found a way to get up and keep moving." — Lionel Hollins on the importance of not quitting as a player** [1:03:03](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3783s)
+
+Lionel Hollins: "You didn't quit. You didn't lay down and become a victim. You found a way to get up and keep moving. And I think we're losing that in our society, and we're losing it in basketball. There's a lot of kids, as soon as the game gets down 15, 20, unless they can make threes, they quit. They just flat quit."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3783s
+
+**18. Lionel Hollins — "Every level has the same concept and foundation, fundamentals, playing together, playing hard." — Lionel Hollins on the importance of player resilience** [1:03:34](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3814s)
+
+Lionel Hollins: "Every level has the same concept and foundation, fundamentals, playing together, playing hard. Learn those fundamentals, learn how to teach them, learn how to communicate with your team. And the last thing is, figure out who your players are, both as players and as people. That's important."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3814s
+
+**19. Lionel Hollins — "When you go coaching, you don't know anybody, but you got to find out quick." — Lionel Hollins on the importance of knowing your players** [1:04:14](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3854s)
+
+Lionel Hollins: "When you go coaching, you don't know anybody, but you got to find out quick. And when you go to practice, you got to find out quick who can play. It's like I told somebody this story, Z. I said, we ran, get it in, because we knew they were going to foul. We were ready for you, because I knew you were going to walk up there and make two free throws."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3854s
+
+**20. Lionel Hollins — "It's all about entertainment, how much money can be made." — Lionel Hollins on the NBA as an entertainment business** [1:05:23](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3923s)
+
+Lionel Hollins: "It's all about entertainment, how much money can be made. I mean, look at all the different streaming avenues that the NBA has signed up with. You can watch a game almost anywhere now, but you got to pay for it. And the players all think it's entertainment."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3923s
+
+**21. Lionel Hollins — "I'm not dancing. I'm down 20 points and I make a dunk, I'm not dancing." — Lionel Hollins on the importance of not being a showman** [1:05:49](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3949s)
+
+Lionel Hollins: "I'm not dancing. I'm down 20 points and I make a dunk, I'm not dancing. I'm trying to still get back in the game. But that's the way it is, and you got guys just want to be entertainers. They want the branding and the notoriety and all that stuff."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3949s
+
+**22. Lionel Hollins — "I was quiet, and you know I'm pretty quiet. But when it was competition, I was trying to breathe in their nostrils so they were breathing my air." — Lionel Hollins on his coaching style and intensity** [1:06:32](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3992s)
+
+Lionel Hollins: "I was quiet, and you know I'm pretty quiet. But when it was competition, I was trying to breathe in their nostrils so they were breathing my air."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=3992s
+
+**23. Lionel Hollins — "Don't ever give a player the floor if you think he's upset." — Lionel Hollins on the importance of not giving players the floor** [1:07:54](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=4074s)
+
+Lionel Hollins: "Don't ever give a player the floor if you think he's upset. Okay, I was a part of where they got to duking because somebody called out somebody else. Right. Right, you know, like, no, don't do that. You talk, you do all the talking. Hey, you know, I love you. You don't need to be that way."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=4074s
+
+**24. Lionel Hollins — "Whenever I had a problem with any of you, once I voiced it, it was over. I never held onto a problem." — Lionel Hollins on the importance of not holding onto problems** [1:08:18](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=4098s)
+
+Lionel Hollins: "Whenever I had a problem with any of you, once I voiced it, it was over. I never held onto a problem. And I don't think you guys did either. So we had some guys that might have that played on the team for a while, but for the most part, everybody understood. And I always believe if you're one way all the time, then players can get used to it."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=4098s
+
+**25. Lionel Hollins — "It was one of the best cities in North America, very cosmopolitan city, a lot of nice restaurants, beautiful scenery." — Lionel Hollins on his experience coaching in Vancouver** [1:09:18](https://www.youtube.com/watch?v=h3rW0xcUBF8&t=4158s)
+
+Lionel Hollins: "It was one of the best cities in North America, very cosmopolitan city, a lot of nice restaurants, beautiful scenery. And I enjoyed being there from that perspective, but it was hard because I'm a competitor. We won 15 games the first year and we won 14 the next year."
+
+https://www.youtube.com/watch?v=h3rW0xcUBF8&t=4158s
 
 ---
 
