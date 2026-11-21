@@ -1,0 +1,41 @@
+# Penny Hardaway talks Memphis Tigers DISRESPECTED, Players Playing GTA 6 & Recruiting vs Top Colleges — *Run It Back*
+
+Source: https://www.youtube.com/watch?v=SfROHnTr8qU
+
+_Speakers identified: Chandler Parsons, DeMarcus Cousins, Michelle Beadle, Penny Hardaway_
+
+**1. Penny Hardaway — "I came in with no experience and got a head coaching job, so a lot of guys didn't look upon that as being great." — Penny Hardaway on the challenges of coaching as a former NBA player** [00:14](https://www.youtube.com/watch?v=SfROHnTr8qU&t=14s)
+
+Penny Hardaway: "When you're a former NBA player, you get a lot of flak coming in, especially the way that I did. I came in with no experience and got a head coaching job, so a lot of guys didn't look upon that as being great. Everything that we do as former NBA players on this level, it has to be heightened to the 100th power, honestly, because everything that we're not doing as what a normal college coach would do is going to get frowned upon. So for me, every year, I have the hardest non-conference schedule to try to prove myself as a coach, to try to go out and get a group of young men that are going to believe in and buy in."
+
+https://www.youtube.com/watch?v=SfROHnTr8qU&t=14s
+
+**2. Penny Hardaway — "It took us right out of getting the number one recruiting class because now it's about the money." — How NIL and the transfer portal changed college basketball recruiting** [02:10](https://www.youtube.com/watch?v=SfROHnTr8qU&t=130s)
+
+Penny Hardaway: "I was able to recruit against all the top schools. I was getting the number one recruiting classes just from going out and selling the NBA to all the young guys. When the NIL came into play, it took us right out of getting the number one recruiting class because now it's about the money. We can't compete with P4 schools when it comes to the money. So it definitely changed the dynamics of how I recruited. I was going out to high school guys more back then, now I'm getting older. If you keep hearing **Rick Pitino** talk about, you can't win with young guys, a lot of people are still trying to do that. I respect the high school level, and I'm not saying I won't get freshmen, but it has changed everything from me getting number one recruiting classes to going out and trying to get veterans to mesh together out of a portal, which is extremely hard."
+
+https://www.youtube.com/watch?v=SfROHnTr8qU&t=130s
+
+**3. Penny Hardaway — "The teams that have 20 million or more are getting to mostly the Sweet 16." — The impact of NIL money on NCAA tournament success** [03:06](https://www.youtube.com/watch?v=SfROHnTr8qU&t=186s)
+
+Penny Hardaway: "The highest bidders are making it to the Sweet 16s. The team that have the most money are easily making it to the Sweet 16, so you can't even judge. It's like the top 10 list in the NBA, you're making a new one, you have to continue to talk about how do you get to a Sweet 16. I'm not making any excuses, the teams that have 20 million or more are getting to mostly the Sweet 16. They're not promised to win the championship, but it's getting them past the first and second rounds, so it's definitely changed the dynamics of that as well."
+
+https://www.youtube.com/watch?v=SfROHnTr8qU&t=186s
+
+**4. Penny Hardaway — "They have the talent, but the IQ of the game is struggling a little bit." — Focusing on basketball IQ and conceptual play with Memphis players** [03:58](https://www.youtube.com/watch?v=SfROHnTr8qU&t=238s)
+
+Penny Hardaway: "It's really just talking to them more about the understanding of the game, because that's the one thing that's missing. They have the talent, but the IQ of the game is struggling a little bit in trying to get them to play conceptually, to understand that part of it, and understanding what defenses are going to give us. It's a constant battle every day with communication with the guys, and I'm buying into that, and they're buying in as well. They're listening, and we're having some success."
+
+https://www.youtube.com/watch?v=SfROHnTr8qU&t=238s
+
+**5. Penny Hardaway — "With his length, his size, his speed, I feel like he has number one overall potential." — Penny Hardaway's evaluation of potential top NBA draft pick** [05:02](https://www.youtube.com/watch?v=SfROHnTr8qU&t=302s)
+
+Penny Hardaway: "I just went by what I saw that game, and with his length, his size, his speed, obviously that comes with the IQ part of understanding what you're doing, but just watching him in that game, I feel like he has number one overall potential. I don't know the young man off the court, what he brings off the court, what his personality is, his character is, but his talent is as good as anybody's around the country. So, I thought that about him."
+
+https://www.youtube.com/watch?v=SfROHnTr8qU&t=302s
+
+**6. Penny Hardaway — "It can't overlap watching film and it can't overlap understanding what we're trying to do." — Managing player distractions like GTA 6 during the season** [05:44](https://www.youtube.com/watch?v=SfROHnTr8qU&t=344s)
+
+Penny Hardaway: "I am worried because I have a huge video community, but with my team, I know where they are. I know they'll be at home, they won't be out, so I can handle that part. But it can't overlap watching film and it can't overlap understanding what we're trying to do and our progression as a program. So, I'm okay with them playing GTA or whatever it is, as long as you understand your rules and regulations when it comes to the Tigers."
+
+https://www.youtube.com/watch?v=SfROHnTr8qU&t=344s
