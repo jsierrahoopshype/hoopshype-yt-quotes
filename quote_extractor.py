@@ -1484,6 +1484,110 @@ def _age_skip_reason(published_iso: str) -> str:
     return ""
 
 
+# --------------------------------------------------------------------------- #
+# Clip-of-a-recent-episode skip
+# --------------------------------------------------------------------------- #
+# Podcast channels post the full episode with a guest, then cut it into
+# 10-25 minute clips over the next days ("God Shammgod on ...", "Lionel
+# Hollins on ..."). Each clip was transcribed again and its quotes repeated
+# what the full episode already gave. A video is skipped before any Gemini
+# call when the SAME channel already has a processed video from the last
+# CLIP_WINDOW_DAYS whose guest (a full name in that video's speakers_seen that
+# also appears in its title) is named in this video's title too. Channel
+# hosts are never treated as guests: a name heard on that channel across 14+
+# days is a host. Long videos (CLIP_MAX_SECONDS and up) are never skipped, so
+# a returning guest's new full episode still goes through. One-offs never
+# reach this check.
+CLIP_WINDOW_DAYS = 10
+CLIP_MAX_SECONDS = 40 * 60
+CLIP_HOST_SPAN_DAYS = 14
+CLIP_HOST_LOOKBACK_DAYS = 60
+_clip_index_cache: dict | None = None
+
+
+def _clip_norm(s: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"[^\w\s]", " ", str(s or "").lower())).strip()
+
+
+def _clip_index() -> dict:
+    """{channel name: [{id, date, title, speakers}]} from processed rotation
+    videos on disk (the .md header carries the channel name). Built once per run."""
+    global _clip_index_cache
+    if _clip_index_cache is not None:
+        return _clip_index_cache
+    index: dict = {}
+    header_re = re.compile(r"# (.*) — \*(.*)\*\s*$")
+    try:
+        day_dirs = [p for p in OUTPUT_DIR.iterdir()
+                    if p.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", p.name)]
+    except OSError:
+        day_dirs = []
+    cutoff = (datetime.now(timezone.utc).date()
+              - timedelta(days=CLIP_HOST_LOOKBACK_DAYS + CLIP_WINDOW_DAYS)).isoformat()
+    for day_dir in day_dirs:
+        if day_dir.name < cutoff:
+            continue
+        for md in day_dir.glob("*.md"):
+            if md.name.startswith("digest"):
+                continue
+            js = md.with_suffix(".json")
+            try:
+                first = md.read_text(encoding="utf-8").split("\n", 1)[0]
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            m = header_re.match(first)
+            if not m or not isinstance(data, dict):
+                continue
+            index.setdefault(m.group(2), []).append({
+                "id": md.stem,
+                "date": day_dir.name,
+                "title": m.group(1),
+                "speakers": [s for s in (data.get("speakers_seen") or []) if isinstance(s, str)],
+            })
+    _clip_index_cache = index
+    return index
+
+
+def _clip_of_recent_episode_reason(video: dict, channel: dict) -> str:
+    """'' unless this video looks like a clip of an episode already processed."""
+    try:
+        if int(video.get("duration") or 0) >= CLIP_MAX_SECONDS:
+            return ""
+    except (TypeError, ValueError):
+        return ""
+    entries = _clip_index().get(channel.get("name", ""), [])
+    if not entries:
+        return ""
+    pub = (video.get("published") or "")[:10] or datetime.now(timezone.utc).date().isoformat()
+    try:
+        pub_d = datetime.fromisoformat(pub).date()
+    except ValueError:
+        return ""
+    # Hosts: names heard on this channel across CLIP_HOST_SPAN_DAYS or more.
+    seen_on: dict = {}
+    for e in entries:
+        d = datetime.fromisoformat(e["date"]).date()
+        if 0 <= (pub_d - d).days <= CLIP_HOST_LOOKBACK_DAYS:
+            for s in e["speakers"]:
+                seen_on.setdefault(_clip_norm(s), set()).add(d)
+    hosts = {n for n, ds in seen_on.items() if (max(ds) - min(ds)).days >= CLIP_HOST_SPAN_DAYS}
+    title = _clip_norm(video.get("title"))
+    for e in sorted(entries, key=lambda e: e["date"], reverse=True):
+        if e["id"] == video.get("video_id"):
+            continue
+        age = (pub_d - datetime.fromisoformat(e["date"]).date()).days
+        if not 0 <= age <= CLIP_WINDOW_DAYS:
+            continue
+        e_title = _clip_norm(e["title"])
+        for s in e["speakers"]:
+            n = _clip_norm(s)
+            if len(n.split()) >= 2 and n not in hosts and n in e_title and n in title:
+                return (f"clip of an episode already processed ({e['date']} {e['id']}, "
+                        f"guest '{s}')")
+    return ""
+
+
 def filter_video(video: dict, channel: dict, config: dict) -> str:
     """Return '' if the video should be processed, otherwise a reason string."""
     existing = find_existing_artifact(video["video_id"])
@@ -1514,6 +1618,12 @@ def filter_video(video: dict, channel: dict, config: dict) -> str:
     min_seconds = int(config.get("min_duration_minutes", 5)) * 60
     if duration < min_seconds:
         return f"duration {duration}s below {min_seconds}s minimum"
+
+    # Applies to bypass channels too: Out The Mud and 7PM in Brooklyn are the
+    # channels that post the most clips of their own episodes.
+    clip_reason = _clip_of_recent_episode_reason(video, channel)
+    if clip_reason:
+        return clip_reason
 
     if channel.get("bypass_filters"):
         log(f"  [accept] {video['video_id']} duration={duration}s (bypass channel)")
