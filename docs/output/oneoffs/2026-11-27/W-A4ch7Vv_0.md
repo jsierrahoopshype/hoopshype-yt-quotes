@@ -1,0 +1,65 @@
+# Dwight Howard TELLS ALL | Being No. 1 Pick, Playing With Kobe & More Untold Stories | Full Interview — *Kowch Potatoes Podcast*
+
+Source: https://www.youtube.com/watch?v=W-A4ch7Vv_0
+
+_Speakers identified: Cedric 'CEO' Shephard, Dion 'Glove' Glover, Coach Greg Robinson, Anthony 'Big Ant' Evans, Dwight Howard_
+
+**1. Dwight Howard — "I wouldn't be here without the leadership and guidance because Glove and Ant, that was big." — Dwight Howard on the impact of his early mentors** [01:14](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=74s)
+
+Dwight Howard: "I think of y'all because y'all were really a big reason for why I am who I am today. So I always go back to those moments like, man, I wouldn't be here without the leadership and guidance because Glove and Ant, that was big. Who else? Y'all didn't have to do that. You know what I'm saying? So y'all getting up early and do that, that meant a lot to me and it pushed me to go harder once I got to the NBA knowing that people like you and Coach Prather, Little Wallace, everybody was behind us. You know what I'm saying? So it's like, all right, I got to go hard."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=74s
+
+**2. Dwight Howard — "When Ant had the ball, he was hard to stop because he was big Ant." — Dwight Howard on the difficulty of guarding Anthony 'Big Ant' Evans** [02:42](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=162s)
+
+Dwight Howard: "When Ant had the ball, he was hard to stop because he was big Ant. You know what I'm saying? He was big Ant, hard to stop him. But if he didn't have that basketball, it was over with. It was over with. Barbecue chicken, man. You ain't really stop him, man, especially when I was, no, no, no. You were low, man. You were low."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=162s
+
+**3. Dwight Howard — "They're expecting an 18-year-old to carry themselves as a mature 35-year-old man when they're just leaving high school." — Dwight Howard on the pressure of being the No. 1 NBA draft pick at 18** [06:02](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=362s)
+
+Dwight Howard: "That was very difficult to deal with because I didn't know who to talk to. Who is who is really experienced this situation coming from a small situation like this and then going to be the number one pick that that I was really close to. You know what I'm saying? So I tried to just talk to the organization, but I didn't know who to really talk to in the organization. They're looking at me like, hey, we need you to go out there and hoop. We're not really focused on all that other stuff. So now looking back, I understand that part of it, but they're expecting an 18-year-old to carry themselves as a mature 35-year-old man when they're just leaving high school."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=362s
+
+**4. Dwight Howard — "At first I played with Tony Douglas. I know y'all remember Tony. He had a team and we were Crusaders." — Dwight Howard on his transition to the Boston Celtics** [12:53](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=773s)
+
+Dwight Howard: "At first I played with **Tony Douglas**. I know y'all remember Tony. He had a team and we were Crusaders, Atlanta Crusaders. And I like playing with Tony and then we had an opportunity to play with the Celtics. And my dad was like, it's **Josh Smith**. And I was like, oh man, me and Josh since five years old, we've been we've been growing up together. This going to be crazy to play with Josh. Then we find out about Randolph and I'm like, oh man, I got to play with this team. And so starting from there, 10 all the way up, it was all about the Celtics."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=773s
+
+**5. Dwight Howard — "I wrote it down when I was 10 years old and told my dad I was going to be the number one pick." — Dwight Howard on setting goals at a young age** [14:44](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=884s)
+
+Dwight Howard: "I wrote it down when I was 10 years old and told my dad I was going to be the number one pick in the draft. And that's why I tell my children, anybody, you know, if you have a goal, you have something that you want to reach, write it down, look at it every day, motivate yourself by just your goals, talk to yourself, show other people your goals, show them what you want to where you want to get to in life and go get it."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=884s
+
+**6. Dwight Howard — "I would write down every player that I played against, tendencies, so I would learn each and everybody's tendencies." — Dwight Howard on his approach to studying NBA players** [16:00](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=960s)
+
+Dwight Howard: "Everything I did was based off IQ. In my first couple years, I would write down every player that I played against, tendencies, so I would learn each and everybody's tendencies. And after just that those couple years of doing it, I had everybody locked in to the point where as soon as I see a player, I can know from his body type which how to play him. If he's going to the left, if he's a righty, if he likes just anything, just based off studying. That's how I study players, kind of like a boxer would study a boxing. My IQ level for the game is very high and I just think because I joked around so much, it was kind of devalued."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=960s
+
+**7. Dwight Howard — "The first time you get together with an alpha male on the same team, you're going to bump heads." — Dwight Howard on the challenges of playing with Kobe Bryant** [19:00](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1140s)
+
+Dwight Howard: "I guess it was like like anything. The first time you get together with an alpha male on the same team, you're going to bump heads. And I'm young just going through the situation in Orlando and now I'm playing with the goat, you know what I'm saying? And obviously he going to want a certain thing and I'm going to want a certain thing as far as I want the ball here, he's going to want the ball. So a year is not enough time to really learn each other. So sometimes I look back and say, man, I should have stayed, you know, just so we could have worked it out. One year wasn't enough time."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1140s
+
+**8. Dwight Howard — "I had just came back off having a back surgery and then during the season I tore my labrum." — Dwight Howard on playing through a torn labrum** [22:10](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1330s)
+
+Dwight Howard: "I had just came back off having a back surgery and then during the season I tore my labrum. So I wasn't supposed to play at all that whole season. But I'm like, man, I'm playing with **Kobe Bryant**, this the Lakers, like I might not get this chance again. Let me try to, but it didn't work out and I was like, man, no, I don't know if this is happening. And Kobe wasn't giving me no pass for being injured. Man, no, I got a torn labrum. I got a torn labrum, man. And people have torn labrums, they don't play. I was playing, man. I was playing. Kobe was like, I'm not that injured. I'm like, Kobe, I'm not that injured. Is he the doctor? Like, what? Man, I was so tired. I'm like, there's no way this is happening."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1330s
+
+**9. Dwight Howard — "I was in Washington and that year with Washington was crazy. It was a crazy year." — Dwight Howard on his weight loss and recovery in Washington** [24:45](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1485s)
+
+Dwight Howard: "I was in Washington and that year with Washington was crazy. It was a crazy year. I end up hurting my back and sitting out and I had got up to like 285, 290. I tried to play during that season for some reason. My back was just it was it was really messed up but again, I'm trying to prove myself. So this is how really how bad it was. I could not tie my own shoes. Somebody had to put on my socks before the game. One of the trainers is actually putting on my socks and shoes because I could not bend down and put on my socks and shoes. So I should have not been playing if I can't do this."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1485s
+
+**10. Dwight Howard — "The first set is 50 pounds, you do 190. The second set was 70 pounds and then we had to do 200." — Dwight Howard on his workout routine** [27:54](https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1674s)
+
+Dwight Howard: "First of all, the first set is 50 pounds, you do 190. The second set was 70 pounds and then we had to do 200. Then he put the whole 100 on there and we had to do 150 again or 175, one of those. And so after we did each set, so after we do the 200, we had to do 35 push-ups. And then if you stop, it's a penalty. And then you got to do 40 burpees or something. And then you got to do 25 more push-ups. So you can't stop and when you get up, you got to push yourself all the way up. It's a prison."
+
+https://www.youtube.com/watch?v=W-A4ch7Vv_0&t=1674s
